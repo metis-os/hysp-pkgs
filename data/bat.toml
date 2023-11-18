@@ -9,7 +9,7 @@ name = "John Doe"
 email = "johndoe@example.com"
 
 [source]
-url = "https://github.com/bytehunt/seren-pkgs/"
+url = "https://github.com/bytehunt/seren-pkgs/raw/main/packages/bat"
 
 [bin]
 path = "~/.local/share/seren/bin"
