@@ -12,5 +12,5 @@ email = "johndoe@example.com"
 url = "https://github.com/bytehunt/seren-pkgs/raw/main/packages/bat"
 
 [bin]
-binary-name = "bat"
-
+binaryName = "bat"
+ = "bat"
