@@ -13,3 +13,9 @@ url = "https://github.com/bytehunt/seren-pkgs/raw/main/packages/bat"
 
 [bin]
 binary_name = "bat"
+
+dependencies = ["rust"]
+conflicts = ["bat"]
+
+keywords = ["sample", "demonstration", "rust"]
+categories = ["Utilities", "Development"]
