@@ -5,17 +5,18 @@ description = "A sample package for demonstration purposes"
 license = "MIT"
 
 [maintainer]
-name = "John Doe"
-email = "johndoe@example.com"
+name = "Nabeen Tiwaree"
+email = "hey@pwnwriter.xyz"
 
 [source]
 url = "https://github.com/bytehunt/seren-pkgs/raw/main/packages/bat"
 
 [bin]
-binary_name = "bat"
+name = "bat"  # Name of the binary executable
 
-dependencies = ["rust"]
-conflicts = ["bat"]
+[dependencies]
+rust = "x.x.x"  # Replace x.x.x with the specific Rust version
 
+[package.metadata]
 keywords = ["sample", "demonstration", "rust"]
 categories = ["Utilities", "Development"]
