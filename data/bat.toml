@@ -19,7 +19,7 @@ dependencies = [ "rust", "go" ]  # Example dependency entry
 conflicts  = [ "cat", "ls"  ] # Example conflict entry
 
 [package.metadata]
-hash = ["88bc8ebd6fb5f16490af801f4f09adcb6b6014c29ec7750e07874c6a38ca2da3"] # Optional
+hash = ["57f8c02b16eefe47cc099336f43c3f5e491c34bd446c9b32f33c9da29adebd5d"] # Optional b3sum
 keywords = ["sample", "demonstration", "rust"] # Optional
 categories = ["Utilities", "Development"] # Needed
 
