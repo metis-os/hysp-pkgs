@@ -13,4 +13,3 @@ url = "https://github.com/bytehunt/seren-pkgs/raw/main/packages/bat"
 
 [bin]
 binaryName = "bat"
- = "bat"
