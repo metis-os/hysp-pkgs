@@ -1,0 +1,17 @@
+[package]
+name = "test"
+version = "0.1.0"
+description = "A sample package for demonstration purposes"
+license = "MIT"
+
+[maintainer]
+name = "John Doe"
+email = "johndoe@example.com"
+
+[source]
+url = "https://github.com/bytehunt/seren-pkgs"
+
+[bin]
+binary-name = "test"
+path = "~/.local/share/seren/bin"
+
