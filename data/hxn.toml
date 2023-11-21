@@ -10,8 +10,7 @@ name = "Nabeen Tiwaree"
 email = "hey@pwnwriter.xyz"
 
 [source]
-url = "https://github.com/bytehunt/seren-pkgs/raw/main/pkgs/hxn"
-
+url = "https://github.com/metis-os/hysp-pkgs/raw/main/pkgs/hxn"
 
 [bin]
 name = "hxn"  
