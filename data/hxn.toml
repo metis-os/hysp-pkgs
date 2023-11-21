@@ -11,6 +11,7 @@ email = "hey@pwnwriter.xyz"
 [source]
 url = "https://github.com/bytehunt/seren-pkgs/raw/main/pkgs/hxn"
 
+
 [bin]
 name = "hxn"  
 
