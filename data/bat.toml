@@ -3,6 +3,7 @@ name = "bat"
 version = "0.1.0"
 description = "A sample package for demonstration purposes"
 license = "MIT"
+size = "5.3M"
 
 [maintainer]
 name = "Nabeen Tiwaree" #Maintainer infos

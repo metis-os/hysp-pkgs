@@ -3,6 +3,7 @@ name = "hxn"
 version = "0.1.9"
 description = "Take screenshots of websites from terminal"
 license = "MIT"
+size = "12M"
 
 [maintainer]
 name = "Nabeen Tiwaree"
