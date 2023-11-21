@@ -1,0 +1,26 @@
+[package]
+name = "foo"
+version = "x.y.z"
+description = "A sample package for demonstration purposes"
+license = "bar"
+size = "x.yM"
+
+[maintainer]
+name = "foo " #Maintainer infos
+email = "foo@bar.com"
+
+[source]
+url = "https://github.com/bytehunt/seren-pkgs/raw/main/pkgs/foo" # Binary url
+
+[bin]
+name = "foo"  # Name of the binary executable
+
+[package.conditions]
+conflicts  = [ "foo"  ] # Example conflict entry
+dependencies = [ "foo" ]  # Example dependency entry
+
+[package.metadata]
+hash = "57f8c02b16eefe47cc099336f43c3f5e491c34bd446c9b32f33c9da29adebd5d" # Optional b3sum
+keywords = ["sample", "demonstration", "rust"] # Optional
+categories = ["Utilities", "Development"] # Needed
+

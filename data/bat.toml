@@ -1,26 +1,24 @@
 [package]
 name = "bat"
-version = "0.1.0"
-description = "A sample package for demonstration purposes"
+version = "0.24.0"
+description = "A cat(1) clone with wings."
 license = "MIT"
 size = "5.3M"
 
 [maintainer]
-name = "Nabeen Tiwaree" #Maintainer infos
+name = "Nabeen Tiwaree" 
 email = "hey@pwnwriter.xyz"
 
 [source]
-url = "https://github.com/bytehunt/seren-pkgs/raw/main/pkgs/bat" # Binary url
+url = "https://github.com/bytehunt/seren-pkgs/raw/main/pkgs/bat"
 
 [bin]
-name = "bat"  # Name of the binary executable
+name = "bat"  
 
 [package.conditions]
-conflicts  = [ "bat"  ] # Example conflict entry
-dependencies = [ "rustc" ]  # Example dependency entry
+conflicts  = [ "bat"  ] 
 
 [package.metadata]
-hash = "57f8c02b16eefe47cc099336f43c3f5e491c34bd446c9b32f33c9da29adebd5d" # Optional b3sum
 keywords = ["sample", "demonstration", "rust"] # Optional
 categories = ["Utilities", "Development"] # Needed
 
