@@ -1,0 +1,11 @@
+[[packages]]
+name = "bat"
+binary_size = "5.3M"
+maintainer = "Nabeen Tiwaree"
+email = "hey@pwnwriter.xyz"
+
+[[packages]]
+name = "hxn"
+binary_size = "12M"
+maintainer = "Nabeen Tiwaree"
+email = "hey@pwnwriter.xyz"
