@@ -24,9 +24,8 @@ jobs:
 
       - name: Update available.toml
         run: |
-          ./hysp-pkg-updater
+          ./hysp-pkg-updater && rm hysp-pkg-updater 
           mv available-bk.toml available.toml
-          pwd
 
       - name: Clean up downloaded files
         run: |
