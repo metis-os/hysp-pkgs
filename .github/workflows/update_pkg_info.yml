@@ -1,0 +1,36 @@
+name: Update Available TOML
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_available_toml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up hysp-pkg-updater
+        run: |
+          if ! command -v aria2c &>/dev/null; then
+              sudo apt update
+              sudo apt install -y aria2
+          fi
+          wget https://github.com/metis-os/hysp-pkg-updater/releases/download/v0.1.0/hysp-pkg-updater-0.1.0-x86_64-unknown-linux-gnu.tar.gz
+          tar -xvf hysp-pkg-updater-0.1.0-x86_64-unknown-linux-gnu.tar.gz
+          chmod +x hysp-pkg-updater
+
+      - name: Update available.toml
+        run: |
+          ./hysp-pkg-updater
+          mv available-bk.toml available.toml
+          pwd
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update available.toml using hysp-pkg-updater"
+          git push
