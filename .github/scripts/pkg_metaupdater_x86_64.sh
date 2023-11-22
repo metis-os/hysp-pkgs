@@ -19,6 +19,9 @@
 #     gsub(/\$STARS/, STARS); gsub(/\$PKG_VERSION/, PKG_VERSION); gsub(/\$PKG_RELEASED/, PKG_RELEASED); \
 #     gsub(/\$SIZE/, SIZE); gsub(/\$SHA/, SHA); gsub(/\$SOURCE/, SOURCE); gsub(/\$LANGUAGE/, LANGUAGE); \
 #     gsub(/\$LICENSE/, LICENSE); gsub(/\$TOPICS/, TOPICS); print}'
+# Cleanup
+# unset BIN REPO SOURCE_BIN PKG_METADATA REPO_METADATA RELEASE_METADATA SOURCE_URL
+# unset NAME AUTHOR DESCRIPTION LANGUAGE LICENSE LAST_UPDATED PKG_VERSION PKG_RELEASED REPO_URL SIZE SHA SOURCE_URL STARS TOPICS
 
 #Sanity Check
 if [ ! -s "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" ]; then
@@ -26,7 +29,6 @@ if [ ! -s "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" ]; then
    curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/x86_64/SAMPLE_SPEC.toml" -o "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
    chmod +xwr "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
 fi
-
 #Edit
 awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL="$REPO_URL" -v STARS="$STARS" -v PKG_VERSION="$PKG_VERSION" -v PKG_RELEASED="$PKG_RELEASED" -v SIZE="$SIZE" -v SHA="$SHA" -v SOURCE_URL="$SOURCE_URL" -v LANGUAGE="$LANGUAGE" -v LICENSE="$LICENSE" -v TOPICS="$TOPICS" '{gsub(/name = .*/, "name = \"" BIN "\""); \
       gsub(/description = .*/, "description = \"" DESCRIPTION "\""); \
@@ -44,6 +46,6 @@ awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL=
       gsub(/keywords = .*/, "keywords = " TOPICS); \
       print }' "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" | envsubst | sponge "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
 #Print
-echo -e "\n\n" && cat "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" && echo -e "\n\n"    
+echo -e "\n [+] $GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml\n" && cat "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" && echo -e "\n"    
 # Sample Spec : https://github.com/metis-os/hysp-pkgs/blob/main/data/x86_64/SAMPLE_SPEC.toml
 #EOF
