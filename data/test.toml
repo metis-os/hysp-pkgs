@@ -1,0 +1,20 @@
+[package]
+
+[maintainer]
+name = "Nabeen Tiwaree"
+email = "hey@pwnwriter.xyz"
+
+[source]
+url = "https://github.com/metis-os/hysp-pkgs/raw/main/pkgs/test"
+
+[bin]
+name = "hxn"  
+
+[package.conditions]
+conflicts  = [ "hxn"] 
+
+[package.metadata]
+hash = "50c6e5755fcd3e0d4fc18a45664dd3535b6d48a28988bde83e1d5c8a5d0705f7"
+keywords = ["sample", "demonstration", "rust"] 
+categories = ["Utilities", "Development", "bug-bounty"] 
+
