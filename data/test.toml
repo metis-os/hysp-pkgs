@@ -1,4 +1,9 @@
 [package]
+name = ""
+version = ""
+description = ""
+license = ""
+size = ""
 
 [maintainer]
 name = "Nabeen Tiwaree"
