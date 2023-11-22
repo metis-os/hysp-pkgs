@@ -19,7 +19,8 @@ jobs:
           fi
           wget https://github.com/metis-os/hysp-pkg-updater/releases/download/v0.1.0/hysp-pkg-updater-0.1.0-x86_64-unknown-linux-gnu.tar.gz
           tar -xvf hysp-pkg-updater-0.1.0-x86_64-unknown-linux-gnu.tar.gz
-          chmod +x hysp-pkg-updater
+          chmod +x hysp-pkg-updater-0.1.0/hysp-pkg-updater
+          mv hysp-pkg-updater-0.1.0/hysp-pkg-updater .
 
       - name: Update available.toml
         run: |
