@@ -43,5 +43,7 @@ awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL=
       gsub(/url = .*/, "source = \"" SOURCE_URL "\""); \
       gsub(/keywords = .*/, "keywords = " TOPICS); \
       print }' "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" | envsubst | sponge "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
+#Print
+echo -e "\n\n" && cat "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" && echo -e "\n\n"    
 # Sample Spec : https://github.com/metis-os/hysp-pkgs/blob/main/data/x86_64/SAMPLE_SPEC.toml
 #EOF
