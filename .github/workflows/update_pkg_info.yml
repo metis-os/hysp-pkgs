@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add available.toml
-          git commit -m "chore(available): updated available.toml thx hysp-pkg-updater"
-          git push
+          git add . 
+          git commit -am "chore(available): updated available.toml thx hysp-pkg-updater"
+          git push --force
 
