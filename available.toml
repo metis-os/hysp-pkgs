@@ -2,30 +2,28 @@
 name = "bat"
 binary_size = "5.3M"
 maintainer = "Nabeen Tiwaree"
-version = "0.24.0"
 email = "hey@pwnwriter.xyz"
 description = "A cat(1) clone with wings."
+version = "0.24.0"
 homepage = "https://github.com/sharkdp/bat"
 license = "Apache-2.0, MIT licenses found"
-
 
 [[packages]]
 name = "hxn"
 binary_size = "12M"
 maintainer = "Nabeen Tiwaree"
-version = "0.1.9"
 email = "hey@pwnwriter.xyz"
 description = "Take websites screenshots from terminal"
+version = "0.1.9"
 homepage = "https://github.com/pwnwriter/haylxon"
 license = "MIT"
-
 
 [[packages]]
 name = "test"
 binary_size = " "
 maintainer = " "
-version = " "
-email = ""
+email = "bot@hysp-noreply.com"
 description = " "
+version = " "
 homepage = " "
 license = " "
