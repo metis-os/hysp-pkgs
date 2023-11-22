@@ -18,3 +18,14 @@ email = "hey@pwnwriter.xyz"
 description = "Take websites screenshots from terminal"
 homepage = "https://github.com/pwnwriter/haylxon"
 license = "MIT"
+
+
+[[packages]]
+name = "test"
+binary_size = " "
+maintainer = " "
+version = " "
+email = ""
+description = " "
+homepage = " "
+license = " "
