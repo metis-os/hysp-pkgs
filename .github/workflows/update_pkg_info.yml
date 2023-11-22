@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours, at the start of the hour
 
 jobs:
   update_available_toml:
