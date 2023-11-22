@@ -17,7 +17,7 @@ jobs:
               sudo apt update
               sudo apt install -y aria2
           fi
-          wget https://github.com/metis-os/hysp-pkg-updater/releases/download/v0.1.0/hysp-pkg-updater-0.1.0-x86_64-unknown-linux-gnu.tar.gz
+          aria2c https://github.com/metis-os/hysp-pkg-updater/releases/download/v0.1.0/hysp-pkg-updater-0.1.0-x86_64-unknown-linux-gnu.tar.gz
           tar -xvf hysp-pkg-updater-0.1.0-x86_64-unknown-linux-gnu.tar.gz
           chmod +x hysp-pkg-updater-0.1.0/hysp-pkg-updater
           mv hysp-pkg-updater-0.1.0/hysp-pkg-updater .
@@ -28,10 +28,15 @@ jobs:
           mv available-bk.toml available.toml
           pwd
 
+      - name: Clean up downloaded files
+        run: |
+          rm -rf hysp-pkg-updater-0.1.0*
+          
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update available.toml using hysp-pkg-updater"
+          git add available.toml
+          git commit -m "chore(available): updated available.toml thx hysp-pkg-updater"
           git push
+
