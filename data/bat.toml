@@ -3,7 +3,6 @@ name = "bat"
 version = "0.24.0"
 description = "A cat(1) clone with wings."
 license = "MIT"
-size = "5.3M"
 
 [maintainer]
 name = "Nabeen Tiwaree" 
