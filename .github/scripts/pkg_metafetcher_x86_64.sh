@@ -60,3 +60,9 @@ echo -e "[+] License: $LICENSE"
 echo -e "[+] Last Commit: $LAST_UPDATED"
 echo -e "\n\n"
 #EOF
+
+#Sanity Checks for updater
+if [[ -n "$GITHUB_WORKSPACE" ]]; then
+   # Run
+   bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metaupdater_x86_64.sh")
+fi
