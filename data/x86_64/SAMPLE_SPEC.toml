@@ -1,0 +1,27 @@
+[bin]
+name = "$BIN"
+
+[source]
+url = "$SOURCE_URL"
+
+[package]
+architecture = "x86_64"
+name = "$BIN"
+description = "$DESCRIPTION"
+author = "$AUTHOR"
+repo = "$REPO_URL"
+stars = "$STARS"
+version = "$PKG_VERSION"
+updated = "$PKG_RELEASED"
+size = "$SIZE"
+sha = "$SHA"
+source = "$SOURCE_URL"
+language = "$LANGUAGE"
+license = "$LICENSE"
+
+[package.conditions]
+conflicts  = ["$BIN"]
+
+[package.metadata]
+keywords = $TOPICS
+categories = ["Utilities"]
