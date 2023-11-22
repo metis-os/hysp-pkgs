@@ -19,6 +19,15 @@
 #     gsub(/\$STARS/, STARS); gsub(/\$PKG_VERSION/, PKG_VERSION); gsub(/\$PKG_RELEASED/, PKG_RELEASED); \
 #     gsub(/\$SIZE/, SIZE); gsub(/\$SHA/, SHA); gsub(/\$SOURCE/, SOURCE); gsub(/\$LANGUAGE/, LANGUAGE); \
 #     gsub(/\$LICENSE/, LICENSE); gsub(/\$TOPICS/, TOPICS); print}'
+
+#Sanity Check
+if [ ! -s "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" ]; then
+   #Get the sample
+   curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/x86_64/SAMPLE_SPEC.toml" -o "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
+   chmod +xwr "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
+fi
+
+#Edit
 awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL="$REPO_URL" -v STARS="$STARS" -v PKG_VERSION="$PKG_VERSION" -v PKG_RELEASED="$PKG_RELEASED" -v SIZE="$SIZE" -v SHA="$SHA" -v SOURCE_URL="$SOURCE_URL" -v LANGUAGE="$LANGUAGE" -v LICENSE="$LICENSE" -v TOPICS="$TOPICS" '{gsub(/name = .*/, "name = \"" BIN "\""); \
       gsub(/description = .*/, "description = \"" DESCRIPTION "\""); \
       gsub(/author = .*/, "author = \"" AUTHOR "\""); \
