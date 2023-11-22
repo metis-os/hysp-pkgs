@@ -39,7 +39,7 @@ REPO_URL="$(echo $REPO_METADATA | jq -r '.html_url')" && export REPO_URL="$REPO_
 SIZE="$(echo $PKG_METADATA | jq -r '.size' | awk '{printf "%.2f MB\n", $1 / (1024 * 1024)}')" && export SIZE="$SIZE"
 SHA="$(echo $PKG_METADATA | jq -r '.sha')" && export SHA="$SHA"
 SOURCE_URL="$(echo $PKG_METADATA | jq -r '.download_url')" && export SOURCE_URL="$SOURCE_URL"
-STARS="$(echo $REPO_METADATA | jq -r '.stargazers_count')" && STARS="$STARS"
+STARS="$(echo $REPO_METADATA | jq -r '.stargazers_count')" && export STARS="$STARS"
 TOPICS="$(echo "$REPO_METADATA" | jq -c -r '.topics')" && export TOPICS="$TOPICS"
 
 #Print for sanity
@@ -66,3 +66,4 @@ if [[ -n "$GITHUB_WORKSPACE" ]]; then
    # Run
    bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metaupdater_x86_64.sh")
 fi
+#EOF
