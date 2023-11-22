@@ -10,6 +10,7 @@
 ##Usage: 
 # Actions: BIN="$BIN" REPO="$REPO" SOURCE_BIN="Azathothas/Toolpacks" bash "$GITHUB_WORKSPACE/main/.github/scripts/pkg_metafetcher_x86_64.sh"
 # General: BIN="$BIN" REPO="$REPO" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+#List all available $BIN: curl -qfsSL "https://api.github.com/repos/Azathothas/Toolpacks/contents/x86_64" | jq -r '.[].name' | grep -iv '.md$' | sort -u 
 
 #Sanity Checks for token
 if [[ -z "$GITHUB_TOKEN" ]]; then
