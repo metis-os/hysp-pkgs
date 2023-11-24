@@ -2058,7 +2058,8 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Check
-           for file in "$GITHUB_WORKSPACE/main/data/x86_64" ; do [ -f "$file" ] && validtoml --quiet "$file"; done
+           #for file in "$GITHUB_WORKSPACE/main/data/x86_64" ; do [ -f "$file" ] && validtoml --quiet "$file"; done
+           find "$GITHUB_WORKSPACE/main/data/x86_64" -type f -name '*.toml' -exec validtoml --quiet {} \; 2>/dev/null
         continue-on-error: true
         
       - name: Get DateTime
