@@ -21,6 +21,7 @@ license = "Other"
 
 [package.conditions]
 conflicts  = ["amass"]
+requires = []
 
 [package.metadata]
 keywords = ["attack-surfaces","dns","enumeration","go","golang","information-gathering","maltego","network-security","osint","osint-reconnaissance","owasp","recon","subdomain"]
