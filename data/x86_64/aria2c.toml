@@ -7,7 +7,7 @@ source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ari
 [package]
 architecture = "x86_64"
 name = "aria2c"
-description = "aria2 is a lightweight multi-protocol description = "aria2 is a lightweight multi-protocol description = "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink." multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink." multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink."
+description = ""
 author = "aria2"
 repo = "https://github.com/aria2/aria2"
 stars = "31964"
@@ -21,6 +21,7 @@ license = "GNU General Public License v2.0"
 
 [package.conditions]
 conflicts  = ["aria2c"]
+requires = []
 
 [package.metadata]
 keywords = ["bittorrent","cpp11","download","ftp","http","metalink","rpc","sftp"]
