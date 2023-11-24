@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+#Debug
+set -x
+
 ##Usage: 
 # Actions: BIN="$BIN" REPO="$REPO" SOURCE_BIN="Azathothas/Toolpacks" bash "$GITHUB_WORKSPACE/main/.github/scripts/pkg_metafetcher_x86_64.sh"
 # bash "$GITHUB_WORKSPACE/main/.github/scripts/pkg_metaupdater_x86_64.sh"
