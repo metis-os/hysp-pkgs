@@ -21,5 +21,5 @@ conflicts  = ["hakrawler"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,crawling,hacking,osint,pentesting,recon,reconnaissance]
+keywords = ["bugbounty","crawling","hacking","osint","pentesting","recon","reconnaissance"]
 categories = ["Utilities"]

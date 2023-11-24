@@ -21,5 +21,5 @@ conflicts  = ["recollapse"]
 requires = []
 
 [package.metadata]
-keywords = [fuzzing,hacking-tools,normalization,regex,waf-bypass]
+keywords = ["fuzzing","hacking-tools","normalization","regex","waf-bypass"]
 categories = ["Utilities"]

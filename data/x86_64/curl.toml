@@ -21,5 +21,5 @@ conflicts  = ["curl"]
 requires = []
 
 [package.metadata]
-keywords = [c,client,curl,ftp,gopher,hacktoberfest,http,https,imaps,ldap,libcurl,library,mqtt,pop3,scp,sftp,transfer-data,transferring-data,user-agent,websocket]
+keywords = ["c","client","curl","ftp","gopher","hacktoberfest","http","https","imaps","ldap","libcurl","library","mqtt","pop3","scp","sftp","transfer-data","transferring-data","user-agent","websocket"]
 categories = ["Utilities"]

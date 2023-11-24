@@ -21,5 +21,5 @@ conflicts  = ["subfinder"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,hacking,osint,reconnaissance,subdomain-enumeration,subdomains]
+keywords = ["bugbounty","hacking","osint","reconnaissance","subdomain-enumeration","subdomains"]
 categories = ["Utilities"]

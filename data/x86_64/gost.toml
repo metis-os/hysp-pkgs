@@ -7,7 +7,7 @@ name = "gost"
 description = "GO Simple Tunnel - a simple tunnel written in golang"
 author = "ginuerzh"
 repo = "https://github.com/ginuerzh/gost"
-stars = "14253"
+stars = "14254"
 version = "v2.11.5"
 updated = "2023-01-20T06:46:05Z"
 size = "12.95 MB"
@@ -21,5 +21,5 @@ conflicts  = ["gost"]
 requires = []
 
 [package.metadata]
-keywords = [dns,go,golang,http2,kcp,obfs4,quic,shadowsocks,sni,socks5,ssh,tls,tunnel,tuntap,udp]
+keywords = ["dns","go","golang","http2","kcp","obfs4","quic","shadowsocks","sni","socks5","ssh","tls","tunnel","tuntap","udp"]
 categories = ["Utilities"]

@@ -21,5 +21,5 @@ conflicts  = ["gitui"]
 requires = []
 
 [package.metadata]
-keywords = [async,bash,command-line-interface,command-line-tool,git,hacktoberfest,rust,terminal,tui]
+keywords = ["async","bash","command-line-interface","command-line-tool","git","hacktoberfest","rust","terminal","tui"]
 categories = ["Utilities"]

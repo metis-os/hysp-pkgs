@@ -21,5 +21,5 @@ conflicts  = ["nerdctl"]
 requires = []
 
 [package.metadata]
-keywords = [containerd]
+keywords = ["containerd"]
 categories = ["Utilities"]

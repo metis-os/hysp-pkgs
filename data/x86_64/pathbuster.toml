@@ -21,5 +21,5 @@ conflicts  = ["pathbuster"]
 requires = []
 
 [package.metadata]
-keywords = [bug-bounty,path-normalization,rust,url-filter-bypass]
+keywords = ["bug-bounty","path-normalization","rust","url-filter-bypass"]
 categories = ["Utilities"]

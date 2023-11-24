@@ -21,5 +21,5 @@ conflicts  = ["gorilla"]
 requires = []
 
 [package.metadata]
-keywords = [cracking,hash,hashcat,infosec,johntheripper,security]
+keywords = ["cracking","hash","hashcat","infosec","johntheripper","security"]
 categories = ["Utilities"]

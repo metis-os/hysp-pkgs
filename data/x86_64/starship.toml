@@ -7,7 +7,7 @@ name = "starship"
 description = "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
 author = "starship"
 repo = "https://github.com/starship/starship"
-stars = "37711"
+stars = "37709"
 version = "v1.16.0"
 updated = "2023-07-30T13:48:25Z"
 size = "9.09 MB"
@@ -21,5 +21,5 @@ conflicts  = ["starship"]
 requires = []
 
 [package.metadata]
-keywords = [bash,fish,fish-prompt,fish-theme,oh-my-zsh,powershell,rust,shell-prompt,starship,zsh,zsh-prompt,zsh-theme]
+keywords = ["bash","fish","fish-prompt","fish-theme","oh-my-zsh","powershell","rust","shell-prompt","starship","zsh","zsh-prompt","zsh-theme"]
 categories = ["Utilities"]

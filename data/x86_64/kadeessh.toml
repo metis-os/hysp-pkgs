@@ -21,5 +21,5 @@ conflicts  = ["kadeessh"]
 requires = []
 
 [package.metadata]
-keywords = [authentication,caddy,go,openssh,ssh,ssh-server]
+keywords = ["authentication","caddy","go","openssh","ssh","ssh-server"]
 categories = ["Utilities"]

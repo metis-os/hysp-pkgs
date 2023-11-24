@@ -21,5 +21,5 @@ conflicts  = ["containerd"]
 requires = []
 
 [package.metadata]
-keywords = [cncf,containerd,containers,cri,docker,hacktoberfest,kubernetes,oci]
+keywords = ["cncf","containerd","containers","cri","docker","hacktoberfest","kubernetes","oci"]
 categories = ["Utilities"]

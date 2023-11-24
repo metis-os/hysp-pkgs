@@ -21,5 +21,5 @@ conflicts  = ["ppfuzz"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,bugbounty-tool,bugbountytips,chromium,prototype-pollution,rust,rust-tools,security,security-tools,vulnerability-scanners]
+keywords = ["bugbounty","bugbounty-tool","bugbountytips","chromium","prototype-pollution","rust","rust-tools","security","security-tools","vulnerability-scanners"]
 categories = ["Utilities"]

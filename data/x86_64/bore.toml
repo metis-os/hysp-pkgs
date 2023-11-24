@@ -21,5 +21,5 @@ conflicts  = ["bore"]
 requires = []
 
 [package.metadata]
-keywords = [cli,localhost,networking,proxy,rust,self-hosted,tcp,tunnel]
+keywords = ["cli","localhost","networking","proxy","rust","self-hosted","tcp","tunnel"]
 categories = ["Utilities"]

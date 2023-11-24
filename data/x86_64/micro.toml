@@ -21,5 +21,5 @@ conflicts  = ["micro"]
 requires = []
 
 [package.metadata]
-keywords = [command-line,cross-platform,editor,go,golang,micro,terminal,text-editor]
+keywords = ["command-line","cross-platform","editor","go","golang","micro","terminal","text-editor"]
 categories = ["Utilities"]

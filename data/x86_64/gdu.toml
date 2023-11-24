@@ -21,5 +21,5 @@ conflicts  = ["gdu"]
 requires = []
 
 [package.metadata]
-keywords = [cli,disk-usage,filesystem,golang,hacktoberfest]
+keywords = ["cli","disk-usage","filesystem","golang","hacktoberfest"]
 categories = ["Utilities"]

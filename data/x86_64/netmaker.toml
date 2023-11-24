@@ -21,5 +21,5 @@ conflicts  = ["netmaker"]
 requires = []
 
 [package.metadata]
-keywords = [cloud,devsecops,k8s,kubernetes,mesh,network,networking,security,self-hosted,virtual-network,virtual-networking,vpn,vpn-server,wg-quick,wireguard,wireguard-ui,wireguard-vpn,zero-trust]
+keywords = ["cloud","devsecops","k8s","kubernetes","mesh","network","networking","security","self-hosted","virtual-network","virtual-networking","vpn","vpn-server","wg-quick","wireguard","wireguard-ui","wireguard-vpn","zero-trust"]
 categories = ["Utilities"]

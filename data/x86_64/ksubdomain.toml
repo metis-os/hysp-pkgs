@@ -21,5 +21,5 @@ conflicts  = ["ksubdomain"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,hacker-tools,subdomain]
+keywords = ["bugbounty","hacker-tools","subdomain"]
 categories = ["Utilities"]

@@ -21,5 +21,5 @@ conflicts  = ["vopono"]
 requires = []
 
 [package.metadata]
-keywords = [hacktoberfest,mullvad,openvpn,rust,rust-lang,wireguard]
+keywords = ["hacktoberfest","mullvad","openvpn","rust","rust-lang","wireguard"]
 categories = ["Utilities"]

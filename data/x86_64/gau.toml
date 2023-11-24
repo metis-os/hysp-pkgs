@@ -21,5 +21,5 @@ conflicts  = ["gau"]
 requires = []
 
 [package.metadata]
-keywords = [alienvault,gau,hacktoberfest,security,wayback-machine]
+keywords = ["alienvault","gau","hacktoberfest","security","wayback-machine"]
 categories = ["Utilities"]

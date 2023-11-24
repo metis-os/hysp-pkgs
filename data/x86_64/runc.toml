@@ -21,5 +21,5 @@ conflicts  = ["runc"]
 requires = []
 
 [package.metadata]
-keywords = [containers,docker,oci]
+keywords = ["containers","docker","oci"]
 categories = ["Utilities"]

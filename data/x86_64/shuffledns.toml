@@ -21,5 +21,5 @@ conflicts  = ["shuffledns"]
 requires = []
 
 [package.metadata]
-keywords = [dns,dns-bruteforcer,dns-resolution,dns-resolver,hacktoberfest,massdns,reconnaissance,subdomain-bruteforcing]
+keywords = ["dns","dns-bruteforcer","dns-resolution","dns-resolver","hacktoberfest","massdns","reconnaissance","subdomain-bruteforcing"]
 categories = ["Utilities"]

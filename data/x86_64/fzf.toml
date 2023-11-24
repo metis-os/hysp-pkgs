@@ -21,5 +21,5 @@ conflicts  = ["fzf"]
 requires = []
 
 [package.metadata]
-keywords = [bash,cli,fish,fzf,go,neovim,tmux,unix,vim,zsh]
+keywords = ["bash","cli","fish","fzf","go","neovim","tmux","unix","vim","zsh"]
 categories = ["Utilities"]

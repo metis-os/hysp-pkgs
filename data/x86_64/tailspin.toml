@@ -21,5 +21,5 @@ conflicts  = ["tailspin"]
 requires = []
 
 [package.metadata]
-keywords = [colorizer,colors,file,follow,highlighter,less,log,log-file,logfile,syntax-highlighting,tail]
+keywords = ["colorizer","colors","file","follow","highlighter","less","log","log-file","logfile","syntax-highlighting","tail"]
 categories = ["Utilities"]

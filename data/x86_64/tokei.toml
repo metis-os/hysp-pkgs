@@ -21,5 +21,5 @@ conflicts  = ["tokei"]
 requires = []
 
 [package.metadata]
-keywords = [badge,cli,cloc,code,command-line-tool,linux,macos,rust,sloc,statistics,tokei,windows]
+keywords = ["badge","cli","cloc","code","command-line-tool","linux","macos","rust","sloc","statistics","tokei","windows"]
 categories = ["Utilities"]

@@ -7,7 +7,7 @@ name = "nuclei"
 description = "Fast and customizable vulnerability scanner based on simple YAML based DSL."
 author = "projectdiscovery"
 repo = "https://github.com/projectdiscovery/nuclei"
-stars = "15480"
+stars = "15481"
 version = "v3.0.4"
 updated = "2023-11-18T09:21:26Z"
 size = "68.32 MB"
@@ -21,5 +21,5 @@ conflicts  = ["nuclei"]
 requires = []
 
 [package.metadata]
-keywords = [attack-surface,cve-scanner,hacktoberfest,nuclei-engine,security,security-scanner,subdomain-takeover,vulnerability-assessment,vulnerability-detection,vulnerability-scanner]
+keywords = ["attack-surface","cve-scanner","hacktoberfest","nuclei-engine","security","security-scanner","subdomain-takeover","vulnerability-assessment","vulnerability-detection","vulnerability-scanner"]
 categories = ["Utilities"]

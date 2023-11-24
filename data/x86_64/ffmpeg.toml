@@ -21,5 +21,5 @@ conflicts  = ["ffmpeg"]
 requires = []
 
 [package.metadata]
-keywords = [audio,c,ffmpeg,fft,hevc,hls,matroska,mp4,mpeg,multimedia,rtmp,rtsp,streaming,video,webm]
+keywords = ["audio","c","ffmpeg","fft","hevc","hls","matroska","mp4","mpeg","multimedia","rtmp","rtsp","streaming","video","webm"]
 categories = ["Utilities"]

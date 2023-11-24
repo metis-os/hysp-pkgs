@@ -21,5 +21,5 @@ conflicts  = ["sake"]
 requires = []
 
 [package.metadata]
-keywords = [cli,config,golang,server,ssh]
+keywords = ["cli","config","golang","server","ssh"]
 categories = ["Utilities"]

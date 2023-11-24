@@ -21,5 +21,5 @@ conflicts  = ["httpx"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,cli,cybersecurity,hacktoberfest,http,lib,osint,pentest-tool,pipeline,ssl-certificate]
+keywords = ["bugbounty","cli","cybersecurity","hacktoberfest","http","lib","osint","pentest-tool","pipeline","ssl-certificate"]
 categories = ["Utilities"]

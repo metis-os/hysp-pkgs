@@ -21,5 +21,5 @@ conflicts  = ["proxify"]
 requires = []
 
 [package.metadata]
-keywords = [http-proxy,mitm,mitmproxy,socks5-proxy]
+keywords = ["http-proxy","mitm","mitmproxy","socks5-proxy"]
 categories = ["Utilities"]

@@ -21,5 +21,5 @@ conflicts  = ["zoxide"]
 requires = []
 
 [package.metadata]
-keywords = [autojump,bash,cli,command-line,command-line-tool,elvish,fasd,fish,fish-shell,fzf,hacktoberfest,jump,nushell,powershell,rust,shell,xonsh,xontrib,z,zsh]
+keywords = ["autojump","bash","cli","command-line","command-line-tool","elvish","fasd","fish","fish-shell","fzf","hacktoberfest","jump","nushell","powershell","rust","shell","xonsh","xontrib","z","zsh"]
 categories = ["Utilities"]

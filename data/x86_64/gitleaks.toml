@@ -21,5 +21,5 @@ conflicts  = ["gitleaks"]
 requires = []
 
 [package.metadata]
-keywords = [devsecops,git,gitleaks,go,golang,hacktoberfest,secret,security,security-tools]
+keywords = ["devsecops","git","gitleaks","go","golang","hacktoberfest","secret","security","security-tools"]
 categories = ["Utilities"]

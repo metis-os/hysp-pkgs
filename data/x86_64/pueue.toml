@@ -21,5 +21,5 @@ conflicts  = ["pueue"]
 requires = []
 
 [package.metadata]
-keywords = [command-line,command-line-tool,daemon,hacktoberfest,queue-manager,queue-tasks,rust,shell-queue]
+keywords = ["command-line","command-line-tool","daemon","hacktoberfest","queue-manager","queue-tasks","rust","shell-queue"]
 categories = ["Utilities"]

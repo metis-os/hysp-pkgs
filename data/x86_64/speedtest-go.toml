@@ -21,5 +21,5 @@ conflicts  = ["speedtest-go"]
 requires = []
 
 [package.metadata]
-keywords = [cli,go,network,speedtest]
+keywords = ["cli","go","network","speedtest"]
 categories = ["Utilities"]

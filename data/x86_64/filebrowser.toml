@@ -21,5 +21,5 @@ conflicts  = ["filebrowser"]
 requires = []
 
 [package.metadata]
-keywords = [administrator,extension,filemanager,gui,interface,plugin,vuejs,web]
+keywords = ["administrator","extension","filemanager","gui","interface","plugin","vuejs","web"]
 categories = ["Utilities"]

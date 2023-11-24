@@ -21,5 +21,5 @@ conflicts  = ["logtimer"]
 requires = []
 
 [package.metadata]
-keywords = [bash,cli,go,golang,hacktoberfest,log]
+keywords = ["bash","cli","go","golang","hacktoberfest","log"]
 categories = ["Utilities"]

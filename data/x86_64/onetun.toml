@@ -21,5 +21,5 @@ conflicts  = ["onetun"]
 requires = []
 
 [package.metadata]
-keywords = [boringtun,hacktoberfest,smoltcp,wireguard,wireguard-tunnel]
+keywords = ["boringtun","hacktoberfest","smoltcp","wireguard","wireguard-tunnel"]
 categories = ["Utilities"]

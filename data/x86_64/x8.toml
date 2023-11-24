@@ -21,5 +21,5 @@ conflicts  = ["x8"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,content-discovery,recon,rust,security,web]
+keywords = ["bugbounty","content-discovery","recon","rust","security","web"]
 categories = ["Utilities"]

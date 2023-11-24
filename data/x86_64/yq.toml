@@ -21,5 +21,5 @@ conflicts  = ["yq"]
 requires = []
 
 [package.metadata]
-keywords = [bash,cli,csv,devops-tools,golang,json,portable,properties,splat,toml,xml,yaml,yaml-processor]
+keywords = ["bash","cli","csv","devops-tools","golang","json","portable","properties","splat","toml","xml","yaml","yaml-processor"]
 categories = ["Utilities"]

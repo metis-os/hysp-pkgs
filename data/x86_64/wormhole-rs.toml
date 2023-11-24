@@ -21,5 +21,5 @@ conflicts  = ["wormhole-rs"]
 requires = []
 
 [package.metadata]
-keywords = [data-transfer,file-transfer,magic-wormhole,port-forwarding,rust,wormhole]
+keywords = ["data-transfer","file-transfer","magic-wormhole","port-forwarding","rust","wormhole"]
 categories = ["Utilities"]

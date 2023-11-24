@@ -21,5 +21,5 @@ conflicts  = ["jaeles"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,golang,hacking,infosec,jaeles,scanner,security-tools,vulnerabilities,web-scanner]
+keywords = ["bugbounty","golang","hacking","infosec","jaeles","scanner","security-tools","vulnerabilities","web-scanner"]
 categories = ["Utilities"]

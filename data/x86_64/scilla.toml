@@ -21,5 +21,5 @@ conflicts  = ["scilla"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,directories-enumeration,dns-enumeration,enumeration,hacking,hacking-tool,hacktoberfest,information-gathering,information-retrieval,network,penetration-testing,pentesting,port-enumeration,portscanner,recon,reconnaissance,security,security-tools,subdomain-scanner,subdomains-enumeration]
+keywords = ["bugbounty","directories-enumeration","dns-enumeration","enumeration","hacking","hacking-tool","hacktoberfest","information-gathering","information-retrieval","network","penetration-testing","pentesting","port-enumeration","portscanner","recon","reconnaissance","security","security-tools","subdomain-scanner","subdomains-enumeration"]
 categories = ["Utilities"]

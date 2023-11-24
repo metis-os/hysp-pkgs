@@ -21,5 +21,5 @@ conflicts  = ["nmap"]
 requires = []
 
 [package.metadata]
-keywords = [asynchronous,c-plus-plus,libpcap,linux,lua,machine-learning,netcat,network-discovery,nmap,osx,pcre,ping,port-scanner,security,service-discovery,socket,windows]
+keywords = ["asynchronous","c-plus-plus","libpcap","linux","lua","machine-learning","netcat","network-discovery","nmap","osx","pcre","ping","port-scanner","security","service-discovery","socket","windows"]
 categories = ["Utilities"]

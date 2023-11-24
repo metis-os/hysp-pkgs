@@ -7,7 +7,7 @@ name = "osmedeus"
 description = "A Workflow Engine for Offensive Security"
 author = "j3ssie"
 repo = "https://github.com/j3ssie/osmedeus"
-stars = "4783"
+stars = "4782"
 version = "v4.6.2"
 updated = "2023-11-18T11:00:48Z"
 size = "27.72 MB"
@@ -21,5 +21,5 @@ conflicts  = ["osmedeus"]
 requires = []
 
 [package.metadata]
-keywords = [attack-surfaces,bug-bounty,bugbounty,go,golang,hacking,hacking-tool,information-gathering,osint,penetration-testing,pentest-tool,pentesting,reconnaissance,scanning,security,security-tools]
+keywords = ["attack-surfaces","bug-bounty","bugbounty","go","golang","hacking","hacking-tool","information-gathering","osint","penetration-testing","pentest-tool","pentesting","reconnaissance","scanning","security","security-tools"]
 categories = ["Utilities"]

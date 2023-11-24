@@ -21,5 +21,5 @@ conflicts  = ["eget"]
 requires = []
 
 [package.metadata]
-keywords = [command-line-tool,go,golang,installer,prebuilt-binaries]
+keywords = ["command-line-tool","go","golang","installer","prebuilt-binaries"]
 categories = ["Utilities"]

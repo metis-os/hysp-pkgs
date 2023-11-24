@@ -21,5 +21,5 @@ conflicts  = ["spoof-dpi"]
 requires = []
 
 [package.metadata]
-keywords = [anti-censorship,censorship-circumvention,censorship-free,deep-packet-inspection,dpi,dpi-bypassing,dpi-filtering,golang,proxy-server]
+keywords = ["anti-censorship","censorship-circumvention","censorship-free","deep-packet-inspection","dpi","dpi-bypassing","dpi-filtering","golang","proxy-server"]
 categories = ["Utilities"]

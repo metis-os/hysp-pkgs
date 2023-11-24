@@ -21,5 +21,5 @@ conflicts  = ["gitlab-subdomains"]
 requires = []
 
 [package.metadata]
-keywords = [bugbounty,gitlab,go,pentesting,security-tools,subdomains]
+keywords = ["bugbounty","gitlab","go","pentesting","security-tools","subdomains"]
 categories = ["Utilities"]

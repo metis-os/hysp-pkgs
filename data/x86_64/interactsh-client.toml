@@ -21,5 +21,5 @@ conflicts  = ["interactsh-client"]
 requires = []
 
 [package.metadata]
-keywords = [appsec,bugbounty,dns,golang,http,ldap,oast,oob,security,smtp]
+keywords = ["appsec","bugbounty","dns","golang","http","ldap","oast","oob","security","smtp"]
 categories = ["Utilities"]

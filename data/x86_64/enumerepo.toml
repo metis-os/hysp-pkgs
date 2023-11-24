@@ -21,5 +21,5 @@ conflicts  = ["enumerepo"]
 requires = []
 
 [package.metadata]
-keywords = [enumeration,github-osint,github-repository-search,github-user-search,open-source-intelligence,osint,penetration-testing,penetration-testing-tools,pentesting,pentesting-tools,recon,reconnaissance,security]
+keywords = ["enumeration","github-osint","github-repository-search","github-user-search","open-source-intelligence","osint","penetration-testing","penetration-testing-tools","pentesting","pentesting-tools","recon","reconnaissance","security"]
 categories = ["Utilities"]

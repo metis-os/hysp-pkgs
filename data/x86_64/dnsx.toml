@@ -21,5 +21,5 @@ conflicts  = ["dnsx"]
 requires = []
 
 [package.metadata]
-keywords = [cli,dns-bruteforcer,dns-client,dns-records,dns-resolution,hacktoberfest,wildcard-filtering]
+keywords = ["cli","dns-bruteforcer","dns-client","dns-records","dns-resolution","hacktoberfest","wildcard-filtering"]
 categories = ["Utilities"]

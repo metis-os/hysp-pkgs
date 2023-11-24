@@ -21,5 +21,5 @@ conflicts  = ["ripgrep"]
 requires = []
 
 [package.metadata]
-keywords = [cli,command-line,command-line-tool,gitignore,grep,recursively-search,regex,ripgrep,rust,search]
+keywords = ["cli","command-line","command-line-tool","gitignore","grep","recursively-search","regex","ripgrep","rust","search"]
 categories = ["Utilities"]

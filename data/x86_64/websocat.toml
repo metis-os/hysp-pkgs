@@ -21,5 +21,5 @@ conflicts  = ["websocat"]
 requires = []
 
 [package.metadata]
-keywords = [cli,command-line,command-line-tool,curl,netcat,proxy,rfc-6455,socat,websocket-client,websocket-server,websockets]
+keywords = ["cli","command-line","command-line-tool","curl","netcat","proxy","rfc-6455","socat","websocket-client","websocket-server","websockets"]
 categories = ["Utilities"]

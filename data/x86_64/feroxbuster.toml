@@ -21,5 +21,5 @@ conflicts  = ["feroxbuster"]
 requires = []
 
 [package.metadata]
-keywords = [content-discovery,enumeration,hacktoberfest,pentest,pentesting-tool,rust,url-bruteforcer,web]
+keywords = ["content-discovery","enumeration","hacktoberfest","pentest","pentesting-tool","rust","url-bruteforcer","web"]
 categories = ["Utilities"]

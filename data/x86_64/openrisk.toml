@@ -21,5 +21,5 @@ conflicts  = ["openrisk"]
 requires = []
 
 [package.metadata]
-keywords = [ai,gpt-3,nuclei,openai,risk-score]
+keywords = ["ai","gpt-3","nuclei","openai","risk-score"]
 categories = ["Utilities"]

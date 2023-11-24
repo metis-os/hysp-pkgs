@@ -21,5 +21,5 @@ conflicts  = ["gowitness"]
 requires = []
 
 [package.metadata]
-keywords = [chrome,chrome-headless,fingerprint,footprinting,golang,gowitness,headless,headless-chrome,reporting,screenshot,screenshots,security,technologies,web]
+keywords = ["chrome","chrome-headless","fingerprint","footprinting","golang","gowitness","headless","headless-chrome","reporting","screenshot","screenshots","security","technologies","web"]
 categories = ["Utilities"]
