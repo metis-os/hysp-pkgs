@@ -1,0 +1,25 @@
+[bin]
+name = "procs"
+
+[package]
+architecture = "x86_64"
+name = "procs"
+description = "A modern replacement for ps written in Rust"
+author = "dalance"
+repo = "https://github.com/dalance/procs"
+stars = "4361"
+version = "v0.14.4"
+updated = "2023-11-24T00:58:03Z"
+size = "5.32 MB"
+sha = "99aa1ce55a8ac5bdfad36ec7d561ca40de994d45b055e8474fd817e1fc66ec2c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/procs"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["procs"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","process","rust"]
+categories = ["Utilities"]

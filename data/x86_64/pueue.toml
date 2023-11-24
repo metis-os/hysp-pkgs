@@ -1,0 +1,26 @@
+[bin]
+name = "pueue"
+
+[package]
+architecture = "x86_64"
+name = "pueue"
+description = ":stars: Manage your shell commands."
+author = "Nukesor"
+repo = "https://github.com/Nukesor/pueue"
+stars = "4007"
+version = "v3.3.1"
+updated = "2023-10-27T16:31:24Z"
+size = "1.61 MB"
+sha = "393af8f290f2775fdbe90e42dd47e529a9f44cd72172d8f13fa3d970e905c340
+01f5a49d23751fc90d1679213a142d4e12d730ecb6004fe12cf208f9342070fd"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pueue"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pueue"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","command-line-tool","daemon","hacktoberfest","queue-manager","queue-tasks","rust","shell-queue"]
+categories = ["Utilities"]

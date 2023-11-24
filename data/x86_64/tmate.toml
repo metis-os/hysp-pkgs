@@ -1,0 +1,25 @@
+[bin]
+name = "tmate"
+
+[package]
+architecture = "x86_64"
+name = "tmate"
+description = "Instant Terminal Sharing"
+author = "tmate-io"
+repo = "https://github.com/tmate-io/tmate"
+stars = "5375"
+version = "2.4.0"
+updated = "2019-11-16T22:14:17Z"
+size = "2.99 MB"
+sha = "d2fff992e40ce18ff81b9a92fa1cb93a56fb5a82c1cc428204552d8dfa1bc04f"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tmate"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["tmate"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

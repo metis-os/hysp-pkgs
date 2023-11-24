@@ -1,0 +1,25 @@
+[bin]
+name = "shuffledns"
+
+[package]
+architecture = "x86_64"
+name = "shuffledns"
+description = "MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/shuffledns"
+stars = "1148"
+version = "v1.0.9"
+updated = "2023-05-07T12:10:42Z"
+size = "17.36 MB"
+sha = "82740516ade352ecb30331dccf5df1df1fea50662360df632555137d12e4abcc"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/shuffledns"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["shuffledns"]
+requires = []
+
+[package.metadata]
+keywords = ["dns","dns-bruteforcer","dns-resolution","dns-resolver","hacktoberfest","massdns","reconnaissance","subdomain-bruteforcing"]
+categories = ["Utilities"]

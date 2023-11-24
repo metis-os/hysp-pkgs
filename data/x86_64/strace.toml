@@ -1,0 +1,25 @@
+[bin]
+name = "strace"
+
+[package]
+architecture = "x86_64"
+name = "strace"
+description = "strace is a diagnostic, debugging and instructional userspace utility for Linux"
+author = "strace"
+repo = "https://github.com/strace/strace"
+stars = "1923"
+version = "v6.6"
+updated = "2023-10-31T11:48:38Z"
+size = "2.04 MB"
+sha = "5aa225d10aa38d79ab91dd5995fb3eec63d79ebfbf8a2beca16836ff53ac7922"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/strace"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["strace"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
