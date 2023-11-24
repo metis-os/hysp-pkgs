@@ -21,6 +21,7 @@ license = "Apache License 2.0"
 
 [package.conditions]
 conflicts  = ["batcat"]
+requires = []
 
 [package.metadata]
 keywords = ["cli","command-line","git","hacktoberfest","rust","syntax-highlighting","terminal","tool"]
