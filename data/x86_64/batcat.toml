@@ -1,0 +1,27 @@
+[bin]
+name = "batcat"
+
+[source]
+source = ""
+
+[package]
+architecture = "x86_64"
+name = "batcat"
+description = "A cat(1) clone with wings."
+author = "sharkdp"
+repo = "https://github.com/sharkdp/bat"
+stars = "43928"
+version = "v0.24.0"
+updated = "2023-10-11T18:20:46Z"
+size = ""
+sha = ""
+source = ""
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["batcat"]
+
+[package.metadata]
+keywords = ["cli","command-line","git","hacktoberfest","rust","syntax-highlighting","terminal","tool"]
+categories = ["Utilities"]
