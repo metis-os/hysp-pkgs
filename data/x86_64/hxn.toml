@@ -21,6 +21,7 @@ license = "MIT License"
 
 [package.conditions]
 conflicts  = ["hxn"]
+requires = []
 
 [package.metadata]
 keywords = ["bug-hunting-tools","hactoberfest","osint","pwnwriter","rust","rustlang","screenshot-utility"]
