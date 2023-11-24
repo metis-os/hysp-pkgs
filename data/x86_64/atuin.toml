@@ -21,6 +21,7 @@ license = "MIT License"
 
 [package.conditions]
 conflicts  = ["atuin"]
+requires = []
 
 [package.metadata]
 keywords = ["bash","fish","history","rust","shell","zsh"]
