@@ -44,7 +44,7 @@ awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL=
       gsub(/source = .*/, "source = \"" SOURCE_URL "\""); \
       gsub(/language = .*/, "language = \"" LANGUAGE "\""); \
       gsub(/license = .*/, "license = \"" LICENSE "\""); \
-      gsub(/url = .*/, "source = \"" SOURCE_URL "\""); \
+      gsub(/url = .*/, "url = \"" SOURCE_URL "\""); \
       gsub(/keywords = .*/, "keywords = " TOPICS); \
       print }' "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" | envsubst | sponge "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
 ##Just In Case      
