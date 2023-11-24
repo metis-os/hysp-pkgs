@@ -1,0 +1,25 @@
+[bin]
+name = "kadeessh"
+
+[package]
+architecture = "x86_64"
+name = "kadeessh"
+description = "Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go"
+author = "kadeessh"
+repo = "https://github.com/kadeessh/kadeessh"
+stars = "466"
+version = "v0.0.2"
+updated = "2023-09-20T21:17:50Z"
+size = ""
+sha = ""
+source = ""
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["kadeessh"]
+requires = []
+
+[package.metadata]
+keywords = ["authentication","caddy","go","openssh","ssh","ssh-server"]
+categories = ["Utilities"]

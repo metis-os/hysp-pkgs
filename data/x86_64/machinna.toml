@@ -1,0 +1,25 @@
+[bin]
+name = "machinna"
+
+[package]
+architecture = "x86_64"
+name = "machinna"
+description = "A system information frontend with an emphasis on performance."
+author = "Macchina-CLI"
+repo = "https://github.com/Macchina-CLI/macchina"
+stars = "958"
+version = "v6.1.8"
+updated = "2023-01-09T15:11:08Z"
+size = ""
+sha = ""
+source = ""
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["machinna"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","cross-platform","fetch","system-information"]
+categories = ["Utilities"]
