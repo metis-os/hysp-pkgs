@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #Debug
-set -x
+#set -x
 
 ##Usage: 
 # Actions: BIN="$BIN" REPO="$REPO" SOURCE_BIN="Azathothas/Toolpacks" bash "$GITHUB_WORKSPACE/main/.github/scripts/pkg_metafetcher_x86_64.sh"
@@ -51,7 +51,9 @@ awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL=
       gsub(/keywords = .*/, "keywords = " TOPICS); \
       print }' "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" | envsubst | sponge "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
 ##Just In Case      
-#awk -v STARS="$STARS" '/stars/{gsub(/\$STARS/, STARS)}1' "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" | sponge "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"     
+#awk -v STARS="$STARS" '/stars/{gsub(/\$STARS/, STARS)}1' "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" | sponge "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
+#Temp Fix:
+sed '/^description = / s/.*"\(.*\)".*/description = "\1"/' -i "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
 #Print
 echo -e "\n [+] $GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml\n" && cat "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" && echo -e "\n"    
 # Sample Spec : https://github.com/metis-os/hysp-pkgs/blob/main/data/x86_64/SAMPLE_SPEC.toml
