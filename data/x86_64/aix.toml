@@ -21,6 +21,7 @@ license = "MIT License"
 
 [package.conditions]
 conflicts  = ["aix"]
+requires = []
 
 [package.metadata]
 keywords = []
