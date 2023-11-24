@@ -55,6 +55,96 @@ jobs:
           BIN="airixss" REPO="ferreiraklet/airixss" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true 
      #----------------------------#
+     #aix : AIx is a cli tool to interact with Large Language Models (LLM) APIs. 
+      - name: Generate Meta (aix)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="aix" REPO="projectdiscovery/aix" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #amass : In-depth attack surface mapping and asset discovery 
+      - name: Generate Meta (amass)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="amass" REPO="owasp-amass/amass" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true  
+     #----------------------------#
+     #anew : A tool for adding new lines to files, skipping duplicates 
+      - name: Generate Meta (anew)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="anew" REPO="tomnomnom/anew" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #aria2c : aria2 is a multi-protocol (HTTP/HTTPS, FTP, SFTP, BitTorrent & Metalink) & multi-source command-line download utility
+      - name: Generate Meta (aria2c)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="aria2c" REPO="aria2/aria2" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #assetfinder : Find domains and subdomains related to a given domain 
+      - name: Generate Meta (assetfinder)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="assetfinder" REPO="tomnomnom/assetfinder" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #asnmap : Mapping organization network ranges using ASN information
+      - name: Generate Meta (asnmap)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="asnmap" REPO="projectdiscovery/asnmap" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #atuin: Sync Shell History
+      - name: Generate Meta (atuin)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="atuin" REPO="atuinsh/atuin" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #batcat: cat with colors & syntax highlights 
+      - name: Generate Meta (batcat)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="batcat" REPO="sharkdp/bat" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #bore : ngrok alternative for making tunnels to localhost 
+      - name: Generate Meta (bore)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="bore" REPO="ekzhang/bore" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #bottom : htop clone | graphical process/system monitor
+      - name: Generate Meta (btop)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="btop" REPO="ClementTsang/bottom" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #eget : Easily install prebuilt binaries from GitHub
       - name: Generate Meta (eget)
         run: |
@@ -107,4 +197,4 @@ jobs:
           commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
           commit_message: "✅ 🛍️ Generated | Updated ⚙️ Daily Package 📦 Metadata 🗄️ <-- ${{ env.NEPALI_TIME }} ⌚"
           #push_options: '--force'
-#------------------------------------------------------------------------------------#          
+#------------------------------------------------------------------------------------#
