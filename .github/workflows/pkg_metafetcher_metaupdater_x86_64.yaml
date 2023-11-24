@@ -37,6 +37,8 @@ jobs:
           set +e
           #eget
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
+          #validtoml
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
         continue-on-error: true
 
       - name: Setup Env
@@ -2049,6 +2051,16 @@ jobs:
            cd "$GITHUB_WORKSPACE/main" && git pull origin main
         continue-on-error: true
 
+      - name: Validate TOML
+        run: |
+           #Presets
+           set -x ; set +e
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Check
+           for file in "$GITHUB_WORKSPACE/main/data/x86_64" ; do [ -f "$file" ] && validtoml --quiet "$file"; done
+        continue-on-error: true
+        
       - name: Get DateTime
         run: |
           # Date Time
