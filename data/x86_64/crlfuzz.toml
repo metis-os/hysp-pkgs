@@ -1,0 +1,25 @@
+[bin]
+name = "crlfuzz"
+
+[package]
+architecture = "x86_64"
+name = "crlfuzz"
+description = "A fast tool to scan CRLF vulnerability written in Go"
+author = "dwisiswant0"
+repo = "https://github.com/dwisiswant0/crlfuzz"
+stars = "1134"
+version = "v1.4.1"
+updated = "2021-04-03T03:16:30Z"
+size = "4.55 MB"
+sha = "b6821635eb5ef453875f6ddca2a925a5ce5196abda19f6a894cf57a7c1f48e78"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crlfuzz"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["crlfuzz"]
+requires = []
+
+[package.metadata]
+keywords = [crlf-injection,go,golang,vulnerability-scanner,vulnerability-scanning]
+categories = ["Utilities"]

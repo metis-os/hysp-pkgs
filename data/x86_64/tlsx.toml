@@ -1,0 +1,25 @@
+[bin]
+name = "tlsx"
+
+[package]
+architecture = "x86_64"
+name = "tlsx"
+description = "Fast and configurable TLS grabber focused on TLS based data collection."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/tlsx"
+stars = "710"
+version = "v1.1.5"
+updated = "2023-09-28T11:08:02Z"
+size = "25.17 MB"
+sha = "a985204d19d6a41636eb4fca4c461a25afeaa8725e6b4b56144a8ea24e2f673c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tlsx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tlsx"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,25 @@
+[bin]
+name = "roboxtractor"
+
+[package]
+architecture = "x86_64"
+name = "roboxtractor"
+description = "Extract endpoints marked as disallow in robots files to generate wordlists."
+author = "Josue87"
+repo = "https://github.com/Josue87/roboxtractor"
+stars = "52"
+version = ""
+updated = ""
+size = "4.91 MB"
+sha = "a4c24584d3f1bc8ba937bfe458b84b40f42c9378ddae908941d2e6d025aa66bb"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/roboxtractor"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["roboxtractor"]
+requires = []
+
+[package.metadata]
+keywords = [bug-bounty,bugbounty,enumeration,fuzzing,hacking,wordlist]
+categories = ["Utilities"]

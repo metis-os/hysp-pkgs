@@ -1,0 +1,25 @@
+[bin]
+name = "tok"
+
+[package]
+architecture = "x86_64"
+name = "tok"
+description = "A collection of hacks and one-off scripts"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/hacks"
+stars = "1936"
+version = ""
+updated = ""
+size = "1.30 MB"
+sha = "35220b188639b3138518df4cf258dd7b43644f0e791696b502fade8b50fab2e5"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tok"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["tok"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

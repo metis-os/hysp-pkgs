@@ -1,0 +1,25 @@
+[bin]
+name = "vopono"
+
+[package]
+architecture = "x86_64"
+name = "vopono"
+description = "Run applications through VPN tunnels with temporary network namespaces"
+author = "jamesmcm"
+repo = "https://github.com/jamesmcm/vopono"
+stars = "650"
+version = "0.10.7"
+updated = "2023-11-04T16:15:58Z"
+size = ""
+sha = ""
+source = ""
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["vopono"]
+requires = []
+
+[package.metadata]
+keywords = [hacktoberfest,mullvad,openvpn,rust,rust-lang,wireguard]
+categories = ["Utilities"]
