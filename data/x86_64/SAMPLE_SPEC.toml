@@ -1,9 +1,6 @@
 [bin]
 name = "$BIN"
 
-[source]
-url = "$SOURCE_URL"
-
 [package]
 architecture = "x86_64"
 name = "$BIN"
