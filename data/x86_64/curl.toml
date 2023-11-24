@@ -7,11 +7,11 @@ name = "curl"
 description = "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
 author = "curl"
 repo = "https://github.com/curl/curl"
-stars = "32458"
+stars = "32459"
 version = "curl-8_4_0"
 updated = "2023-10-11T06:28:45Z"
 size = "7.32 MB"
-sha = "5005b228d29629d89f56891828c118c14e47b62f4730ad6ad4b1cdca47244975
+sha = "5005b228d29629d89f56891828c118c14e47b62f4730ad6ad4b1cdca47244975"
 6afebc7219e73a323c0ee833a0c7952fc0a10443654c2e6c87425910fd33342d
 0d8cc30365dea38916f18e639abb1a75d690161d328432cfaa0e27f49a2b3f3a"
 6afebc7219e73a323c0ee833a0c7952fc0a10443654c2e6c87425910fd33342d

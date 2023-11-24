@@ -4,7 +4,7 @@ name = "chaos-client"
 [package]
 architecture = "x86_64"
 name = "chaos-client"
-description = "Go client to communicate with Chaos DB API. "
+description = "Go client to communicate with Chaos DB API."
 author = "projectdiscovery"
 repo = "https://github.com/projectdiscovery/chaos-client"
 stars = "530"

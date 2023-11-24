@@ -4,7 +4,7 @@ name = "csprecon"
 [package]
 architecture = "x86_64"
 name = "csprecon"
-description = "Discover new target domains using Content Security Policy "
+description = "Discover new target domains using Content Security Policy"
 author = "edoardottt"
 repo = "https://github.com/edoardottt/csprecon"
 stars = "236"

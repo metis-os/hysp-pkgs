@@ -4,7 +4,7 @@ name = "hxn"
 [package]
 architecture = "x86_64"
 name = "hxn"
-description = "⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. "
+description = "⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal."
 author = "pwnwriter"
 repo = "https://github.com/pwnwriter/haylxon"
 stars = "338"
