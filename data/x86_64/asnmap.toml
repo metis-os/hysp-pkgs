@@ -21,6 +21,7 @@ license = "MIT License"
 
 [package.conditions]
 conflicts  = ["asnmap"]
+requires = []
 
 [package.metadata]
 keywords = ["asn","asn-lookup","cidr-range","osint","recon"]
