@@ -1,0 +1,28 @@
+[bin]
+name = "exa"
+
+[source]
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/exa"
+
+[package]
+architecture = "x86_64"
+name = "exa"
+description = "A modern replacement for ‘ls’."
+author = "ogham"
+repo = "https://github.com/ogham/exa"
+stars = "22787"
+version = "v0.10.1"
+updated = "2021-04-12T21:42:01Z"
+size = "1.66 MB"
+sha = "674f83010531a3f1e527aa0c8500a71b5cb0c3b48c620d41b92132883850d3e9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/exa"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["exa"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","files","ls","rust"]
+categories = ["Utilities"]

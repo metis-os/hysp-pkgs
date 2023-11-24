@@ -1,0 +1,28 @@
+[bin]
+name = "cdncheck"
+
+[source]
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cdncheck"
+
+[package]
+architecture = "x86_64"
+name = "cdncheck"
+description = "A utility to detect various technology for a given IP address."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/cdncheck"
+stars = "513"
+version = "v1.0.9"
+updated = "2023-06-09T11:21:20Z"
+size = "19.51 MB"
+sha = "8cbf5fc0d1974c5146a13db228999b56e6870fae887133dcde337247e654704b"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cdncheck"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cdncheck"]
+requires = []
+
+[package.metadata]
+keywords = ["api","cdn","cli","cname","detection","lib","technology"]
+categories = ["Utilities"]

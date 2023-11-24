@@ -1,0 +1,28 @@
+[bin]
+name = "bat"
+
+[source]
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bat"
+
+[package]
+architecture = "x86_64"
+name = "bat"
+description = "A cat(1) clone with wings."
+author = "sharkdp"
+repo = "https://github.com/sharkdp/bat"
+stars = "43935"
+version = "v0.24.0"
+updated = "2023-10-11T18:20:46Z"
+size = "5.50 MB"
+sha = "a972b0f06b9140646537503cdd410d96bc45495ba4f2e622828cfce9a845d379"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bat"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["bat"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","git","hacktoberfest","rust","syntax-highlighting","terminal","tool"]
+categories = ["Utilities"]

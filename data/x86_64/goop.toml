@@ -1,0 +1,28 @@
+[bin]
+name = "goop"
+
+[source]
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/goop"
+
+[package]
+architecture = "x86_64"
+name = "goop"
+description = "Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases."
+author = "nyancrimew"
+repo = "https://github.com/nyancrimew/goop"
+stars = "489"
+version = ""
+updated = ""
+size = "9.52 MB"
+sha = "1c9801fd7b7ebd855626fada78cfb3dc8a70c35867d10a74cccd6fae52fa4353"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/goop"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["goop"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","git","infosec","offensive-security"]
+categories = ["Utilities"]
