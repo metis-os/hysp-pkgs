@@ -187,7 +187,7 @@ jobs:
           #Presets
           set -x ; set +e
           #--------------#
-          BIN="certstream " REPO="Azathothas/Arsenal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="certstream" REPO="Azathothas/Arsenal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #chaos-client : cli for Chaos DB API
