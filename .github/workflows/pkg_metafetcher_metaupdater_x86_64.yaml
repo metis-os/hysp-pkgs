@@ -2008,7 +2008,7 @@ jobs:
           #Presets
           set -x ; set +e
           #--------------#
-          BIN="zellij" REPO="zellij/zellij" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="zellij" REPO="zellij-org/zellij" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #zenith : sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
