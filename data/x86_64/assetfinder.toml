@@ -21,6 +21,7 @@ license = "MIT License"
 
 [package.conditions]
 conflicts  = ["assetfinder"]
+requires = []
 
 [package.metadata]
 keywords = []
