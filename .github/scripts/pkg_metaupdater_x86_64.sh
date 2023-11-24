@@ -29,6 +29,7 @@ if [ ! -s "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" ]; then
    #Get the sample
    curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/x86_64/SAMPLE_SPEC.toml" -o "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
    chmod +xwr "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
+   dos2unix --quiet "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
 fi
 
 #Edit
