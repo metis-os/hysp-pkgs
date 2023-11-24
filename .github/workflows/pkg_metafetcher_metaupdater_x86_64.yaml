@@ -118,13 +118,13 @@ jobs:
           BIN="atuin" REPO="atuinsh/atuin" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
-     #batcat: cat with colors & syntax highlights 
-      - name: Generate Meta (batcat)
+     #bat: cat with colors & syntax highlights 
+      - name: Generate Meta (bat)
         run: |
           #Presets
           set -x ; set +e
           #--------------#
-          BIN="batcat" REPO="sharkdp/bat" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="bat" REPO="sharkdp/bat" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #bore : ngrok alternative for making tunnels to localhost 
@@ -145,6 +145,249 @@ jobs:
           BIN="btop" REPO="ClementTsang/bottom" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #btop : htop clone | A monitor of resources 
+      - name: Generate Meta (btop)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="btop" REPO="aristocratos/btop" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #caddy : Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+      - name: Generate Meta (caddy)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="caddy" REPO="caddyserver/caddy" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #cdncheck : A utility to detect various technology for a given IP address. 
+      - name: Generate Meta (cdncheck)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="cdncheck" REPO="projectdiscovery/cdncheck" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #cent : Fetch & Organize all Nuclei Templates
+      - name: Generate Meta (cent)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="cent" REPO="xm1k3/cent" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true        
+     #----------------------------# 
+     #certstream : Cli for calidog's certstream
+      - name: Generate Meta (certstream )
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="certstream " REPO="Azathothas/Arsenal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #chaos-client : cli for Chaos DB API
+      - name: Generate Meta (chaos)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="chaos-client" REPO="projectdiscovery/chaos-client" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #cloudlist : Cloudlist is a tool for listing Assets from multiple Cloud Providers.
+      - name: Generate Meta (cloudlist)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="cloudlist" REPO="projectdiscovery/cloudlist" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #cloudreve : Self-hosted file management and sharing system, supports multiple storage providers
+      - name: Generate Meta (cloudreve)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="cloudreve" REPO="cloudreve/Cloudreve" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #comb : Combine the lines from two files in every combination.
+      - name: Generate Meta (comb)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="comb" REPO="tomnomnom/hacks" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #containerd : An open and reliable container runtime
+      - name: Generate Meta (containerd)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="containerd" REPO="containerd/containerd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #cowtiness : mimic an HTTP server and a DNS server, providing complete responses
+      - name: Generate Meta (cowtiness)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="cowtiness" REPO="stolenusername/cowitness" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #cpufetch : fetch for cpu
+      - name: Generate Meta (cpufetch)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="cpufetch" REPO="Dr-Noob/cpufetch" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #crlfuzz : A fast tool to scan CRLF vulnerability written in Go
+      - name: Generate Meta (crlfuzz)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="crlfuzz" REPO="dwisiswant0/crlfuzz" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #croc : Easily and securely send things from one computer to another
+      - name: Generate Meta (croc)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="croc" REPO="schollz/croc" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #crt : A CLI tool to check Certificate Transparency logs of a domain name
+      - name: Generate Meta (crt)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="crt" REPO="cemulus/crt" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #csprecon : Discover new target domains using Content Security Policy 
+      - name: Generate Meta (csprecon)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="csprecon" REPO="edoardottt/csprecon" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #curl
+      - name: Generate Meta (curl)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="curl" REPO="curl/curl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #curlie : The power of curl, the ease of use of httpie.
+      - name: Generate Meta (curlie)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="curlie" REPO="rs/curlie" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #cut-cdn : ✂️ Removing CDN IPs from the list of IP addresses
+      - name: Generate Meta (cut-cdn)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="cut-cdn" REPO="ImAyrix/cut-cdn" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #dalfox : 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. 
+      - name: Generate Meta (dalfox)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="dalfox" REPO="hahwul/dalfox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #DevBox : Instant, easy, and predictable development environments
+      - name: Generate Meta (devbox)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="devbox" REPO="jetpack-io/devbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #dnsx : Multi-purpose DNS toolkit allow to run multiple DNS queries
+      - name: Generate Meta (dnsx)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="dnsx" REPO="projectdiscovery/dnsx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #doggo : 🐶 Command-line DNS Client for Humans
+      - name: Generate Meta (doggo)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="doggo" REPO="mr-karan/doggo" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #dsieve : Filter and enrich a list of subdomains by level  
+      - name: Generate Meta (dsieve)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="dsieve" REPO="trickest/dsieve" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #duf : Disk Usage/Free Utility - a better 'df' alternative
+      - name: Generate Meta (duf)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="duf" REPO="muesli/duf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #dust : A more intuitive version of du in rust 
+      - name: Generate Meta (dust)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="dust" REPO="bootandy/dust" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #dysk : A linux utility to get information on filesystems, like df but better  
+      - name: Generate Meta (dysk)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="dysk" REPO="Canop/dysk" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#   
      #eget : Easily install prebuilt binaries from GitHub
       - name: Generate Meta (eget)
         run: |
@@ -154,6 +397,438 @@ jobs:
           BIN="eget" REPO="zyedidia/eget" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #encode : Encode|Decode input from stdin
+      - name: Generate Meta (encode)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="encode" REPO="Brum3ns/encode" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #enumerepo : List all public repositories for (valid) GitHub usernames
+      - name: Generate Meta (enumerepo)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="enumerepo" REPO="trickest/enumerepo" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #exa : A modern replacement for ‘ls’. 
+      - name: Generate Meta (exa)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="exa" REPO="ogham/exa" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #fastfetch : Like neofetch, but much faster because written in C.
+      - name: Generate Meta (fastfetch)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="fastfetch" REPO="fastfetch-cli/fastfetch" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #fd : A simple, fast and user-friendly alternative to 'find'
+      - name: Generate Meta (fd)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="fd" REPO="sharkdp/fd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #feroxbuster : A fast, simple, recursive content discovery tool written in Rust.
+      - name: Generate Meta (feroxbuster)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="feroxbuster" REPO="epi052/feroxbuster" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #fget : Multithread download for a list of files.
+      - name: Generate Meta (fget)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="fget" REPO="bp0lr/fget" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #Findomain : Subdomains Finder
+      - name: Generate Meta (findomain)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="findomain" REPO="Findomain/Findomain" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ffmpeg : collection of libraries and tools to process multimedia content
+      - name: Generate Meta (ffmpeg)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="ffmpeg" REPO="FFmpeg/FFmpeg" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ffprobe : collection of libraries and tools to process multimedia content
+      - name: Generate Meta (ffprobe)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="ffprobe" REPO="FFmpeg/FFmpeg" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ffuf : Fast web fuzzer written in Go 
+      - name: Generate Meta (ffuf)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="ffuf" REPO="ffuf/ffuf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #filebrowser : 📂 Web File Browser
+      - name: Generate Meta (filebrowser)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="filebrowser" REPO="filebrowser/filebrowser" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #fzf : 🌸 A command-line fuzzy finder 
+      - name: Generate Meta (fzf)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="fzf" REPO="junegunn/fzf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gau : Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl. 
+      - name: Generate Meta (gau)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gau" REPO="lc/gau" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gdu : Fast disk usage analyzer with console interface written in Go 
+      - name: Generate Meta (gdu)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gdu" REPO="dundee/gdu" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #getJS : A tool to fastly get all javascript sources/files 
+      - name: Generate Meta (getJS)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="getJS" REPO="003random/getJS" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gf : A wrapper around grep
+      - name: Generate Meta (gf)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gf" REPO="tomnomnom/gf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gh : GitHub’s official command line tool
+      - name: Generate Meta (gh)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gh" REPO="cli/cli" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gitdorks_go : An automated collection tool for discovering sensitive information on GitHub
+      - name: Generate Meta (gitdorks_go)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gitdorks_go" REPO="damit5/gitdorks_go" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #github-endpoints : Find endpoints on GitHub
+      - name: Generate Meta (github-endpoints)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="github-endpoints" REPO="gwen001/github-endpoints" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #github-regexp : Basically a regexp over a GitHub search
+      - name: Generate Meta (github-regexp)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="github-regexp" REPO="gwen001/github-regexp" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #github-subdomains : Find subdomains on GitHub
+      - name: Generate Meta (github-subdomains)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="github-subdomains" REPO="gwen001/github-subdomains" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gitlab-subdomains : Find subdomains on Gitlab
+      - name: Generate Meta (gitlab-subdomains)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gitlab-subdomains" REPO="gwen001/gitlab-subdomains" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gitleaks : Protect and discover secrets using Gitleaks 🔑
+      - name: Generate Meta (gitleaks)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gitleaks" REPO="gitleaks/gitleaks" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gitui : Blazing 💥 fast terminal-ui for git written in rust 🦀
+      - name: Generate Meta (gitui)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gitui" REPO="extrawurst/gitui" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #glow : Render markdown on the CLI
+      - name: Generate Meta (glow)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="glow" REPO="charmbracelet/glow" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gobuster : Directory/File, DNS and VHost busting tool written in Go
+      - name: Generate Meta (gobuster)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gobuster" REPO="OJ/gobuster" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #godns : A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc
+      - name: Generate Meta (godns)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="godns" REPO="TimothyYe/godns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gofastld : go-fasttld is a high performance effective top level domains (eTLD) extraction module
+      - name: Generate Meta (gofastld)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gofastld" REPO="elliotwutingfeng/go-fasttld" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #goop : Dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases
+      - name: Generate Meta (goop)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="goop" REPO="nyancrimew/goop" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gorilla : Tool for generating wordlists or extending an existing one using mutations
+      - name: Generate Meta (gorilla)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gorilla" REPO="d4rckh/gorilla" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gost : GO Simple Tunnel - a simple tunnel written in golang
+      - name: Generate Meta (gost)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gost" REPO="ginuerzh/gost" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gotator : Generate DNS wordlists through permutations
+      - name: Generate Meta (gotator)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gotator" REPO="Josue87/gotator" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gowitness : 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
+      - name: Generate Meta (gowitness)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gowitness" REPO="sensepost/gowitness" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gping : Ping, but with a graph
+      - name: Generate Meta (gping)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="gping" REPO="orf/gping" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #GRPCurl : Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers 
+      - name: Generate Meta (grpcurl)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="grpcurl" REPO="fullstorydev/grpcurl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #hacker-scoper : Automagically filter URLs with Bug Bounty program scope rules scraped from the internet
+      - name: Generate Meta (hacker-scoper)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hacker-scoper" REPO="ItsIgnacioPortal/hacker-scoper" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #hakip2host : takes a list of IP addresses via stdin, then does a series of checks to return associated domain names
+      - name: Generate Meta (hakip2host)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hakip2host" REPO="hakluke/hakip2host" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #hakoriginfinder : Tool for discovering the origin host behind a reverse proxy
+      - name: Generate Meta (hakoriginfinder)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hakoriginfinder" REPO="hakluke/hakoriginfinder" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #hakrawler : Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+      - name: Generate Meta (hakrawler)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hakrawler" REPO="hakluke/hakrawler" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #hakrevdns : Small, fast tool for performing reverse DNS lookups en masse.
+      - name: Generate Meta (hakrevdns)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hakrevdns" REPO="hakluke/hakrevdns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #HEDnsExtractor : Raw html extractor from Hurricane Electric portal
+      - name: Generate Meta (hednsextractor)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hednsextractor" REPO="HuntDownProject/HEDnsExtractor" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #Hexyl: A command-line hex viewer 
+      - name: Generate Meta (hexyl)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hexyl" REPO="sharkdp/hexyl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #hrekt: A really fast http prober.
+      - name: Generate Meta (hrekt)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hrekt" REPO="ethicalhackingplayground/hrekt" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #htmlq : Like jq, but for HTML
+      - name: Generate Meta (htmlq)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="htmlq" REPO="mgdm/htmlq" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #httprobe : Take a list of domains and probe for working HTTP and HTTPS servers
+      - name: Generate Meta (httprobe)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="httprobe" REPO="tomnomnom/httprobe" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #httpx : httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes
+      - name: Generate Meta (httpx)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="httpx" REPO="projectdiscovery/httpx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #hyperfine : A command-line benchmarking tool
+      - name: Generate Meta (hyperfine)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hyperfine" REPO="sharkdp/hyperfine" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------# 
      #hxn : ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal
       - name: Generate Meta (hxn)
         run: |
@@ -161,6 +836,87 @@ jobs:
           set -x ; set +e
           #--------------#
           BIN="hxn" REPO="pwnwriter/haylxon" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true     
+     #----------------------------#
+     #inscope : filtering URLs and domains supplied on stdin to make sure they meet one of a set of regular expressions
+      - name: Generate Meta (inscope)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="inscope" REPO="tomnomnom/hacks" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #iperf3 : A tool for network performance measurement and tuning
+      - name: Generate Meta (iperf3)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="iperf3" REPO="esnet/iperf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #interactsh-client : An OOB interaction gathering server and client library 
+      - name: Generate Meta (interactsh-client)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="interactsh-client" REPO="projectdiscovery/interactsh" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #jaeles : The Swiss Army knife for automated Web Application Testing
+      - name: Generate Meta (jaeles)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="jaeles" REPO="jaeles-project/jaeles" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #jc : converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries
+      - name: Generate Meta (jc)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="jc" REPO="kellyjonbrazil/jc" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #jless : jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data
+      - name: Generate Meta (jless)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="jless" REPO="PaulJuliusMartinez/jless" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #jq : Command-line JSON processor 
+      - name: Generate Meta (jq)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="jq" REPO="jqlang/jq" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #jwthack : 🔩 jwt-hack is tool for hacking / security testing to JWT
+      - name: Generate Meta (jwthack)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="jwthack" REPO="hahwul/jwt-hack" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #Kadeessh : A general-purpose, extensible, modular, memory-safe SSH server
+      - name: Generate Meta (kadeessh)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="kadeessh" REPO="kadeessh/kadeessh" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #kanha : 🦚 A web-app pentesting suite written in rust
@@ -171,6 +927,260 @@ jobs:
           #--------------#
           BIN="kanha" REPO="pwnwriter/kanha" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
+     #----------------------------#
+     #katana : A next-generation crawling and spidering framework
+      - name: Generate Meta (katana)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="katana" REPO="projectdiscovery/katana" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ksubdomain : Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second
+      - name: Generate Meta (ksubdomain)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="ksubdomain" REPO="boy-hack/ksubdomain" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #lazydocker : The lazier way to manage everything docker
+      - name: Generate Meta (lazydocker)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="lazydocker" REPO="jesseduffield/lazydocker" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #lnav : Log file navigator 
+      - name: Generate Meta (lnav)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="lnav" REPO="tstack/lnav" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #logtimer : Enhance your output with a timer / date 
+      - name: Generate Meta (logtimer)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="logtimer" REPO="Eun/logtimer" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #machinna : system-info-fetch
+      - name: Generate Meta (machinna)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="machinna" REPO="Macchina-CLI/macchina" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #mani : CLI tool that helps you manage multiple repositories
+      - name: Generate Meta (mani)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="mani" REPO="alajmo/mani" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #mantra :「🔑」A tool used to hunt down API key leaks in JS files and pages 
+      - name: Generate Meta (mantra)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="mantra" REPO="MrEmpy/mantra" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #mapcidr : Utility program to perform multiple operations for a given subnet/CIDR ranges
+      - name: Generate Meta (mapcidr)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="mapcidr" REPO="projectdiscovery/mapcidr" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #massdns : A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration) 
+      - name: Generate Meta (massdns)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="massdns" REPO="blechschmidt/massdns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #mergerfs : A featureful union filesystem 
+      - name: Generate Meta (mergerfs)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="mergerfs" REPO="trapexit/mergerfs" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #mgwls : Combine words from two wordlist files and concatenate them with an optional delimiter
+      - name: Generate Meta (mgwls)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="mgwls" REPO="trickest/mgwls" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #micro : A modern and intuitive terminal-based text editor
+      - name: Generate Meta (micro)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="micro" REPO="zyedidia/micro" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #miniserve : CLI tool to serve files and dirs over HTTP
+      - name: Generate Meta (miniserve)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="miniserve" REPO="svenstaro/miniserve" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #mksub : Generate tens of thousands of subdomain combinations in a matter of seconds 
+      - name: Generate Meta (mksub)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="mksub" REPO="trickest/mksub" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #mubeng : An incredibly fast proxy checker & IP rotator with ease
+      - name: Generate Meta (mubeng)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="mubeng" REPO="kitabisa/mubeng" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+    #  #ncdu
+    #   - name: Generate Meta (ncdu)
+    #     run: |
+    #       #Presets
+    #       set -x ; set +e
+    #       #--------------#
+    #       BIN="ncdu" REPO="ncdu/ncdu" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+    #     continue-on-error: true
+     #----------------------------#
+     #nerdctl : Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS
+      - name: Generate Meta (nerdctl)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="nerdctl" REPO="containerd/nerdctl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #NetBird : Connects Devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
+      - name: Generate Meta (netbird)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="netbird" REPO="netbirdio/netbird" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #NetMaker : makes networks with WireGuard
+      - name: Generate Meta (netmaker)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="netmaker" REPO="gravitl/netmaker" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+    #  #----------------------------#
+    #  #ngrok
+    #   - name: Generate Meta (ngrok)
+    #     run: |
+    #       #Presets
+    #       set -x ; set +e
+    #       #--------------#
+    #       BIN="ngrok" REPO="ngrok/ngrok" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+    #     continue-on-error: true
+     #----------------------------#
+     #nmap : port scanner
+      - name: Generate Meta (nmap)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="nmap" REPO="nmap/nmap" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #nmap-formatter : A tool to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite
+      - name: Generate Meta (nmap-formatter)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="nmap-formatter" REPO="vdjagilev/nmap-formatter" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #neofetch : Updated Fork
+      - name: Generate Meta (neofetch)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="neofetch" REPO="dylanaraps/neofetch" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #nnn :  n³ The unorthodox terminal file manager 
+      - name: Generate Meta (nnn)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="nnn" REPO="jarun/nnn" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #noir : ♠️ Noir is an attack surface detector that identifies endpoints by static analysis
+      - name: Generate Meta (noir)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="noir" REPO="hahwul/noir" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #notify : stream the output of several tools (or read from a file) and send notifications
+      - name: Generate Meta (notify)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="notify" REPO="projectdiscovery/notify" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #nuclei : Fast and customizable vulnerability scanner based on simple YAML based DSL
+      - name: Generate Meta (nuclei)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="nuclei" REPO="projectdiscovery/nuclei" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------# 
+
 #------------------------------------------------------------------------------------#        
       - name: Dos2Unix Everything
         run: |
