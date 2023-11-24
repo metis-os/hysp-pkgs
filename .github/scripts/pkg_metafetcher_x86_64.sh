@@ -29,7 +29,7 @@ SHA256_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpac
 #Parse
 NAME="$(echo $REPO_METADATA | jq -r '.name' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export NAME="$NAME"
 AUTHOR="$(echo $REPO_METADATA | jq -r '.owner.login' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export AUTHOR="$AUTHOR"
-DESCRIPTION="$(echo $REPO_METADATA | jq -r '.description' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export DESCRIPTION="$DESCRIPTION"
+DESCRIPTION="$(echo $REPO_METADATA | jq -r '.description' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//' | sed ':a;N;$!ba;s/\r\n//g; s/\n//g')" && export DESCRIPTION="$DESCRIPTION"
 LANGUAGE="$(echo $REPO_METADATA | jq -r '.language' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export LANGUAGE="$LANGUAGE"
 LICENSE="$(echo $REPO_METADATA | jq -r '.license.name' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export LICENSE="$LICENSE"
 LAST_UPDATED="$(echo $REPO_METADATA | jq -r '.pushed_at' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export LAST_UPDATED="$LAST_UPDATED"
