@@ -25,7 +25,7 @@ fi
 PKG_METADATA="$(curl -qfsSL "https://api.github.com/repos/$SOURCE_BIN/contents/x86_64/$BIN" -H "Authorization: Bearer $GITHUB_TOKEN")" && export PKG_METADATA="$PKG_METADATA"
 REPO_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO" -H "Authorization: Bearer $GITHUB_TOKEN")" && export REPO_METADATA="$REPO_METADATA"
 RELEASE_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO/releases/latest" -H "Authorization: Bearer $GITHUB_TOKEN")" && export RELEASE_METADATA="$RELEASE_METADATA"
-
+SHA256_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/README.md" | grep -A 9999999999999 "SHA256SUM" | awk '/Sizes/{exit} {print}')" && export SHA256_SUMS="$SHA256_SUMS"
 #Parse
 NAME="$(echo $REPO_METADATA | jq -r '.name')" && export NAME="$NAME"
 AUTHOR="$(echo $REPO_METADATA | jq -r '.owner.login')" && export AUTHOR="$AUTHOR"
@@ -37,7 +37,7 @@ PKG_VERSION="$(echo $RELEASE_METADATA | jq -r '.tag_name')" && export PKG_VERSIO
 PKG_RELEASED="$(echo $RELEASE_METADATA | jq -r '.published_at')" && export PKG_RELEASED="$PKG_RELEASED"
 REPO_URL="$(echo $REPO_METADATA | jq -r '.html_url')" && export REPO_URL="$REPO_URL"
 SIZE="$(echo $PKG_METADATA | jq -r '.size' | awk '{printf "%.2f MB\n", $1 / (1024 * 1024)}')" && export SIZE="$SIZE"
-SHA="$(echo $PKG_METADATA | jq -r '.sha')" && export SHA="$SHA"
+SHA="$(echo "$SHA256_SUMS" | grep -i "$BIN" | awk '{print $1}')" && export SHA="$SHA"
 SOURCE_URL="$(echo $PKG_METADATA | jq -r '.download_url')" && export SOURCE_URL="$SOURCE_URL"
 STARS="$(echo $REPO_METADATA | jq -r '.stargazers_count')" && export STARS="$STARS"
 TOPICS="$(echo "$REPO_METADATA" | jq -c -r '.topics')" && export TOPICS="$TOPICS"
