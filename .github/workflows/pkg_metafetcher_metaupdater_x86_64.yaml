@@ -1,0 +1,110 @@
+name: 🛍️ Generate | Update ⚙️ Daily Package 📦 Metadata 🗄️
+#MAX_RUNTIME:  
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0" #  12:00 AM UTC Every Sunday (05:45 AM Morning Nepal) 
+  
+env:
+  GITHUB_TOKEN: ${{ secrets.HYSP_TOKEN }}
+  
+jobs:
+#------------------------------------------------------------------------------------#
+#------------------------------------------------------------------------------------#
+  fetch-binaries:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:        
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: main
+
+      - name: Install CoreUtils & Deps
+        run: |
+          set +e
+          sudo apt-get update -y
+          sudo apt-get install coreutils ca-certificates curl git dos2unix lzip jq moreutils p7zip-full util-linux wget -y
+          #Re
+          sudo apt-get install coreutils ca-certificates curl git dos2unix lzip jq moreutils p7zip-full util-linux wget -y
+        continue-on-error: true
+        
+      - name: Install Addons
+        run: |
+          set +e
+          #eget
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
+        continue-on-error: true
+
+      - name: Setup Env
+        run: |
+          # Create Output Dir
+          mkdir -p "$GITHUB_WORKSPACE/main/data/x86_64"
+
+#------------------------------------------------------------------------------------#
+     #----------------------------#
+     #airiXSS : xss automater
+      - name: Generate Meta (airixss)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="airixss" REPO="ferreiraklet/airixss" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true 
+     #----------------------------#
+     #eget : Easily install prebuilt binaries from GitHub
+      - name: Generate Meta (eget)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="eget" REPO="zyedidia/eget" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #hxn : ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal
+      - name: Generate Meta (hxn)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="hxn" REPO="pwnwriter/haylxon" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #kanha : 🦚 A web-app pentesting suite written in rust
+      - name: Generate Meta (hxn)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="kanha" REPO="pwnwriter/kanha" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+#------------------------------------------------------------------------------------#        
+      - name: Dos2Unix Everything
+        run: |
+          cd "$GITHUB_WORKSPACE/main/data/x86_64/"
+          find . -type f -exec dos2unix {} \;
+        continue-on-error: true
+
+      - name: Git Pull
+        run: |
+           cd "$GITHUB_WORKSPACE/main" && git pull origin main
+        continue-on-error: true
+
+      - name: Get DateTime
+        run: |
+          # Date Time
+          NEPALI_TIME=$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')
+          echo "NEPALI_TIME=$NEPALI_TIME" >> $GITHUB_ENV
+        continue-on-error: true
+                  
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main        
+          commit_user_name: Azathothas # defaults to "github-actions[bot]"
+          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "✅ 🛍️ Generated | Updated ⚙️ Daily Package 📦 Metadata 🗄️ <-- ${{ env.NEPALI_TIME }} ⌚"
+          #push_options: '--force'
+#------------------------------------------------------------------------------------#          
