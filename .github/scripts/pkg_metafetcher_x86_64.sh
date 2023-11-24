@@ -29,7 +29,7 @@ SHA256_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpac
 #Parse
 NAME="$(echo $REPO_METADATA | jq -r '.name')" && export NAME="$NAME"
 AUTHOR="$(echo $REPO_METADATA | jq -r '.owner.login')" && export AUTHOR="$AUTHOR"
-DESCRIPTION="$(echo $REPO_METADATA | jq -r '.description')" && export DESCRIPTION="$DESCRIPTION"
+DESCRIPTION="$(echo $REPO_METADATA | jq -r '.description' | sed 's/"//g')" && export DESCRIPTION="$DESCRIPTION"
 LANGUAGE="$(echo $REPO_METADATA | jq -r '.language')" && export LANGUAGE="$LANGUAGE"
 LICENSE="$(echo $REPO_METADATA | jq -r '.license.name')" && export LICENSE="$LICENSE"
 LAST_UPDATED="$(echo $REPO_METADATA | jq -r '.pushed_at')" && export LAST_UPDATED="$LAST_UPDATED"
