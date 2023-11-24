@@ -21,6 +21,7 @@ license = "MIT License"
 
 [package.conditions]
 conflicts  = ["bore"]
+requires = []
 
 [package.metadata]
 keywords = ["cli","localhost","networking","proxy","rust","self-hosted","tcp","tunnel"]
