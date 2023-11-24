@@ -1,0 +1,28 @@
+[bin]
+name = "containerd"
+
+[source]
+url = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/containerd"
+
+[package]
+architecture = "x86_64"
+name = "containerd"
+description = "An open and reliable container runtime"
+author = "containerd"
+repo = "https://github.com/containerd/containerd"
+stars = "15164"
+version = "v1.7.9"
+updated = "2023-11-16T04:35:29Z"
+size = "37.61 MB"
+sha = "380e760c3ff4b4ae39408d04fec49db4a7b606c67de91ee0f103318fa7d5ce7b"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/containerd"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["containerd"]
+requires = []
+
+[package.metadata]
+keywords = ["cncf","containerd","containers","cri","docker","hacktoberfest","kubernetes","oci"]
+categories = ["Utilities"]

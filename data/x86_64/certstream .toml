@@ -1,0 +1,28 @@
+[bin]
+name = "certstream "
+
+[source]
+url = ""
+
+[package]
+architecture = "x86_64"
+name = "certstream "
+description = "Hastly written tools for Personal Use Cases description = "Hastly written tools for Personal Use Cases & Beg Bounties" Beg Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "6"
+version = ""
+updated = ""
+size = ""
+sha = ""
+source = ""
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["certstream "]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","recon","tools"]
+categories = ["Utilities"]

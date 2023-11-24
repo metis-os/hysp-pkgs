@@ -1,0 +1,28 @@
+[bin]
+name = "asnmap"
+
+[source]
+url = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/asnmap"
+
+[package]
+architecture = "x86_64"
+name = "asnmap"
+description = "Go CLI and Library for quickly mapping organization network ranges using ASN information."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/asnmap"
+stars = "547"
+version = "v1.0.6"
+updated = "2023-11-09T14:08:16Z"
+size = "19.36 MB"
+sha = "9e766e234f3e16c9ce23a63ae03b55b920e012dfbcd5bc52ca8aaf0911a50d05"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/asnmap"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["asnmap"]
+requires = []
+
+[package.metadata]
+keywords = ["asn","asn-lookup","cidr-range","osint","recon"]
+categories = ["Utilities"]
