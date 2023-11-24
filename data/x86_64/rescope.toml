@@ -4,7 +4,7 @@ name = "rescope"
 [package]
 architecture = "x86_64"
 name = "rescope"
-description = "A scope generation tool for Burp Suite description = "A scope generation tool for Burp Suite description = "A scope generation tool for Burp Suite & ZAP" ZAP" ZAP"
+description = " ZAP"
 author = "root4loot"
 repo = "https://github.com/root4loot/rescope"
 stars = "305"
