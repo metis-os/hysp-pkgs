@@ -21,6 +21,7 @@ license = "$LICENSE"
 
 [package.conditions]
 conflicts  = ["$BIN"]
+requires = []
 
 [package.metadata]
 keywords = $TOPICS
