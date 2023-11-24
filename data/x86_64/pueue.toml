@@ -13,6 +13,7 @@ updated = "2023-10-27T16:31:24Z"
 size = "1.61 MB"
 sha = "393af8f290f2775fdbe90e42dd47e529a9f44cd72172d8f13fa3d970e905c340
 01f5a49d23751fc90d1679213a142d4e12d730ecb6004fe12cf208f9342070fd"
+01f5a49d23751fc90d1679213a142d4e12d730ecb6004fe12cf208f9342070fd"
 source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pueue"
 language = "Rust"
 license = "MIT License"

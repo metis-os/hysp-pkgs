@@ -4,7 +4,7 @@ name = "aria2c"
 [package]
 architecture = "x86_64"
 name = "aria2c"
-description = "aria2 is a lightweight multi-protocol description = "aria2 is a lightweight multi-protocol description = "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink." multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink." multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink."
+description = "aria2 is a lightweight multi-protocol description = "aria2 is a lightweight multi-protocol description = "aria2 is a lightweight multi-protocol description = "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink." multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink." multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink." multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink."
 author = "aria2"
 repo = "https://github.com/aria2/aria2"
 stars = "31965"

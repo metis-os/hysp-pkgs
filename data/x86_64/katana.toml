@@ -14,6 +14,7 @@ size = "34.58 MB"
 sha = "9ab75e0ef187c0199b27597b52e733761eec93e29dcbde665a36ecf59d3ef057
 aa834e4c895d7c5c86cb56cab636cbde95333a7c0bc308dbc6f8fb05ba110f60"
 aa834e4c895d7c5c86cb56cab636cbde95333a7c0bc308dbc6f8fb05ba110f60"
+aa834e4c895d7c5c86cb56cab636cbde95333a7c0bc308dbc6f8fb05ba110f60"
 source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/katana"
 language = "Go"
 license = "MIT License"

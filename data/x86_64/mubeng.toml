@@ -4,7 +4,7 @@ name = "mubeng"
 [package]
 architecture = "x86_64"
 name = "mubeng"
-description = "An incredibly fast proxy checker description = "An incredibly fast proxy checker description = "An incredibly fast proxy checker & IP rotator with ease." IP rotator with ease." IP rotator with ease."
+description = "An incredibly fast proxy checker description = "An incredibly fast proxy checker description = "An incredibly fast proxy checker description = "An incredibly fast proxy checker & IP rotator with ease." IP rotator with ease." IP rotator with ease." IP rotator with ease."
 author = "kitabisa"
 repo = "https://github.com/kitabisa/mubeng"
 stars = "1270"

@@ -14,6 +14,8 @@ size = "10.98 MB"
 sha = "18ac33212c435fe29be1557c690b4c93c0cb916964ff6cf645b4044633b25a15
 f1bfbe48ec0eaaed27fcc02f7f6d6c88a1dd5bc53f9a686755d0874be42dc6ce
 1d5f74fcad744897989fa9512220b130e76bb1087bb8f4e9c31766ad4470b8d5"
+f1bfbe48ec0eaaed27fcc02f7f6d6c88a1dd5bc53f9a686755d0874be42dc6ce
+1d5f74fcad744897989fa9512220b130e76bb1087bb8f4e9c31766ad4470b8d5"
 source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tailscale"
 language = "Go"
 license = "BSD 3-Clause "New" or "Revised" License"

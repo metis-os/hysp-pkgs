@@ -14,6 +14,7 @@ size = "1.86 MB"
 sha = "33758d99b9ff528c5f484981f4aa0606b660a285aab5a07bd955cbbe59f49f91
 98284ff35849291b01dc52ab51ed3eb2ab3e74a22a2a8c600d213dff4b9c77fc"
 98284ff35849291b01dc52ab51ed3eb2ab3e74a22a2a8c600d213dff4b9c77fc"
+98284ff35849291b01dc52ab51ed3eb2ab3e74a22a2a8c600d213dff4b9c77fc"
 source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gf"
 language = "Go"
 license = "MIT License"

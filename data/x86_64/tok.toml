@@ -13,6 +13,7 @@ updated = ""
 size = "1.30 MB"
 sha = "35220b188639b3138518df4cf258dd7b43644f0e791696b502fade8b50fab2e5
 65387d346d7469b4d225be887b44ee301627d2e96591004965bf8cd0d22bff0f"
+65387d346d7469b4d225be887b44ee301627d2e96591004965bf8cd0d22bff0f"
 source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tok"
 language = "Go"
 license = "null"

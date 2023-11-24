@@ -4,7 +4,7 @@ name = "subxtract"
 [package]
 architecture = "x86_64"
 name = "subxtract"
-description = "Hastly written tools for Personal Use Cases description = "Hastly written tools for Personal Use Cases & Beg Bounties" Beg Bounties"
+description = "Hastly written tools for Personal Use Cases description = "Hastly written tools for Personal Use Cases description = "Hastly written tools for Personal Use Cases & Beg Bounties" Beg Bounties" Beg Bounties"
 author = "Azathothas"
 repo = "https://github.com/Azathothas/Arsenal"
 stars = "6"
