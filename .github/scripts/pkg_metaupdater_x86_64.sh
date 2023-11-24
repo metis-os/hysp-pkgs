@@ -41,7 +41,6 @@ awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL=
       gsub(/updated = .*/, "updated = \"" PKG_RELEASED "\""); \
       gsub(/size = .*/, "size = \"" SIZE "\""); \
       gsub(/sha = .*/, "sha = \"" SHA "\""); \
-      gsub(/source = .*/, "source = \"" SOURCE_URL "\""); \
       gsub(/language = .*/, "language = \"" LANGUAGE "\""); \
       gsub(/license = .*/, "license = \"" LICENSE "\""); \
       gsub(/url = .*/, "url = \"" SOURCE_URL "\""); \
