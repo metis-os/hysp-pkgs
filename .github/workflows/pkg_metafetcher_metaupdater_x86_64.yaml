@@ -1911,24 +1911,24 @@ jobs:
           #--------------#
           BIN="websocat" REPO="vi/websocat" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
-    #  #----------------------------#
-    #  #wireguard-go
-    #   - name: Generate Meta (wireguard-go)
-    #     run: |
-    #       #Presets
-    #       set -x ; set +e ; ulimit -S -s unlimited
-    #       #--------------#
-    #       BIN="wireguard-go" REPO="wireguard-go/wireguard-go" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-    #     continue-on-error: true
-    #  #----------------------------#
-    #  #WireGuard-rs : Rust Implementation of WireGuard
-    #   - name: Generate Meta (wireguard-rs)
-    #     run: |
-    #       #Presets
-    #       set -x ; set +e ; ulimit -S -s unlimited
-    #       #--------------#
-    #       BIN="wireguard-rs" REPO="wireguard-rs/wireguard-rs" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-    #     continue-on-error: true
+     #----------------------------#
+     #wireguard-go : Go Implementation of WireGuard
+      - name: Generate Meta (wireguard-go)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="wireguard-go" REPO="WireGuard/wireguard-go" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #WireGuard-rs : Rust Implementation of WireGuard
+      - name: Generate Meta (wireguard-rs)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="wireguard-rs" REPO="WireGuard/wireguard-rs" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
      #----------------------------#
      #WireProxy : Wireguard client that exposes itself as a socks5 proxy
       - name: Generate Meta (wireproxy)
