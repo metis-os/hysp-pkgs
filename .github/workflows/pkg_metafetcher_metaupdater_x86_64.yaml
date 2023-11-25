@@ -45,9 +45,6 @@ jobs:
         run: |
           # Create Output Dir
           mkdir -p "$GITHUB_WORKSPACE/main/data/x86_64"
-          #SHA256-SUM
-          SHA256_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/README.md" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | grep -A 9999999999999 "SHA256SUM" 2>/dev/null | awk '/Sizes/{exit} {print}' 2>/dev/null | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SHA256_SUMS="$SHA256_SUMS"
-          echo "SHA256_SUMS=$SHA256_SUMS" >> $GITHUB_ENV
         continue-on-error: true
 #------------------------------------------------------------------------------------#
      #----------------------------#
@@ -55,15 +52,15 @@ jobs:
       - name: Generate Meta (7z)
         run: |
           #Presets
-          set -x ; set +e
+          set +x ; set +e
           #--------------#
           #Generate Basic Meta
-          export BIN="7z" ; export DESCRIPTION="7-Zip is a file archiver with a high compression ratio." ;  export AUTHOR="Igor Pavlov" ; export
-           REPO_URL="https://sourceforge.net/projects/sevenzip/" ; export STARS="" ; export SOURCE_URL="https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" ; export LANGUAGE="C++" ; export LICENSE="LGPL-2.1-or-later" ; export TOPICS='["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]'
+          export SOURCE_BIN="Azathothas/Toolpacks"
+          export BIN="7z" ; export DESCRIPTION="7-Zip is a file archiver with a high compression ratio." ;  export AUTHOR="Igor Pavlov" ; export REPO_URL="https://sourceforge.net/projects/sevenzip/" ; export STARS="" ; export SOURCE_URL="https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" ; export LANGUAGE="C++" ; export LICENSE="LGPL-2.1-or-later" ; export TOPICS='["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]'
           PKG_METADATA="$(curl -qfsSL "https://api.github.com/repos/$SOURCE_BIN/contents/x86_64/$BIN" -H "Authorization: Bearer $GITHUB_TOKEN")" && export PKG_METADATA="$PKG_METADATA" 
           #Generate Dynamic Meta
+          SHA="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/README.md" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | grep -A 9999999999999 "SHA256SUM" 2>/dev/null | awk '/Sizes/{exit} {print}' 2>/dev/null | sed 's/^[ \t]*//;s/[ \t]*$//' | grep -i "x86_64/$BIN$" | awk '{print $1}' | sort  -u | head -n 1 | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SHA="$SHA"
           SIZE="$(echo $PKG_METADATA | jq -r '.size' | awk '{printf "%.2f MB\n", $1 / (1024 * 1024)}' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SIZE="$SIZE"
-          SHA="$(echo "$SHA256_SUMS" | grep -i "x86_64/$BIN$" | awk '{print $1}' | sort  -u | head -n 1 | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SHA="$SHA"
           PKG_VERSION="$(curl -qfsSL "https://www.7-zip.org/download.html" | grep -oP '<B>Download 7-Zip \K[^<]*' | grep -iv 'windows' | sort -u | tail -n 1 |  awk '{print $1}')" && export PKG_VERSION="$PKG_VERSION" 
           PKG_RELEASED="$(curl -qfsSL "https://www.7-zip.org/download.html" | grep -oP '<B>Download 7-Zip \K[^<]*' | grep -iv 'windows' | sort -u | tail -n 1 |  awk '{print $2}')" && export PKG_RELEASED="$PKG_RELEASED" 
           #Update
