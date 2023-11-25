@@ -1,0 +1,25 @@
+[bin]
+name = "hednsextractor"
+
+[package]
+architecture = "x86_64"
+name = "hednsextractor"
+description = "raw html extractor from Hurricane Electric portal"
+author = "HuntDownProject"
+repo = "https://github.com/HuntDownProject/HEDnsExtractor"
+stars = "178"
+version = "v1.0.1"
+updated = "2023-10-17T01:16:50Z"
+size = "13.84 MB"
+sha = "71bd6cbd71259edcb4b00ba33dbbbc605c1be5d6d9659991b3d034783c18d79a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hednsextractor"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["hednsextractor"]
+requires = []
+
+[package.metadata]
+keywords = ["threat-hunting","threat-intelligence","threatintel"]
+categories = ["Utilities"]

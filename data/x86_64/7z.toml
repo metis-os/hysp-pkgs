@@ -1,0 +1,25 @@
+[bin]
+name = "7z"
+
+[package]
+architecture = "x86_64"
+name = "7z"
+description = "7-Zip is a file archiver with a high compression ratio."
+author = "Igor Pavlov"
+repo = "https://sourceforge.net/projects/sevenzip/"
+stars = ""
+version = "23.01"
+updated = "(2023-06-20)"
+size = "3.49 MB"
+sha = "b81c37aca9b7af945916d84235dcb27beaef519417130a594915b6583a5b1710"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z"
+language = "C++"
+license = "LGPL-2.1-or-later"
+
+[package.conditions]
+conflicts  = ["7z"]
+requires = []
+
+[package.metadata]
+keywords = ["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]
+categories = ["Utilities"]

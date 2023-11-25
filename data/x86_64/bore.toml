@@ -1,0 +1,25 @@
+[bin]
+name = "bore"
+
+[package]
+architecture = "x86_64"
+name = "bore"
+description = "🕳 bore is a simple CLI tool for making tunnels to localhost"
+author = "ekzhang"
+repo = "https://github.com/ekzhang/bore"
+stars = "7435"
+version = "v0.5.0"
+updated = "2023-04-28T02:05:39Z"
+size = "1.41 MB"
+sha = "9fa324a78b79efbac24872071059372daa992520e88436573a33eda359b21552"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bore"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["bore"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","localhost","networking","proxy","rust","self-hosted","tcp","tunnel"]
+categories = ["Utilities"]

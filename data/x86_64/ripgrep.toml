@@ -1,0 +1,25 @@
+[bin]
+name = "ripgrep"
+
+[package]
+architecture = "x86_64"
+name = "ripgrep"
+description = "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+author = "BurntSushi"
+repo = "https://github.com/BurntSushi/ripgrep"
+stars = "41189"
+version = "13.0.0"
+updated = "2021-06-12T12:27:16Z"
+size = "5.02 MB"
+sha = "4ef156371199b3ddac1bf584e0e52b1828279af82e4ea864b4d9c816adb5db40"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ripgrep"
+language = "Rust"
+license = "The Unlicense"
+
+[package.conditions]
+conflicts  = ["ripgrep"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","gitignore","grep","recursively-search","regex","ripgrep","rust","search"]
+categories = ["Utilities"]

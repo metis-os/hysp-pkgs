@@ -1,0 +1,25 @@
+[bin]
+name = "dsieve"
+
+[package]
+architecture = "x86_64"
+name = "dsieve"
+description = "Filter and enrich a list of subdomains by level"
+author = "trickest"
+repo = "https://github.com/trickest/dsieve"
+stars = "173"
+version = "v1.2.0"
+updated = "2022-09-16T12:06:36Z"
+size = "2.52 MB"
+sha = "33cff0a79f6d6d203eda58389087f4889ef580d0748da872cf6abe4ca3b04d8a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dsieve"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dsieve"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","enumeration","infosec","infosectools","penetration-testing","penetration-testing-tools","pentesting","pentesting-tools","security","subdomain","subdomain-enumeration","subdomain-finder","subdomain-scanner"]
+categories = ["Utilities"]

@@ -1,0 +1,25 @@
+[bin]
+name = "neofetch"
+
+[package]
+architecture = "x86_64"
+name = "neofetch"
+description = "🖼️ A command-line system information tool written in bash 3.2+"
+author = "dylanaraps"
+repo = "https://github.com/dylanaraps/neofetch"
+stars = "19255"
+version = "7.1.0"
+updated = "2020-08-02T18:50:56Z"
+size = "0.51 MB"
+sha = "7f39486f99b1e3ec2a218c1bbcf06073543a605cda09005e0636f0257b305aaa"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/neofetch"
+language = "Shell"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["neofetch"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","command-line","commandline","distro","neofetch","screenshot","script"]
+categories = ["Utilities"]
