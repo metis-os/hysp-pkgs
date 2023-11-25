@@ -1,10 +1,12 @@
+#Replaced by : https://github.com/metis-os/hysp-pkgs/blob/main/available.toml
 name: Update Available TOML
 on:
+  workflow_dispatch:
   #push:
   #  branches:
   #    - main
-  schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours, at the start of the hour
+  #schedule:
+  #  - cron: '0 */12 * * *' # Runs every 12 hours, at the start of the hour
 
 jobs:
   update_available_toml:
