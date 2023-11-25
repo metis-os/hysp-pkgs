@@ -2079,6 +2079,16 @@ jobs:
            #for file in "$GITHUB_WORKSPACE/main/data/x86_64" ; do [ -f "$file" ] && validtoml --quiet "$file"; done
            find "$GITHUB_WORKSPACE/main/data/x86_64" -type f -name '*.toml' -exec validtoml --quiet {} \; 2>/dev/null
         continue-on-error: true
+
+      - name: Update Available Index
+        run: |
+           #Presets
+           set -x ; set +e ; ulimit -S -s unlimited
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Update
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee "$GITHUB_WORKSPACE/main/available.toml"
+        continue-on-error: true
         
       - name: Get DateTime
         run: |
