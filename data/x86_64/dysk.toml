@@ -17,8 +17,8 @@ language = "Rust"
 license = "MIT License"
 
 [package.conditions]
-conflicts  = [""]
-requires = []
+conflicts  = ["dysk"]
+requires = ["egbin"]
 
 [package.metadata]
 keywords = ["filesystem","hacktoberfest","linux","rust"]
