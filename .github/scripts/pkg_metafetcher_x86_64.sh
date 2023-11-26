@@ -27,7 +27,7 @@ PKG_METADATA="$(curl -qfsSL "https://api.github.com/repos/$SOURCE_BIN/contents/x
 #For Name, author, description, lang, license, repo url, stars, topics etc
 REPO_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO" -H "Authorization: Bearer $GITHUB_TOKEN")" && export REPO_METADATA="$REPO_METADATA"
 #For Version
-RELEASE_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO/releases/latest" -H "Authorization: Bearer $GITHUB_TOKEN")" && export RELEASE_METADATA="$RELEASE_METADATA"
+RELEASE_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO/releases/latest" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null)" && export RELEASE_METADATA="$RELEASE_METADATA"
 #SHA-SUMS for Verification
 SHA256_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/README.md" -H "Authorization: Bearer $GITHUB_TOKEN" | grep -A 9999999999999 "SHA256SUM" 2>/dev/null | awk '/Sizes/{exit} {print}' 2>/dev/null | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SHA256_SUMS="$SHA256_SUMS"
 #Parse
