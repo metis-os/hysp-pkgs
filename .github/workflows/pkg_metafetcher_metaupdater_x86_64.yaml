@@ -2201,16 +2201,24 @@ jobs:
            cat "$GITHUB_WORKSPACE/main/available.toml" | yj -tj | jq . | tee "$GITHUB_WORKSPACE/main/available.json"
         continue-on-error: true
         
-      - name: Generate Markdown (From $GITHUB_WORKSPACE/main/available.json)
+      - name: Generate Markdown (No Table --> ./data/x86_64.md)
         run: |
            #Presets
            set -x ; set +e ; ulimit -S -s unlimited
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/data/x86_64/README.md
-           cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/x86_64/README.md"
-           #Also at $GITHUB_WORKSPACE/main/data/x86_64.md
-           cat "$GITHUB_WORKSPACE/main/data/x86_64/README.md" > "$GITHUB_WORKSPACE/main/data/x86_64.md"
+           cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/x86_64.md"
+        continue-on-error: true
+
+      - name: Generate Markdown (Table --> ./data/x86_64/README.md)
+        run: |
+           #Presets
+           set -x ; set +e ; ulimit -S -s unlimited
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Generate $GITHUB_WORKSPACE/main/data/x86_64/README.md
+           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/available.json | jq -r '.packages[] | select(.architecture == "x86_64") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.source) | \(.language) | \(.license) |"' } | tee "$GITHUB_WORKSPACE/main/data/x86_64/README.md"
         continue-on-error: true
 
       - name: Get DateTime
