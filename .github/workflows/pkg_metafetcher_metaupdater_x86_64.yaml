@@ -39,6 +39,8 @@ jobs:
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
           #validtoml
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
+          #Yj
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
         continue-on-error: true
 
       - name: Setup Env
@@ -2187,16 +2189,30 @@ jobs:
            find "$GITHUB_WORKSPACE/main/data/x86_64" -type f -name '*.toml' -exec validtoml --quiet {} \; 2>/dev/null
         continue-on-error: true
 
-      - name: Update Available Index
+      - name: Update Available Index (JSON || TOML)
         run: |
            #Presets
            set -x ; set +e ; ulimit -S -s unlimited
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
-           #Update
+           #Update $GITHUB_WORKSPACE/main/available.toml
            awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee "$GITHUB_WORKSPACE/main/available.toml"
+           #Update $GITHUB_WORKSPACE/main/available.json
+           cat "$GITHUB_WORKSPACE/main/available.toml" | yj -tj | jq . | tee "$GITHUB_WORKSPACE/main/available.json"
         continue-on-error: true
         
+      - name: Generate Markdown (From $GITHUB_WORKSPACE/main/available.json)
+        run: |
+           #Presets
+           set -x ; set +e ; ulimit -S -s unlimited
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Generate $GITHUB_WORKSPACE/main/data/x86_64/README.md
+           cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/x86_64/README.md"
+           #Also at $GITHUB_WORKSPACE/main/data/x86_64.md
+           cat "$GITHUB_WORKSPACE/main/data/x86_64/README.md" > "$GITHUB_WORKSPACE/main/data/x86_64.md"
+        continue-on-error: true
+
       - name: Get DateTime
         run: |
           # Date Time
