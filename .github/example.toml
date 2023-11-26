@@ -1,26 +1,25 @@
-[package]
-name = "foo"
-version = "x.y.z"
-description = "A sample package for demonstration purposes"
-license = "bar"
-size = "x.yM"
-
-[maintainer]
-name = "foo " #Maintainer infos
-email = "foo@bar.com"
-
-[source]
-url = "https://github.com/bytehunt/seren-pkgs/raw/main/pkgs/foo" # Binary url
-
 [bin]
-name = "foo"  # Name of the binary executable
+name = "foo"  # Name of the binary executable (Required)
+
+[package]
+architecture = "x86_64" #Target system architecture: uname -m (Required)
+name = "foo" # Name of the binary executable (Required)
+description = "A sample package for demonstration purposes" # description of what the pkg is/does (Required)
+author = "foo-user" #name of author (Required,, leave empty if none)
+repo = "https://github.com/foo-user/foo" #Source code repo or homepage (Optional)
+stars = "69420" #if github, then number of stars (Optional)
+version = "x.y.z" #pkg version (Optional)
+updated = "2069-06-09:T06:09:42Z" #last updated when || Release date (Optional)
+size = "x.y MB" #size of binary (Optional ?)
+sha = "sha256sumsha256sumsha256sumsha256sumsha256sumsha256sum" #sha256sum of the binary (Required)
+source = "https://github.com/bytehunt/seren-pkgs/raw/main/pkgs/foo" # Binary url (Required)
+language = "rust" #(Optional)
+license = "foo-license" #(Optional)
 
 [package.conditions]
-conflicts  = [ "foo"  ] # Example conflict entry
-dependencies = [ "foo" ]  # Example dependency entry
+conflicts  = [ "foo"  ] # Example conflict entry (Required)
+requires = [ "foo-server" ]  # Example dependency entry (Required, leave empty if none)
 
 [package.metadata]
-hash = "57f8c02b16eefe47cc099336f43c3f5e491c34bd446c9b32f33c9da29adebd5d" # Optional b3sum
 keywords = ["sample", "demonstration", "rust"] # Optional
-categories = ["Utilities", "Development"] # Needed
-
+categories = ["Utilities", "Development"] # Default is Utilities
