@@ -18,7 +18,7 @@ license = "Other"
 
 [package.conditions]
 conflicts  = ["git"]
-requires = []
+requires = ["gitk","git-cvsserver","git-lfs","git-receive-pack","git-shell","git-upload-archive","git-upload-pack","scalar"]
 
 [package.metadata]
 keywords = ["c","hacktoberfest","shell"]
