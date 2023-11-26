@@ -1,0 +1,3555 @@
+### 7z
+- **Description:** 7-Zip is a file archiver with a high compression ratio.
+- **Author:** Igor Pavlov
+- **Repository:** [https://sourceforge.net/projects/sevenzip/](https://sourceforge.net/projects/sevenzip/)
+- **Stars:** 
+- **Version:** 23.01
+- **Updated:** (2023-06-20)
+- **Size:** 3.49 MB
+- **SHA:** b81c37aca9b7af945916d84235dcb27beaef519417130a594915b6583a5b1710
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z
+- **Language:** C++
+- **License:** LGPL-2.1-or-later
+
+---
+
+### Web-Cache-Vulnerability-Scanner
+- **Description:** Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
+- **Author:** Hackmanit
+- **Repository:** [https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
+- **Stars:** 735
+- **Version:** 1.1.0
+- **Updated:** 2022-05-02T11:36:48Z
+- **Size:** 5.43 MB
+- **SHA:** f9cb8aa309946327c21a3f8e8e31922ea05647c9facf340dd92c8e796002276f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/Web-Cache-Vulnerability-Scanner
+- **Language:** Go
+- **License:** Other
+
+---
+
+### airixss
+- **Description:** Finding XSS during recon
+- **Author:** ferreiraklet
+- **Repository:** [https://github.com/ferreiraklet/airixss](https://github.com/ferreiraklet/airixss)
+- **Stars:** 212
+- **Version:** att
+- **Updated:** 2022-09-13T20:15:47Z
+- **Size:** 4.68 MB
+- **SHA:** 9b3a5c552206496f5d04221d21d1e6fdad78d57f8629bcb37c6a78ddf2455f6a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/airixss
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### aix
+- **Description:** AIx is a cli tool to interact with Large Language Models (LLM) APIs.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/aix](https://github.com/projectdiscovery/aix)
+- **Stars:** 204
+- **Version:** v0.0.3
+- **Updated:** 2023-05-25T12:10:12Z
+- **Size:** 29.93 MB
+- **SHA:** de8e7a248c90e6d11818111cf8ce7b3365ce37c5d677cd1f6d952966b0ba5f16
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/aix
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### amass
+- **Description:** In-depth attack surface mapping and asset discovery
+- **Author:** owasp-amass
+- **Repository:** [https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)
+- **Stars:** 10430
+- **Version:** v4.2.0
+- **Updated:** 2023-09-10T20:52:27Z
+- **Size:** 34.90 MB
+- **SHA:** d5c995fb0739dc615c61ade323ab8eba4aeca286e99add37f0e4b0aeae4565d3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/amass
+- **Language:** Go
+- **License:** Other
+
+---
+
+### anew
+- **Description:** A tool for adding new lines to files, skipping duplicates
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
+- **Stars:** 1086
+- **Version:** v0.1.1
+- **Updated:** 2022-03-15T22:35:31Z
+- **Size:** 1.22 MB
+- **SHA:** 7508799efc05295108cbbbb9528c6796f3764f5b351874b980be633324c1257a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/anew
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### aria2c
+- **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- **Author:** aria2
+- **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
+- **Stars:** 31972
+- **Version:** release-1.37.0
+- **Updated:** 2023-11-15T12:07:32Z
+- **Size:** 8.28 MB
+- **SHA:** 4dba76c80d5a05ab6fe0e752138394df203f4ce3cd89f6aaa6ec6d2608b01fa3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/aria2c
+- **Language:** C++
+- **License:** GNU General Public License v2.0
+
+---
+
+### asnmap
+- **Description:** Go CLI and Library for quickly mapping organization network ranges using ASN information.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap)
+- **Stars:** 548
+- **Version:** v1.0.6
+- **Updated:** 2023-11-09T14:08:16Z
+- **Size:** 19.36 MB
+- **SHA:** 9e766e234f3e16c9ce23a63ae03b55b920e012dfbcd5bc52ca8aaf0911a50d05
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/asnmap
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### assetfinder
+- **Description:** Find domains and subdomains related to a given domain
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder)
+- **Stars:** 2655
+- **Version:** v0.1.1
+- **Updated:** 2020-04-15T10:38:43Z
+- **Size:** 4.74 MB
+- **SHA:** 7a97806bc79f442829e49a1c3a42689a27d30a24db79e0726052f1b31d16264b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/assetfinder
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### atuin
+- **Description:** ✨ Magical shell history
+- **Author:** atuinsh
+- **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
+- **Stars:** 12239
+- **Version:** v17.0.1
+- **Updated:** 2023-10-28T19:30:49Z
+- **Size:** 18.30 MB
+- **SHA:** 270a606808479fd26264bc4b15dad2a062c744708e6ecdde9c04cf6bcffaf4dd
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/atuin
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### bat
+- **Description:** A cat(1) clone with wings.
+- **Author:** sharkdp
+- **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
+- **Stars:** 43952
+- **Version:** v0.24.0
+- **Updated:** 2023-10-11T18:20:46Z
+- **Size:** 5.50 MB
+- **SHA:** a972b0f06b9140646537503cdd410d96bc45495ba4f2e622828cfce9a845d379
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bat
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### bore
+- **Description:** 🕳 bore is a simple CLI tool for making tunnels to localhost
+- **Author:** ekzhang
+- **Repository:** [https://github.com/ekzhang/bore](https://github.com/ekzhang/bore)
+- **Stars:** 7439
+- **Version:** v0.5.0
+- **Updated:** 2023-04-28T02:05:39Z
+- **Size:** 1.41 MB
+- **SHA:** 9fa324a78b79efbac24872071059372daa992520e88436573a33eda359b21552
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bore
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### bottom
+- **Description:** Yet another cross-platform graphical process/system monitor.
+- **Author:** ClementTsang
+- **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
+- **Stars:** 7904
+- **Version:** 0.9.6
+- **Updated:** 2023-08-27T01:43:44Z
+- **Size:** 4.56 MB
+- **SHA:** 7377300ec6829dd7d350cc973b75fd3de2ae0bea5cf18f931bc810b9c5260e4a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bottom
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### btop
+- **Description:** A monitor of resources
+- **Author:** aristocratos
+- **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
+- **Stars:** 14030
+- **Version:** v1.2.13
+- **Updated:** 2022-11-06T21:36:41Z
+- **Size:** 2.42 MB
+- **SHA:** 6f979c183508b8a176514e113d8277c1bf08b07b99e18a64aa6e87ad062744d2
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/btop
+- **Language:** C++
+- **License:** Apache License 2.0
+
+---
+
+### busybox
+- **Description:** BusyBox mirror
+- **Author:** mirror
+- **Repository:** [https://github.com/mirror/busybox](https://github.com/mirror/busybox)
+- **Stars:** 1422
+- **Version:** 1_36_0
+- **Updated:** 2023-01-03T14:15:41Z
+- **Size:** 1.11 MB
+- **SHA:** 72b59cfbcbce34f7480354c9209c8e852b34d0c8863cb9ea290e1a23a80153d4
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/busybox
+- **Language:** C
+- **License:** Other
+
+---
+
+### cdncheck
+- **Description:** A utility to detect various technology for a given IP address.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck)
+- **Stars:** 515
+- **Version:** v1.0.9
+- **Updated:** 2023-06-09T11:21:20Z
+- **Size:** 19.51 MB
+- **SHA:** 8cbf5fc0d1974c5146a13db228999b56e6870fae887133dcde337247e654704b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cdncheck
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### cent
+- **Description:** Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
+- **Author:** xm1k3
+- **Repository:** [https://github.com/xm1k3/cent](https://github.com/xm1k3/cent)
+- **Stars:** 701
+- **Version:** v1.3.0
+- **Updated:** 2023-10-24T20:36:55Z
+- **Size:** 12.55 MB
+- **SHA:** 3c29a44909b32c1a9ca041cbe523e3b54c43b24a2df15f8998cce37626fa956a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cent
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### certstream
+- **Description:**  Beg Bounties
+- **Author:** Azathothas
+- **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
+- **Stars:** 6
+- **Version:** null
+- **Updated:** 
+- **Size:** 4.39 MB
+- **SHA:** a97dc5fe1dff5a459507e4b765296215d5e327970c0d4d43323603a95c082801
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/certstream
+- **Language:** Shell
+- **License:** null
+
+---
+
+### chaos-client
+- **Description:** Go client to communicate with Chaos DB API.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client)
+- **Stars:** 532
+- **Version:** v0.5.1
+- **Updated:** 2023-03-20T07:15:52Z
+- **Size:** 17.62 MB
+- **SHA:** feec5fa1c1fb941a266c5b4eb930d752b7990c56e37fc2ecd3938bf29eca90c2
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/chaos-client
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### cloudlist
+- **Description:** Cloudlist is a tool for listing Assets from multiple Cloud Providers.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist)
+- **Stars:** 720
+- **Version:** v1.0.4
+- **Updated:** 2023-10-02T09:26:24Z
+- **Size:** 93.17 MB
+- **SHA:** 05ae9b9e42ae667e210493719c4811dc7194f71849a977091ae84e27871146ec
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cloudlist
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### cloudreve
+- **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+- **Author:** cloudreve
+- **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
+- **Stars:** 19455
+- **Version:** 3.8.3
+- **Updated:** 2023-10-07T12:30:31Z
+- **Size:** 33.93 MB
+- **SHA:** 534a0397a99af7c14641381de0ed305ab5c5c50b8219748b8e81d42450c89e13
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cloudreve
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### comb
+- **Description:** A collection of hacks and one-off scripts
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
+- **Stars:** 1937
+- **Version:** null
+- **Updated:** 
+- **Size:** 1.29 MB
+- **SHA:** aac82b61c2c80b0c16214ca13eee698f274572a350a480930e85948c52ace4bb
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/comb
+- **Language:** Go
+- **License:** null
+
+---
+
+### containerd
+- **Description:** An open and reliable container runtime
+- **Author:** containerd
+- **Repository:** [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
+- **Stars:** 15164
+- **Version:** v1.7.9
+- **Updated:** 2023-11-16T04:35:29Z
+- **Size:** 37.61 MB
+- **SHA:** 380e760c3ff4b4ae39408d04fec49db4a7b606c67de91ee0f103318fa7d5ce7b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/containerd
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### cowtiness
+- **Description:** CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
+- **Author:** stolenusername
+- **Repository:** [https://github.com/stolenusername/cowitness](https://github.com/stolenusername/cowitness)
+- **Stars:** 109
+- **Version:** 1.2
+- **Updated:** 2023-09-26T11:53:53Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### cpufetch
+- **Description:** Simple yet fancy CPU architecture fetching tool
+- **Author:** Dr-Noob
+- **Repository:** [https://github.com/Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch)
+- **Stars:** 1700
+- **Version:** v1.04
+- **Updated:** 2023-05-06T10:09:18Z
+- **Size:** 0.92 MB
+- **SHA:** adf735b501823955eb7472357a9f26be2a7d6ed14cff7f49e459d47d034e02e2
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cpufetch
+- **Language:** C
+- **License:** GNU General Public License v2.0
+
+---
+
+### crlfuzz
+- **Description:** A fast tool to scan CRLF vulnerability written in Go
+- **Author:** dwisiswant0
+- **Repository:** [https://github.com/dwisiswant0/crlfuzz](https://github.com/dwisiswant0/crlfuzz)
+- **Stars:** 1133
+- **Version:** v1.4.1
+- **Updated:** 2021-04-03T03:16:30Z
+- **Size:** 4.55 MB
+- **SHA:** b6821635eb5ef453875f6ddca2a925a5ce5196abda19f6a894cf57a7c1f48e78
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crlfuzz
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### croc
+- **Description:** Easily and securely send things from one computer to another :crocodile: :package:
+- **Author:** schollz
+- **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
+- **Stars:** 25095
+- **Version:** v9.6.6
+- **Updated:** 2023-11-09T14:56:49Z
+- **Size:** 7.43 MB
+- **SHA:** 6687cdae112883ba81118b919382ffb4e3c141141c92a6250c33f1bb6de3066f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/croc
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### crt
+- **Description:** A CLI tool to check Certificate Transparency logs of a domain name.
+- **Author:** cemulus
+- **Repository:** [https://github.com/cemulus/crt](https://github.com/cemulus/crt)
+- **Stars:** 62
+- **Version:** v0.1.0
+- **Updated:** 2022-03-08T21:41:54Z
+- **Size:** 4.41 MB
+- **SHA:** e1e0c69ea1144d10db7918233d31474a8a847c011db9fb2d5db07ac11dafaf5c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### csprecon
+- **Description:** Discover new target domains using Content Security Policy
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/csprecon](https://github.com/edoardottt/csprecon)
+- **Stars:** 236
+- **Version:** v0.0.8
+- **Updated:** 2023-05-24T07:52:32Z
+- **Size:** 8.97 MB
+- **SHA:** 234256cebb3273e4f1d64041ed6fb1f6517dc19c86b49aa039e6afc65caeae96
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/csprecon
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### curl
+- **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- **Author:** curl
+- **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
+- **Stars:** 32467
+- **Version:** curl-8_4_0
+- **Updated:** 2023-10-11T06:28:45Z
+- **Size:** 7.32 MB
+- **SHA:** 5005b228d29629d89f56891828c118c14e47b62f4730ad6ad4b1cdca47244975
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/curl
+- **Language:** C
+- **License:** Other
+
+---
+
+### curlie
+- **Description:** The power of curl, the ease of use of httpie.
+- **Author:** rs
+- **Repository:** [https://github.com/rs/curlie](https://github.com/rs/curlie)
+- **Stars:** 2473
+- **Version:** v1.7.2
+- **Updated:** 2023-10-23T16:11:03Z
+- **Size:** 1.93 MB
+- **SHA:** 6afebc7219e73a323c0ee833a0c7952fc0a10443654c2e6c87425910fd33342d
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/curlie
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### cut-cdn
+- **Description:** ✂️ Removing CDN IPs from the list of IP addresses
+- **Author:** ImAyrix
+- **Repository:** [https://github.com/ImAyrix/cut-cdn](https://github.com/ImAyrix/cut-cdn)
+- **Stars:** 231
+- **Version:** v1.0.30
+- **Updated:** 2023-07-22T22:04:31Z
+- **Size:** 8.82 MB
+- **SHA:** 5756c0ef8dc4f5bc71fe27825c8d493b93468208ae9676eafb300542efb6466a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cut-cdn
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### dalfox
+- **Description:** 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+- **Author:** hahwul
+- **Repository:** [https://github.com/hahwul/dalfox](https://github.com/hahwul/dalfox)
+- **Stars:** 2983
+- **Version:** v2.9.1
+- **Updated:** 2023-11-26T00:56:40Z
+- **Size:** 23.81 MB
+- **SHA:** c8998d778e0f3d802926d1357cefa474b6f0468a9c6a64e4d663dc85c73ac617
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dalfox
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### devbox
+- **Description:** Instant, easy, and predictable development environments
+- **Author:** jetpack-io
+- **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
+- **Stars:** 6288
+- **Version:** 0.8.2
+- **Updated:** 2023-11-16T23:32:42Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### dnsx
+- **Description:** dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx)
+- **Stars:** 1790
+- **Version:** v1.1.6
+- **Updated:** 2023-11-11T19:20:44Z
+- **Size:** 23.07 MB
+- **SHA:** 0039cc394b6fb14749c46cb3b1c6072b4fb7465e993d4377e6ca9c7bb928ac7b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dnsx
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### doggo
+- **Description:** :dog: Command-line DNS Client for Humans. Written in Golang
+- **Author:** mr-karan
+- **Repository:** [https://github.com/mr-karan/doggo](https://github.com/mr-karan/doggo)
+- **Stars:** 1380
+- **Version:** v0.5.7
+- **Updated:** 2023-09-13T10:10:30Z
+- **Size:** 9.32 MB
+- **SHA:** 06e6fd26e7696798e8a0d36540ec42fb356f084f3b6406907dede25f4cfb11a4
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/doggo
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### dsieve
+- **Description:** Filter and enrich a list of subdomains by level
+- **Author:** trickest
+- **Repository:** [https://github.com/trickest/dsieve](https://github.com/trickest/dsieve)
+- **Stars:** 173
+- **Version:** v1.2.0
+- **Updated:** 2022-09-16T12:06:36Z
+- **Size:** 2.52 MB
+- **SHA:** 33cff0a79f6d6d203eda58389087f4889ef580d0748da872cf6abe4ca3b04d8a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dsieve
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### duf
+- **Description:** Disk Usage/Free Utility - a better 'df' alternative
+- **Author:** muesli
+- **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
+- **Stars:** 11723
+- **Version:** v0.8.1
+- **Updated:** 2022-02-08T06:49:51Z
+- **Size:** 2.04 MB
+- **SHA:** 07e4c2fc6729470dd811e80ad0bd991d08102624f45a9e38f095a3f1981550c1
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/duf
+- **Language:** Go
+- **License:** Other
+
+---
+
+### dust
+- **Description:** A more intuitive version of du in rust
+- **Author:** bootandy
+- **Repository:** [https://github.com/bootandy/dust](https://github.com/bootandy/dust)
+- **Stars:** 6937
+- **Version:** v0.8.6
+- **Updated:** 2023-05-05T19:59:54Z
+- **Size:** 2.28 MB
+- **SHA:** 9b9cfcb8ee840b76fcbdbb8dbbfbd15cf0880d67fecc2e263aa9dcd64ab712cb
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dust
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### dysk
+- **Description:** A linux utility to get information on filesystems, like df but better
+- **Author:** Canop
+- **Repository:** [https://github.com/Canop/dysk](https://github.com/Canop/dysk)
+- **Stars:** 703
+- **Version:** v2.8.2
+- **Updated:** 2023-10-16T14:25:06Z
+- **Size:** 3.04 MB
+- **SHA:** b10e26ec86e3bcfe8e89bb443835341cd625a6ba56fd1a896b1b9ba0f37632a8
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dysk
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### eget
+- **Description:** Easily install prebuilt binaries from GitHub.
+- **Author:** zyedidia
+- **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
+- **Stars:** 637
+- **Version:** v1.3.3
+- **Updated:** 2023-02-22T05:15:46Z
+- **Size:** 6.04 MB
+- **SHA:** f19fcc4629bd177eddfc40b80f4bc0221bcc6b4d72732009a8bd6d04779ed246
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### encode
+- **Description:** Script to read input from stdin and encode it
+- **Author:** Brum3ns
+- **Repository:** [https://github.com/Brum3ns/encode](https://github.com/Brum3ns/encode)
+- **Stars:** 18
+- **Version:** null
+- **Updated:** 
+- **Size:** 2.22 MB
+- **SHA:** ebfcebc5627d9a48c0c0f1599d1df20459235783ba87d967ea4e88dfcdd0b942
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/encode
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### enumerepo
+- **Description:** List all public repositories for (valid) GitHub usernames
+- **Author:** trickest
+- **Repository:** [https://github.com/trickest/enumerepo](https://github.com/trickest/enumerepo)
+- **Stars:** 61
+- **Version:** v1.0.0
+- **Updated:** 2022-07-25T16:19:09Z
+- **Size:** 4.58 MB
+- **SHA:** 26455af52c7e40066f856fccd23ab26f62c1c8656c26f6c8ba23b055e23d20dd
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/enumerepo
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### exa
+- **Description:** A modern replacement for ‘ls’.
+- **Author:** ogham
+- **Repository:** [https://github.com/ogham/exa](https://github.com/ogham/exa)
+- **Stars:** 22788
+- **Version:** v0.10.1
+- **Updated:** 2021-04-12T21:42:01Z
+- **Size:** 1.66 MB
+- **SHA:** 674f83010531a3f1e527aa0c8500a71b5cb0c3b48c620d41b92132883850d3e9
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/exa
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### fastfetch
+- **Description:** Like neofetch, but much faster because written in C.
+- **Author:** fastfetch-cli
+- **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- **Stars:** 1214
+- **Version:** 2.2.3
+- **Updated:** 2023-11-08T05:17:45Z
+- **Size:** 1.06 MB
+- **SHA:** 681bd228b04b614dcfb623adf3e05e4c76106fe22853b9804b116184820ab154
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/fastfetch
+- **Language:** C
+- **License:** MIT License
+
+---
+
+### fd
+- **Description:** A simple, fast and user-friendly alternative to 'find'
+- **Author:** sharkdp
+- **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
+- **Stars:** 29544
+- **Version:** v8.7.1
+- **Updated:** 2023-10-21T04:29:37Z
+- **Size:** 4.09 MB
+- **SHA:** 097e930d172036a8cc19e1c82147abe33afff062a86fd532978baf125257304f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/fd
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### feroxbuster
+- **Description:** A fast, simple, recursive content discovery tool written in Rust.
+- **Author:** epi052
+- **Repository:** [https://github.com/epi052/feroxbuster](https://github.com/epi052/feroxbuster)
+- **Stars:** 4801
+- **Version:** v2.10.1
+- **Updated:** 2023-11-09T02:37:19Z
+- **Size:** 9.02 MB
+- **SHA:** 62ed6d66552d2bd7961774dd594e073e287d0b39ff37dcaba3ca9dbf2082f110
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/feroxbuster
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### ffmpeg
+- **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
+- **Author:** FFmpeg
+- **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- **Stars:** 39524
+- **Version:** v0.6.1
+- **Updated:** null
+- **Size:** 75.04 MB
+- **SHA:** ed652b2f32e0851d1946894fb8333f5b677c1b2ce6b9d187910a67f8b99da028
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ffmpeg
+- **Language:** C
+- **License:** Other
+
+---
+
+### ffprobe
+- **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
+- **Author:** FFmpeg
+- **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- **Stars:** 39524
+- **Version:** v0.6.1
+- **Updated:** null
+- **Size:** 74.92 MB
+- **SHA:** a339171d90f7482b2db02234e261b9e00d51526391f87fa633d5da7b98a28cf4
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ffprobe
+- **Language:** C
+- **License:** Other
+
+---
+
+### ffuf
+- **Description:** Fast web fuzzer written in Go
+- **Author:** ffuf
+- **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
+- **Stars:** 10521
+- **Version:** v2.1.0
+- **Updated:** 2023-09-16T12:23:19Z
+- **Size:** 7.77 MB
+- **SHA:** af058e7ffdd6b366d971748713ccedca01527b895b54aa1833b3289d19d2d58f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ffuf
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### fget
+- **Description:** null
+- **Author:** bp0lr
+- **Repository:** [https://github.com/bp0lr/fget](https://github.com/bp0lr/fget)
+- **Stars:** 6
+- **Version:** null
+- **Updated:** 
+- **Size:** 4.57 MB
+- **SHA:** 6d1ce0d564254f49bbc3a7c6488083920a82622a8cd1832e1d09b96d88f03a2a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/fget
+- **Language:** Go
+- **License:** null
+
+---
+
+### filebrowser
+- **Description:** 📂 Web File Browser
+- **Author:** filebrowser
+- **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
+- **Stars:** 21494
+- **Version:** v2.26.0
+- **Updated:** 2023-11-02T21:58:20Z
+- **Size:** 14.45 MB
+- **SHA:** 308238fc254cfced35a630d77dda0d411a415b30a39dee672d051c632750bb3b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/filebrowser
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### findomain
+- **Description:** The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
+- **Author:** Findomain
+- **Repository:** [https://github.com/Findomain/Findomain](https://github.com/Findomain/Findomain)
+- **Stars:** 3031
+- **Version:** 9.0.3
+- **Updated:** 2023-10-31T01:35:09Z
+- **Size:** 16.23 MB
+- **SHA:** 579ad2cb14f065c4d718b9126700c969b31e781f954cd8a6abe87699701576bb
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/findomain
+- **Language:** Rust
+- **License:** GNU General Public License v3.0
+
+---
+
+### fzf
+- **Description:** :cherry_blossom: A command-line fuzzy finder
+- **Author:** junegunn
+- **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
+- **Stars:** 55616
+- **Version:** 0.44.1
+- **Updated:** 2023-11-17T10:20:41Z
+- **Size:** 3.33 MB
+- **SHA:** a644bea6b5cac11d33976c6d95936021a6474c195158be2e0cf5bad2cf880a25
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/fzf
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gau
+- **Description:** Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- **Author:** lc
+- **Repository:** [https://github.com/lc/gau](https://github.com/lc/gau)
+- **Stars:** 3212
+- **Version:** v2.2.1
+- **Updated:** 2023-11-02T13:13:38Z
+- **Size:** 7.82 MB
+- **SHA:** 4cf2a3bbabdcafb7f187538bf489eb8be5cae076e2cccfca73e86396cf4bb350
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gau
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gdu
+- **Description:** Fast disk usage analyzer with console interface written in Go
+- **Author:** dundee
+- **Repository:** [https://github.com/dundee/gdu](https://github.com/dundee/gdu)
+- **Stars:** 2890
+- **Version:** v5.25.0
+- **Updated:** 2023-06-06T13:15:28Z
+- **Size:** 9.53 MB
+- **SHA:** ab7d464798154f12b6059e0bf4bf69c9d909c1b284531570db88e37452fb5057
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gdu
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### getJS
+- **Description:** A tool to fastly get all javascript sources/files
+- **Author:** 003random
+- **Repository:** [https://github.com/003random/getJS](https://github.com/003random/getJS)
+- **Stars:** 538
+- **Version:** null
+- **Updated:** 
+- **Size:** 5.08 MB
+- **SHA:** 4bc958d310830884c00af1dc1cd404395ca881a784728ab704e9bea8f414a16a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/getJS
+- **Language:** Go
+- **License:** null
+
+---
+
+### gf
+- **Description:** A wrapper around grep, to help you grep for things
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/gf](https://github.com/tomnomnom/gf)
+- **Stars:** 1531
+- **Version:** null
+- **Updated:** 
+- **Size:** 1.86 MB
+- **SHA:** 33758d99b9ff528c5f484981f4aa0606b660a285aab5a07bd955cbbe59f49f91
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gf
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gh
+- **Description:** GitHub’s official command line tool
+- **Author:** cli
+- **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
+- **Stars:** 33852
+- **Version:** v2.39.1
+- **Updated:** 2023-11-14T16:37:57Z
+- **Size:** 41.41 MB
+- **SHA:** ed21dce3e77cd8ebccaa38a2cc2ee263357b7c167c8c3204127a6ef6fc923cc5
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gh
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### git-cliff
+- **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
+- **Stars:** 6238
+- **Version:** v1.4.0
+- **Updated:** 2023-10-29T13:23:20Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### git-cvsserver
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 0.16 MB
+- **SHA:** 3a48fcfc3305713f769f86f7c94a73cec7f2c0973c6b68f05b13ad9413755105
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git-cvsserver
+- **Language:** C
+- **License:** Other
+
+---
+
+### git-lfs
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 10.84 MB
+- **SHA:** 110e5c6dd89cc6e524e885c84bc3b253db1c011a86ab9b5b01ba83a2b7daaaca
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git-lfs
+- **Language:** C
+- **License:** Other
+
+---
+
+### git-receive-pack
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 5.71 MB
+- **SHA:** bf4f454af9592a3cb97012ca45d0ac357bc10cce97d8487686cfb9f87c6974f3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git-receive-pack
+- **Language:** C
+- **License:** Other
+
+---
+
+### git-shell
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 3.88 MB
+- **SHA:** 7c739a2c0541f4cbfa268145ef14c4a4d7428dc2c74d85a3b7183d07a9cd4cd3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git-shell
+- **Language:** C
+- **License:** Other
+
+---
+
+### git-upload-archive
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 5.71 MB
+- **SHA:** bf4f454af9592a3cb97012ca45d0ac357bc10cce97d8487686cfb9f87c6974f3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git-upload-archive
+- **Language:** C
+- **License:** Other
+
+---
+
+### git-upload-pack
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 5.71 MB
+- **SHA:** bf4f454af9592a3cb97012ca45d0ac357bc10cce97d8487686cfb9f87c6974f3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git-upload-pack
+- **Language:** C
+- **License:** Other
+
+---
+
+### git
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 5.71 MB
+- **SHA:** bf4f454af9592a3cb97012ca45d0ac357bc10cce97d8487686cfb9f87c6974f3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git
+- **Language:** C
+- **License:** Other
+
+---
+
+### gitdorks_go
+- **Description:** 一款在github上发现敏感信息的自动化收集工具
+- **Author:** damit5
+- **Repository:** [https://github.com/damit5/gitdorks_go](https://github.com/damit5/gitdorks_go)
+- **Stars:** 194
+- **Version:** v0.1
+- **Updated:** 2022-03-16T07:43:35Z
+- **Size:** 5.14 MB
+- **SHA:** 898c16a61c336af0105c7addd1126eeefb9b9f876498e0d900b282fcd9968ced
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitdorks_go
+- **Language:** Go
+- **License:** null
+
+---
+
+### github-endpoints
+- **Description:** Find endpoints on GitHub.
+- **Author:** gwen001
+- **Repository:** [https://github.com/gwen001/github-endpoints](https://github.com/gwen001/github-endpoints)
+- **Stars:** 159
+- **Version:** v1.2.2
+- **Updated:** 2023-02-09T13:53:35Z
+- **Size:** 5.02 MB
+- **SHA:** 09b23fb7d45fb6ccab6b3214636dbeaf5a9b7f907e13371f758dfa283d9439b6
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/github-endpoints
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### github-regexp
+- **Description:** Basically a regexp over a GitHub search.
+- **Author:** gwen001
+- **Repository:** [https://github.com/gwen001/github-regexp](https://github.com/gwen001/github-regexp)
+- **Stars:** 52
+- **Version:** v1.2.1
+- **Updated:** 2023-02-09T13:40:09Z
+- **Size:** 4.94 MB
+- **SHA:** 08f7ff317584d1fc09d0d2e38c1cb0858816e2428d81cea5bde7bb5f36b0a416
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/github-regexp
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### github-subdomains
+- **Description:** Find subdomains on GitHub.
+- **Author:** gwen001
+- **Repository:** [https://github.com/gwen001/github-subdomains](https://github.com/gwen001/github-subdomains)
+- **Stars:** 556
+- **Version:** v1.2.2
+- **Updated:** 2023-02-09T13:53:05Z
+- **Size:** 5.02 MB
+- **SHA:** 26c59e4ca901554b160ec6866db075c2862a97d306d5c3f17dac9c9dddb5c012
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/github-subdomains
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gitk
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 0.38 MB
+- **SHA:** b1b7371e31bf3be8a54a392f75ce06ab59beb104206366edc0d0d8fc0b3db17f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitk
+- **Language:** C
+- **License:** Other
+
+---
+
+### gitlab-subdomains
+- **Description:** Find subdomains on GitLab.
+- **Author:** gwen001
+- **Repository:** [https://github.com/gwen001/gitlab-subdomains](https://github.com/gwen001/gitlab-subdomains)
+- **Stars:** 50
+- **Version:** v1.0.1
+- **Updated:** 2022-12-02T08:03:44Z
+- **Size:** 5.01 MB
+- **SHA:** 5c0edda716cd7988521cc0b0499066428fe232d76d36dcf2d762413ea264ab0a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitlab-subdomains
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gitleaks
+- **Description:** Protect and discover secrets using Gitleaks 🔑
+- **Author:** gitleaks
+- **Repository:** [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+- **Stars:** 14215
+- **Version:** v8.18.1
+- **Updated:** 2023-11-17T20:58:58Z
+- **Size:** 6.58 MB
+- **SHA:** 82aec6cfe72d1f0c5524a679f5b2c7f161cf36d758fb63f51a41559b580437e0
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitleaks
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gitui
+- **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
+- **Author:** extrawurst
+- **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
+- **Stars:** 14525
+- **Version:** v0.24.3
+- **Updated:** 2023-09-09T09:14:43Z
+- **Size:** 10.02 MB
+- **SHA:** 183b4065b95835a201e5641d68e019ab690aa9b5a845589406b5c5c9f48b783a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitui
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### glow
+- **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
+- **Author:** charmbracelet
+- **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
+- **Stars:** 13738
+- **Version:** v1.5.1
+- **Updated:** 2023-05-09T16:16:51Z
+- **Size:** 17.36 MB
+- **SHA:** 363aec6d73b38c97bd9683f012f616685da1e6cee3ff55afc85240129eaad84b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/glow
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### go-simplehttpserver
+- **Description:** Go alternative of python SimpleHTTPServer
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver)
+- **Stars:** 430
+- **Version:** v0.0.6
+- **Updated:** 2023-03-20T15:04:35Z
+- **Size:** 5.90 MB
+- **SHA:** 9ec4bb8ae7f46ab3f278b5bb8ba21f490e90a68f45d0d5c0d9eb6c5a0c0ef054
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/go-simplehttpserver
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gobuster
+- **Description:** Directory/File, DNS and VHost busting tool written in Go
+- **Author:** OJ
+- **Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
+- **Stars:** 8408
+- **Version:** v3.6.0
+- **Updated:** 2023-08-14T08:30:05Z
+- **Size:** 7.71 MB
+- **SHA:** 03d810f1a1be904c18c46542a0fd459d456f1ccd7e4f615e86e622984bc4a43c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gobuster
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### godns
+- **Description:**  DreamHost, etc, written in Go.
+- **Author:** TimothyYe
+- **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
+- **Stars:** 1370
+- **Version:** v3.0.4
+- **Updated:** 2023-10-22T12:12:07Z
+- **Size:** 11.07 MB
+- **SHA:** 0f1c65f945e3623da445eb42c26a836515925e221f726094b88988f5282b9694
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/godns
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### gofastld
+- **Description:** go-fasttld is a high performance effective top level domains (eTLD) extraction module.
+- **Author:** elliotwutingfeng
+- **Repository:** [https://github.com/elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld)
+- **Stars:** 24
+- **Version:** v0.4.4
+- **Updated:** 2023-03-18T03:52:09Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
+### goop
+- **Description:** Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
+- **Author:** nyancrimew
+- **Repository:** [https://github.com/nyancrimew/goop](https://github.com/nyancrimew/goop)
+- **Stars:** 490
+- **Version:** null
+- **Updated:** 
+- **Size:** 9.52 MB
+- **SHA:** 1c9801fd7b7ebd855626fada78cfb3dc8a70c35867d10a74cccd6fae52fa4353
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/goop
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gorilla
+- **Description:** tool for generating wordlists or extending an existing one using mutations.
+- **Author:** d4rckh
+- **Repository:** [https://github.com/d4rckh/gorilla](https://github.com/d4rckh/gorilla)
+- **Stars:** 372
+- **Version:** null
+- **Updated:** 
+- **Size:** 4.89 MB
+- **SHA:** aab7a739019b0b68c06edd2a597ef069924172e950e47c83daed6b7ad8d43e01
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gorilla
+- **Language:** Rust
+- **License:** GNU General Public License v3.0
+
+---
+
+### gost
+- **Description:** GO Simple Tunnel - a simple tunnel written in golang
+- **Author:** ginuerzh
+- **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
+- **Stars:** 14262
+- **Version:** v2.11.5
+- **Updated:** 2023-01-20T06:46:05Z
+- **Size:** 12.95 MB
+- **SHA:** 54247cfd5ca164811805063bdf36fbc48301117ff874f4a06cda4ba55bd6cd43
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gost
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### gotator
+- **Description:** Gotator is a tool to generate DNS wordlists through permutations.
+- **Author:** Josue87
+- **Repository:** [https://github.com/Josue87/gotator](https://github.com/Josue87/gotator)
+- **Stars:** 393
+- **Version:** v1.1
+- **Updated:** 2021-07-26T14:37:40Z
+- **Size:** 1.71 MB
+- **SHA:** 6d3d37e7d2f732736e225db16163cc20bbd222819bf7185562d74e55671205fc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gotator
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### gowitness
+- **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
+- **Author:** sensepost
+- **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
+- **Stars:** 2439
+- **Version:** 2.5.1
+- **Updated:** 2023-10-29T11:11:30Z
+- **Size:** 23.14 MB
+- **SHA:** dcc666e6b25a91c6602debdc1cc241ffc5b159ce15497b3ee0f1ab67270d8898
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gowitness
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### gpg-tui
+- **Description:** Manage your GnuPG keys with ease! 🔐
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/gpg-tui](https://github.com/orhun/gpg-tui)
+- **Stars:** 1146
+- **Version:** v0.10.0
+- **Updated:** 2023-09-10T11:40:28Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### gping
+- **Description:** Ping, but with a graph
+- **Author:** orf
+- **Repository:** [https://github.com/orf/gping](https://github.com/orf/gping)
+- **Stars:** 9657
+- **Version:** gping-v1.15.1
+- **Updated:** 2023-11-07T15:38:54Z
+- **Size:** 2.90 MB
+- **SHA:** 220b9adce285c93e08bc716d93d17bbb5d9c90aff0f0778c7f66401561854a53
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gping
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### grpcurl
+- **Description:** Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+- **Author:** fullstorydev
+- **Repository:** [https://github.com/fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
+- **Stars:** 9427
+- **Version:** v1.8.9
+- **Updated:** 2023-10-24T17:17:39Z
+- **Size:** 23.15 MB
+- **SHA:** 0d8cc30365dea38916f18e639abb1a75d690161d328432cfaa0e27f49a2b3f3a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/grpcurl
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### hacker-scoper
+- **Description:** Automagically filter URLs with Bug Bounty program scope rules scraped from the internet.
+- **Author:** ItsIgnacioPortal
+- **Repository:** [https://github.com/ItsIgnacioPortal/hacker-scoper](https://github.com/ItsIgnacioPortal/hacker-scoper)
+- **Stars:** 20
+- **Version:** v3.0.0
+- **Updated:** 2022-09-11T11:19:11Z
+- **Size:** 5.07 MB
+- **SHA:** c2de106ae89d062f201e9ff54511ac733c065db8b1911b018cb4333bcb1d01ee
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hacker-scoper
+- **Language:** Go
+- **License:** Other
+
+---
+
+### hakip2host
+- **Description:** hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.
+- **Author:** hakluke
+- **Repository:** [https://github.com/hakluke/hakip2host](https://github.com/hakluke/hakip2host)
+- **Stars:** 310
+- **Version:** null
+- **Updated:** 
+- **Size:** 4.51 MB
+- **SHA:** 1b1b981a807291e086c12d316f628c493827fda575abf03cf6a37d508267fdac
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hakip2host
+- **Language:** Go
+- **License:** null
+
+---
+
+### hakoriginfinder
+- **Description:** Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
+- **Author:** hakluke
+- **Repository:** [https://github.com/hakluke/hakoriginfinder](https://github.com/hakluke/hakoriginfinder)
+- **Stars:** 673
+- **Version:** null
+- **Updated:** 
+- **Size:** 4.51 MB
+- **SHA:** 5b5f1d6f725bb9ca5a646959cf1f72925248d94cc4306d21706af689dc6c179a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hakoriginfinder
+- **Language:** Go
+- **License:** null
+
+---
+
+### hakrawler
+- **Description:** Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- **Author:** hakluke
+- **Repository:** [https://github.com/hakluke/hakrawler](https://github.com/hakluke/hakrawler)
+- **Stars:** 4030
+- **Version:** 2.1
+- **Updated:** 2022-05-23T08:28:59Z
+- **Size:** 10.51 MB
+- **SHA:** f2e45ec32891f47bc2e0897113ce6b40bb9e07fdbb863d1d20b4f8f89b419f8a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hakrawler
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### hakrevdns
+- **Description:** Small, fast tool for performing reverse DNS lookups en masse.
+- **Author:** hakluke
+- **Repository:** [https://github.com/hakluke/hakrevdns](https://github.com/hakluke/hakrevdns)
+- **Stars:** 1046
+- **Version:** null
+- **Updated:** 
+- **Size:** 2.00 MB
+- **SHA:** 0db5c0909eb9d975da5a9270bd3d008e950abdc30afb02748765ad5cf691c17f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hakrevdns
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### halp
+- **Description:** A CLI tool to get help with CLI tools 🐙
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/halp](https://github.com/orhun/halp)
+- **Stars:** 623
+- **Version:** v0.1.7
+- **Updated:** 2023-06-17T17:22:35Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### hednsextractor
+- **Description:** raw html extractor from Hurricane Electric portal
+- **Author:** HuntDownProject
+- **Repository:** [https://github.com/HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor)
+- **Stars:** 178
+- **Version:** v1.0.1
+- **Updated:** 2023-10-17T01:16:50Z
+- **Size:** 13.84 MB
+- **SHA:** 71bd6cbd71259edcb4b00ba33dbbbc605c1be5d6d9659991b3d034783c18d79a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hednsextractor
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### hexyl
+- **Description:** A command-line hex viewer
+- **Author:** sharkdp
+- **Repository:** [https://github.com/sharkdp/hexyl](https://github.com/sharkdp/hexyl)
+- **Stars:** 8533
+- **Version:** v0.13.1
+- **Updated:** 2023-07-26T06:59:55Z
+- **Size:** 0.90 MB
+- **SHA:** 1edb2bbf4db57fd71db2138adc860fbfbbf0ebe4e222f3f65597865ae01343b1
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hexyl
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### hrekt
+- **Description:** A really fast http prober.
+- **Author:** ethicalhackingplayground
+- **Repository:** [https://github.com/ethicalhackingplayground/hrekt](https://github.com/ethicalhackingplayground/hrekt)
+- **Stars:** 26
+- **Version:** v0.1.6
+- **Updated:** 2023-06-12T00:45:07Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### htmlq
+- **Description:** Like jq, but for HTML.
+- **Author:** mgdm
+- **Repository:** [https://github.com/mgdm/htmlq](https://github.com/mgdm/htmlq)
+- **Stars:** 6685
+- **Version:** v0.4.0
+- **Updated:** 2022-01-03T21:40:36Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### httprobe
+- **Description:** Take a list of domains and probe for working HTTP and HTTPS servers
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/httprobe](https://github.com/tomnomnom/httprobe)
+- **Stars:** 2620
+- **Version:** v0.2
+- **Updated:** 2022-06-09T16:22:06Z
+- **Size:** 4.51 MB
+- **SHA:** 030678fc474f1d516df4ab3a0a9544b36dc743c80f5dde87bfdf1a03d4dcb4de
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/httprobe
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### httpx
+- **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
+- **Stars:** 6125
+- **Version:** v1.3.7
+- **Updated:** 2023-11-13T07:26:10Z
+- **Size:** 37.08 MB
+- **SHA:** 25008fd2fb0f6abb538ac0a308f4111e924a43623ecc967032f2bedbd4c664a3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/httpx
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### hxn
+- **Description:** ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal.
+- **Author:** pwnwriter
+- **Repository:** [https://github.com/pwnwriter/haylxon](https://github.com/pwnwriter/haylxon)
+- **Stars:** 339
+- **Version:** v0.1.9
+- **Updated:** 2023-11-03T07:24:19Z
+- **Size:** 7.33 MB
+- **SHA:** e497a19d670b036e5169b4b91b91294c5470655c5116863f4806605d3aab970e
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hxn
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### hyperfine
+- **Description:** A command-line benchmarking tool
+- **Author:** sharkdp
+- **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+- **Stars:** 18052
+- **Version:** v1.18.0
+- **Updated:** 2023-10-05T08:07:11Z
+- **Size:** 1.37 MB
+- **SHA:** fb73a86e13550541e3f9e0a6931854b3974692b19194228130ff2e40000412f5
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hyperfine
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### inscope
+- **Description:** A collection of hacks and one-off scripts
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
+- **Stars:** 1937
+- **Version:** null
+- **Updated:** 
+- **Size:** 1.58 MB
+- **SHA:** 2f24a1341fcfc20f52625bf72695c7eaedef4568d6b92d39e39dff888b3628ae
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/inscope
+- **Language:** Go
+- **License:** null
+
+---
+
+### interactsh-client
+- **Description:** An OOB interaction gathering server and client library
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
+- **Stars:** 2765
+- **Version:** v1.1.7
+- **Updated:** 2023-09-18T09:52:38Z
+- **Size:** 24.13 MB
+- **SHA:** 73294947164fb7f769fb67b1de1d0be022710e76b6301beceb15fab09aa2742a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/interactsh-client
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### iperf3
+- **Description:** iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
+- **Author:** esnet
+- **Repository:** [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
+- **Stars:** 5868
+- **Version:** 3.15
+- **Updated:** 2023-09-14T19:17:03Z
+- **Size:** 3.59 MB
+- **SHA:** 1f081bf66d9e93a73fb325abd0729ad7604e3ee736bd9bae01c832363ed2bec0
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/iperf3
+- **Language:** C
+- **License:** Other
+
+---
+
+### jaeles
+- **Description:** The Swiss Army knife for automated Web Application Testing
+- **Author:** jaeles-project
+- **Repository:** [https://github.com/jaeles-project/jaeles](https://github.com/jaeles-project/jaeles)
+- **Stars:** 1981
+- **Version:** beta-v0.17.1
+- **Updated:** 2023-07-08T08:31:33Z
+- **Size:** 23.74 MB
+- **SHA:** a92386031022318d208ce8cd98701c40c2cade5fda0ad215fabe55d8cda319f9
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/jaeles
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### jc
+- **Description:** CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+- **Author:** kellyjonbrazil
+- **Repository:** [https://github.com/kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc)
+- **Stars:** 6519
+- **Version:** v1.23.6
+- **Updated:** 2023-10-24T00:59:43Z
+- **Size:** 48.83 MB
+- **SHA:** 9c3caa30d633b16210dd7dd6869bedeba8b1af032b6808983c8f067c4f969fea
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/jc
+- **Language:** Python
+- **License:** MIT License
+
+---
+
+### jless
+- **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- **Author:** PaulJuliusMartinez
+- **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
+- **Stars:** 4254
+- **Version:** v0.9.0
+- **Updated:** 2023-07-17T02:51:34Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### jq
+- **Description:** Command-line JSON processor
+- **Author:** jqlang
+- **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
+- **Stars:** 27180
+- **Version:** jq-1.7
+- **Updated:** 2023-09-06T22:54:12Z
+- **Size:** 2.21 MB
+- **SHA:** 2f312b9587b1c1eddf3a53f9a0b7d276b9b7b94576c85bda22808ca950569716
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/jq
+- **Language:** C
+- **License:** Other
+
+---
+
+### jwthack
+- **Description:** 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
+- **Author:** hahwul
+- **Repository:** [https://github.com/hahwul/jwt-hack](https://github.com/hahwul/jwt-hack)
+- **Stars:** 691
+- **Version:** v1.1.2
+- **Updated:** 2021-12-24T17:00:39Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### kadeessh
+- **Description:** Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
+- **Author:** kadeessh
+- **Repository:** [https://github.com/kadeessh/kadeessh](https://github.com/kadeessh/kadeessh)
+- **Stars:** 465
+- **Version:** v0.0.2
+- **Updated:** 2023-09-20T21:17:50Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### kanha
+- **Description:** 🦚 A web-app pentesting suite written in rust .
+- **Author:** pwnwriter
+- **Repository:** [https://github.com/pwnwriter/kanha](https://github.com/pwnwriter/kanha)
+- **Stars:** 211
+- **Version:** v-v0.1.2
+- **Updated:** 2023-10-17T16:42:52Z
+- **Size:** 3.84 MB
+- **SHA:** 96e0a750c3c0efb588d235e2e80839fce20968758d9d8a0f6459525a7d7a4d8b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/kanha
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### katana
+- **Description:** A next-generation crawling and spidering framework.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/katana](https://github.com/projectdiscovery/katana)
+- **Stars:** 7716
+- **Version:** v1.0.4
+- **Updated:** 2023-09-14T17:35:36Z
+- **Size:** 34.58 MB
+- **SHA:** 9ab75e0ef187c0199b27597b52e733761eec93e29dcbde665a36ecf59d3ef057
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/katana
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### kmon
+- **Description:** Linux Kernel Manager and Activity Monitor 🐧💻
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/kmon](https://github.com/orhun/kmon)
+- **Stars:** 2228
+- **Version:** v1.6.4
+- **Updated:** 2023-10-27T08:56:26Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** GNU General Public License v3.0
+
+---
+
+### ksubdomain
+- **Description:** Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second
+- **Author:** boy-hack
+- **Repository:** [https://github.com/boy-hack/ksubdomain](https://github.com/boy-hack/ksubdomain)
+- **Stars:** 748
+- **Version:** v1.9.5
+- **Updated:** 2022-03-31T05:47:14Z
+- **Size:** 8.94 MB
+- **SHA:** 468a74aa2ef30dc8b6cc9e222435613d7d6bf3995c9e09a771bbf8e3b4106488
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ksubdomain
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### lazydocker
+- **Description:** The lazier way to manage everything docker
+- **Author:** jesseduffield
+- **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
+- **Stars:** 31090
+- **Version:** v0.23.1
+- **Updated:** 2023-10-13T07:45:11Z
+- **Size:** 11.02 MB
+- **SHA:** 4a263990b693d7457a1f0cfcb2aa315060e3435993f6398b9bde8cbd2dbefb41
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/lazydocker
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### linuxwave
+- **Description:** Generate music from the entropy of Linux 🐧🎵
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/linuxwave](https://github.com/orhun/linuxwave)
+- **Stars:** 431
+- **Version:** v0.1.5
+- **Updated:** 2023-07-21T12:07:04Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Zig
+- **License:** MIT License
+
+---
+
+### lnav
+- **Description:** Log file navigator
+- **Author:** tstack
+- **Repository:** [https://github.com/tstack/lnav](https://github.com/tstack/lnav)
+- **Stars:** 6123
+- **Version:** v0.11.2
+- **Updated:** 2023-07-03T05:24:37Z
+- **Size:** 14.31 MB
+- **SHA:** 5be58ac485d5893623a0d5fb91a84657f5dd82b1e85231a67bda406303e5c16b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/lnav
+- **Language:** C++
+- **License:** BSD 2-Clause Simplified License
+
+---
+
+### logtimer
+- **Description:** Enhance your output with a timer / date
+- **Author:** Eun
+- **Repository:** [https://github.com/Eun/logtimer](https://github.com/Eun/logtimer)
+- **Stars:** 9
+- **Version:** v1.0.5
+- **Updated:** 2023-10-25T09:42:42Z
+- **Size:** 2.92 MB
+- **SHA:** 8ff1ddc784c54d69ab849f33b14d1129e476c3c93147e159694483409ff0eaa3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/logtimer
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### machinna
+- **Description:** A system information frontend with an emphasis on performance.
+- **Author:** Macchina-CLI
+- **Repository:** [https://github.com/Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
+- **Stars:** 959
+- **Version:** v6.1.8
+- **Updated:** 2023-01-09T15:11:08Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### mani
+- **Description:** :robot: CLI tool to help you manage repositories
+- **Author:** alajmo
+- **Repository:** [https://github.com/alajmo/mani](https://github.com/alajmo/mani)
+- **Stars:** 399
+- **Version:** v0.25.0
+- **Updated:** 2023-06-07T22:07:05Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### mantra
+- **Description:** 「🔑」A tool used to hunt down API key leaks in JS files and pages
+- **Author:** MrEmpy
+- **Repository:** [https://github.com/MrEmpy/mantra](https://github.com/MrEmpy/mantra)
+- **Stars:** 410
+- **Version:** v.1.1
+- **Updated:** 2023-05-20T01:28:28Z
+- **Size:** 4.73 MB
+- **SHA:** 8a58ad6d02ba6f9a31190758a5c29eb7685439cb8c0dd5179338e608fa44d421
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mantra
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### mapcidr
+- **Description:** Utility program to perform multiple operations for a given subnet/CIDR ranges.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr)
+- **Stars:** 855
+- **Version:** v1.1.16
+- **Updated:** 2023-11-23T07:59:56Z
+- **Size:** 19.23 MB
+- **SHA:** 6e1454fc389cb05f4110e89fcb670ac2c3994ae852284829043c4514115095f3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mapcidr
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### massdns
+- **Description:** A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+- **Author:** blechschmidt
+- **Repository:** [https://github.com/blechschmidt/massdns](https://github.com/blechschmidt/massdns)
+- **Stars:** 2827
+- **Version:** v1.0.0
+- **Updated:** 2021-10-08T17:02:48Z
+- **Size:** 0.85 MB
+- **SHA:** f8d50f3d813131eae5c6785291bbdce25d4153ea57419a8a9ec123bba7f5878c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/massdns
+- **Language:** C
+- **License:** GNU General Public License v3.0
+
+---
+
+### mergerfs
+- **Description:** a featureful union filesystem
+- **Author:** trapexit
+- **Repository:** [https://github.com/trapexit/mergerfs](https://github.com/trapexit/mergerfs)
+- **Stars:** 3526
+- **Version:** 2.38.0
+- **Updated:** 2023-10-29T23:23:29Z
+- **Size:** 1.75 MB
+- **SHA:** 2fce5fa6386bc31dca5d21c1c7adb14308f656ac28fcf63b141d46c8285d4ca3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mergerfs
+- **Language:** C++
+- **License:** Other
+
+---
+
+### mgwls
+- **Description:** Combine words from two wordlist files and concatenate them with an optional delimiter
+- **Author:** trickest
+- **Repository:** [https://github.com/trickest/mgwls](https://github.com/trickest/mgwls)
+- **Stars:** 31
+- **Version:** v1.0.1
+- **Updated:** 2022-07-25T15:25:00Z
+- **Size:** 1.24 MB
+- **SHA:** 3a9c094f9c8c9975a69dea0f5f08c6f5549639ebe75af3a9c714041195368999
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mgwls
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### micro
+- **Description:** A modern and intuitive terminal-based text editor
+- **Author:** zyedidia
+- **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
+- **Stars:** 23061
+- **Version:** v2.0.13
+- **Updated:** 2023-10-21T22:38:29Z
+- **Size:** 11.26 MB
+- **SHA:** 697fb918c800071c4d1a853d515331a9a3f245bb8a7da1c6d3653737d17ce3c4
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/micro
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### miniserve
+- **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
+- **Author:** svenstaro
+- **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
+- **Stars:** 5180
+- **Version:** v0.24.0
+- **Updated:** 2023-07-06T08:50:57Z
+- **Size:** 1.49 MB
+- **SHA:** b5e8704f8b1f34e366a39c93da06c18616cf49f1a789f6f2242edd5d3d311ada
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/miniserve
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### mksub
+- **Description:** Generate tens of thousands of subdomain combinations in a matter of seconds
+- **Author:** trickest
+- **Repository:** [https://github.com/trickest/mksub](https://github.com/trickest/mksub)
+- **Stars:** 225
+- **Version:** v1.1.1
+- **Updated:** 2022-07-22T13:50:34Z
+- **Size:** 1.46 MB
+- **SHA:** ff09b6ecfa3f2c2daf4437ae1724086c5d09d16593c53819f53d26b308cae9fc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mksub
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### mubeng
+- **Description:**  IP rotator with ease.
+- **Author:** kitabisa
+- **Repository:** [https://github.com/kitabisa/mubeng](https://github.com/kitabisa/mubeng)
+- **Stars:** 1268
+- **Version:** v0.14.1
+- **Updated:** 2023-08-29T17:33:01Z
+- **Size:** 8.82 MB
+- **SHA:** b1ba4f150d74497a26595d2c9f1e6ac48ed72f450dfd6a8633f275e9bc620292
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mubeng
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### neofetch
+- **Description:** 🖼️ A command-line system information tool written in bash 3.2+
+- **Author:** dylanaraps
+- **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
+- **Stars:** 19261
+- **Version:** 7.1.0
+- **Updated:** 2020-08-02T18:50:56Z
+- **Size:** 0.51 MB
+- **SHA:** 7f39486f99b1e3ec2a218c1bbcf06073543a605cda09005e0636f0257b305aaa
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/neofetch
+- **Language:** Shell
+- **License:** MIT License
+
+---
+
+### nerdctl
+- **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+- **Author:** containerd
+- **Repository:** [https://github.com/containerd/nerdctl](https://github.com/containerd/nerdctl)
+- **Stars:** 6827
+- **Version:** v1.7.0
+- **Updated:** 2023-11-04T09:05:38Z
+- **Size:** 23.62 MB
+- **SHA:** 72cb465383be10b139522effacc9bb4f0e4833c495fcd30b1649554d7da5fd95
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/nerdctl
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### netbird
+- **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- **Author:** netbirdio
+- **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
+- **Stars:** 7004
+- **Version:** v0.24.3
+- **Updated:** 2023-11-24T10:52:22Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
+### netmaker
+- **Description:** Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- **Author:** gravitl
+- **Repository:** [https://github.com/gravitl/netmaker](https://github.com/gravitl/netmaker)
+- **Stars:** 8322
+- **Version:** v0.21.2
+- **Updated:** 2023-11-17T15:20:03Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** Other
+
+---
+
+### nmap-formatter
+- **Description:** A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
+- **Author:** vdjagilev
+- **Repository:** [https://github.com/vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter)
+- **Stars:** 165
+- **Version:** v2.1.5
+- **Updated:** 2023-11-03T17:16:48Z
+- **Size:** 4.00 MB
+- **SHA:** 00cf84208485beb5d93eef2a7ecf5e664a2a7b857901e35b9f35713df13e0bec
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/nmap-formatter
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### nmap
+- **Description:** Nmap - the Network Mapper. Github mirror of official SVN repository.
+- **Author:** nmap
+- **Repository:** [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
+- **Stars:** 8562
+- **Version:** null
+- **Updated:** 
+- **Size:** 7.45 MB
+- **SHA:** 4aa4cf2809bba9811ef38c96b49fc2b80f4d4ee45f7238e3c8651de959274afc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/nmap
+- **Language:** C
+- **License:** Other
+
+---
+
+### nnn
+- **Description:** n³ The unorthodox terminal file manager
+- **Author:** jarun
+- **Repository:** [https://github.com/jarun/nnn](https://github.com/jarun/nnn)
+- **Stars:** 17370
+- **Version:** v4.9
+- **Updated:** 2023-08-27T04:28:26Z
+- **Size:** 0.38 MB
+- **SHA:** 64e92317bd8652c18c390c6feb4fa7bf69ef834b9ab06eebfe5f56c276b16912
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/nnn
+- **Language:** C
+- **License:** BSD 2-Clause Simplified License
+
+---
+
+### noir
+- **Description:** ♠️ Noir is an attack surface detector that identifies endpoints by static analysis.
+- **Author:** noir-cr
+- **Repository:** [https://github.com/noir-cr/noir](https://github.com/noir-cr/noir)
+- **Stars:** 414
+- **Version:** v0.10.0
+- **Updated:** 2023-10-26T15:36:54Z
+- **Size:** 7.92 MB
+- **SHA:** aec6c8eed0ef4b380b06e0608369e8a9e6cbc6c1a00bb9624d26acbb0cc79123
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/noir
+- **Language:** Crystal
+- **License:** MIT License
+
+---
+
+### notify
+- **Description:** Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/notify](https://github.com/projectdiscovery/notify)
+- **Stars:** 1041
+- **Version:** v1.0.5
+- **Updated:** 2023-05-27T16:51:32Z
+- **Size:** 18.22 MB
+- **SHA:** 9aa53dd77bc049097e638506391521b385ad1b4a9751c011853473f88434374e
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/notify
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### nuclei
+- **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+- **Stars:** 15494
+- **Version:** v3.0.4
+- **Updated:** 2023-11-18T09:21:26Z
+- **Size:** 68.32 MB
+- **SHA:** 7d334226a8b99c83ed084aca53db2057e8b0b05abce160bea214e46fb83cb168
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/nuclei
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### oha
+- **Description:** Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- **Author:** hatoo
+- **Repository:** [https://github.com/hatoo/oha](https://github.com/hatoo/oha)
+- **Stars:** 3223
+- **Version:** v1.0.0
+- **Updated:** 2023-11-16T07:34:03Z
+- **Size:** 2.77 MB
+- **SHA:** bd3546b569c9d50c9136a6da62294c6a4637f78fefe80dc85ed01128427f7910
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/oha
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### onetun
+- **Description:** User space WireGuard proxy in Rust
+- **Author:** aramperes
+- **Repository:** [https://github.com/aramperes/onetun](https://github.com/aramperes/onetun)
+- **Stars:** 744
+- **Version:** v0.3.5
+- **Updated:** 2023-10-02T22:05:56Z
+- **Size:** 3.86 MB
+- **SHA:** b64f79f9a7d717fc6728978851215bbe640ba09d74f8877c2b01bad81699c01b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/onetun
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### openrisk
+- **Description:** openrisk is a tool that generates a risk score based on the results of a Nuclei scan.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/openrisk](https://github.com/projectdiscovery/openrisk)
+- **Stars:** 153
+- **Version:** v0.0.1
+- **Updated:** 2022-12-23T14:50:22Z
+- **Size:** 8.61 MB
+- **SHA:** 80797f912a32a51ebd10d76c4f2b6718d422e1819f64367ef95f51d745f8adf0
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/openrisk
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### osmedeus
+- **Description:** A Workflow Engine for Offensive Security
+- **Author:** j3ssie
+- **Repository:** [https://github.com/j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)
+- **Stars:** 4785
+- **Version:** v4.6.2
+- **Updated:** 2023-11-18T11:00:48Z
+- **Size:** 27.72 MB
+- **SHA:** a904c2ef821f503e56577cedddb7b216245f161f1f16255a283136f186e0ff6e
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/osmedeus
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### pathbuster
+- **Description:** A path-normalization pentesting tool.
+- **Author:** ethicalhackingplayground
+- **Repository:** [https://github.com/ethicalhackingplayground/pathbuster](https://github.com/ethicalhackingplayground/pathbuster)
+- **Stars:** 97
+- **Version:** v0.5.5
+- **Updated:** 2023-05-11T10:45:24Z
+- **Size:** 5.75 MB
+- **SHA:** 3a050118d0bfe07b1b31efd44d3d4e16f7ed3161dce824d3d7607976ce4b2f17
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pathbuster
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### pkgtop
+- **Description:** Interactive package manager and resource monitor designed for the GNU/Linux.
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/pkgtop](https://github.com/orhun/pkgtop)
+- **Stars:** 275
+- **Version:** 2.5.1
+- **Updated:** 2023-10-13T10:50:35Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### ppfuzz
+- **Description:** A fast tool to scan client-side prototype pollution vulnerability written in Rust. 🦀
+- **Author:** dwisiswant0
+- **Repository:** [https://github.com/dwisiswant0/ppfuzz](https://github.com/dwisiswant0/ppfuzz)
+- **Stars:** 528
+- **Version:** v1.0.2
+- **Updated:** 2022-12-01T20:59:05Z
+- **Size:** 4.27 MB
+- **SHA:** 0d8466d95f9273b63d69574cf0fc96de51c1346ec9bcf427d6c094e39f7c69fc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ppfuzz
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### pping
+- **Description:** tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.
+- **Author:** wzv5
+- **Repository:** [https://github.com/wzv5/pping](https://github.com/wzv5/pping)
+- **Stars:** 23
+- **Version:** v0.8.3
+- **Updated:** 2023-08-24T09:17:53Z
+- **Size:** 8.70 MB
+- **SHA:** 60bbd4e156a8d46cc949a4c71bbdaceed5ee46a7dd4d5a2d8c39d93a436d8dca
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pping
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### procs
+- **Description:** A modern replacement for ps written in Rust
+- **Author:** dalance
+- **Repository:** [https://github.com/dalance/procs](https://github.com/dalance/procs)
+- **Stars:** 4363
+- **Version:** v0.14.4
+- **Updated:** 2023-11-24T00:58:03Z
+- **Size:** 5.32 MB
+- **SHA:** 99aa1ce55a8ac5bdfad36ec7d561ca40de994d45b055e8474fd817e1fc66ec2c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/procs
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### proxify
+- **Description:** A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/proxify](https://github.com/projectdiscovery/proxify)
+- **Stars:** 2423
+- **Version:** v0.0.12
+- **Updated:** 2023-08-12T20:48:49Z
+- **Size:** 34.38 MB
+- **SHA:** 3290e187417491a3c90b305a0137f0cb86d0b773b3a1899e44179b8b1016f998
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/proxify
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### pueue
+- **Description:** :stars: Manage your shell commands.
+- **Author:** Nukesor
+- **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
+- **Stars:** 4013
+- **Version:** v3.3.1
+- **Updated:** 2023-10-27T16:31:24Z
+- **Size:** 1.61 MB
+- **SHA:** 393af8f290f2775fdbe90e42dd47e529a9f44cd72172d8f13fa3d970e905c340
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pueue
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### pueued
+- **Description:** :stars: Manage your shell commands.
+- **Author:** Nukesor
+- **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
+- **Stars:** 4013
+- **Version:** v3.3.1
+- **Updated:** 2023-10-27T16:31:24Z
+- **Size:** 1.65 MB
+- **SHA:** 01f5a49d23751fc90d1679213a142d4e12d730ecb6004fe12cf208f9342070fd
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pueued
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### puredns
+- **Description:** Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
+- **Author:** d3mondev
+- **Repository:** [https://github.com/d3mondev/puredns](https://github.com/d3mondev/puredns)
+- **Stars:** 1446
+- **Version:** v2.1.1
+- **Updated:** 2023-04-11T18:09:27Z
+- **Size:** 7.45 MB
+- **SHA:** be3796bed79fff4f716d96880a6cba261bc98e04a0ef2e208f5d7d21224f1856
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/puredns
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### qbittorrent-nox
+- **Description:** A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
+- **Author:** userdocs
+- **Repository:** [https://github.com/userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static)
+- **Stars:** 842
+- **Version:** release-4.6.1_v2.0.9
+- **Updated:** 2023-11-21T00:06:48Z
+- **Size:** 26.90 MB
+- **SHA:** f5ef07e270541791881933f06044613e6544c299d1ef9018cc755f49d253e272
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/qbittorrent-nox
+- **Language:** Shell
+- **License:** Apache License 2.0
+
+---
+
+### qsreplace
+- **Description:** Accept URLs on stdin, replace all query string values with a user-supplied value
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/qsreplace](https://github.com/tomnomnom/qsreplace)
+- **Stars:** 632
+- **Version:** v0.0.3
+- **Updated:** 2022-06-23T20:16:33Z
+- **Size:** 1.33 MB
+- **SHA:** 76de81d66f8dbdbcfb60b3281f0fed30ea87ef73b0569b48bc5ffc0d3a4e9c47
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/qsreplace
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### rate-limit-checker
+- **Description:** Check whether the domain has a rate limit enabled.
+- **Author:** Sh1Yo
+- **Repository:** [https://github.com/Sh1Yo/rate-limit-checker](https://github.com/Sh1Yo/rate-limit-checker)
+- **Stars:** 43
+- **Version:** null
+- **Updated:** 
+- **Size:** 4.50 MB
+- **SHA:** 724b4fc4b4eb04ed16d2c16fa42ea6985d160f52b200de265a54bd9a0f975c07
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rate-limit-checker
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### rclone
+- **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- **Author:** rclone
+- **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
+- **Stars:** 41278
+- **Version:** v1.64.2
+- **Updated:** 2023-10-19T11:33:35Z
+- **Size:** 53.30 MB
+- **SHA:** 75e65e13cedd7864f56ad75a62ecd7141a9d1c5dae4b8621a6818e2bf7b3ac04
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rclone
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### recollapse
+- **Description:** REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
+- **Author:** 0xacb
+- **Repository:** [https://github.com/0xacb/recollapse](https://github.com/0xacb/recollapse)
+- **Stars:** 751
+- **Version:** v0.2
+- **Updated:** 2023-05-04T16:28:30Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Python
+- **License:** MIT License
+
+---
+
+### reptyr
+- **Description:** Reparent a running program to a new terminal
+- **Author:** nelhage
+- **Repository:** [https://github.com/nelhage/reptyr](https://github.com/nelhage/reptyr)
+- **Stars:** 5435
+- **Version:** reptyr-0.10.0
+- **Updated:** null
+- **Size:** 0.95 MB
+- **SHA:** ef278affbc389928f3256037d465d629c688d90a87431f119aa2775e329c2b7a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/reptyr
+- **Language:** C
+- **License:** MIT License
+
+---
+
+### rescope
+- **Description:**  ZAP
+- **Author:** root4loot
+- **Repository:** [https://github.com/root4loot/rescope](https://github.com/root4loot/rescope)
+- **Stars:** 305
+- **Version:** v2.4
+- **Updated:** 2023-10-27T10:45:28Z
+- **Size:** 5.68 MB
+- **SHA:** b51ae78ca8cefef23ffc808c770e93830f7f70e568df1c76ea4655c1265ca544
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rescope
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### revit
+- **Description:** A command-line utility for performing reverse DNS lookups
+- **Author:** devanshbatham
+- **Repository:** [https://github.com/devanshbatham/revit](https://github.com/devanshbatham/revit)
+- **Stars:** 38
+- **Version:** v0.0.1
+- **Updated:** 2023-08-09T18:21:20Z
+- **Size:** 1.84 MB
+- **SHA:** 934fd24217d757658d67dc6a34442d9dab4b58016b8297a8d7ed1269f9235766
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/revit
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### ripgen
+- **Description:** Rust-based high performance domain permutation generator.
+- **Author:** resyncgg
+- **Repository:** [https://github.com/resyncgg/ripgen](https://github.com/resyncgg/ripgen)
+- **Stars:** 237
+- **Version:** null
+- **Updated:** 
+- **Size:** 3.48 MB
+- **SHA:** bb86ef5249e2ec225ab7bb22ab4283488c532e864582bd823ff26a789ac79b66
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ripgen
+- **Language:** Rust
+- **License:** null
+
+---
+
+### ripgrep-all
+- **Description:** rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- **Author:** phiresky
+- **Repository:** [https://github.com/phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)
+- **Stars:** 5872
+- **Version:** v1.0.0-alpha.5
+- **Updated:** 2023-06-04T16:38:58Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** Other
+
+---
+
+### ripgrep
+- **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- **Author:** BurntSushi
+- **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+- **Stars:** 41202
+- **Version:** 13.0.0
+- **Updated:** 2021-06-12T12:27:16Z
+- **Size:** 5.02 MB
+- **SHA:** 4ef156371199b3ddac1bf584e0e52b1828279af82e4ea864b4d9c816adb5db40
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ripgrep
+- **Language:** Rust
+- **License:** The Unlicense
+
+---
+
+### roboxtractor
+- **Description:** Extract endpoints marked as disallow in robots files to generate wordlists.
+- **Author:** Josue87
+- **Repository:** [https://github.com/Josue87/roboxtractor](https://github.com/Josue87/roboxtractor)
+- **Stars:** 52
+- **Version:** null
+- **Updated:** 
+- **Size:** 4.91 MB
+- **SHA:** a4c24584d3f1bc8ba937bfe458b84b40f42c9378ddae908941d2e6d025aa66bb
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/roboxtractor
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### rospo
+- **Description:** 🐸 Simple, reliable, persistent ssh tunnels with embedded ssh server
+- **Author:** ferama
+- **Repository:** [https://github.com/ferama/rospo](https://github.com/ferama/rospo)
+- **Stars:** 243
+- **Version:** v0.11.5
+- **Updated:** 2023-10-31T07:31:48Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### rpaste
+- **Description:** A CLI tool for rustypaste
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/rustypaste-cli](https://github.com/orhun/rustypaste-cli)
+- **Stars:** 36
+- **Version:** v0.8.0
+- **Updated:** 2023-09-05T18:09:05Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### runc
+- **Description:** CLI tool for spawning and running containers according to the OCI specification
+- **Author:** opencontainers
+- **Repository:** [https://github.com/opencontainers/runc](https://github.com/opencontainers/runc)
+- **Stars:** 10909
+- **Version:** v1.1.10
+- **Updated:** 2023-11-01T07:28:10Z
+- **Size:** 10.19 MB
+- **SHA:** 81f73a59be3d122ab484d7dfe9ddc81030f595cc59968f61c113a9a38a2c113a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/runc
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### rush
+- **Description:** A cross-platform command-line tool for executing jobs in parallel
+- **Author:** shenwei356
+- **Repository:** [https://github.com/shenwei356/rush](https://github.com/shenwei356/rush)
+- **Stars:** 785
+- **Version:** v0.5.4
+- **Updated:** 2023-11-13T17:53:58Z
+- **Size:** 6.92 MB
+- **SHA:** 76573d36a80e580a2ea1cefc37bf4a8e3c34f0c002aafa98db8da4b7e2bb1241
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rush
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### rustscan
+- **Description:** 🤖 The Modern Port Scanner 🤖
+- **Author:** RustScan
+- **Repository:** [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)
+- **Stars:** 11157
+- **Version:** 2.1.1
+- **Updated:** 2022-11-07T10:43:57Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** GNU General Public License v3.0
+
+---
+
+### rustypaste
+- **Description:** A minimal file upload/pastebin service.
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/rustypaste](https://github.com/orhun/rustypaste)
+- **Stars:** 555
+- **Version:** v0.14.1
+- **Updated:** 2023-11-02T23:09:53Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### s3scanner
+- **Description:** Scan for misconfigured S3 buckets across S3-compatible APIs!
+- **Author:** sa7mon
+- **Repository:** [https://github.com/sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
+- **Stars:** 2254
+- **Version:** v3.0.4
+- **Updated:** 2023-09-25T23:07:42Z
+- **Size:** 19.06 MB
+- **SHA:** 896c1168c7fdbac0a8197a0a6d0163014b04988ae30861760395e24d1b59dc02
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/s3scanner
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### sake
+- **Description:** :robot: sake is a task runner for local and remote hosts
+- **Author:** alajmo
+- **Repository:** [https://github.com/alajmo/sake](https://github.com/alajmo/sake)
+- **Stars:** 624
+- **Version:** v0.15.1
+- **Updated:** 2023-09-25T10:00:13Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### scalar
+- **Description:** Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- **Author:** git
+- **Repository:** [https://github.com/git/git](https://github.com/git/git)
+- **Stars:** 48023
+- **Version:** v2.43.0
+- **Updated:** null
+- **Size:** 3.93 MB
+- **SHA:** f4db0ef7e8d5309d5a7cfd9e198d4dc5108ea57219029124f00599758df99a7a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scalar
+- **Language:** C
+- **License:** Other
+
+---
+
+### scilla
+- **Description:** Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/scilla](https://github.com/edoardottt/scilla)
+- **Stars:** 680
+- **Version:** v1.2.7
+- **Updated:** 2023-04-01T08:14:18Z
+- **Size:** 11.28 MB
+- **SHA:** 0f51a08cbe9fdbaecccf3461256be6c808623e7dfe9c806f0c14b8d56b88e157
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scilla
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### scopegen
+- **Description:**  Beg Bounties
+- **Author:** Azathothas
+- **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
+- **Stars:** 6
+- **Version:** null
+- **Updated:** 
+- **Size:** 1.38 MB
+- **SHA:** 38b85b3b08721bd5b05417f0f7b4c7f22d21ea35a8abad6819ac981892782698
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scopegen
+- **Language:** Shell
+- **License:** null
+
+---
+
+### scopeview
+- **Description:**  Beg Bounties
+- **Author:** Azathothas
+- **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
+- **Stars:** 6
+- **Version:** null
+- **Updated:** 
+- **Size:** 0.00 MB
+- **SHA:** 91edb3c8bfc420d6ce1c7a5c05fb2bec8f59457e15dada31cf970e372a8a104e
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scopeview
+- **Language:** Shell
+- **License:** null
+
+---
+
+### screenfetch
+- **Description:** Fetches system/theme information in terminal for Linux desktop screenshots.
+- **Author:** KittyKatt
+- **Repository:** [https://github.com/KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch)
+- **Stars:** 3680
+- **Version:** v3.9.1
+- **Updated:** 2019-11-12T22:02:38Z
+- **Size:** 0.24 MB
+- **SHA:** 5350561c358c276b8a727912b529e0487bb5a3a366c13edc51f9e3ccf8d97149
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/screenfetch
+- **Language:** Shell
+- **License:** GNU General Public License v3.0
+
+---
+
+### shfmt
+- **Description:** A shell parser, formatter, and interpreter with bash support; includes shfmt
+- **Author:** mvdan
+- **Repository:** [https://github.com/mvdan/sh](https://github.com/mvdan/sh)
+- **Stars:** 6322
+- **Version:** v3.7.0
+- **Updated:** 2023-06-18T11:38:17Z
+- **Size:** 2.76 MB
+- **SHA:** fecb4dbebf24652f2b733cb58ea7e512d0431ab28d494a0055fb91e883fba7a6
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/shfmt
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
+### shortscan
+- **Description:** An IIS short filename enumeration tool
+- **Author:** bitquark
+- **Repository:** [https://github.com/bitquark/shortscan](https://github.com/bitquark/shortscan)
+- **Stars:** 358
+- **Version:** v0.6.2
+- **Updated:** 2023-07-31T20:04:07Z
+- **Size:** 9.28 MB
+- **SHA:** 70f3c2b3f7e27dde4e9ae16097d912d1b1459dd266c9712b44c89bfd90280ddf
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/shortscan
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### shuffledns
+- **Description:** MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns)
+- **Stars:** 1149
+- **Version:** v1.0.9
+- **Updated:** 2023-05-07T12:10:42Z
+- **Size:** 17.36 MB
+- **SHA:** 82740516ade352ecb30331dccf5df1df1fea50662360df632555137d12e4abcc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/shuffledns
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### smap
+- **Description:** a drop-in replacement for Nmap powered by shodan.io
+- **Author:** s0md3v
+- **Repository:** [https://github.com/s0md3v/Smap](https://github.com/s0md3v/Smap)
+- **Stars:** 2623
+- **Version:** 0.1.12
+- **Updated:** 2022-11-13T21:50:58Z
+- **Size:** 13.68 MB
+- **SHA:** 02b80ef7f04e46586fa710dc11fc868831ecc4bd38c090fd1cdd3602a0032193
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/smap
+- **Language:** Go
+- **License:** GNU Affero General Public License v3.0
+
+---
+
+### sns
+- **Description:** IIS shortname scanner written in Go
+- **Author:** sw33tLie
+- **Repository:** [https://github.com/sw33tLie/sns](https://github.com/sw33tLie/sns)
+- **Stars:** 268
+- **Version:** null
+- **Updated:** 
+- **Size:** 7.91 MB
+- **SHA:** e584a8a9157b4e2f3d8ea317cb2401fb72ac78f64cfdfc07f8c6ee66c3730876
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sns
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### speedtest-go
+- **Description:** CLI and Go API to Test Internet Speed using speedtest.net
+- **Author:** showwin
+- **Repository:** [https://github.com/showwin/speedtest-go](https://github.com/showwin/speedtest-go)
+- **Stars:** 402
+- **Version:** v1.6.9
+- **Updated:** 2023-11-17T09:31:12Z
+- **Size:** 6.57 MB
+- **SHA:** b5da48a328ca29e8f134a3dc767b456ffddb6418929dcebf8fb08347b9b7702c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/speedtest-go
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### spk
+- **Description:** spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization.
+- **Author:** dhn
+- **Repository:** [https://github.com/dhn/spk](https://github.com/dhn/spk)
+- **Stars:** 72
+- **Version:** null
+- **Updated:** 
+- **Size:** 6.51 MB
+- **SHA:** 597ddb28f83bb6294178fadfa75d34b4344e367914e889786b77b08dd91a50d2
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/spk
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
+### spoof-dpi
+- **Description:** A simple and fast anti-censorship tool written in Go
+- **Author:** xvzc
+- **Repository:** [https://github.com/xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)
+- **Stars:** 392
+- **Version:** 0.8
+- **Updated:** 2023-09-08T08:40:10Z
+- **Size:** 4.98 MB
+- **SHA:** bca4fb8e3a779ee38e9cdc85e22e123edca52e246772252f53335af53c52603b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/spoof-dpi
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### sshesame
+- **Description:** An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
+- **Author:** jaksi
+- **Repository:** [https://github.com/jaksi/sshesame](https://github.com/jaksi/sshesame)
+- **Stars:** 1341
+- **Version:** v0.0.27
+- **Updated:** 2023-01-18T09:25:26Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### sshkeys
+- **Description:** Get all ssh public keys of a ssh server
+- **Author:** Eun
+- **Repository:** [https://github.com/Eun/sshkeys](https://github.com/Eun/sshkeys)
+- **Stars:** 21
+- **Version:** v1.13.8
+- **Updated:** 2023-08-09T07:20:08Z
+- **Size:** 3.77 MB
+- **SHA:** 95a79466be3ca1175127c2426a591f92c2af2f0961d162d47418ab8b6b3c54cc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sshkeys
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### sshportal
+- **Description:** :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- **Author:** moul
+- **Repository:** [https://github.com/moul/sshportal](https://github.com/moul/sshportal)
+- **Stars:** 1593
+- **Version:** v1.19.5
+- **Updated:** 2023-05-20T09:27:43Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### starship
+- **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- **Author:** starship
+- **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
+- **Stars:** 37724
+- **Version:** v1.16.0
+- **Updated:** 2023-07-30T13:48:25Z
+- **Size:** 9.09 MB
+- **SHA:** 6a5ed5f543a467a62f2cb38dc0095ff0e596898c787da67b341bac697c4e97df
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/starship
+- **Language:** Rust
+- **License:** ISC License
+
+---
+
+### strace
+- **Description:** strace is a diagnostic, debugging and instructional userspace utility for Linux
+- **Author:** strace
+- **Repository:** [https://github.com/strace/strace](https://github.com/strace/strace)
+- **Stars:** 1923
+- **Version:** v6.6
+- **Updated:** 2023-10-31T11:48:38Z
+- **Size:** 2.04 MB
+- **SHA:** 5aa225d10aa38d79ab91dd5995fb3eec63d79ebfbf8a2beca16836ff53ac7922
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/strace
+- **Language:** C
+- **License:** Other
+
+---
+
+### sttr
+- **Description:** cross-platform, cli app to perform various operations on string
+- **Author:** abhimanyu003
+- **Repository:** [https://github.com/abhimanyu003/sttr](https://github.com/abhimanyu003/sttr)
+- **Stars:** 760
+- **Version:** v0.2.18
+- **Updated:** 2023-04-08T10:50:52Z
+- **Size:** 8.92 MB
+- **SHA:** 9ecfe4bffe5620e35a33748a861bc29a849ce4cd4c9128a87e7245093f25d141
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sttr
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### subfinder
+- **Description:** Fast passive subdomain enumeration tool.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
+- **Stars:** 8541
+- **Version:** v2.6.3
+- **Updated:** 2023-09-12T09:40:25Z
+- **Size:** 24.72 MB
+- **SHA:** 95fbfe4167be9594be66eb2c5d8196689b1a00685a3bf13bbd83be30f78abde2
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/subfinder
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### subjs
+- **Description:** Fetches javascript file from a list of URLS or subdomains.
+- **Author:** lc
+- **Repository:** [https://github.com/lc/subjs](https://github.com/lc/subjs)
+- **Stars:** 668
+- **Version:** v1.0.1
+- **Updated:** 2020-05-16T17:11:45Z
+- **Size:** 4.96 MB
+- **SHA:** 6a6d822f228f3de128a5372cd8476f19f068a1c0a2fad4bee589e5fbf3918ee0
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/subjs
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### subxtract
+- **Description:**  Beg Bounties
+- **Author:** Azathothas
+- **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
+- **Stars:** 6
+- **Version:** null
+- **Updated:** 
+- **Size:** 0.00 MB
+- **SHA:** 838cd5429cf4601cde2713b2b6440832cc47c906af9ae15802c77c2bbcc57b1a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/subxtract
+- **Language:** Shell
+- **License:** null
+
+---
+
+### surf
+- **Description:** Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
+- **Author:** assetnote
+- **Repository:** [https://github.com/assetnote/surf](https://github.com/assetnote/surf)
+- **Stars:** 409
+- **Version:** v0.0.5
+- **Updated:** 2023-06-17T07:23:34Z
+- **Size:** 32.84 MB
+- **SHA:** 729880e6f783364385d920d55958fc68d48253aeff2a6af57a6fb18e0cc583c8
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/surf
+- **Language:** Go
+- **License:** null
+
+---
+
+### systeroid
+- **Description:** A more powerful alternative to sysctl(8) with a terminal user interface 🐧
+- **Author:** orhun
+- **Repository:** [https://github.com/orhun/systeroid](https://github.com/orhun/systeroid)
+- **Stars:** 1136
+- **Version:** v0.4.4
+- **Updated:** 2023-09-19T10:15:03Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### tailscale
+- **Description:** The easiest, most secure way to use WireGuard and 2FA.
+- **Author:** tailscale
+- **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
+- **Stars:** 14368
+- **Version:** v1.54.0
+- **Updated:** 2023-11-15T19:00:13Z
+- **Size:** 10.98 MB
+- **SHA:** 18ac33212c435fe29be1557c690b4c93c0cb916964ff6cf645b4044633b25a15
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tailscale
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
+### tailscaled
+- **Description:** The easiest, most secure way to use WireGuard and 2FA.
+- **Author:** tailscale
+- **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
+- **Stars:** 14368
+- **Version:** v1.54.0
+- **Updated:** 2023-11-15T19:00:13Z
+- **Size:** 20.38 MB
+- **SHA:** 1d5f74fcad744897989fa9512220b130e76bb1087bb8f4e9c31766ad4470b8d5
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tailscaled
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
+### tailspin
+- **Description:** 🌀 A log file highlighter
+- **Author:** bensadeh
+- **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
+- **Stars:** 3475
+- **Version:** 2.2.0
+- **Updated:** 2023-11-19T15:04:41Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### tcpdump
+- **Description:** the TCPdump network dissector
+- **Author:** the-tcpdump-group
+- **Repository:** [https://github.com/the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump)
+- **Stars:** 2393
+- **Version:** tcpdump-4.99.4
+- **Updated:** 2023-04-07T18:30:58Z
+- **Size:** 1.48 MB
+- **SHA:** b377fbf0e8ca1f4dfe668dfc8f079def6bb372db60b09a9a64647cee8df2feeb
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tcpdump
+- **Language:** C
+- **License:** Other
+
+---
+
+### tere
+- **Description:** Terminal file explorer
+- **Author:** mgunyho
+- **Repository:** [https://github.com/mgunyho/tere](https://github.com/mgunyho/tere)
+- **Stars:** 1558
+- **Version:** v1.5.1
+- **Updated:** 2023-08-24T18:54:12Z
+- **Size:** 2.60 MB
+- **SHA:** a8f3bf00f1a9d3912069955b15f1f1f0a8fac4633effefb2cbdb3964a002165a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tere
+- **Language:** Rust
+- **License:** European Union Public License 1.2
+
+---
+
+### tlsx
+- **Description:** Fast and configurable TLS grabber focused on TLS based data collection.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx)
+- **Stars:** 711
+- **Version:** v1.1.5
+- **Updated:** 2023-09-28T11:08:02Z
+- **Size:** 25.17 MB
+- **SHA:** a985204d19d6a41636eb4fca4c461a25afeaa8725e6b4b56144a8ea24e2f673c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tlsx
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### tmate
+- **Description:** Instant Terminal Sharing
+- **Author:** tmate-io
+- **Repository:** [https://github.com/tmate-io/tmate](https://github.com/tmate-io/tmate)
+- **Stars:** 5374
+- **Version:** 2.4.0
+- **Updated:** 2019-11-16T22:14:17Z
+- **Size:** 2.99 MB
+- **SHA:** d2fff992e40ce18ff81b9a92fa1cb93a56fb5a82c1cc428204552d8dfa1bc04f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tmate
+- **Language:** C
+- **License:** Other
+
+---
+
+### tmux
+- **Description:** tmux source code
+- **Author:** tmux
+- **Repository:** [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
+- **Stars:** 31027
+- **Version:** 3.3a
+- **Updated:** 2022-06-09T11:37:28Z
+- **Size:** 1.23 MB
+- **SHA:** 2985020a5c8ca9891e5daadabd2573d3d3cfaff5d17ad54357f2f29ea409b197
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tmux
+- **Language:** C
+- **License:** Other
+
+---
+
+### tok
+- **Description:** A collection of hacks and one-off scripts
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
+- **Stars:** 1937
+- **Version:** null
+- **Updated:** 
+- **Size:** 1.30 MB
+- **SHA:** 35220b188639b3138518df4cf258dd7b43644f0e791696b502fade8b50fab2e5
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tok
+- **Language:** Go
+- **License:** null
+
+---
+
+### tokei
+- **Description:** Count your code, quickly.
+- **Author:** XAMPPRocky
+- **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
+- **Stars:** 9071
+- **Version:** v13.0.0-alpha.0
+- **Updated:** 2023-03-27T15:56:31Z
+- **Size:** 4.04 MB
+- **SHA:** 65387d346d7469b4d225be887b44ee301627d2e96591004965bf8cd0d22bff0f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tokei
+- **Language:** Rust
+- **License:** Other
+
+---
+
+### toybox
+- **Description:** toybox
+- **Author:** landley
+- **Repository:** [https://github.com/landley/toybox](https://github.com/landley/toybox)
+- **Stars:** 2106
+- **Version:** 0.8.10
+- **Updated:** 2023-07-30T09:41:04Z
+- **Size:** 0.72 MB
+- **SHA:** 69171b03ca3f221012fac692618ae74952f5892727f459c0370c64b61c0780d4
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/toybox
+- **Language:** C
+- **License:** BSD Zero Clause License
+
+---
+
+### trufflehog
+- **Description:** Find and verify credentials
+- **Author:** trufflesecurity
+- **Repository:** [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+- **Stars:** 12757
+- **Version:** v3.63.2-rc0
+- **Updated:** 2023-11-21T18:46:16Z
+- **Size:** 83.23 MB
+- **SHA:** 9de3b7de62a3edd71b719e7bbeefc234dc01d82b3ac6512582c8065b36f7f116
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/trufflehog
+- **Language:** Go
+- **License:** GNU Affero General Public License v3.0
+
+---
+
+### udpx
+- **Description:** Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
+- **Author:** nullt3r
+- **Repository:** [https://github.com/nullt3r/udpx](https://github.com/nullt3r/udpx)
+- **Stars:** 155
+- **Version:** v1.0.7
+- **Updated:** 2023-02-01T16:25:35Z
+- **Size:** 2.01 MB
+- **SHA:** 66b53d38320f8bdef162f964874f5175829a9b3e680c3900d742b3912b32626c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/udpx
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### uncover
+- **Description:** Quickly discover exposed hosts on the internet using multiple search engines.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/uncover](https://github.com/projectdiscovery/uncover)
+- **Stars:** 2109
+- **Version:** v1.0.7
+- **Updated:** 2023-10-20T12:17:12Z
+- **Size:** 23.80 MB
+- **SHA:** 78e9f59b9947afd5948296593c20ac7358c373a9aa5aaca95cb70e46c3f3b90a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/uncover
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### unfurl
+- **Description:** Pull out bits of URLs provided on stdin
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/unfurl](https://github.com/tomnomnom/unfurl)
+- **Stars:** 924
+- **Version:** v0.4.3
+- **Updated:** 2022-07-19T14:36:40Z
+- **Size:** 4.85 MB
+- **SHA:** 6a2ff7ad3661f8626e1014fc35ea39865b0cd56ce27a164427142333f680c141
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/unfurl
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### upx
+- **Description:** UPX - the Ultimate Packer for eXecutables
+- **Author:** upx
+- **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
+- **Stars:** 12532
+- **Version:** v4.2.1
+- **Updated:** 2023-11-01T12:02:45Z
+- **Size:** 0.54 MB
+- **SHA:** e6d61dbe267ca09a44d41a2a5b85ea673ffbff20b62c6cc6d61b37b6c7f84a2d
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/upx
+- **Language:** C++
+- **License:** Other
+
+---
+
+### vegeta
+- **Description:** HTTP load testing tool and library. It's over 9000!
+- **Author:** tsenart
+- **Repository:** [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
+- **Stars:** 22146
+- **Version:** v12.11.1
+- **Updated:** 2023-10-02T09:08:28Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### vhs
+- **Description:** Your CLI home video recorder 📼
+- **Author:** charmbracelet
+- **Repository:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- **Stars:** 12328
+- **Version:** v0.6.0
+- **Updated:** 2023-07-20T19:14:51Z
+- **Size:** 23.40 MB
+- **SHA:** bb3790620a3b19b258ae0cc2d3031b037fe867576c7a41221446d14de34206ac
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/vhs
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### viddy
+- **Description:** 👀 A modern watch command. Time machine and pager etc.
+- **Author:** sachaos
+- **Repository:** [https://github.com/sachaos/viddy](https://github.com/sachaos/viddy)
+- **Stars:** 4195
+- **Version:** v0.4.0
+- **Updated:** 2023-10-15T07:41:31Z
+- **Size:** 7.91 MB
+- **SHA:** 0c8215bf317f7a311c666322f30aa71ef2770adbf23336198e83afff477c18c6
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/viddy
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### viewgen
+- **Description:** Viewgen is a ViewState tool capable of generating both signed and encrypted payloads with leaked validation keys
+- **Author:** 0xacb
+- **Repository:** [https://github.com/0xacb/viewgen](https://github.com/0xacb/viewgen)
+- **Stars:** 551
+- **Version:** v0.2
+- **Updated:** 2023-01-17T21:35:19Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Python
+- **License:** MIT License
+
+---
+
+### vopono
+- **Description:** Run applications through VPN tunnels with temporary network namespaces
+- **Author:** jamesmcm
+- **Repository:** [https://github.com/jamesmcm/vopono](https://github.com/jamesmcm/vopono)
+- **Stars:** 651
+- **Version:** 0.10.7
+- **Updated:** 2023-11-04T16:15:58Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** GNU General Public License v3.0
+
+---
+
+### waybackrobots
+- **Description:** Enumerate old versions of robots.txt paths using Wayback Machine for content discovery
+- **Author:** mhmdiaa
+- **Repository:** [https://github.com/mhmdiaa/waybackrobots](https://github.com/mhmdiaa/waybackrobots)
+- **Stars:** 26
+- **Version:** v1.0.1
+- **Updated:** 2023-09-21T15:25:43Z
+- **Size:** 5.34 MB
+- **SHA:** ad4b6ee7476b4ec08d7b29d9ba456e67b4de93a08f6132ebfc32c37ca0153ab8
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/waybackrobots
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### waybackurls
+- **Description:** Fetch all the URLs that the Wayback Machine knows about for a domain
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
+- **Stars:** 2887
+- **Version:** v0.1.0
+- **Updated:** 2022-04-05T10:19:55Z
+- **Size:** 4.72 MB
+- **SHA:** 77b46e0c3faf91d726eb3740fc79c21a1df530d4df3585666a764126bb02bca0
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/waybackurls
+- **Language:** Go
+- **License:** null
+
+---
+
+### websocat
+- **Description:** Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- **Author:** vi
+- **Repository:** [https://github.com/vi/websocat](https://github.com/vi/websocat)
+- **Stars:** 6070
+- **Version:** v1.12.0
+- **Updated:** 2023-09-17T15:00:07Z
+- **Size:** 6.63 MB
+- **SHA:** c0d76f794e5652e4a3350084466a7f1de80591c0cb62a3ad29e022dbe0eef337
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/websocat
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### wireguard-go
+- **Description:** Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+- **Author:** WireGuard
+- **Repository:** [https://github.com/WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go)
+- **Stars:** 2370
+- **Version:** v0.0.20201121
+- **Updated:** 2021-04-23T02:26:48Z
+- **Size:** 2.68 MB
+- **SHA:** a4f6b9034c41a6ae29ac5d4ef7f2134a2df105699ea4735c9f86a14bf0d5bf2b
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/wireguard-go
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### wireguard-rs
+- **Description:** Mirror only. Official repository is at https://git.zx2c4.com/wireguard-rs
+- **Author:** WireGuard
+- **Repository:** [https://github.com/WireGuard/wireguard-rs](https://github.com/WireGuard/wireguard-rs)
+- **Stars:** 415
+- **Version:** null
+- **Updated:** 
+- **Size:** 2.63 MB
+- **SHA:** 37badbeac8989344cf44b13e4644b385f2f5c2a37139e4b411d1b3e9131ac230
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/wireguard-rs
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### wireproxy
+- **Description:** Wireguard client that exposes itself as a socks5 proxy
+- **Author:** pufferffish
+- **Repository:** [https://github.com/pufferffish/wireproxy](https://github.com/pufferffish/wireproxy)
+- **Stars:** 2666
+- **Version:** v1.0.6
+- **Updated:** 2023-05-22T17:11:23Z
+- **Size:** 5.96 MB
+- **SHA:** e1b3c2b7f7776149fe172b7355f3e5888c85ccc1b79a500350231de1a26378b7
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/wireproxy
+- **Language:** Go
+- **License:** ISC License
+
+---
+
+### wiretap
+- **Description:** Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
+- **Author:** sandialabs
+- **Repository:** [https://github.com/sandialabs/wiretap](https://github.com/sandialabs/wiretap)
+- **Stars:** 695
+- **Version:** v0.4.2
+- **Updated:** 2023-11-12T02:50:09Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Go
+- **License:** Other
+
+---
+
+### wormhole-rs
+- **Description:** Rust implementation of Magic Wormhole, with new features and enhancements
+- **Author:** magic-wormhole
+- **Repository:** [https://github.com/magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs)
+- **Stars:** 510
+- **Version:** 0.6.0
+- **Updated:** 2022-12-21T22:15:49Z
+- **Size:** 
+- **SHA:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** European Union Public License 1.2
+
+---
+
+### x8
+- **Description:** Hidden parameters discovery suite
+- **Author:** Sh1Yo
+- **Repository:** [https://github.com/Sh1Yo/x8](https://github.com/Sh1Yo/x8)
+- **Stars:** 1335
+- **Version:** v4.3.0
+- **Updated:** 2023-05-22T06:19:23Z
+- **Size:** 8.34 MB
+- **SHA:** ecefb0fcf7216c5b103b25c19daa2a5f4f0725d9471a5b75fa5cfc9745a39d85
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/x8
+- **Language:** Rust
+- **License:** GNU General Public License v3.0
+
+---
+
+### xurls
+- **Description:** Extract urls from text
+- **Author:** mvdan
+- **Repository:** [https://github.com/mvdan/xurls](https://github.com/mvdan/xurls)
+- **Stars:** 1092
+- **Version:** v2.5.0
+- **Updated:** 2023-04-16T20:42:59Z
+- **Size:** 4.75 MB
+- **SHA:** b1994f472712f639cfa1f1644649f066a804387ddc35a6e708f86b2b5364b6d7
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/xurls
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
+### yalis
+- **Description:** Yet Another LinkedIn Scraper
+- **Author:** EatonChips
+- **Repository:** [https://github.com/EatonChips/yalis](https://github.com/EatonChips/yalis)
+- **Stars:** 29
+- **Version:** null
+- **Updated:** 
+- **Size:** 6.26 MB
+- **SHA:** 6b04a14252c0ca79f3f681f4739b0a90efaf2c52092ca4975e34f5e13207308c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yalis
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### yataf
+- **Description:** yataf extracts secrets and paths from files or urls - its best used against javascript files
+- **Author:** Damian89
+- **Repository:** [https://github.com/Damian89/yataf](https://github.com/Damian89/yataf)
+- **Stars:** 46
+- **Version:** 1.0.0
+- **Updated:** 2023-02-08T13:45:36Z
+- **Size:** 4.68 MB
+- **SHA:** fea88662ca6b0ab90ff15ab8df4fb806d8e134a04c5960a3eaf3107fe955111e
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yataf
+- **Language:** Go
+- **License:** null
+
+---
+
+### yj
+- **Description:** CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
+- **Author:** sclevine
+- **Repository:** [https://github.com/sclevine/yj](https://github.com/sclevine/yj)
+- **Stars:** 882
+- **Version:** v5.1.0
+- **Updated:** 2022-04-12T01:58:57Z
+- **Size:** 3.11 MB
+- **SHA:** 97427e3b27b17fe030f198cbfcf0df9b4bbd09bc292fceca72e2669efb5724ee
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yj
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### yq
+- **Description:** yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+- **Author:** mikefarah
+- **Repository:** [https://github.com/mikefarah/yq](https://github.com/mikefarah/yq)
+- **Stars:** 9794
+- **Version:** v4.40.3
+- **Updated:** 2023-11-23T03:57:56Z
+- **Size:** 9.30 MB
+- **SHA:** c89901e42855c184f9efffb7fbb78e60e2af47b27c518a1fe6f53e79cdf2ee95
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yq
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### zdns
+- **Description:** Fast CLI DNS Lookup Tool
+- **Author:** zmap
+- **Repository:** [https://github.com/zmap/zdns](https://github.com/zmap/zdns)
+- **Stars:** 806
+- **Version:** v1.0.0
+- **Updated:** 2023-09-10T17:09:04Z
+- **Size:** 8.42 MB
+- **SHA:** 1e4f06c36bde0379f916261f61e7d57a50468c7aed0054607cd081109f65a45e
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/zdns
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### zellij
+- **Description:** A terminal workspace with batteries included
+- **Author:** zellij-org
+- **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
+- **Stars:** 14602
+- **Version:** v0.39.1
+- **Updated:** 2023-11-13T08:05:48Z
+- **Size:** 29.44 MB
+- **SHA:** 44ef361b8e5fbabfa4e08eaf7bcc5d92c4881511b66b5fc8716f60ab62fddbdf
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/zellij
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### zenith
+- **Description:** Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+- **Author:** bvaisvil
+- **Repository:** [https://github.com/bvaisvil/zenith](https://github.com/bvaisvil/zenith)
+- **Stars:** 1996
+- **Version:** 0.14.0
+- **Updated:** 2023-02-24T22:01:18Z
+- **Size:** 1.95 MB
+- **SHA:** 64a3599846e4128d52c70a0fa749ed90dbdf340a6262951f680a6a8a009095fa
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/zenith
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### zgrab2
+- **Description:** Fast Go Application Scanner
+- **Author:** zmap
+- **Repository:** [https://github.com/zmap/zgrab2](https://github.com/zmap/zgrab2)
+- **Stars:** 1503
+- **Version:** v0.1.6
+- **Updated:** 2020-03-31T20:01:53Z
+- **Size:** 13.80 MB
+- **SHA:** 25cba437962685b1beae5afd4d480c126bfb4a3f1d45a92ffe5b73fcadd734dc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/zgrab2
+- **Language:** Go
+- **License:** Other
+
+---
+
+### zoxide
+- **Description:** A smarter cd command. Supports all major shells.
+- **Author:** ajeetdsouza
+- **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+- **Stars:** 12523
+- **Version:** v0.9.2
+- **Updated:** 2023-08-04T03:16:26Z
+- **Size:** 1.12 MB
+- **SHA:** 49b6ec281c89404281d24710fe755bf5e26d1b2abf452a623619848235e46a69
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/zoxide
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
