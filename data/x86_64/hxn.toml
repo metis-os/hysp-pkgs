@@ -4,22 +4,22 @@ name = "hxn"
 [package]
 architecture = "x86_64"
 name = "hxn"
-description = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
-author = ""
+description = "⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal."
+repo = "https://github.com/pwnwriter/haylxon"
+stars = "339"
+version = "v0.1.9"
+updated = "2023-11-03T07:24:19Z"
+size = "7.33 MB"
+author = "pwnwriter"
 sha = "e497a19d670b036e5169b4b91b91294c5470655c5116863f4806605d3aab970e"
 source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hxn"
-language = ""
-license = ""
+language = "Rust"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["hxn"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = ["bug-hunting-tools","hactoberfest","osint","pwnwriter","rust","rustlang","screenshot-utility"]
 categories = ["Utilities"]
