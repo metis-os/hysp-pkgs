@@ -3,7 +3,7 @@ name: 🛍️ Generate | Update ⚙️ Daily Package 📦 Metadata 🗄️
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *" #  Every 6 hr 
+    - cron: "*/45 * * * *" #  Every 45 Mins
   
 env:
   GITHUB_TOKEN: ${{ secrets.HYSP_TOKEN }}
