@@ -56,5 +56,5 @@ awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL=
 sed '/^description = / s/.*"\(.*\)".*/description = "\1"/' -i "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml"
 #Print
 echo -e "\n [+] $GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml\n" && cat "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" && echo -e "\n"    
-# Sample Spec : https://github.com/metis-os/hysp-pkgs/blob/main/data/x86_64/SAMPLE_SPEC.toml
+# Sample Spec : https://github.com/metis-os/hysp-pkgs/blob/main/SPEC/SAMPLE_SPEC.toml
 #EOF
