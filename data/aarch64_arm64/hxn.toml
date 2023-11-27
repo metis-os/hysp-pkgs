@@ -1,0 +1,26 @@
+[bin]
+name = "hxn"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hxn"
+description = "⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal."
+author = "pwnwriter"
+repo = "https://github.com/pwnwriter/haylxon"
+stars = "340"
+version = "v0.1.9"
+updated = "2023-11-03T07:24:19Z"
+size = "6.05 MB"
+bsum = "94ea0ffbf6288e936208465fdd7be408329ea0c2924eaa8dc854c063b2c0e755"
+sha = "1d8eec413f5c3eafcd8e6cb5e6acddea23d501b742d4482da34427940a1e1e08"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hxn"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hxn"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-hunting-tools","hactoberfest","osint","pwnwriter","rust","rustlang","screenshot-utility"]
+categories = ["Utilities"]

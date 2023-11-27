@@ -1,0 +1,26 @@
+[bin]
+name = "tailspin"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tailspin"
+description = "🌀 A log file highlighter"
+author = "bensadeh"
+repo = "https://github.com/bensadeh/tailspin"
+stars = "3493"
+version = "2.2.0"
+updated = "2023-11-19T15:04:41Z"
+size = ""
+bsum = ""
+sha = ""
+source = ""
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tailspin"]
+requires = []
+
+[package.metadata]
+keywords = ["colorizer","colors","file","follow","highlighter","less","log","log-file","logfile","syntax-highlighting","tail"]
+categories = ["Utilities"]

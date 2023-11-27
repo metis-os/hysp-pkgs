@@ -1,0 +1,26 @@
+[bin]
+name = "rg"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rg"
+description = "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+author = "BurntSushi"
+repo = "https://github.com/BurntSushi/ripgrep"
+stars = "41329"
+version = "14.0.1"
+updated = "2023-11-26T22:36:29Z"
+size = "5.01 MB"
+bsum = "d41d721ec4d1e84e1cfe3c861786e572afb37e123932639df1d21531c4f75445"
+sha = "8614f08eeb663f9cd6cf43e91600b1f6cad413403cede84613925e17d2f20186"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rg"
+language = "Rust"
+license = "The Unlicense"
+
+[package.conditions]
+conflicts  = ["rg"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","gitignore","grep","recursively-search","regex","ripgrep","rust","search"]
+categories = ["Utilities"]

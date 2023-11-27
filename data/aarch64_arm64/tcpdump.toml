@@ -1,0 +1,26 @@
+[bin]
+name = "tcpdump"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tcpdump"
+description = "the TCPdump network dissector"
+author = "the-tcpdump-group"
+repo = "https://github.com/the-tcpdump-group/tcpdump"
+stars = "2394"
+version = "tcpdump-4.99.4"
+updated = "2023-04-07T18:30:58Z"
+size = ""
+bsum = ""
+sha = ""
+source = ""
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["tcpdump"]
+requires = []
+
+[package.metadata]
+keywords = ["berkeley-packet-filter","bpf","bsd-packet-filter","libpcap","packet-capture","pcap","pcapng","sniffer","tcpdump"]
+categories = ["Utilities"]

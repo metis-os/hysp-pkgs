@@ -1,0 +1,26 @@
+[bin]
+name = "rate-limit-checker"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rate-limit-checker"
+description = "Check whether the domain has a rate limit enabled."
+author = "Sh1Yo"
+repo = "https://github.com/Sh1Yo/rate-limit-checker"
+stars = "43"
+version = "null"
+updated = ""
+size = "4.31 MB"
+bsum = "bb194312e6442ce7c1102573e72846887c3bd13c71f792a1bdd831cef7139998"
+sha = "0b9d2981b3cc6dc55b7f77c2d1f8341cdcebed55c1abae77de345bd7ab0e630a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rate-limit-checker"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rate-limit-checker"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","go","golang"]
+categories = ["Utilities"]

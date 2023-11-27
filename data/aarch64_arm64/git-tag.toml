@@ -1,0 +1,26 @@
+[bin]
+name = "git-tag"
+
+[package]
+architecture = "aarch64_arm64"
+name = "git-tag"
+description = "A highly extensible Git implementation in pure Go."
+author = "go-git"
+repo = "https://github.com/go-git/go-git"
+stars = "5128"
+version = "v5.10.0"
+updated = "2023-10-25T09:10:27Z"
+size = "4.69 MB"
+bsum = "b51813ca7ddd9941998607bc6b4d50bad72ef1996fb385864f7eaa678cbb4c3f"
+sha = "61178ee7363349f460b29bb5cfd35593f52ef24dfcfc7d2c59c3f53b8d9e2132"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-tag"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["git-tag"]
+requires = []
+
+[package.metadata]
+keywords = ["git","git-client","git-server","go-git","golang"]
+categories = ["Utilities"]

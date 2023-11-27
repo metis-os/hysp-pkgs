@@ -1,0 +1,26 @@
+[bin]
+name = "cdncheck"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cdncheck"
+description = "A utility to detect various technology for a given IP address."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/cdncheck"
+stars = "516"
+version = "v1.0.9"
+updated = "2023-06-09T11:21:20Z"
+size = "18.96 MB"
+bsum = "287bea9794f30b004c42b4e9cc2b1fef1ef57a6073c9c9947060ad6cb5f7fbbf"
+sha = "84528b5dbc295f6961799948a6230d18c2cfdaad3514416f09e5885ec365ee42"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cdncheck"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cdncheck"]
+requires = []
+
+[package.metadata]
+keywords = ["api","cdn","cli","cname","detection","lib","technology"]
+categories = ["Utilities"]

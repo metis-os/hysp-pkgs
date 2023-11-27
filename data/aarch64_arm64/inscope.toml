@@ -1,0 +1,26 @@
+[bin]
+name = "inscope"
+
+[package]
+architecture = "aarch64_arm64"
+name = "inscope"
+description = "A collection of hacks and one-off scripts"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/hacks"
+stars = "1936"
+version = "null"
+updated = ""
+size = "1.66 MB"
+bsum = "2facddae50be4d1972e544586c7785fe355e556877bd2d794dddb3e0be483c6e"
+sha = "fa5021d2e95c25c1489900bb77a79d7ac72c08f5a217f2c1f522271e27414709"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/inscope"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["inscope"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

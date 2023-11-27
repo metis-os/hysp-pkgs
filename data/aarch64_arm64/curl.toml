@@ -1,0 +1,26 @@
+[bin]
+name = "curl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "curl"
+description = "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+author = "curl"
+repo = "https://github.com/curl/curl"
+stars = "32484"
+version = "curl-8_4_0"
+updated = "2023-10-11T06:28:45Z"
+size = "6.22 MB"
+bsum = "4145a75fc9b52b177842bbe03700e8145beb1019692c56f092dae8f8b7074bd3"
+sha = "94f800ccde6c2f755ebe1b89c222c25501c4a2ce80f1a94bbe7db6a56dbb80c6"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/curl"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["curl"]
+requires = []
+
+[package.metadata]
+keywords = ["c","client","curl","ftp","gopher","hacktoberfest","http","https","imaps","ldap","libcurl","library","mqtt","pop3","scp","sftp","transfer-data","transferring-data","user-agent","websocket"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "gau"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gau"
+description = "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl."
+author = "lc"
+repo = "https://github.com/lc/gau"
+stars = "3212"
+version = "v2.2.1"
+updated = "2023-11-02T13:13:38Z"
+size = "7.32 MB"
+bsum = "034a7b717ff6d3ad507223d2b90c301f0ebdc64fd4f501d98d6c7e36868a5969"
+sha = "fd93256ef9e7ef4ec0cb012ab02414be66c524f3f30644ffbdf7ab1b8b186be0"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gau"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gau"]
+requires = []
+
+[package.metadata]
+keywords = ["alienvault","gau","hacktoberfest","security","wayback-machine"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "speedtest-go"
+
+[package]
+architecture = "aarch64_arm64"
+name = "speedtest-go"
+description = "CLI and Go API to Test Internet Speed using speedtest.net"
+author = "showwin"
+repo = "https://github.com/showwin/speedtest-go"
+stars = "402"
+version = "v1.6.9"
+updated = "2023-11-17T09:31:12Z"
+size = "6.25 MB"
+bsum = "e44edd45d9f416035eb89fce4476700986ab336516ef2ed4dddbcf2f8f964c42"
+sha = "40331ffbbf9acfc29e774fb92297e5d5806892d84f0024008864b8aab8da7adc"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/speedtest-go"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["speedtest-go"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","go","network","speedtest"]
+categories = ["Utilities"]

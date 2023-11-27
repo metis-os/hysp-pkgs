@@ -1,0 +1,26 @@
+[bin]
+name = "gping"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gping"
+description = "Ping, but with a graph"
+author = "orf"
+repo = "https://github.com/orf/gping"
+stars = "9660"
+version = "gping-v1.15.1"
+updated = "2023-11-07T15:38:54Z"
+size = "2.33 MB"
+bsum = "2ed66fec3921f39d5ba0f0072a02dd0187b885f86ae62f38ba924d0bf3b837ad"
+sha = "056274af4b4cc7c538d14896b6736196d75f4ea47ccb8d2d4b1a5bb15ad83326"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gping"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gping"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","graph","linux","network-monitoring","ping","rust","shell"]
+categories = ["Utilities"]

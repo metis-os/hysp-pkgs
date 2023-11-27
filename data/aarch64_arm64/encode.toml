@@ -1,0 +1,26 @@
+[bin]
+name = "encode"
+
+[package]
+architecture = "aarch64_arm64"
+name = "encode"
+description = "Script to read input from stdin and encode it"
+author = "Brum3ns"
+repo = "https://github.com/Brum3ns/encode"
+stars = "18"
+version = "null"
+updated = ""
+size = "2.24 MB"
+bsum = "563db3d76e4df375882ef1ac9ef63e041adfecad355501faf2e52a7d0b257099"
+sha = "088d60b42dcf858909c1a97503daeec6a94eb59f549972333b4d41cccfedfbc0"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/encode"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["encode"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","encoder","payloads","transformation","wordlist"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "jaeles"
+
+[package]
+architecture = "aarch64_arm64"
+name = "jaeles"
+description = "The Swiss Army knife for automated Web Application Testing"
+author = "jaeles-project"
+repo = "https://github.com/jaeles-project/jaeles"
+stars = "1982"
+version = "beta-v0.17.1"
+updated = "2023-07-08T08:31:33Z"
+size = "22.29 MB"
+bsum = "85738d1e25b6c2e0523a877494bebba6cc62a22b4008e3cdc1338561e6ddccb3"
+sha = "66a534334aa4dd89bf7ac7af67bfb6bccf74dc3dc72f652d95125d37012f3c60"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/jaeles"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jaeles"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","golang","hacking","infosec","jaeles","scanner","security-tools","vulnerabilities","web-scanner"]
+categories = ["Utilities"]

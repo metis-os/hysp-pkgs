@@ -1,0 +1,26 @@
+[bin]
+name = "cowtiness"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cowtiness"
+description = "CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process."
+author = "stolenusername"
+repo = "https://github.com/stolenusername/cowitness"
+stars = "109"
+version = "1.2"
+updated = "2023-09-26T11:53:53Z"
+size = ""
+bsum = ""
+sha = ""
+source = ""
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cowtiness"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

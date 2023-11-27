@@ -1,0 +1,26 @@
+[bin]
+name = "fd"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fd"
+description = "A simple, fast and user-friendly alternative to 'find'"
+author = "sharkdp"
+repo = "https://github.com/sharkdp/fd"
+stars = "29559"
+version = "v8.7.1"
+updated = "2023-10-21T04:29:37Z"
+size = "2.47 MB"
+bsum = "ae2b676e4b4225c5f395c8bed88a5d39939e92693b314a33b8195f3c2ac43722"
+sha = "d201ef8cbc8e97df9abf7c20113d183acf97e1b6dce4c4b9888839e57f0184df"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fd"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["fd"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","filesystem","hacktoberfest","regex","rust","search","terminal","tool"]
+categories = ["Utilities"]

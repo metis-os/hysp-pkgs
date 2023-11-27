@@ -1,0 +1,26 @@
+[bin]
+name = "gdu"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gdu"
+description = "Fast disk usage analyzer with console interface written in Go"
+author = "dundee"
+repo = "https://github.com/dundee/gdu"
+stars = "2890"
+version = "v5.25.0"
+updated = "2023-06-06T13:15:28Z"
+size = "8.96 MB"
+bsum = "0a05dc1071d4672fb6ac9b8a956fe962baaac4ca2adcdb6ebf5faf9c7b78ebdd"
+sha = "fc75f4bb596bc75d593f34610aba2828ebbf8fd9b1ffa5ce9ed57040bc7793d7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gdu"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gdu"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","disk-usage","filesystem","golang","hacktoberfest"]
+categories = ["Utilities"]

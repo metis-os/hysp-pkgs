@@ -1,0 +1,26 @@
+[bin]
+name = "doggo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "doggo"
+description = ":dog: Command-line DNS Client for Humans. Written in Golang"
+author = "mr-karan"
+repo = "https://github.com/mr-karan/doggo"
+stars = "1381"
+version = "v0.5.7"
+updated = "2023-09-13T10:10:30Z"
+size = "8.89 MB"
+bsum = "f8d0a7260fea99f584663a7975820a8fddfb3a3f38440cbff495a08945f0002b"
+sha = "07692aa62fc70c05b73710eabb1b0808f8505c5bb12847da90aaefb4ec5579ca"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/doggo"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["doggo"]
+requires = []
+
+[package.metadata]
+keywords = ["dns","dns-client","doh"]
+categories = ["Utilities"]

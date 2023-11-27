@@ -1,0 +1,26 @@
+[bin]
+name = "croc"
+
+[package]
+architecture = "aarch64_arm64"
+name = "croc"
+description = "Easily and securely send things from one computer to another :crocodile: :package:"
+author = "schollz"
+repo = "https://github.com/schollz/croc"
+stars = "25103"
+version = "v9.6.6"
+updated = "2023-11-09T14:56:49Z"
+size = "7.08 MB"
+bsum = "0ffb7561e07a5f2dd9f27a86f7c02f646638258b7177f4047f9107ea1535d232"
+sha = "0db8f2a37836e77dba7af9ed5baef7895cf6878ef3affd2e978477c5125521df"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/croc"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["croc"]
+requires = []
+
+[package.metadata]
+keywords = ["data-transfer","file-sharing","golang","pake","peer-to-peer","tcp","transfer"]
+categories = ["Utilities"]

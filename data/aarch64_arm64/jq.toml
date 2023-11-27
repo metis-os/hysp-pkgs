@@ -1,0 +1,26 @@
+[bin]
+name = "jq"
+
+[package]
+architecture = "aarch64_arm64"
+name = "jq"
+description = "Command-line JSON processor"
+author = "jqlang"
+repo = "https://github.com/jqlang/jq"
+stars = "27186"
+version = "jq-1.7"
+updated = "2023-09-06T22:54:12Z"
+size = "1.64 MB"
+bsum = "2ae32458635d41cf9345b5a0c5181eff10377b8c663658a6bd6fa5f5824ca972"
+sha = "ab57ee39075db4a23f899d396ecef3c6e58f6aada35bfee472468210bd126940"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/jq"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["jq"]
+requires = []
+
+[package.metadata]
+keywords = ["jq"]
+categories = ["Utilities"]

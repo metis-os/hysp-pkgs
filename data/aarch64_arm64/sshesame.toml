@@ -1,0 +1,26 @@
+[bin]
+name = "sshesame"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sshesame"
+description = "An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity"
+author = "jaksi"
+repo = "https://github.com/jaksi/sshesame"
+stars = "1342"
+version = "v0.0.27"
+updated = "2023-01-18T09:25:26Z"
+size = "8.72 MB"
+bsum = "3a5112d073820f2261805400c3aafc46318a076b8d98f5a99c457c965895b056"
+sha = "256cb93f4036f1d9d788d17ae462cfb7d6cae14e3563e4524ead8dc3c88dac45"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/sshesame"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["sshesame"]
+requires = []
+
+[package.metadata]
+keywords = ["go","golang","honeypot","security","ssh"]
+categories = ["Utilities"]

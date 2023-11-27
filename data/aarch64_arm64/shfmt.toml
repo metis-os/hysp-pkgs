@@ -1,0 +1,26 @@
+[bin]
+name = "shfmt"
+
+[package]
+architecture = "aarch64_arm64"
+name = "shfmt"
+description = "A shell parser, formatter, and interpreter with bash support; includes shfmt"
+author = "mvdan"
+repo = "https://github.com/mvdan/sh"
+stars = "6326"
+version = "v3.7.0"
+updated = "2023-06-18T11:38:17Z"
+size = "2.74 MB"
+bsum = "ad99f69a8f5108017cc86983503fc26416f95de4cfa43f3acc7addf2ef5da76c"
+sha = "73bcf655b50d50c1056c422b5279f3e43d3c8a20eaaa9f38e4737c69b44cd771"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/shfmt"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["shfmt"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","beautify","formatter","go","interpreter","mksh","parser","posix","shell","shfmt"]
+categories = ["Utilities"]

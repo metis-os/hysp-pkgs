@@ -1,0 +1,26 @@
+[bin]
+name = "wormhole-rs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "wormhole-rs"
+description = "Rust implementation of Magic Wormhole, with new features and enhancements"
+author = "magic-wormhole"
+repo = "https://github.com/magic-wormhole/magic-wormhole.rs"
+stars = "510"
+version = "0.6.0"
+updated = "2022-12-21T22:15:49Z"
+size = "5.20 MB"
+bsum = "fc2a259c87adb57f064a8fb0141b967f2dc1b8855cb6eff401811fb021175c3e"
+sha = "d70e3276c8005efecf5522087d185dd2ea806bfe73696aa3d88476f64964d112"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wormhole-rs"
+language = "Rust"
+license = "European Union Public License 1.2"
+
+[package.conditions]
+conflicts  = ["wormhole-rs"]
+requires = []
+
+[package.metadata]
+keywords = ["data-transfer","file-transfer","magic-wormhole","port-forwarding","rust","wormhole"]
+categories = ["Utilities"]

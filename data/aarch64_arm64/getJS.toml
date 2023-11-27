@@ -1,0 +1,26 @@
+[bin]
+name = "getJS"
+
+[package]
+architecture = "aarch64_arm64"
+name = "getJS"
+description = "A tool to fastly get all javascript sources/files"
+author = "003random"
+repo = "https://github.com/003random/getJS"
+stars = "539"
+version = "null"
+updated = ""
+size = "4.93 MB"
+bsum = "b59a095ad62eafeeffdeb8f32423ec527546e0c8e53b3eb0a3f0b40638462cc1"
+sha = "9010029922080ab4aff65464347bac132362ff5f1cd9de8be7f805c3efe15352"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/getJS"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["getJS"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","extract","files","go","golang","goquery","hacking","hacktoberfest","javascript","parser","pentesting","recon","reconnaissance","urls"]
+categories = ["Utilities"]

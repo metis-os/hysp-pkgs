@@ -1,0 +1,26 @@
+[bin]
+name = "git-clone"
+
+[package]
+architecture = "aarch64_arm64"
+name = "git-clone"
+description = "A highly extensible Git implementation in pure Go."
+author = "go-git"
+repo = "https://github.com/go-git/go-git"
+stars = "5128"
+version = "v5.10.0"
+updated = "2023-10-25T09:10:27Z"
+size = "6.52 MB"
+bsum = "a1131c7671998e15440898b233157c1e1263b17b80f5408d073636e1fdd0dc08"
+sha = "8a3f72935dfc6c2b6e33d948544783875409a13645e4b8104da5a95a676ace55"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-clone"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["git-clone"]
+requires = []
+
+[package.metadata]
+keywords = ["git","git-client","git-server","go-git","golang"]
+categories = ["Utilities"]

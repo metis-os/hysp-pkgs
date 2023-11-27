@@ -1,0 +1,26 @@
+[bin]
+name = "findomain"
+
+[package]
+architecture = "aarch64_arm64"
+name = "findomain"
+description = "The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more."
+author = "Findomain"
+repo = "https://github.com/Findomain/Findomain"
+stars = "3032"
+version = "9.0.3"
+updated = "2023-10-31T01:35:09Z"
+size = "13.62 MB"
+bsum = "b2843642865b116af699e0a1d85f8d373361c466e582c224eb21e2411d37a03b"
+sha = "9c0da03a8736a9795a14843278d844d37ca72dc4b9292d5f3702dc5cec4ce81b"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/findomain"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["findomain"]
+requires = []
+
+[package.metadata]
+keywords = ["discovered-subdomains","findomain","monitoring-automation","resolved-subdomains","subdomain-scanner","subdomains-enumeration","subdomains-monitoring"]
+categories = ["Utilities"]

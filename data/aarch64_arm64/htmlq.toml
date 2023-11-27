@@ -1,0 +1,26 @@
+[bin]
+name = "htmlq"
+
+[package]
+architecture = "aarch64_arm64"
+name = "htmlq"
+description = "Like jq, but for HTML."
+author = "mgdm"
+repo = "https://github.com/mgdm/htmlq"
+stars = "6688"
+version = "v0.4.0"
+updated = "2022-01-03T21:40:36Z"
+size = "1.48 MB"
+bsum = "21e45e50fbb0f7ed845163fcbcbd57e5bdda08f86b727580fce5d5dd00cb9d44"
+sha = "8c8bb77f3fe9bba570bf7f534b3aa990731fb471bede0c27e6505d5c9fd9e45c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/htmlq"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["htmlq"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

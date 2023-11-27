@@ -1,0 +1,26 @@
+[bin]
+name = "s3scanner"
+
+[package]
+architecture = "aarch64_arm64"
+name = "s3scanner"
+description = "Scan for misconfigured S3 buckets across S3-compatible APIs!"
+author = "sa7mon"
+repo = "https://github.com/sa7mon/S3Scanner"
+stars = "2258"
+version = "v3.0.4"
+updated = "2023-09-25T23:07:42Z"
+size = "17.99 MB"
+bsum = "be6f3fbd48d4a1e682e03f70cd08e2baa36d990fc53dedf093e2bcc87ad8406c"
+sha = "f6e7f6abb6326185ac88d7dd7e941f5ae792ddfa9946a1dcbf223765ddb0c9ec"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/s3scanner"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["s3scanner"]
+requires = []
+
+[package.metadata]
+keywords = ["aws","bugbounty","infosec","s3","s3scanner"]
+categories = ["Utilities"]

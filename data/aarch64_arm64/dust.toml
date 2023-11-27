@@ -1,0 +1,26 @@
+[bin]
+name = "dust"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dust"
+description = "A more intuitive version of du in rust"
+author = "bootandy"
+repo = "https://github.com/bootandy/dust"
+stars = "6939"
+version = "v0.8.6"
+updated = "2023-05-05T19:59:54Z"
+size = "1.79 MB"
+bsum = "1ae8f10ec96b2a7a819bd4eb39e671050621c01cad6a140a0eb6873a28c3db8c"
+sha = "dc9e3dffc59a31d0f088905e6132b313ce8853460c18a78bc4d9cd7b5d2a2f4a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/dust"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["dust"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "wireguard-go"
+
+[package]
+architecture = "aarch64_arm64"
+name = "wireguard-go"
+description = "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go"
+author = "WireGuard"
+repo = "https://github.com/WireGuard/wireguard-go"
+stars = "2372"
+version = "v0.0.20201121"
+updated = "2021-04-23T02:26:48Z"
+size = "2.61 MB"
+bsum = "31dd0c270d31ca3b9cb1593fc858b4c3b96b1f0f0cbca07e120e6055cea672ed"
+sha = "744f1943fcb6afa483edfcfa050bf458926b679b97977ecea1a2df5f92aa4953"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wireguard-go"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["wireguard-go"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

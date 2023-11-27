@@ -1,0 +1,26 @@
+[bin]
+name = "busybox"
+
+[package]
+architecture = "aarch64_arm64"
+name = "busybox"
+description = "BusyBox mirror"
+author = "mirror"
+repo = "https://github.com/mirror/busybox"
+stars = "1422"
+version = "1_36_0"
+updated = "2023-01-03T14:15:41Z"
+size = "1.18 MB"
+bsum = "1bce6b30d4e16edc4519fcfb854aa6ba19196bf544632d0ee0ba588682e055cc"
+sha = "89e8e12b6933d966fab05b3935223f085b4de055e35f775aacc4b795e0445865"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/busybox"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["busybox"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

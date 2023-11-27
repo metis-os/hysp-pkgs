@@ -1,0 +1,26 @@
+[bin]
+name = "github-subdomains"
+
+[package]
+architecture = "aarch64_arm64"
+name = "github-subdomains"
+description = "Find subdomains on GitHub."
+author = "gwen001"
+repo = "https://github.com/gwen001/github-subdomains"
+stars = "557"
+version = "v1.2.2"
+updated = "2023-02-09T13:53:05Z"
+size = "4.84 MB"
+bsum = "e388e968974a304d12e432c6da9939befeac9e5a1addce6f8d864d666d11f1b6"
+sha = "4149494cc72db868dbcfec0d6493754d861a1d0fad0be5a542c4b4de90071d3e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/github-subdomains"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["github-subdomains"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","github","go","golang","pentesting","security-tools","subdomains"]
+categories = ["Utilities"]

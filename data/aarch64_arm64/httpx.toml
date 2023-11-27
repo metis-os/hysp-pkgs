@@ -1,0 +1,26 @@
+[bin]
+name = "httpx"
+
+[package]
+architecture = "aarch64_arm64"
+name = "httpx"
+description = "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/httpx"
+stars = "6130"
+version = "v1.3.7"
+updated = "2023-11-13T07:26:10Z"
+size = "35.76 MB"
+bsum = "75c0406781035083c195e7ed72e93886195c0c1e89e2d36d50d81b46cfcb046b"
+sha = "681d71364261d897d02457e418616def111ba6b809cc2b6c687bbdb4b73bbcf7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/httpx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["httpx"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","cli","cybersecurity","hacktoberfest","http","lib","osint","pentest-tool","pipeline","ssl-certificate"]
+categories = ["Utilities"]

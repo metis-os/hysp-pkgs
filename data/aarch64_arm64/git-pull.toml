@@ -1,0 +1,26 @@
+[bin]
+name = "git-pull"
+
+[package]
+architecture = "aarch64_arm64"
+name = "git-pull"
+description = "A highly extensible Git implementation in pure Go."
+author = "go-git"
+repo = "https://github.com/go-git/go-git"
+stars = "5128"
+version = "v5.10.0"
+updated = "2023-10-25T09:10:27Z"
+size = "6.52 MB"
+bsum = "c13f8ebf024aa6502edb3c320adf25263bd743ffe27b664b13cfc846f160e35c"
+sha = "3579e9662bc1732a244e75b9e8c1ea1755185e12079e031bff9ccf0e078f03be"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-pull"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["git-pull"]
+requires = []
+
+[package.metadata]
+keywords = ["git","git-client","git-server","go-git","golang"]
+categories = ["Utilities"]
