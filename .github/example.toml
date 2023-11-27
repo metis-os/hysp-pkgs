@@ -4,22 +4,23 @@ name = "foo"  # Name of the binary executable (Required)
 [package]
 architecture = "x86_64" #Target system architecture: uname -m (Required)
 name = "foo" # Name of the binary executable (Required)
-description = "A sample package for demonstration purposes" # description of what the pkg is/does (Required, leave empty if none)
-author = "foo-user" #name of author (Required, leave empty if none)
-repo = "https://github.com/foo-user/foo" #Source code repo or homepage (Optional)
-stars = "69420" #if github, then number of stars (Optional)
-version = "x.y.z" #pkg version (Optional)
-updated = "2069-06-09:T06:09:42Z" #last updated when || Release date (Optional)
-size = "x.y MB" #size of binary (Optional ?)
-sha = "sha256sumsha256sumsha256sumsha256sumsha256sumsha256sum" #sha256sum of the binary (Required)
+description = "A sample package for demonstration purposes" # description of what the pkg is/does (Optional, leave empty if none)
+author = "foo-user" #name of author (Optional, leave empty if none)
+repo = "https://github.com/foo-user/foo" #Source code repo or homepage (Optional, leave empty if none)
+stars = "69420" #if github, then number of stars (Optional, leave empty if none)
+version = "x.y.z" #pkg version (Optional, leave empty if none)
+updated = "2069-06-09:T06:09:42Z" #last updated when || Release date (Optional, leave empty if none)
+size = "x.y MB" #size of binary (Optional, leave empty if none)
+bsum = "blake3sumblake3sumblake3sumblake3sumblake3sumblake3sum" #blake3sum of the binary (Required)
+sha = "sha256sumsha256sumsha256sumsha256sumsha256sumsha256sum" #sha256sum of the binary (Required, Used as fallback & for legacy purposes)
 source = "https://github.com/bytehunt/seren-pkgs/raw/main/pkgs/foo" # Binary url (Required)
-language = "rust" #(Optional)
-license = "foo-license" #(Optional)
+language = "rust" #(Optional, leave empty if none)
+license = "foo-license" #(Optional, leave empty if none)
 
 [package.conditions]
 conflicts  = [ "foo"  ] # Example conflict entry (Required)
-requires = [ "foo-server" ]  # Example dependency entry (Required, leave empty if none)
+requires = [ "foo-server" ]  # Example dependency entry (Optional, leave empty if none)
 
 [package.metadata]
-keywords = ["sample", "demonstration", "rust"] # Optional
+keywords = ["sample", "demonstration", "rust"] # Optional, leave empty if none
 categories = ["Utilities", "Development"] # Default is Utilities
