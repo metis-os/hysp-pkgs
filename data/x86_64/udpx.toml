@@ -1,0 +1,26 @@
+[bin]
+name = "udpx"
+
+[package]
+architecture = "x86_64"
+name = "udpx"
+description = "Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use."
+author = "nullt3r"
+repo = "https://github.com/nullt3r/udpx"
+stars = "155"
+version = "v1.0.7"
+updated = "2023-02-01T16:25:35Z"
+size = "2.01 MB"
+bsum = "fc4351e829d0ac9e6c79a13aedfd0262706593ab61d3feedf066ab5d50c7ae70"
+sha = "4b2a7c33f4a806c84e4187782b2630eadb2d1e982b0d16a14701fbf3d8b8f25f"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/udpx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["udpx"]
+requires = []
+
+[package.metadata]
+keywords = ["enumeration","network","port-scanner","portscanner","scanner","udp","udp-scanning","vulnerability-scanners"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "pkgtop"
+
+[package]
+architecture = "x86_64"
+name = "pkgtop"
+description = "Interactive package manager and resource monitor designed for the GNU/Linux."
+author = "orhun"
+repo = "https://github.com/orhun/pkgtop"
+stars = "275"
+version = "2.5.1"
+updated = "2023-10-13T10:50:35Z"
+size = "2.08 MB"
+bsum = "3d7ffb0c677af56ada1274d81b291187b98e8301d1251e702eb25dfe2901840a"
+sha = "a6760d35bdc5cd3de116f6d8f88b94cd752d7ea0381f0132e8f861b4b670b0e1"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pkgtop"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["pkgtop"]
+requires = []
+
+[package.metadata]
+keywords = ["gnu-linux","linux-packages","package-management","package-manager","resource-monitor"]
+categories = ["Utilities"]

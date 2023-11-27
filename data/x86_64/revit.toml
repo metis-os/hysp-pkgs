@@ -1,0 +1,26 @@
+[bin]
+name = "revit"
+
+[package]
+architecture = "x86_64"
+name = "revit"
+description = "A command-line utility for performing reverse DNS lookups"
+author = "devanshbatham"
+repo = "https://github.com/devanshbatham/revit"
+stars = "38"
+version = "v0.0.1"
+updated = "2023-08-09T18:21:20Z"
+size = "1.84 MB"
+bsum = "9d4f54755b163570e2fd1058f4119e6949f4f1beaea32417abab5f327bfd83a0"
+sha = "799902ea00a3cd3caf9412cb4aa22960a40d8e48a7da667da480c94a875af4a9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/revit"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["revit"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

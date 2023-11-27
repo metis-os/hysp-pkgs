@@ -1,0 +1,26 @@
+[bin]
+name = "mantra"
+
+[package]
+architecture = "x86_64"
+name = "mantra"
+description = "「🔑」A tool used to hunt down API key leaks in JS files and pages"
+author = "MrEmpy"
+repo = "https://github.com/MrEmpy/mantra"
+stars = "411"
+version = "v.1.1"
+updated = "2023-05-20T01:28:28Z"
+size = "4.73 MB"
+bsum = "46ead98d86c2a67064e7ec9627215b61cc6601993cfff5ade2a50e8ef1e1ae47"
+sha = "bfb4e67ecf92b66176c9d8f09b9c125c4f783416351d61d58df7254ba250f6f9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mantra"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["mantra"]
+requires = []
+
+[package.metadata]
+keywords = ["api","bugbounty","files","hacking","javascript","js","key","leak","leaked-secrets","pentest","security","tool"]
+categories = ["Utilities"]

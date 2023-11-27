@@ -1,0 +1,26 @@
+[bin]
+name = "github-endpoints"
+
+[package]
+architecture = "x86_64"
+name = "github-endpoints"
+description = "Find endpoints on GitHub."
+author = "gwen001"
+repo = "https://github.com/gwen001/github-endpoints"
+stars = "159"
+version = "v1.2.2"
+updated = "2023-02-09T13:53:35Z"
+size = "5.02 MB"
+bsum = "584653d8a5c90c4e7039cb9e2c4741d318a4c6262b14693d9944d957f3043d30"
+sha = "d0690d4640e1b01cfb4574d3400ddd3aa3037b5a2e2848e793d2329daec02145"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/github-endpoints"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["github-endpoints"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","endpoints","github","go","golang","pentesting","security-tools","urls"]
+categories = ["Utilities"]

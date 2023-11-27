@@ -1,0 +1,26 @@
+[bin]
+name = "btop"
+
+[package]
+architecture = "x86_64"
+name = "btop"
+description = "A monitor of resources"
+author = "aristocratos"
+repo = "https://github.com/aristocratos/btop"
+stars = "14038"
+version = "v1.2.13"
+updated = "2022-11-06T21:36:41Z"
+size = "2.43 MB"
+bsum = "15692d1b06daa3dd401d02ae843485cac1c899ccacd0b0621f141cefe05d6a93"
+sha = "5102261e1cdcb3ec0b6767e7968428a4358a87521834e1b667f9d56c3801c454"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/btop"
+language = "C++"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["btop"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
