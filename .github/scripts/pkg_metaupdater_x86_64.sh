@@ -11,7 +11,7 @@
 
 #Deps: env exported
 # moreutils (sponge) installed
-# This works,, but for some reason numbers are blanked
+# This works
 #envsubst < "$GITHUB_WORKSPACE/main/data/x86_64/eget.toml"
 #awk -v STARS="$STARS" '/stars/{gsub(/\$STARS/, STARS)}1' "$GITHUB_WORKSPACE/main/data/x86_64/eget.toml"
 #This also works:
@@ -36,7 +36,7 @@ if [ ! -s "$GITHUB_WORKSPACE/main/data/x86_64/$BIN.toml" ]; then
 fi
 
 #Edit
-awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL="$REPO_URL" -v STARS="$STARS" -v PKG_VERSION="$PKG_VERSION" -v PKG_RELEASED="$PKG_RELEASED" -v SIZE="$SIZE" -v SHA="$SHA" -v SOURCE_URL="$SOURCE_URL" -v LANGUAGE="$LANGUAGE" -v LICENSE="$LICENSE" -v TOPICS="$TOPICS" '{gsub(/name = .*/, "name = \"" BIN "\""); \
+awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL="$REPO_URL" -v STARS="$STARS" -v PKG_VERSION="$PKG_VERSION" -v PKG_RELEASED="$PKG_RELEASED" -v SIZE="$SIZE" -v BSUM="$BSUM" -v SHA="$SHA" -v SOURCE_URL="$SOURCE_URL" -v LANGUAGE="$LANGUAGE" -v LICENSE="$LICENSE" -v TOPICS="$TOPICS" '{gsub(/name = .*/, "name = \"" BIN "\""); \
       gsub(/description = .*/, "description = \"" DESCRIPTION "\""); \
       gsub(/author = .*/, "author = \"" AUTHOR "\""); \
       gsub(/repo = .*/, "repo = \"" REPO_URL "\""); \
@@ -44,6 +44,7 @@ awk -v BIN="$BIN" -v DESCRIPTION="$DESCRIPTION" -v AUTHOR="$AUTHOR" -v REPO_URL=
       gsub(/version = .*/, "version = \"" PKG_VERSION "\""); \
       gsub(/updated = .*/, "updated = \"" PKG_RELEASED "\""); \
       gsub(/size = .*/, "size = \"" SIZE "\""); \
+      gsub(/bsum = .*/, "bsum = \"" BSUM "\""); \
       gsub(/sha = .*/, "sha = \"" SHA "\""); \
       gsub(/source = .*/, "source = \"" SOURCE_URL "\""); \
       gsub(/language = .*/, "language = \"" LANGUAGE "\""); \
