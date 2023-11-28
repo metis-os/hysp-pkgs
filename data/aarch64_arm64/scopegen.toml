@@ -4,23 +4,23 @@ name = "scopegen"
 [package]
 architecture = "aarch64_arm64"
 name = "scopegen"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
+description = " Beg Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "6"
+version = "null"
 updated = ""
-size = ""
+size = "1.35 MB"
 bsum = "9950cc0bf126570b95fed316a0099d1a209f49377dbd123db35261d9881b5314"
 sha = "af7a5b0fca093413ef8abbb8018c58f5aad3deb141adba6e2378dc0eb3d0176d"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/scopegen"
+language = "Shell"
+license = "null"
 
 [package.conditions]
 conflicts  = ["scopegen"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["bug-bounty","bugbounty","recon","tools"]
 categories = ["Utilities"]

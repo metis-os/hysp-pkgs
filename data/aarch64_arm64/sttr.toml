@@ -4,23 +4,23 @@ name = "sttr"
 [package]
 architecture = "aarch64_arm64"
 name = "sttr"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "cross-platform, cli app to perform various operations on string"
+author = "abhimanyu003"
+repo = "https://github.com/abhimanyu003/sttr"
+stars = "761"
+version = "v0.2.18"
+updated = "2023-04-08T10:50:52Z"
+size = "8.68 MB"
 bsum = "20b2bfb881c32dc9ef83a2f70d682d1ebecf5ba15ba5cdf2407d58caa20fab26"
 sha = "0cc210513362b96de9afb7a89295eb1d5bc669457a25505a774a3cdcb3ed952a"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/sttr"
+language = "Go"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["sttr"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["cli","cli-app","count-lines","count-words","decoding","developer-tools","devutils","encoding","encrypt","encryption-decryption","go","json","productivity","string","termux","termux-tool","transform","tui","tui-app","zeropad"]
 categories = ["Utilities"]

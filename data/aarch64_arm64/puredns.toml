@@ -4,23 +4,23 @@ name = "puredns"
 [package]
 architecture = "aarch64_arm64"
 name = "puredns"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries."
+author = "d3mondev"
+repo = "https://github.com/d3mondev/puredns"
+stars = "1448"
+version = "v2.1.1"
+updated = "2023-04-11T18:09:27Z"
+size = "7.06 MB"
 bsum = "6eb106cb799043c3364b79ca7e6df30b1c81897dfe46be97c6a48d5673ffdde3"
 sha = "b0cc4fe9b4671a754cd889f166449f9ad8b914b5f228e0885c977636b8e11aad"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/puredns"
+language = "Go"
+license = "GNU General Public License v3.0"
 
 [package.conditions]
 conflicts  = ["puredns"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["bugbounty","dns","dns-bruteforcer","dns-lookup","dns-resolution","dns-resolver","hacking","massdns","recon","subdomain","subdomain-bruteforcing"]
 categories = ["Utilities"]

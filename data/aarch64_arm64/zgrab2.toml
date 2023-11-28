@@ -4,23 +4,23 @@ name = "zgrab2"
 [package]
 architecture = "aarch64_arm64"
 name = "zgrab2"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Fast Go Application Scanner"
+author = "zmap"
+repo = "https://github.com/zmap/zgrab2"
+stars = "1506"
+version = "v0.1.6"
+updated = "2020-03-31T20:01:53Z"
+size = "13.29 MB"
 bsum = "9e63f2b2c62d6607405cb93e8381b49909eec2b8bc6eeb9f4ca04ef709297fd8"
 sha = "02c9f1bcda0e792488b43e27859ecdef973e0568fb66d667dab3f69a5e56b13d"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zgrab2"
+language = "Go"
+license = "Other"
 
 [package.conditions]
 conflicts  = ["zgrab2"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = []
 categories = ["Utilities"]

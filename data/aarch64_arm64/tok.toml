@@ -4,23 +4,23 @@ name = "tok"
 [package]
 architecture = "aarch64_arm64"
 name = "tok"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
+description = "A collection of hacks and one-off scripts"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/hacks"
+stars = "1936"
+version = "null"
 updated = ""
-size = ""
+size = "1.29 MB"
 bsum = "7ec3846a2b275ad0a038709b822c55361c20172f5036cc99db00bf8fbe3ff517"
 sha = "2183b35c00f7c2605fbc70e17a7623bb2eefac9110c84180c88a4d8e73aeb8a1"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tok"
+language = "Go"
+license = "null"
 
 [package.conditions]
 conflicts  = ["tok"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = []
 categories = ["Utilities"]

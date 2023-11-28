@@ -4,23 +4,23 @@ name = "yataf"
 [package]
 architecture = "aarch64_arm64"
 name = "yataf"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "yataf extracts secrets and paths from files or urls - its best used against javascript files"
+author = "Damian89"
+repo = "https://github.com/Damian89/yataf"
+stars = "46"
+version = "1.0.0"
+updated = "2023-02-08T13:45:36Z"
+size = "4.55 MB"
 bsum = "b61f09b6bfe2a43858e84a639ece166829d269f110fd9ece3b7d9dd0f51194bb"
 sha = "f6cbc84826bd8b76e126c752d83b71b610b6b563b67965e6a88f1b9c6f99b1f2"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yataf"
+language = "Go"
+license = "null"
 
 [package.conditions]
 conflicts  = ["yataf"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["bugbounty-tools","pentesting"]
 categories = ["Utilities"]

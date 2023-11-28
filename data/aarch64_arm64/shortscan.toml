@@ -4,23 +4,23 @@ name = "shortscan"
 [package]
 architecture = "aarch64_arm64"
 name = "shortscan"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "An IIS short filename enumeration tool"
+author = "bitquark"
+repo = "https://github.com/bitquark/shortscan"
+stars = "361"
+version = "v0.6.2"
+updated = "2023-07-31T20:04:07Z"
+size = "9.12 MB"
 bsum = "ff12eeacffb6bc8540627e3fb22ecf2f84b715d54fad386e52979869176769bf"
 sha = "558dba13f1f31b1b80901b5388cf087978ddd39b64eac35c73f65fe92d4fa22e"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/shortscan"
+language = "Go"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["shortscan"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = []
 categories = ["Utilities"]

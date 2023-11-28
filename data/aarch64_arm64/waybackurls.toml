@@ -4,23 +4,23 @@ name = "waybackurls"
 [package]
 architecture = "aarch64_arm64"
 name = "waybackurls"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Fetch all the URLs that the Wayback Machine knows about for a domain"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/waybackurls"
+stars = "2889"
+version = "v0.1.0"
+updated = "2022-04-05T10:19:55Z"
+size = "4.44 MB"
 bsum = "5230629e8c96a4b666cf6dd5fd60a53b1801cb4457102df95d1bf696a4f777a4"
 sha = "d77a51663599d513790b99f6365670eb4660da199325c85039b880667281904e"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/waybackurls"
+language = "Go"
+license = "null"
 
 [package.conditions]
 conflicts  = ["waybackurls"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = []
 categories = ["Utilities"]

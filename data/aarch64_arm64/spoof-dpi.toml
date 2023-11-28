@@ -4,23 +4,23 @@ name = "spoof-dpi"
 [package]
 architecture = "aarch64_arm64"
 name = "spoof-dpi"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "A simple and fast anti-censorship tool written in Go"
+author = "xvzc"
+repo = "https://github.com/xvzc/SpoofDPI"
+stars = "395"
+version = "0.8"
+updated = "2023-09-08T08:40:10Z"
+size = "4.78 MB"
 bsum = "40e3dad0d4e8322b3494cd78c5c470854765a63481da1dbfb49e94d3ef680fbe"
 sha = "2ba26c1020e27b0952bb8647e546719c3e2874b44a90ed141fe7867a97cfa3a3"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/spoof-dpi"
+language = "Go"
+license = "Apache License 2.0"
 
 [package.conditions]
 conflicts  = ["spoof-dpi"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["anti-censorship","censorship-circumvention","censorship-free","deep-packet-inspection","dpi","dpi-bypassing","dpi-filtering","golang","proxy-server"]
 categories = ["Utilities"]

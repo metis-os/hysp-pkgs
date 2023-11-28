@@ -4,23 +4,23 @@ name = "oha"
 [package]
 architecture = "aarch64_arm64"
 name = "oha"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
+description = "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation."
+author = "hatoo"
+repo = "https://github.com/hatoo/oha"
+stars = "3225"
+version = "v1.0.0"
+updated = "2023-11-16T07:34:03Z"
 size = "6.81 MB"
 bsum = "e342808a2c52c6bc5dc69d16dcbe63568d6443bd460298fa184478fa6b69fc2f"
 sha = "53a719da5034e921a7aa94de2a487b4d48747b01bca93b5fbeacbbeab4f6a8fc"
 source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/oha"
-language = ""
-license = ""
+language = "Rust"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["oha"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["benchmark","cli","command-line","http","http2","load-generator","load-testing","rust","tui"]
 categories = ["Utilities"]

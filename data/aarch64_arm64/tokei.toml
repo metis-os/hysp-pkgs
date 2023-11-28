@@ -4,23 +4,23 @@ name = "tokei"
 [package]
 architecture = "aarch64_arm64"
 name = "tokei"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Count your code, quickly."
+author = "XAMPPRocky"
+repo = "https://github.com/XAMPPRocky/tokei"
+stars = "9082"
+version = "v13.0.0-alpha.0"
+updated = "2023-03-27T15:56:31Z"
+size = "3.49 MB"
 bsum = "631d829dc8d95ecf0ae832350f50ef5edcff83dc816f290205d668654359d416"
 sha = "15c650f8745691e1fd95621d5e2fcf99a9df3c6114f5154d59649c5bc9567cf0"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tokei"
+language = "Rust"
+license = "Other"
 
 [package.conditions]
 conflicts  = ["tokei"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["badge","cli","cloc","code","command-line-tool","linux","macos","rust","sloc","statistics","tokei","windows"]
 categories = ["Utilities"]

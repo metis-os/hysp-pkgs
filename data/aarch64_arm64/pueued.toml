@@ -4,23 +4,23 @@ name = "pueued"
 [package]
 architecture = "aarch64_arm64"
 name = "pueued"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = ":stars: Manage your shell commands."
+author = "Nukesor"
+repo = "https://github.com/Nukesor/pueue"
+stars = "4017"
+version = "v3.3.1"
+updated = "2023-10-27T16:31:24Z"
+size = "2.27 MB"
 bsum = "89f85e2de030fb301f6743e617257414b78c0306aaac90feb7379848e2aed7c1"
 sha = "e399a5f52d50a9885af30a3316cef0ceb57be276319db4cdc454eecece3e9766"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/pueued"
+language = "Rust"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["pueued"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["command-line","command-line-tool","daemon","hacktoberfest","queue-manager","queue-tasks","rust","shell-queue"]
 categories = ["Utilities"]
