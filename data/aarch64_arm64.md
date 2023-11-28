@@ -77,7 +77,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 31997
+- **Stars:** 31998
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.03 MB
@@ -317,7 +317,7 @@
 - **Description:** An open and reliable container runtime
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
-- **Stars:** 15171
+- **Stars:** 15172
 - **Version:** v1.7.9
 - **Updated:** 2023-11-16T04:35:29Z
 - **Size:** 35.35 MB
@@ -482,7 +482,7 @@
 - **Description:** Instant, easy, and predictable development environments
 - **Author:** jetpack-io
 - **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
-- **Stars:** 6338
+- **Stars:** 6348
 - **Version:** 0.8.2
 - **Updated:** 2023-11-16T23:32:42Z
 - **Size:** 20.71 MB
@@ -692,7 +692,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39540
+- **Stars:** 39541
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -707,7 +707,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39540
+- **Stars:** 39541
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -752,7 +752,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21512
+- **Stars:** 21515
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.90 MB
@@ -782,7 +782,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 55643
+- **Stars:** 55645
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -887,7 +887,7 @@
 - **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
-- **Stars:** 6269
+- **Stars:** 6277
 - **Version:** v1.4.0
 - **Updated:** 2023-10-29T13:23:20Z
 - **Size:** 7.43 MB
@@ -1247,7 +1247,7 @@
 - **Description:** Ping, but with a graph
 - **Author:** orf
 - **Repository:** [https://github.com/orf/gping](https://github.com/orf/gping)
-- **Stars:** 9660
+- **Stars:** 9661
 - **Version:** gping-v1.15.1
 - **Updated:** 2023-11-07T15:38:54Z
 - **Size:** 2.33 MB
@@ -1532,7 +1532,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27195
+- **Stars:** 27194
 - **Version:** jq-1.7
 - **Updated:** 2023-09-06T22:54:12Z
 - **Size:** 1.64 MB
@@ -1727,7 +1727,7 @@
 - **Description:** A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - **Author:** blechschmidt
 - **Repository:** [https://github.com/blechschmidt/massdns](https://github.com/blechschmidt/massdns)
-- **Stars:** 2827
+- **Stars:** 2828
 - **Version:** v1.0.0
 - **Updated:** 2021-10-08T17:02:48Z
 - **Size:** 0.14 MB
@@ -1922,7 +1922,7 @@
 - **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- **Stars:** 15506
+- **Stars:** 15507
 - **Version:** v3.0.4
 - **Updated:** 2023-11-18T09:21:26Z
 - **Size:** 65.66 MB
@@ -2057,7 +2057,7 @@
 - **Description:** A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/proxify](https://github.com/projectdiscovery/proxify)
-- **Stars:** 2426
+- **Stars:** 2427
 - **Version:** v0.0.12
 - **Updated:** 2023-08-12T20:48:49Z
 - **Size:** 34.42 MB
@@ -2072,7 +2072,7 @@
 - **Description:** :stars: Manage your shell commands.
 - **Author:** Nukesor
 - **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
-- **Stars:** 4016
+- **Stars:** 4017
 - **Version:** v3.3.1
 - **Updated:** 2023-10-27T16:31:24Z
 - **Size:** 2.22 MB
@@ -2087,7 +2087,7 @@
 - **Description:** :stars: Manage your shell commands.
 - **Author:** Nukesor
 - **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
-- **Stars:** 4016
+- **Stars:** 4017
 - **Version:** v3.3.1
 - **Updated:** 2023-10-27T16:31:24Z
 - **Size:** 2.27 MB
@@ -2162,7 +2162,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41318
+- **Stars:** 41319
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -2207,9 +2207,9 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 41350
-- **Version:** 14.0.1
-- **Updated:** 2023-11-26T22:36:29Z
+- **Stars:** 41352
+- **Version:** 14.0.2
+- **Updated:** 2023-11-28T02:45:02Z
 - **Size:** 5.01 MB
 - **SHA:** 8614f08eeb663f9cd6cf43e91600b1f6cad413403cede84613925e17d2f20186
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rg
@@ -2297,7 +2297,7 @@
 - **Description:** CLI tool for spawning and running containers according to the OCI specification
 - **Author:** opencontainers
 - **Repository:** [https://github.com/opencontainers/runc](https://github.com/opencontainers/runc)
-- **Stars:** 10921
+- **Stars:** 10922
 - **Version:** v1.1.10
 - **Updated:** 2023-11-01T07:28:10Z
 - **Size:** 9.56 MB
@@ -2657,7 +2657,7 @@
 - **Description:** Fast passive subdomain enumeration tool.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
-- **Stars:** 8548
+- **Stars:** 8549
 - **Version:** v2.6.3
 - **Updated:** 2023-09-12T09:40:25Z
 - **Size:** 23.50 MB
@@ -2762,7 +2762,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 3495
+- **Stars:** 3496
 - **Version:** 2.2.0
 - **Updated:** 2023-11-19T15:04:41Z
 - **Size:** 2.63 MB
@@ -2852,7 +2852,7 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 9079
+- **Stars:** 9080
 - **Version:** v13.0.0-alpha.0
 - **Updated:** 2023-03-27T15:56:31Z
 - **Size:** 3.49 MB
@@ -2927,7 +2927,7 @@
 - **Description:** Pull out bits of URLs provided on stdin
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/unfurl](https://github.com/tomnomnom/unfurl)
-- **Stars:** 924
+- **Stars:** 923
 - **Version:** v0.4.3
 - **Updated:** 2022-07-19T14:36:40Z
 - **Size:** 4.68 MB
@@ -2957,7 +2957,7 @@
 - **Description:** HTTP load testing tool and library. It's over 9000!
 - **Author:** tsenart
 - **Repository:** [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-- **Stars:** 22151
+- **Stars:** 22152
 - **Version:** v12.11.1
 - **Updated:** 2023-10-02T09:08:28Z
 - **Size:** 9.74 MB
@@ -3032,7 +3032,7 @@
 - **Description:** Fetch all the URLs that the Wayback Machine knows about for a domain
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
-- **Stars:** 2888
+- **Stars:** 2889
 - **Version:** v0.1.0
 - **Updated:** 2022-04-05T10:19:55Z
 - **Size:** 4.44 MB
