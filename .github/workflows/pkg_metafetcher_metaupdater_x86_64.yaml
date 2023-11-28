@@ -2232,6 +2232,17 @@ jobs:
            { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/available.json | jq -r '.packages[] | select(.architecture == "x86_64") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/x86_64/README.md"
         continue-on-error: true
 
+      - name: Generate Markdown ( Main README.md)
+        run: |
+           #Presets
+           set -x ; set +e ; ulimit -S -s unlimited
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Generate $GITHUB_WORKSPACE/main/README.md
+           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" "$GITHUB_WORKSPACE/main/INFO.md" | tee "$GITHUB_WORKSPACE/main/README.md"
+        continue-on-error: true
+
       - name: Get DateTime
         run: |
           # Date Time
