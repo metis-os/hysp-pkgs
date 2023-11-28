@@ -69,8 +69,8 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/README.md
-           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
-           sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" "$GITHUB_WORKSPACE/main/INFO.md" | tee "$GITHUB_WORKSPACE/main/README.md"
+           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           sed "s/PLACEHOLDER_aarch64_arm64/$TOTAL_PACKAGES/g" "$GITHUB_WORKSPACE/main/INFO.md" | tee "$GITHUB_WORKSPACE/main/README.md"
         continue-on-error: true
 
       - name: Get DateTime
