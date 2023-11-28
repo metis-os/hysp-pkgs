@@ -61,48 +61,16 @@ jobs:
         run: |
            cd "$GITHUB_WORKSPACE/main" && git pull origin main
         continue-on-error: true
-
-      - name: Validate TOML
-        run: |
-           #Presets
-           set -x ; set +e ; ulimit -S -s unlimited
-           #--------------#
-           cd "$GITHUB_WORKSPACE/main"
-           #Check
-           #for file in "$GITHUB_WORKSPACE/main/data/x86_64" ; do [ -f "$file" ] && validtoml --quiet "$file"; done
-           find "$GITHUB_WORKSPACE/main/data/x86_64" -type f -name '*.toml' -exec validtoml --quiet {} \; 2>/dev/null
-        continue-on-error: true
-
-      - name: Update Available Index (JSON || TOML)
-        run: |
-           #Presets
-           set -x ; set +e ; ulimit -S -s unlimited
-           #--------------#
-           cd "$GITHUB_WORKSPACE/main"
-           #Update $GITHUB_WORKSPACE/main/available.toml
-           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee "$GITHUB_WORKSPACE/main/available.toml"
-           #Update $GITHUB_WORKSPACE/main/available.json
-           cat "$GITHUB_WORKSPACE/main/available.toml" | yj -tj | jq . | tee "$GITHUB_WORKSPACE/main/available.json"
-        continue-on-error: true
         
-      - name: Generate Markdown (No Table --> ./data/x86_64.md)
+      - name: Generate Markdown ( Main README.md)
         run: |
            #Presets
            set -x ; set +e ; ulimit -S -s unlimited
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
-           #Generate $GITHUB_WORKSPACE/main/data/x86_64/README.md
-           cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/x86_64.md"
-        continue-on-error: true
-        
-      - name: Generate Markdown (Table --> ./data/x86_64/README.md)
-        run: |
-           #Presets
-           set -x ; set +e ; ulimit -S -s unlimited
-           #--------------#
-           cd "$GITHUB_WORKSPACE/main"
-           #Generate $GITHUB_WORKSPACE/main/data/x86_64/README.md
-           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/available.json | jq -r '.packages[] | select(.architecture == "x86_64") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/x86_64/README.md"
+           #Generate $GITHUB_WORKSPACE/main/README.md
+           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" "$GITHUB_WORKSPACE/main/INFO.md" | tee "$GITHUB_WORKSPACE/main/README.md"
         continue-on-error: true
 
       - name: Get DateTime
