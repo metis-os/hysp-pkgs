@@ -2207,7 +2207,10 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Update $GITHUB_WORKSPACE/main/available.toml
-           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee "$GITHUB_WORKSPACE/main/available.toml"
+           ##aarch64_arm64
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/aarch64_arm64/*.toml | tee "$GITHUB_WORKSPACE/main/available.toml"
+           ##x86_64
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee -a "$GITHUB_WORKSPACE/main/available.toml"
            #Update $GITHUB_WORKSPACE/main/available.json
            cat "$GITHUB_WORKSPACE/main/available.toml" | yj -tj | jq . | tee "$GITHUB_WORKSPACE/main/available.json"
         continue-on-error: true
@@ -2239,8 +2242,15 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/README.md
+           cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
+           #aarch64_arm64
+           unset TOTAL_PACKAGES
+           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           sed "s/PLACEHOLDER_aarch64_arm64/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
+           #x86_64
+           unset TOTAL_PACKAGES
            export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
-           sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" "$GITHUB_WORKSPACE/main/INFO.md" | tee "$GITHUB_WORKSPACE/main/README.md"
+           sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
         continue-on-error: true
 
       - name: Get DateTime
