@@ -1,3 +1,4 @@
+<!-- This can be changed -->
 <p align="center">
     <a href="https://github.com/metis-os/hysp-pkgs">
         <img src="https://github.com/metis-os/hysp-pkgs/assets/58171889/0bdc0282-e018-4bdc-adfd-391392771ff4" width="400"></a>
@@ -8,6 +9,7 @@
 </p>
 
 ---
+<!-- DO NOT CHANGE -->
 - #### 📦 Status
 | 🧰 Architecture 🧰 | 📦 Total Packages 📦 | 📝 Detailed List 📝 | ⏬ Upstream Source ⏬ | 🇨🇭 WorkFlows 🇨🇭 |
 |---------------------|-----------------------|----------------------|------------------------|-----------------|
@@ -15,6 +17,7 @@
 |[`aarch64 // arm64`](https://github.com/metis-os/hysp-pkgs/tree/main/data/aarch64_arm64)|PLACEHOLDER_aarch64_arm64| [x86_64.md](https://github.com/metis-os/hysp-pkgs/blob/main/data/aarch64_arm64.md) | [Azathothas/Toolpacks/aarch64_arm64](https://github.com/Azathothas/Toolpacks/tree/main/aarch64_arm64)|[![🛍️ (aarch64_arm64) ⚙️ Daily 📦 Metadata 🗄️](https://github.com/metis-os/hysp-pkgs/actions/workflows/pkg_metafetcher_metaupdater_aarch64_arm64.yaml/badge.svg)](https://github.com/metis-os/hysp-pkgs/actions/workflows/pkg_metafetcher_metaupdater_aarch64_arm64.yaml)|
 
 ---
+<!-- This can be changed -->
 <a name="support"></a>
  ## Support 💌
 
