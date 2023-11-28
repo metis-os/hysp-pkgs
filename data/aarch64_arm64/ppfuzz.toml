@@ -4,23 +4,23 @@ name = "ppfuzz"
 [package]
 architecture = "aarch64_arm64"
 name = "ppfuzz"
-description = "A fast tool to scan client-side prototype pollution vulnerability written in Rust. 🦀"
-author = "dwisiswant0"
-repo = "https://github.com/dwisiswant0/ppfuzz"
-stars = "529"
-version = "v1.0.2"
-updated = "2022-12-01T20:59:05Z"
-size = "2.67 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "f7f8eeca45fdcedc6ee41dbeb0c7290f7ee7e21aed3c7ad4aa67da251ad7946a"
 sha = "4aa7a0736264103052d2d66c8fb6fdf045c5b8a4f3478614f3d84838148b3bb6"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ppfuzz"
-language = "Rust"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["ppfuzz"]
 requires = []
 
 [package.metadata]
-keywords = ["bugbounty","bugbounty-tool","bugbountytips","chromium","prototype-pollution","rust","rust-tools","security","security-tools","vulnerability-scanners"]
+keywords = 
 categories = ["Utilities"]

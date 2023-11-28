@@ -4,23 +4,23 @@ name = "pping"
 [package]
 architecture = "aarch64_arm64"
 name = "pping"
-description = "tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping."
-author = "wzv5"
-repo = "https://github.com/wzv5/pping"
-stars = "23"
-version = "v0.8.3"
-updated = "2023-08-24T09:17:53Z"
-size = "8.34 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "e79adb157e5f1e3657cbee20e6452fa1f7702fbf22e20dc0403284d4f21d29f6"
 sha = "83fa752545690ff417ae68512f6bd392052d3f5575a41cf3a57f2931344706ef"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/pping"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["pping"]
 requires = []
 
 [package.metadata]
-keywords = ["dns-ping","go","http-ping","icmp-ping","ping","quic-ping","tcp-ping","tls-ping"]
+keywords = 
 categories = ["Utilities"]

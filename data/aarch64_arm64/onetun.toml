@@ -4,23 +4,23 @@ name = "onetun"
 [package]
 architecture = "aarch64_arm64"
 name = "onetun"
-description = "User space WireGuard proxy in Rust"
-author = "aramperes"
-repo = "https://github.com/aramperes/onetun"
-stars = "744"
-version = "v0.3.5"
-updated = "2023-10-02T22:05:56Z"
-size = "2.21 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "8a022be5299579e443d31a4644bfb289b0b65500b05b77f5cfab83d766c2acfa"
 sha = "338a487fa1e8dc64a4d5ccb78f773f9f2c56662b18b762590f1b5b9b9f8e9fea"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/onetun"
-language = "Rust"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["onetun"]
 requires = []
 
 [package.metadata]
-keywords = ["boringtun","hacktoberfest","smoltcp","wireguard","wireguard-tunnel"]
+keywords = 
 categories = ["Utilities"]

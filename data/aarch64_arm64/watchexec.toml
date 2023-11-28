@@ -1,9 +1,9 @@
 [bin]
-name = "roboxtractor"
+name = "watchexec"
 
 [package]
 architecture = "aarch64_arm64"
-name = "roboxtractor"
+name = "watchexec"
 description = ""
 author = ""
 repo = ""
@@ -11,14 +11,14 @@ stars = ""
 version = ""
 updated = ""
 size = ""
-bsum = "44d234c8bd01d7163fe23b8c15d9b1849f4253ba7dd2e9c145409b3c12020d0a"
-sha = "d65dbb249e9e9ae800fc42b430accfab0b4397457a626d6b92d10d9083025aaa"
+bsum = "ee37a643a70553fdc9bd20ed80d70e4b245e9b48c583778c6e6a8ac8937e46b3"
+sha = "4dc2563afe22cccffdc0bc9e52530fb1fd7a4c8938bb1a78013c0bf281619c48"
 source = ""
 language = ""
 license = ""
 
 [package.conditions]
-conflicts  = ["roboxtractor"]
+conflicts  = ["watchexec"]
 requires = []
 
 [package.metadata]

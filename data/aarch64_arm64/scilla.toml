@@ -4,23 +4,23 @@ name = "scilla"
 [package]
 architecture = "aarch64_arm64"
 name = "scilla"
-description = "Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration"
-author = "edoardottt"
-repo = "https://github.com/edoardottt/scilla"
-stars = "679"
-version = "v1.2.7"
-updated = "2023-04-01T08:14:18Z"
-size = "10.79 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "54fd81d3c8e2bd3265f6be3b480d936505eccd45e82d7197b036be4361aa5aad"
 sha = "8c80b0e0bab3e282677b863a7960ab80906ebf2bdec79e541723d0d73f831f76"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/scilla"
-language = "Go"
-license = "GNU General Public License v3.0"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["scilla"]
 requires = []
 
 [package.metadata]
-keywords = ["bugbounty","directories-enumeration","dns-enumeration","enumeration","hacking","hacking-tool","hacktoberfest","information-gathering","information-retrieval","network","penetration-testing","pentesting","port-enumeration","portscanner","recon","reconnaissance","security","security-tools","subdomain-scanner","subdomains-enumeration"]
+keywords = 
 categories = ["Utilities"]

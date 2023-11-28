@@ -4,23 +4,23 @@ name = "trufflehog"
 [package]
 architecture = "aarch64_arm64"
 name = "trufflehog"
-description = "Find and verify credentials"
-author = "trufflesecurity"
-repo = "https://github.com/trufflesecurity/trufflehog"
-stars = "12764"
-version = "v3.63.2-rc0"
-updated = "2023-11-21T18:46:16Z"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
 size = ""
 bsum = ""
 sha = ""
 source = ""
-language = "Go"
-license = "GNU Affero General Public License v3.0"
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["trufflehog"]
 requires = []
 
 [package.metadata]
-keywords = ["credentials","devsecops","dynamic-analysis","hacktoberfest","precommit","scanning","secret","secret-management","secrets","security","security-tools","trufflehog","verification"]
+keywords = 
 categories = ["Utilities"]

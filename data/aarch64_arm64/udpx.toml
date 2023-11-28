@@ -4,23 +4,23 @@ name = "udpx"
 [package]
 architecture = "aarch64_arm64"
 name = "udpx"
-description = "Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use."
-author = "nullt3r"
-repo = "https://github.com/nullt3r/udpx"
-stars = "155"
-version = "v1.0.7"
-updated = "2023-02-01T16:25:35Z"
-size = "2.06 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "3c596c52797093b855e82aa70c66eec5ae77dc2a74e631115be6389ae27700d3"
 sha = "cfc9d2d55b931aa25b9662ae6ed5863ce674e8fc96afa7c43314e9814e2742b9"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/udpx"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["udpx"]
 requires = []
 
 [package.metadata]
-keywords = ["enumeration","network","port-scanner","portscanner","scanner","udp","udp-scanning","vulnerability-scanners"]
+keywords = 
 categories = ["Utilities"]

@@ -4,23 +4,23 @@ name = "proxify"
 [package]
 architecture = "aarch64_arm64"
 name = "proxify"
-description = "A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go."
-author = "projectdiscovery"
-repo = "https://github.com/projectdiscovery/proxify"
-stars = "2427"
-version = "v0.0.12"
-updated = "2023-08-12T20:48:49Z"
-size = "34.42 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "77c75ccdaeb616d2f7e4f2a5713f864da8024a422442c8fe803d003e557f4c9f"
 sha = "09fa0d4cd460a88bad2ae8a9561cff9c11ba5daabcc56b34e4c64878a4232b3d"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/proxify"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["proxify"]
 requires = []
 
 [package.metadata]
-keywords = ["http-proxy","mitm","mitmproxy","socks5-proxy"]
+keywords = 
 categories = ["Utilities"]

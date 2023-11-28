@@ -4,23 +4,23 @@ name = "qsreplace"
 [package]
 architecture = "aarch64_arm64"
 name = "qsreplace"
-description = "Accept URLs on stdin, replace all query string values with a user-supplied value"
-author = "tomnomnom"
-repo = "https://github.com/tomnomnom/qsreplace"
-stars = "635"
-version = "v0.0.3"
-updated = "2022-06-23T20:16:33Z"
-size = "1.29 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "4dfb9dd6fff92f94388300609e68c847f14bf2bdffab56115cdf5d733a36abee"
 sha = "7c7c0c72e771068e362d1dafb618f5ee4e39a61676fd7007f08081c7ee98b5de"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/qsreplace"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["qsreplace"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = 
 categories = ["Utilities"]

@@ -4,23 +4,23 @@ name = "spk"
 [package]
 architecture = "aarch64_arm64"
 name = "spk"
-description = "spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization."
-author = "dhn"
-repo = "https://github.com/dhn/spk"
-stars = "72"
-version = "null"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
 updated = ""
-size = "6.23 MB"
+size = ""
 bsum = "9303a253d241ec517ae20d5e670f8279a31385de169a3f920fa7bfdcf078a025"
 sha = "3a8a5032c0c42c1b3092406d3555c9709ca82a78b204493f161d772e8c5bfed5"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/spk"
-language = "Go"
-license = "BSD 3-Clause New or Revised License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["spk"]
 requires = []
 
 [package.metadata]
-keywords = ["asn","bugbounty","cidr","enumeration","golang","osint","recon","reconnaissance"]
+keywords = 
 categories = ["Utilities"]

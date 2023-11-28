@@ -4,23 +4,23 @@ name = "qbittorrent-nox"
 [package]
 architecture = "aarch64_arm64"
 name = "qbittorrent-nox"
-description = "A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS"
-author = "userdocs"
-repo = "https://github.com/userdocs/qbittorrent-nox-static"
-stars = "844"
-version = "release-4.6.2_v2.0.9"
-updated = "2023-11-28T00:33:16Z"
-size = "25.52 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "085ffe6f268c4a836f44bb2edc9bf35ae75154c0281f144f4cf5c55b0df3a281"
 sha = "69443ee97499f4804c385c66f09019bce4c58a8e68e3ac7665721c6c038a9f2a"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/qbittorrent-nox"
-language = "Shell"
-license = "Apache License 2.0"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["qbittorrent-nox"]
 requires = []
 
 [package.metadata]
-keywords = ["alpine","alpine-linux","b2","bash","bash-script","boost","cmake","debian","debian-linux","docker","libtorrent","libtorrent-rasterbar","qbittorrent","qbittorrent-nox","qmake","static","ubuntu","ubuntu-linux","wsl2"]
+keywords = 
 categories = ["Utilities"]
