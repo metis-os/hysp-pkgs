@@ -287,7 +287,7 @@
 - **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - **Author:** cloudreve
 - **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Stars:** 19531
+- **Stars:** 19532
 - **Version:** 3.8.3
 - **Updated:** 2023-10-07T12:30:31Z
 - **Size:** 32.32 MB
@@ -482,7 +482,7 @@
 - **Description:** Instant, easy, and predictable development environments
 - **Author:** jetpack-io
 - **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
-- **Stars:** 6422
+- **Stars:** 6424
 - **Version:** 0.8.2
 - **Updated:** 2023-11-16T23:32:42Z
 - **Size:** 20.71 MB
@@ -692,7 +692,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39560
+- **Stars:** 39561
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -707,7 +707,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39560
+- **Stars:** 39561
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -797,7 +797,7 @@
 - **Description:** Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - **Author:** lc
 - **Repository:** [https://github.com/lc/gau](https://github.com/lc/gau)
-- **Stars:** 3212
+- **Stars:** 3213
 - **Version:** v2.2.1
 - **Updated:** 2023-11-02T13:13:38Z
 - **Size:** 7.32 MB
@@ -1052,7 +1052,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 14549
+- **Stars:** 14550
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.41 MB
@@ -1112,7 +1112,7 @@
 - **Description:** Directory/File, DNS and VHost busting tool written in Go
 - **Author:** OJ
 - **Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
-- **Stars:** 8426
+- **Stars:** 8427
 - **Version:** v3.6.0
 - **Updated:** 2023-08-14T08:30:05Z
 - **Size:** 7.39 MB
@@ -1517,7 +1517,7 @@
 - **Description:** The Swiss Army knife for automated Web Application Testing
 - **Author:** jaeles-project
 - **Repository:** [https://github.com/jaeles-project/jaeles](https://github.com/jaeles-project/jaeles)
-- **Stars:** 1981
+- **Stars:** 1982
 - **Version:** beta-v0.17.1
 - **Updated:** 2023-07-08T08:31:33Z
 - **Size:** 22.29 MB
@@ -1742,7 +1742,7 @@
 - **Description:** a featureful union filesystem
 - **Author:** trapexit
 - **Repository:** [https://github.com/trapexit/mergerfs](https://github.com/trapexit/mergerfs)
-- **Stars:** 3533
+- **Stars:** 3534
 - **Version:** 2.38.0
 - **Updated:** 2023-10-29T23:23:29Z
 - **Size:** 1.75 MB
@@ -1787,7 +1787,7 @@
 - **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-- **Stars:** 5186
+- **Stars:** 5185
 - **Version:** v0.24.0
 - **Updated:** 2023-07-06T08:50:57Z
 - **Size:** 1.30 MB
@@ -1862,7 +1862,7 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7036
+- **Stars:** 7037
 - **Version:** v0.24.3
 - **Updated:** 2023-11-24T10:52:22Z
 - **Size:** 21.35 MB
@@ -2045,7 +2045,7 @@
 - **Stars:** 4369
 - **Version:** v0.14.4
 - **Updated:** 2023-11-24T00:58:03Z
-- **Size:** 3.45 MB
+- **Size:** 3.47 MB
 - **SHA:** 492a7d97420706d2c921e40701fca3756902a3bbaaffd66e10e5f177f214baf0
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/procs
 - **Language:** Rust
@@ -2075,7 +2075,7 @@
 - **Stars:** 4021
 - **Version:** v3.3.2
 - **Updated:** 2023-11-28T16:10:32Z
-- **Size:** 2.22 MB
+- **Size:** 2.21 MB
 - **SHA:** bc407ba3efe2e6632148052efe1b254b841591ff798bf64ca8f07557815675f6
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/pueue
 - **Language:** Rust
@@ -2120,7 +2120,7 @@
 - **Stars:** 844
 - **Version:** release-4.6.2_v2.0.9
 - **Updated:** 2023-11-28T00:33:16Z
-- **Size:** 25.52 MB
+- **Size:** 25.58 MB
 - **SHA:** 69443ee97499f4804c385c66f09019bce4c58a8e68e3ac7665721c6c038a9f2a
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/qbittorrent-nox
 - **Language:** Shell
@@ -2210,7 +2210,7 @@
 - **Stars:** 41470
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
-- **Size:** 5.01 MB
+- **Size:** 5.09 MB
 - **SHA:** 8614f08eeb663f9cd6cf43e91600b1f6cad413403cede84613925e17d2f20186
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rg
 - **Language:** Rust
@@ -2612,7 +2612,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 37786
+- **Stars:** 37787
 - **Version:** v1.16.0
 - **Updated:** 2023-07-30T13:48:25Z
 - **Size:** 7.40 MB
@@ -2657,7 +2657,7 @@
 - **Description:** Fast passive subdomain enumeration tool.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
-- **Stars:** 8554
+- **Stars:** 8555
 - **Version:** v2.6.3
 - **Updated:** 2023-09-12T09:40:25Z
 - **Size:** 23.50 MB
