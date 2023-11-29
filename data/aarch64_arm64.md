@@ -167,7 +167,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 7944
+- **Stars:** 7946
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.68 MB
@@ -692,7 +692,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39576
+- **Stars:** 39578
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -707,7 +707,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39576
+- **Stars:** 39578
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -752,7 +752,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21549
+- **Stars:** 21550
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.90 MB
@@ -887,7 +887,7 @@
 - **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
-- **Stars:** 6344
+- **Stars:** 6345
 - **Version:** v1.4.0
 - **Updated:** 2023-10-29T13:23:20Z
 - **Size:** 7.43 MB
@@ -1082,7 +1082,7 @@
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
-- **Stars:** 13745
+- **Stars:** 13746
 - **Version:** v1.5.1
 - **Updated:** 2023-05-09T16:16:51Z
 - **Size:** 16.60 MB
@@ -1457,7 +1457,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 18081
+- **Stars:** 18082
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 0.96 MB
@@ -1532,7 +1532,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27220
+- **Stars:** 27221
 - **Version:** jq-1.7
 - **Updated:** 2023-09-06T22:54:12Z
 - **Size:** 1.64 MB
@@ -1607,7 +1607,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31115
+- **Stars:** 31116
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -1742,7 +1742,7 @@
 - **Description:** a featureful union filesystem
 - **Author:** trapexit
 - **Repository:** [https://github.com/trapexit/mergerfs](https://github.com/trapexit/mergerfs)
-- **Stars:** 3535
+- **Stars:** 3536
 - **Version:** 2.38.0
 - **Updated:** 2023-10-29T23:23:29Z
 - **Size:** 1.75 MB
@@ -1832,7 +1832,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19295
+- **Stars:** 19297
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 0.51 MB
@@ -2207,7 +2207,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 41535
+- **Stars:** 41536
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -2597,7 +2597,7 @@
 - **Description:** :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - **Author:** moul
 - **Repository:** [https://github.com/moul/sshportal](https://github.com/moul/sshportal)
-- **Stars:** 1595
+- **Stars:** 1596
 - **Version:** v1.19.5
 - **Updated:** 2023-05-20T09:27:43Z
 - **Size:** 10.12 MB
@@ -2717,7 +2717,7 @@
 - **Description:** A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/systeroid](https://github.com/orhun/systeroid)
-- **Stars:** 1139
+- **Stars:** 1140
 - **Version:** v0.4.4
 - **Updated:** 2023-09-19T10:15:03Z
 - **Size:** 1.91 MB
@@ -2732,7 +2732,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14413
+- **Stars:** 14414
 - **Version:** v1.54.0
 - **Updated:** 2023-11-15T19:00:13Z
 - **Size:** 10.48 MB
@@ -2747,7 +2747,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14413
+- **Stars:** 14414
 - **Version:** v1.54.0
 - **Updated:** 2023-11-15T19:00:13Z
 - **Size:** 19.47 MB
@@ -2762,7 +2762,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 3513
+- **Stars:** 3514
 - **Version:** 2.2.0
 - **Updated:** 2023-11-19T15:04:41Z
 - **Size:** 2.63 MB
@@ -2777,7 +2777,7 @@
 - **Description:** the TCPdump network dissector
 - **Author:** the-tcpdump-group
 - **Repository:** [https://github.com/the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump)
-- **Stars:** 2396
+- **Stars:** 2397
 - **Version:** tcpdump-4.99.4
 - **Updated:** 2023-04-07T18:30:58Z
 - **Size:** 
@@ -2972,7 +2972,7 @@
 - **Description:** Your CLI home video recorder 📼
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- **Stars:** 12351
+- **Stars:** 12352
 - **Version:** v0.6.0
 - **Updated:** 2023-07-20T19:14:51Z
 - **Size:** 21.34 MB
@@ -3227,7 +3227,7 @@
 - **Description:** yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
 - **Author:** mikefarah
 - **Repository:** [https://github.com/mikefarah/yq](https://github.com/mikefarah/yq)
-- **Stars:** 9822
+- **Stars:** 9824
 - **Version:** v4.40.3
 - **Updated:** 2023-11-23T03:57:56Z
 - **Size:** 8.93 MB
@@ -3302,7 +3302,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 12556
+- **Stars:** 12557
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 0.93 MB
