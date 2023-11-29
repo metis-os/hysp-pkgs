@@ -62,7 +62,7 @@
 - **Description:** A tool for adding new lines to files, skipping duplicates
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1093
+- **Stars:** 1094
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.29 MB
@@ -122,7 +122,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 12264
+- **Stars:** 12265
 - **Version:** v17.0.1
 - **Updated:** 2023-10-28T19:30:49Z
 - **Size:** 16.37 MB
@@ -137,7 +137,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 43988
+- **Stars:** 43989
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -152,7 +152,7 @@
 - **Description:** 🕳 bore is a simple CLI tool for making tunnels to localhost
 - **Author:** ekzhang
 - **Repository:** [https://github.com/ekzhang/bore](https://github.com/ekzhang/bore)
-- **Stars:** 7448
+- **Stars:** 7449
 - **Version:** v0.5.0
 - **Updated:** 2023-04-28T02:05:39Z
 - **Size:** 1.18 MB
@@ -167,7 +167,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 7937
+- **Stars:** 7939
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.68 MB
@@ -467,7 +467,7 @@
 - **Description:** 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - **Author:** hahwul
 - **Repository:** [https://github.com/hahwul/dalfox](https://github.com/hahwul/dalfox)
-- **Stars:** 2987
+- **Stars:** 2988
 - **Version:** v2.9.1
 - **Updated:** 2023-11-26T00:56:40Z
 - **Size:** 23.62 MB
@@ -722,7 +722,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10538
+- **Stars:** 10537
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 7.46 MB
@@ -782,7 +782,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 55684
+- **Stars:** 55686
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1037,7 +1037,7 @@
 - **Description:** Protect and discover secrets using Gitleaks 🔑
 - **Author:** gitleaks
 - **Repository:** [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-- **Stars:** 14234
+- **Stars:** 14235
 - **Version:** v8.18.1
 - **Updated:** 2023-11-17T20:58:58Z
 - **Size:** 6.27 MB
@@ -1052,7 +1052,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 14552
+- **Stars:** 14553
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.41 MB
@@ -1187,7 +1187,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14285
+- **Stars:** 14286
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.07 MB
@@ -1532,7 +1532,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27214
+- **Stars:** 27215
 - **Version:** jq-1.7
 - **Updated:** 2023-09-06T22:54:12Z
 - **Size:** 1.64 MB
@@ -1622,7 +1622,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40428
+- **Stars:** 40430
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -1772,7 +1772,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23073
+- **Stars:** 23074
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 10.83 MB
@@ -1832,7 +1832,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19291
+- **Stars:** 19292
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 0.51 MB
@@ -1847,7 +1847,7 @@
 - **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/nerdctl](https://github.com/containerd/nerdctl)
-- **Stars:** 6841
+- **Stars:** 6840
 - **Version:** v1.7.0
 - **Updated:** 2023-11-04T09:05:38Z
 - **Size:** 22.48 MB
@@ -2207,7 +2207,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 41518
+- **Stars:** 41520
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -2612,7 +2612,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 37800
+- **Stars:** 37801
 - **Version:** v1.16.0
 - **Updated:** 2023-07-30T13:48:25Z
 - **Size:** 7.40 MB
@@ -2657,7 +2657,7 @@
 - **Description:** Fast passive subdomain enumeration tool.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
-- **Stars:** 8556
+- **Stars:** 8555
 - **Version:** v2.6.3
 - **Updated:** 2023-09-12T09:40:25Z
 - **Size:** 23.50 MB
@@ -2732,7 +2732,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14409
+- **Stars:** 14410
 - **Version:** v1.54.0
 - **Updated:** 2023-11-15T19:00:13Z
 - **Size:** 10.48 MB
@@ -2747,7 +2747,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14409
+- **Stars:** 14410
 - **Version:** v1.54.0
 - **Updated:** 2023-11-15T19:00:13Z
 - **Size:** 19.47 MB
@@ -2807,7 +2807,7 @@
 - **Description:** Fast and configurable TLS grabber focused on TLS based data collection.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx)
-- **Stars:** 715
+- **Stars:** 716
 - **Version:** v1.1.5
 - **Updated:** 2023-09-28T11:08:02Z
 - **Size:** 23.92 MB
@@ -2882,7 +2882,7 @@
 - **Description:** Find and verify credentials
 - **Author:** trufflesecurity
 - **Repository:** [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-- **Stars:** 12774
+- **Stars:** 12775
 - **Version:** v3.63.2-rc0
 - **Updated:** 2023-11-21T18:46:16Z
 - **Size:** 
@@ -2942,7 +2942,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12549
+- **Stars:** 12550
 - **Version:** v4.2.1
 - **Updated:** 2023-11-01T12:02:45Z
 - **Size:** 0.55 MB
