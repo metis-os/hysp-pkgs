@@ -2062,13 +2062,13 @@ jobs:
            set -x ; set +e ; ulimit -S -s unlimited
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
-           #Update $GITHUB_WORKSPACE/main/available.toml
+           #Update $GITHUB_WORKSPACE/main/data/available.toml
            ##aarch64_arm64
-           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/aarch64_arm64/*.toml | tee "$GITHUB_WORKSPACE/main/available.toml"
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/aarch64_arm64/*.toml | tee "$GITHUB_WORKSPACE/main/data/available.toml"
            ##x86_64
-           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee -a "$GITHUB_WORKSPACE/main/available.toml"
-           #Update $GITHUB_WORKSPACE/main/available.json
-           cat "$GITHUB_WORKSPACE/main/available.toml" | yj -tj | jq . | tee "$GITHUB_WORKSPACE/main/available.json"
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee -a "$GITHUB_WORKSPACE/main/data/available.toml"
+           #Update $GITHUB_WORKSPACE/main/data/available.json
+           cat "$GITHUB_WORKSPACE/main/data/available.toml" | yj -tj | jq . | tee "$GITHUB_WORKSPACE/main/data/available.json"
         continue-on-error: true
         
       - name: Generate Markdown (No Table --> ./data/aarch64_arm64.md)
@@ -2078,7 +2078,7 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/data/aarch64_arm64/README.md
-           cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/aarch64_arm64.md"
+           cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/aarch64_arm64.md"
         continue-on-error: true
         
       - name: Generate Markdown (Table --> ./data/aarch64_arm64/README.md)
@@ -2088,7 +2088,7 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/data/aarch64_arm64/README.md
-           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/available.json | jq -r '.packages[] | select(.architecture == "aarch64_arm64") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/aarch64_arm64/README.md"
+           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/data/available.json | jq -r '.packages[] | select(.architecture == "aarch64_arm64") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/aarch64_arm64/README.md"
         continue-on-error: true
 
       - name: Generate Markdown ( Main README.md)
@@ -2101,11 +2101,11 @@ jobs:
            cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
            #aarch64_arm64
            unset TOTAL_PACKAGES
-           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
            sed "s/PLACEHOLDER_aarch64_arm64/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
            #x86_64
            unset TOTAL_PACKAGES
-           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/available.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
            sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
         continue-on-error: true
 
