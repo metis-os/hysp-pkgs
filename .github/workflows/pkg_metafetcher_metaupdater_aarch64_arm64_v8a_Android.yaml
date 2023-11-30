@@ -65,7 +65,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="bottom" REPO="ClementTsang/bottom" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="btm" REPO="ClementTsang/bottom" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
         continue-on-error: true
      #----------------------------#
      #btop : htop clone | A monitor of resources 
@@ -324,7 +324,7 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md
-           cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "arm64_v8a_Android") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android.md"
+           cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "arm64_v8a_Android") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHASUM:** \(.sha)\n- **B3SUM:** \(.bsum)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android.md"
         continue-on-error: true
         
       - name: Generate Markdown (Table --> ./data/arm64_v8a_Android/README.md)
@@ -334,7 +334,7 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md
-           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/data/available.json | jq -r '.packages[] | select(.architecture == "arm64_v8a_Android") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md"
+           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA256SUM | B3SUM | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | --------|-------- | ------- |" ; cat $GITHUB_WORKSPACE/main/data/available.json | jq -r '.packages[] | select(.architecture == "arm64_v8a_Android") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.bsum) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md"
         continue-on-error: true
 
       - name: Get DateTime
