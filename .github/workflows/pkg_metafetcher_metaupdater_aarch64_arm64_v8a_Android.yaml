@@ -1,0 +1,354 @@
+name: 🛍️ (arm64-v8a Android) Generate | Update ⚙️ Daily Package 📦 Metadata 🗄️
+#MAX_RUNTIME:  
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/65 * * * *" #  Every 65 Mins
+  
+env:
+  GITHUB_TOKEN: ${{ secrets.HYSP_TOKEN }}
+  
+jobs:
+#------------------------------------------------------------------------------------#
+#------------------------------------------------------------------------------------#
+  fetch-meta:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:        
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: main
+
+      - name: Install CoreUtils & Deps
+        run: |
+          set +e
+          sudo apt-get update -y
+          sudo apt-get install coreutils ca-certificates curl git dos2unix lzip jq moreutils p7zip-full util-linux wget -y
+          #Re
+          sudo apt-get install coreutils ca-certificates curl git dos2unix lzip jq moreutils p7zip-full util-linux wget -y
+        continue-on-error: true
+        
+      - name: Install Addons
+        run: |
+          set +e
+          #eget
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
+          #validtoml
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
+          #Yj
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
+        continue-on-error: true
+
+      - name: Setup Env
+        run: |
+          # Create Output Dir
+          mkdir -p "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android"
+        continue-on-error: true
+#------------------------------------------------------------------------------------#
+     #----------------------------#
+     #anew : A tool for adding new lines to files, skipping duplicates 
+      - name: Generate Meta (anew)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="anew" REPO="tomnomnom/anew" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#        
+     #bottom : htop clone | graphical process/system monitor
+      - name: Generate Meta (bottom)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="bottom" REPO="ClementTsang/bottom" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #btop : htop clone | A monitor of resources 
+      - name: Generate Meta (btop)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="btop" REPO="aristocratos/btop" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #certstream : Cli for calidog's certstream
+      - name: Generate Meta (certstream )
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="certstream" REPO="Azathothas/Arsenal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #crt : A CLI tool to check Certificate Transparency logs of a domain name
+      - name: Generate Meta (crt)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="crt" REPO="cemulus/crt" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #dnsx : Multi-purpose DNS toolkit allow to run multiple DNS queries
+      - name: Generate Meta (dnsx)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="dnsx" REPO="projectdiscovery/dnsx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#   
+     #eget : Easily install prebuilt binaries from GitHub
+      - name: Generate Meta (eget)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="eget" REPO="zyedidia/eget" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #encode : Encode|Decode input from stdin
+      - name: Generate Meta (encode)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="encode" REPO="Brum3ns/encode" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ffuf : Fast web fuzzer written in Go 
+      - name: Generate Meta (ffuf)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="ffuf" REPO="ffuf/ffuf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #filebrowser : 📂 Web File Browser
+      - name: Generate Meta (filebrowser)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="filebrowser" REPO="filebrowser/filebrowser" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #godns : A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc
+      - name: Generate Meta (godns)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="godns" REPO="TimothyYe/godns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gost : GO Simple Tunnel - a simple tunnel written in golang
+      - name: Generate Meta (gost)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="gost" REPO="ginuerzh/gost" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gowitness : 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
+      - name: Generate Meta (gowitness)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="gowitness" REPO="sensepost/gowitness" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #httpx : httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes
+      - name: Generate Meta (httpx)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="httpx" REPO="projectdiscovery/httpx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #hxn : ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal
+      - name: Generate Meta (hxn)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="hxn" REPO="pwnwriter/haylxon" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #hysp : 📦 An independent package manager that every hacker deserves.
+      - name: Generate Meta (hysp)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="hysp" REPO="pwnwriter/hysp" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #inscope : filtering URLs and domains supplied on stdin to make sure they meet one of a set of regular expressions
+      - name: Generate Meta (inscope)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="inscope" REPO="tomnomnom/hacks" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true  
+     #----------------------------#
+     #jless : jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data
+      - name: Generate Meta (jless)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="jless" REPO="PaulJuliusMartinez/jless" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #kanha : 🦚 A web-app pentesting suite written in rust
+      - name: Generate Meta (hxn)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="kanha" REPO="pwnwriter/kanha" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #mapcidr : Utility program to perform multiple operations for a given subnet/CIDR ranges
+      - name: Generate Meta (mapcidr)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="mapcidr" REPO="projectdiscovery/mapcidr" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #pspy : Monitor linux processes without root permissions 
+      - name: Generate Meta (pspy)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="pspy" REPO="DominicBreuker/pspy" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #scopegen : Generates .scope compatible format for ScopeView (based on TomNomNom's Inscope)
+      - name: Generate Meta (scopegen)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="scopegen" REPO="Azathothas/Arsenal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #static-web-server : A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
+      - name: Generate Meta (static-web-server)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="static-web-server" REPO="static-web-server/static-web-server" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #sudo : A wrapper script to drop to the supported shells or execute shell script files with superuser (root) context in termux
+      - name: Generate Meta (sudo)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="sudo" REPO="agnostic-apollo/sudo" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+     #----------------------------#
+     #tailscale : The easiest, most secure way to use WireGuard and 2FA
+      - name: Generate Meta (tailscale)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="tailscale" REPO="tailscale/tailscale" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="tailscaled" REPO="tailscale/tailscale" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="tailscale_dynamic_native" REPO="tailscale/tailscale" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="tailscaled_dynamic_native" REPO="tailscale/tailscale" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+        continue-on-error: true
+#------------------------------------------------------------------------------------#        
+      - name: Dos2Unix Everything
+        run: |
+          cd "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android/"
+          find . -type f -exec dos2unix {} \;
+        continue-on-error: true
+
+      - name: Git Pull
+        run: |
+           cd "$GITHUB_WORKSPACE/main" && git pull origin main
+        continue-on-error: true
+
+      - name: Validate TOML
+        run: |
+           #Presets
+           set -x ; set +e ; ulimit -S -s unlimited
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Check
+           #for file in "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android" ; do [ -f "$file" ] && validtoml --quiet "$file"; done
+           find "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android" -type f -name '*.toml' -exec validtoml --quiet {} \; 2>/dev/null
+        continue-on-error: true
+
+      - name: Update Available Index (JSON || TOML)
+        run: |
+           #Presets
+           set -x ; set +e ; ulimit -S -s unlimited
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Update $GITHUB_WORKSPACE/main/data/available.toml
+           ##arm64_v8a_Android
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/arm64_v8a_Android/*.toml | tee "$GITHUB_WORKSPACE/main/data/available.toml"
+           ##aarch64_arm64
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/aarch64_arm64/*.toml | tee -a "$GITHUB_WORKSPACE/main/data/available.toml"
+           ##x86_64
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee -a "$GITHUB_WORKSPACE/main/data/available.toml"
+           #Update $GITHUB_WORKSPACE/main/data/available.json
+           cat "$GITHUB_WORKSPACE/main/data/available.toml" | yj -tj | jq . | tee "$GITHUB_WORKSPACE/main/data/available.json"
+        continue-on-error: true
+        
+      - name: Generate Markdown (No Table --> ./data/arm64_v8a_Android.md)
+        run: |
+           #Presets
+           set -x ; set +e ; ulimit -S -s unlimited
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Generate $GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md
+           cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "arm64_v8a_Android") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android.md"
+        continue-on-error: true
+        
+      - name: Generate Markdown (Table --> ./data/arm64_v8a_Android/README.md)
+        run: |
+           #Presets
+           set -x ; set +e ; ulimit -S -s unlimited
+           #--------------#
+           cd "$GITHUB_WORKSPACE/main"
+           #Generate $GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md
+           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/data/available.json | jq -r '.packages[] | select(.architecture == "arm64_v8a_Android") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md"
+        continue-on-error: true
+
+      - name: Get DateTime
+        run: |
+          # Date Time
+          NEPALI_TIME=$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')
+          echo "NEPALI_TIME=$NEPALI_TIME" >> $GITHUB_ENV
+        continue-on-error: true
+                  
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main        
+          commit_user_name: Azathothas # defaults to "github-actions[bot]"
+          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "✅ 🛍️ (arm64-v8a Android) Generated | Updated ⚙️ Daily Package 📦 Metadata 🗄️ <-- ${{ env.NEPALI_TIME }} ⌚"
+          #push_options: '--force'
+#------------------------------------------------------------------------------------#
