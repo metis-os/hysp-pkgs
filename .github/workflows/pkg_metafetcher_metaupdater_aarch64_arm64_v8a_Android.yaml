@@ -3,7 +3,7 @@ name: 🛍️ (arm64-v8a Android) Generate | Update ⚙️ Daily Package 📦 Me
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/65 * * * *" #  Every 65 Mins
+    - cron: "*/35 * * * *" #  Every 35 Mins
   
 env:
   GITHUB_TOKEN: ${{ secrets.HYSP_TOKEN }}
