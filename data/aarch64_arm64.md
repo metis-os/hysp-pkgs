@@ -122,7 +122,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 12274
+- **Stars:** 12273
 - **Version:** v17.0.1
 - **Updated:** 2023-10-28T19:30:49Z
 - **Size:** 16.37 MB
@@ -137,7 +137,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44002
+- **Stars:** 44004
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -167,7 +167,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 7954
+- **Stars:** 7955
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.68 MB
@@ -197,7 +197,7 @@
 - **Description:** BusyBox mirror
 - **Author:** mirror
 - **Repository:** [https://github.com/mirror/busybox](https://github.com/mirror/busybox)
-- **Stars:** 1424
+- **Stars:** 1425
 - **Version:** 1_36_0
 - **Updated:** 2023-01-03T14:15:41Z
 - **Size:** 1.18 MB
@@ -287,7 +287,7 @@
 - **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - **Author:** cloudreve
 - **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Stars:** 19543
+- **Stars:** 19544
 - **Version:** 3.8.3
 - **Updated:** 2023-10-07T12:30:31Z
 - **Size:** 32.32 MB
@@ -647,7 +647,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 3858
+- **Stars:** 3861
 - **Version:** v0.16.2
 - **Updated:** 2023-11-30T04:59:02Z
 - **Size:** 1.52 MB
@@ -662,7 +662,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 29602
+- **Stars:** 29604
 - **Version:** v8.7.1
 - **Updated:** 2023-10-21T04:29:37Z
 - **Size:** 2.47 MB
@@ -692,7 +692,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39590
+- **Stars:** 39591
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -707,7 +707,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39590
+- **Stars:** 39591
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -752,7 +752,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21558
+- **Stars:** 21560
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.90 MB
@@ -782,7 +782,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 55708
+- **Stars:** 55710
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1175,7 +1175,7 @@
 - **Stars:** 373
 - **Version:** null
 - **Updated:** 
-- **Size:** 2.95 MB
+- **Size:** 2.94 MB
 - **SHA:** b4e21d0c67e3246128e5c2344cabfcea0ecaccff81e23b24374b336fc1ce9d8c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gorilla
 - **Language:** Rust
@@ -1247,7 +1247,7 @@
 - **Description:** Ping, but with a graph
 - **Author:** orf
 - **Repository:** [https://github.com/orf/gping](https://github.com/orf/gping)
-- **Stars:** 9669
+- **Stars:** 9668
 - **Version:** gping-v1.16.0
 - **Updated:** 2023-11-29T19:16:00Z
 - **Size:** 2.33 MB
@@ -1382,7 +1382,7 @@
 - **Description:** A command-line hex viewer
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hexyl](https://github.com/sharkdp/hexyl)
-- **Stars:** 8538
+- **Stars:** 8539
 - **Version:** v0.13.1
 - **Updated:** 2023-07-26T06:59:55Z
 - **Size:** 0.67 MB
@@ -1400,7 +1400,7 @@
 - **Stars:** 6689
 - **Version:** v0.4.0
 - **Updated:** 2022-01-03T21:40:36Z
-- **Size:** 1.48 MB
+- **Size:** 1.47 MB
 - **SHA:** 8c8bb77f3fe9bba570bf7f534b3aa990731fb471bede0c27e6505d5c9fd9e45c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/htmlq
 - **Language:** Rust
@@ -1460,7 +1460,7 @@
 - **Stars:** 18092
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
-- **Size:** 0.96 MB
+- **Size:** 0.95 MB
 - **SHA:** 2a2af879d54ece36b19371b05df3df2efc7784f51535844f1571663a3a2ad46d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hyperfine
 - **Language:** Rust
@@ -1502,7 +1502,7 @@
 - **Description:** iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 - **Author:** esnet
 - **Repository:** [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
-- **Stars:** 5884
+- **Stars:** 5885
 - **Version:** 3.15
 - **Updated:** 2023-09-14T19:17:03Z
 - **Size:** 2.76 MB
@@ -1595,7 +1595,7 @@
 - **Stars:** 2231
 - **Version:** v1.6.4
 - **Updated:** 2023-10-27T08:56:26Z
-- **Size:** 1.08 MB
+- **Size:** 1.07 MB
 - **SHA:** 34c5a81d9885221fe8847921f69c1929289b65d5e3fbe9d9e00141d4290fa7d2
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/kmon
 - **Language:** Rust
@@ -1607,7 +1607,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31125
+- **Stars:** 31126
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -1772,7 +1772,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23081
+- **Stars:** 23082
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 10.83 MB
@@ -1892,7 +1892,7 @@
 - **Description:** Nmap - the Network Mapper. Github mirror of official SVN repository.
 - **Author:** nmap
 - **Repository:** [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
-- **Stars:** 8586
+- **Stars:** 8588
 - **Version:** null
 - **Updated:** 
 - **Size:** 6.93 MB
@@ -1955,7 +1955,7 @@
 - **Stars:** 747
 - **Version:** v0.3.5
 - **Updated:** 2023-10-02T22:05:56Z
-- **Size:** 2.21 MB
+- **Size:** 2.20 MB
 - **SHA:** 80d6baabebb2d6d4160d81db10ff9d049347f2eea3b4e0e386d1a52197a2357f
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/onetun
 - **Language:** Rust
@@ -2015,7 +2015,7 @@
 - **Stars:** 534
 - **Version:** v1.0.2
 - **Updated:** 2022-12-01T20:59:05Z
-- **Size:** 2.67 MB
+- **Size:** 2.66 MB
 - **SHA:** 5bd21e489d0566c7ea1555a67e79f6d742144bc7ba7adbc2bfc0c88ebfebc974
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ppfuzz
 - **Language:** Rust
@@ -2045,7 +2045,7 @@
 - **Stars:** 4374
 - **Version:** v0.14.4
 - **Updated:** 2023-11-24T00:58:03Z
-- **Size:** 3.47 MB
+- **Size:** 3.45 MB
 - **SHA:** e8db3cb7aa48fbef6b1e96df2eebde828d43dee0e67216c0721b305eff4ee9a4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/procs
 - **Language:** Rust
@@ -2207,7 +2207,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 41578
+- **Stars:** 41580
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -2222,10 +2222,10 @@
 - **Description:** rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - **Author:** phiresky
 - **Repository:** [https://github.com/phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)
-- **Stars:** 5884
+- **Stars:** 5885
 - **Version:** v1.0.0-alpha.5
 - **Updated:** 2023-06-04T16:38:58Z
-- **Size:** 3.40 MB
+- **Size:** 3.39 MB
 - **SHA:** 2037aa40d12c61f9c33386cf065ecde5570e3091fab4c5d89b9e247ae67b4eef
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rga
 - **Language:** Rust
@@ -2345,7 +2345,7 @@
 - **Stars:** 559
 - **Version:** v0.14.1
 - **Updated:** 2023-11-02T23:09:53Z
-- **Size:** 5.19 MB
+- **Size:** 5.17 MB
 - **SHA:** d07c4d2eabdbbff7094183f4e848a56f1df5a88dabffaa660fe8aee206189249
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rustypaste
 - **Language:** Rust
@@ -2390,7 +2390,7 @@
 - **Stars:** 682
 - **Version:** v1.2.7
 - **Updated:** 2023-04-01T08:14:18Z
-- **Size:** 10.79 MB
+- **Size:** 10.92 MB
 - **SHA:** 9af105879fe5f0cd5ce8a3a6c665682262b15a93fd024230801875e0b264e15c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/scilla
 - **Language:** Go
@@ -2765,7 +2765,7 @@
 - **Stars:** 3523
 - **Version:** 2.2.0
 - **Updated:** 2023-11-19T15:04:41Z
-- **Size:** 2.63 MB
+- **Size:** 2.62 MB
 - **SHA:** 10fdac728cf8a2903684b27901242a76e742aec7428fe8ccd61dd113a6db59f4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tailspin
 - **Language:** Rust
@@ -3155,7 +3155,7 @@
 - **Stars:** 510
 - **Version:** 0.6.0
 - **Updated:** 2022-12-21T22:15:49Z
-- **Size:** 5.20 MB
+- **Size:** 5.19 MB
 - **SHA:** dce9ab8e030d8fe16294cff5b0a8be93eefad053bd9c4a0271b17f3d4741c844
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wormhole-rs
 - **Language:** Rust
@@ -3260,8 +3260,8 @@
 - **Stars:** 14649
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
-- **Size:** 24.33 MB
-- **SHA:** 42e51f9f5c13bf2c8aae160f76f20514201a1a4824e3bf4be346cd12695ea2b6
+- **Size:** 24.09 MB
+- **SHA:** a7f5bba8992b4235b9251e7a96868d3902127bdededd5bb061ffcdf9c2ef3b92
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zellij
 - **Language:** Rust
 - **License:** MIT License
@@ -3275,8 +3275,8 @@
 - **Stars:** 1999
 - **Version:** 0.14.0
 - **Updated:** 2023-02-24T22:01:18Z
-- **Size:** 1.27 MB
-- **SHA:** 48e64fd47b84ee5eaed70168754120fd68b45eaeb8cb72576df9871f98492ecb
+- **Size:** 1.26 MB
+- **SHA:** cacee64e740bc1306495e1d2ba151ea85df4099525a46738dcb28bf242e6196a
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zenith
 - **Language:** Rust
 - **License:** MIT License
@@ -3291,7 +3291,7 @@
 - **Version:** v0.1.6
 - **Updated:** 2020-03-31T20:01:53Z
 - **Size:** 13.29 MB
-- **SHA:** ac3ef56fbd79401a05e595b5305e3070c834226b5d1bdceaad974db769395329
+- **SHA:** 2c5ce6c3c847b908f263c0bb62371bdcef4a16e0af3b4d853f16f16810001212
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zgrab2
 - **Language:** Go
 - **License:** Other
