@@ -2066,7 +2066,7 @@ jobs:
            ##arm64_v8a_Android
            awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/arm64_v8a_Android/*.toml | tee "$GITHUB_WORKSPACE/main/data/available.toml"
            ##aarch64_arm64
-           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/aarch64_arm64/*.toml | tee "$GITHUB_WORKSPACE/main/data/available.toml"
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/aarch64_arm64/*.toml | tee -a "$GITHUB_WORKSPACE/main/data/available.toml"
            ##x86_64
            awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee -a "$GITHUB_WORKSPACE/main/data/available.toml"
            #Update $GITHUB_WORKSPACE/main/data/available.json
