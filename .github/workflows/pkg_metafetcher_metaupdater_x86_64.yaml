@@ -2222,7 +2222,7 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/data/x86_64/README.md
-           cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "x86_64") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA:** \(.sha)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/x86_64.md"
+           cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "x86_64") | "### \(.name)\n- **Description:** \(.description)\n- **Author:** \(.author)\n- **Repository:** [\(.repo)](\(.repo))\n- **Stars:** \(.stars)\n- **Version:** \(.version)\n- **Updated:** \(.updated)\n- **Size:** \(.size)\n- **SHA256SUM:** \(.sha)\n- **B3SUM:** \(.bsum)\n- **Source:** \(.source)\n- **Language:** \(.language)\n- **License:** \(.license)\n\n---\n"' > "$GITHUB_WORKSPACE/main/data/x86_64.md"
         continue-on-error: true
         
       - name: Generate Markdown (Table --> ./data/x86_64/README.md)
@@ -2232,7 +2232,7 @@ jobs:
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/data/x86_64/README.md
-           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/data/available.json | jq -r '.packages[] | select(.architecture == "x86_64") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/x86_64/README.md"
+           { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA256SUM | B3SUM | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------|------ | -------- | ------- |" ; cat $GITHUB_WORKSPACE/main/data/available.json | jq -r '.packages[] | select(.architecture == "x86_64") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.bsum) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/x86_64/README.md"
         continue-on-error: true
 
       - name: Generate Markdown ( Main README.md)
@@ -2243,6 +2243,8 @@ jobs:
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/README.md
            cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
+           ##arm64_v8a_Android
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/arm64_v8a_Android/*.toml | tee "$GITHUB_WORKSPACE/main/data/available.toml"
            #aarch64_arm64
            unset TOTAL_PACKAGES
            export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/available.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
