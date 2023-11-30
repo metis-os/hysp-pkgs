@@ -1,0 +1,26 @@
+[bin]
+name = "btm"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "btm"
+description = "Yet another cross-platform graphical process/system monitor."
+author = "ClementTsang"
+repo = "https://github.com/ClementTsang/bottom"
+stars = "7957"
+version = "0.9.6"
+updated = "2023-08-27T01:43:44Z"
+size = "3.07 MB"
+bsum = "b0323ba22b4fe7a0ef61cae8949379ed98bea923648c54dc9dad0ebb51bddee0"
+sha = "f7b156c773fbfc3b497493b4a994298713604ab364296e8fc32d83d9623402bb"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/btm"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["btm"]
+requires = []
+
+[package.metadata]
+keywords = ["bottom","btm","cli","cross-platform","monitoring","rust","terminal","top","tui"]
+categories = ["Utilities"]
