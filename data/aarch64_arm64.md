@@ -77,7 +77,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32044
+- **Stars:** 32043
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.03 MB
@@ -317,7 +317,7 @@
 - **Description:** An open and reliable container runtime
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
-- **Stars:** 15183
+- **Stars:** 15184
 - **Version:** v1.7.10
 - **Updated:** 2023-11-29T22:28:49Z
 - **Size:** 35.35 MB
@@ -482,7 +482,7 @@
 - **Description:** Instant, easy, and predictable development environments
 - **Author:** jetpack-io
 - **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
-- **Stars:** 6460
+- **Stars:** 6461
 - **Version:** 0.8.2
 - **Updated:** 2023-11-16T23:32:42Z
 - **Size:** 20.71 MB
@@ -782,7 +782,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 55702
+- **Stars:** 55703
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1952,7 +1952,7 @@
 - **Description:** User space WireGuard proxy in Rust
 - **Author:** aramperes
 - **Repository:** [https://github.com/aramperes/onetun](https://github.com/aramperes/onetun)
-- **Stars:** 746
+- **Stars:** 747
 - **Version:** v0.3.5
 - **Updated:** 2023-10-02T22:05:56Z
 - **Size:** 2.21 MB
@@ -2207,7 +2207,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 41550
+- **Stars:** 41551
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -2852,7 +2852,7 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 9105
+- **Stars:** 9106
 - **Version:** v13.0.0-alpha.0
 - **Updated:** 2023-03-27T15:56:31Z
 - **Size:** 3.49 MB
@@ -2882,7 +2882,7 @@
 - **Description:** Find and verify credentials
 - **Author:** trufflesecurity
 - **Repository:** [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-- **Stars:** 12780
+- **Stars:** 12781
 - **Version:** v3.63.2-rc0
 - **Updated:** 2023-11-21T18:46:16Z
 - **Size:** 
