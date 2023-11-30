@@ -1,0 +1,26 @@
+[bin]
+name = "static-web-server"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "static-web-server"
+description = "A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡"
+author = "static-web-server"
+repo = "https://github.com/static-web-server/static-web-server"
+stars = "917"
+version = "v2.24.1"
+updated = "2023-11-14T23:15:43Z"
+size = "6.40 MB"
+bsum = ""
+sha = "0d8df2b3e8795bc8625cfd7ac342043a2898788b092029d1b7968dd4c09b9f91"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/static-web-server"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["static-web-server"]
+requires = []
+
+[package.metadata]
+keywords = ["alpine-linux","amd64","android","arm","arm64","darwin","debian-linux","docker-image","file-server","freebsd","http-server","http2","linux","macos","musl-libc","rust-lang","static-web-server","tls","windows","x86"]
+categories = ["Utilities"]

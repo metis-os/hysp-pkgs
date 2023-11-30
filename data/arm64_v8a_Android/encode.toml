@@ -1,0 +1,26 @@
+[bin]
+name = "encode"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "encode"
+description = "Script to read input from stdin and encode it"
+author = "Brum3ns"
+repo = "https://github.com/Brum3ns/encode"
+stars = "18"
+version = "null"
+updated = ""
+size = "2.49 MB"
+bsum = ""
+sha = "26f44cb289c36a2e6ce4ea48b7cd64c00a3c94c4f81db1f8fc6803aa3b19db47"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/encode"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["encode"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","encoder","payloads","transformation","wordlist"]
+categories = ["Utilities"]

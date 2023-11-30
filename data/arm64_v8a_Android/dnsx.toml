@@ -1,0 +1,26 @@
+[bin]
+name = "dnsx"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "dnsx"
+description = "dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/dnsx"
+stars = "1793"
+version = "v1.1.6"
+updated = "2023-11-11T19:20:44Z"
+size = "24.79 MB"
+bsum = ""
+sha = "3931eb41e9f6159af574f343689d23434a608b47691036ace389796a4a2eb7eb"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/dnsx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dnsx"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","dns-bruteforcer","dns-client","dns-records","dns-resolution","hacktoberfest","wildcard-filtering"]
+categories = ["Utilities"]

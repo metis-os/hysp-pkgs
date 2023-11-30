@@ -1,0 +1,26 @@
+[bin]
+name = "certstream"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "certstream"
+description = " Beg Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "6"
+version = "null"
+updated = ""
+size = "4.48 MB"
+bsum = ""
+sha = "eb6e5267df8e066bc44e501f653609d94ce1dbb3eef2511d2e1e82a1401b6bcf"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/certstream"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["certstream"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","recon","tools"]
+categories = ["Utilities"]

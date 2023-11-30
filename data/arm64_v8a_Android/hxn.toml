@@ -1,20 +1,20 @@
 [bin]
-name = "httpx"
+name = "hxn"
 
 [package]
 architecture = "arm64_v8a_Android"
-name = "httpx"
-description = "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library."
-author = "projectdiscovery"
-repo = "https://github.com/projectdiscovery/httpx"
-stars = "6139"
-version = "v1.3.7"
-updated = "2023-11-13T07:26:10Z"
-size = "40 MB"
+name = "hxn"
+description = "⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal."
+author = "pwnwriter"
+repo = "https://github.com/pwnwriter/haylxon"
+stars = "344"
+version = "v0.1.9"
+updated = "2023-11-03T07:24:19Z"
+size = "6.02 MB"
 bsum = ""
-sha = "74c3eca6323a4466515237796a1c4abe98cbc2fc87d90ba356ea8f976a9621dd"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/httpx"
-language = "Go"
+sha = "70a26ee7ab2ce98e23b245910ef7134592293c29a7b598a7f9e0d2049705a014"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/hxn"
+language = "Rust"
 license = "MIT License"
 
 [package.conditions]
@@ -22,5 +22,5 @@ conflicts  = ["httpx"]
 requires = []
 
 [package.metadata]
-keywords = ["bugbounty","cli","cybersecurity","hacktoberfest","http","lib","osint","pentest-tool","pipeline","ssl-certificate"]
+keywords = ["bug-hunting-tools","hactoberfest","osint","pwnwriter","rust","rustlang","screenshot-utility"]
 categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "hysp"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "hysp"
+description = "📦 An independent package manager that every hacker deserves."
+author = "pwnwriter"
+repo = "https://github.com/pwnwriter/hysp"
+stars = "189"
+version = "v0.1.1"
+updated = "2023-11-26T11:07:49Z"
+size = "3.11 MB"
+bsum = ""
+sha = "11f465f311226875d97e295657dd0331b11bbdbacd9c4418f424c6fe125c43c9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/hysp"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hysp"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","hactoberfest","linux","nix-package-manager","nix-pm","package-manager","pwnwriter","rustlang","unix"]
+categories = ["Utilities"]
