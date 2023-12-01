@@ -6,8 +6,8 @@
 - **Version:** 23.01
 - **Updated:** (2023-06-20)
 - **Size:** 2.88 MB
-- **SHA256SUM:** 68e7b4df7c7890a9b0a87c525d08049cd507b09d60cf1e97db4bd35b89adee80
-- **B3SUM:** 4dcf5ca455e02c7a0eb1c35af41b429d3413845039840fa8a1dfbb0994a5b529
+- **SHA256SUM:** 4dcf5ca455e02c7a0eb1c35af41b429d3413845039840fa8a1dfbb0994a5b529
+- **B3SUM:** 
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/7z
 - **Language:** C++
 - **License:** LGPL-2.1-or-later
