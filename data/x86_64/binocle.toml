@@ -22,5 +22,5 @@ conflicts  = ["binocle"]
 requires = []
 
 [package.metadata]
-keywords = ["binary-data","hacktoberfest","reverse-engineering","visualization"]
+keywords = ["binary-data","reverse-engineering","visualization"]
 categories = ["Utilities"]
