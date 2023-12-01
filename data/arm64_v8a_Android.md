@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 7982
+- **Stars:** 7983
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.07 MB
@@ -146,7 +146,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21583
+- **Stars:** 21584
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.29 MB
@@ -258,7 +258,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1942
+- **Stars:** 1943
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.79 MB
@@ -354,7 +354,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 917
+- **Stars:** 918
 - **Version:** v2.24.1
 - **Updated:** 2023-11-14T23:15:43Z
 - **Size:** 6.40 MB
