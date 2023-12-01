@@ -19,7 +19,7 @@ license = "MIT License"
 
 [package.conditions]
 conflicts  = ["kanha"]
-requires = []
+requires = ["hxn"]
 
 [package.metadata]
 keywords = ["hackers-tools","hacsectools","hactoberfest","offsec-tools","osint","pentesting-suite","pwntools","pwnwriter","recon","unixporn"]
