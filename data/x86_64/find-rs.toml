@@ -1,0 +1,26 @@
+[bin]
+name = "find-rs"
+
+[package]
+architecture = "x86_64"
+name = "find-rs"
+description = "Rust implementation of findutils"
+author = "uutils"
+repo = "https://github.com/uutils/findutils"
+stars = "235"
+version = "0.4.2"
+updated = "2023-07-23T17:18:51Z"
+size = "3.01 MB"
+bsum = "87425d26fceb415062cc05ee5ca5572cd11d6fcb92d194463af2713edad16f5f"
+sha = "1175155fe5f67620a01d1b5b2ec70f21ea3d326f435dc077b583de90e5890990"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/find-rs"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["find-rs"]
+requires = []
+
+[package.metadata]
+keywords = ["cross-platform","findutils","rust"]
+categories = ["Utilities"]

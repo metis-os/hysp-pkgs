@@ -1,0 +1,26 @@
+[bin]
+name = "bombadillo"
+
+[package]
+architecture = "x86_64"
+name = "bombadillo"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "5.20 MB"
+bsum = "6b428b8fe5c74647ad43aa7ef8ebdaba019df388c5e06a64b1880f5d957fe59a"
+sha = "46494e653bae5f22374bc2be7f04b8ed8fa0a8b055edc4276b2aa4347a74be8d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bombadillo"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["bombadillo"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ffufPostprocessing"
+
+[package]
+architecture = "x86_64"
+name = "ffufPostprocessing"
+description = "Golang tool which helps dropping the irrelevant entries from your ffuf result file."
+author = "Damian89"
+repo = "https://github.com/Damian89/ffufPostprocessing"
+stars = "97"
+version = "null"
+updated = ""
+size = "1.96 MB"
+bsum = "360e1ee189e179a2839d5c029fe13fa20b62c9ad0ed85833b27587d2043fb095"
+sha = "dd50494d936f28b04a9e3e3fd7079e5ba2651115a2f260acead949c074ba2485"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ffufPostprocessing"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ffufPostprocessing"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbountyhunting","ffuf","pentest","redteam"]
+categories = ["Utilities"]

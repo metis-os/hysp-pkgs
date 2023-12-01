@@ -1,0 +1,26 @@
+[bin]
+name = "cherrybomb"
+
+[package]
+architecture = "x86_64"
+name = "cherrybomb"
+description = "Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests."
+author = "blst-security"
+repo = "https://github.com/blst-security/cherrybomb"
+stars = "991"
+version = "v1.0.1"
+updated = "2023-11-19T15:05:29Z"
+size = "5.47 MB"
+bsum = "ef3a26a56311bf6a942633ad6426f69ba55d874d90e4bfffbbb801e8f3750f47"
+sha = "c0e9e4423f0ab44c805eb5f434afd5ed23b3304713e0016c4b81b1f8a638af60"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cherrybomb"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["cherrybomb"]
+requires = []
+
+[package.metadata]
+keywords = ["api","api-security","best-practices","blst","business-logic","cli","cyber","cybersecurity","firecracker","http","open-source","openapi","openapi3","security","security-tools","web-sec-scanner","web-security","websecurity"]
+categories = ["Utilities"]

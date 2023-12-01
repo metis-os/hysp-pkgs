@@ -1,0 +1,26 @@
+[bin]
+name = "direnv"
+
+[package]
+architecture = "x86_64"
+name = "direnv"
+description = "unclutter your .profile"
+author = "direnv"
+repo = "https://github.com/direnv/direnv"
+stars = "11116"
+version = "v2.33.0"
+updated = "2023-11-29T14:05:45Z"
+size = "6.50 MB"
+bsum = "73566f8ea439ddf7b736a38bfbe9da2816045a3f9fa7e4a649064d89c37eaf8b"
+sha = "d7747c9855d9734ae0a3f9a5307ea5ecb85b7a8a655e6a48e6fd85f827a31693"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/direnv"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["direnv"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","direnv","environment","fish","shell","shell-extension","tcsh","zsh"]
+categories = ["Utilities"]

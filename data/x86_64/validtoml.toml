@@ -1,0 +1,26 @@
+[bin]
+name = "validtoml"
+
+[package]
+architecture = "x86_64"
+name = "validtoml"
+description = "Command line tool to validate TOML syntax of input file."
+author = "martinlindhe"
+repo = "https://github.com/martinlindhe/validtoml"
+stars = "8"
+version = "0.2.0"
+updated = "2021-06-30T12:29:46Z"
+size = "3.72 MB"
+bsum = "5a64ca1be38898f1d6e75daa49a04ed7607f386dcc46438592e1954e2fde5b31"
+sha = "ab71495602daa45b2e762b75d0d00e28f8425b6d218388b7937c1d62c4c0cf61"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/validtoml"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["validtoml"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line-tool","toml-validation"]
+categories = ["Utilities"]

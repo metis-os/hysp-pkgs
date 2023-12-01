@@ -1,0 +1,26 @@
+[bin]
+name = "byp4xx"
+
+[package]
+architecture = "x86_64"
+name = "byp4xx"
+description = "40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials..."
+author = "lobuhi"
+repo = "https://github.com/lobuhi/byp4xx"
+stars = "1364"
+version = "null"
+updated = ""
+size = "1.74 MB"
+bsum = "fa4dfd939879cbdbee8c57664552bc3a7311a31191cdc2a85292454b2885d368"
+sha = "b758adad367ac2a01bf1fbf2f025fd68b931fd93220de58a31e2cd48a923fead"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/byp4xx"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["byp4xx"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

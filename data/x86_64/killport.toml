@@ -1,0 +1,26 @@
+[bin]
+name = "killport"
+
+[package]
+architecture = "x86_64"
+name = "killport"
+description = "A command-line tool to easily kill processes running on a specified port."
+author = "jkfran"
+repo = "https://github.com/jkfran/killport"
+stars = "1617"
+version = "v0.9.1"
+updated = "2023-07-25T21:24:17Z"
+size = "1.09 MB"
+bsum = "b2ecd4faa23d43c58265e139dc847803bf02d378db5769e9b04227524e71a5a0"
+sha = "95958a953354d71a609166cdd1f02e5ec1238b3fa67eba6ff0bf61debfdd9f64"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/killport"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["killport"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

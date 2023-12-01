@@ -1,0 +1,26 @@
+[bin]
+name = "coreutils"
+
+[package]
+architecture = "x86_64"
+name = "coreutils"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "15683"
+version = "0.0.23"
+updated = "2023-11-14T12:36:32Z"
+size = "7.63 MB"
+bsum = "d7ce8b325306c4334f4b4d77360b04df018831108c681aef5ee42b1a0bf0236e"
+sha = "9c9ab26d89a5812e983a712de73b038b68190cad0b0048a5e877c503a8654c83"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/coreutils"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["coreutils"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

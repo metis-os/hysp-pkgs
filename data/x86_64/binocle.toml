@@ -1,0 +1,26 @@
+[bin]
+name = "binocle"
+
+[package]
+architecture = "x86_64"
+name = "binocle"
+description = "a graphical tool to visualize binary data"
+author = "sharkdp"
+repo = "https://github.com/sharkdp/binocle"
+stars = "956"
+version = "v0.3.1"
+updated = "2023-04-02T12:15:14Z"
+size = "9.20 MB"
+bsum = "5d81da36de9edfd6d726c73321a23fa0600b9d8d0225027265df1ea58ada6c64"
+sha = "4e8283020115f3b778b5d2615d991fa7f035ccb7fb7965324a492cc16d41af2e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/binocle"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["binocle"]
+requires = []
+
+[package.metadata]
+keywords = ["binary-data","hacktoberfest","reverse-engineering","visualization"]
+categories = ["Utilities"]

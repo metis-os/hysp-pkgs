@@ -1,0 +1,26 @@
+[bin]
+name = "maddy"
+
+[package]
+architecture = "x86_64"
+name = "maddy"
+description = "✉️ Composable all-in-one mail server."
+author = "foxcpp"
+repo = "https://github.com/foxcpp/maddy"
+stars = "4407"
+version = "v0.7.0"
+updated = "2023-05-29T20:47:22Z"
+size = "23.19 MB"
+bsum = "7a96a2b91d2fbbe211fe5698128ba5df6ea8332c549f2cac06da2df880d70525"
+sha = "49721cc0063a1ebe4d7c34f5f17482d98420574f5333781af14d17a90128658a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/maddy"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["maddy"]
+requires = []
+
+[package.metadata]
+keywords = ["dkim","dmarc","email","imap","mail","smtp","spf"]
+categories = ["Utilities"]

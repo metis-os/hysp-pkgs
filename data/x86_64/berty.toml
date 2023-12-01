@@ -1,0 +1,26 @@
+[bin]
+name = "berty"
+
+[package]
+architecture = "x86_64"
+name = "berty"
+description = "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network"
+author = "berty"
+repo = "https://github.com/berty/berty"
+stars = "7061"
+version = "v2.469.8"
+updated = "2023-11-27T12:38:46Z"
+size = "72.04 MB"
+bsum = "70f6b8cdacef33af5b30d355428f66568190790b6cfd34350702463401b43cb3"
+sha = "23614a3a6aba90be8d364d52ad26aafb2d4f29169fe19991c9e414f27bdc2467"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/berty"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["berty"]
+requires = []
+
+[package.metadata]
+keywords = ["android","berty","censorship","crdt","cybersecurity","encryption","gomobile","ios","ipfs","libp2p","messaging","mobile-app","monorepo","offline-first","orbitdb","p2p","privacy","react-native","surveillance"]
+categories = ["Utilities"]

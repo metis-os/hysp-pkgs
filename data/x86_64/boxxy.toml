@@ -1,0 +1,26 @@
+[bin]
+name = "boxxy"
+
+[package]
+architecture = "x86_64"
+name = "boxxy"
+description = "boxxy puts bad Linux applications in a box with only their files."
+author = "queer"
+repo = "https://github.com/queer/boxxy"
+stars = "1151"
+version = "v0.8.3"
+updated = "2023-10-30T22:07:53Z"
+size = "5.52 MB"
+bsum = "1bb9ace5218c566ea95c3461377a6cd85cf1365bbbe5442d429c3eee09dc22a0"
+sha = "87e2d89b185db565588e5d771e327f4bcc0eef1cbf052d4e88af31ff2a6d88a7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/boxxy"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["boxxy"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

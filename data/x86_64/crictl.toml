@@ -1,0 +1,26 @@
+[bin]
+name = "crictl"
+
+[package]
+architecture = "x86_64"
+name = "crictl"
+description = "CLI and validation tools for Kubelet Container Runtime Interface (CRI) ."
+author = "kubernetes-sigs"
+repo = "https://github.com/kubernetes-sigs/cri-tools"
+stars = "1457"
+version = "v1.28.0"
+updated = "2023-08-14T07:08:21Z"
+size = "36.46 MB"
+bsum = "f0054d8a658a1feaaaf840c4ae4d8791ffcf4a15bedd244ef5db0a81448d11a7"
+sha = "b317621980953901394533c676f749c329e0df45ccd19ac6ad8b101377626dd2"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crictl"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["crictl"]
+requires = []
+
+[package.metadata]
+keywords = ["containers","k8s-sig-node","kubelet-cri","kubernetes"]
+categories = ["Utilities"]

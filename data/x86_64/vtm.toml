@@ -1,0 +1,26 @@
+[bin]
+name = "vtm"
+
+[package]
+architecture = "x86_64"
+name = "vtm"
+description = "virtual terminal multiplexer"
+author = "directvt"
+repo = "https://github.com/directvt/vtm"
+stars = "1444"
+version = "v0.9.26"
+updated = "2023-11-20T06:31:45Z"
+size = "5.25 MB"
+bsum = "cbee595c4987687ff820135e3c899016f2acbdfe98586d480a8596860f357d34"
+sha = "158480f9778ed415c3ca3550df129feaeea03173371de1a8b8de5c634f2dd5e9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/vtm"
+language = "C++"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["vtm"]
+requires = []
+
+[package.metadata]
+keywords = ["console","multiplexer","terminal"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "gup"
+
+[package]
+architecture = "x86_64"
+name = "gup"
+description = " with goroutines."
+author = "nao1215"
+repo = "https://github.com/nao1215/gup"
+stars = "233"
+version = "v0.24.0"
+updated = "2023-10-17T03:42:58Z"
+size = "4.84 MB"
+bsum = "3f4afc0ea44aa3043000a2d8c629aaac8d0571f71cf6f70dc544de340f02dab6"
+sha = "5d0cc87d6181ff3e462d7c089f0d185d7bc47dbfc98ba2504d95ea3bf47a4744"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gup"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gup"]
+requires = []
+
+[package.metadata]
+keywords = ["cli-app","command-line-tool","cross-platform","go","golang","golang-tools","update","updater"]
+categories = ["Utilities"]

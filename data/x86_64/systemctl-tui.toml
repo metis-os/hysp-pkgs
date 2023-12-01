@@ -1,0 +1,26 @@
+[bin]
+name = "systemctl-tui"
+
+[package]
+architecture = "x86_64"
+name = "systemctl-tui"
+description = "A fast, simple TUI for interacting with systemd services and their logs"
+author = "rgwood"
+repo = "https://github.com/rgwood/systemctl-tui"
+stars = "24"
+version = "null"
+updated = ""
+size = "5.84 MB"
+bsum = "e3c0b735f81c94ce4338029611a494ca404454e9e2cf7facd8c3685b49b534e4"
+sha = "56f5007addeb1f6d2ec6dea8d80c2d71945f9e2ded4b1c09b734dcf687f06433"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/systemctl-tui"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["systemctl-tui"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

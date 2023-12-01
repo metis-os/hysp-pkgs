@@ -1,0 +1,26 @@
+[bin]
+name = "cotp"
+
+[package]
+architecture = "x86_64"
+name = "cotp"
+description = "Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
+author = "replydev"
+repo = "https://github.com/replydev/cotp"
+stars = "130"
+version = "v1.3.0"
+updated = "2023-10-10T20:22:49Z"
+size = "2.28 MB"
+bsum = "a5307847b1b05dd794c7d158f40dd31ec8ece10a0c3fbada5b866470ef83ab48"
+sha = "2d5e22e92d2166766bfb190574d7fa8b0f9fee0e1aeefc3c9a3205d6a2079212"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cotp"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["cotp"]
+requires = []
+
+[package.metadata]
+keywords = ["authentication","authy","clipboard","commandline","google-authenticator","hotp","linux","rust","totp","totp-codes","tui-rs","windows","xchacha20-poly1305"]
+categories = ["Utilities"]
