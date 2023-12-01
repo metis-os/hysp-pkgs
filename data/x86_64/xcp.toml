@@ -4,7 +4,7 @@ name = "xcp"
 [package]
 architecture = "x86_64"
 name = "xcp"
-description = "An extended `cp`"
+description = "An extended cp"
 author = "tarka"
 repo = "https://github.com/tarka/xcp"
 stars = "474"

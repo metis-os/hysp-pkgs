@@ -4,7 +4,7 @@ name = "surf"
 [package]
 architecture = "x86_64"
 name = "surf"
-description = "Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates."
+description = "Escalate your SSRF vulnerabilities on Modern Cloud Environments. surf allows you to filter a list of hosts, returning a list of viable SSRF candidates."
 author = "assetnote"
 repo = "https://github.com/assetnote/surf"
 stars = "410"

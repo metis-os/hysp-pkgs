@@ -4,7 +4,7 @@ name = "mdsh"
 [package]
 architecture = "x86_64"
 name = "mdsh"
-description = "`$ mdsh` # a markdown shell pre-processor"
+description = "$ mdsh # a markdown shell pre-processor"
 author = "zimbatm"
 repo = "https://github.com/zimbatm/mdsh"
 stars = "84"

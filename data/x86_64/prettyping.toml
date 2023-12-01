@@ -4,7 +4,7 @@ name = "prettyping"
 [package]
 architecture = "x86_64"
 name = "prettyping"
-description = "`prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read."
+description = "prettyping is a wrapper around the standard ping tool, making the output prettier, more colorful, more compact, and easier to read."
 author = "denilsonsa"
 repo = "https://github.com/denilsonsa/prettyping"
 stars = "1160"
