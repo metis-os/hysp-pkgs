@@ -22,5 +22,5 @@ conflicts  = ["hysp"]
 requires = []
 
 [package.metadata]
-keywords = ["hacktoberfest","hactoberfest","linux","nix-package-manager","nix-pm","package-manager","pwnwriter","rustlang","unix"]
+keywords = ["bug-bounty","bug-bounty-recon","hactoberfest","linux","package-manager","privelage-escalation","pwnwriter"]
 categories = ["Utilities"]
