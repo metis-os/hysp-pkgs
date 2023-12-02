@@ -4,23 +4,23 @@ name = "subjs"
 [package]
 architecture = "aarch64_arm64"
 name = "subjs"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Fetches javascript file from a list of URLS or subdomains."
+author = "lc"
+repo = "https://github.com/lc/subjs"
+stars = "668"
+version = "v1.0.1"
+updated = "2020-05-16T17:11:45Z"
+size = "4.80 MB"
 bsum = "5126a097cc8f2e3598c65860a5d8e9f75f8beed6dfe8150ae6ae87b138183aa9"
 sha = "fc82db98bda81b7c16f5567cd7102740c4341dcd857b2be03638d81fda062f8f"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/subjs"
+language = "Go"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["subjs"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = []
 categories = ["Utilities"]

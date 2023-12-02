@@ -4,23 +4,23 @@ name = "ruff"
 [package]
 architecture = "aarch64_arm64"
 name = "ruff"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "An extremely fast Python linter and code formatter, written in Rust."
+author = "astral-sh"
+repo = "https://github.com/astral-sh/ruff"
+stars = "20868"
+version = "v0.1.6"
+updated = "2023-11-17T18:52:35Z"
+size = "12.64 MB"
 bsum = "5ffb8d78c5a93bc727a16936cce86cdd48d0005b8dd5ffa68f263047f1f58ed9"
 sha = "ca7098cf64df9f8705786c20559f3c6cb8b458a337030724fdc75bb138ff094f"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ruff"
+language = "Rust"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["ruff"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["linter","pep8","python","python3","ruff","rust","rustpython","static-analysis","static-code-analysis","style-guide","styleguide"]
 categories = ["Utilities"]

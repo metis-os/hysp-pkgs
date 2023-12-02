@@ -4,23 +4,23 @@ name = "bluetuith"
 [package]
 architecture = "aarch64_arm64"
 name = "bluetuith"
-description = "A TUI bluetooth manager for Linux."
-author = "darkhz"
-repo = "https://github.com/darkhz/bluetuith"
-stars = "562"
+description = ""
+author = ""
+repo = ""
+stars = ""
 version = "v0.1.9"
-updated = "2023-11-06T00:56:39Z"
-size = "8.46 MB"
+updated = "null"
+size = ""
 bsum = "e0b653985df13d00e67847ed538e8b52a8bb086900b8df860417833f8527a8f8"
 sha = "6bc4a7a48b27f55c289f162dab7f56fd46c84dd9e2eada5d2ebb936f524deabd"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bluetuith"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["bluetuith"]
 requires = []
 
 [package.metadata]
-keywords = ["bluetooth","bluez","linux","tui"]
+keywords = 
 categories = ["Utilities"]

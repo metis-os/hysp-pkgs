@@ -4,23 +4,23 @@ name = "vhs"
 [package]
 architecture = "aarch64_arm64"
 name = "vhs"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Your CLI home video recorder 📼"
+author = "charmbracelet"
+repo = "https://github.com/charmbracelet/vhs"
+stars = "12367"
+version = "v0.6.0"
+updated = "2023-07-20T19:14:51Z"
+size = "21.34 MB"
 bsum = "039a40ece49df44b3c7f7966f5c808b2659b358ba6057a4be05de6af5ce9f9b0"
 sha = "16f916bc79e0adb3d9990f89745c706c1a2854885989566caac3b7005878b1b8"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/vhs"
+language = "Go"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["vhs"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["ascii","cli","command-line","gif","recording","terminal","vhs","video"]
 categories = ["Utilities"]

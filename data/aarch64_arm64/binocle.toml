@@ -4,23 +4,23 @@ name = "binocle"
 [package]
 architecture = "aarch64_arm64"
 name = "binocle"
-description = "a graphical tool to visualize binary data"
-author = "sharkdp"
-repo = "https://github.com/sharkdp/binocle"
-stars = "960"
-version = "v0.3.2"
-updated = "2023-12-01T13:12:23Z"
-size = "4.89 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "173811d218692b1e349b38c1758bcbadfa1c27fc32a987cbcbb601404759d89f"
 sha = "1a42c5f005a608e73024273b62964be64f1d804de6c487dc1e84c3dfa179a2f0"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/binocle"
-language = "Rust"
-license = "Apache License 2.0"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["binocle"]
 requires = []
 
 [package.metadata]
-keywords = ["binary-data","reverse-engineering","visualization"]
+keywords = 
 categories = ["Utilities"]

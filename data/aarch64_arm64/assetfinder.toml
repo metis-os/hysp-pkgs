@@ -4,23 +4,23 @@ name = "assetfinder"
 [package]
 architecture = "aarch64_arm64"
 name = "assetfinder"
-description = "Find domains and subdomains related to a given domain"
-author = "tomnomnom"
-repo = "https://github.com/tomnomnom/assetfinder"
-stars = "2661"
-version = "v0.1.1"
-updated = "2020-04-15T10:38:43Z"
-size = "4.57 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "58cf9f32d55fd6d7e5d4bae1842e5902d3d1d87ff38e686beb007e6a6db2acda"
 sha = "febe9f199a36786afa002f458a998ec30409e56bc3785e651eb0d75f2e0781ea"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/assetfinder"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["assetfinder"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = 
 categories = ["Utilities"]

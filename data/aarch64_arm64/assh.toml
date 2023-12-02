@@ -4,23 +4,23 @@ name = "assh"
 [package]
 architecture = "aarch64_arm64"
 name = "assh"
-description = ":computer: make your ssh client smarter"
-author = "moul"
-repo = "https://github.com/moul/assh"
-stars = "2906"
-version = "v2.16.0"
-updated = "2023-10-02T09:04:34Z"
-size = "7.72 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "460b2bc17f303e4e5863de9f25497649026b134821698efdaf02f614fe0f7b15"
 sha = "0d44ab2ce891c84d2a654cda8db310565ce224ae7ccf45528777a9830181edd0"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/assh"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["assh"]
 requires = []
 
 [package.metadata]
-keywords = ["automation","config","config-management","devops","proxy","ssh"]
+keywords = 
 categories = ["Utilities"]

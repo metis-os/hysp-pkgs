@@ -4,23 +4,23 @@ name = "airixss"
 [package]
 architecture = "aarch64_arm64"
 name = "airixss"
-description = "Finding XSS during recon"
-author = "ferreiraklet"
-repo = "https://github.com/ferreiraklet/airixss"
-stars = "212"
-version = "att"
-updated = "2022-09-13T20:15:47Z"
-size = "4.55 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "4e0a8a5b941ecf8fc84c57c6b54ab788acb6608f77ccb61aa2b41caf8da915d2"
 sha = "3fd60aac603fa1e4ca9a59c6a55a858377fcadcb661f95933a6bee77b6b36cf5"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/airixss"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["airixss"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = 
 categories = ["Utilities"]

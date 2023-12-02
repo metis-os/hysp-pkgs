@@ -4,23 +4,23 @@ name = "tz"
 [package]
 architecture = "aarch64_arm64"
 name = "tz"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "🌐 A time zone helper"
+author = "oz"
+repo = "https://github.com/oz/tz"
+stars = "775"
+version = "v0.6.3"
+updated = "2023-01-16T17:34:58Z"
+size = "2.37 MB"
 bsum = "b757a5f95a5c71a528fb1b7528817403b5edf5daea2a27be6ae042c5285a4909"
 sha = "93b63072e4a2e2839d74056bcc663dcb0b59203f73ad09498ba0e6f02c252f97"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tz"
+language = "Go"
+license = "GNU General Public License v3.0"
 
 [package.conditions]
 conflicts  = ["tz"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["timezone","tzdata","zone-helper"]
 categories = ["Utilities"]

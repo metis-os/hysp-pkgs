@@ -4,23 +4,23 @@ name = "b3sum"
 [package]
 architecture = "aarch64_arm64"
 name = "b3sum"
-description = "the official Rust and C implementations of the BLAKE3 cryptographic hash function"
-author = "BLAKE3-team"
-repo = "https://github.com/BLAKE3-team/BLAKE3"
-stars = "4354"
-version = "1.5.0"
-updated = "2023-09-21T03:35:48Z"
-size = "0.73 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "bb6668c0d43c849f85cb9ee1d915a256b1e3e7fc2c550686a58401c4bd72355d"
 sha = "ad8a8fa2b6c81a446bcc4586f46c8aa362b002272d6220a52b8659cc8c7f4af1"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/b3sum"
-language = "Assembly"
-license = "Other"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["b3sum"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = 
 categories = ["Utilities"]

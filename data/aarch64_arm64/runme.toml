@@ -4,23 +4,23 @@ name = "runme"
 [package]
 architecture = "aarch64_arm64"
 name = "runme"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Execute your runbooks, docs, and READMEs."
+author = "stateful"
+repo = "https://github.com/stateful/runme"
+stars = "640"
+version = "v2.0.4"
+updated = "2023-12-01T18:58:27Z"
+size = "20.64 MB"
 bsum = "45dccbd8dd6caeb138f6069ba5914ae6fe1e144ee86f1c3317cf6d20015425da"
 sha = "80eea1a5ce1ccfaf3e6586eb5af6f440ea83210a62da5062a8176e6297da281a"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/runme"
+language = "Go"
+license = "Apache License 2.0"
 
 [package.conditions]
 conflicts  = ["runme"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = []
 categories = ["Utilities"]

@@ -4,23 +4,23 @@ name = "bandwhich"
 [package]
 architecture = "aarch64_arm64"
 name = "bandwhich"
-description = "Terminal bandwidth utilization tool"
-author = "imsnif"
-repo = "https://github.com/imsnif/bandwhich"
-stars = "8318"
-version = "v0.21.1"
-updated = "2023-10-16T01:40:32Z"
-size = "2.00 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "d66649adc5bbffc3a5a90c24bb1d93a3b89930a03e6aa42eea4001760520873d"
 sha = "edad921742e3a9fa7b9cd3dcbac8176655f83fbc30fd39a4861be1094bdac6fb"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bandwhich"
-language = "Rust"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["bandwhich"]
 requires = []
 
 [package.metadata]
-keywords = ["bandwidth","cli","dashboard","networking"]
+keywords = 
 categories = ["Utilities"]

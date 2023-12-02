@@ -4,23 +4,23 @@ name = "bin"
 [package]
 architecture = "aarch64_arm64"
 name = "bin"
-description = "Effortless binary manager"
-author = "marcosnils"
-repo = "https://github.com/marcosnils/bin"
-stars = "553"
-version = "v0.17.2"
-updated = "2023-10-03T08:53:02Z"
-size = "14.00 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "d4db6cf4f5ed513bf108071d39ac22909512945ddcd1e8e7503489969b92ef36"
 sha = "a08ffc49eccf941b75569e84e43dcfab30792f8c92aa9537bd07505963b2444b"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bin"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["bin"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = 
 categories = ["Utilities"]
