@@ -2937,15 +2937,24 @@ jobs:
            cd "$GITHUB_WORKSPACE/main" && git pull origin main
         continue-on-error: true
 
-      - name: Validate TOML
+      - name: Validate toml
         run: |
-           #Presets
-           set -x ; set +e ; ulimit -S -s unlimited
-           #--------------#
-           cd "$GITHUB_WORKSPACE/main"
-           #Check
-           #for file in "$GITHUB_WORKSPACE/main/data/aarch64_arm64" ; do [ -f "$file" ] && validtoml --quiet "$file"; done
-           find "$GITHUB_WORKSPACE/main/data/aarch64_arm64" -type f -name '*.toml' -exec validtoml --quiet {} \; 2>/dev/null
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "$GITHUB_WORKSPACE/main/data"
+          #find . -type f -name '*.toml' -exec validtoml {} \;
+          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "yaml" {} 1>/dev/null \;
+        continue-on-error: true
+
+      - name: Validate source
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "$GITHUB_WORKSPACE/main/data"
+          #find . -type f -name '*.toml' -exec validtoml {} \;
+          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "json" {} 2>/dev/null \; | jq -r 'select(.package.source == "") | .package.architecture + " ❯ " + .package.name + " ✗ " + .package.source' | sort -u
         continue-on-error: true
 
       - name: Update Available Index (JSON || TOML)
