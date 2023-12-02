@@ -38,7 +38,7 @@
       "description": "A monitor of resources",
       "author": "aristocratos",
       "repo": "https://github.com/aristocratos/btop",
-      "stars": "14106",
+      "stars": "14107",
       "version": "v1.2.13",
       "updated": "2022-11-06T21:36:41Z",
       "size": "",
@@ -7586,22 +7586,6 @@
     },
     {
       "architecture": "x86_64",
-      "name": "git-cvsserver",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "author": "git",
-      "repo": "https://github.com/git/git",
-      "stars": "48037",
-      "version": "v2.43.0",
-      "updated": "null",
-      "size": "",
-      "bsum": "",
-      "sha": "",
-      "source": "",
-      "language": "C",
-      "license": "Other"
-    },
-    {
-      "architecture": "x86_64",
       "name": "git-lfs",
       "description": "Git extension for versioning large files",
       "author": "git-lfs",
@@ -7855,22 +7839,6 @@
       "source": "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/godns",
       "language": "Go",
       "license": "Apache License 2.0"
-    },
-    {
-      "architecture": "x86_64",
-      "name": "gofastld",
-      "description": "go-fasttld is a high performance effective top level domains (eTLD) extraction module.",
-      "author": "elliotwutingfeng",
-      "repo": "https://github.com/elliotwutingfeng/go-fasttld",
-      "stars": "24",
-      "version": "v0.4.4",
-      "updated": "2023-03-18T03:52:09Z",
-      "size": "",
-      "bsum": "",
-      "sha": "",
-      "source": "",
-      "language": "Go",
-      "license": "BSD 3-Clause New or Revised License"
     },
     {
       "architecture": "x86_64",
@@ -8527,22 +8495,6 @@
       "source": "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/just",
       "language": "Rust",
       "license": "Creative Commons Zero v1.0 Universal"
-    },
-    {
-      "architecture": "x86_64",
-      "name": "jwthack",
-      "description": "🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)",
-      "author": "hahwul",
-      "repo": "https://github.com/hahwul/jwt-hack",
-      "stars": "693",
-      "version": "v1.1.2",
-      "updated": "2021-12-24T17:00:39Z",
-      "size": "",
-      "bsum": "",
-      "sha": "",
-      "source": "",
-      "language": "Go",
-      "license": "MIT License"
     },
     {
       "architecture": "x86_64",
