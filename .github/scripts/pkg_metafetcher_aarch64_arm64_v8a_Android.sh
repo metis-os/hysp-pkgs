@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+##Debug
+#set -x ; set +e
+
 ###ENV (Exported or passed Inline)
 # #Example:
 # export GITHUB_TOKEN="$UNDERPRIVILEGED_READ_ONLY_GH_TOKEN" #Required to get around github api rate limits
@@ -21,6 +24,9 @@ if [[ -z "$GITHUB_TOKEN" ]]; then
    exit 1
 fi
 
+#Ulimit
+ulimit -S -s unlimited 2>/dev/null
+ulimit -f unlimited 2>/dev/null
 #Fetch raw json
 # For size & actual source url
 PKG_METADATA="$(curl -qfsSL "https://api.github.com/repos/$SOURCE_BIN/contents/aarch64_arm64_v8a_Android/$BIN" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | jq '.content=""')" && export PKG_METADATA="$PKG_METADATA"
