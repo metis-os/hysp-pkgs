@@ -57,7 +57,7 @@ jobs:
           set +x ; set +e
           #--------------#
           #Generate Basic Meta
-          export ; export SOURCE_BIN="Azathothas/Toolpacks" ;
+          export SOURCE_BIN="Azathothas/Toolpacks"
           export BIN="7z" ; export DESCRIPTION="7-Zip is a file archiver with a high compression ratio." ;  export AUTHOR="Igor Pavlov" ; export REPO_URL="https://sourceforge.net/projects/sevenzip/" ; export STARS="" ; export SOURCE_URL="https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/7z" ; export LANGUAGE="C++" ; export LICENSE="LGPL-2.1-or-later" ; export TOPICS='["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]'
           PKG_METADATA="$(curl -qfsSL "https://api.github.com/repos/$; export SOURCE_BIN/contents/aarch64_arm64 ;/$BIN" -H "Authorization: Bearer $GITHUB_TOKEN")" && export PKG_METADATA="$PKG_METADATA" 
           #Generate Dynamic Meta
