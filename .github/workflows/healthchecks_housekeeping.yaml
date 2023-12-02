@@ -68,7 +68,9 @@ jobs:
           set -x ; set +e
           #--------------#
           cd "$GITHUB_WORKSPACE/main/data/aarch64_arm64"
-          find . -type f -name '*.toml' -exec validtoml {} \;
+          validtoml -h
+          #find . -type f -name '*.toml' -exec validtoml {} \;
+          result="$(find . -type f -name '*.toml' -exec validtoml --quiet {} \;)" && echo "$result"
         continue-on-error: true
         
      # - name: Git Pull
