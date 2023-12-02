@@ -65,10 +65,10 @@ jobs:
       - name: Validtoml
         run: |
           #Presets
-          set +x ; set +e
+          set -x ; set +e
           #--------------#
-          cd "$GITHUB_WORKSPACE/main"
-          find "$GITHUB_WORKSPACE/main/data/aarch64_arm64" -type f -name '*.toml' -exec validtoml --quiet {} \;
+          cd "$GITHUB_WORKSPACE/main/data/aarch64_arm64"
+          find . -type f -name '*.toml' -exec validtoml --quiet {} \;
         continue-on-error: true
         
      # - name: Git Pull
