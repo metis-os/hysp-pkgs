@@ -4,23 +4,23 @@ name = "watchexec"
 [package]
 architecture = "aarch64_arm64"
 name = "watchexec"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Executes commands in response to file modifications"
+author = "watchexec"
+repo = "https://github.com/watchexec/watchexec"
+stars = "4408"
+version = "v1.23.0"
+updated = "2023-08-30T06:35:16Z"
+size = "6.54 MB"
 bsum = "ee37a643a70553fdc9bd20ed80d70e4b245e9b48c583778c6e6a8ac8937e46b3"
 sha = "4dc2563afe22cccffdc0bc9e52530fb1fd7a4c8938bb1a78013c0bf281619c48"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/watchexec"
+language = "Rust"
+license = "Apache License 2.0"
 
 [package.conditions]
 conflicts  = ["watchexec"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["command-line","developer-tools","file-watchers","linux","macos","rust","windows"]
 categories = ["Utilities"]
