@@ -67,15 +67,6 @@ jobs:
           #--------------#
           BIN="btm" REPO="ClementTsang/bottom" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
         continue-on-error: true
-     #----------------------------#
-     #btop : htop clone | A monitor of resources 
-      - name: Generate Meta (btop)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="btop" REPO="aristocratos/btop" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
-        continue-on-error: true
      #----------------------------# 
      #certstream : Cli for calidog's certstream
       - name: Generate Meta (certstream )
@@ -289,15 +280,24 @@ jobs:
            cd "$GITHUB_WORKSPACE/main" && git pull origin main
         continue-on-error: true
 
-      - name: Validate TOML
+      - name: Validate toml
         run: |
-           #Presets
-           set -x ; set +e ; ulimit -S -s unlimited
-           #--------------#
-           cd "$GITHUB_WORKSPACE/main"
-           #Check
-           #for file in "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android" ; do [ -f "$file" ] && validtoml --quiet "$file"; done
-           find "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android" -type f -name '*.toml' -exec validtoml --quiet {} \; 2>/dev/null
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "$GITHUB_WORKSPACE/main/data"
+          #find . -type f -name '*.toml' -exec validtoml {} \;
+          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "yaml" {} 1>/dev/null \;
+        continue-on-error: true
+
+      - name: Validate source
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "$GITHUB_WORKSPACE/main/data"
+          #find . -type f -name '*.toml' -exec validtoml {} \;
+          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "json" {} 2>/dev/null \; | jq -r 'select(.package.source == "") | .package.architecture + " ❯ " + .package.name + " ✗ " + .package.source' | sort -u
         continue-on-error: true
 
       - name: Update Available Index (JSON || TOML)
