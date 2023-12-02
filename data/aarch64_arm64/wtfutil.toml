@@ -1,0 +1,26 @@
+[bin]
+name = "wtfutil"
+
+[package]
+architecture = "aarch64_arm64"
+name = "wtfutil"
+description = "The personal information dashboard for your terminal"
+author = "wtfutil"
+repo = "https://github.com/wtfutil/wtf"
+stars = "15178"
+version = "v0.43.0"
+updated = "2023-02-24T05:34:48Z"
+size = "58.24 MB"
+bsum = "e5f470883a6a6d5569781a383ba8a1d1a64ea1ea7d8e1b65c833d42cad76dbe2"
+sha = "a635e0fcb3d199dc4327e40de55bc186483aa3fcfa4f21f55094634fef29032a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wtfutil"
+language = "Go"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["wtfutil"]
+requires = []
+
+[package.metadata]
+keywords = ["cui","dashboard","devops","go","golang","hacktoberfest","terminal","tui","wtf","wtfutil"]
+categories = ["Utilities"]

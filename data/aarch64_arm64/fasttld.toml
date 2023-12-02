@@ -1,0 +1,26 @@
+[bin]
+name = "fasttld"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fasttld"
+description = "go-fasttld is a high performance effective top level domains (eTLD) extraction module."
+author = "elliotwutingfeng"
+repo = "https://github.com/elliotwutingfeng/go-fasttld"
+stars = "24"
+version = "v0.4.4"
+updated = "2023-03-18T03:52:09Z"
+size = "6.66 MB"
+bsum = "777480412ad372f6e598fea803bed3cbd1a1de3345145a237d4db8d74b585eee"
+sha = "4d2554ca89848b4d00f1110109569b45c383ec4091e6078785ee7301412eabce"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fasttld"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["fasttld"]
+requires = []
+
+[package.metadata]
+keywords = ["compressed-trie","etld","extract","golang","hacktoberfest","idn","idna","ipv4","ipv6","mozilla","osint","parser","public","public-suffix-list","punycode","radix-tree","suffix","tld","tldextract","url"]
+categories = ["Utilities"]
