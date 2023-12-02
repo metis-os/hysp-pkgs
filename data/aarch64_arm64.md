@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32069
+- **Stars:** 32070
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.03 MB
@@ -242,7 +242,7 @@
 - **Description:** Go CLI and Library for quickly mapping organization network ranges using ASN information.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap)
-- **Stars:** 555
+- **Stars:** 556
 - **Version:** v1.0.6
 - **Updated:** 2023-11-09T14:08:16Z
 - **Size:** 20.03 MB
@@ -306,7 +306,7 @@
 - **Description:** the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - **Author:** BLAKE3-team
 - **Repository:** [https://github.com/BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-- **Stars:** 4354
+- **Stars:** 4355
 - **Version:** 1.5.0
 - **Updated:** 2023-09-21T03:35:48Z
 - **Size:** 0.73 MB
@@ -482,7 +482,7 @@
 - **Description:** Userspace WireGuard® Implementation in Rust
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/boringtun](https://github.com/cloudflare/boringtun)
-- **Stars:** 5523
+- **Stars:** 5524
 - **Version:** boringtun-cli-0.5.2
 - **Updated:** 2022-07-20T17:04:19Z
 - **Size:** 1.07 MB
@@ -786,7 +786,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 15687
+- **Stars:** 15688
 - **Version:** 0.0.23
 - **Updated:** 2023-11-14T12:36:32Z
 - **Size:** 
@@ -1378,7 +1378,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 3922
+- **Stars:** 3923
 - **Version:** v0.16.2
 - **Updated:** 2023-11-30T04:59:02Z
 - **Size:** 1.52 MB
@@ -2914,7 +2914,7 @@
 - **Description:** 👾 Fast and simple video download library and CLI tool written in Go
 - **Author:** iawia002
 - **Repository:** [https://github.com/iawia002/lux](https://github.com/iawia002/lux)
-- **Stars:** 22624
+- **Stars:** 22625
 - **Version:** v0.22.0
 - **Updated:** 2023-11-06T05:54:09Z
 - **Size:** 16.49 MB
@@ -3234,7 +3234,7 @@
 - **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/nerdctl](https://github.com/containerd/nerdctl)
-- **Stars:** 6850
+- **Stars:** 6851
 - **Version:** v1.7.1
 - **Updated:** 2023-11-30T08:58:28Z
 - **Size:** 22.48 MB
@@ -3506,7 +3506,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 19903
+- **Stars:** 19904
 - **Version:** v4.8.0
 - **Updated:** 2023-11-27T19:49:05Z
 - **Size:** 26.82 MB
@@ -3746,7 +3746,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41393
+- **Stars:** 41396
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -4178,7 +4178,7 @@
 - **Description:** a drop-in replacement for Nmap powered by shodan.io
 - **Author:** s0md3v
 - **Repository:** [https://github.com/s0md3v/Smap](https://github.com/s0md3v/Smap)
-- **Stars:** 2626
+- **Stars:** 2627
 - **Version:** 0.1.12
 - **Updated:** 2022-11-13T21:50:58Z
 - **Size:** 13.45 MB
