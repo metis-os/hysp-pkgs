@@ -1,0 +1,26 @@
+[bin]
+name = "lux"
+
+[package]
+architecture = "aarch64_arm64"
+name = "lux"
+description = "👾 Fast and simple video download library and CLI tool written in Go"
+author = "iawia002"
+repo = "https://github.com/iawia002/lux"
+stars = "22623"
+version = "v0.22.0"
+updated = "2023-11-06T05:54:09Z"
+size = "16.49 MB"
+bsum = "2a5e302e03cb55be60473f6e3d2216d1779688eb100da61aab82cf8151c5f857"
+sha = "c27331fa335a05bbf14f6e0aaae63b9737a39e9e911c24014c86f27f65aea504"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/lux"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["lux"]
+requires = []
+
+[package.metadata]
+keywords = ["bilibili","crawler","download","downloader","go","golang","iqiyi","qq","scraper","tumblr","video","youku","youtube"]
+categories = ["Utilities"]

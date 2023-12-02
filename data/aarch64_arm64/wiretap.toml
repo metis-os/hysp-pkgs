@@ -4,23 +4,23 @@ name = "wiretap"
 [package]
 architecture = "aarch64_arm64"
 name = "wiretap"
-description = "Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run."
-author = "sandialabs"
-repo = "https://github.com/sandialabs/wiretap"
-stars = "700"
-version = "v0.4.2"
-updated = "2023-11-12T02:50:09Z"
-size = "13.48 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "bc46c491d429eded38291208caeadeca9705edba8b1b2e8bfa0d9e457811e466"
 sha = "f7eaa3f03fe0b1bb783e8848335136247fcaed25e1474ff43fe7a1d64a569563"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wiretap"
-language = "Go"
-license = "Other"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["wiretap"]
 requires = []
 
 [package.metadata]
-keywords = ["golang","infosec","proxy","snl-cyber-sec","tunnel","vpn","wireguard"]
+keywords = 
 categories = ["Utilities"]

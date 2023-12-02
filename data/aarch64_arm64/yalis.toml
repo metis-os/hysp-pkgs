@@ -4,23 +4,23 @@ name = "yalis"
 [package]
 architecture = "aarch64_arm64"
 name = "yalis"
-description = "Yet Another LinkedIn Scraper"
-author = "EatonChips"
-repo = "https://github.com/EatonChips/yalis"
-stars = "29"
-version = "null"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
 updated = ""
-size = "5.88 MB"
-bsum = "7be1b779a90a25cd109d9d7b5fe6e93479a6b533117d2fc4cb226619c0f0d5c5"
-sha = "3f468eb500e018ed99d366912a23b62d8a37b6d4eff8a6c7c0ed719115d6e2eb"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yalis"
-language = "Go"
-license = "GNU General Public License v3.0"
+size = ""
+bsum = "2bb821afbbc65c412cbd5043fdd6372373534459b0adc8d1ec83e4f92d13253c"
+sha = "5ddba06be1d0ca2b6249f671035da0cbe66fae7c9ff984200af8b5ba330c0f0f"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["yalis"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = 
 categories = ["Utilities"]

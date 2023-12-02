@@ -4,23 +4,23 @@ name = "surf"
 [package]
 architecture = "aarch64_arm64"
 name = "surf"
-description = "Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates."
-author = "assetnote"
-repo = "https://github.com/assetnote/surf"
-stars = "410"
-version = "v0.0.5"
-updated = "2023-06-17T07:23:34Z"
-size = "31.78 MB"
-bsum = "7cd666c4c99b3566a48bf8035be1f5006e5a6cbeb90db25805793465f360fbf2"
-sha = "b5d64bc1f5f04fdb27ed6d43291035d971117ec9b4d065bfedb677a4b32ed8de"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/surf"
-language = "Go"
-license = "null"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "c589451afae3df531b17281bff85a258e6be24acfd060916f58c01715be44edd"
+sha = "984a8f71e2bf4e44d09c953f689034d0ab951f0999724c959c11228c8651d88a"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["surf"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = 
 categories = ["Utilities"]

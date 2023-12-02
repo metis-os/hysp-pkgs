@@ -1,0 +1,26 @@
+[bin]
+name = "fq"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fq"
+description = "jq for binary formats - tool, language and decoders for working with binary and text formats"
+author = "wader"
+repo = "https://github.com/wader/fq"
+stars = "9022"
+version = "v0.9.0"
+updated = "2023-11-25T17:53:02Z"
+size = "10.48 MB"
+bsum = "e3a19202bbefb197d42c42ed781a9d39875a1529951f622818ce8996ba34f9d5"
+sha = "667bc067eaf76d0ca53964ef597c31a25bd857b43f7d37f53f1222a44a150616"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fq"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["fq"]
+requires = []
+
+[package.metadata]
+keywords = ["binary","cli","decode","go","golang","hexdump","jq","json","pcap","query","repl","tls","xml"]
+categories = ["Utilities"]

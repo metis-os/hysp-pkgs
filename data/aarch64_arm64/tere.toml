@@ -4,23 +4,23 @@ name = "tere"
 [package]
 architecture = "aarch64_arm64"
 name = "tere"
-description = "Terminal file explorer"
-author = "mgunyho"
-repo = "https://github.com/mgunyho/tere"
-stars = "1560"
-version = "v1.5.1"
-updated = "2023-08-24T18:54:12Z"
-size = "2.21 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "30f608d9126b445e755344c52f74358213808eb1f5db1a8eb42af73b6573e49b"
 sha = "b43a0ce6e65fa6c8b3be469cb500bc27579884db5b0a65768a85d356f9d53252"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tere"
-language = "Rust"
-license = "European Union Public License 1.2"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["tere"]
 requires = []
 
 [package.metadata]
-keywords = ["file-explorer","rust","terminal","tui"]
+keywords = 
 categories = ["Utilities"]

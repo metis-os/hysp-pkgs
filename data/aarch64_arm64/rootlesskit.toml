@@ -1,0 +1,26 @@
+[bin]
+name = "rootlesskit"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rootlesskit"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "1db785ba95b527f0a4669417cb16759804fb9af070cc3790c73fd0994efb7b1a"
+sha = "d69a139252505aaa016e2ecc4499e03366803f3b981d820c2c7cf81ed1add0ef"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["rootlesskit"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

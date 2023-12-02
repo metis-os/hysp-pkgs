@@ -1,0 +1,26 @@
+[bin]
+name = "gofireprox"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gofireprox"
+description = "FireProx written in Go"
+author = "mr-pmillz"
+repo = "https://github.com/mr-pmillz/gofireprox"
+stars = "15"
+version = "v0.1.3"
+updated = "2023-11-21T18:46:53Z"
+size = "6.56 MB"
+bsum = "6a4ea2ebbe76fe7c26118233a49c4082a87c3015a07095e4537dc79dd9dc550b"
+sha = "ab0cb1c8e893e6994c945cdee53c0dc059d053c5818768810b5004bb6922f1b8"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gofireprox"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["gofireprox"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

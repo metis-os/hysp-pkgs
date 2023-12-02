@@ -1,0 +1,26 @@
+[bin]
+name = "dropbearconvert"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dropbearconvert"
+description = "Dropbear SSH"
+author = "mkj"
+repo = "https://github.com/mkj/dropbear"
+stars = "1428"
+version = "DROPBEAR_2022.83"
+updated = "2022-11-14T14:05:56Z"
+size = "0.89 MB"
+bsum = "dcb3aaad34b1faf559da828d7de410727217c1fb1116dbb798eefbd9065737ce"
+sha = "a8fd6189590c6fd5a86e3eb3650b4dcebbd37e2df35606525b08a9520a5009ec"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/dropbearconvert"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["dropbearconvert"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

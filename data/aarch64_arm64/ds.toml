@@ -1,0 +1,26 @@
+[bin]
+name = "ds"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ds"
+description = "(fastest?) disk usage cli, similar to windirstat."
+author = "scullionw"
+repo = "https://github.com/scullionw/dirstat-rs"
+stars = "138"
+version = "v0.3.7"
+updated = "2021-12-31T02:09:19Z"
+size = "0.70 MB"
+bsum = "49e03e067d8f6b44d42d3fb5677482ce4e664632377c43c23bee4283cf47cbdc"
+sha = "4e60a6e0952a9d473fa53a47296e4747ded7f446ea9cae76a5bde9868ded5361"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ds"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ds"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

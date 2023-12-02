@@ -1,0 +1,26 @@
+[bin]
+name = "vtm"
+
+[package]
+architecture = "aarch64_arm64"
+name = "vtm"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "f88157f10722b3c57d739d66f3391829425aa98d9ad0fe59f8bf5e60392f0f32"
+sha = "f12710073b07f4dd41a8e3f13e0476930815742f94daad1147071210629a7408"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["vtm"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

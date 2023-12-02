@@ -1,0 +1,26 @@
+[bin]
+name = "usql"
+
+[package]
+architecture = "aarch64_arm64"
+name = "usql"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "fb205990253efb7542fb4db2569c4b4661a8661de865fcf42ed950756172f62a"
+sha = "ce2efa824f88e9c28eb474dfd1b89e04114cfd3a729c461cbb6fb43fabddd625"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["usql"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

@@ -4,23 +4,23 @@ name = "smap"
 [package]
 architecture = "aarch64_arm64"
 name = "smap"
-description = "a drop-in replacement for Nmap powered by shodan.io"
-author = "s0md3v"
-repo = "https://github.com/s0md3v/Smap"
-stars = "2625"
-version = "0.1.12"
-updated = "2022-11-13T21:50:58Z"
-size = "13.45 MB"
-bsum = "00e9ef79cd57e83fcdb527f707f3ec5c2bc9fc316d5bb7ebcebf8b035b70cf0b"
-sha = "c69a443ffeb1d82afab1570025b0d223af76d38e6040c3fe80892c849a14caa0"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/smap"
-language = "Go"
-license = "GNU Affero General Public License v3.0"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "65bbc864a9e8e2b89ca6f847fa818abc238140ed7ca20a227e616dab654a1a34"
+sha = "aafa8a1e976f1c2528241c5c704714f6598b8c232fa3ca4a4f5afccf5142792a"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["smap"]
 requires = []
 
 [package.metadata]
-keywords = ["network-scanner","network-security","nmap","nmap-alternative","port-scanner","port-scanning","scanner","scanning"]
+keywords = 
 categories = ["Utilities"]

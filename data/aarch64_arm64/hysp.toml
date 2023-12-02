@@ -1,0 +1,26 @@
+[bin]
+name = "hysp"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hysp"
+description = "📦 An independent package manager that every hacker deserves."
+author = "pwnwriter"
+repo = "https://github.com/pwnwriter/hysp"
+stars = "234"
+version = "v0.1.1"
+updated = "2023-11-26T11:07:49Z"
+size = "3.04 MB"
+bsum = "cdf617f28c2906822223057762b6d257b205a1569f5f09072c9598182234b85a"
+sha = "48f1b53f536e266cf9e6686211120a53fc76cd236766063d3af61cdd1de0f906"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hysp"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hysp"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","hactoberfest","linux","package-manager","privelage-escalation","pwnwriter"]
+categories = ["Utilities"]

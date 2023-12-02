@@ -1,0 +1,26 @@
+[bin]
+name = "fingerprintx"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fingerprintx"
+description = "Standalone utility for service discovery on open ports!"
+author = "praetorian-inc"
+repo = "https://github.com/praetorian-inc/fingerprintx"
+stars = "454"
+version = "v1.1.12"
+updated = "2023-11-27T16:05:18Z"
+size = "7.07 MB"
+bsum = "9cd524a0254f6b6efa33baaf8dd9d1fe4198cebfb2b73fda19ec94382c00a7f3"
+sha = "24d5235e446af6062633f38876c62f618e1d9a4c6d294e96d82c0ade5be17838"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fingerprintx"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["fingerprintx"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

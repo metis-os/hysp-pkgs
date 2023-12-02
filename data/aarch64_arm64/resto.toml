@@ -1,0 +1,26 @@
+[bin]
+name = "resto"
+
+[package]
+architecture = "aarch64_arm64"
+name = "resto"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "7b5cda2e18f95b8761a3c222181792648d552a055a3f3cd5765756b84462ffd8"
+sha = "2e5509eb45049deea7554eb2c77d6a3d627fa3b0b27ff08ba1d1de795cac8be6"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["resto"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

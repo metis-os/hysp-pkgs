@@ -4,23 +4,23 @@ name = "sake"
 [package]
 architecture = "aarch64_arm64"
 name = "sake"
-description = ":robot: sake is a task runner for local and remote hosts"
-author = "alajmo"
-repo = "https://github.com/alajmo/sake"
-stars = "627"
-version = "v0.15.1"
-updated = "2023-09-25T10:00:13Z"
-size = "7.03 MB"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
 bsum = "9ba4e9944b86ed528017f189d9a6a462ad5aa964a952029d329cab33c017529c"
 sha = "b7438259e4a73754db4f548d90de49016890567f7190dbe2a79722a9149110c1"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/sake"
-language = "Go"
-license = "MIT License"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["sake"]
 requires = []
 
 [package.metadata]
-keywords = ["cli","config","golang","server","ssh"]
+keywords = 
 categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "boltconn"
+
+[package]
+architecture = "aarch64_arm64"
+name = "boltconn"
+description = "Transparent and flexible L4/L7 networking manager, supporting WireGuard, firewall and scripted MitM."
+author = "XOR-op"
+repo = "https://github.com/XOR-op/BoltConn"
+stars = "45"
+version = "0.7.0"
+updated = "2023-10-30T03:51:49Z"
+size = "12.29 MB"
+bsum = "1e3fd3c7017d0bb2455be8ace39c3a042119ae46147984d5d4cb7922634119f6"
+sha = "21bcdcbdcc1815958ed3ca5fb8c547e812779efff571e3f9156dfb18430d7a08"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/boltconn"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["boltconn"]
+requires = []
+
+[package.metadata]
+keywords = ["firewall","http","https","linux","macos","mitm","proxy","rust","transparent-proxy","tunnel","wireguard"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "datadash"
+
+[package]
+architecture = "aarch64_arm64"
+name = "datadash"
+description = "Visualize and graph data in the terminal"
+author = "keithknott26"
+repo = "https://github.com/keithknott26/datadash"
+stars = "216"
+version = "v0.1.0"
+updated = "null"
+size = "4.06 MB"
+bsum = "0415227a5f2848b649aa426957bf4da67be72da534b516a70f345bc181a626bd"
+sha = "ba1eb2d149645306ebd653edaf86b2eceea4dfaedadb3e3f418596d506f831ce"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/datadash"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["datadash"]
+requires = []
+
+[package.metadata]
+keywords = ["chart","charting","csv","go","golang","graph","graphing","graphing-application","streaming-data","tabular-data","terminal-based","terminal-ui","tsv"]
+categories = ["Utilities"]

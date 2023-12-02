@@ -1,0 +1,26 @@
+[bin]
+name = "asn"
+
+[package]
+architecture = "aarch64_arm64"
+name = "asn"
+description = "ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server"
+author = "nitefood"
+repo = "https://github.com/nitefood/asn"
+stars = "1075"
+version = "v0.75"
+updated = "2023-11-22T22:47:51Z"
+size = "0.18 MB"
+bsum = "a3739f7464531b010c926cc5df3b7d5ce4f048ea95a271bbdccddbddbe47508b"
+sha = "d33ea81b3c4726fa0275a76a9f6ea0d9d81cbbf60914a0ccf7850e129d15bed2"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/asn"
+language = "Shell"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["asn"]
+requires = []
+
+[package.metadata]
+keywords = ["api","as-path","asn","asn-lookup","autonomous-systems","bash","bgp","fingerprinting","geolocation","incident-response","ip-lookup","ip-reputation","mtr","osint","recon","rpki","shodan","team-cymru","traceroute","whois"]
+categories = ["Utilities"]

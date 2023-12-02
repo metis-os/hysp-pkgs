@@ -1,0 +1,26 @@
+[bin]
+name = "boringtun-cli"
+
+[package]
+architecture = "aarch64_arm64"
+name = "boringtun-cli"
+description = "Userspace WireGuard® Implementation in Rust"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/boringtun"
+stars = "5521"
+version = "boringtun-cli-0.5.2"
+updated = "2022-07-20T17:04:19Z"
+size = "1.07 MB"
+bsum = "cc442619e4fdfcb1863e3ab153d647c0a3fda94966d6dd8fea855c10537dab87"
+sha = "cab91ef5c74bc94ac61400d50e86812d8c10e726269f17cf32a8a68a6f53a43f"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/boringtun-cli"
+language = "Rust"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["boringtun-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["cloudflare","rust","wireguard"]
+categories = ["Utilities"]

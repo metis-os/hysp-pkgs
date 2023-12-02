@@ -4,23 +4,23 @@ name = "zdns"
 [package]
 architecture = "aarch64_arm64"
 name = "zdns"
-description = "Fast CLI DNS Lookup Tool"
-author = "zmap"
-repo = "https://github.com/zmap/zdns"
-stars = "806"
-version = "v1.0.0"
-updated = "2023-09-10T17:09:04Z"
-size = "7.95 MB"
-bsum = "f3dc0deff1f36ed0348c3f286b869410cf5470c136fff438fa09d9afee90b6d4"
-sha = "5177357110e59186f8d6c4f606777f5678ea08f812960bc5557cab123678984c"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zdns"
-language = "Go"
-license = "Apache License 2.0"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "89385bad31257af1927d70bed761f93cc666de4aef55c0f8c223c2e6401bfa94"
+sha = "5dc5682b64f341eb8fbda635d42e6d413e3f7adaea53f440f2fffab528f09713"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["zdns"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = 
 categories = ["Utilities"]

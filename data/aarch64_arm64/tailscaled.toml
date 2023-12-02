@@ -4,23 +4,23 @@ name = "tailscaled"
 [package]
 architecture = "aarch64_arm64"
 name = "tailscaled"
-description = "The easiest, most secure way to use WireGuard and 2FA."
-author = "tailscale"
-repo = "https://github.com/tailscale/tailscale"
-stars = "14429"
-version = "v1.54.1"
-updated = "2023-11-30T18:44:21Z"
-size = "19.47 MB"
-bsum = "8fcb063ea2334868b3dd260b6f071cf7eb4f0b76964aa565326e6cee0c16268b"
-sha = "4f51d8678e195911b448ac4c7679fdbe29df2a1e9ce7975925eba7161ada35fa"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tailscaled"
-language = "Go"
-license = "BSD 3-Clause New or Revised License"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "fcd798d10ef194e71bdae2997a310f2ab09fcfecf78047d6071f5905c7e94420"
+sha = "6b908efd3b0d4465edf50706bccbd36091333f8ec166a68bea6f605059de9b99"
+source = ""
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["tailscaled"]
 requires = []
 
 [package.metadata]
-keywords = ["2fa","oauth","sso","tailscale","vpn","wireguard"]
+keywords = 
 categories = ["Utilities"]

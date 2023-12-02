@@ -1,0 +1,26 @@
+[bin]
+name = "tldr"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tldr"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "61f482348cf5f7691dfec181fb81b5507417cfb27f54ba1fe2e33a85a376b3b4"
+sha = "00a6e1de7ea8fc8922f7981bc641cc9b4f117fc201e7336c5380b427dd7a09a2"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["tldr"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

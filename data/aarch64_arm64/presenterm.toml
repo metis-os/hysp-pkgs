@@ -1,0 +1,26 @@
+[bin]
+name = "presenterm"
+
+[package]
+architecture = "aarch64_arm64"
+name = "presenterm"
+description = "A terminal slideshow tool"
+author = "mfontanini"
+repo = "https://github.com/mfontanini/presenterm"
+stars = "475"
+version = "v0.3.0"
+updated = "2023-11-24T16:35:07Z"
+size = "5.11 MB"
+bsum = "bd2a921ebfe98790811ef0966d6a595e9c013bd43c37a96ea0ca64bdb5e79462"
+sha = "11d3080bd763df2ccd88c51e2644bd3d63788b5225fbcdd95cf60cebe79eec22"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/presenterm"
+language = "Rust"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["presenterm"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","markdown","markdown-slides","presentation","rust","slides","slideshow","terminal"]
+categories = ["Utilities"]

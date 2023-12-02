@@ -1,0 +1,26 @@
+[bin]
+name = "gxss"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gxss"
+description = "A tool to check a bunch of URLs that contain reflecting params."
+author = "KathanP19"
+repo = "https://github.com/KathanP19/Gxss"
+stars = "442"
+version = "v4.1"
+updated = "2021-11-30T12:57:43Z"
+size = "4.55 MB"
+bsum = "6387b64e86968dee60dd4462d225de1f43a16040582b06b19ea6e0148276722b"
+sha = "5cba1804f2ea8b8f538488ee641f8a72c003811e082d8e2e55fbbfce8559f128"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gxss"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["gxss"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","bugbounty-tool","golang","xss","xss-detection"]
+categories = ["Utilities"]

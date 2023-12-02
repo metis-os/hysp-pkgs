@@ -1,0 +1,26 @@
+[bin]
+name = "ouch"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ouch"
+description = "Painless compression and decompression in the terminal"
+author = "ouch-org"
+repo = "https://github.com/ouch-org/ouch"
+stars = "1696"
+version = "0.5.0"
+updated = "2023-12-01T19:46:52Z"
+size = "3.61 MB"
+bsum = "1b34f1f92a917e857d82edab17ca643c37ae6a78f5f0926ac1efe45a3e9f8b68"
+sha = "1f7c387553b45584f49f4a6428d9bae8bbca65a94d7f637136d38c5a0d1d1428"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ouch"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["ouch"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","compression","decompression","hacktoberfest","rust"]
+categories = ["Utilities"]

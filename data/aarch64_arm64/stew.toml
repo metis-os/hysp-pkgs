@@ -1,0 +1,26 @@
+[bin]
+name = "stew"
+
+[package]
+architecture = "aarch64_arm64"
+name = "stew"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "c8ecaa6a4d222a702554eee2c896e2eae52e20e8791fc1289fcc0ae7ef19479e"
+sha = "c97ba76659a1610d4b381c86fa42ee56280d0fdf3cd2a444c96ffa54fcab7c04"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["stew"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

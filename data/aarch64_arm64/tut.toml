@@ -1,0 +1,26 @@
+[bin]
+name = "tut"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tut"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "13f5e2b937b35ec21c9318ce76b804932ac4aa4e6b0a1c95a0c7830933031844"
+sha = "8b38be75116dd268875505b0c52350d6ff1e1b97fd2f5544c993fa7138e25d67"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["tut"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

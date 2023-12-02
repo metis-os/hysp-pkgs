@@ -1,0 +1,26 @@
+[bin]
+name = "bombadillo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "bombadillo"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "4.93 MB"
+bsum = "651f9251e65c2d04b615268505899155a073d7332339ba7e8d487d943c17330d"
+sha = "e97b041c00864cd734d9531b7556db78843866e428922f65f8cc5b06e73e0029"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bombadillo"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["bombadillo"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

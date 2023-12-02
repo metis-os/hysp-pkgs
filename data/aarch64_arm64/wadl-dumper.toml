@@ -1,0 +1,26 @@
+[bin]
+name = "wadl-dumper"
+
+[package]
+architecture = "aarch64_arm64"
+name = "wadl-dumper"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "4c93386dfa7e041ee6ebeaa02bf51bf4006f6dfcb5fca98e6965e007df83e3f7"
+sha = "544c01bf101da9caaa9aeaf06e6106449648747e316631b4d4a47807cc57512d"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["wadl-dumper"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

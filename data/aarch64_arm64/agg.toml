@@ -1,0 +1,26 @@
+[bin]
+name = "agg"
+
+[package]
+architecture = "aarch64_arm64"
+name = "agg"
+description = "asciinema gif generator"
+author = "asciinema"
+repo = "https://github.com/asciinema/agg"
+stars = "880"
+version = "v1.4.3"
+updated = "2023-10-02T14:05:41Z"
+size = "4.62 MB"
+bsum = "d5c7f344ab487915234410d5aec85a17d76619fdec2cc3a3cc889f6c79c5bcc7"
+sha = "55756490137853129a09ba6ea41740f85333e0f581b6b5d97e9431a289561961"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/agg"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["agg"]
+requires = []
+
+[package.metadata]
+keywords = ["gif","terminal"]
+categories = ["Utilities"]

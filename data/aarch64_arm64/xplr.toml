@@ -1,0 +1,26 @@
+[bin]
+name = "xplr"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xplr"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "6665df2d7a94bffa08e25d4f3374dca06c7cc7b9dcbae3d3b90bb740b877c2d3"
+sha = "09faa99b25a7eeeef90f4750ce4a0546ea2bacf92f5c887b0b0fbaf1d80fc91f"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["xplr"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

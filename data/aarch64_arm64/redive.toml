@@ -1,0 +1,26 @@
+[bin]
+name = "redive"
+
+[package]
+architecture = "aarch64_arm64"
+name = "redive"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "1.59 MB"
+bsum = "f5e4cd5e25434853be4e02e7dd1b7298e604626000a86b7aabb011b5aa0302f4"
+sha = "44cc6d915780c48f2fb41e5d4bbc84017dd846cad50a659ea9c51e44fdfdae8c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/redive"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["redive"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

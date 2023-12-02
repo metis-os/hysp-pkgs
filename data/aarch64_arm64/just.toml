@@ -1,0 +1,26 @@
+[bin]
+name = "just"
+
+[package]
+architecture = "aarch64_arm64"
+name = "just"
+description = "🤖 Just a command runner"
+author = "casey"
+repo = "https://github.com/casey/just"
+stars = "14672"
+version = "1.16.0"
+updated = "2023-11-08T21:46:02Z"
+size = "2.68 MB"
+bsum = "3b5428a7fac0929c327f8ee65775c55b2783b814e98cbebb5965a76c560725f1"
+sha = "e56766a576078baf10d1499447b16c90cbb682da20706bbe67efa2a0003f2929"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/just"
+language = "Rust"
+license = "Creative Commons Zero v1.0 Universal"
+
+[package.conditions]
+conflicts  = ["just"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

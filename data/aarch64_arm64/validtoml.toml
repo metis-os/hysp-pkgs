@@ -1,0 +1,26 @@
+[bin]
+name = "validtoml"
+
+[package]
+architecture = "aarch64_arm64"
+name = "validtoml"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "a46c35b145bc5c60afed637a067088252aa0ae69fcbd5c28b6d1854fe8b95df4"
+sha = "f287ff35a8adb4c941aef39926877cddbd5c97bc4ead0f68d19d9a40d1d6191f"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["validtoml"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

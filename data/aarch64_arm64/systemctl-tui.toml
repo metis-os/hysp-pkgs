@@ -1,0 +1,26 @@
+[bin]
+name = "systemctl-tui"
+
+[package]
+architecture = "aarch64_arm64"
+name = "systemctl-tui"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "3eb9c6ee1c7f4436ffb4f1aeb05ed07691a8606b6c109e7478f8086c2082a629"
+sha = "d32db02a16fabd882e53b870266771ad620cced17544fece54c37123df63d387"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["systemctl-tui"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

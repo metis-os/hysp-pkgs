@@ -1,0 +1,26 @@
+[bin]
+name = "try"
+
+[package]
+architecture = "aarch64_arm64"
+name = "try"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = ""
+bsum = "8b4a40e8dedb081a4cdf85c5a9a9ed248626c81a3ae9d778848f51747e7ae25b"
+sha = "d0cedd9641bb6283a92628bbe44c95fe360ea9c48a5ad6c5ea51377811e3d8af"
+source = ""
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["try"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]

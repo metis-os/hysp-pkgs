@@ -1,0 +1,26 @@
+[bin]
+name = "dns-doctor"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dns-doctor"
+description = "null"
+author = "jvns"
+repo = "https://github.com/jvns/dns-doctor"
+stars = "43"
+version = "null"
+updated = ""
+size = "3.73 MB"
+bsum = "f02b9decdecb07388c4978540ede8620abd6b7244c8b5a5cc9e669087f558e82"
+sha = "8c13e9d6a658f5b2a210d022bbf605ba5ba8b6a4d16c27097023406e51dd24d3"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/dns-doctor"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dns-doctor"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

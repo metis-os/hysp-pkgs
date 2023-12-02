@@ -1,0 +1,26 @@
+[bin]
+name = "delta"
+
+[package]
+architecture = "aarch64_arm64"
+name = "delta"
+description = "A syntax-highlighting pager for git, diff, and grep output"
+author = "dandavison"
+repo = "https://github.com/dandavison/delta"
+stars = "19236"
+version = "0.16.5"
+updated = "2023-06-03T14:07:40Z"
+size = "4.18 MB"
+bsum = "3151be0ad1b42dd86e60e4a8cd0c27973139a713f0882c0ff0553e0c7a309925"
+sha = "cb59ba547291418e6a08b73cf955253c0a7e9118bf41431fb627d3d2d58557ed"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/delta"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["delta"]
+requires = []
+
+[package.metadata]
+keywords = ["color-themes","delta","diff","git","git-delta","pager","rust","syntax-highlighter"]
+categories = ["Utilities"]
