@@ -33,7 +33,7 @@ PKG_METADATA="$(curl -qfsSL "https://api.github.com/repos/$SOURCE_BIN/contents/a
 #For Name, author, description, lang, license, repo url, stars, topics etc
 REPO_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null)" && export REPO_METADATA="$REPO_METADATA"
 #For Version
-RELEASE_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO/releases/latest" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null)" && export RELEASE_METADATA="$RELEASE_METADATA"
+RELEASE_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO/releases/latest" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | jq '.assets=""')" && export RELEASE_METADATA="$RELEASE_METADATA"
 #BLAKE3SUM for hash verification
 B3_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/BLAKE3SUM" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null)" && export B3_SUMS="$B3_SUMS"
 #SHA256SUMS for Legacy
