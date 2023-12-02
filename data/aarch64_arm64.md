@@ -162,7 +162,7 @@
 - **Description:** In-depth attack surface mapping and asset discovery
 - **Author:** owasp-amass
 - **Repository:** [https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)
-- **Stars:** 10458
+- **Stars:** 10459
 - **Version:** v4.2.0
 - **Updated:** 2023-09-10T20:52:27Z
 - **Size:** 33.64 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32071
+- **Stars:** 32072
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.03 MB
@@ -350,22 +350,6 @@
 
 ---
 
-### berty
-- **Description:** Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- **Author:** berty
-- **Repository:** [https://github.com/berty/berty](https://github.com/berty/berty)
-- **Stars:** 7065
-- **Version:** v2.469.8
-- **Updated:** 2023-11-27T12:38:46Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
-- **License:** Other
-
----
-
 ### bin
 - **Description:** Effortless binary manager
 - **Author:** marcosnils
@@ -446,22 +430,6 @@
 
 ---
 
-### bombadillo
-- **Description:** 
-- **Author:** 
-- **Repository:** []()
-- **Stars:** 
-- **Version:** 
-- **Updated:** 
-- **Size:** 4.93 MB
-- **SHA256SUM:** e97b041c00864cd734d9531b7556db78843866e428922f65f8cc5b06e73e0029
-- **B3SUM:** 651f9251e65c2d04b615268505899155a073d7332339ba7e8d487d943c17330d
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bombadillo
-- **Language:** 
-- **License:** 
-
----
-
 ### bore
 - **Description:** 🕳 bore is a simple CLI tool for making tunnels to localhost
 - **Author:** ekzhang
@@ -505,22 +473,6 @@
 - **SHA256SUM:** d200eb7954ec05cf4c1a148b352edaf028c7c8604baea98cd50dc696a60d7eb3
 - **B3SUM:** 04b7c1758ceacda61dd505b0f86e5d6c8be787cd0e6b58c46784df0d355916af
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bottom
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### boxxy
-- **Description:** boxxy puts bad Linux applications in a box with only their files.
-- **Author:** queer
-- **Repository:** [https://github.com/queer/boxxy](https://github.com/queer/boxxy)
-- **Stars:** 1151
-- **Version:** v0.8.3
-- **Updated:** 2023-10-30T22:07:53Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
 - **Language:** Rust
 - **License:** MIT License
 
@@ -782,22 +734,6 @@
 
 ---
 
-### coreutils
-- **Description:** Cross-platform Rust rewrite of the GNU coreutils
-- **Author:** uutils
-- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 15688
-- **Version:** 0.0.23
-- **Updated:** 2023-11-14T12:36:32Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Rust
-- **License:** MIT License
-
----
-
 ### cotp
 - **Description:** Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 - **Author:** replydev
@@ -811,22 +747,6 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cotp
 - **Language:** Rust
 - **License:** GNU General Public License v3.0
-
----
-
-### cowtiness
-- **Description:** CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
-- **Author:** stolenusername
-- **Repository:** [https://github.com/stolenusername/cowitness](https://github.com/stolenusername/cowitness)
-- **Stars:** 109
-- **Version:** 1.2
-- **Updated:** 2023-09-26T11:53:53Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
-- **License:** MIT License
 
 ---
 
@@ -1326,22 +1246,6 @@
 
 ---
 
-### ein
-- **Description:**  safe pure Rust implementation of Git
-- **Author:** Byron
-- **Repository:** [https://github.com/Byron/gitoxide](https://github.com/Byron/gitoxide)
-- **Stars:** 7179
-- **Version:** v0.31.1
-- **Updated:** 2023-10-13T04:47:01Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Rust
-- **License:** Apache License 2.0
-
----
-
 ### encode
 - **Description:** Script to read input from stdin and encode it
 - **Author:** Brum3ns
@@ -1378,7 +1282,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 3923
+- **Stars:** 3924
 - **Version:** v0.16.2
 - **Updated:** 2023-11-30T04:59:02Z
 - **Size:** 1.52 MB
@@ -1746,7 +1650,7 @@
 - **Description:** A wrapper around grep, to help you grep for things
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/gf](https://github.com/tomnomnom/gf)
-- **Stars:** 1539
+- **Stars:** 1540
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
@@ -2014,22 +1918,6 @@
 
 ---
 
-### gix
-- **Description:**  safe pure Rust implementation of Git
-- **Author:** Byron
-- **Repository:** [https://github.com/Byron/gitoxide](https://github.com/Byron/gitoxide)
-- **Stars:** 7179
-- **Version:** v0.31.1
-- **Updated:** 2023-10-13T04:47:01Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Rust
-- **License:** Apache License 2.0
-
----
-
 ### glow
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
@@ -2091,22 +1979,6 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/godns
 - **Language:** Go
 - **License:** Apache License 2.0
-
----
-
-### gofastld
-- **Description:** go-fasttld is a high performance effective top level domains (eTLD) extraction module.
-- **Author:** elliotwutingfeng
-- **Repository:** [https://github.com/elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld)
-- **Stars:** 24
-- **Version:** v0.4.4
-- **Updated:** 2023-03-18T03:52:09Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
-- **License:** BSD 3-Clause New or Revised License
 
 ---
 
@@ -2219,22 +2091,6 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gowitness
 - **Language:** Go
 - **License:** GNU General Public License v3.0
-
----
-
-### gpg-tui
-- **Description:** Manage your GnuPG keys with ease! 🔐
-- **Author:** orhun
-- **Repository:** [https://github.com/orhun/gpg-tui](https://github.com/orhun/gpg-tui)
-- **Stars:** 1153
-- **Version:** v0.10.0
-- **Updated:** 2023-09-10T11:40:28Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Rust
-- **License:** MIT License
 
 ---
 
@@ -2458,22 +2314,6 @@
 - **B3SUM:** 02366f07332b8d550dbb425dffd269ce89c6414e5ad858f4bad8e3ecd0e32dbb
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hostctl
 - **Language:** Go
-- **License:** MIT License
-
----
-
-### hrekt
-- **Description:** A really fast http prober.
-- **Author:** ethicalhackingplayground
-- **Repository:** [https://github.com/ethicalhackingplayground/hrekt](https://github.com/ethicalhackingplayground/hrekt)
-- **Stars:** 26
-- **Version:** v0.1.6
-- **Updated:** 2023-06-12T00:45:07Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Rust
 - **License:** MIT License
 
 ---
@@ -2718,22 +2558,6 @@
 
 ---
 
-### jwthack
-- **Description:** 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
-- **Author:** hahwul
-- **Repository:** [https://github.com/hahwul/jwt-hack](https://github.com/hahwul/jwt-hack)
-- **Stars:** 694
-- **Version:** v1.1.2
-- **Updated:** 2021-12-24T17:00:39Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
-- **License:** MIT License
-
----
-
 ### kanha
 - **Description:** 🦚 A web-app pentesting suite written in rust .
 - **Author:** pwnwriter
@@ -2882,7 +2706,7 @@
 - **Description:** Generate music from the entropy of Linux 🐧🎵
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/linuxwave](https://github.com/orhun/linuxwave)
-- **Stars:** 435
+- **Stars:** 436
 - **Version:** v0.1.5
 - **Updated:** 2023-07-21T12:07:04Z
 - **Size:** 0.16 MB
@@ -2953,22 +2777,6 @@
 - **SHA256SUM:** 778c870183403bf5124862f5831dcfd10e107f2d8979b27cd6c1d9b2fe9bbeb5
 - **B3SUM:** 6d87c1aed3a20ac426e0686a6d51188e54ec7e6bf2e0bb48b40f3f8cf28fc9ee
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/macchina
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### machinna
-- **Description:** A system information frontend with an emphasis on performance.
-- **Author:** Macchina-CLI
-- **Repository:** [https://github.com/Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
-- **Stars:** 963
-- **Version:** v6.1.8
-- **Updated:** 2023-01-09T15:11:08Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
 - **Language:** Rust
 - **License:** MIT License
 
@@ -3118,22 +2926,6 @@
 
 ---
 
-### miller
-- **Description:** Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- **Author:** johnkerl
-- **Repository:** [https://github.com/johnkerl/miller](https://github.com/johnkerl/miller)
-- **Stars:** 8270
-- **Version:** v6.9.0
-- **Updated:** 2023-08-31T14:56:41Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
-- **License:** Other
-
----
-
 ### miniserve
 - **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
 - **Author:** svenstaro
@@ -3262,22 +3054,6 @@
 
 ---
 
-### netmaker
-- **Description:** Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- **Author:** gravitl
-- **Repository:** [https://github.com/gravitl/netmaker](https://github.com/gravitl/netmaker)
-- **Stars:** 8345
-- **Version:** v0.21.2
-- **Updated:** 2023-11-17T15:20:03Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
-- **License:** Other
-
----
-
 ### nmap-formatter
 - **Description:** A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 - **Author:** vdjagilev
@@ -3306,22 +3082,6 @@
 - **B3SUM:** 9972e7f17d4ad1a821d23a1e966c4ec6493e358bee67ed69bb212d73ef6661b6
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/nmap
 - **Language:** C
-- **License:** Other
-
----
-
-### nmctl
-- **Description:** Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- **Author:** gravitl
-- **Repository:** [https://github.com/gravitl/netmaker](https://github.com/gravitl/netmaker)
-- **Stars:** 8345
-- **Version:** v0.21.2
-- **Updated:** 2023-11-17T15:20:03Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
 - **License:** Other
 
 ---
@@ -3938,7 +3698,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 20898
+- **Stars:** 20899
 - **Version:** v0.1.6
 - **Updated:** 2023-11-17T18:52:35Z
 - **Size:** 12.64 MB
@@ -3995,22 +3755,6 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rush
 - **Language:** Go
 - **License:** MIT License
-
----
-
-### rustscan
-- **Description:** 🤖 The Modern Port Scanner 🤖
-- **Author:** RustScan
-- **Repository:** [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)
-- **Stars:** 11194
-- **Version:** 2.1.1
-- **Updated:** 2022-11-07T10:43:57Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Rust
-- **License:** GNU General Public License v3.0
 
 ---
 
@@ -4510,22 +4254,6 @@
 
 ---
 
-### tcpdump
-- **Description:** the TCPdump network dissector
-- **Author:** the-tcpdump-group
-- **Repository:** [https://github.com/the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump)
-- **Stars:** 2403
-- **Version:** tcpdump-4.99.4
-- **Updated:** 2023-04-07T18:30:58Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** C
-- **License:** Other
-
----
-
 ### tdl
 - **Description:** 📥 A Telegram downloader/tools written in Golang
 - **Author:** iyear
@@ -4654,22 +4382,6 @@
 
 ---
 
-### trufflehog
-- **Description:** Find and verify credentials
-- **Author:** trufflesecurity
-- **Repository:** [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-- **Stars:** 12793
-- **Version:** v3.63.2-rc0
-- **Updated:** 2023-11-21T18:46:16Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
-- **License:** GNU Affero General Public License v3.0
-
----
-
 ### try
 - **Description:** Inspect a command's effects before modifying your live system
 - **Author:** binpash
@@ -4683,22 +4395,6 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/try
 - **Language:** Shell
 - **License:** MIT License
-
----
-
-### tuiarchiver
-- **Description:** 
-- **Author:** 
-- **Repository:** []()
-- **Stars:** 
-- **Version:** 
-- **Updated:** 
-- **Size:** 19.59 MB
-- **SHA256SUM:** c0a62a310f547b9d249d3bda5102d603053c17c2255e13b2cf56ce638bcce485
-- **B3SUM:** 245176a1a18807e4d99753c434ec5734bf31b8ce2557d7ff0ea12e289af548b2
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tuiarchiver
-- **Language:** 
-- **License:** 
 
 ---
 
@@ -5054,22 +4750,6 @@
 
 ---
 
-### wireguard-rs
-- **Description:** Mirror only. Official repository is at https://git.zx2c4.com/wireguard-rs
-- **Author:** WireGuard
-- **Repository:** [https://github.com/WireGuard/wireguard-rs](https://github.com/WireGuard/wireguard-rs)
-- **Stars:** 415
-- **Version:** null
-- **Updated:** 
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Rust
-- **License:** MIT License
-
----
-
 ### wireproxy
 - **Description:** Wireguard client that exposes itself as a socks5 proxy
 - **Author:** pufferffish
@@ -5115,22 +4795,6 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wormhole-rs
 - **Language:** Rust
 - **License:** European Union Public License 1.2
-
----
-
-### wtf
-- **Description:** The personal information dashboard for your terminal
-- **Author:** wtfutil
-- **Repository:** [https://github.com/wtfutil/wtf](https://github.com/wtfutil/wtf)
-- **Stars:** 15178
-- **Version:** v0.43.0
-- **Updated:** 2023-02-24T05:34:48Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** Go
-- **License:** Mozilla Public License 2.0
 
 ---
 
