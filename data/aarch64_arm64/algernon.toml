@@ -4,23 +4,23 @@ name = "algernon"
 [package]
 architecture = "aarch64_arm64"
 name = "algernon"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support"
+author = "xyproto"
+repo = "https://github.com/xyproto/algernon"
+stars = "2426"
+version = "v1.15.4"
+updated = "2023-10-16T14:52:10Z"
+size = "23.33 MB"
 bsum = "38ecfd5dceac0f6dd8d742e0b8b532a86cc69dc11a8348af8e3b528f4da32855"
 sha = "dc18501c60fdd3f91f9084ba5f976fc69dc1430fe0a11cfae2ab3deb571d267e"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/algernon"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
 
 [package.conditions]
 conflicts  = ["algernon"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["algernon","cross-platform","go","gopher","http2","http3","live-reload","lua","mysql","pongo2","postgresql","quic","redis","server-sent-events","tls13"]
 categories = ["Utilities"]

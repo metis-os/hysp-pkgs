@@ -4,23 +4,23 @@ name = "bat"
 [package]
 architecture = "aarch64_arm64"
 name = "bat"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "A cat(1) clone with wings."
+author = "sharkdp"
+repo = "https://github.com/sharkdp/bat"
+stars = "44041"
+version = "v0.24.0"
+updated = "2023-10-11T18:20:46Z"
+size = "4.94 MB"
 bsum = "f9b2c07fe34069e2b22c313cec1bc33aad40f959e964b3928c0f39c78514aef7"
 sha = "c626998d5727a601e1ffee0841be333aa7e3130afc8741f8cac616540acda887"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bat"
+language = "Rust"
+license = "Apache License 2.0"
 
 [package.conditions]
 conflicts  = ["bat"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["cli","command-line","git","hacktoberfest","rust","syntax-highlighting","terminal","tool"]
 categories = ["Utilities"]

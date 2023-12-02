@@ -4,23 +4,23 @@ name = "atuin"
 [package]
 architecture = "aarch64_arm64"
 name = "atuin"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "✨ Magical shell history"
+author = "atuinsh"
+repo = "https://github.com/atuinsh/atuin"
+stars = "12288"
+version = "v17.0.1"
+updated = "2023-10-28T19:30:49Z"
+size = "16.37 MB"
 bsum = "525942d6ee167c98155793d67be08015c85b3fdc913a39c110511c1bf74020f2"
 sha = "228eaa1924f3b8f52f90d0fdebb356bafd82f994f03d444d68549b29177ff818"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/atuin"
+language = "Rust"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["atuin"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["bash","fish","history","rust","shell","zsh"]
 categories = ["Utilities"]

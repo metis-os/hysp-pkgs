@@ -4,23 +4,23 @@ name = "alterx"
 [package]
 architecture = "aarch64_arm64"
 name = "alterx"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "Fast and customizable subdomain wordlist generator using DSL"
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/alterx"
+stars = "532"
+version = "v0.0.3"
+updated = "2023-10-11T10:15:11Z"
+size = "18.42 MB"
 bsum = "034b423acd6b6c63722ad2a61b65ff08913e91fd5483db1c1c7eb98b96141aa3"
 sha = "bd8cf7778fd970cb8a9e819d4d87fb4f54fb8009907f40cc1e8e8001d152f76c"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/alterx"
+language = "Go"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["alterx"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = []
 categories = ["Utilities"]

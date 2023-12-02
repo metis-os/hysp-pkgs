@@ -4,23 +4,23 @@ name = "bingrep"
 [package]
 architecture = "aarch64_arm64"
 name = "bingrep"
-description = ""
-author = ""
-repo = ""
-stars = ""
-version = ""
-updated = ""
-size = ""
+description = "like ~~grep~~ UBER, but for binaries"
+author = "m4b"
+repo = "https://github.com/m4b/bingrep"
+stars = "1663"
+version = "v0.11.0"
+updated = "2023-02-06T05:34:55Z"
+size = "1.49 MB"
 bsum = "5b061bf844aeb0c98dc59f891ee690d6e27044ed5ff9246f13fffd73c1712a44"
 sha = "140662d3fdebfc3c33b381f9836f6e76ebdba9301a41f71f4cf6c708de7ef610"
-source = ""
-language = ""
-license = ""
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bingrep"
+language = "Rust"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["bingrep"]
 requires = []
 
 [package.metadata]
-keywords = 
+keywords = ["binary","elf","grep","mach-o","objdump","portable-executable"]
 categories = ["Utilities"]
