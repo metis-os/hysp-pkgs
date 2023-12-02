@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+##Debug
+#set -x ; set +e
+
 ###ENV (Exported or passed Inline)
 # #Example:
 # export GITHUB_TOKEN="$UNDERPRIVILEGED_READ_ONLY_GH_TOKEN" #Required to get around github api rate limits
@@ -21,6 +24,9 @@ if [[ -z "$GITHUB_TOKEN" ]]; then
    exit 1
 fi
 
+#Ulimit
+ulimit -S -s unlimited 2>/dev/null
+ulimit -f unlimited 2>/dev/null
 #Fetch raw json
 # For size & actual source url
 PKG_METADATA="$(curl -qfsSL "https://api.github.com/repos/$SOURCE_BIN/contents/x86_64/$BIN" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | jq '.content=""')" && export PKG_METADATA="$PKG_METADATA"
@@ -29,9 +35,11 @@ REPO_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO" -H "Authorizat
 #For Version
 RELEASE_METADATA="$(curl -qfsSL "https://api.github.com/repos/$REPO/releases/latest" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null)" && export RELEASE_METADATA="$RELEASE_METADATA"
 #BLAKE3SUM for hash verification
-B3_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/README.md" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | grep -A 9999999999999 "BLAKE3SUM" 2>/dev/null | awk '/SHA256SUM/{exit} {print}' 2>/dev/null | sed 's/^[ \t]*//;s/[ \t]*$//')" && export B3_SUMS="$B3_SUMS"
+#B3_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/README.md" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | grep -A 9999999999999 "BLAKE3SUM" 2>/dev/null | awk '/SHA256SUM/{exit} {print}' 2>/dev/null | sed 's/^[ \t]*//;s/[ \t]*$//')" && export B3_SUMS="$B3_SUMS"
+B3_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/BLAKE3SUM" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null)" && export B3_SUMS="$B3_SUMS"
 #SHA256SUMS for Legacy
-SHA256_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/README.md" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | grep -A 9999999999999 "SHA256SUM" 2>/dev/null | awk '/Sizes/{exit} {print}' 2>/dev/null | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SHA256_SUMS="$SHA256_SUMS"
+#SHA256_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/README.md" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null | grep -A 9999999999999 "SHA256SUM" 2>/dev/null | awk '/Sizes/{exit} {print}' 2>/dev/null | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SHA256_SUMS="$SHA256_SUMS"
+SHA256_SUMS="$(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/SHA256SUM" -H "Authorization: Bearer $GITHUB_TOKEN" 2>/dev/null)" && export SHA256_SUMS="$SHA256_SUMS"
 #Parse
 NAME="$(echo $REPO_METADATA | jq -r '.name' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export NAME="$NAME"
 AUTHOR="$(echo $REPO_METADATA | jq -r '.owner.login' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export AUTHOR="$AUTHOR"
