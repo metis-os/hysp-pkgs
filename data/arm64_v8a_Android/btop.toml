@@ -1,0 +1,26 @@
+[bin]
+name = "btop"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "btop"
+description = "A monitor of resources"
+author = "aristocratos"
+repo = "https://github.com/aristocratos/btop"
+stars = "14107"
+version = "v1.2.13"
+updated = "2022-11-06T21:36:41Z"
+size = ""
+bsum = ""
+sha = ""
+source = ""
+language = "C++"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["btop"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
