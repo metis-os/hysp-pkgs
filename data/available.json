@@ -118,7 +118,7 @@
       "description": "Fast web fuzzer written in Go",
       "author": "ffuf",
       "repo": "https://github.com/ffuf/ffuf",
-      "stars": "10546",
+      "stars": "10547",
       "version": "v2.1.0",
       "updated": "2023-09-16T12:23:19Z",
       "size": "8.18 MB",
@@ -159,6 +159,22 @@
       "source": "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/godns",
       "language": "Go",
       "license": "Apache License 2.0"
+    },
+    {
+      "architecture": "arm64_v8a_Android",
+      "name": "gost",
+      "description": "GO Simple Tunnel - a simple tunnel written in golang",
+      "author": "ginuerzh",
+      "repo": "https://github.com/ginuerzh/gost",
+      "stars": "14306",
+      "version": "v2.11.5",
+      "updated": "2023-01-20T06:46:05Z",
+      "size": "",
+      "bsum": "",
+      "sha": "",
+      "source": "",
+      "language": "Go",
+      "license": "MIT License"
     },
     {
       "architecture": "arm64_v8a_Android",

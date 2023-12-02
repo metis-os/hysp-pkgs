@@ -30,22 +30,6 @@
 
 ---
 
-### btop
-- **Description:** A monitor of resources
-- **Author:** aristocratos
-- **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14107
-- **Version:** v1.2.13
-- **Updated:** 2022-11-06T21:36:41Z
-- **Size:** 
-- **SHASUM:** 
-- **B3SUM:** 
-- **Source:** 
-- **Language:** C++
-- **License:** Apache License 2.0
-
----
-
 ### certstream
 - **Description:**  Beg Bounties
 - **Author:** Azathothas
@@ -130,7 +114,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10546
+- **Stars:** 10547
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.18 MB
