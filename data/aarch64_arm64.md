@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 45708
+- **Stars:** 45710
 - **Version:** v0.2.55
 - **Updated:** 2023-12-01T02:21:34Z
 - **Size:** 14.52 MB
@@ -350,6 +350,22 @@
 
 ---
 
+### berty
+- **Description:** Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- **Author:** berty
+- **Repository:** [https://github.com/berty/berty](https://github.com/berty/berty)
+- **Stars:** 7065
+- **Version:** v2.469.8
+- **Updated:** 2023-11-27T12:38:46Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Go
+- **License:** Other
+
+---
+
 ### bin
 - **Description:** Effortless binary manager
 - **Author:** marcosnils
@@ -473,6 +489,22 @@
 - **SHA256SUM:** d200eb7954ec05cf4c1a148b352edaf028c7c8604baea98cd50dc696a60d7eb3
 - **B3SUM:** 04b7c1758ceacda61dd505b0f86e5d6c8be787cd0e6b58c46784df0d355916af
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bottom
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### boxxy
+- **Description:** boxxy puts bad Linux applications in a box with only their files.
+- **Author:** queer
+- **Repository:** [https://github.com/queer/boxxy](https://github.com/queer/boxxy)
+- **Stars:** 1151
+- **Version:** v0.8.3
+- **Updated:** 2023-10-30T22:07:53Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
 - **Language:** Rust
 - **License:** MIT License
 
@@ -734,6 +766,22 @@
 
 ---
 
+### coreutils
+- **Description:** Cross-platform Rust rewrite of the GNU coreutils
+- **Author:** uutils
+- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
+- **Stars:** 15688
+- **Version:** 0.0.23
+- **Updated:** 2023-11-14T12:36:32Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### cotp
 - **Description:** Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 - **Author:** replydev
@@ -747,6 +795,22 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cotp
 - **Language:** Rust
 - **License:** GNU General Public License v3.0
+
+---
+
+### cowtiness
+- **Description:** CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
+- **Author:** stolenusername
+- **Repository:** [https://github.com/stolenusername/cowitness](https://github.com/stolenusername/cowitness)
+- **Stars:** 109
+- **Version:** 1.2
+- **Updated:** 2023-09-26T11:53:53Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
 
 ---
 
@@ -1282,7 +1346,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 3924
+- **Stars:** 3925
 - **Version:** v0.16.2
 - **Updated:** 2023-11-30T04:59:02Z
 - **Size:** 1.52 MB
@@ -1346,7 +1410,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 29635
+- **Stars:** 29636
 - **Version:** v8.7.1
 - **Updated:** 2023-10-21T04:29:37Z
 - **Size:** 2.46 MB
@@ -1410,7 +1474,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10546
+- **Stars:** 10547
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 7.46 MB
@@ -1458,7 +1522,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21593
+- **Stars:** 21594
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.90 MB
@@ -1858,7 +1922,7 @@
 - **Description:** Find subdomains on GitHub.
 - **Author:** gwen001
 - **Repository:** [https://github.com/gwen001/github-subdomains](https://github.com/gwen001/github-subdomains)
-- **Stars:** 565
+- **Stars:** 567
 - **Version:** v1.2.2
 - **Updated:** 2023-02-09T13:53:05Z
 - **Size:** 4.84 MB
@@ -2034,7 +2098,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14306
+- **Stars:** 14309
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.07 MB
@@ -2066,7 +2130,7 @@
 - **Description:** Gotator is a tool to generate DNS wordlists through permutations.
 - **Author:** Josue87
 - **Repository:** [https://github.com/Josue87/gotator](https://github.com/Josue87/gotator)
-- **Stars:** 398
+- **Stars:** 399
 - **Version:** v1.1
 - **Updated:** 2021-07-26T14:37:40Z
 - **Size:** 1.72 MB
@@ -2318,6 +2382,22 @@
 
 ---
 
+### hrekt
+- **Description:** A really fast http prober.
+- **Author:** ethicalhackingplayground
+- **Repository:** [https://github.com/ethicalhackingplayground/hrekt](https://github.com/ethicalhackingplayground/hrekt)
+- **Stars:** 26
+- **Version:** v0.1.6
+- **Updated:** 2023-06-12T00:45:07Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### htmlq
 - **Description:** Like jq, but for HTML.
 - **Author:** mgdm
@@ -2370,7 +2450,7 @@
 - **Description:** A command-line tool that makes git easier to use with GitHub.
 - **Author:** mislav
 - **Repository:** [https://github.com/mislav/hub](https://github.com/mislav/hub)
-- **Stars:** 22572
+- **Stars:** 22573
 - **Version:** v2.14.2
 - **Updated:** 2020-03-05T17:55:23Z
 - **Size:** 5.84 MB
@@ -2498,7 +2578,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27256
+- **Stars:** 27257
 - **Version:** jq-1.7
 - **Updated:** 2023-09-06T22:54:12Z
 - **Size:** 1.64 MB
@@ -2530,7 +2610,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 14681
+- **Stars:** 14682
 - **Version:** 1.16.0
 - **Updated:** 2023-11-08T21:46:02Z
 - **Size:** 2.68 MB
@@ -2674,7 +2754,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40508
+- **Stars:** 40509
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -2850,7 +2930,7 @@
 - **Description:** A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - **Author:** blechschmidt
 - **Repository:** [https://github.com/blechschmidt/massdns](https://github.com/blechschmidt/massdns)
-- **Stars:** 2834
+- **Stars:** 2835
 - **Version:** v1.0.0
 - **Updated:** 2021-10-08T17:02:48Z
 - **Size:** 0.14 MB
@@ -2882,7 +2962,7 @@
 - **Description:** a featureful union filesystem
 - **Author:** trapexit
 - **Repository:** [https://github.com/trapexit/mergerfs](https://github.com/trapexit/mergerfs)
-- **Stars:** 3543
+- **Stars:** 3544
 - **Version:** 2.38.0
 - **Updated:** 2023-10-29T23:23:29Z
 - **Size:** 1.75 MB
@@ -2914,7 +2994,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23086
+- **Stars:** 23087
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 10.83 MB
@@ -3010,7 +3090,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19321
+- **Stars:** 19323
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 0.51 MB
@@ -3234,7 +3314,7 @@
 - **Description:** Cross-platform client for PostgreSQL databases
 - **Author:** sosedoff
 - **Repository:** [https://github.com/sosedoff/pgweb](https://github.com/sosedoff/pgweb)
-- **Stars:** 8122
+- **Stars:** 8121
 - **Version:** v0.14.2
 - **Updated:** 2023-10-30T02:52:50Z
 - **Size:** 15.01 MB
@@ -3586,7 +3666,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 41684
+- **Stars:** 41683
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -3698,7 +3778,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 20899
+- **Stars:** 20900
 - **Version:** v0.1.6
 - **Updated:** 2023-11-17T18:52:35Z
 - **Size:** 12.64 MB
@@ -3755,6 +3835,22 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rush
 - **Language:** Go
 - **License:** MIT License
+
+---
+
+### rustscan
+- **Description:** 🤖 The Modern Port Scanner 🤖
+- **Author:** RustScan
+- **Repository:** [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)
+- **Stars:** 11194
+- **Version:** 2.1.1
+- **Updated:** 2022-11-07T10:43:57Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** GNU General Public License v3.0
 
 ---
 
@@ -4382,6 +4478,22 @@
 
 ---
 
+### trufflehog
+- **Description:** Find and verify credentials
+- **Author:** trufflesecurity
+- **Repository:** [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+- **Stars:** 12793
+- **Version:** v3.63.2-rc0
+- **Updated:** 2023-11-21T18:46:16Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Go
+- **License:** GNU Affero General Public License v3.0
+
+---
+
 ### try
 - **Description:** Inspect a command's effects before modifying your live system
 - **Author:** binpash
@@ -4546,7 +4658,7 @@
 - **Description:** HTTP load testing tool and library. It's over 9000!
 - **Author:** tsenart
 - **Repository:** [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-- **Stars:** 22177
+- **Stars:** 22178
 - **Version:** v12.11.1
 - **Updated:** 2023-10-02T09:08:28Z
 - **Size:** 9.74 MB
@@ -4562,7 +4674,7 @@
 - **Description:** Your CLI home video recorder 📼
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- **Stars:** 12369
+- **Stars:** 12370
 - **Version:** v0.6.0
 - **Updated:** 2023-07-20T19:14:51Z
 - **Size:** 21.34 MB
@@ -4594,7 +4706,7 @@
 - **Description:** Run applications through VPN tunnels with temporary network namespaces
 - **Author:** jamesmcm
 - **Repository:** [https://github.com/jamesmcm/vopono](https://github.com/jamesmcm/vopono)
-- **Stars:** 663
+- **Stars:** 664
 - **Version:** 0.10.7
 - **Updated:** 2023-11-04T16:15:58Z
 - **Size:** 9.51 MB
@@ -4658,7 +4770,7 @@
 - **Description:** Executes commands in response to file modifications
 - **Author:** watchexec
 - **Repository:** [https://github.com/watchexec/watchexec](https://github.com/watchexec/watchexec)
-- **Stars:** 4408
+- **Stars:** 4409
 - **Version:** v1.23.0
 - **Updated:** 2023-08-30T06:35:16Z
 - **Size:** 6.54 MB
