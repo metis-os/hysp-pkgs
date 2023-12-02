@@ -2096,6 +2096,15 @@ jobs:
           BIN="pping" REPO="wzv5/pping" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #presenterm:  A terminal slideshow tool 
+      - name: Generate Meta (pping)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited
+          #--------------#
+          BIN="presenterm" REPO="mfontanini/presenterm" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #prettyping: Ping prettier, more colorful, more compact, and easier to read
       - name: Generate Meta (prettyping)
         run: |
