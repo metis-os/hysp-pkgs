@@ -1,11 +1,10 @@
 name: 🐧 HealthChecks 🖳
-#MAX_RUNTIME: 02 Minutes */10 * * * * 
 
 on:
   #push:
   workflow_dispatch:
-  #schedule:
-  #  - cron: "*/10 * * * *"  # Every 10 Mins
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 Hrs
   # https://crontab.guru
   # https://savvytime.com/converter/utc-to-nepal-kathmandu
 
@@ -67,10 +66,9 @@ jobs:
       - name: Validate toml
         run: |
           #Presets
-          set -x ; set +e
+          set +x ; set +e
           #--------------#
           cd "$GITHUB_WORKSPACE/main/data"
-          validtoml -h
           #find . -type f -name '*.toml' -exec validtoml {} \;
           find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "yaml" {} 1>/dev/null \;
         continue-on-error: true
@@ -78,12 +76,11 @@ jobs:
       - name: Validate source
         run: |
           #Presets
-          set -x ; set +e
+          set +x ; set +e
           #--------------#
           cd "$GITHUB_WORKSPACE/main/data"
-          validtoml -h
           #find . -type f -name '*.toml' -exec validtoml {} \;
-          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "json" {} 2>/dev/null \; | jq -r 'select(.package.source == "") | .package.architecture + " ❯ " + .package.name + " ✗ " + .package.source'
+          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "json" {} 2>/dev/null \; | jq -r 'select(.package.source == "") | .package.architecture + " ❯ " + .package.name + " ✗ " + .package.source' | sort -u
         continue-on-error: true
         
      # - name: Git Pull
