@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 45713
+- **Stars:** 45712
 - **Version:** v0.2.55
 - **Updated:** 2023-12-01T02:21:34Z
 - **Size:** 14.52 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 32803
+- **Stars:** 32807
 - **Version:** v3.29.1
 - **Updated:** 2023-11-25T08:10:18Z
 - **Size:** 61.29 MB
@@ -162,7 +162,7 @@
 - **Description:** In-depth attack surface mapping and asset discovery
 - **Author:** owasp-amass
 - **Repository:** [https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)
-- **Stars:** 10461
+- **Stars:** 10462
 - **Version:** v4.2.0
 - **Updated:** 2023-09-10T20:52:27Z
 - **Size:** 33.64 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32074
+- **Stars:** 32076
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
@@ -258,7 +258,7 @@
 - **Description:** Find domains and subdomains related to a given domain
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder)
-- **Stars:** 2661
+- **Stars:** 2660
 - **Version:** v0.1.1
 - **Updated:** 2020-04-15T10:38:43Z
 - **Size:** 4.57 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44057
+- **Stars:** 44059
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -347,6 +347,38 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bat
 - **Language:** Rust
 - **License:** Apache License 2.0
+
+---
+
+### bbscope
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 1.66 MB
+- **SHA256SUM:** 929c5ad3ddaf6623cbcbab3d7e92a9f74fec2402a1dae5153e7cdc349167fbc1
+- **B3SUM:** 82bbe16bceb03e1857eed51cb7d3133e39ce207d3e83c51f7758e55141c12c96
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bbscope
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### bbtargets
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 3.94 MB
+- **SHA256SUM:** 8c8e35e77ad2300d73e0d3206c20b11b6e99c3db8e37ae09f3203133419139d1
+- **B3SUM:** 6594d1048908d10cf664ed1caadfe5ceaf3fbfb6e331bd1ad9010e8c930babcc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bbtargets
+- **Language:** Go
+- **License:** GNU General Public License v3.0
 
 ---
 
@@ -546,7 +578,7 @@
 - **Description:** BusyBox mirror
 - **Author:** mirror
 - **Repository:** [https://github.com/mirror/busybox](https://github.com/mirror/busybox)
-- **Stars:** 1425
+- **Stars:** 1426
 - **Version:** 1_36_0
 - **Updated:** 2023-01-03T14:15:41Z
 - **Size:** 1.18 MB
@@ -638,6 +670,22 @@
 
 ---
 
+### chainredir
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 3.81 MB
+- **SHA256SUM:** 4112c9e111ea7aa301e6db060fda3122c351076366f79c0525b056b17a089e7c
+- **B3SUM:** 5c0d1f603924b2b2f3d8b45dba09771cba04ec504fe59b369396411674530cdd
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/chainredir
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
 ### chaos-client
 - **Description:** Go client to communicate with Chaos DB API.
 - **Author:** projectdiscovery
@@ -654,6 +702,22 @@
 
 ---
 
+### checkbypass
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 3.81 MB
+- **SHA256SUM:** 661666ee7528187b7fbe557e56ce68d15b6f0619b0f4b1b87040ec0841a43e61
+- **B3SUM:** 985ed83b7d343d606615449d6fea6e75c500dfcab642945ccc97f3cdc4ce9151
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/checkbypass
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
 ### cherrybomb
 - **Description:** Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - **Author:** blst-security
@@ -667,6 +731,22 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cherrybomb
 - **Language:** Rust
 - **License:** Apache License 2.0
+
+---
+
+### cleanpath
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 1.30 MB
+- **SHA256SUM:** 14473ed1597e1e49185338d8dc0033b3d84e55bbca5f1cfb45d749f921b8b57c
+- **B3SUM:** 23e16d2b475c8226fb4acfdf7593f24b1f2da3ffdb91d79b914fe99bf61d7954
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cleanpath
+- **Language:** Go
+- **License:** GNU General Public License v3.0
 
 ---
 
@@ -802,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25145
+- **Stars:** 25150
 - **Version:** v9.6.6
 - **Updated:** 2023-11-09T14:56:49Z
 - **Size:** 7.08 MB
@@ -866,7 +946,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 32533
+- **Stars:** 32534
 - **Version:** curl-8_4_0
 - **Updated:** 2023-10-11T06:28:45Z
 - **Size:** 6.22 MB
@@ -978,7 +1058,7 @@
 - **Description:** Instant, easy, and predictable development environments
 - **Author:** jetpack-io
 - **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
-- **Stars:** 6511
+- **Stars:** 6512
 - **Version:** 0.8.2
 - **Updated:** 2023-11-16T23:32:42Z
 - **Size:** 20.71 MB
@@ -994,7 +1074,7 @@
 - **Description:** unclutter your .profile
 - **Author:** direnv
 - **Repository:** [https://github.com/direnv/direnv](https://github.com/direnv/direnv)
-- **Stars:** 11127
+- **Stars:** 11128
 - **Version:** v2.33.0
 - **Updated:** 2023-11-29T14:05:45Z
 - **Size:** 6.13 MB
@@ -1186,7 +1266,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 11745
+- **Stars:** 11744
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.14 MB
@@ -1202,7 +1282,7 @@
 - **Description:** A more intuitive version of du in rust
 - **Author:** bootandy
 - **Repository:** [https://github.com/bootandy/dust](https://github.com/bootandy/dust)
-- **Stars:** 6960
+- **Stars:** 6961
 - **Version:** v0.8.6
 - **Updated:** 2023-05-05T19:59:54Z
 - **Size:** 1.79 MB
@@ -1227,6 +1307,86 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/dysk
 - **Language:** Rust
 - **License:** MIT License
+
+---
+
+### eae
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 1.30 MB
+- **SHA256SUM:** 767a21b0fae432e53ee0521a5f9292749903811d86321b272d658e99a7b9abff
+- **B3SUM:** cf6866f24602ae1ccd118746918ef4b3cd57800e40ebf1b83d4419a90f7d1e37
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eae
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### eah
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 1.30 MB
+- **SHA256SUM:** bb5669d44f3323cd6a13e65eead5910df4f2c1aedf0698ad87bd35ddc3faa7b9
+- **B3SUM:** 3e015c6cd480b3fc72332dfaa092e3e76ee40734385454d6fc62a39ebcd5d463
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eah
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### eap
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 1.30 MB
+- **SHA256SUM:** 86a4a9273401a79a81ff492328c89478900b9629c123dd8657171eb1e27a3fb7
+- **B3SUM:** daf9994a78b1931bca3b85aa2aef0c9a7c0c1eaf7d8980f2e94ee7aa10a3875c
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eap
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### eaparam
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 1.30 MB
+- **SHA256SUM:** 37033e3644c3c7c54b70e4b49e8be43e526d5d3abe828db08fb3be95f13b36a2
+- **B3SUM:** 224abcdf6f239d13a751bd3577affa6e0218f8a35a1c79f49380f6dc9c9697af
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eaparam
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### eapath
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 1.30 MB
+- **SHA256SUM:** 69c2ede913032ce9abaee887c4efda30a94e6b8427d4d58183a7dc17d942b088
+- **B3SUM:** e972805a87523368fc8f6f1392f2106fad72bb3d8377779c8afcb7c5c39c64a1
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eapath
+- **Language:** Go
+- **License:** GNU General Public License v3.0
 
 ---
 
@@ -1282,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 3932
+- **Stars:** 3934
 - **Version:** v0.16.2
 - **Updated:** 2023-11-30T04:59:02Z
 - **Size:** 1.52 MB
@@ -1346,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 29637
+- **Stars:** 29639
 - **Version:** v8.7.1
 - **Updated:** 2023-10-21T04:29:37Z
 - **Size:** 2.47 MB
@@ -1378,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39630
+- **Stars:** 39633
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -1394,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39630
+- **Stars:** 39633
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -1458,7 +1618,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21596
+- **Stars:** 21598
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.90 MB
@@ -1570,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 55808
+- **Stars:** 55810
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1682,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 33900
+- **Stars:** 33901
 - **Version:** v2.39.2
 - **Updated:** 2023-11-27T18:04:17Z
 - **Size:** 41.09 MB
@@ -1746,7 +1906,7 @@
 - **Description:** Git extension for versioning large files
 - **Author:** git-lfs
 - **Repository:** [https://github.com/git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
-- **Stars:** 12034
+- **Stars:** 12035
 - **Version:** v3.4.0
 - **Updated:** 2023-07-26T20:18:03Z
 - **Size:** 10.27 MB
@@ -1890,7 +2050,7 @@
 - **Description:** Protect and discover secrets using Gitleaks 🔑
 - **Author:** gitleaks
 - **Repository:** [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-- **Stars:** 14252
+- **Stars:** 14254
 - **Version:** v8.18.1
 - **Updated:** 2023-11-17T20:58:58Z
 - **Size:** 6.27 MB
@@ -1906,7 +2066,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 14570
+- **Stars:** 14572
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.41 MB
@@ -2034,7 +2194,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14310
+- **Stars:** 14312
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.07 MB
@@ -2082,7 +2242,7 @@
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost
 - **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2449
+- **Stars:** 2450
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 22.30 MB
@@ -2098,7 +2258,7 @@
 - **Description:** Ping, but with a graph
 - **Author:** orf
 - **Repository:** [https://github.com/orf/gping](https://github.com/orf/gping)
-- **Stars:** 9678
+- **Stars:** 9677
 - **Version:** gping-v1.16.0
 - **Updated:** 2023-11-29T19:16:00Z
 - **Size:** 2.33 MB
@@ -2254,6 +2414,22 @@
 
 ---
 
+### heacoll
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 3.81 MB
+- **SHA256SUM:** 758a413b354d1381e79fd447e82d3ed8383c99fdc883f0e7a1cea0215f30c1f2
+- **B3SUM:** 5cf5afa081de854c922ce8c959c858f757eba68777e330a560dde024fdea174e
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/heacoll
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
 ### hednsextractor
 - **Description:** raw html extractor from Hurricane Electric portal
 - **Author:** HuntDownProject
@@ -2338,7 +2514,7 @@
 - **Description:** Take a list of domains and probe for working HTTP and HTTPS servers
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/httprobe](https://github.com/tomnomnom/httprobe)
-- **Stars:** 2622
+- **Stars:** 2621
 - **Version:** v0.2
 - **Updated:** 2022-06-09T16:22:06Z
 - **Size:** 4.31 MB
@@ -2402,7 +2578,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 18123
+- **Stars:** 18125
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 0.97 MB
@@ -2418,7 +2594,7 @@
 - **Description:** 📦 An independent package manager that every hacker deserves.
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/hysp](https://github.com/pwnwriter/hysp)
-- **Stars:** 248
+- **Stars:** 258
 - **Version:** v0.1.1
 - **Updated:** 2023-11-26T11:07:49Z
 - **Size:** 3.04 MB
@@ -2610,7 +2786,7 @@
 - **Description:** Linux Kernel Manager and Activity Monitor 🐧💻
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/kmon](https://github.com/orhun/kmon)
-- **Stars:** 2232
+- **Stars:** 2233
 - **Version:** v1.6.4
 - **Updated:** 2023-10-27T08:56:26Z
 - **Size:** 1.07 MB
@@ -2642,7 +2818,7 @@
 - **Description:**  Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - **Author:** kopia
 - **Repository:** [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
-- **Stars:** 5307
+- **Stars:** 5308
 - **Version:** v0.15.0
 - **Updated:** 2023-10-22T03:20:50Z
 - **Size:** 33.08 MB
@@ -2651,6 +2827,22 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/kopia
 - **Language:** Go
 - **License:** Apache License 2.0
+
+---
+
+### kubemetrics
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 3.98 MB
+- **SHA256SUM:** bf84d0f2d94cfd8f0b7c08b55c9b2d4165c72a7d4978d3d5bf304f4bc3ad59fb
+- **B3SUM:** 074a4124bc042b442cd539bf032523e5e1ab1d03f9e7d38c4572e15677776d35
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/kubemetrics
+- **Language:** Go
+- **License:** GNU General Public License v3.0
 
 ---
 
@@ -2674,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40515
+- **Stars:** 40518
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -2786,7 +2978,7 @@
 - **Description:** ✉️ Composable all-in-one mail server.
 - **Author:** foxcpp
 - **Repository:** [https://github.com/foxcpp/maddy](https://github.com/foxcpp/maddy)
-- **Stars:** 4414
+- **Stars:** 4415
 - **Version:** v0.7.0
 - **Updated:** 2023-05-29T20:47:22Z
 - **Size:** 22.10 MB
@@ -2930,7 +3122,7 @@
 - **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-- **Stars:** 5190
+- **Stars:** 5191
 - **Version:** v0.24.0
 - **Updated:** 2023-07-06T08:50:57Z
 - **Size:** 1.30 MB
@@ -3026,7 +3218,7 @@
 - **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/nerdctl](https://github.com/containerd/nerdctl)
-- **Stars:** 6853
+- **Stars:** 6852
 - **Version:** v1.7.1
 - **Updated:** 2023-11-30T08:58:28Z
 - **Size:** 22.48 MB
@@ -3074,7 +3266,7 @@
 - **Description:** Nmap - the Network Mapper. Github mirror of official SVN repository.
 - **Author:** nmap
 - **Repository:** [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
-- **Stars:** 8601
+- **Stars:** 8602
 - **Version:** null
 - **Updated:** 
 - **Size:** 6.93 MB
@@ -3102,11 +3294,27 @@
 
 ---
 
+### nrp
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 3.81 MB
+- **SHA256SUM:** 8c39a9b5cdee39441970a5a1d1a1c123ef52a9f93742dbe21efb5944f339775c
+- **B3SUM:** 55a1bca036814bd13dc5263ec6176ed7327ae7cb06057b98369d77d4d7127df2
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/nrp
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
 ### nuclei
 - **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- **Stars:** 15555
+- **Stars:** 15556
 - **Version:** v3.1.0
 - **Updated:** 2023-11-30T17:34:18Z
 - **Size:** 65.59 MB
@@ -3122,7 +3330,7 @@
 - **Description:** Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - **Author:** hatoo
 - **Repository:** [https://github.com/hatoo/oha](https://github.com/hatoo/oha)
-- **Stars:** 3238
+- **Stars:** 3239
 - **Version:** v1.0.0
 - **Updated:** 2023-11-16T07:34:03Z
 - **Size:** 6.81 MB
@@ -3218,7 +3426,7 @@
 - **Description:** 🎑Feature-rich terminal-based text viewer. It is a so-called terminal pager.
 - **Author:** noborus
 - **Repository:** [https://github.com/noborus/ov](https://github.com/noborus/ov)
-- **Stars:** 1214
+- **Stars:** 1215
 - **Version:** v0.32.1
 - **Updated:** 2023-10-19T05:10:48Z
 - **Size:** 7.51 MB
@@ -3250,7 +3458,7 @@
 - **Description:** Interactive package manager and resource monitor designed for the GNU/Linux.
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/pkgtop](https://github.com/orhun/pkgtop)
-- **Stars:** 275
+- **Stars:** 276
 - **Version:** 2.5.1
 - **Updated:** 2023-10-13T10:50:35Z
 - **Size:** 2.12 MB
@@ -3506,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41400
+- **Stars:** 41401
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -3586,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 41689
+- **Stars:** 41693
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -3634,7 +3842,7 @@
 - **Description:** Extract endpoints marked as disallow in robots files to generate wordlists.
 - **Author:** Josue87
 - **Repository:** [https://github.com/Josue87/roboxtractor](https://github.com/Josue87/roboxtractor)
-- **Stars:** 52
+- **Stars:** 53
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.74 MB
@@ -3698,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 20915
+- **Stars:** 20919
 - **Version:** v0.1.6
 - **Updated:** 2023-11-17T18:52:35Z
 - **Size:** 12.64 MB
@@ -4050,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 37862
+- **Stars:** 37865
 - **Version:** v1.16.0
 - **Updated:** 2023-07-30T13:48:25Z
 - **Size:** 7.40 MB
@@ -4206,11 +4414,27 @@
 
 ---
 
+### tahm
+- **Description:**  Hacking Tools⚔️
+- **Author:** edoardottt
+- **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
+- **Stars:** 286
+- **Version:** v1.3.5
+- **Updated:** 2023-07-15T13:50:08Z
+- **Size:** 3.94 MB
+- **SHA256SUM:** 0898a568bf37bcebf1ff84d1f1ba1a48f3e30e6874fdff07e677545fc34a0330
+- **B3SUM:** d075a912b88a2e14c1b85a66690619df5ffc06af3fad688242feb07c9c82c27f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tahm
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
 ### tailscale
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14455
+- **Stars:** 14457
 - **Version:** v1.54.1
 - **Updated:** 2023-11-30T18:44:21Z
 - **Size:** 10.48 MB
@@ -4226,7 +4450,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14455
+- **Stars:** 14457
 - **Version:** v1.54.1
 - **Updated:** 2023-11-30T18:44:21Z
 - **Size:** 19.47 MB
@@ -4594,7 +4818,7 @@
 - **Description:** Run applications through VPN tunnels with temporary network namespaces
 - **Author:** jamesmcm
 - **Repository:** [https://github.com/jamesmcm/vopono](https://github.com/jamesmcm/vopono)
-- **Stars:** 669
+- **Stars:** 670
 - **Version:** 0.10.7
 - **Updated:** 2023-11-04T16:15:58Z
 - **Size:** 9.51 MB
@@ -4642,7 +4866,7 @@
 - **Description:** Terminal file manager
 - **Author:** antonmedv
 - **Repository:** [https://github.com/antonmedv/walk](https://github.com/antonmedv/walk)
-- **Stars:** 2813
+- **Stars:** 2814
 - **Version:** v1.7.0
 - **Updated:** 2023-10-29T11:07:58Z
 - **Size:** 2.56 MB
@@ -4946,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 14711
+- **Stars:** 14716
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
@@ -4994,7 +5218,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 12592
+- **Stars:** 12594
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 0.93 MB

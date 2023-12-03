@@ -1,0 +1,26 @@
+[bin]
+name = "tahm"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tahm"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "3.94 MB"
+bsum = "d075a912b88a2e14c1b85a66690619df5ffc06af3fad688242feb07c9c82c27f"
+sha = "0898a568bf37bcebf1ff84d1f1ba1a48f3e30e6874fdff07e677545fc34a0330"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tahm"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["tahm"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

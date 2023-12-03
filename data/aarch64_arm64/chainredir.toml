@@ -1,0 +1,26 @@
+[bin]
+name = "chainredir"
+
+[package]
+architecture = "aarch64_arm64"
+name = "chainredir"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "3.81 MB"
+bsum = "5c0d1f603924b2b2f3d8b45dba09771cba04ec504fe59b369396411674530cdd"
+sha = "4112c9e111ea7aa301e6db060fda3122c351076366f79c0525b056b17a089e7c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/chainredir"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["chainredir"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]
