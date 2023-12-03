@@ -19,7 +19,7 @@ license = "Other"
 
 [package.conditions]
 conflicts  = ["dropbear"]
-requires = []
+requires = ["dbclient","dropbearconvert","dropbearkey","dropbearscp"]
 
 [package.metadata]
 keywords = []
