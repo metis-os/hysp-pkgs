@@ -1,0 +1,26 @@
+[bin]
+name = "eah"
+
+[package]
+architecture = "x86_64"
+name = "eah"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.30 MB"
+bsum = "939d5dc55a3b5b6fae86c7ffad76cb55b62b97163c792cda740884fe27e4ede4"
+sha = "0d34f12a703d2cc747d8e403d094f7ca75f1f04dd918b383b5f57570a0a7b48c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eah"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["eah"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

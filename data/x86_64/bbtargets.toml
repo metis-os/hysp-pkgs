@@ -1,0 +1,26 @@
+[bin]
+name = "bbtargets"
+
+[package]
+architecture = "x86_64"
+name = "bbtargets"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "4.19 MB"
+bsum = "0ec8146b14cb608e0dbe63adff9dfb5aff0f11d50338d13679fe18cbb2501702"
+sha = "3e7f84768cc1bd3b5c8c5f1ba373703bce99ce6f70393fd7df7bc0045d9b0072"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bbtargets"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["bbtargets"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

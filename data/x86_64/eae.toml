@@ -1,0 +1,26 @@
+[bin]
+name = "eae"
+
+[package]
+architecture = "x86_64"
+name = "eae"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.30 MB"
+bsum = "b60c1c4da93d43c710c2b8956e1de590f724134734d51a41a1a92896abd662e2"
+sha = "e6f5af5f708b09a54fc5334f6533e59534fd9646d86b3bd6b7f695e4b7a9efa9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eae"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["eae"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]
