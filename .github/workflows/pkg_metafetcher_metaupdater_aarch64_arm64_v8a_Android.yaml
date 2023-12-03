@@ -280,14 +280,16 @@ jobs:
            cd "$GITHUB_WORKSPACE/main" && git pull origin main
         continue-on-error: true
 
-      - name: Validate toml
+      - name: Validate TOML
         run: |
           #Presets
           set +x ; set +e
           #--------------#
           cd "$GITHUB_WORKSPACE/main/data"
-          #find . -type f -name '*.toml' -exec validtoml {} \;
-          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "yaml" {} 1>/dev/null \;
+          ## Just list
+          #find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "yaml" {} 1>/dev/null \;
+          # List & Delete
+          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec sh -c 'yq --input-format "toml" --output-format "yaml" "$1" 1>/dev/null || rm "$1"' _ {} \;
         continue-on-error: true
 
       - name: Validate source
@@ -296,8 +298,13 @@ jobs:
           set +x ; set +e
           #--------------#
           cd "$GITHUB_WORKSPACE/main/data"
-          #find . -type f -name '*.toml' -exec validtoml {} \;
+          ## Just list
           find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec yq --input-format "toml" --output-format "json" {} 2>/dev/null \; | jq -r 'select(.package.source == "") | .package.architecture + " ❯ " + .package.name + " ✗ " + .package.source' | sort -u
+          echo -e "\n----------------------------\n"
+          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec sh -c 'yq --input-format "toml" --output-format "json" "$1" 2>/dev/null | jq -r --arg workspace "$GITHUB_WORKSPACE" '\''select(.package.source == "") | $workspace + "/main/data/" + .package.architecture + "/" + .package.name + ".toml"'\'' ' _ {} \;
+          #Delete
+          echo -e "\n----------------------------\n"
+          find "$GITHUB_WORKSPACE/main/data" -type f -name '*.toml' ! -name '*SAMPLE_SPEC*' -exec sh -c 'yq --input-format "toml" --output-format "json" "$1" 2>/dev/null | jq -r --arg workspace "$GITHUB_WORKSPACE" '\''select(.package.source == "") | $workspace + "/main/data/" + .package.architecture + "/" + .package.name + ".toml"'\'' ' _ {} \; | xargs rm 2>/dev/null
         continue-on-error: true
 
       - name: Update Available Index (JSON || TOML)
