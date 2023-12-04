@@ -29,6 +29,7 @@ jobs:
         run: |
           sudo apt update -y
           sudo apt install dos2unix -y
+          pip install ansi2txt --upgrade
 
       - name: Install Addons
         run: |
