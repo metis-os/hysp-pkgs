@@ -28,19 +28,27 @@ jobs:
           set +e
           sudo apt-get update -y
           sudo apt-get install coreutils ca-certificates curl git dos2unix lzip jq moreutils p7zip-full util-linux wget -y
+          pip install ansi2txt --upgrade
           #Re
           sudo apt-get install coreutils ca-certificates curl git dos2unix lzip jq moreutils p7zip-full util-linux wget -y
+          pip install ansi2txt --upgrade
         continue-on-error: true
         
       - name: Install Addons
         run: |
-          set +e
+          #Presets
+          set +x ; set +e
+          #--------------#
+          #delta
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/delta" -o "/usr/local/bin/delta" && sudo chmod +xwr "/usr/local/bin/delta"
           #eget
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
           #validtoml
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
           #Yj
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
+          #Yq
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yq" -o "/usr/local/bin/yq" && sudo chmod +xwr "/usr/local/bin/yq"
         continue-on-error: true
 
       - name: Setup Env
@@ -3028,6 +3036,20 @@ jobs:
            unset TOTAL_PACKAGES
            export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
            sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
+        continue-on-error: true
+
+      - name: Generate Diff (Delta)
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "$GITHUB_WORKSPACE/main"          
+          #aarch64_arm64
+          echo -e "[+] aarch64_arm64\n" > "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://api.github.com/repos/Azathothas/Toolpacks/contents/aarch64_arm64/" | jq -r '.[].name' | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          #x86_64
+          echo -e "\n\n[+] x86_64\n" >> "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://api.github.com/repos/Azathothas/Toolpacks/contents/x86_64/" | jq -r '.[].name' | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
         continue-on-error: true
 
       - name: Get DateTime
