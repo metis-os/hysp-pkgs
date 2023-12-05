@@ -1,7 +1,7 @@
 [+] aarch64_arm64
 
---- /dev/fd/63	2023-12-05 09:22:04.320324177 +0000
-+++ /dev/fd/62	2023-12-05 09:22:04.320324177 +0000
+--- /dev/fd/63	2023-12-05 09:58:25.429345057 +0000
++++ /dev/fd/62	2023-12-05 09:58:25.429345057 +0000
 @@ -1,7 +1,4 @@
 │  1 │ 7z                               │  1 │ 7z
 │  2 │-BLAKE3SUM                        │    │
@@ -259,8 +259,8 @@
 
 [+] x86_64
 
---- /dev/fd/63	2023-12-05 09:22:04.680325675 +0000
-+++ /dev/fd/62	2023-12-05 09:22:04.680325675 +0000
+--- /dev/fd/63	2023-12-05 09:58:25.733342765 +0000
++++ /dev/fd/62	2023-12-05 09:58:25.733342765 +0000
 @@ -1,7 +1,4 @@
 │  1 │ 7z                               │  1 │ 7z
 │  2 │-BLAKE3SUM                        │    │
@@ -499,7 +499,7 @@
 │ 300│ pgweb                            │ 245│ pgweb
 │ 301│ pkgtop                           │ 246│ pkgtop
 │ 302│ podman                           │ 247│ podman
-@@ -313,70 +258,38 @@
+@@ -313,70 +258,39 @@
 │ 313│ qbittorrent-nox                  │ 258│ qbittorrent-nox
 │ 314│ qsreplace                        │ 259│ qsreplace
 │ 315│ qsv                              │ 260│ qsv
@@ -516,48 +516,48 @@
 │ 326│-restic                           │    │
 │ 327│-resto                            │    │
 │ 328│ revit                            │ 266│ revit
-│ 329│-rg                               │    │
-│ 330│ rga                              │ 267│ rga
-│ 331│ ripgen                           │ 268│ ripgen
+│ 329│ rg                               │ 267│ rg
+│ 330│ rga                              │ 268│ rga
+│ 331│ ripgen                           │ 269│ ripgen
 │ 332│-ripgrep                          │    │
 │ 333│-robotstxt                        │    │
-│ 334│ roboxtractor                     │ 269│ roboxtractor
-│ 335│ rootlesskit                      │ 270│ rootlesskit
-│ 336│ rospo                            │ 271│ rospo
-│ 337│ rpaste                           │ 272│ rpaste
+│ 334│ roboxtractor                     │ 270│ roboxtractor
+│ 335│ rootlesskit                      │ 271│ rootlesskit
+│ 336│ rospo                            │ 272│ rospo
+│ 337│ rpaste                           │ 273│ rpaste
 │ 338│-rpfu                             │    │
-│ 339│ ruff                             │ 273│ ruff
-│ 340│ runc                             │ 274│ runc
-│ 341│ runme                            │ 275│ runme
-│ 342│ rush                             │ 276│ rush
+│ 339│ ruff                             │ 274│ ruff
+│ 340│ runc                             │ 275│ runc
+│ 341│ runme                            │ 276│ runme
+│ 342│ rush                             │ 277│ rush
 │ 343│-rustcan                          │    │
-│ 344│ rustypaste                       │ 277│ rustypaste
-│ 345│ s3scanner                        │ 278│ s3scanner
+│ 344│ rustypaste                       │ 278│ rustypaste
+│ 345│ s3scanner                        │ 279│ s3scanner
 │ 346│-s5cmd                            │    │
-│ 347│ sake                             │ 279│ sake
-│ 348│ scilla                           │ 280│ scilla
-│ 349│ scopegen                         │ 281│ scopegen
-│ 350│ scopeview                        │ 282│ scopeview
+│ 347│ sake                             │ 280│ sake
+│ 348│ scilla                           │ 281│ scilla
+│ 349│ scopegen                         │ 282│ scopegen
+│ 350│ scopeview                        │ 283│ scopeview
 │ 351│-scp                              │    │
-│ 352│ screenfetch                      │ 283│ screenfetch
+│ 352│ screenfetch                      │ 284│ screenfetch
 │ 353│-sd                               │    │
 │ 354│-sessionprobe                     │    │
 │ 355│-sftp                             │    │
 │ 356│-sftp-server                      │    │
-│ 357│ shellharden                      │ 284│ shellharden
-│ 358│ shfmt                            │ 285│ shfmt
-│ 359│ shortscan                        │ 286│ shortscan
+│ 357│ shellharden                      │ 285│ shellharden
+│ 358│ shfmt                            │ 286│ shfmt
+│ 359│ shortscan                        │ 287│ shortscan
 │ 360│-shortutil                        │    │
-│ 361│ shuffledns                       │ 287│ shuffledns
+│ 361│ shuffledns                       │ 288│ shuffledns
 │ 362│-sk                               │    │
 │ 363│-sk-tmux                          │    │
-│ 364│ smap                             │ 288│ smap
+│ 364│ smap                             │ 289│ smap
 │ 365│-smenu                            │    │
-│ 366│ sns                              │ 289│ sns
+│ 366│ sns                              │ 290│ sns
 │ 367│-socat                            │    │
-│ 368│ speedtest-go                     │ 290│ speedtest-go
-│ 369│ spk                              │ 291│ spk
-│ 370│ spoof-dpi                        │ 292│ spoof-dpi
+│ 368│ speedtest-go                     │ 291│ speedtest-go
+│ 369│ spk                              │ 292│ spk
+│ 370│ spoof-dpi                        │ 293│ spoof-dpi
 │ 371│-sq                               │    │
 │ 372│-ssh                              │    │
 │ 373│-ssh-add                          │    │
@@ -567,60 +567,60 @@
 │ 377│-ssh-keysign                      │    │
 │ 378│-sshd                             │    │
 │ 379│-sshd_config                      │    │
-│ 380│ sshesame                         │ 293│ sshesame
-│ 381│ sshkeys                          │ 294│ sshkeys
-│ 382│ sshportal                        │ 295│ sshportal
-@@ -387,18 +300,14 @@
-│ 387│ subfinder                        │ 300│ subfinder
-│ 388│ subjs                            │ 301│ subjs
-│ 389│ subxtract                        │ 302│ subxtract
+│ 380│ sshesame                         │ 294│ sshesame
+│ 381│ sshkeys                          │ 295│ sshkeys
+│ 382│ sshportal                        │ 296│ sshportal
+@@ -387,18 +301,14 @@
+│ 387│ subfinder                        │ 301│ subfinder
+│ 388│ subjs                            │ 302│ subjs
+│ 389│ subxtract                        │ 303│ subxtract
 │ 390│-supervisord                      │    │
-│ 391│ surf                             │ 303│ surf
+│ 391│ surf                             │ 304│ surf
 │ 392│-syncthing                        │    │
-│ 393│ systemctl-tui                    │ 304│ systemctl-tui
-│ 394│ systeroid                        │ 305│ systeroid
-│ 395│ t-rec                            │ 306│ t-rec
-│ 396│ tahm                             │ 307│ tahm
-│ 397│ tailscale                        │ 308│ tailscale
+│ 393│ systemctl-tui                    │ 305│ systemctl-tui
+│ 394│ systeroid                        │ 306│ systeroid
+│ 395│ t-rec                            │ 307│ t-rec
+│ 396│ tahm                             │ 308│ tahm
+│ 397│ tailscale                        │ 309│ tailscale
 │ 398│-tailscale_merged                 │    │
-│ 399│ tailscaled                       │ 309│ tailscaled
-│ 400│ tailspin                         │ 310│ tailspin
+│ 399│ tailscaled                       │ 310│ tailscaled
+│ 400│ tailspin                         │ 311│ tailspin
 │ 401│-taplo                            │    │
-│ 402│ tcpdump                          │ 311│ tcpdump
-│ 403│ tdl                              │ 312│ tdl
-│ 404│ tere                             │ 313│ tere
-@@ -409,16 +318,9 @@
-│ 409│ tok                              │ 318│ tok
-│ 410│ tokei                            │ 319│ tokei
-│ 411│ toybox                           │ 320│ toybox
+│ 402│ tcpdump                          │ 312│ tcpdump
+│ 403│ tdl                              │ 313│ tdl
+│ 404│ tere                             │ 314│ tere
+@@ -409,16 +319,9 @@
+│ 409│ tok                              │ 319│ tok
+│ 410│ tokei                            │ 320│ tokei
+│ 411│ toybox                           │ 321│ toybox
 │ 412│-traefik.tar.gz                   │    │
-│ 413│ trufflehog                       │ 321│ trufflehog
-│ 414│ try                              │ 322│ try
+│ 413│ trufflehog                       │ 322│ trufflehog
+│ 414│ try                              │ 323│ try
 │ 415│-tuiarchiver                      │    │
-│ 416│ tut                              │ 323│ tut
+│ 416│ tut                              │ 324│ tut
 │ 417│-twingate-client                  │    │
 │ 418│-twingate-connector               │    │
 │ 419│-twingate-connector-staticx       │    │
 │ 420│-twingate-connectorctl            │    │
 │ 421│-twingate-notifier                │    │
-│ 422│ txeh                             │ 324│ txeh
-│ 423│ tz                               │ 325│ tz
-│ 424│ u-root                           │ 326│ u-root
-@@ -426,7 +328,6 @@
-│ 426│ uncover                          │ 328│ uncover
-│ 427│ unfurl                           │ 329│ unfurl
-│ 428│ upx                              │ 330│ upx
+│ 422│ txeh                             │ 325│ txeh
+│ 423│ tz                               │ 326│ tz
+│ 424│ u-root                           │ 327│ u-root
+@@ -426,7 +329,6 @@
+│ 426│ uncover                          │ 329│ uncover
+│ 427│ unfurl                           │ 330│ unfurl
+│ 428│ upx                              │ 331│ upx
 │ 429│-usql.tar.gz                      │    │
-│ 430│ validtoml                        │ 331│ validtoml
-│ 431│ vegeta                           │ 332│ vegeta
-│ 432│ vhs                              │ 333│ vhs
-@@ -448,7 +349,6 @@
-│ 448│ wormhole-rs                      │ 349│ wormhole-rs
-│ 449│ wtfutil                          │ 350│ wtfutil
-│ 450│ x8                               │ 351│ x8
+│ 430│ validtoml                        │ 332│ validtoml
+│ 431│ vegeta                           │ 333│ vegeta
+│ 432│ vhs                              │ 334│ vhs
+@@ -448,7 +350,6 @@
+│ 448│ wormhole-rs                      │ 350│ wormhole-rs
+│ 449│ wtfutil                          │ 351│ wtfutil
+│ 450│ x8                               │ 352│ x8
 │ 451│-xargs                            │    │
-│ 452│ xargs-rs                         │ 352│ xargs-rs
-│ 453│ xcp                              │ 353│ xcp
-│ 454│ xplr                             │ 354│ xplr
+│ 452│ xargs-rs                         │ 353│ xargs-rs
+│ 453│ xcp                              │ 354│ xcp
+│ 454│ xplr                             │ 355│ xplr
 
 /dev/fd/63 ⟶   /dev/fd/62
