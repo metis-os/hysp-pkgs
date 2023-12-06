@@ -34,7 +34,7 @@
 - **Description:** :octocat: Static checker for GitHub Actions workflow files
 - **Author:** rhysd
 - **Repository:** [https://github.com/rhysd/actionlint](https://github.com/rhysd/actionlint)
-- **Stars:** 2072
+- **Stars:** 2073
 - **Version:** v1.6.26
 - **Updated:** 2023-09-18T14:05:44Z
 - **Size:** 4.62 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 32918
+- **Stars:** 32921
 - **Version:** v3.29.1
 - **Updated:** 2023-11-25T08:10:18Z
 - **Size:** 61.29 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32111
+- **Stars:** 32112
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
@@ -226,7 +226,7 @@
 - **Description:** ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - **Author:** nitefood
 - **Repository:** [https://github.com/nitefood/asn](https://github.com/nitefood/asn)
-- **Stars:** 1079
+- **Stars:** 1080
 - **Version:** v0.75.2
 - **Updated:** 2023-12-03T01:56:52Z
 - **Size:** 0.18 MB
@@ -434,7 +434,7 @@
 - **Description:** A TUI bluetooth manager for Linux.
 - **Author:** darkhz
 - **Repository:** [https://github.com/darkhz/bluetuith](https://github.com/darkhz/bluetuith)
-- **Stars:** 566
+- **Stars:** 567
 - **Version:** v0.1.9
 - **Updated:** 2023-11-06T00:56:39Z
 - **Size:** 8.46 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 50899
+- **Stars:** 50900
 - **Version:** v2.7.5
 - **Updated:** 2023-10-11T22:27:06Z
 - **Size:** 37.73 MB
@@ -626,7 +626,7 @@
 - **Description:** A utility to detect various technology for a given IP address.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck)
-- **Stars:** 543
+- **Stars:** 544
 - **Version:** v1.0.9
 - **Updated:** 2023-06-09T11:21:20Z
 - **Size:** 18.96 MB
@@ -962,7 +962,7 @@
 - **Description:** The power of curl, the ease of use of httpie.
 - **Author:** rs
 - **Repository:** [https://github.com/rs/curlie](https://github.com/rs/curlie)
-- **Stars:** 2480
+- **Stars:** 2482
 - **Version:** v1.7.2
 - **Updated:** 2023-10-23T16:11:03Z
 - **Size:** 2.05 MB
@@ -1074,7 +1074,7 @@
 - **Description:** unclutter your .profile
 - **Author:** direnv
 - **Repository:** [https://github.com/direnv/direnv](https://github.com/direnv/direnv)
-- **Stars:** 11143
+- **Stars:** 11144
 - **Version:** v2.33.0
 - **Updated:** 2023-11-29T14:05:45Z
 - **Size:** 6.13 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 3984
+- **Stars:** 3986
 - **Version:** v0.16.2
 - **Updated:** 2023-11-30T04:59:02Z
 - **Size:** 1.52 MB
@@ -1682,7 +1682,7 @@
 - **Description:** jq for binary formats - tool, language and decoders for working with binary and text formats
 - **Author:** wader
 - **Repository:** [https://github.com/wader/fq](https://github.com/wader/fq)
-- **Stars:** 9037
+- **Stars:** 9036
 - **Version:** v0.9.0
 - **Updated:** 2023-11-25T17:53:02Z
 - **Size:** 10.48 MB
@@ -1698,7 +1698,7 @@
 - **Description:** fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain.
 - **Author:** musana
 - **Repository:** [https://github.com/musana/fuzzuli](https://github.com/musana/fuzzuli)
-- **Stars:** 523
+- **Stars:** 524
 - **Version:** v1.1.4
 - **Updated:** 2023-07-16T20:18:46Z
 - **Size:** 5.91 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 55878
+- **Stars:** 55881
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1762,7 +1762,7 @@
 - **Description:** Fast disk usage analyzer with console interface written in Go
 - **Author:** dundee
 - **Repository:** [https://github.com/dundee/gdu](https://github.com/dundee/gdu)
-- **Stars:** 2907
+- **Stars:** 2908
 - **Version:** v5.25.0
 - **Updated:** 2023-06-06T13:15:28Z
 - **Size:** 8.96 MB
@@ -1906,7 +1906,7 @@
 - **Description:** Git extension for versioning large files
 - **Author:** git-lfs
 - **Repository:** [https://github.com/git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
-- **Stars:** 12046
+- **Stars:** 12047
 - **Version:** v3.4.0
 - **Updated:** 2023-07-26T20:18:03Z
 - **Size:** 10.27 MB
@@ -2530,7 +2530,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6166
+- **Stars:** 6167
 - **Version:** v1.3.7
 - **Updated:** 2023-11-13T07:26:10Z
 - **Size:** 35.76 MB
@@ -2626,7 +2626,7 @@
 - **Description:** An OOB interaction gathering server and client library
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
-- **Stars:** 2783
+- **Stars:** 2784
 - **Version:** v1.1.7
 - **Updated:** 2023-09-18T09:52:38Z
 - **Size:** 22.85 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 14752
+- **Stars:** 14753
 - **Version:** 1.16.0
 - **Updated:** 2023-11-08T21:46:02Z
 - **Size:** 2.68 MB
@@ -2738,7 +2738,7 @@
 - **Description:** 🦚 A web-app pentesting suite written in rust .
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/kanha](https://github.com/pwnwriter/kanha)
-- **Stars:** 214
+- **Stars:** 215
 - **Version:** v-v0.1.2
 - **Updated:** 2023-10-17T16:42:52Z
 - **Size:** 3.26 MB
@@ -2770,7 +2770,7 @@
 - **Description:** A command-line tool to easily kill processes running on a specified port.
 - **Author:** jkfran
 - **Repository:** [https://github.com/jkfran/killport](https://github.com/jkfran/killport)
-- **Stars:** 1619
+- **Stars:** 1620
 - **Version:** v0.9.2
 - **Updated:** 2023-12-04T11:43:44Z
 - **Size:** 0.96 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31181
+- **Stars:** 31182
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40583
+- **Stars:** 40584
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3234,7 +3234,7 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7087
+- **Stars:** 7089
 - **Version:** v0.24.3
 - **Updated:** 2023-11-24T10:52:22Z
 - **Size:** 21.35 MB
@@ -3474,7 +3474,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 19937
+- **Stars:** 19938
 - **Version:** v4.8.1
 - **Updated:** 2023-12-05T11:48:23Z
 - **Size:** 26.82 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41458
+- **Stars:** 41460
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21032
+- **Stars:** 21033
 - **Version:** v0.1.7
 - **Updated:** 2023-12-04T23:28:33Z
 - **Size:** 12.78 MB
@@ -4098,7 +4098,7 @@
 - **Description:** An IIS short filename enumeration tool
 - **Author:** bitquark
 - **Repository:** [https://github.com/bitquark/shortscan](https://github.com/bitquark/shortscan)
-- **Stars:** 365
+- **Stars:** 366
 - **Version:** v0.6.2
 - **Updated:** 2023-07-31T20:04:07Z
 - **Size:** 9.12 MB
@@ -4434,7 +4434,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14483
+- **Stars:** 14484
 - **Version:** v1.54.1
 - **Updated:** 2023-11-30T18:44:21Z
 - **Size:** 10.48 MB
@@ -4450,7 +4450,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14483
+- **Stars:** 14484
 - **Version:** v1.54.1
 - **Updated:** 2023-11-30T18:44:21Z
 - **Size:** 19.47 MB
@@ -4722,7 +4722,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12584
+- **Stars:** 12586
 - **Version:** v4.2.1
 - **Updated:** 2023-11-01T12:02:45Z
 - **Size:** 0.55 MB
@@ -4882,7 +4882,7 @@
 - **Description:** Executes commands in response to file modifications
 - **Author:** watchexec
 - **Repository:** [https://github.com/watchexec/watchexec](https://github.com/watchexec/watchexec)
-- **Stars:** 4420
+- **Stars:** 4421
 - **Version:** v1.23.0
 - **Updated:** 2023-08-30T06:35:16Z
 - **Size:** 6.54 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 14815
+- **Stars:** 14820
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
