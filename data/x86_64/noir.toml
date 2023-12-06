@@ -4,7 +4,7 @@ name = "noir"
 [package]
 architecture = "x86_64"
 name = "noir"
-description = "noir is an attack surface detector that identifies endpoints by static analysis."
+description = "Attack surface detector that identifies endpoints by static analysis"
 author = "noir-cr"
 repo = "https://github.com/noir-cr/noir"
 stars = "418"
