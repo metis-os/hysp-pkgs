@@ -1,0 +1,26 @@
+[bin]
+name = "jc_staticx"
+
+[package]
+architecture = "x86_64"
+name = "jc_staticx"
+description = "CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts."
+author = "kellyjonbrazil"
+repo = "https://github.com/kellyjonbrazil/jc"
+stars = "6537"
+version = "v1.23.6"
+updated = "2023-10-24T00:59:43Z"
+size = "13.35 MB"
+bsum = "f13600576335068fb39ccb68733a1f2bba7ad512430d67baa4882d915d367d1c"
+sha = "c68b04e5ddf3ae52c041eca92b52aa6f8d3e27a1d38dcfbc35e4c2ba3f0379b7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/jc_staticx"
+language = "Python"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jc_staticx"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","bash-scripting","cli","command-line","command-line-interface","command-line-tool","convert","json","linux","parsers","python","python-library","scripting","serialize","shell-scripting","yaml"]
+categories = ["Utilities"]

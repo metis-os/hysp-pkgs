@@ -1,0 +1,26 @@
+[bin]
+name = "bed"
+
+[package]
+architecture = "x86_64"
+name = "bed"
+description = "Binary editor written in Go"
+author = "itchyny"
+repo = "https://github.com/itchyny/bed"
+stars = "1185"
+version = "v0.2.4"
+updated = "2023-09-30T01:19:07Z"
+size = "2.97 MB"
+bsum = "6fda65ffc33437fe2634536179fbcd499d5dd9dfc1f807bc9b627539045cb2e9"
+sha = "10de40f0ca3ecde96a1c057387c1c268a3e60a66b72ddd1dbc9070c4c9bdeab2"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bed"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["bed"]
+requires = []
+
+[package.metadata]
+keywords = ["binary","golang","hex-editor"]
+categories = ["Utilities"]
