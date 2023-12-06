@@ -197,6 +197,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="agrind" REPO="rcoh/angle-grinder" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #arduino-cli : Arduino command line tool 
+      - name: Generate Meta (arduino-cli)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="arduino-cli" REPO="arduino/arduino-cli" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true        
      #----------------------------#
      #aria2c : aria2 is a multi-protocol (HTTP/HTTPS, FTP, SFTP, BitTorrent & Metalink) & multi-source command-line download utility
@@ -277,6 +286,16 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="bat" REPO="sharkdp/bat" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="batcat" REPO="sharkdp/bat" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #bed : Binary editor written in Go 
+      - name: Generate Meta (bed)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="bed" REPO="itchyny/bed" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #Berty : Secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network 
@@ -304,6 +323,7 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="binfetch" REPO="Im-0xea/binfetch" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="binfetch.cfg" REPO="Im-0xea/binfetch" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #BinGrep :  like ~~grep~~ UBER, but for binaries 
@@ -1501,6 +1521,7 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="jc" REPO="kellyjonbrazil/jc" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="jc_staticx" REPO="kellyjonbrazil/jc" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #jj : A Git-compatible DVCS that is both simple and powerful
