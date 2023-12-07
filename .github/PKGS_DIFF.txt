@@ -1,7 +1,7 @@
 [+] aarch64_arm64
 
---- /dev/fd/63	2023-12-07 13:59:34.422585962 +0000
-+++ /dev/fd/62	2023-12-07 13:59:34.422585962 +0000
+--- /dev/fd/63	2023-12-07 14:09:48.833573695 +0000
++++ /dev/fd/62	2023-12-07 14:09:48.833573695 +0000
 @@ -1,7 +1,4 @@
 │  1 │ 7z                               │  1 │ 7z
 │  2 │-BLAKE3SUM                        │    │
@@ -243,8 +243,8 @@
 
 [+] x86_64
 
---- /dev/fd/63	2023-12-07 13:59:34.746589152 +0000
-+++ /dev/fd/62	2023-12-07 13:59:34.746589152 +0000
+--- /dev/fd/63	2023-12-07 14:09:49.209574223 +0000
++++ /dev/fd/62	2023-12-07 14:09:49.209574223 +0000
 @@ -1,7 +1,4 @@
 │  1 │ 7z                               │  1 │ 7z
 │  2 │-BLAKE3SUM                        │    │
@@ -538,5 +538,28 @@
 │ 429│ validtoml                        │ 349│ validtoml
 │ 430│ vegeta                           │ 350│ vegeta
 │ 431│ vhs                              │ 351│ vhs
+@@ -441,22 +361,4 @@
+│ 441│ web-cache-vulnerability-scanner  │ 361│ web-cache-vulnerability-scanner
+│ 442│ websocat                         │ 362│ websocat
+│ 443│ wireguard-go                     │ 363│ wireguard-go
+│ 444│-wireguard-rs                     │    │
+│ 445│-wireproxy                        │    │
+│ 446│-wiretap                          │    │
+│ 447│-wormhole-rs                      │    │
+│ 448│-wtfutil                          │    │
+│ 449│-x8                               │    │
+│ 450│ xargs-rs                         │ 364│ xargs-rs
 
 /dev/fd/63 ⟶   /dev/fd/62
+│ 451│-xcp                              │    │
+│ 452│-xplr                             │    │
+│ 453│-xurls                            │    │
+│ 454│-yalis                            │    │
+│ 455│-yataf                            │    │
+│ 456│-yj                               │    │
+│ 457│-yq                               │    │
+│ 458│-zdns                             │    │
+│ 459│-zellij                           │    │
+│ 460│-zenith                           │    │
+│ 461│-zgrab2                           │    │
+│ 462│-zoxide                           │    │

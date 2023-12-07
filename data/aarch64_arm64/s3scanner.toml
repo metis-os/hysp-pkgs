@@ -22,5 +22,5 @@ conflicts  = ["s3scanner"]
 requires = []
 
 [package.metadata]
-keywords = ["aws","bugbounty","infosec","s3","s3scanner"]
+keywords = ["aws","bugbounty","gcp","infosec","s3","s3scanner"]
 categories = ["Utilities"]
