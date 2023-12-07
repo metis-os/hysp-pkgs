@@ -1,0 +1,26 @@
+[bin]
+name = "eefjsf"
+
+[package]
+architecture = "x86_64"
+name = "eefjsf"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "4.22 MB"
+bsum = "ba7abeafbc1da25720b9091a9017bd7cc8eafb26559186b01afa9b8bdeadd9d1"
+sha = "126c55b4e07164374bb89f4190b4bd09aee67406bf2122b68e61311588f53a6c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eefjsf"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["eefjsf"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]
