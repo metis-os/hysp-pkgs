@@ -25,20 +25,32 @@ jobs:
 
       - name: Install CoreUtils & Deps
         run: |
-          set +e
+          #Presets
+          set +x ; set +e
+          #--------------#
           sudo apt-get update -y
           sudo apt-get install coreutils ca-certificates curl git dos2unix lzip jq moreutils p7zip-full util-linux wget -y
+          pip install ansi2txt --upgrade
           #Re
           sudo apt-get install coreutils ca-certificates curl git dos2unix lzip jq moreutils p7zip-full util-linux wget -y
+          pip install ansi2txt --upgrade
         continue-on-error: true
         
       - name: Install Addons
         run: |
-          set +e
+          #Presets
+          set +x ; set +e
+          #--------------#
+          #action-lint
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/actionlint" -o "/usr/local/bin/actionlint" && sudo chmod +xwr "/usr/local/bin/actionlint"
+          #delta
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/delta" -o "/usr/local/bin/delta" && sudo chmod +xwr "/usr/local/bin/delta"
           #eget
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
           #validtoml
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
+          #Yq
+          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yq" -o "/usr/local/bin/yq" && sudo chmod +xwr "/usr/local/bin/yq"
           #Yj
           sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
         continue-on-error: true
@@ -342,6 +354,25 @@ jobs:
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md
            { echo "| Name | Description | Author | Repository | Stars | Version | Updated | Size | SHA256SUM | B3SUM | Source | Language | License |" ; echo "| ---- | ----------- | ------ | ---------- | ----- | ------- | ------- | ---- | --- | ------ | --------|-------- | ------- |" ; cat $GITHUB_WORKSPACE/main/data/metadata.json | jq -r '.packages[] | select(.architecture == "arm64_v8a_Android") | "| \(.name) | \(.description) | \(.author) | [\(.repo)](\(.repo)) | \(.stars) | \(.version) | \(.updated) | \(.size) | \(.sha) | \(.bsum) | \(.source) | \(.language) | \(.license) |"' ; } | tee "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android/README.md"
+        continue-on-error: true
+
+      - name: Generate Diff (Delta)
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "$GITHUB_WORKSPACE/main"          
+          #aarch64_arm64
+          echo -e "[+] aarch64_arm64\n" > "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://api.github.com/repos/Azathothas/Toolpacks/contents/aarch64_arm64/" | jq -r '.[].name' | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          #x86_64
+          echo -e "\n\n[+] x86_64\n" >> "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://api.github.com/repos/Azathothas/Toolpacks/contents/x86_64/" | jq -r '.[].name' | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          #Only Missing
+          #aarch64_arm64
+          cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "aarch64_arm64" 2>/dev/null | awk '/x86_64/{exit} {print}' 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_aarch64_arm64.txt"
+          #x86_64
+          cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "x86_64" 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_x86_64.txt"
         continue-on-error: true
 
       - name: Get DateTime
