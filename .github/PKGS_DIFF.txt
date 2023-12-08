@@ -1,16 +1,9 @@
 [+] aarch64_arm64
 
---- /dev/fd/63	2023-12-08 03:21:56.824427443 +0000
-+++ /dev/fd/62	2023-12-08 03:21:56.824427443 +0000
-@@ -1,7 +1,4 @@
 │  1 │ 7z                               │  1 │ 7z
-│  2 │-BLAKE3SUM                        │    │
-│  3 │-README.md                        │    │
-│  4 │-SHA256SUM                        │    │
 │  5 │ act                              │  2 │ act
 │  6 │ actionlint                       │  3 │ actionlint
 │  7 │ agg                              │  4 │ agg
-@@ -14,7 +11,6 @@
 │ 14 │ amass                            │ 11 │ amass
 │ 15 │ analyticsrelationships           │ 12 │ analyticsrelationships
 │ 16 │ anew                             │ 13 │ anew
@@ -18,7 +11,6 @@
 │ 18 │ aria2c                           │ 14 │ aria2c
 │ 19 │ asn                              │ 15 │ asn
 │ 20 │ asnmap                           │ 16 │ asnmap
-@@ -24,16 +20,13 @@
 │ 24 │ b3sum                            │ 20 │ b3sum
 │ 25 │ bandwhich                        │ 21 │ bandwhich
 │ 26 │ bat                              │ 22 │ bat
@@ -35,7 +27,6 @@
 │ 37 │ bore                             │ 30 │ bore
 │ 38 │ boringtun-cli                    │ 31 │ boringtun-cli
 │ 39 │ bottom                           │ 32 │ bottom
-@@ -46,49 +39,37 @@
 │ 46 │ caddy                            │ 39 │ caddy
 │ 47 │ cdncheck                         │ 40 │ cdncheck
 │ 48 │ cent                             │ 41 │ cent
@@ -85,7 +76,6 @@
 │ 92 │ dropbear                         │ 73 │ dropbear
 │ 93 │ dropbearconvert                  │ 74 │ dropbearconvert
 │ 94 │ dropbearkey                      │ 75 │ dropbearkey
-@@ -97,7 +78,6 @@
 │ 97 │ ds                               │ 78 │ ds
 │ 98 │ dsieve                           │ 79 │ dsieve
 │ 99 │ duf                              │ 80 │ duf
@@ -93,7 +83,6 @@
 │ 101│ dust                             │ 81 │ dust
 │ 102│ dysk                             │ 82 │ dysk
 │ 103│ eae                              │ 83 │ eae
-@@ -105,16 +85,9 @@
 │ 105│ eap                              │ 85 │ eap
 │ 106│ eaparam                          │ 86 │ eaparam
 │ 107│ eapath                           │ 87 │ eapath
@@ -110,7 +99,6 @@
 │ 118│ eza                              │ 91 │ eza
 │ 119│ fasttld                          │ 92 │ fasttld
 │ 120│ fblog                            │ 93 │ fblog
-@@ -130,21 +103,17 @@
 │ 130│ find-rs                          │ 103│ find-rs
 │ 131│ findomain                        │ 104│ findomain
 │ 132│ fingerprintx                     │ 105│ fingerprintx
@@ -132,7 +120,6 @@
 │ 148│ git-checkout                     │ 117│ git-checkout
 │ 149│ git-cliff                        │ 118│ git-cliff
 │ 150│ git-clone                        │ 119│ git-clone
-@@ -153,31 +122,24 @@
 │ 153│ git-pull                         │ 122│ git-pull
 │ 154│ git-tag                          │ 123│ git-tag
 │ 155│ gitdorks_go                      │ 124│ gitdorks_go
@@ -164,7 +151,6 @@
 │ 181│ grpcurl                          │ 143│ grpcurl
 │ 182│ gup                              │ 144│ gup
 │ 183│ gxss                             │ 145│ gxss
-@@ -203,18 +165,14 @@
 │ 203│ interactsh-client                │ 165│ interactsh-client
 │ 204│ iperf3                           │ 166│ iperf3
 │ 205│ jaeles                           │ 167│ jaeles
@@ -183,7 +169,6 @@
 │ 218│ kondo                            │ 176│ kondo
 │ 219│ kopia                            │ 177│ kopia
 │ 220│ kubemetrics                      │ 178│ kubemetrics
-@@ -223,41 +181,30 @@
 │ 223│ lf                               │ 181│ lf
 │ 224│ linuxwave                        │ 182│ linuxwave
 │ 225│ logtimer                         │ 183│ logtimer
@@ -225,7 +210,6 @@
 │ 261│ nuclei                           │ 208│ nuclei
 │ 262│ oha                              │ 209│ oha
 │ 263│ onetun                           │ 210│ onetun
-@@ -266,7 +213,6 @@
 │ 266│ osmedeus                         │ 213│ osmedeus
 │ 267│ ouch                             │ 214│ ouch
 │ 268│ ov                               │ 215│ ov
@@ -233,7 +217,6 @@
 │ 270│ pgweb                            │ 216│ pgweb
 │ 271│ pkgtop                           │ 217│ pkgtop
 │ 272│ podman                           │ 218│ podman
-@@ -277,77 +223,44 @@
 │ 277│ prettyping                       │ 223│ prettyping
 │ 278│ procs                            │ 224│ procs
 │ 279│ proxify                          │ 225│ proxify
@@ -311,7 +294,6 @@
 │ 351│ sshesame                         │ 264│ sshesame
 │ 352│ sshkeys                          │ 265│ sshkeys
 │ 353│ sshportal                        │ 266│ sshportal
-@@ -358,17 +271,13 @@
 │ 358│ subfinder                        │ 271│ subfinder
 │ 359│ subjs                            │ 272│ subjs
 │ 360│ subxtract                        │ 273│ subxtract
@@ -329,7 +311,6 @@
 │ 372│ tdl                              │ 281│ tdl
 │ 373│ tere                             │ 282│ tere
 │ 374│ tldr                             │ 283│ tldr
-@@ -377,29 +286,19 @@
 │ 377│ tok                              │ 286│ tok
 │ 378│ tokei                            │ 287│ tokei
 │ 379│ toybox                           │ 288│ toybox
@@ -359,7 +340,6 @@
 │ 403│ vopono                           │ 302│ vopono
 │ 404│ vtm                              │ 303│ vtm
 │ 405│ wadl-dumper                      │ 304│ wadl-dumper
-@@ -424,6 +323,5 @@
 │ 424│ zdns                             │ 323│ zdns
 │ 425│ zellij                           │ 324│ zellij
 │ 426│ zenith                           │ 325│ zenith
@@ -367,22 +347,14 @@
 │ 428│ zgrab2                           │ 326│ zgrab2
 │ 429│ zoxide                           │ 327│ zoxide
 
-/dev/fd/63 ⟶   /dev/fd/62
 
 
 [+] x86_64
 
---- /dev/fd/63	2023-12-08 03:21:57.216427771 +0000
-+++ /dev/fd/62	2023-12-08 03:21:57.216427771 +0000
-@@ -1,7 +1,4 @@
 │  1 │ 7z                               │  1 │ 7z
-│  2 │-BLAKE3SUM                        │    │
-│  3 │-README.md                        │    │
-│  4 │-SHA256SUM                        │    │
 │  5 │ act                              │  2 │ act
 │  6 │ actionlint                       │  3 │ actionlint
 │  7 │ agg                              │  4 │ agg
-@@ -37,7 +34,6 @@
 │ 37 │ binocle                          │ 34 │ binocle
 │ 38 │ bluetuith                        │ 35 │ bluetuith
 │ 39 │ boltconn                         │ 36 │ boltconn
@@ -390,7 +362,6 @@
 │ 41 │ bore                             │ 37 │ bore
 │ 42 │ boringtun-cli                    │ 38 │ boringtun-cli
 │ 43 │ bottom                           │ 39 │ bottom
-@@ -53,7 +49,6 @@
 │ 53 │ cdncheck                         │ 49 │ cdncheck
 │ 54 │ cent                             │ 50 │ cent
 │ 55 │ certstream                       │ 51 │ certstream
@@ -398,7 +369,6 @@
 │ 57 │ chainredir                       │ 52 │ chainredir
 │ 58 │ chameleon                        │ 53 │ chameleon
 │ 59 │ chaos-client                     │ 54 │ chaos-client
-@@ -61,14 +56,12 @@
 │ 61 │ cherrybomb                       │ 56 │ cherrybomb
 │ 62 │ circumflex                       │ 57 │ circumflex
 │ 63 │ cleanpath                        │ 58 │ cleanpath
@@ -413,7 +383,6 @@
 │ 72 │ cpufetch                         │ 65 │ cpufetch
 │ 73 │ crawley                          │ 66 │ crawley
 │ 74 │ crictl                           │ 67 │ crictl
-@@ -117,11 +110,7 @@
 │ 117│ ein                              │ 110│ ein
 │ 118│ enc                              │ 111│ enc
 │ 119│ encode                           │ 112│ encode
@@ -425,7 +394,6 @@
 │ 125│ exa                              │ 114│ exa
 │ 126│ eza                              │ 115│ eza
 │ 127│ fastfetch                        │ 116│ fastfetch
-@@ -139,22 +128,17 @@
 │ 139│ find-rs                          │ 128│ find-rs
 │ 140│ findomain                        │ 129│ findomain
 │ 141│ fingerprintx                     │ 130│ fingerprintx
@@ -448,7 +416,6 @@
 │ 158│ git-checkout                     │ 142│ git-checkout
 │ 159│ git-cliff                        │ 143│ git-cliff
 │ 160│ git-clone                        │ 144│ git-clone
-@@ -163,34 +147,26 @@
 │ 163│ git-pull                         │ 147│ git-pull
 │ 164│ git-tag                          │ 148│ git-tag
 │ 165│ gitdorks_go                      │ 149│ gitdorks_go
@@ -483,7 +450,6 @@
 │ 194│ grpcurl                          │ 170│ grpcurl
 │ 195│ gup                              │ 171│ gup
 │ 196│ gxss                             │ 172│ gxss
-@@ -219,7 +195,6 @@
 │ 219│ jaeles                           │ 195│ jaeles
 │ 220│ jc                               │ 196│ jc
 │ 221│ jc_staticx                       │ 197│ jc_staticx
@@ -491,7 +457,6 @@
 │ 223│ jj                               │ 198│ jj
 │ 224│ jless                            │ 199│ jless
 │ 225│ jless_staticx                    │ 200│ jless_staticx
-@@ -227,7 +202,6 @@
 │ 227│ jqp                              │ 202│ jqp
 │ 228│ just                             │ 203│ just
 │ 229│ jwt-hack                         │ 204│ jwt-hack
@@ -499,7 +464,6 @@
 │ 231│ kadeessh                         │ 205│ kadeessh
 │ 232│ kalker                           │ 206│ kalker
 │ 233│ kanha                            │ 207│ kanha
-@@ -235,7 +209,6 @@
 │ 235│ katana_staticx                   │ 209│ katana_staticx
 │ 236│ killport                         │ 210│ killport
 │ 237│ kmon                             │ 211│ kmon
@@ -507,7 +471,6 @@
 │ 239│ kondo                            │ 212│ kondo
 │ 240│ kopia                            │ 213│ kopia
 │ 241│ ksubdomain                       │ 214│ ksubdomain
-@@ -249,9 +222,7 @@
 │ 249│ logtimer                         │ 222│ logtimer
 │ 250│ lux                              │ 223│ lux
 │ 251│ mabel                            │ 224│ mabel
@@ -517,7 +480,6 @@
 │ 255│ mani                             │ 226│ mani
 │ 256│ mantra                           │ 227│ mantra
 │ 257│ mapcidr                          │ 228│ mapcidr
-@@ -265,26 +236,19 @@
 │ 265│ minisign                         │ 236│ minisign
 │ 266│ mksub                            │ 237│ mksub
 │ 267│ mlr                              │ 238│ mlr
@@ -544,7 +506,6 @@
 │ 288│ nrp                              │ 252│ nrp
 │ 289│ nuclei                           │ 253│ nuclei
 │ 290│ oha                              │ 254│ oha
-@@ -295,7 +259,6 @@
 │ 295│ ouch                             │ 259│ ouch
 │ 296│ ov                               │ 260│ ov
 │ 297│ pathbuster                       │ 261│ pathbuster
@@ -552,7 +513,6 @@
 │ 299│ pgweb                            │ 262│ pgweb
 │ 300│ pkgtop                           │ 263│ pkgtop
 │ 301│ podman                           │ 264│ podman
-@@ -312,70 +275,39 @@
 │ 312│ qbittorrent-nox                  │ 275│ qbittorrent-nox
 │ 313│ qsreplace                        │ 276│ qsreplace
 │ 314│ qsv                              │ 277│ qsv
@@ -623,7 +583,6 @@
 │ 379│ sshesame                         │ 311│ sshesame
 │ 380│ sshkeys                          │ 312│ sshkeys
 │ 381│ sshportal                        │ 313│ sshportal
-@@ -386,18 +318,14 @@
 │ 386│ subfinder                        │ 318│ subfinder
 │ 387│ subjs                            │ 319│ subjs
 │ 388│ subxtract                        │ 320│ subxtract
@@ -642,7 +601,6 @@
 │ 401│ tcpdump                          │ 329│ tcpdump
 │ 402│ tdl                              │ 330│ tdl
 │ 403│ tere                             │ 331│ tere
-@@ -408,16 +336,9 @@
 │ 408│ tok                              │ 336│ tok
 │ 409│ tokei                            │ 337│ tokei
 │ 410│ toybox                           │ 338│ toybox
@@ -659,7 +617,6 @@
 │ 421│ txeh                             │ 342│ txeh
 │ 422│ tz                               │ 343│ tz
 │ 423│ u-root                           │ 344│ u-root
-@@ -425,7 +346,6 @@
 │ 425│ uncover                          │ 346│ uncover
 │ 426│ unfurl                           │ 347│ unfurl
 │ 427│ upx                              │ 348│ upx
@@ -668,4 +625,3 @@
 │ 430│ vegeta                           │ 350│ vegeta
 │ 431│ vhs                              │ 351│ vhs
 
-/dev/fd/63 ⟶   /dev/fd/62
