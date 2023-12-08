@@ -1,0 +1,26 @@
+[bin]
+name = "sessionprobe"
+
+[package]
+architecture = "x86_64"
+name = "sessionprobe"
+description = "SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues."
+author = "dub-flow"
+repo = "https://github.com/dub-flow/sessionprobe"
+stars = "198"
+version = "v0.1.0"
+updated = "2023-11-29T09:57:24Z"
+size = "6.44 MB"
+bsum = "ba13b884217f7648f58e8d1f4394e688c0b2a1207631df6e8efdc6557c9b4310"
+sha = "79a760d34c4fbe3ddc527f6bca902520908f25bf8915a8aeb32d5aafead69273"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sessionprobe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sessionprobe"]
+requires = []
+
+[package.metadata]
+keywords = ["broken-access-control","pentesting-tool"]
+categories = ["Utilities"]

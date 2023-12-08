@@ -1,0 +1,26 @@
+[bin]
+name = "etcdutl"
+
+[package]
+architecture = "x86_64"
+name = "etcdutl"
+description = "Distributed reliable key-value store for the most critical data of a distributed system"
+author = "etcd-io"
+repo = "https://github.com/etcd-io/etcd"
+stars = "45074"
+version = "v3.5.11"
+updated = "2023-12-07T10:36:04Z"
+size = "13.98 MB"
+bsum = "45be3fddca5effcada2935f056eda716ae3fce6c0d454f2c07f978ba6205433d"
+sha = "03b11d60cb855d0b97be82d62931783aa3132409f4855f371a37ac3d39e36ff6"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/etcdutl"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["etcdutl"]
+requires = []
+
+[package.metadata]
+keywords = ["cncf","consensus","database","distributed-database","distributed-systems","etcd","go","key-value","kubernetes","raft"]
+categories = ["Utilities"]

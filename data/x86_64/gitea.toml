@@ -1,0 +1,26 @@
+[bin]
+name = "gitea"
+
+[package]
+architecture = "x86_64"
+name = "gitea"
+description = "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+author = "go-gitea"
+repo = "https://github.com/go-gitea/gitea"
+stars = "39564"
+version = "v1.21.1"
+updated = "2023-11-27T01:49:43Z"
+size = "98.80 MB"
+bsum = "2fa03f37d943e4d58339965d88041a5248110397a27a18745dc30d8b31fb1c15"
+sha = "1cb3a3787d01ef2e79ff5721e4d4c57a27fbe3805a46ee632cff674a0f6ec584"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitea"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gitea"]
+requires = []
+
+[package.metadata]
+keywords = ["devops","git","git-gui","git-server","gitea","github","github-clone","gitlab","go","gogs","golang","hacktoberfest","hacktoberfest2023"]
+categories = ["Utilities"]

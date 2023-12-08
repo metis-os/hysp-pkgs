@@ -1,0 +1,26 @@
+[bin]
+name = "removehost"
+
+[package]
+architecture = "x86_64"
+name = "removehost"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.30 MB"
+bsum = "418936d1426f858c8e02a65e8fa2d978ea5e9e4a85b9bfeddfc95808d97e42f9"
+sha = "0dd3161be6f1617d3ab2eaceb80d654cd5f46949484a9d323e07d9a92ef9b0fe"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/removehost"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["removehost"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]
