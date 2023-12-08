@@ -2563,7 +2563,7 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="recollapse_staticx" REPO="0xacb/recollapse" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-        continue-on-error: 
+        continue-on-error: true
      #----------------------------#
      #redive : Trace URL redirections in the terminal.
       - name: Generate Meta (redive)
