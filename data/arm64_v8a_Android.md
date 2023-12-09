@@ -34,7 +34,7 @@
 - **Description:**  Beg Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 8
+- **Stars:** 9
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.54 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21667
+- **Stars:** 21668
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.29 MB
@@ -306,7 +306,7 @@
 - **Description:**  Beg Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 8
+- **Stars:** 9
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.54 MB
