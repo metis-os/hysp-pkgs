@@ -1,36 +1,58 @@
 │ 40 │-bombadillo                       │    │
-│ 56 │-certstream-server-go             │    │
-│ 64 │-cloudfox.tar.gz                  │    │
-│ 71 │-cowitness                        │    │
-│ 120│-enola                            │    │
-│ 189│-gotld                            │    │
-│ 252│-macchina                         │    │
-│ 273│-ncat                             │    │
-│ 274│-ncdu                             │    │
-│ 279│-ngrok                            │    │
-│ 282│-nmctl                            │    │
-│ 286│-nping                            │    │
-│ 287│-nrich                            │    │
-│ 324│-resdns                           │    │
-│ 331│-ripgrep                          │    │
-│ 342│-rustcan                          │    │
-│ 350│-scp                              │    │
-│ 362│-sk-tmux                          │    │
-│ 366│-socat                            │    │
-│ 371│-ssh                              │    │
-│ 372│-ssh-add                          │    │
-│ 373│-ssh-agent                        │    │
-│ 374│-ssh-keygen                       │    │
-│ 375│-ssh-keyscan                      │    │
-│ 376│-ssh-keysign                      │    │
-│ 377│-sshd                             │    │
-│ 378│-sshd_config                      │    │
-│ 397│-tailscale_merged                 │    │
-│ 411│-traefik.tar.gz                   │    │
-│ 414│-tuiarchiver                      │    │
-│ 416│-twingate-client                  │    │
-│ 417│-twingate-connector               │    │
-│ 418│-twingate-connector-staticx       │    │
-│ 419│-twingate-connectorctl            │    │
-│ 420│-twingate-notifier                │    │
-│ 428│-usql.tar.gz                      │    │
+│ 55 │-certspotter                      │    │
+│ 57 │-certstream-server-go             │    │
+│ 58 │-certwatcher                      │    │
+│ 66 │-cloudfox.tar.gz                  │    │
+│ 73 │-cowitness                        │    │
+│ 83 │-ctlwatcher                       │    │
+│ 123│-enola                            │    │
+│ 192│-gotld                            │    │
+│ 193│-gotty                            │    │
+│ 231│-jql                              │    │
+│ 255│-lsd                              │    │
+│ 258│-macchina                         │    │
+│ 265│-mcfly                            │    │
+│ 280│-navi                             │    │
+│ 281│-ncat                             │    │
+│ 282│-ncdu                             │    │
+│ 287│-ngrok                            │    │
+│ 290│-nmctl                            │    │
+│ 294│-nping                            │    │
+│ 295│-nrich                            │    │
+│ 297│-nu                               │    │
+│ 318│-pspy                             │    │
+│ 325│-quickcert                        │    │
+│ 329│-reader                           │    │
+│ 336│-resdns                           │    │
+│ 343│-ripgrep                          │    │
+│ 344│-rnr                              │    │
+│ 351│-rqbit                            │    │
+│ 356│-rustcan                          │    │
+│ 364│-scp                              │    │
+│ 376│-sk-tmux                          │    │
+│ 380│-socat                            │    │
+│ 385│-sqlc                             │    │
+│ 386│-ssh                              │    │
+│ 387│-ssh-add                          │    │
+│ 388│-ssh-agent                        │    │
+│ 389│-ssh-keygen                       │    │
+│ 390│-ssh-keyscan                      │    │
+│ 391│-ssh-keysign                      │    │
+│ 392│-sshd                             │    │
+│ 393│-sshd_config                      │    │
+│ 397│-sshx                             │    │
+│ 398│-sshx-server                      │    │
+│ 414│-tailscale_merged                 │    │
+│ 428│-traefik.tar.gz                   │    │
+│ 431│-tty2web                          │    │
+│ 432│-ttyd                             │    │
+│ 433│-tuiarchiver                      │    │
+│ 435│-twingate-client                  │    │
+│ 436│-twingate-connector               │    │
+│ 437│-twingate-connector-staticx       │    │
+│ 438│-twingate-connectorctl            │    │
+│ 439│-twingate-notifier                │    │
+│ 447│-usql.tar.gz                      │    │
+│ 453│-volta                            │    │
+│ 476│-yazi                             │    │
+│ 482│-zfxtop                           │    │
