@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 45866
+- **Stars:** 45867
 - **Version:** v0.2.55
 - **Updated:** 2023-12-01T02:21:34Z
 - **Size:** 14.52 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 33062
+- **Stars:** 33064
 - **Version:** v3.29.1
 - **Updated:** 2023-11-25T08:10:18Z
 - **Size:** 61.29 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44145
+- **Stars:** 44146
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -546,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14198
+- **Stars:** 14199
 - **Version:** v1.2.13
 - **Updated:** 2022-11-06T21:36:41Z
 - **Size:** 2.25 MB
@@ -882,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25205
+- **Stars:** 25206
 - **Version:** v9.6.6
 - **Updated:** 2023-11-09T14:56:49Z
 - **Size:** 7.08 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 4035
+- **Stars:** 4037
 - **Version:** v0.16.3
 - **Updated:** 2023-12-07T04:57:47Z
 - **Size:** 1.52 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 55964
+- **Stars:** 55965
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -2082,7 +2082,7 @@
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
-- **Stars:** 13802
+- **Stars:** 13804
 - **Version:** v1.5.1
 - **Updated:** 2023-05-09T16:16:51Z
 - **Size:** 16.60 MB
@@ -2258,7 +2258,7 @@
 - **Description:** Ping, but with a graph
 - **Author:** orf
 - **Repository:** [https://github.com/orf/gping](https://github.com/orf/gping)
-- **Stars:** 9707
+- **Stars:** 9708
 - **Version:** gping-v1.16.0
 - **Updated:** 2023-11-29T19:16:00Z
 - **Size:** 2.33 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27316
+- **Stars:** 27315
 - **Version:** jq-1.7
 - **Updated:** 2023-09-06T22:54:12Z
 - **Size:** 1.64 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31240
+- **Stars:** 31241
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40664
+- **Stars:** 40663
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -2882,7 +2882,7 @@
 - **Description:** Terminal file manager
 - **Author:** gokcehan
 - **Repository:** [https://github.com/gokcehan/lf](https://github.com/gokcehan/lf)
-- **Stars:** 6618
+- **Stars:** 6619
 - **Version:** r31
 - **Updated:** 2023-09-17T11:55:19Z
 - **Size:** 3.38 MB
@@ -2898,7 +2898,7 @@
 - **Description:** Generate music from the entropy of Linux 🐧🎵
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/linuxwave](https://github.com/orhun/linuxwave)
-- **Stars:** 442
+- **Stars:** 443
 - **Version:** v0.1.5
 - **Updated:** 2023-07-21T12:07:04Z
 - **Size:** 0.16 MB
@@ -2978,7 +2978,7 @@
 - **Description:** ✉️ Composable all-in-one mail server.
 - **Author:** foxcpp
 - **Repository:** [https://github.com/foxcpp/maddy](https://github.com/foxcpp/maddy)
-- **Stars:** 4425
+- **Stars:** 4426
 - **Version:** v0.7.0
 - **Updated:** 2023-05-29T20:47:22Z
 - **Size:** 22.10 MB
@@ -3074,7 +3074,7 @@
 - **Description:** a featureful union filesystem
 - **Author:** trapexit
 - **Repository:** [https://github.com/trapexit/mergerfs](https://github.com/trapexit/mergerfs)
-- **Stars:** 3553
+- **Stars:** 3554
 - **Version:** 2.38.0
 - **Updated:** 2023-10-29T23:23:29Z
 - **Size:** 1.75 MB
@@ -3106,7 +3106,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23119
+- **Stars:** 23120
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 10.83 MB
@@ -3202,7 +3202,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19363
+- **Stars:** 19364
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 0.52 MB
@@ -3474,7 +3474,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 19965
+- **Stars:** 19966
 - **Version:** v4.8.1
 - **Updated:** 2023-12-05T11:48:23Z
 - **Size:** 26.82 MB
@@ -3570,7 +3570,7 @@
 - **Description:** A modern replacement for ps written in Rust
 - **Author:** dalance
 - **Repository:** [https://github.com/dalance/procs](https://github.com/dalance/procs)
-- **Stars:** 4400
+- **Stars:** 4401
 - **Version:** v0.14.4
 - **Updated:** 2023-11-24T00:58:03Z
 - **Size:** 3.45 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41522
+- **Stars:** 41524
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21144
+- **Stars:** 21145
 - **Version:** v0.1.7
 - **Updated:** 2023-12-04T23:28:33Z
 - **Size:** 12.78 MB
@@ -4466,7 +4466,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 3597
+- **Stars:** 3598
 - **Version:** 2.2.0
 - **Updated:** 2023-11-19T15:04:41Z
 - **Size:** 2.62 MB
@@ -4578,7 +4578,7 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 9195
+- **Stars:** 9196
 - **Version:** v13.0.0-alpha.0
 - **Updated:** 2023-03-27T15:56:31Z
 - **Size:** 3.49 MB
@@ -4738,7 +4738,7 @@
 - **Description:** Universal command-line interface for SQL databases
 - **Author:** xo
 - **Repository:** [https://github.com/xo/usql](https://github.com/xo/usql)
-- **Stars:** 8349
+- **Stars:** 8350
 - **Version:** v0.17.0
 - **Updated:** 2023-12-03T02:54:56Z
 - **Size:** 95.21 MB
@@ -4770,7 +4770,7 @@
 - **Description:** HTTP load testing tool and library. It's over 9000!
 - **Author:** tsenart
 - **Repository:** [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-- **Stars:** 22210
+- **Stars:** 22212
 - **Version:** v12.11.1
 - **Updated:** 2023-10-02T09:08:28Z
 - **Size:** 9.74 MB
@@ -4962,7 +4962,7 @@
 - **Description:** Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - **Author:** WireGuard
 - **Repository:** [https://github.com/WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go)
-- **Stars:** 2400
+- **Stars:** 2401
 - **Version:** v0.0.20201121
 - **Updated:** 2021-04-23T02:26:48Z
 - **Size:** 2.61 MB
@@ -5058,7 +5058,7 @@
 - **Description:** A hackable, minimal, fast TUI file explorer
 - **Author:** sayanarijit
 - **Repository:** [https://github.com/sayanarijit/xplr](https://github.com/sayanarijit/xplr)
-- **Stars:** 3601
+- **Stars:** 3602
 - **Version:** v0.21.3
 - **Updated:** 2023-08-07T18:36:50Z
 - **Size:** 4.65 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 14884
+- **Stars:** 14885
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
