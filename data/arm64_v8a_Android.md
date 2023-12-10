@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21679
+- **Stars:** 21682
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.29 MB
@@ -338,7 +338,7 @@
 - **Description:** A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
 - **Author:** agnostic-apollo
 - **Repository:** [https://github.com/agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo)
-- **Stars:** 60
+- **Stars:** 61
 - **Version:** v0.2.0
 - **Updated:** 2021-04-10T21:03:11Z
 - **Size:** 0.24 MB
