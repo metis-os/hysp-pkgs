@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 45909
+- **Stars:** 45910
 - **Version:** v0.2.55
 - **Updated:** 2023-12-01T02:21:34Z
 - **Size:** 14.52 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 12333
+- **Stars:** 12334
 - **Version:** v17.1.0
 - **Updated:** 2023-12-10T13:12:32Z
 - **Size:** 16.37 MB
@@ -498,7 +498,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8054
+- **Stars:** 8055
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.68 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 50982
+- **Stars:** 50981
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 37.73 MB
@@ -802,7 +802,7 @@
 - **Description:** An open and reliable container runtime
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
-- **Stars:** 15257
+- **Stars:** 15258
 - **Version:** v1.7.11
 - **Updated:** 2023-12-08T23:48:02Z
 - **Size:** 35.36 MB
@@ -1266,7 +1266,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 11766
+- **Stars:** 11767
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.14 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39764
+- **Stars:** 39765
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39764
+- **Stars:** 39765
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -1618,7 +1618,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21711
+- **Stars:** 21713
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.90 MB
@@ -1874,7 +1874,7 @@
 - **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
-- **Stars:** 6504
+- **Stars:** 6505
 - **Version:** v1.4.0
 - **Updated:** 2023-10-29T13:23:20Z
 - **Size:** 7.43 MB
@@ -2018,7 +2018,7 @@
 - **Description:** Find subdomains on GitHub.
 - **Author:** gwen001
 - **Repository:** [https://github.com/gwen001/github-subdomains](https://github.com/gwen001/github-subdomains)
-- **Stars:** 572
+- **Stars:** 573
 - **Version:** v1.2.2
 - **Updated:** 2023-02-09T13:53:05Z
 - **Size:** 4.84 MB
@@ -2274,7 +2274,7 @@
 - **Description:** Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - **Author:** fullstorydev
 - **Repository:** [https://github.com/fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
-- **Stars:** 9474
+- **Stars:** 9475
 - **Version:** v1.8.9
 - **Updated:** 2023-10-24T17:17:39Z
 - **Size:** 22.18 MB
@@ -2386,7 +2386,7 @@
 - **Description:** Small, fast tool for performing reverse DNS lookups en masse.
 - **Author:** hakluke
 - **Repository:** [https://github.com/hakluke/hakrevdns](https://github.com/hakluke/hakrevdns)
-- **Stars:** 1116
+- **Stars:** 1117
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.04 MB
@@ -2578,7 +2578,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 18204
+- **Stars:** 18205
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 0.97 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31269
+- **Stars:** 31271
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -2930,7 +2930,7 @@
 - **Description:** 👾 Fast and simple video download library and CLI tool written in Go
 - **Author:** iawia002
 - **Repository:** [https://github.com/iawia002/lux](https://github.com/iawia002/lux)
-- **Stars:** 22683
+- **Stars:** 22684
 - **Version:** v0.22.0
 - **Updated:** 2023-11-06T05:54:09Z
 - **Size:** 16.49 MB
@@ -3202,7 +3202,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19376
+- **Stars:** 19377
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 0.52 MB
@@ -3234,7 +3234,7 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7121
+- **Stars:** 7122
 - **Version:** v0.24.4
 - **Updated:** 2023-12-08T12:18:20Z
 - **Size:** 21.35 MB
@@ -3314,7 +3314,7 @@
 - **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- **Stars:** 15644
+- **Stars:** 15645
 - **Version:** v3.1.1
 - **Updated:** 2023-12-09T13:25:37Z
 - **Size:** 65.59 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41550
+- **Stars:** 41551
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21207
+- **Stars:** 21209
 - **Version:** v0.1.7
 - **Updated:** 2023-12-04T23:28:33Z
 - **Size:** 12.78 MB
@@ -3938,7 +3938,7 @@
 - **Description:** Execute your runbooks, docs, and READMEs.
 - **Author:** stateful
 - **Repository:** [https://github.com/stateful/runme](https://github.com/stateful/runme)
-- **Stars:** 649
+- **Stars:** 651
 - **Version:** v2.0.5
 - **Updated:** 2023-12-05T17:26:41Z
 - **Size:** 20.64 MB
@@ -4914,7 +4914,7 @@
 - **Description:** Fetch all the URLs that the Wayback Machine knows about for a domain
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
-- **Stars:** 2906
+- **Stars:** 2907
 - **Version:** v0.1.0
 - **Updated:** 2022-04-05T10:19:55Z
 - **Size:** 4.44 MB
@@ -5218,7 +5218,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 12711
+- **Stars:** 12712
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 0.93 MB
