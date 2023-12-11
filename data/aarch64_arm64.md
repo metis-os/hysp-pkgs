@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32170
+- **Stars:** 32172
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
@@ -274,7 +274,7 @@
 - **Description:** :computer: make your ssh client smarter
 - **Author:** moul
 - **Repository:** [https://github.com/moul/assh](https://github.com/moul/assh)
-- **Stars:** 2909
+- **Stars:** 2910
 - **Version:** v2.16.0
 - **Updated:** 2023-10-02T09:04:34Z
 - **Size:** 7.72 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 12336
+- **Stars:** 12339
 - **Version:** v17.1.0
 - **Updated:** 2023-12-10T13:12:32Z
 - **Size:** 16.37 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44172
+- **Stars:** 44176
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -498,7 +498,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8055
+- **Stars:** 8056
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.68 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 50982
+- **Stars:** 50983
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 37.73 MB
@@ -642,7 +642,7 @@
 - **Description:** Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - **Author:** xm1k3
 - **Repository:** [https://github.com/xm1k3/cent](https://github.com/xm1k3/cent)
-- **Stars:** 716
+- **Stars:** 717
 - **Version:** v1.3.0
 - **Updated:** 2023-10-24T20:36:55Z
 - **Size:** 11.84 MB
@@ -1042,7 +1042,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19313
+- **Stars:** 19314
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.18 MB
@@ -1074,7 +1074,7 @@
 - **Description:** unclutter your .profile
 - **Author:** direnv
 - **Repository:** [https://github.com/direnv/direnv](https://github.com/direnv/direnv)
-- **Stars:** 11155
+- **Stars:** 11156
 - **Version:** v2.33.0
 - **Updated:** 2023-11-29T14:05:45Z
 - **Size:** 6.13 MB
@@ -1282,7 +1282,7 @@
 - **Description:** A more intuitive version of du in rust
 - **Author:** bootandy
 - **Repository:** [https://github.com/bootandy/dust](https://github.com/bootandy/dust)
-- **Stars:** 6980
+- **Stars:** 6981
 - **Version:** v0.8.6
 - **Updated:** 2023-05-05T19:59:54Z
 - **Size:** 1.79 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 4068
+- **Stars:** 4069
 - **Version:** v0.16.3
 - **Updated:** 2023-12-07T04:57:47Z
 - **Size:** 1.52 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56000
+- **Stars:** 56001
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1874,7 +1874,7 @@
 - **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
-- **Stars:** 6505
+- **Stars:** 6506
 - **Version:** v1.4.0
 - **Updated:** 2023-10-29T13:23:20Z
 - **Size:** 7.43 MB
@@ -2114,7 +2114,7 @@
 - **Description:** Directory/File, DNS and VHost busting tool written in Go
 - **Author:** OJ
 - **Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
-- **Stars:** 8489
+- **Stars:** 8488
 - **Version:** v3.6.0
 - **Updated:** 2023-08-14T08:30:05Z
 - **Size:** 7.39 MB
@@ -2386,7 +2386,7 @@
 - **Description:** Small, fast tool for performing reverse DNS lookups en masse.
 - **Author:** hakluke
 - **Repository:** [https://github.com/hakluke/hakrevdns](https://github.com/hakluke/hakrevdns)
-- **Stars:** 1118
+- **Stars:** 1120
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.04 MB
@@ -2451,8 +2451,8 @@
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hexyl](https://github.com/sharkdp/hexyl)
 - **Stars:** 8559
-- **Version:** v0.13.1
-- **Updated:** 2023-07-26T06:59:55Z
+- **Version:** v0.14.0
+- **Updated:** 2023-12-11T22:33:44Z
 - **Size:** 0.67 MB
 - **SHA256SUM:** 5fa0cc4686d0782497713ce880fefd801af590b5ac289d261dba567700845538
 - **B3SUM:** dfb7d2baaf6bd72d5935d986f08622982677895c8f4a890694358fb14fb0c54b
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27324
+- **Stars:** 27325
 - **Version:** jq-1.7
 - **Updated:** 2023-09-06T22:54:12Z
 - **Size:** 1.64 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 14868
+- **Stars:** 14869
 - **Version:** 1.16.0
 - **Updated:** 2023-11-08T21:46:02Z
 - **Size:** 2.68 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31273
+- **Stars:** 31274
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40716
+- **Stars:** 40717
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3094,7 +3094,7 @@
 - **Version:** v1.0.1
 - **Updated:** 2022-07-25T15:25:00Z
 - **Size:** 1.28 MB
-- **SHA256SUM:** 63f193c103bb83f363d423a7e6d7f9aeff736626d2164ab0d712bb3b97ec7f33
+- **SHA256SUM:** 
 - **B3SUM:** f99d098ee7e6dbc19723590e9d0a8fbe24ea349a77f9bc091a963c06099b71a5
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/mgwls
 - **Language:** Go
@@ -3126,7 +3126,7 @@
 - **Version:** v0.24.0
 - **Updated:** 2023-07-06T08:50:57Z
 - **Size:** 1.30 MB
-- **SHA256SUM:** 9ac19b4a89af5610b65a1679a5a84ed43d7f848f166bc12400124223adaad019
+- **SHA256SUM:** 
 - **B3SUM:** b0a7f24029712b6a02980217449ef1f7fa5581772f2bbb24b2347fd9c7a517c5
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/miniserve
 - **Language:** Rust
@@ -3254,7 +3254,7 @@
 - **Version:** v2.1.6
 - **Updated:** 2023-12-02T12:20:02Z
 - **Size:** 4.06 MB
-- **SHA256SUM:** b8692d23f06eabd0a96d1d4bc5ac07f2be2474fcd558d65e11ff836ab2abd446
+- **SHA256SUM:** 
 - **B3SUM:** 77da83802b7790972c078dfef7b34215902d06b202efa31ae09db99b08acee4f
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/nmap-formatter
 - **Language:** Go
@@ -3270,7 +3270,7 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 6.93 MB
-- **SHA256SUM:** bc112aa66b3cb87230ae26334d08090003597a5740c5dddd92f50037440859f6
+- **SHA256SUM:** 
 - **B3SUM:** 9972e7f17d4ad1a821d23a1e966c4ec6493e358bee67ed69bb212d73ef6661b6
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/nmap
 - **Language:** C
@@ -3286,7 +3286,7 @@
 - **Version:** v1.0.5
 - **Updated:** 2023-05-27T16:51:32Z
 - **Size:** 17.62 MB
-- **SHA256SUM:** 6a968cb334d17ad69d7129254abbc8b98e4901c613f1398327e8a34e4fce194b
+- **SHA256SUM:** 
 - **B3SUM:** 8945075ececfcf6cd9d0f0c83cd8becac0dc08d5a8f240b02e73a9f7ec161a17
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/notify
 - **Language:** Go
@@ -3330,7 +3330,7 @@
 - **Description:** Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - **Author:** hatoo
 - **Repository:** [https://github.com/hatoo/oha](https://github.com/hatoo/oha)
-- **Stars:** 3262
+- **Stars:** 3263
 - **Version:** v1.0.0
 - **Updated:** 2023-11-16T07:34:03Z
 - **Size:** 6.81 MB
@@ -3366,7 +3366,7 @@
 - **Version:** v0.0.1
 - **Updated:** 2022-12-23T14:50:22Z
 - **Size:** 7.96 MB
-- **SHA256SUM:** 78c460d387daafe645b6de23a47d44b150e7181bab977685d8567ea7d440a854
+- **SHA256SUM:** 
 - **B3SUM:** 8bfc26f1d8bf4eecd9e9f3480f4776c82cc35e856feeefc6395a52b62d14a1b3
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/openrisk
 - **Language:** Go
@@ -3382,7 +3382,7 @@
 - **Version:** v2.65.6
 - **Updated:** 2023-11-24T15:31:26Z
 - **Size:** 9.22 MB
-- **SHA256SUM:** 02af221af9bc65a9ca6cef12500fd36566ac962597960aa68669b6d6baa4639e
+- **SHA256SUM:** 
 - **B3SUM:** 601fac0b29b7815e2d3bde59a272c1cf116175a78b8cd154e8a638348b498b88
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/orbiton
 - **Language:** Go
@@ -3398,7 +3398,7 @@
 - **Version:** v4.6.2
 - **Updated:** 2023-11-18T11:00:48Z
 - **Size:** 25.64 MB
-- **SHA256SUM:** 78c9376b0b35b105a1ad3b8cf9312f77466ab5cd5a50cafbe4d35a7d60bc93a2
+- **SHA256SUM:** 
 - **B3SUM:** 7e5d86436ba6a06ea9f17469199a6f0187f8a94b1cdb684036021dfc7c00c1f5
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/osmedeus
 - **Language:** Go
@@ -3430,7 +3430,7 @@
 - **Version:** v0.32.1
 - **Updated:** 2023-10-19T05:10:48Z
 - **Size:** 7.51 MB
-- **SHA256SUM:** 50bd0ae34d8b1474958dfa56ffcffd56c32242557aeb21ac17da401d59b6f9c4
+- **SHA256SUM:** 
 - **B3SUM:** aa0ab8504c2af64f8431445b73944411c39305a9672ee4b4a010c49530e0dd55
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ov
 - **Language:** Go
@@ -3446,7 +3446,7 @@
 - **Version:** v0.14.2
 - **Updated:** 2023-10-30T02:52:50Z
 - **Size:** 15.01 MB
-- **SHA256SUM:** c3ba3b4e9498b10dea3f508659d1bddaddccb6f720de88f8cb1fae93710034ad
+- **SHA256SUM:** 
 - **B3SUM:** cd66efbb57482b1dabafd50a063f3a268c9ad3a02643e7c3b2a62df5cc156f91
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/pgweb
 - **Language:** Go
@@ -3474,7 +3474,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 19986
+- **Stars:** 19987
 - **Version:** v4.8.2
 - **Updated:** 2023-12-11T12:42:38Z
 - **Size:** 26.82 MB
@@ -3510,7 +3510,7 @@
 - **Version:** v1.0.2
 - **Updated:** 2022-12-01T20:59:05Z
 - **Size:** 2.66 MB
-- **SHA256SUM:** eda5098cc010702dbf8a14f6e3324cdfd1efc73851ad1963b6ead676b5830728
+- **SHA256SUM:** 
 - **B3SUM:** e241135ae407da3f91963ddae2e2a3ca2496a697b70e467bb12ebd3a24481b0c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ppfuzz
 - **Language:** Rust
@@ -3558,7 +3558,7 @@
 - **Version:** v1.0.1
 - **Updated:** 2017-04-04T07:30:04Z
 - **Size:** 0.02 MB
-- **SHA256SUM:** 3a7fa85c867615ad332f4aa68720c5ee2aa9c4d38c37258893b020af7e949083
+- **SHA256SUM:** 
 - **B3SUM:** 31eae6eaadb50f1fa5d3fdf41873b5912d20cd6dd21c035780409877ab7f2896
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/prettyping
 - **Language:** Shell
@@ -3590,7 +3590,7 @@
 - **Version:** v0.0.12
 - **Updated:** 2023-08-12T20:48:49Z
 - **Size:** 34.42 MB
-- **SHA256SUM:** 171c802b4af374128cf5b5c5ae9ff80cb2e696a43c8326eaadf323f2084415eb
+- **SHA256SUM:** 
 - **B3SUM:** bdd3a5980c3fe28fdbb479e8d48d57ada99a1ebde51cb69ecab480c147738ceb
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/proxify
 - **Language:** Go
@@ -3602,7 +3602,7 @@
 - **Description:** :stars: Manage your shell commands.
 - **Author:** Nukesor
 - **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
-- **Stars:** 4047
+- **Stars:** 4048
 - **Version:** v3.3.2
 - **Updated:** 2023-11-28T16:10:32Z
 - **Size:** 2.21 MB
@@ -3618,7 +3618,7 @@
 - **Description:** :stars: Manage your shell commands.
 - **Author:** Nukesor
 - **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
-- **Stars:** 4047
+- **Stars:** 4048
 - **Version:** v3.3.2
 - **Updated:** 2023-11-28T16:10:32Z
 - **Size:** 2.27 MB
@@ -3714,11 +3714,11 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41551
+- **Stars:** 41553
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
-- **SHA256SUM:** 0735eb5f75f1e3beb38e0ea227e8a62523a2ae348a6320261a3e47c27e5e2149
+- **SHA256SUM:** 
 - **B3SUM:** 7313bb6d27a45cbb6a555ae5c185bdf305eca1a6d471385d5e182a285a718e40
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rclone
 - **Language:** Go
@@ -3782,7 +3782,7 @@
 - **Version:** v0.0.1
 - **Updated:** 2023-08-09T18:21:20Z
 - **Size:** 1.92 MB
-- **SHA256SUM:** a4a707162071de7ff392ebc3a7fd27d41096ea3bcc7f7ee7df07ef2694e41960
+- **SHA256SUM:** 
 - **B3SUM:** f4f13e1b201e61df1049ea54601086f161c07a3fc496f27fb9c45d92e977adee
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/revit
 - **Language:** Go
@@ -3846,7 +3846,7 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.74 MB
-- **SHA256SUM:** 551b6c2777942422e3ee5a5fa4eaea822236e37dfff8448514fae2575d38f014
+- **SHA256SUM:** 
 - **B3SUM:** fba6da4b310e31f62c968845d2a6d011e826e7802e3f05f708af6c61170582a6
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/roboxtractor
 - **Language:** Go
@@ -3858,7 +3858,7 @@
 - **Description:**  for implementing rootless containers
 - **Author:** rootless-containers
 - **Repository:** [https://github.com/rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit)
-- **Stars:** 841
+- **Stars:** 842
 - **Version:** v1.1.1
 - **Updated:** 2023-05-30T06:38:43Z
 - **Size:** 7.14 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21211
+- **Stars:** 21214
 - **Version:** v0.1.7
 - **Updated:** 2023-12-04T23:28:33Z
 - **Size:** 12.78 MB
@@ -3974,7 +3974,7 @@
 - **Version:** v0.14.2
 - **Updated:** 2023-12-05T12:28:27Z
 - **Size:** 5.19 MB
-- **SHA256SUM:** 421f497d1c9fe83e6b03cb94a18116325a52004a001cab617aa27fdd380c8682
+- **SHA256SUM:** 
 - **B3SUM:** 373b3110b386f4afb8f56833e9a72af6c2e3996496251a542959daab1ac6c7bd
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rustypaste
 - **Language:** Rust
@@ -4278,7 +4278,7 @@
 - **Version:** v0.3.0
 - **Updated:** 2022-03-08T05:31:09Z
 - **Size:** 7.82 MB
-- **SHA256SUM:** 28f420817f44bc820d8f65ccfdea87fa1aa87d42b85af1755f5dc7c83568e8e7
+- **SHA256SUM:** 
 - **B3SUM:** 3bf0ebd515e0a5e0ad4a1ef9f50167e7a6daa6d4c2ca404101619a457fed21be
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/stew
 - **Language:** Go
@@ -4342,7 +4342,7 @@
 - **Version:** v1.0.1
 - **Updated:** 2020-05-16T17:11:45Z
 - **Size:** 4.80 MB
-- **SHA256SUM:** 6ca1c07a25d99deb15159bd99536d2ad8c2372b37b8a4ccf94552dc17a8a1981
+- **SHA256SUM:** 
 - **B3SUM:** 0c736440e27ee3694349c59befc0007c688ccfa84613f614d14cd05375f87752
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/subjs
 - **Language:** Go
@@ -4358,7 +4358,7 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 0.00 MB
-- **SHA256SUM:** 838cd5429cf4601cde2713b2b6440832cc47c906af9ae15802c77c2bbcc57b1a
+- **SHA256SUM:** 
 - **B3SUM:** b66add7130bf520cb5ebaf4b25ff9fff3aef41143456507618f2cdee15b3a240
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/subxtract
 - **Language:** Shell
@@ -4390,7 +4390,7 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 3.84 MB
-- **SHA256SUM:** 6deb104aa101c7357624cf9ab5a925f04632f0c54a36819b43c36a95dde829e8
+- **SHA256SUM:** 
 - **B3SUM:** 86273f4623bfc1c4d0d61993f83cf496976727da0caa0cb2fc10760ba3d7d054
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/systemctl-tui
 - **Language:** Rust
@@ -4406,7 +4406,7 @@
 - **Version:** v0.4.4
 - **Updated:** 2023-09-19T10:15:03Z
 - **Size:** 1.91 MB
-- **SHA256SUM:** 4a36b52a0dc84f39481a6e6760ac7548d2cc5ca0b4ecbf0c9bae37103a06f731
+- **SHA256SUM:** 
 - **B3SUM:** 75eb0339953d3ddcf70b39e2918e69ac7878a69e0cfa01313cfae256b1d55db7
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/systeroid
 - **Language:** Rust
@@ -4438,7 +4438,7 @@
 - **Version:** v1.54.1
 - **Updated:** 2023-11-30T18:44:21Z
 - **Size:** 10.48 MB
-- **SHA256SUM:** 805d77421f4de5d4dd4c763754557e0d05f82bb0685a3395b4f61e2d80fcbaff
+- **SHA256SUM:** 
 - **B3SUM:** 916f0eb999d9c06d9f7460b501c1c8534e9baf1868a282fb34b22612219fd74c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tailscale
 - **Language:** Go
@@ -4470,7 +4470,7 @@
 - **Version:** 2.2.0
 - **Updated:** 2023-11-19T15:04:41Z
 - **Size:** 2.62 MB
-- **SHA256SUM:** 9480942530c726ebf739af6751af7a4709e5426638a1b3494a005c9ea4c712bc
+- **SHA256SUM:** 
 - **B3SUM:** 24bdb90e4f3b6ca29b67d718f9eaf64e1daea6e0b9bfbb167cb1dadbc88441d2
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tailspin
 - **Language:** Rust
@@ -4486,7 +4486,7 @@
 - **Version:** v0.13.3
 - **Updated:** 2023-12-10T10:04:58Z
 - **Size:** 32.31 MB
-- **SHA256SUM:** d0afb45aafe30cb67b9c389c3d80040926a8a6bb72f0009c5d28ac6f8de6857e
+- **SHA256SUM:** 
 - **B3SUM:** a43dddaadd3befd8c4c03d7ec7c30bb0042d6a3598986bfbe7c9505cab3e4819
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tdl
 - **Language:** Go
@@ -4518,7 +4518,7 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 0.01 MB
-- **SHA256SUM:** 00a6e1de7ea8fc8922f7981bc641cc9b4f117fc201e7336c5380b427dd7a09a2
+- **SHA256SUM:** 
 - **B3SUM:** 61f482348cf5f7691dfec181fb81b5507417cfb27f54ba1fe2e33a85a376b3b4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tldr
 - **Language:** Shell
@@ -4534,7 +4534,7 @@
 - **Version:** v1.1.5
 - **Updated:** 2023-09-28T11:08:02Z
 - **Size:** 23.92 MB
-- **SHA256SUM:** b94158fcc88d533fb9b8616e763d15a19121666d1d0c0bebd8d1e6456472c571
+- **SHA256SUM:** 
 - **B3SUM:** 9d21aaeacc9f6b0833fdc83d90863de6e1215f6652b0d9170c4ba2e0cdd7e5ee
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tlsx
 - **Language:** Go
@@ -4550,7 +4550,7 @@
 - **Version:** 2.4.0
 - **Updated:** 2019-11-16T22:14:17Z
 - **Size:** 2.84 MB
-- **SHA256SUM:** 0ae97d8e80db43a1b1c5388b2bd9c63aa07da15df9d854428956f45f3c439c84
+- **SHA256SUM:** 
 - **B3SUM:** 7bd67502b2bc1529709d68b9b70cd0ef37469dab37ad79335bda803bfb7404f9
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tmate
 - **Language:** C
@@ -4566,7 +4566,7 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.29 MB
-- **SHA256SUM:** 527b17192d31082fb0c6eb1b5abb7ff91ef87e20966df688e7d59d4b6fd24cd3
+- **SHA256SUM:** 
 - **B3SUM:** dd4f85007023ea61b9d358c986df40b2e0b3d8ac985ecb095c32c348d76dd0f3
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tok
 - **Language:** Go
@@ -4578,11 +4578,11 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 9268
+- **Stars:** 9269
 - **Version:** v13.0.0-alpha.0
 - **Updated:** 2023-03-27T15:56:31Z
 - **Size:** 3.49 MB
-- **SHA256SUM:** 15c650f8745691e1fd95621d5e2fcf99a9df3c6114f5154d59649c5bc9567cf0
+- **SHA256SUM:** 
 - **B3SUM:** 631d829dc8d95ecf0ae832350f50ef5edcff83dc816f290205d668654359d416
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tokei
 - **Language:** Rust
@@ -4598,7 +4598,7 @@
 - **Version:** 0.8.10
 - **Updated:** 2023-07-30T09:41:04Z
 - **Size:** 0.80 MB
-- **SHA256SUM:** ef98721241d9949fc4b2472bbef76260c9669e8e5d0d7ac99de50fff26cc1aa9
+- **SHA256SUM:** 
 - **B3SUM:** a6db9d826c493db902409585080fcc8b4e262993450196561a023e271623a18e
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/toybox
 - **Language:** C
@@ -4630,7 +4630,7 @@
 - **Version:** 2.0.1
 - **Updated:** 2023-01-26T17:48:00Z
 - **Size:** 9.36 MB
-- **SHA256SUM:** 8b38be75116dd268875505b0c52350d6ff1e1b97fd2f5544c993fa7138e25d67
+- **SHA256SUM:** 
 - **B3SUM:** 13f5e2b937b35ec21c9318ce76b804932ac4aa4e6b0a1c95a0c7830933031844
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tut
 - **Language:** Go
@@ -4646,7 +4646,7 @@
 - **Version:** v1.5.4
 - **Updated:** 2023-09-05T17:50:55Z
 - **Size:** 3.05 MB
-- **SHA256SUM:** f32128169431ef42eade81749b7006059bb88fac6ab98257f5ecb8ef335c7ee8
+- **SHA256SUM:** 
 - **B3SUM:** aa062e346180c76c2ddb22a792dbc249429f6de91e842bbf0455eb5bbe8b771b
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/txeh
 - **Language:** Go
@@ -4662,7 +4662,7 @@
 - **Version:** v0.6.3
 - **Updated:** 2023-01-16T17:34:58Z
 - **Size:** 2.37 MB
-- **SHA256SUM:** 93b63072e4a2e2839d74056bcc663dcb0b59203f73ad09498ba0e6f02c252f97
+- **SHA256SUM:** 
 - **B3SUM:** b757a5f95a5c71a528fb1b7528817403b5edf5daea2a27be6ae042c5285a4909
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tz
 - **Language:** Go
@@ -4694,7 +4694,7 @@
 - **Version:** v1.0.7
 - **Updated:** 2023-10-20T12:17:12Z
 - **Size:** 22.60 MB
-- **SHA256SUM:** 0ee859a47f6452bdec7ccc2cd90653a18add35d0362c1430d0f867e3cea03cbf
+- **SHA256SUM:** 
 - **B3SUM:** 0e9530d61e272b868539702e87c5c6ed7e2d02f0070b4c79686dd0c5a279db41
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/uncover
 - **Language:** Go
@@ -4726,7 +4726,7 @@
 - **Version:** v4.2.1
 - **Updated:** 2023-11-01T12:02:45Z
 - **Size:** 0.55 MB
-- **SHA256SUM:** 66978447601f81bc5319d504f79875d83dedbfc737df9eaa2d9dbaaa4c1c39bc
+- **SHA256SUM:** 
 - **B3SUM:** 9e2f0c0a9c9c4d19806ae2a6fd3a47ff3c8999e5b308d46bc1ea7a8ecd13c8e3
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/upx
 - **Language:** C++
@@ -4758,7 +4758,7 @@
 - **Version:** 0.2.0
 - **Updated:** 2021-06-30T12:29:46Z
 - **Size:** 3.67 MB
-- **SHA256SUM:** 7194f6e8f840a38f11796ec32005ad0de54db2147855435fa5768ccbb7698dd4
+- **SHA256SUM:** 
 - **B3SUM:** b21fa4679551a0f3ba9e16688f4c7ecaaf35312b8562904ccad11c84dbe36e84
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/validtoml
 - **Language:** Go
@@ -4774,7 +4774,7 @@
 - **Version:** v12.11.1
 - **Updated:** 2023-10-02T09:08:28Z
 - **Size:** 9.74 MB
-- **SHA256SUM:** a1c62b8d4bc2915280b7a7ccefd5853490e0d6037cb0fdc3e801b49a1738a9d6
+- **SHA256SUM:** 
 - **B3SUM:** 7d8c36e7c914dcdee0afe83dbb6fd1b5e88512209bb1e2db37c5a30995ba5975
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/vegeta
 - **Language:** Go
@@ -4806,7 +4806,7 @@
 - **Version:** v0.4.0
 - **Updated:** 2023-10-15T07:41:31Z
 - **Size:** 7.57 MB
-- **SHA256SUM:** 1570522d8346c3873089174be7f4b5552fef4201c6bc6241a0baadecc1245977
+- **SHA256SUM:** 
 - **B3SUM:** bacbd758a60854d8b3bc836aeacf48941148b1becb963157096f55ed05bb0115
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/viddy
 - **Language:** Go
@@ -4822,7 +4822,7 @@
 - **Version:** 0.10.7
 - **Updated:** 2023-11-04T16:15:58Z
 - **Size:** 9.51 MB
-- **SHA256SUM:** ce920244d7ab6a10309dabee738e5c0fbdb9069f7a96984ef5835077a357dd77
+- **SHA256SUM:** 
 - **B3SUM:** cf99c97fa55cc8c6e90db86f68a01dd4c8279e7524e0c267737210123b167432
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/vopono
 - **Language:** Rust
@@ -4838,7 +4838,7 @@
 - **Version:** v0.9.30
 - **Updated:** 2023-12-11T21:22:27Z
 - **Size:** 4.59 MB
-- **SHA256SUM:** 23c77c52faa0a590a72c9e24a2a5024b912f461ccd9fd0ebc931af965a09afcd
+- **SHA256SUM:** 
 - **B3SUM:** 0790a9dae5525ccafcf817ea56ecc070c4f3eb0abbb3304d7a28aced96a3c58d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/vtm
 - **Language:** C++
@@ -4866,7 +4866,7 @@
 - **Description:** Terminal file manager
 - **Author:** antonmedv
 - **Repository:** [https://github.com/antonmedv/walk](https://github.com/antonmedv/walk)
-- **Stars:** 2825
+- **Stars:** 2826
 - **Version:** v1.7.0
 - **Updated:** 2023-10-29T11:07:58Z
 - **Size:** 2.56 MB
@@ -4902,7 +4902,7 @@
 - **Version:** v1.0.1
 - **Updated:** 2023-09-21T15:25:43Z
 - **Size:** 5.13 MB
-- **SHA256SUM:** ebcf5cd575056cab9d2aca55dbdd59c38f4c697259dc5d7ebf8712d96b0bb8b1
+- **SHA256SUM:** 
 - **B3SUM:** 17a2c05feefbb7d769a3f7f151351f6de29cbd1231b1ac1ec3508d03e026efe2
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/waybackrobots
 - **Language:** Go
@@ -4934,7 +4934,7 @@
 - **Version:** 1.1.1
 - **Updated:** 2023-12-06T10:46:10Z
 - **Size:** 5.13 MB
-- **SHA256SUM:** adb74410827a9a235421c5e6def765c87db4f3a5f3c92eeb297b9f7e817c8d3b
+- **SHA256SUM:** 
 - **B3SUM:** 14534705acb3463981ee6d2c1719bd61b0974e0960b95b53dff3bdc116c8cc46
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/web-cache-vulnerability-scanner
 - **Language:** Go
@@ -4966,7 +4966,7 @@
 - **Version:** v0.0.20201121
 - **Updated:** 2021-04-23T02:26:48Z
 - **Size:** 2.61 MB
-- **SHA256SUM:** d0d4514f44664efa09364d6cbaa2bf0ee6b9be69316410aa755db82ab9b2a974
+- **SHA256SUM:** 
 - **B3SUM:** fd5e2745448064a6f81cc9cb965ca666ec20cfa06b07ca0f169fda8b910af4bd
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wireguard-go
 - **Language:** Go
@@ -4998,7 +4998,7 @@
 - **Version:** v0.4.2
 - **Updated:** 2023-11-12T02:50:09Z
 - **Size:** 13.48 MB
-- **SHA256SUM:** f7eaa3f03fe0b1bb783e8848335136247fcaed25e1474ff43fe7a1d64a569563
+- **SHA256SUM:** 
 - **B3SUM:** bc46c491d429eded38291208caeadeca9705edba8b1b2e8bfa0d9e457811e466
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wiretap
 - **Language:** Go
@@ -5014,7 +5014,7 @@
 - **Version:** 0.6.1
 - **Updated:** 2023-12-03T18:11:45Z
 - **Size:** 5.20 MB
-- **SHA256SUM:** bd3a997503b75fdf8ff2243cfabdf1ebbacbc407cbfd7f718841c2a9f62cd6ed
+- **SHA256SUM:** 
 - **B3SUM:** aa8ff39b77866309ecddcc6fc8e68138bb368ee95d41e14d4a8c4da79640b3de
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wormhole-rs
 - **Language:** Rust
@@ -5062,7 +5062,7 @@
 - **Version:** v0.21.3
 - **Updated:** 2023-08-07T18:36:50Z
 - **Size:** 4.65 MB
-- **SHA256SUM:** 09faa99b25a7eeeef90f4750ce4a0546ea2bacf92f5c887b0b0fbaf1d80fc91f
+- **SHA256SUM:** 
 - **B3SUM:** 6665df2d7a94bffa08e25d4f3374dca06c7cc7b9dcbae3d3b90bb740b877c2d3
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/xplr
 - **Language:** Rust
@@ -5078,7 +5078,7 @@
 - **Version:** v2.5.0
 - **Updated:** 2023-04-16T20:42:59Z
 - **Size:** 4.45 MB
-- **SHA256SUM:** 986e07d36c6d67b186c3415d90e386d20c0990f2496149a70b15f5c6efb11b7c
+- **SHA256SUM:** 
 - **B3SUM:** 717952048fa0c8b29884cf57f67d754b3d8784eaa5c19a61d81799cefa6ed610
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/xurls
 - **Language:** Go
@@ -5126,7 +5126,7 @@
 - **Version:** v5.1.0
 - **Updated:** 2022-04-12T01:58:57Z
 - **Size:** 3.10 MB
-- **SHA256SUM:** 6874df0ec14d3b10d16d24ce40d77cb58601a99fa86b6c8cbf810562ea90c3f0
+- **SHA256SUM:** 
 - **B3SUM:** 9fda3b60707f8c3f91216ecb12ace1be72a693b878f1471b2e048f40bf4cca05
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yj
 - **Language:** Go
@@ -5170,11 +5170,11 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 14898
+- **Stars:** 14899
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
-- **SHA256SUM:** a7f5bba8992b4235b9251e7a96868d3902127bdededd5bb061ffcdf9c2ef3b92
+- **SHA256SUM:** 
 - **B3SUM:** 4175f4cfe5bf521e5ea9f765e5bc8364640edfd2b74aad5175cf30a06948e5b4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zellij
 - **Language:** Rust
@@ -5190,7 +5190,7 @@
 - **Version:** 0.14.0
 - **Updated:** 2023-02-24T22:01:18Z
 - **Size:** 1.26 MB
-- **SHA256SUM:** 105fc86766796222caf6377800d18224264bcf485ea4193e5bb376af7ba2c167
+- **SHA256SUM:** 
 - **B3SUM:** 02cd672596d69c7440f6eddb8af40a9e3bedc29291b8872be63c49108b43e4b3
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zenith
 - **Language:** Rust
@@ -5218,11 +5218,11 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 12712
+- **Stars:** 12714
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 0.93 MB
-- **SHA256SUM:** fc8bde5cd4563d6bbfec2c838a9ed48aa644c0782435bb8f196d18f6f4f0e81a
+- **SHA256SUM:** 
 - **B3SUM:** e7e7e7a53015bf27ad3d866c87ec2f9c87c91ac4eea405b1d896a7319bd5fe00
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zoxide
 - **Language:** Rust
