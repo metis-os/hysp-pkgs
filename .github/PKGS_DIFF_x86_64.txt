@@ -12,6 +12,7 @@
 │ 255│-lsd                              │    │
 │ 258│-macchina                         │    │
 │ 265│-mcfly                            │    │
+│ 270│-micro                            │    │
 │ 280│-navi                             │    │
 │ 281│-ncat                             │    │
 │ 282│-ncdu                             │    │
