@@ -1,0 +1,26 @@
+[bin]
+name = "rospo"
+
+[package]
+architecture = "x86_64"
+name = "rospo"
+description = "🐸 Simple, reliable, persistent ssh tunnels with embedded ssh server"
+author = "ferama"
+repo = "https://github.com/ferama/rospo"
+stars = "246"
+version = "v0.11.6"
+updated = "2023-11-26T11:17:40Z"
+size = "8.56 MB"
+bsum = "2ff41ad0ea841e8b0e0d6b31765d58e74735349b4cbe0deb40de8662e4dfb5be"
+sha = "04d8359be66e882e89cd6d3fdc1cf64edf50725a2c11555cae0e5a59dce8c6f9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rospo"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rospo"]
+requires = []
+
+[package.metadata]
+keywords = ["developer-tools","devtools","embedded-sshd-server","golang","networking","port-forwarding","portable-executable","proxy","reverse-shell","socks4","socks5","socks5-proxy","ssh","ssh-client","ssh-server","ssh-tunnels","tunnel"]
+categories = ["Utilities"]

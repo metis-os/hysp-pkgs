@@ -1,0 +1,26 @@
+[bin]
+name = "scopeview"
+
+[package]
+architecture = "x86_64"
+name = "scopeview"
+description = " Beg Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "9"
+version = "null"
+updated = ""
+size = "0.00 MB"
+bsum = "8f6395301d795091528d401725333201fb13e970ea887a7726b9e485f6a59819"
+sha = "91edb3c8bfc420d6ce1c7a5c05fb2bec8f59457e15dada31cf970e372a8a104e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scopeview"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["scopeview"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","recon","tools"]
+categories = ["Utilities"]
