@@ -22,5 +22,5 @@ conflicts  = ["mailpit"]
 requires = []
 
 [package.metadata]
-keywords = ["email-testing","go","golang","smtp-relay","smtp-server","smtp-testing"]
+keywords = ["email-testing","go","golang","mailpit","smtp-relay","smtp-server","smtp-testing"]
 categories = ["Utilities"]
