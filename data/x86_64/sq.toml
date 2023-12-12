@@ -1,0 +1,26 @@
+[bin]
+name = "sq"
+
+[package]
+architecture = "x86_64"
+name = "sq"
+description = "sq data wrangler"
+author = "neilotoole"
+repo = "https://github.com/neilotoole/sq"
+stars = "486"
+version = "v0.46.1"
+updated = "2023-12-07T03:41:49Z"
+size = "28.18 MB"
+bsum = "726ad2b6f6bcc6fb05342b06dfc5f44be8241755e953cfedc72ec2ce0e3dab98"
+sha = "17f0581f871fa873cf679f44dab25872205d52997e3d2e9d142937572777deac"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sq"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sq"]
+requires = []
+
+[package.metadata]
+keywords = ["azure-sql-edge","csv","data-wrangler","database","excel","go","golang","json","jsona","jsonl","markdown","mysql","postgres","sql","sqlserver","tsv","xlsx","xml"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "subjs"
+
+[package]
+architecture = "x86_64"
+name = "subjs"
+description = "Fetches javascript file from a list of URLS or subdomains."
+author = "lc"
+repo = "https://github.com/lc/subjs"
+stars = "669"
+version = "v1.0.1"
+updated = "2020-05-16T17:11:45Z"
+size = "5.01 MB"
+bsum = "2629adc9ea39487ab72fee5ea1c4cf2e15e348bee44d5805775eca7add47310a"
+sha = "033cde20285907f866ff5489118d129fbaad36f4bd5ab2ba6154e0dbcbd91520"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/subjs"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["subjs"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

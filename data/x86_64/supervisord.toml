@@ -1,0 +1,26 @@
+[bin]
+name = "supervisord"
+
+[package]
+architecture = "x86_64"
+name = "supervisord"
+description = "a go-lang supervisor implementation"
+author = "ochinchina"
+repo = "https://github.com/ochinchina/supervisord"
+stars = "3745"
+version = "v0.7.3"
+updated = "2021-05-03T13:50:27Z"
+size = "10.25 MB"
+bsum = "644c4b9250feee342ea255fa5787b22771f1e19e2a4185f435030b1d3af16a3a"
+sha = "d7a80c377e1747890beb49504405a542429dbadf6d68a69471c07474269c392c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/supervisord"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["supervisord"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

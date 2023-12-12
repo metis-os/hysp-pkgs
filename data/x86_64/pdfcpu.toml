@@ -1,0 +1,26 @@
+[bin]
+name = "pdfcpu"
+
+[package]
+architecture = "x86_64"
+name = "pdfcpu"
+description = "A PDF processor written in Go."
+author = "pdfcpu"
+repo = "https://github.com/pdfcpu/pdfcpu"
+stars = "5608"
+version = "v0.6.0"
+updated = "2023-12-10T09:33:54Z"
+size = "9.71 MB"
+bsum = "860e864de084199cc2ffd64199a04a01444ca1658b0d1d7923e812c57c5798fd"
+sha = "34a6231fd0828b3d2f8fb39262471011ea3c79ee6caa43de1dfa7e405112e49b"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pdfcpu"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["pdfcpu"]
+requires = []
+
+[package.metadata]
+keywords = ["go","golang","golang-library","pdf","pdf-files","pdf-lib","pdf-processor","pdflib","processor"]
+categories = ["Utilities"]
