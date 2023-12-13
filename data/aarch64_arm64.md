@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 45967
+- **Stars:** 45968
 - **Version:** v0.2.55
 - **Updated:** 2023-12-01T02:21:34Z
 - **Size:** 14.52 MB
@@ -226,7 +226,7 @@
 - **Description:** ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - **Author:** nitefood
 - **Repository:** [https://github.com/nitefood/asn](https://github.com/nitefood/asn)
-- **Stars:** 1085
+- **Stars:** 1086
 - **Version:** v0.75.2
 - **Updated:** 2023-12-03T01:56:52Z
 - **Size:** 0.18 MB
@@ -242,7 +242,7 @@
 - **Description:** Go CLI and Library for quickly mapping organization network ranges using ASN information.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap)
-- **Stars:** 564
+- **Stars:** 565
 - **Version:** v1.0.6
 - **Updated:** 2023-11-09T14:08:16Z
 - **Size:** 20.03 MB
@@ -418,7 +418,7 @@
 - **Description:** a graphical tool to visualize binary data
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/binocle](https://github.com/sharkdp/binocle)
-- **Stars:** 963
+- **Stars:** 964
 - **Version:** v0.3.2
 - **Updated:** 2023-12-01T13:12:23Z
 - **Size:** 6.02 MB
@@ -546,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14245
+- **Stars:** 14246
 - **Version:** v1.2.13
 - **Updated:** 2022-11-06T21:36:41Z
 - **Size:** 2.25 MB
@@ -882,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25226
+- **Stars:** 25227
 - **Version:** v9.6.6
 - **Updated:** 2023-11-09T14:56:49Z
 - **Size:** 7.08 MB
@@ -1266,7 +1266,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 11782
+- **Stars:** 11783
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.14 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39826
+- **Stars:** 39827
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39826
+- **Stars:** 39827
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -1842,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 33978
+- **Stars:** 33979
 - **Version:** v2.40.1
 - **Updated:** 2023-12-13T14:59:38Z
 - **Size:** 41.22 MB
@@ -2082,7 +2082,7 @@
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
-- **Stars:** 13840
+- **Stars:** 13841
 - **Version:** v1.5.1
 - **Updated:** 2023-05-09T16:16:51Z
 - **Size:** 16.60 MB
@@ -2114,7 +2114,7 @@
 - **Description:** Directory/File, DNS and VHost busting tool written in Go
 - **Author:** OJ
 - **Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
-- **Stars:** 8496
+- **Stars:** 8498
 - **Version:** v3.6.0
 - **Updated:** 2023-08-14T08:30:05Z
 - **Size:** 7.39 MB
@@ -2194,7 +2194,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14378
+- **Stars:** 14379
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.07 MB
@@ -2386,7 +2386,7 @@
 - **Description:** Small, fast tool for performing reverse DNS lookups en masse.
 - **Author:** hakluke
 - **Repository:** [https://github.com/hakluke/hakrevdns](https://github.com/hakluke/hakrevdns)
-- **Stars:** 1182
+- **Stars:** 1183
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.04 MB
@@ -2786,7 +2786,7 @@
 - **Description:** Linux Kernel Manager and Activity Monitor 🐧💻
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/kmon](https://github.com/orhun/kmon)
-- **Stars:** 2244
+- **Stars:** 2245
 - **Version:** v1.6.4
 - **Updated:** 2023-10-27T08:56:26Z
 - **Size:** 1.07 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31302
+- **Stars:** 31304
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40762
+- **Stars:** 40761
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3202,7 +3202,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19393
+- **Stars:** 19392
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 0.52 MB
@@ -3314,7 +3314,7 @@
 - **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- **Stars:** 15667
+- **Stars:** 15668
 - **Version:** v3.1.1
 - **Updated:** 2023-12-09T13:25:37Z
 - **Size:** 65.59 MB
@@ -3602,7 +3602,7 @@
 - **Description:** :stars: Manage your shell commands.
 - **Author:** Nukesor
 - **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
-- **Stars:** 4051
+- **Stars:** 4052
 - **Version:** v3.3.2
 - **Updated:** 2023-11-28T16:10:32Z
 - **Size:** 2.21 MB
@@ -3618,7 +3618,7 @@
 - **Description:** :stars: Manage your shell commands.
 - **Author:** Nukesor
 - **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
-- **Stars:** 4051
+- **Stars:** 4052
 - **Version:** v3.3.2
 - **Updated:** 2023-11-28T16:10:32Z
 - **Size:** 2.27 MB
@@ -3810,7 +3810,7 @@
 - **Description:** rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - **Author:** phiresky
 - **Repository:** [https://github.com/phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)
-- **Stars:** 5935
+- **Stars:** 5936
 - **Version:** v1.0.0-alpha.5
 - **Updated:** 2023-06-04T16:38:58Z
 - **Size:** 3.39 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21285
+- **Stars:** 21289
 - **Version:** v0.1.8
 - **Updated:** 2023-12-13T19:15:17Z
 - **Size:** 12.78 MB
@@ -4242,7 +4242,7 @@
 - **Description:** :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - **Author:** moul
 - **Repository:** [https://github.com/moul/sshportal](https://github.com/moul/sshportal)
-- **Stars:** 1604
+- **Stars:** 1605
 - **Version:** v1.19.5
 - **Updated:** 2023-05-20T09:27:43Z
 - **Size:** 10.12 MB
@@ -4258,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 38022
+- **Stars:** 38023
 - **Version:** v1.16.0
 - **Updated:** 2023-07-30T13:48:25Z
 - **Size:** 7.40 MB
@@ -4322,7 +4322,7 @@
 - **Description:** Fast passive subdomain enumeration tool.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
-- **Stars:** 8619
+- **Stars:** 8620
 - **Version:** v2.6.3
 - **Updated:** 2023-09-12T09:40:25Z
 - **Size:** 23.50 MB
@@ -4722,7 +4722,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12622
+- **Stars:** 12623
 - **Version:** v4.2.1
 - **Updated:** 2023-11-01T12:02:45Z
 - **Size:** 0.55 MB
@@ -4930,7 +4930,7 @@
 - **Description:** Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
 - **Author:** Hackmanit
 - **Repository:** [https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
-- **Stars:** 747
+- **Stars:** 748
 - **Version:** 1.1.1
 - **Updated:** 2023-12-06T10:46:10Z
 - **Size:** 5.13 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 14920
+- **Stars:** 14921
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
@@ -5218,7 +5218,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 12728
+- **Stars:** 12729
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 0.93 MB
