@@ -1,0 +1,26 @@
+[bin]
+name = "yataf"
+
+[package]
+architecture = "x86_64"
+name = "yataf"
+description = "yataf extracts secrets and paths from files or urls - its best used against javascript files"
+author = "Damian89"
+repo = "https://github.com/Damian89/yataf"
+stars = "46"
+version = "1.0.0"
+updated = "2023-02-08T13:45:36Z"
+size = "4.74 MB"
+bsum = "03ed8277b2b33e2dc4ff7aa3845c44c381998f06d6e884247f9bd4a211683c96"
+sha = "f516fa390b3d0115cb01c673c1daaedfe0d5b2900d549595811ebe4568368a38"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yataf"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["yataf"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty-tools","pentesting"]
+categories = ["Utilities"]

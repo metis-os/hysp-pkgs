@@ -1,0 +1,26 @@
+[bin]
+name = "watchexec"
+
+[package]
+architecture = "x86_64"
+name = "watchexec"
+description = "Executes commands in response to file modifications"
+author = "watchexec"
+repo = "https://github.com/watchexec/watchexec"
+stars = "4442"
+version = "v1.24.1"
+updated = "2023-12-11T12:38:01Z"
+size = "7.99 MB"
+bsum = "18e63064e2f17faef5a376c95553a224a49fc4dda69a4ab20ce931cdfc6293d9"
+sha = "ee1af02cdf99fcd18ee4f18491b03907c3e8b3f5b974ccd4dbc3e92d7e4ea89e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/watchexec"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["watchexec"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","developer-tools","file-watchers","linux","macos","rust","windows"]
+categories = ["Utilities"]
