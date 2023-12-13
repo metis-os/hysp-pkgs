@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 45956
+- **Stars:** 45957
 - **Version:** v0.2.55
 - **Updated:** 2023-12-01T02:21:34Z
 - **Size:** 14.52 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 33176
+- **Stars:** 33178
 - **Version:** v3.29.1
 - **Updated:** 2023-11-25T08:10:18Z
 - **Size:** 61.29 MB
@@ -322,7 +322,7 @@
 - **Description:** Terminal bandwidth utilization tool
 - **Author:** imsnif
 - **Repository:** [https://github.com/imsnif/bandwhich](https://github.com/imsnif/bandwhich)
-- **Stars:** 8334
+- **Stars:** 8333
 - **Version:** v0.21.1
 - **Updated:** 2023-10-16T01:40:32Z
 - **Size:** 2.01 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44195
+- **Stars:** 44196
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -546,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14233
+- **Stars:** 14234
 - **Version:** v1.2.13
 - **Updated:** 2022-11-06T21:36:41Z
 - **Size:** 2.25 MB
@@ -1058,7 +1058,7 @@
 - **Description:** Instant, easy, and predictable development environments
 - **Author:** jetpack-io
 - **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
-- **Stars:** 6594
+- **Stars:** 6596
 - **Version:** 0.8.4
 - **Updated:** 2023-12-08T21:42:29Z
 - **Size:** 20.71 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 29759
+- **Stars:** 29760
 - **Version:** v8.7.1
 - **Updated:** 2023-10-21T04:29:37Z
 - **Size:** 2.47 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39801
+- **Stars:** 39804
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 39801
+- **Stars:** 39804
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -1810,7 +1810,7 @@
 - **Description:** A wrapper around grep, to help you grep for things
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/gf](https://github.com/tomnomnom/gf)
-- **Stars:** 1543
+- **Stars:** 1542
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
@@ -1842,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 33974
+- **Stars:** 33975
 - **Version:** v2.40.0
 - **Updated:** 2023-12-07T15:06:02Z
 - **Size:** 41.22 MB
@@ -2114,7 +2114,7 @@
 - **Description:** Directory/File, DNS and VHost busting tool written in Go
 - **Author:** OJ
 - **Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
-- **Stars:** 8492
+- **Stars:** 8493
 - **Version:** v3.6.0
 - **Updated:** 2023-08-14T08:30:05Z
 - **Size:** 7.39 MB
@@ -2402,7 +2402,7 @@
 - **Description:** A CLI tool to get help with CLI tools 🐙
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/halp](https://github.com/orhun/halp)
-- **Stars:** 625
+- **Stars:** 626
 - **Version:** v0.1.7
 - **Updated:** 2023-06-17T17:22:35Z
 - **Size:** 2.08 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 14888
+- **Stars:** 14889
 - **Version:** 1.16.0
 - **Updated:** 2023-11-08T21:46:02Z
 - **Size:** 2.68 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40749
+- **Stars:** 40750
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -2882,7 +2882,7 @@
 - **Description:** Terminal file manager
 - **Author:** gokcehan
 - **Repository:** [https://github.com/gokcehan/lf](https://github.com/gokcehan/lf)
-- **Stars:** 6625
+- **Stars:** 6626
 - **Version:** r31
 - **Updated:** 2023-09-17T11:55:19Z
 - **Size:** 3.38 MB
@@ -3314,7 +3314,7 @@
 - **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- **Stars:** 15659
+- **Stars:** 15660
 - **Version:** v3.1.1
 - **Updated:** 2023-12-09T13:25:37Z
 - **Size:** 65.59 MB
@@ -3570,7 +3570,7 @@
 - **Description:** A modern replacement for ps written in Rust
 - **Author:** dalance
 - **Repository:** [https://github.com/dalance/procs](https://github.com/dalance/procs)
-- **Stars:** 4411
+- **Stars:** 4410
 - **Version:** v0.14.4
 - **Updated:** 2023-11-24T00:58:03Z
 - **Size:** 3.45 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41582
+- **Stars:** 41585
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 41904
+- **Stars:** 41905
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -4258,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 38001
+- **Stars:** 38002
 - **Version:** v1.16.0
 - **Updated:** 2023-07-30T13:48:25Z
 - **Size:** 7.40 MB
@@ -4434,7 +4434,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14553
+- **Stars:** 14554
 - **Version:** v1.54.1
 - **Updated:** 2023-11-30T18:44:21Z
 - **Size:** 10.48 MB
@@ -4450,7 +4450,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14553
+- **Stars:** 14554
 - **Version:** v1.54.1
 - **Updated:** 2023-11-30T18:44:21Z
 - **Size:** 19.47 MB
@@ -4578,7 +4578,7 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 9291
+- **Stars:** 9289
 - **Version:** v13.0.0-alpha.0
 - **Updated:** 2023-03-27T15:56:31Z
 - **Size:** 3.49 MB
@@ -4690,7 +4690,7 @@
 - **Description:** Quickly discover exposed hosts on the internet using multiple search engines.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/uncover](https://github.com/projectdiscovery/uncover)
-- **Stars:** 2116
+- **Stars:** 2117
 - **Version:** v1.0.7
 - **Updated:** 2023-10-20T12:17:12Z
 - **Size:** 22.60 MB
@@ -4914,7 +4914,7 @@
 - **Description:** Fetch all the URLs that the Wayback Machine knows about for a domain
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
-- **Stars:** 2909
+- **Stars:** 2910
 - **Version:** v0.1.0
 - **Updated:** 2022-04-05T10:19:55Z
 - **Size:** 4.44 MB
@@ -5026,7 +5026,7 @@
 - **Description:** The personal information dashboard for your terminal
 - **Author:** wtfutil
 - **Repository:** [https://github.com/wtfutil/wtf](https://github.com/wtfutil/wtf)
-- **Stars:** 15193
+- **Stars:** 15194
 - **Version:** v0.43.0
 - **Updated:** 2023-02-24T05:34:48Z
 - **Size:** 58.24 MB
@@ -5074,7 +5074,7 @@
 - **Description:** Extract urls from text
 - **Author:** mvdan
 - **Repository:** [https://github.com/mvdan/xurls](https://github.com/mvdan/xurls)
-- **Stars:** 1095
+- **Stars:** 1096
 - **Version:** v2.5.0
 - **Updated:** 2023-04-16T20:42:59Z
 - **Size:** 4.45 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 14910
+- **Stars:** 14911
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
