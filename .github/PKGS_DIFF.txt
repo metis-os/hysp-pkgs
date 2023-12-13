@@ -537,76 +537,54 @@
 │ 399│ starship                         │ 352│ starship
 │ 400│ stew                             │ 353│ stew
 │ 401│ strace                           │ 354│ strace
-│ 408│ syncthing                        │ 361│ syncthing
-│ 409│ systemctl-tui                    │ 362│ systemctl-tui
-│ 410│ systeroid                        │ 363│ systeroid
-│ 411│-t-rec                            │    │
-│ 412│ tahm                             │ 364│ tahm
-│ 413│ tailscale                        │ 365│ tailscale
+│ 411│ t-rec                            │ 364│ t-rec
+│ 412│ tahm                             │ 365│ tahm
+│ 413│ tailscale                        │ 366│ tailscale
 │ 414│-tailscale_merged                 │    │
-│ 415│ tailscaled                       │ 366│ tailscaled
-│ 416│ tailspin                         │ 367│ tailspin
-│ 417│ taplo                            │ 368│ taplo
-│ 423│ tmate                            │ 374│ tmate
-│ 424│ tmux                             │ 375│ tmux
-│ 425│ tok                              │ 376│ tok
-│ 426│-tokei                            │    │
-│ 427│-toybox                           │    │
+│ 415│ tailscaled                       │ 367│ tailscaled
+│ 416│ tailspin                         │ 368│ tailspin
+│ 417│ taplo                            │ 369│ taplo
+│ 425│ tok                              │ 377│ tok
+│ 426│ tokei                            │ 378│ tokei
+│ 427│ toybox                           │ 379│ toybox
 │ 428│-traefik.tar.gz                   │    │
-│ 429│-trufflehog                       │    │
-│ 430│-try                              │    │
+│ 429│ trufflehog                       │ 380│ trufflehog
+│ 430│ try                              │ 381│ try
 │ 431│-tty2web                          │    │
 │ 432│-ttyd                             │    │
 │ 433│-tuiarchiver                      │    │
-│ 434│-tut                              │    │
+│ 434│ tut                              │ 382│ tut
 │ 435│-twingate-client                  │    │
 │ 436│-twingate-connector               │    │
 │ 437│-twingate-connector-staticx       │    │
 │ 438│-twingate-connectorctl            │    │
 │ 439│-twingate-notifier                │    │
-│ 440│-txeh                             │    │
-│ 441│-tz                               │    │
-│ 442│-u-root                           │    │
-│ 443│-udpx                             │    │
-│ 444│-uncover                          │    │
-│ 445│-unfurl                           │    │
-│ 446│-upx                              │    │
+│ 440│ txeh                             │ 383│ txeh
+│ 441│ tz                               │ 384│ tz
+│ 442│ u-root                           │ 385│ u-root
+│ 444│ uncover                          │ 387│ uncover
+│ 445│ unfurl                           │ 388│ unfurl
+│ 446│ upx                              │ 389│ upx
 │ 447│-usql.tar.gz                      │    │
-│ 448│-validtoml                        │    │
-│ 449│-vegeta                           │    │
-│ 450│-vhs                              │    │
-│ 451│-viddy                            │    │
-│ 452│-viewgen_staticx                  │    │
+│ 448│ validtoml                        │ 390│ validtoml
+│ 449│ vegeta                           │ 391│ vegeta
+│ 450│ vhs                              │ 392│ vhs
+│ 451│ viddy                            │ 393│ viddy
+│ 452│ viewgen_staticx                  │ 394│ viewgen_staticx
 │ 453│-volta                            │    │
-│ 454│-vopono                           │    │
-│ 455│-vtm                              │    │
-│ 456│-wadl-dumper                      │    │
-│ 457│-walk                             │    │
-│ 458│-watchexec                        │    │
-│ 459│-waybackrobots                    │    │
-│ 460│-waybackurls                      │    │
-│ 461│-web-cache-vulnerability-scanner  │    │
-│ 462│-websocat                         │    │
-│ 463│-wireguard-go                     │    │
-│ 464│-wireguard-rs                     │    │
-│ 465│-wireproxy                        │    │
-│ 466│-wiretap                          │    │
-│ 467│-wormhole-rs                      │    │
-│ 468│-wtfutil                          │    │
-│ 469│-x8                               │    │
-│ 470│ xargs-rs                         │ 377│ xargs-rs
-
-│ 471│-xcp                              │    │
-│ 472│-xplr                             │    │
-│ 473│-xurls                            │    │
-│ 474│-yalis                            │    │
-│ 475│-yataf                            │    │
+│ 454│ vopono                           │ 395│ vopono
+│ 455│ vtm                              │ 396│ vtm
+│ 456│ wadl-dumper                      │ 397│ wadl-dumper
+│ 473│ xurls                            │ 414│ xurls
+│ 474│ yalis                            │ 415│ yalis
+│ 475│ yataf                            │ 416│ yataf
 │ 476│-yazi                             │    │
-│ 477│-yj                               │    │
-│ 478│-yq                               │    │
-│ 479│-zdns                             │    │
-│ 480│-zellij                           │    │
-│ 481│-zenith                           │    │
+│ 477│ yj                               │ 417│ yj
+│ 478│ yq                               │ 418│ yq
+│ 479│ zdns                             │ 419│ zdns
+│ 480│ zellij                           │ 420│ zellij
+│ 481│ zenith                           │ 421│ zenith
 │ 482│-zfxtop                           │    │
-│ 483│-zgrab2                           │    │
-│ 484│-zoxide                           │    │
+│ 483│ zgrab2                           │ 422│ zgrab2
+│ 484│ zoxide                           │ 423│ zoxide
+
