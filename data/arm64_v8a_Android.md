@@ -210,7 +210,7 @@
 - **Description:** 📦 An independent package manager that every hacker deserves.
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/hysp](https://github.com/pwnwriter/hysp)
-- **Stars:** 358
+- **Stars:** 360
 - **Version:** v0.1.2
 - **Updated:** 2023-12-13T15:03:18Z
 - **Size:** 3.24 MB
@@ -355,8 +355,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 14560
-- **Version:** v1.54.1
-- **Updated:** 2023-11-30T18:44:21Z
+- **Version:** v1.56.0
+- **Updated:** 2023-12-13T20:34:56Z
 - **Size:** 10.48 MB
 - **SHASUM:** 805d77421f4de5d4dd4c763754557e0d05f82bb0685a3395b4f61e2d80fcbaff
 - **B3SUM:** 916f0eb999d9c06d9f7460b501c1c8534e9baf1868a282fb34b22612219fd74c
@@ -371,8 +371,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 14560
-- **Version:** v1.54.1
-- **Updated:** 2023-11-30T18:44:21Z
+- **Version:** v1.56.0
+- **Updated:** 2023-12-13T20:34:56Z
 - **Size:** 10.78 MB
 - **SHASUM:** 49132c2a8a408ae4ca43782c609ee23c669efb67ae9dc290668f0a80250e3730
 - **B3SUM:** ba4032e9ad6cf622fdcaa742a905102668270c4a07688ea6a3c4bf8b26dc16d7
@@ -387,8 +387,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 14560
-- **Version:** v1.54.1
-- **Updated:** 2023-11-30T18:44:21Z
+- **Version:** v1.56.0
+- **Updated:** 2023-12-13T20:34:56Z
 - **Size:** 19.47 MB
 - **SHASUM:** 6b908efd3b0d4465edf50706bccbd36091333f8ec166a68bea6f605059de9b99
 - **B3SUM:** fcd798d10ef194e71bdae2997a310f2ab09fcfecf78047d6071f5905c7e94420
@@ -403,8 +403,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 14560
-- **Version:** v1.54.1
-- **Updated:** 2023-11-30T18:44:21Z
+- **Version:** v1.56.0
+- **Updated:** 2023-12-13T20:34:56Z
 - **Size:** 20.48 MB
 - **SHASUM:** 622678ee8526910c8f3204bf689b83c1b7ef5ef9692699f3ea3da73bdc9af240
 - **B3SUM:** e5626707dc1dde212e4596452a4512a2a3e829edb664a4dfc0eb4c532c44c554
