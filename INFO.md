@@ -19,6 +19,38 @@
 > - Raw **`metadata`** containing info for _all packages_ is available as [**`json`**](https://github.com/metis-os/hysp-pkgs/blob/main/data/metadata.json) & [**`toml`**](https://github.com/metis-os/hysp-pkgs/blob/main/data/metadata.toml)
 > - [./pkgs](https://github.com/metis-os/hysp-pkgs/tree/main/pkgs) only contains a _couple of **test** packages_. Everything is hosted at : [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks/tree/main/)
 ---
+- #### 🚧 Security ⚙️
+It is never a good idea to install random binaries from random sources. 
+- Check these `HackerNews Discussions`
+> - [A cautionary tale from the decline of SourceForge](https://news.ycombinator.com/item?id=31110206)
+> - [Downloading PuTTY Safely Is Nearly Impossible (2014)](https://news.ycombinator.com/item?id=9577861)
+
+Hysp offers the following sane-defaults:
+- **`CheckSums`**
+> Hysp requires either `blake3sum` / `sha256sum` in `$BINARY_SOURCE.toml` & always verifies them to ensure nothing has been tampered with.
+- **`Transparency`**
+> [Hysp](https://github.com/pwnwriter/hysp) is completely open-source. And so is the [default pkg-source](https://github.com/metis-os/hysp-pkgs). The upstream repos that it uses as source are also completely open-source. You are free to audit & scrutinize everything.
+> ```bash
+> !# PKG Metadata
+> # Everything is automated via Github Actions & Scripts
+> Repo --> https://github.com/metis-os/hysp-pkgs
+> WorkFlows --> https://github.com/metis-os/hysp-pkgs/tree/main/.github/workflows
+> Scripts --> https://github.com/metis-os/hysp-pkgs/tree/main/.github/scripts
+> 
+> !# Upstream Source
+> # Everything is automated via Github Actions & Build Scripts
+> Repo --> https://github.com/Azathothas/Toolpacks
+> WorkFlows --> https://github.com/Azathothas/Toolpacks/tree/main/.github/workflows
+> Build Scripts --> https://github.com/Azathothas/Toolpacks/tree/main/.github/scripts
+> ```
+- **`Self-Hostable`** : Hysp offers you to [completely self-host](https://github.com/pwnwriter/hysp#hosting-custom-repo-) the backend from where it fetches the binaries. If you do not trust the [default pkg-source](https://github.com/metis-os/hysp-pkgs), you can configure hysp to only use your source, hosted on your own servers.
+> - A note on hysp allowing `http-only` sources
+> > - Hysp will allow you to host your pkg-source repo anywhere & doesn't require http as it uses the checksums to verify the hashes.
+> > - However, this decision to allow http-only sources is enabled for legacy compatibility reasons or in case you want hysp to use a HTTP_PROXY.
+> > - **Never host both your data/*.toml & source binaries on http-only server.** This will expose you to `MITM` as an attacker could tamper with both the checksums & binaries. Hysp **will not be resposible for where you host your binaries or what kind of binaries you run**.
+> > - You hold all responsibilities if you host the PKG Sources yourself.
+> > - Check this hacker-news discussion: https://news.ycombinator.com/item?id=38457926#38473604
+---
 <!-- This can be changed -->
 - #### 📟 [@pwnwriter](https://github.com/pwnwriter) 📟
 > <a name="support"></a>
