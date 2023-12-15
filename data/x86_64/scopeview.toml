@@ -4,7 +4,7 @@ name = "scopeview"
 [package]
 architecture = "x86_64"
 name = "scopeview"
-description = " Beg Bounties"
+description = " Bug Bounties"
 author = "Azathothas"
 repo = "https://github.com/Azathothas/Arsenal"
 stars = "9"
