@@ -4,7 +4,7 @@ name = "certstream"
 [package]
 architecture = "aarch64_arm64"
 name = "certstream"
-description = " Beg Bounties"
+description = " Bug Bounties"
 author = "Azathothas"
 repo = "https://github.com/Azathothas/Arsenal"
 stars = "9"
