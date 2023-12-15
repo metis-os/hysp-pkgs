@@ -22,5 +22,5 @@ conflicts  = ["scopeview"]
 requires = []
 
 [package.metadata]
-keywords = ["bug-bounty","bugbounty","recon","tools"]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
 categories = ["Utilities"]
