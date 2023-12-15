@@ -4,7 +4,7 @@ name = "certstream"
 [package]
 architecture = "arm64_v8a_Android"
 name = "certstream"
-description = " Beg Bounties"
+description = " Bug Bounties"
 author = "Azathothas"
 repo = "https://github.com/Azathothas/Arsenal"
 stars = "9"
