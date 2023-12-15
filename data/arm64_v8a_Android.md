@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6199
+- **Stars:** 6200
 - **Version:** v1.3.7
 - **Updated:** 2023-11-13T07:26:10Z
 - **Size:** 39.73 MB
@@ -355,8 +355,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 14579
-- **Version:** v1.56.0
-- **Updated:** 2023-12-13T20:34:56Z
+- **Version:** v1.56.1
+- **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.42 MB
 - **SHASUM:** 1488f68ad41bcf78324563283db38ed3004a2e7a2484d6931c2cb23894a2d616
 - **B3SUM:** c10bcf7a89994328341539480f38ff62e685a1946be62fb973f75b2206a965fd
@@ -371,8 +371,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 14579
-- **Version:** v1.56.0
-- **Updated:** 2023-12-13T20:34:56Z
+- **Version:** v1.56.1
+- **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.69 MB
 - **SHASUM:** 7cb1319050697af1cd5bdc8b5be896748e683d4c2769836cc9dd991b10078744
 - **B3SUM:** 40c46bcb51d2c16f612e6b0a32cb9462ade53885742860dd8a39b23bfbd5b53a
@@ -387,8 +387,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 14579
-- **Version:** v1.56.0
-- **Updated:** 2023-12-13T20:34:56Z
+- **Version:** v1.56.1
+- **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 28.10 MB
 - **SHASUM:** d98dad8700ff2ab5b893240ef979628199835a7fb1816c2606a48aaff0b8104d
 - **B3SUM:** 8d6fbb805d48e626aa3882b9bf768196195b08c6062bc6567d138e87b65ef85a
@@ -403,8 +403,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 14579
-- **Version:** v1.56.0
-- **Updated:** 2023-12-13T20:34:56Z
+- **Version:** v1.56.1
+- **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 29.86 MB
 - **SHASUM:** 8b6ef591237461132fa3cc9ab1a22cde1fd1c54b27a34665b26fb20d3b456497
 - **B3SUM:** c8d4e48d145a844c788504f55d2cd5b071d1f61f83685fcb1799578be1153363
