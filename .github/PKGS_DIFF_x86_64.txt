@@ -27,7 +27,6 @@
 │ 129│-dura                             │    │
 │ 141│-elfcat                           │    │
 │ 144│-enola                            │    │
-│ 148│-etcdutl                          │    │
 │ 150│-exiflooter                       │    │
 │ 169│-fscan                            │    │
 │ 172│-fwanalyzer                       │    │
