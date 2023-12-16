@@ -458,236 +458,438 @@
 │  5 │ act                              │  2 │ act
 │  6 │ actionlint                       │  3 │ actionlint
 │  7 │ agg                              │  4 │ agg
-│ 37 │ binocle                          │ 34 │ binocle
-│ 38 │ bluetuith                        │ 35 │ bluetuith
-│ 39 │ boltconn                         │ 36 │ boltconn
-│ 40 │-bombadillo                       │    │
-│ 41 │ bore                             │ 37 │ bore
-│ 42 │ boringtun-cli                    │ 38 │ boringtun-cli
-│ 43 │ bottom                           │ 39 │ bottom
-│ 52 │ catatonit                        │ 48 │ catatonit
-│ 53 │ cdncheck                         │ 49 │ cdncheck
-│ 54 │ cent                             │ 50 │ cent
-│ 55 │-certspotter                      │    │
-│ 56 │ certstream                       │ 51 │ certstream
-│ 57 │-certstream-server-go             │    │
-│ 58 │-certwatcher                      │    │
-│ 59 │ chainredir                       │ 52 │ chainredir
-│ 60 │ chameleon                        │ 53 │ chameleon
-│ 61 │ chaos-client                     │ 54 │ chaos-client
-│ 63 │ cherrybomb                       │ 56 │ cherrybomb
-│ 64 │ circumflex                       │ 57 │ circumflex
-│ 65 │ cleanpath                        │ 58 │ cleanpath
-│ 66 │-cloudfox.tar.gz                  │    │
-│ 67 │ cloudlist                        │ 59 │ cloudlist
-│ 68 │ cloudreve                        │ 60 │ cloudreve
-│ 69 │ comb                             │ 61 │ comb
-│ 70 │ containerd                       │ 62 │ containerd
-│ 71 │ coreutils                        │ 63 │ coreutils
-│ 72 │ cotp                             │ 64 │ cotp
-│ 73 │-cowitness                        │    │
-│ 74 │ cpufetch                         │ 65 │ cpufetch
-│ 75 │ crawley                          │ 66 │ crawley
-│ 76 │ crictl                           │ 67 │ crictl
-│ 80 │ csprecon                         │ 71 │ csprecon
-│ 81 │ csview                           │ 72 │ csview
-│ 82 │ csvtk                            │ 73 │ csvtk
-│ 83 │-ctlwatcher                       │    │
-│ 84 │ curl                             │ 74 │ curl
-│ 85 │ curlie                           │ 75 │ curlie
-│ 86 │ cut-cdn                          │ 76 │ cut-cdn
-│ 120│ ein                              │ 110│ ein
-│ 121│ enc                              │ 111│ enc
-│ 122│ encode                           │ 112│ encode
-│ 123│-enola                            │    │
-│ 124│ enumerepo                        │ 113│ enumerepo
-│ 125│ etcd                             │ 114│ etcd
-│ 126│ etcdctl                          │ 115│ etcdctl
-│ 189│ gost                             │ 178│ gost
-│ 190│ gosu                             │ 179│ gosu
-│ 191│ gotator                          │ 180│ gotator
-│ 192│-gotld                            │    │
-│ 193│-gotty                            │    │
-│ 194│ gowitness                        │ 181│ gowitness
-│ 195│ gpg-tui                          │ 182│ gpg-tui
-│ 196│ gping                            │ 183│ gping
-│ 228│ jless                            │ 215│ jless
-│ 229│ jless_staticx                    │ 216│ jless_staticx
-│ 230│ jq                               │ 217│ jq
-│ 231│-jql                              │    │
-│ 232│ jqp                              │ 218│ jqp
-│ 233│ just                             │ 219│ just
-│ 234│ jwt-hack                         │ 220│ jwt-hack
-│ 252│ linuxwave                        │ 238│ linuxwave
-│ 253│ lnav                             │ 239│ lnav
-│ 254│ logtimer                         │ 240│ logtimer
-│ 255│-lsd                              │    │
-│ 256│ lux                              │ 241│ lux
-│ 257│ mabel                            │ 242│ mabel
-│ 258│-macchina                         │    │
-│ 259│ maddy                            │ 243│ maddy
-│ 260│ mailpit                          │ 244│ mailpit
-│ 261│ mani                             │ 245│ mani
-│ 262│ mantra                           │ 246│ mantra
-│ 263│ mapcidr                          │ 247│ mapcidr
-│ 264│ massdns                          │ 248│ massdns
-│ 265│-mcfly                            │    │
-│ 266│ mdcat                            │ 249│ mdcat
-│ 267│ mdsh                             │ 250│ mdsh
-│ 268│ mergerfs                         │ 251│ mergerfs
-│ 277│ mubeng                           │ 260│ mubeng
-│ 278│ naabu                            │ 261│ naabu
-│ 279│ naabu_staticx                    │ 262│ naabu_staticx
-│ 280│-navi                             │    │
-│ 281│-ncat                             │    │
-│ 282│-ncdu                             │    │
-│ 283│ neofetch                         │ 263│ neofetch
-│ 284│ nerdctl                          │ 264│ nerdctl
-│ 285│ netbird                          │ 265│ netbird
-│ 286│ netmaker                         │ 266│ netmaker
-│ 287│-ngrok                            │    │
-│ 288│ nmap                             │ 267│ nmap
-│ 289│ nmap-formatter                   │ 268│ nmap-formatter
-│ 290│-nmctl                            │    │
-│ 291│ nnn                              │ 269│ nnn
-│ 292│ noir                             │ 270│ noir
-│ 293│ notify                           │ 271│ notify
-│ 294│-nping                            │    │
-│ 295│-nrich                            │    │
-│ 296│ nrp                              │ 272│ nrp
-│ 297│-nu                               │    │
-│ 298│ nuclei                           │ 273│ nuclei
-│ 299│ oha                              │ 274│ oha
-│ 300│ onetun                           │ 275│ onetun
-│ 315│ prettyping                       │ 290│ prettyping
-│ 316│ procs                            │ 291│ procs
-│ 317│ proxify                          │ 292│ proxify
-│ 318│-pspy                             │    │
-│ 319│ pueue                            │ 293│ pueue
-│ 320│ pueued                           │ 294│ pueued
-│ 321│ puredns                          │ 295│ puredns
-│ 322│ qbittorrent-nox                  │ 296│ qbittorrent-nox
-│ 323│ qsreplace                        │ 297│ qsreplace
-│ 324│ qsv                              │ 298│ qsv
-│ 325│-quickcert                        │    │
-│ 326│ rapwp                            │ 299│ rapwp
-│ 327│ rate-limit-checker               │ 300│ rate-limit-checker
-│ 328│ rclone                           │ 301│ rclone
-│ 329│-reader                           │    │
-│ 330│ recollapse_staticx               │ 302│ recollapse_staticx
-│ 331│ redive                           │ 303│ redive
-│ 332│ removehost                       │ 304│ removehost
-│ 333│ removepro                        │ 305│ removepro
-│ 334│ reptyr                           │ 306│ reptyr
-│ 335│ rescope                          │ 307│ rescope
-│ 336│-resdns                           │    │
-│ 337│ restic                           │ 308│ restic
-│ 338│ resto                            │ 309│ resto
-│ 339│ revit                            │ 310│ revit
-│ 340│ rg                               │ 311│ rg
-│ 341│ rga                              │ 312│ rga
-│ 342│ ripgen                           │ 313│ ripgen
-│ 343│-ripgrep                          │    │
-│ 344│-rnr                              │    │
-│ 345│ robotstxt                        │ 314│ robotstxt
-│ 346│ roboxtractor                     │ 315│ roboxtractor
-│ 347│ rootlesskit                      │ 316│ rootlesskit
-│ 348│ rospo                            │ 317│ rospo
-│ 349│ rpaste                           │ 318│ rpaste
-│ 350│ rpfu                             │ 319│ rpfu
-│ 351│-rqbit                            │    │
-│ 352│ ruff                             │ 320│ ruff
-│ 353│ runc                             │ 321│ runc
-│ 354│ runme                            │ 322│ runme
-│ 355│ rush                             │ 323│ rush
-│ 356│-rustcan                          │    │
-│ 357│ rustypaste                       │ 324│ rustypaste
-│ 358│ s3scanner                        │ 325│ s3scanner
-│ 359│ s5cmd                            │ 326│ s5cmd
-│ 361│ scilla                           │ 328│ scilla
-│ 362│ scopegen                         │ 329│ scopegen
-│ 363│ scopeview                        │ 330│ scopeview
-│ 364│-scp                              │    │
-│ 365│ screenfetch                      │ 331│ screenfetch
-│ 366│ sd                               │ 332│ sd
-│ 367│ sessionprobe                     │ 333│ sessionprobe
-│ 373│ shortutil                        │ 339│ shortutil
-│ 374│ shuffledns                       │ 340│ shuffledns
-│ 375│ sk                               │ 341│ sk
-│ 376│-sk-tmux                          │    │
-│ 377│ smap                             │ 342│ smap
-│ 378│ smenu                            │ 343│ smenu
-│ 379│ sns                              │ 344│ sns
-│ 380│-socat                            │    │
-│ 381│ speedtest-go                     │ 345│ speedtest-go
-│ 382│ spk                              │ 346│ spk
-│ 383│ spoof-dpi                        │ 347│ spoof-dpi
-│ 384│ sq                               │ 348│ sq
-│ 385│-sqlc                             │    │
-│ 386│-ssh                              │    │
-│ 387│-ssh-add                          │    │
-│ 388│-ssh-agent                        │    │
-│ 389│-ssh-keygen                       │    │
-│ 390│-ssh-keyscan                      │    │
-│ 391│-ssh-keysign                      │    │
-│ 392│-sshd                             │    │
-│ 393│-sshd_config                      │    │
-│ 394│ sshesame                         │ 349│ sshesame
-│ 395│ sshkeys                          │ 350│ sshkeys
-│ 396│ sshportal                        │ 351│ sshportal
-│ 397│-sshx                             │    │
-│ 398│-sshx-server                      │    │
-│ 399│ starship                         │ 352│ starship
-│ 400│ stew                             │ 353│ stew
-│ 401│ strace                           │ 354│ strace
-│ 411│ t-rec                            │ 364│ t-rec
-│ 412│ tahm                             │ 365│ tahm
-│ 413│ tailscale                        │ 366│ tailscale
-│ 414│-tailscale_merged                 │    │
-│ 415│ tailscaled                       │ 367│ tailscaled
-│ 416│ tailspin                         │ 368│ tailspin
-│ 417│ taplo                            │ 369│ taplo
-│ 425│ tok                              │ 377│ tok
-│ 426│ tokei                            │ 378│ tokei
-│ 427│ toybox                           │ 379│ toybox
-│ 428│-traefik.tar.gz                   │    │
-│ 429│ trufflehog                       │ 380│ trufflehog
-│ 430│ try                              │ 381│ try
-│ 431│-tty2web                          │    │
-│ 432│-ttyd                             │    │
-│ 433│-tuiarchiver                      │    │
-│ 434│ tut                              │ 382│ tut
-│ 435│-twingate-client                  │    │
-│ 436│-twingate-connector               │    │
-│ 437│-twingate-connector-staticx       │    │
-│ 438│-twingate-connectorctl            │    │
-│ 439│-twingate-notifier                │    │
-│ 440│ txeh                             │ 383│ txeh
-│ 441│ tz                               │ 384│ tz
-│ 442│ u-root                           │ 385│ u-root
-│ 444│ uncover                          │ 387│ uncover
-│ 445│ unfurl                           │ 388│ unfurl
-│ 446│ upx                              │ 389│ upx
-│ 447│-usql.tar.gz                      │    │
-│ 448│ validtoml                        │ 390│ validtoml
-│ 449│ vegeta                           │ 391│ vegeta
-│ 450│ vhs                              │ 392│ vhs
-│ 451│ viddy                            │ 393│ viddy
-│ 452│ viewgen_staticx                  │ 394│ viewgen_staticx
-│ 453│-volta                            │    │
-│ 454│ vopono                           │ 395│ vopono
-│ 455│ vtm                              │ 396│ vtm
-│ 456│ wadl-dumper                      │ 397│ wadl-dumper
-│ 473│ xurls                            │ 414│ xurls
-│ 474│ yalis                            │ 415│ yalis
-│ 475│ yataf                            │ 416│ yataf
-│ 476│-yazi                             │    │
-│ 477│ yj                               │ 417│ yj
-│ 478│ yq                               │ 418│ yq
-│ 479│ zdns                             │ 419│ zdns
-│ 480│ zellij                           │ 420│ zellij
-│ 481│ zenith                           │ 421│ zenith
-│ 482│-zfxtop                           │    │
-│ 483│ zgrab2                           │ 422│ zgrab2
-│ 484│ zoxide                           │ 423│ zoxide
+│ 15 │ amass                            │ 12 │ amass
+│ 16 │ analyticsrelationships           │ 13 │ analyticsrelationships
+│ 17 │ anew                             │ 14 │ anew
+│ 18 │-anewer                           │    │
+│ 19 │ arduino-cli                      │ 15 │ arduino-cli
+│ 20 │ aria2c                           │ 16 │ aria2c
+│ 21 │ asn                              │ 17 │ asn
+│ 23 │ assetfinder                      │ 19 │ assetfinder
+│ 24 │ assh                             │ 20 │ assh
+│ 25 │ atuin                            │ 21 │ atuin
+│ 26 │-aws-nuke.tar.gz                  │    │
+│ 27 │ b3sum                            │ 22 │ b3sum
+│ 28 │ bandwhich                        │ 23 │ bandwhich
+│ 29 │ bat                              │ 24 │ bat
+│ 37 │ binfetch.cfg                     │ 32 │ binfetch.cfg
+│ 38 │ bingrep                          │ 33 │ bingrep
+│ 39 │ binocle                          │ 34 │ binocle
+│ 40 │-bleve                            │    │
+│ 41 │ bluetuith                        │ 35 │ bluetuith
+│ 42 │ boltconn                         │ 36 │ boltconn
+│ 43 │-bombadillo                       │    │
+│ 44 │ bore                             │ 37 │ bore
+│ 45 │ boringtun-cli                    │ 38 │ boringtun-cli
+│ 46 │ bottom                           │ 39 │ bottom
+│ 53 │ byp4xx                           │ 46 │ byp4xx
+│ 54 │ caddy                            │ 47 │ caddy
+│ 55 │ catatonit                        │ 48 │ catatonit
+│ 56 │-catp                             │    │
+│ 57 │ cdncheck                         │ 49 │ cdncheck
+│ 58 │ cent                             │ 50 │ cent
+│ 59 │-certspotter                      │    │
+│ 60 │ certstream                       │ 51 │ certstream
+│ 61 │-certstream-server-go             │    │
+│ 62 │-certwatcher                      │    │
+│ 63 │-cexec                            │    │
+│ 64 │-cfssl                            │    │
+│ 65 │-cfssl-bundle                     │    │
+│ 66 │-cfssl-certinfo                   │    │
+│ 67 │-cfssl-newkey                     │    │
+│ 68 │-cfssl-scan                       │    │
+│ 69 │-cfssljson                        │    │
+│ 70 │ chainredir                       │ 52 │ chainredir
+│ 71 │ chameleon                        │ 53 │ chameleon
+│ 72 │ chaos-client                     │ 54 │ chaos-client
+│ 73 │ checkbypass                      │ 55 │ checkbypass
+│ 74 │ cherrybomb                       │ 56 │ cherrybomb
+│ 75 │-chisel                           │    │
+│ 76 │ circumflex                       │ 57 │ circumflex
+│ 77 │ cleanpath                        │ 58 │ cleanpath
+│ 78 │-cloudcash                        │    │
+│ 79 │-cloudfox.tar.gz                  │    │
+│ 80 │ cloudlist                        │ 59 │ cloudlist
+│ 81 │ cloudreve                        │ 60 │ cloudreve
+│ 82 │-cog                              │    │
+│ 83 │ comb                             │ 61 │ comb
+│ 84 │ containerd                       │ 62 │ containerd
+│ 85 │ coreutils                        │ 63 │ coreutils
+│ 86 │ cotp                             │ 64 │ cotp
+│ 87 │-cowitness                        │    │
+│ 88 │-cproxy                           │    │
+│ 89 │ cpufetch                         │ 65 │ cpufetch
+│ 90 │ crawley                          │ 66 │ crawley
+│ 91 │ crictl                           │ 67 │ crictl
+│ 95 │ csprecon                         │ 71 │ csprecon
+│ 96 │ csview                           │ 72 │ csview
+│ 97 │ csvtk                            │ 73 │ csvtk
+│ 98 │-ct_monitor                       │    │
+│ 99 │-ctlwatcher                       │    │
+│ 100│ curl                             │ 74 │ curl
+│ 101│ curlie                           │ 75 │ curlie
+│ 102│ cut-cdn                          │ 76 │ cut-cdn
+│ 104│ dasel                            │ 78 │ dasel
+│ 105│ datadash                         │ 79 │ datadash
+│ 106│ dbclient                         │ 80 │ dbclient
+│ 107│-ddns-go                          │    │
+│ 108│ delta                            │ 81 │ delta
+│ 109│ devbox                           │ 82 │ devbox
+│ 110│-devpod                           │    │
+│ 111│-diffoci                          │    │
+│ 112│ direnv                           │ 83 │ direnv
+│ 113│ dns-doctor                       │ 84 │ dns-doctor
+│ 114│ dnslookup                        │ 85 │ dnslookup
+│ 126│ dsieve                           │ 97 │ dsieve
+│ 127│ duf                              │ 98 │ duf
+│ 128│ dufs                             │ 99 │ dufs
+│ 129│-dura                             │    │
+│ 130│ dust                             │ 100│ dust
+│ 131│ dysk                             │ 101│ dysk
+│ 132│ eae                              │ 102│ eae
+│ 138│ eefjsf                           │ 108│ eefjsf
+│ 139│ eget                             │ 109│ eget
+│ 140│ ein                              │ 110│ ein
+│ 141│-elfcat                           │    │
+│ 142│ enc                              │ 111│ enc
+│ 143│ encode                           │ 112│ encode
+│ 144│-enola                            │    │
+│ 145│ enumerepo                        │ 113│ enumerepo
+│ 146│ etcd                             │ 114│ etcd
+│ 147│ etcdctl                          │ 115│ etcdctl
+│ 148│ etcdutl                          │ 116│ etcdutl
+│ 149│ exa                              │ 117│ exa
+│ 150│-exiflooter                       │    │
+│ 151│ eza                              │ 118│ eza
+│ 152│ fastfetch                        │ 119│ fastfetch
+│ 153│ fasttld                          │ 120│ fasttld
+│ 166│ fingerprintx                     │ 133│ fingerprintx
+│ 167│ fnm                              │ 134│ fnm
+│ 168│ fq                               │ 135│ fq
+│ 169│-fscan                            │    │
+│ 170│ fuse-overlayfs                   │ 136│ fuse-overlayfs
+│ 171│ fuzzuli                          │ 137│ fuzzuli
+│ 172│-fwanalyzer                       │    │
+│ 173│ fx                               │ 138│ fx
+│ 174│ fzf                              │ 139│ fzf
+│ 175│ gau                              │ 140│ gau
+│ 188│ git-lfs                          │ 153│ git-lfs
+│ 189│ git-log                          │ 154│ git-log
+│ 190│ git-pull                         │ 155│ git-pull
+│ 191│-git-sizer                        │    │
+│ 192│ git-tag                          │ 156│ git-tag
+│ 193│ gitdorks_go                      │ 157│ gitdorks_go
+│ 194│ gitea                            │ 158│ gitea
+│ 214│ gost                             │ 178│ gost
+│ 215│ gosu                             │ 179│ gosu
+│ 216│ gotator                          │ 180│ gotator
+│ 217│-gotld                            │    │
+│ 218│-gotty                            │    │
+│ 219│ gowitness                        │ 181│ gowitness
+│ 220│ gpg-tui                          │ 182│ gpg-tui
+│ 221│ gping                            │ 183│ gping
+│ 222│ gron                             │ 184│ gron
+│ 223│ grpcurl                          │ 185│ grpcurl
+│ 224│-gs-netcat                        │    │
+│ 225│-gsocket                          │    │
+│ 226│ gup                              │ 186│ gup
+│ 227│ gxss                             │ 187│ gxss
+│ 228│ hacker-scoper                    │ 188│ hacker-scoper
+│ 241│ httprobe                         │ 201│ httprobe
+│ 242│ httpx                            │ 202│ httpx
+│ 243│ hub                              │ 203│ hub
+│ 244│-hx                               │    │
+│ 245│ hxn                              │ 204│ hxn
+│ 246│ hyperfine                        │ 205│ hyperfine
+│ 247│ hysp                             │ 206│ hysp
+│ 248│ inscope                          │ 207│ inscope
+│ 249│ interactsh-client                │ 208│ interactsh-client
+│ 250│ iperf3                           │ 209│ iperf3
+│ 251│-ipt2socks                        │    │
+│ 252│-istioctl                         │    │
+│ 253│ jaeles                           │ 210│ jaeles
+│ 254│-jaq                              │    │
+│ 255│ jc                               │ 211│ jc
+│ 256│ jc_staticx                       │ 212│ jc_staticx
+│ 257│ jira                             │ 213│ jira
+│ 259│ jless                            │ 215│ jless
+│ 260│ jless_staticx                    │ 216│ jless_staticx
+│ 261│ jq                               │ 217│ jq
+│ 262│-jql                              │    │
+│ 263│ jqp                              │ 218│ jqp
+│ 264│ just                             │ 219│ just
+│ 265│ jwt-hack                         │ 220│ jwt-hack
+│ 279│ kubemetrics                      │ 234│ kubemetrics
+│ 280│ lazydocker                       │ 235│ lazydocker
+│ 281│ lazygit                          │ 236│ lazygit
+│ 282│-legba                            │    │
+│ 283│ lf                               │ 237│ lf
+│ 284│ linuxwave                        │ 238│ linuxwave
+│ 285│-listmonk                         │    │
+│ 286│ lnav                             │ 239│ lnav
+│ 287│-logcli                           │    │
+│ 288│ logtimer                         │ 240│ logtimer
+│ 289│-loki                             │    │
+│ 290│-loki-canary                      │    │
+│ 291│-lsd                              │    │
+│ 292│ lux                              │ 241│ lux
+│ 293│ mabel                            │ 242│ mabel
+│ 294│-macchina                         │    │
+│ 295│ maddy                            │ 243│ maddy
+│ 296│ mailpit                          │ 244│ mailpit
+│ 297│ mani                             │ 245│ mani
+│ 298│ mantra                           │ 246│ mantra
+│ 299│ mapcidr                          │ 247│ mapcidr
+│ 300│ massdns                          │ 248│ massdns
+│ 301│-mcfly                            │    │
+│ 302│ mdcat                            │ 249│ mdcat
+│ 303│ mdsh                             │ 250│ mdsh
+│ 304│-melange                          │    │
+│ 305│ mergerfs                         │ 251│ mergerfs
+│ 306│ mgwls                            │ 252│ mgwls
+│ 307│ micro                            │ 253│ micro
+│ 308│ miniserve                        │ 254│ miniserve
+│ 309│ minisign                         │ 255│ minisign
+│ 310│-mkbundle                         │    │
+│ 311│ mksub                            │ 256│ mksub
+│ 312│ mlr                              │ 257│ mlr
+│ 313│ mmv                              │ 258│ mmv
+│ 314│ mqttui                           │ 259│ mqttui
+│ 315│ mubeng                           │ 260│ mubeng
+│ 316│-multirootca                      │    │
+│ 317│ naabu                            │ 261│ naabu
+│ 318│ naabu_staticx                    │ 262│ naabu_staticx
+│ 319│-navi                             │    │
+│ 320│-ncat                             │    │
+│ 321│-ncdu                             │    │
+│ 322│ neofetch                         │ 263│ neofetch
+│ 323│ nerdctl                          │ 264│ nerdctl
+│ 324│ netbird                          │ 265│ netbird
+│ 325│ netmaker                         │ 266│ netmaker
+│ 326│-nginx                            │    │
+│ 327│-ngrok                            │    │
+│ 328│-niltalk                          │    │
+│ 329│-njs                              │    │
+│ 330│ nmap                             │ 267│ nmap
+│ 331│ nmap-formatter                   │ 268│ nmap-formatter
+│ 332│-nmctl                            │    │
+│ 333│ nnn                              │ 269│ nnn
+│ 334│ noir                             │ 270│ noir
+│ 335│ notify                           │ 271│ notify
+│ 336│-nping                            │    │
+│ 337│-nrich                            │    │
+│ 338│ nrp                              │ 272│ nrp
+│ 339│-nu                               │    │
+│ 340│ nuclei                           │ 273│ nuclei
+│ 341│ oha                              │ 274│ oha
+│ 342│ onetun                           │ 275│ onetun
+│ 345│ osmedeus                         │ 278│ osmedeus
+│ 346│ ouch                             │ 279│ ouch
+│ 347│ ov                               │ 280│ ov
+│ 348│-overmind                         │    │
+│ 349│-passdetective                    │    │
+│ 350│ pathbuster                       │ 281│ pathbuster
+│ 351│ pdfcpu                           │ 282│ pdfcpu
+│ 352│ pgweb                            │ 283│ pgweb
+│ 353│-phantun-client                   │    │
+│ 354│-phantun-server                   │    │
+│ 355│ pkgtop                           │ 284│ pkgtop
+│ 356│-planor                           │    │
+│ 357│ podman                           │ 285│ podman
+│ 358│ ppath                            │ 286│ ppath
+│ 359│ ppfuzz                           │ 287│ ppfuzz
+│ 361│ presenterm                       │ 289│ presenterm
+│ 362│ prettyping                       │ 290│ prettyping
+│ 363│ procs                            │ 291│ procs
+│ 364│-promtail                         │    │
+│ 365│ proxify                          │ 292│ proxify
+│ 366│-pspy                             │    │
+│ 367│ pueue                            │ 293│ pueue
+│ 368│ pueued                           │ 294│ pueued
+│ 369│ puredns                          │ 295│ puredns
+│ 370│-pwninit                          │    │
+│ 371│ qbittorrent-nox                  │ 296│ qbittorrent-nox
+│ 372│ qsreplace                        │ 297│ qsreplace
+│ 373│ qsv                              │ 298│ qsv
+│ 374│-quickcert                        │    │
+│ 375│ rapwp                            │ 299│ rapwp
+│ 376│ rate-limit-checker               │ 300│ rate-limit-checker
+│ 377│-rathole                          │    │
+│ 378│ rclone                           │ 301│ rclone
+│ 379│-reader                           │    │
+│ 380│-realm                            │    │
+│ 381│-rebuildctl                       │    │
+│ 382│-rebuilderd                       │    │
+│ 383│-rebuilderd-worker                │    │
+│ 384│ recollapse_staticx               │ 302│ recollapse_staticx
+│ 385│-redguard                         │    │
+│ 386│ redive                           │ 303│ redive
+│ 387│-rekor                            │    │
+│ 388│-relic                            │    │
+│ 389│ removehost                       │ 304│ removehost
+│ 390│ removepro                        │ 305│ removepro
+│ 391│ reptyr                           │ 306│ reptyr
+│ 392│ rescope                          │ 307│ rescope
+│ 393│-resdns                           │    │
+│ 394│ restic                           │ 308│ restic
+│ 395│ resto                            │ 309│ resto
+│ 396│ revit                            │ 310│ revit
+│ 397│ rg                               │ 311│ rg
+│ 398│ rga                              │ 312│ rga
+│ 399│ ripgen                           │ 313│ ripgen
+│ 400│-ripgrep                          │    │
+│ 401│-rnr                              │    │
+│ 402│ robotstxt                        │ 314│ robotstxt
+│ 403│ roboxtractor                     │ 315│ roboxtractor
+│ 404│ rootlesskit                      │ 316│ rootlesskit
+│ 405│-ropr                             │    │
+│ 406│ rospo                            │ 317│ rospo
+│ 407│ rpaste                           │ 318│ rpaste
+│ 408│ rpfu                             │ 319│ rpfu
+│ 409│-rqbit                            │    │
+│ 410│-rshijack                         │    │
+│ 411│ ruff                             │ 320│ ruff
+│ 412│ runc                             │ 321│ runc
+│ 413│ runme                            │ 322│ runme
+│ 414│ rush                             │ 323│ rush
+│ 415│-rustcan                          │    │
+│ 416│ rustypaste                       │ 324│ rustypaste
+│ 417│ s3scanner                        │ 325│ s3scanner
+│ 418│-s3sync                           │    │
+│ 419│ s5cmd                            │ 326│ s5cmd
+│ 420│ sake                             │ 327│ sake
+│ 421│-sbctl                            │    │
+│ 422│ scilla                           │ 328│ scilla
+│ 423│ scopegen                         │ 329│ scopegen
+│ 424│ scopeview                        │ 330│ scopeview
+│ 425│-scp                              │    │
+│ 426│ screenfetch                      │ 331│ screenfetch
+│ 427│ sd                               │ 332│ sd
+│ 428│ sessionprobe                     │ 333│ sessionprobe
+│ 429│ sftp                             │ 334│ sftp
+│ 430│ sftp-server                      │ 335│ sftp-server
+│ 431│ shellharden                      │ 336│ shellharden
+│ 432│-shellz                           │    │
+│ 433│ shfmt                            │ 337│ shfmt
+│ 434│ shortscan                        │ 338│ shortscan
+│ 435│ shortutil                        │ 339│ shortutil
+│ 436│ shuffledns                       │ 340│ shuffledns
+│ 437│-sish                             │    │
+│ 438│-sj                               │    │
+│ 439│ sk                               │ 341│ sk
+│ 440│-sk-tmux                          │    │
+│ 441│-sliver-client                    │    │
+│ 442│ smap                             │ 342│ smap
+│ 443│ smenu                            │ 343│ smenu
+│ 444│ sns                              │ 344│ sns
+│ 445│-socat                            │    │
+│ 446│ speedtest-go                     │ 345│ speedtest-go
+│ 447│ spk                              │ 346│ spk
+│ 448│ spoof-dpi                        │ 347│ spoof-dpi
+│ 449│ sq                               │ 348│ sq
+│ 450│-sqlc                             │    │
+│ 451│-ssh                              │    │
+│ 452│-ssh-add                          │    │
+│ 453│-ssh-agent                        │    │
+│ 454│-ssh-keygen                       │    │
+│ 455│-ssh-keyscan                      │    │
+│ 456│-ssh-keysign                      │    │
+│ 457│-sshd                             │    │
+│ 458│-sshd_config                      │    │
+│ 459│ sshesame                         │ 349│ sshesame
+│ 460│ sshkeys                          │ 350│ sshkeys
+│ 461│ sshportal                        │ 351│ sshportal
+│ 462│-sshx                             │    │
+│ 463│-sshx-server                      │    │
+│ 464│ starship                         │ 352│ starship
+│ 465│ stew                             │ 353│ stew
+│ 466│ strace                           │ 354│ strace
+│ 467│ sttr                             │ 355│ sttr
+│ 468│-stuffbin                         │    │
+│ 469│ subfinder                        │ 356│ subfinder
+│ 470│ subjs                            │ 357│ subjs
+│ 471│ subxtract                        │ 358│ subxtract
+│ 472│ supervisord                      │ 359│ supervisord
+│ 473│ surf                             │ 360│ surf
+│ 474│-svg-hush                         │    │
+│ 475│ syncthing                        │ 361│ syncthing
+│ 476│ systemctl-tui                    │ 362│ systemctl-tui
+│ 477│ systeroid                        │ 363│ systeroid
+│ 478│ t-rec                            │ 364│ t-rec
+│ 479│ tahm                             │ 365│ tahm
+│ 480│ tailscale                        │ 366│ tailscale
+│ 481│-tailscale_merged                 │    │
+│ 482│ tailscaled                       │ 367│ tailscaled
+│ 483│ tailspin                         │ 368│ tailspin
+│ 484│ taplo                            │ 369│ taplo
+│ 485│ tcpdump                          │ 370│ tcpdump
+│ 486│ tdl                              │ 371│ tdl
+│ 487│ tere                             │ 372│ tere
+│ 488│-termshark                        │    │
+│ 489│ tldr                             │ 373│ tldr
+│ 490│ tlsx                             │ 374│ tlsx
+│ 491│ tmate                            │ 375│ tmate
+│ 493│ tok                              │ 377│ tok
+│ 494│ tokei                            │ 378│ tokei
+│ 495│ toybox                           │ 379│ toybox
+│ 496│-traefik.tar.gz                   │    │
+│ 497│ trufflehog                       │ 380│ trufflehog
+│ 498│ try                              │ 381│ try
+│ 499│-tty2web                          │    │
+│ 500│-ttyd                             │    │
+│ 501│-tuiarchiver                      │    │
+│ 502│ tut                              │ 382│ tut
+│ 503│-twingate-client                  │    │
+│ 504│-twingate-connector               │    │
+│ 505│-twingate-connector-staticx       │    │
+│ 506│-twingate-connectorctl            │    │
+│ 507│-twingate-notifier                │    │
+│ 508│ txeh                             │ 383│ txeh
+│ 509│ tz                               │ 384│ tz
+│ 510│ u-root                           │ 385│ u-root
+│ 511│ udpx                             │ 386│ udpx
+│ 512│-uip                              │    │
+│ 513│ uncover                          │ 387│ uncover
+│ 514│-unf                              │    │
+│ 515│ unfurl                           │ 388│ unfurl
+│ 516│ upx                              │ 389│ upx
+│ 517│-usql.tar.gz                      │    │
+│ 518│-v2raya                           │    │
+│ 519│ validtoml                        │ 390│ validtoml
+│ 520│ vegeta                           │ 391│ vegeta
+│ 521│ vhs                              │ 392│ vhs
+│ 522│ viddy                            │ 393│ viddy
+│ 523│ viewgen_staticx                  │ 394│ viewgen_staticx
+│ 524│-viu                              │    │
+│ 525│-volta                            │    │
+│ 526│ vopono                           │ 395│ vopono
+│ 527│ vtm                              │ 396│ vtm
+│ 528│-vultr-cli                        │    │
+│ 529│ wadl-dumper                      │ 397│ wadl-dumper
+│ 530│ walk                             │ 398│ walk
+│ 531│-wasminspect                      │    │
+│ 532│ watchexec                        │ 399│ watchexec
+│ 533│ waybackrobots                    │ 400│ waybackrobots
+│ 534│ waybackurls                      │ 401│ waybackurls
+│ 539│ wireproxy                        │ 406│ wireproxy
+│ 540│ wiretap                          │ 407│ wiretap
+│ 541│ wormhole-rs                      │ 408│ wormhole-rs
+│ 542│-wstunnel                         │    │
+│ 543│ wtfutil                          │ 409│ wtfutil
+│ 544│-wth                              │    │
+│ 545│ x8                               │ 410│ x8
+│ 546│ xargs-rs                         │ 411│ xargs-rs
+│ 547│ xcp                              │ 412│ xcp
+│ 549│ xurls                            │ 414│ xurls
+│ 550│ yalis                            │ 415│ yalis
+│ 551│ yataf                            │ 416│ yataf
+│ 552│-yazi                             │    │
+│ 553│ yj                               │ 417│ yj
+│ 554│ yq                               │ 418│ yq
+│ 555│ zdns                             │ 419│ zdns
+│ 556│ zellij                           │ 420│ zellij
+│ 557│ zenith                           │ 421│ zenith
+│ 558│-zfxtop                           │    │
+│ 559│ zgrab2                           │ 422│ zgrab2
+│ 560│ zoxide                           │ 423│ zoxide
 
