@@ -50,7 +50,7 @@
 - **Description:** A CLI tool to check Certificate Transparency logs of a domain name.
 - **Author:** cemulus
 - **Repository:** [https://github.com/cemulus/crt](https://github.com/cemulus/crt)
-- **Stars:** 63
+- **Stars:** 64
 - **Version:** v0.1.0
 - **Updated:** 2022-03-08T21:41:54Z
 - **Size:** 4.63 MB
@@ -226,7 +226,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1948
+- **Stars:** 1949
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.79 MB
