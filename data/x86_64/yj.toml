@@ -1,0 +1,26 @@
+[bin]
+name = "yj"
+
+[package]
+architecture = "x86_64"
+name = "yj"
+description = "CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order."
+author = "sclevine"
+repo = "https://github.com/sclevine/yj"
+stars = "884"
+version = "v5.1.0"
+updated = "2022-04-12T01:58:57Z"
+size = "3.16 MB"
+bsum = "8575ac2acdbb73d9294cc0f8b225665900b9427f955ce7c4a4eac9c1bf547f33"
+sha = "87c1dcb76fe075ce4a209fa4a5d3fc60008e5b9a123d382a2ba6fa469a515fe9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yj"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["yj"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","convert","converter","go","golang","hcl","json","toml","yaml"]
+categories = ["Utilities"]
