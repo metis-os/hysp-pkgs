@@ -85,7 +85,6 @@
 │ 291│-njs                              │    │
 │ 295│-nping                            │    │
 │ 297│-nu                               │    │
-│ 303│-osmedeus                         │    │
 │ 306│-overmind                         │    │
 │ 307│-passdetective                    │    │
 │ 308│-pdfcpu                           │    │
