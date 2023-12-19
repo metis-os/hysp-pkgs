@@ -128,7 +128,6 @@
 │ 525│-volta                            │    │
 │ 528│-vultr-cli                        │    │
 │ 531│-wasminspect                      │    │
-│ 533│-waybackrobots                    │    │
 │ 542│-wstunnel                         │    │
 │ 544│-wth                              │    │
 │ 552│-yazi                             │    │

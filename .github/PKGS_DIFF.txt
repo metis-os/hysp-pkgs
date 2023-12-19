@@ -869,29 +869,27 @@
 │ 530│ walk                             │ 398│ walk
 │ 531│-wasminspect                      │    │
 │ 532│ watchexec                        │ 399│ watchexec
-│ 533│-waybackrobots                    │    │
-│ 534│ waybackurls                      │ 400│ waybackurls
-│ 535│ web-cache-vulnerability-scanner  │ 401│ web-cache-vulnerability-scanner
-│ 536│ websocat                         │ 402│ websocat
-│ 539│ wireproxy                        │ 405│ wireproxy
-│ 540│ wiretap                          │ 406│ wiretap
-│ 541│ wormhole-rs                      │ 407│ wormhole-rs
+│ 533│ waybackrobots                    │ 400│ waybackrobots
+│ 534│ waybackurls                      │ 401│ waybackurls
+│ 539│ wireproxy                        │ 406│ wireproxy
+│ 540│ wiretap                          │ 407│ wiretap
+│ 541│ wormhole-rs                      │ 408│ wormhole-rs
 │ 542│-wstunnel                         │    │
-│ 543│ wtfutil                          │ 408│ wtfutil
+│ 543│ wtfutil                          │ 409│ wtfutil
 │ 544│-wth                              │    │
-│ 545│ x8                               │ 409│ x8
-│ 546│ xargs-rs                         │ 410│ xargs-rs
-│ 547│ xcp                              │ 411│ xcp
-│ 549│ xurls                            │ 413│ xurls
-│ 550│ yalis                            │ 414│ yalis
-│ 551│ yataf                            │ 415│ yataf
+│ 545│ x8                               │ 410│ x8
+│ 546│ xargs-rs                         │ 411│ xargs-rs
+│ 547│ xcp                              │ 412│ xcp
+│ 549│ xurls                            │ 414│ xurls
+│ 550│ yalis                            │ 415│ yalis
+│ 551│ yataf                            │ 416│ yataf
 │ 552│-yazi                             │    │
-│ 553│ yj                               │ 416│ yj
-│ 554│ yq                               │ 417│ yq
-│ 555│ zdns                             │ 418│ zdns
-│ 556│ zellij                           │ 419│ zellij
-│ 557│ zenith                           │ 420│ zenith
+│ 553│ yj                               │ 417│ yj
+│ 554│ yq                               │ 418│ yq
+│ 555│ zdns                             │ 419│ zdns
+│ 556│ zellij                           │ 420│ zellij
+│ 557│ zenith                           │ 421│ zenith
 │ 558│-zfxtop                           │    │
-│ 559│ zgrab2                           │ 421│ zgrab2
-│ 560│ zoxide                           │ 422│ zoxide
+│ 559│ zgrab2                           │ 422│ zgrab2
+│ 560│ zoxide                           │ 423│ zoxide
 
