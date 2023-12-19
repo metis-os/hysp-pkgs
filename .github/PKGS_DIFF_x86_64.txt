@@ -59,6 +59,7 @@
 │ 328│-niltalk                          │    │
 │ 329│-njs                              │    │
 │ 332│-nmctl                            │    │
+│ 334│-noir                             │    │
 │ 336│-nping                            │    │
 │ 337│-nrich                            │    │
 │ 339│-nu                               │    │
