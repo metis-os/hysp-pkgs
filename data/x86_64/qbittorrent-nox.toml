@@ -1,0 +1,26 @@
+[bin]
+name = "qbittorrent-nox"
+
+[package]
+architecture = "x86_64"
+name = "qbittorrent-nox"
+description = "A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS"
+author = "userdocs"
+repo = "https://github.com/userdocs/qbittorrent-nox-static"
+stars = "861"
+version = "release-4.6.2_v2.0.9"
+updated = "2023-11-28T00:33:16Z"
+size = "27.32 MB"
+bsum = "c0eead4fc98761b7ac0cd30cac4e6cfc47a158fc88b87b17af996802bea4ae7c"
+sha = "214e7882811d23e2eb5e33b31596c89aac4ea2693a572b5d7d2779de7a40dfff"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/qbittorrent-nox"
+language = "Shell"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["qbittorrent-nox"]
+requires = []
+
+[package.metadata]
+keywords = ["alpine","alpine-linux","b2","bash","bash-script","boost","cmake","debian","debian-linux","docker","libtorrent","libtorrent-rasterbar","qbittorrent","qbittorrent-nox","qmake","static","ubuntu","ubuntu-linux","wsl2"]
+categories = ["Utilities"]

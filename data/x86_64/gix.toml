@@ -1,0 +1,26 @@
+[bin]
+name = "gix"
+
+[package]
+architecture = "x86_64"
+name = "gix"
+description = " safe pure Rust implementation of Git"
+author = "Byron"
+repo = "https://github.com/Byron/gitoxide"
+stars = "7244"
+version = "v0.32.0"
+updated = "2023-12-06T16:07:09Z"
+size = "14.66 MB"
+bsum = "2fdd935182e293b8dd768b1e8a94167f2f51c523c65e35105cc39af295889e66"
+sha = "3d36bdd8f16f42e6a3f597a1b05181acb845893f922fdddcf0e15858cc3735ca"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gix"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gix"]
+requires = []
+
+[package.metadata]
+keywords = ["blazingly-fast","built-with-rust","cli","git","version-control"]
+categories = ["Utilities"]

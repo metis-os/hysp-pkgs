@@ -1,0 +1,26 @@
+[bin]
+name = "kubemetrics"
+
+[package]
+architecture = "x86_64"
+name = "kubemetrics"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "4.23 MB"
+bsum = "9d08c5b18846dac340e2df64d9a356ec1df004f71f9446eb990a1d3431e5f772"
+sha = "b61ee325d1b54ceb7dc0b7a6160d6ddbc99ee0738e0ea75ae2a4992c90913989"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/kubemetrics"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["kubemetrics"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

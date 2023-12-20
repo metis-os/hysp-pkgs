@@ -1,0 +1,26 @@
+[bin]
+name = "gitlab-subdomains"
+
+[package]
+architecture = "x86_64"
+name = "gitlab-subdomains"
+description = "Find subdomains on GitLab."
+author = "gwen001"
+repo = "https://github.com/gwen001/gitlab-subdomains"
+stars = "51"
+version = "v1.0.1"
+updated = "2022-12-02T08:03:44Z"
+size = "5.05 MB"
+bsum = "87b1c94905b7114eca8b0eca80407f023564d67083910c9b1523dd47392d318e"
+sha = "4aa6a76b5eadd1dbb4218a2857938f6ddee4c337165d0930906a64774f064e75"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitlab-subdomains"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gitlab-subdomains"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","gitlab","go","pentesting","security-tools","subdomains"]
+categories = ["Utilities"]

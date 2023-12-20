@@ -1,0 +1,26 @@
+[bin]
+name = "broot"
+
+[package]
+architecture = "x86_64"
+name = "broot"
+description = "A new way to see and navigate directory trees : https://dystroy.org/broot"
+author = "Canop"
+repo = "https://github.com/Canop/broot"
+stars = "9518"
+version = "v1.30.1"
+updated = "2023-12-16T08:30:51Z"
+size = "8.86 MB"
+bsum = "466c27f7f91aa209be71e145e37546f5d9ee93721ef75b4f1a8f5c977de547f1"
+sha = "6149c19694c89f82ab1ffd8b8e56bffbe18b9a60f66c3aa5b6825491323ad56c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/broot"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["broot"]
+requires = []
+
+[package.metadata]
+keywords = ["balanced-bfs-descent","command-line","command-line-tool","fuzzy-search","hacktoberfest","linux","rust","tree"]
+categories = ["Utilities"]

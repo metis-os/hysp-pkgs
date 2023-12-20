@@ -1,0 +1,26 @@
+[bin]
+name = "hakip2host"
+
+[package]
+architecture = "x86_64"
+name = "hakip2host"
+description = "hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names."
+author = "hakluke"
+repo = "https://github.com/hakluke/hakip2host"
+stars = "319"
+version = "null"
+updated = ""
+size = "4.51 MB"
+bsum = "a38253c5ff0fa22a468af5017b8352502860bab20d98c2b3289339e2e592b7f3"
+sha = "4d108229101504d8f07a40b1aa59e1b4d4940052f83f2eb33ac5c83ac5be8522"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hakip2host"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["hakip2host"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","hacking","osint","recon"]
+categories = ["Utilities"]

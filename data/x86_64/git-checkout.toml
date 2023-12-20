@@ -1,0 +1,26 @@
+[bin]
+name = "git-checkout"
+
+[package]
+architecture = "x86_64"
+name = "git-checkout"
+description = "A highly extensible Git implementation in pure Go."
+author = "go-git"
+repo = "https://github.com/go-git/go-git"
+stars = "5198"
+version = "v5.11.0"
+updated = "2023-12-09T19:56:52Z"
+size = "6.81 MB"
+bsum = "c61b5e94cb69b92bada36fba6beec3e64f33217a65aa67c3c8d40ee88845ac02"
+sha = "2bcbcc7718cf9b8a7705d95444db52948f1e6ea4c7edf9c4772707b9f030548c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git-checkout"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["git-checkout"]
+requires = []
+
+[package.metadata]
+keywords = ["git","git-client","git-server","go-git","golang"]
+categories = ["Utilities"]

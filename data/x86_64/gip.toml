@@ -1,0 +1,26 @@
+[bin]
+name = "gip"
+
+[package]
+architecture = "x86_64"
+name = "gip"
+description = "a command-line tool to get global IP address"
+author = "dalance"
+repo = "https://github.com/dalance/gip"
+stars = "31"
+version = "v0.6.0"
+updated = "2018-09-19T03:22:44Z"
+size = "9.27 MB"
+bsum = "8a1fce3e15e6dcc4b729e6a07c7133d4a866a7452db9926b5c100cd0ae049e2b"
+sha = "2c6f84937d72dcedd79dcf6b74b6372002d418906570561366cd5c1465f1dd2a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gip"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gip"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line-tool","ipv4","ipv6","rust","rust-library"]
+categories = ["Utilities"]

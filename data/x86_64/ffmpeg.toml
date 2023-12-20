@@ -1,0 +1,26 @@
+[bin]
+name = "ffmpeg"
+
+[package]
+architecture = "x86_64"
+name = "ffmpeg"
+description = "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+author = "FFmpeg"
+repo = "https://github.com/FFmpeg/FFmpeg"
+stars = "39955"
+version = "v0.6.1"
+updated = "null"
+size = "75.04 MB"
+bsum = "9b5203bc0d1c8ff6078f0eb872caf37f158906084162db9ce05fa4010b8ac87e"
+sha = "ed652b2f32e0851d1946894fb8333f5b677c1b2ce6b9d187910a67f8b99da028"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ffmpeg"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["ffmpeg"]
+requires = []
+
+[package.metadata]
+keywords = ["audio","c","ffmpeg","fft","hevc","hls","matroska","mp4","mpeg","multimedia","rtmp","rtsp","streaming","video","webm"]
+categories = ["Utilities"]

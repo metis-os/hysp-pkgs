@@ -1,0 +1,26 @@
+[bin]
+name = "netbird"
+
+[package]
+architecture = "x86_64"
+name = "netbird"
+description = "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls."
+author = "netbirdio"
+repo = "https://github.com/netbirdio/netbird"
+stars = "7181"
+version = "v0.25.0"
+updated = "2023-12-18T11:30:09Z"
+size = "22.43 MB"
+bsum = "a6355292008091e56512844c75d0b5f7db6da9ea90f3b686b4e2e552418afa15"
+sha = "24acea0d06385b00de57bd0171878121b0108f5af1d7de86a4b10dc05e2192d7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/netbird"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["netbird"]
+requires = []
+
+[package.metadata]
+keywords = ["golang","mesh","mesh-networks","nat-traversal","netbird","vpn","wireguard","wireguard-vpn","wiretrustee","zero-trust-network-access"]
+categories = ["Utilities"]

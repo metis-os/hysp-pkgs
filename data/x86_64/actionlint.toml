@@ -1,0 +1,26 @@
+[bin]
+name = "actionlint"
+
+[package]
+architecture = "x86_64"
+name = "actionlint"
+description = ":octocat: Static checker for GitHub Actions workflow files"
+author = "rhysd"
+repo = "https://github.com/rhysd/actionlint"
+stars = "2091"
+version = "v1.6.26"
+updated = "2023-09-18T14:05:44Z"
+size = "4.74 MB"
+bsum = "9c90b3b0a46bba9c114955681a673bc02f3a76100a1865de5bf69ebf21b887f7"
+sha = "86167459319e7bd72c1a40045aaf826258c22b9e46c496d359f5d6c6e8532df5"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/actionlint"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["actionlint"]
+requires = []
+
+[package.metadata]
+keywords = ["actions","ci","github-actions","lint","linter"]
+categories = ["Utilities"]

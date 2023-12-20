@@ -1,0 +1,26 @@
+[bin]
+name = "gorilla"
+
+[package]
+architecture = "x86_64"
+name = "gorilla"
+description = "tool for generating wordlists or extending an existing one using mutations."
+author = "d4rckh"
+repo = "https://github.com/d4rckh/gorilla"
+stars = "373"
+version = "null"
+updated = ""
+size = "4.82 MB"
+bsum = "c7a5cf1fb12f8aaa4b0437b5b00c71b35251f9dfa7f3cd9cd3b2b4331afcaa05"
+sha = "69fe4cc6ce63c2ab27563ce7077566ce818aed5fd4d3ce48cb72a95a37569ddc"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gorilla"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["gorilla"]
+requires = []
+
+[package.metadata]
+keywords = ["cracking","hash","hashcat","infosec","johntheripper","security"]
+categories = ["Utilities"]

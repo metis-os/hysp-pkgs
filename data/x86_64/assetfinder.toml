@@ -1,0 +1,26 @@
+[bin]
+name = "assetfinder"
+
+[package]
+architecture = "x86_64"
+name = "assetfinder"
+description = "Find domains and subdomains related to a given domain"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/assetfinder"
+stars = "2664"
+version = "v0.1.1"
+updated = "2020-04-15T10:38:43Z"
+size = "4.72 MB"
+bsum = "d83844547a8296c158e6aac426865397136828bdda102b1f1ab4fb15d3d9eb27"
+sha = "df1c2eec967f4e5bc732faf7a8703ee46c985656b238be0d5b2268841e341b6f"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/assetfinder"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["assetfinder"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ein"
+
+[package]
+architecture = "x86_64"
+name = "ein"
+description = " safe pure Rust implementation of Git"
+author = "Byron"
+repo = "https://github.com/Byron/gitoxide"
+stars = "7244"
+version = "v0.32.0"
+updated = "2023-12-06T16:07:09Z"
+size = "10.54 MB"
+bsum = "517b3c09b7ed47b43ea41532c281ea64cd3d455f980ca76901e89d6ceec0702a"
+sha = "e8e3e03ea48f395ff9d1b8abd0903cc54113d66715b164e029be371e74e21cec"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ein"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ein"]
+requires = []
+
+[package.metadata]
+keywords = ["blazingly-fast","built-with-rust","cli","git","version-control"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "genscope"
+
+[package]
+architecture = "x86_64"
+name = "genscope"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.42 MB"
+bsum = "ec4099dc4a525033b88f7b7c7404e479dafe4e8e41ddcda7054c7dcf3b03bbc3"
+sha = "961cbce00be55327e81c6e9a748cb004088aac663038c5dae78119dbff49ada1"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/genscope"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["genscope"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

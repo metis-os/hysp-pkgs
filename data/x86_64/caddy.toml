@@ -1,0 +1,26 @@
+[bin]
+name = "caddy"
+
+[package]
+architecture = "x86_64"
+name = "caddy"
+description = "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+author = "caddyserver"
+repo = "https://github.com/caddyserver/caddy"
+stars = "51123"
+version = "v2.7.6"
+updated = "2023-12-08T01:03:36Z"
+size = "39.13 MB"
+bsum = "69c67659e8f570e7de4f71ceee21dcff21b7357e3ebace8fada16b4cc602398e"
+sha = "3e322fa50b1cd2f86e4d2925868573381adec25f35cadd1e120aab3669ded426"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/caddy"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["caddy"]
+requires = []
+
+[package.metadata]
+keywords = ["acme","automatic-https","caddy","caddyfile","go","golang","hacktoberfest","http","http-server","http3","https","privacy","reverse-proxy","security","tls","web-server"]
+categories = ["Utilities"]

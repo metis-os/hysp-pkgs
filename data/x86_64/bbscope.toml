@@ -1,0 +1,26 @@
+[bin]
+name = "bbscope"
+
+[package]
+architecture = "x86_64"
+name = "bbscope"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "286"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.71 MB"
+bsum = "5ad3edb0976f22e1c51bfa9e9b264f27cd5b93103060cedd27448c43cf9a59e0"
+sha = "f1f43d4e6c0008bca9ebe0ee7bae3f208f136c00f0297273beafcc0ad575b231"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/bbscope"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["bbscope"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]
