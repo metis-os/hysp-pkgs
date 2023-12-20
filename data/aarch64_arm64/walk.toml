@@ -1,0 +1,26 @@
+[bin]
+name = "walk"
+
+[package]
+architecture = "aarch64_arm64"
+name = "walk"
+description = "Terminal file manager"
+author = "antonmedv"
+repo = "https://github.com/antonmedv/walk"
+stars = "2834"
+version = "v1.7.0"
+updated = "2023-10-29T11:07:58Z"
+size = "2.56 MB"
+bsum = "bd273df6c02d0240574667ae1f3ff89ee158c0c37c8c76e05cf7e9ca768431e4"
+sha = "10febfbd9368c1231ded691ecd9914b7d7122ec8214e9c1c030d834b474838d3"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/walk"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["walk"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","file-manager","terminal"]
+categories = ["Utilities"]

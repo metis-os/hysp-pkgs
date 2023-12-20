@@ -1,0 +1,26 @@
+[bin]
+name = "zenith"
+
+[package]
+architecture = "aarch64_arm64"
+name = "zenith"
+description = "Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage"
+author = "bvaisvil"
+repo = "https://github.com/bvaisvil/zenith"
+stars = "2021"
+version = "0.14.0"
+updated = "2023-02-24T22:01:18Z"
+size = "1.26 MB"
+bsum = "02cd672596d69c7440f6eddb8af40a9e3bedc29291b8872be63c49108b43e4b3"
+sha = "105fc86766796222caf6377800d18224264bcf485ea4193e5bb376af7ba2c167"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zenith"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["zenith"]
+requires = []
+
+[package.metadata]
+keywords = ["cpu","disk","linux","macos","process-monitor","terminal-application","tui","zenith"]
+categories = ["Utilities"]
