@@ -4,7 +4,7 @@ name = "hednsextractor"
 [package]
 architecture = "x86_64"
 name = "hednsextractor"
-description = "raw html extractor from Hurricane Electric portal"
+description = "A suite for hunting suspicious targets, expose domains and phishing discovery"
 author = "HuntDownProject"
 repo = "https://github.com/HuntDownProject/HEDnsExtractor"
 stars = "213"
@@ -22,5 +22,5 @@ conflicts  = ["hednsextractor"]
 requires = []
 
 [package.metadata]
-keywords = ["threat-hunting","threat-intelligence","threatintel"]
+keywords = ["adversarial-attacks","malware-analysis","phishing-detection","threat-hunting","threat-intelligence","threatintel"]
 categories = ["Utilities"]
