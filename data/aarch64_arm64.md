@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 46138
+- **Stars:** 46141
 - **Version:** v0.2.56
 - **Updated:** 2023-12-17T22:14:06Z
 - **Size:** 14.52 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 33448
+- **Stars:** 33451
 - **Version:** v3.29.1
 - **Updated:** 2023-11-25T08:10:18Z
 - **Size:** 61.29 MB
@@ -162,7 +162,7 @@
 - **Description:** In-depth attack surface mapping and asset discovery
 - **Author:** owasp-amass
 - **Repository:** [https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)
-- **Stars:** 10539
+- **Stars:** 10540
 - **Version:** v4.2.0
 - **Updated:** 2023-09-10T20:52:27Z
 - **Size:** 33.64 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32281
+- **Stars:** 32283
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 12439
+- **Stars:** 12440
 - **Version:** v17.1.0
 - **Updated:** 2023-12-10T13:12:32Z
 - **Size:** 16.48 MB
@@ -482,7 +482,7 @@
 - **Description:** Userspace WireGuard® Implementation in Rust
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/boringtun](https://github.com/cloudflare/boringtun)
-- **Stars:** 5580
+- **Stars:** 5582
 - **Version:** boringtun-cli-0.5.2
 - **Updated:** 2022-07-20T17:04:19Z
 - **Size:** 1.06 MB
@@ -546,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14334
+- **Stars:** 14335
 - **Version:** v1.2.13
 - **Updated:** 2022-11-06T21:36:41Z
 - **Size:** 2.24 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51147
+- **Stars:** 51149
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 37.67 MB
@@ -1042,7 +1042,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19416
+- **Stars:** 19418
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.18 MB
@@ -1058,7 +1058,7 @@
 - **Description:** Instant, easy, and predictable development environments
 - **Author:** jetpack-io
 - **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
-- **Stars:** 6693
+- **Stars:** 6694
 - **Version:** 0.8.4
 - **Updated:** 2023-12-08T21:42:29Z
 - **Size:** 20.71 MB
@@ -1475,8 +1475,8 @@
 - **Author:** brocode
 - **Repository:** [https://github.com/brocode/fblog](https://github.com/brocode/fblog)
 - **Stars:** 347
-- **Version:** v4.7.0
-- **Updated:** 2023-11-29T07:47:23Z
+- **Version:** v4.8.0
+- **Updated:** 2023-12-21T07:44:25Z
 - **Size:** 2.42 MB
 - **SHA256SUM:** 3fcff2e309b1b4128ac362dd0ef1877b885776477e38b7e979f88d3eba9474f5
 - **B3SUM:** 60d0ded3921e64691fc3d0ce9e1e262b97bffe0d696cb1141ab91486390e0c56
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 29879
+- **Stars:** 29880
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.47 MB
@@ -1682,7 +1682,7 @@
 - **Description:** jq for binary formats - tool, language and decoders for working with binary and text formats
 - **Author:** wader
 - **Repository:** [https://github.com/wader/fq](https://github.com/wader/fq)
-- **Stars:** 9069
+- **Stars:** 9070
 - **Version:** v0.9.0
 - **Updated:** 2023-11-25T17:53:02Z
 - **Size:** 10.48 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56211
+- **Stars:** 56212
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1842,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34080
+- **Stars:** 34082
 - **Version:** v2.40.1
 - **Updated:** 2023-12-13T14:59:38Z
 - **Size:** 41.22 MB
@@ -1874,7 +1874,7 @@
 - **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
-- **Stars:** 6569
+- **Stars:** 6570
 - **Version:** v1.4.0
 - **Updated:** 2023-10-29T13:23:20Z
 - **Size:** 7.43 MB
@@ -1906,7 +1906,7 @@
 - **Description:** Git extension for versioning large files
 - **Author:** git-lfs
 - **Repository:** [https://github.com/git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
-- **Stars:** 12099
+- **Stars:** 12100
 - **Version:** v3.4.1
 - **Updated:** 2023-12-13T23:25:51Z
 - **Size:** 10.27 MB
@@ -2050,7 +2050,7 @@
 - **Description:** Protect and discover secrets using Gitleaks 🔑
 - **Author:** gitleaks
 - **Repository:** [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-- **Stars:** 14350
+- **Stars:** 14352
 - **Version:** v8.18.1
 - **Updated:** 2023-11-17T20:58:58Z
 - **Size:** 6.27 MB
@@ -2066,7 +2066,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 14668
+- **Stars:** 14669
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.41 MB
@@ -2082,7 +2082,7 @@
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
-- **Stars:** 13894
+- **Stars:** 13895
 - **Version:** v1.5.1
 - **Updated:** 2023-05-09T16:16:51Z
 - **Size:** 16.60 MB
@@ -2626,7 +2626,7 @@
 - **Description:** An OOB interaction gathering server and client library
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
-- **Stars:** 2821
+- **Stars:** 2822
 - **Version:** v1.1.8
 - **Updated:** 2023-12-07T20:30:02Z
 - **Size:** 24.02 MB
@@ -2658,7 +2658,7 @@
 - **Description:** The Swiss Army knife for automated Web Application Testing
 - **Author:** jaeles-project
 - **Repository:** [https://github.com/jaeles-project/jaeles](https://github.com/jaeles-project/jaeles)
-- **Stars:** 1996
+- **Stars:** 1997
 - **Version:** beta-v0.17.1
 - **Updated:** 2023-07-08T08:31:33Z
 - **Size:** 22.29 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27404
+- **Stars:** 27405
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.63 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40903
+- **Stars:** 40905
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3202,7 +3202,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19441
+- **Stars:** 19442
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 0.52 MB
@@ -3234,7 +3234,7 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7197
+- **Stars:** 7198
 - **Version:** v0.25.1
 - **Updated:** 2023-12-20T19:23:16Z
 - **Size:** 21.35 MB
@@ -3474,7 +3474,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 20119
+- **Stars:** 20120
 - **Version:** v4.8.2
 - **Updated:** 2023-12-11T12:42:38Z
 - **Size:** 26.82 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 42075
+- **Stars:** 42078
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21529
+- **Stars:** 21530
 - **Version:** v0.1.8
 - **Updated:** 2023-12-13T19:15:17Z
 - **Size:** 12.93 MB
@@ -4322,7 +4322,7 @@
 - **Description:** Fast passive subdomain enumeration tool.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
-- **Stars:** 8646
+- **Stars:** 8647
 - **Version:** v2.6.3
 - **Updated:** 2023-09-12T09:40:25Z
 - **Size:** 23.50 MB
@@ -4434,7 +4434,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14646
+- **Stars:** 14647
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.42 MB
@@ -4450,7 +4450,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14646
+- **Stars:** 14647
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 28.10 MB
@@ -4722,7 +4722,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12665
+- **Stars:** 12666
 - **Version:** v4.2.1
 - **Updated:** 2023-11-01T12:02:45Z
 - **Size:** 0.55 MB
@@ -5138,7 +5138,7 @@
 - **Description:** yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
 - **Author:** mikefarah
 - **Repository:** [https://github.com/mikefarah/yq](https://github.com/mikefarah/yq)
-- **Stars:** 9947
+- **Stars:** 9948
 - **Version:** v4.40.5
 - **Updated:** 2023-12-12T02:53:05Z
 - **Size:** 8.93 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15006
+- **Stars:** 15007
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
@@ -5186,7 +5186,7 @@
 - **Description:** Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - **Author:** bvaisvil
 - **Repository:** [https://github.com/bvaisvil/zenith](https://github.com/bvaisvil/zenith)
-- **Stars:** 2022
+- **Stars:** 2023
 - **Version:** 0.14.0
 - **Updated:** 2023-02-24T22:01:18Z
 - **Size:** 1.26 MB
