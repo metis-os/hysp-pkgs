@@ -1,0 +1,26 @@
+[bin]
+name = "walk"
+
+[package]
+architecture = "x86_64"
+name = "walk"
+description = "Terminal file manager"
+author = "antonmedv"
+repo = "https://github.com/antonmedv/walk"
+stars = "2839"
+version = "v1.7.0"
+updated = "2023-10-29T11:07:58Z"
+size = "2.62 MB"
+bsum = "65e0c702fa2b1efc3c8e896de5fb47b6c246a2bbf243a1d0db29fc0548a2a282"
+sha = "5d207d63fec7231e3dbdbc51703634f0e55b40a6dec55a4202a2b5835d70b9c8"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/walk"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["walk"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","file-manager","terminal"]
+categories = ["Utilities"]
