@@ -1,0 +1,26 @@
+[bin]
+name = "sftp-server"
+
+[package]
+architecture = "x86_64"
+name = "sftp-server"
+description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/static-toolbox"
+stars = "14"
+version = "misc_utils_2023_12_22_07_45_04_AM"
+updated = "2023-12-22T02:00:04Z"
+size = "0.27 MB"
+bsum = "0bb455479ad6a1b9fd1a39c60042c08ef6a50e93dfcc54ba9c39b4b4b0556e9a"
+sha = "0c5c501974633c34f5ba8669479de79be67d168e879ebb34210b928c1ff78a35"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sftp-server"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["sftp-server"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "sttr"
+
+[package]
+architecture = "x86_64"
+name = "sttr"
+description = "cross-platform, cli app to perform various operations on string"
+author = "abhimanyu003"
+repo = "https://github.com/abhimanyu003/sttr"
+stars = "765"
+version = "v0.2.18"
+updated = "2023-04-08T10:50:52Z"
+size = "8.92 MB"
+bsum = "4fe8405d33953a6ee98c767144a12033f462396963151d3024d5dabaac606521"
+sha = "9ecfe4bffe5620e35a33748a861bc29a849ce4cd4c9128a87e7245093f25d141"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sttr"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sttr"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","cli-app","count-lines","count-words","decoding","developer-tools","devutils","encoding","encrypt","encryption-decryption","go","json","productivity","string","termux","termux-tool","transform","tui","tui-app","zeropad"]
+categories = ["Utilities"]
