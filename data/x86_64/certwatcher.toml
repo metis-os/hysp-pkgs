@@ -1,0 +1,26 @@
+[bin]
+name = "certwatcher"
+
+[package]
+architecture = "x86_64"
+name = "certwatcher"
+description = "CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL."
+author = "drfabiocastro"
+repo = "https://github.com/drfabiocastro/certwatcher"
+stars = "107"
+version = "null"
+updated = ""
+size = "14.47 MB"
+bsum = "3323da15abec20c84d8d27f14c1bcf4e8d89c951e7d8d5fa8b9f58713551b6f8"
+sha = "6722975b643181bf7a5f20883ea16dba717571944d580baca986a94b8ec708da"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/certwatcher"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["certwatcher"]
+requires = []
+
+[package.metadata]
+keywords = ["certstream","certwatcher","cybersecurity","detection","golang","hacking","hacktoberfest","nuclei","nuclei-templates","osint","phishing","scanner-web","security","security-automation","security-tools","ssl-certificate","tools","vulnerability-detection","vulnerability-scanners","yaml"]
+categories = ["Utilities"]

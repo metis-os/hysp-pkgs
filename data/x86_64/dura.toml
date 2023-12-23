@@ -1,0 +1,26 @@
+[bin]
+name = "dura"
+
+[package]
+architecture = "x86_64"
+name = "dura"
+description = "You shouldn't ever lose your work if you're using Git"
+author = "tkellogg"
+repo = "https://github.com/tkellogg/dura"
+stars = "4227"
+version = "v0.2.0"
+updated = "2022-07-10T00:39:35Z"
+size = "7.96 MB"
+bsum = "1fd9593d87ab391778cf65f3aaa968c22d9653f9bdf118f014573c79d6f94d10"
+sha = "419d148fc8405f313a0736ce29aef9c34e791efe8cf3638b1ff1ef2e819b21db"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dura"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["dura"]
+requires = []
+
+[package.metadata]
+keywords = ["git","rust"]
+categories = ["Utilities"]

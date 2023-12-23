@@ -1,0 +1,26 @@
+[bin]
+name = "catp"
+
+[package]
+architecture = "x86_64"
+name = "catp"
+description = "Print the output of a running process"
+author = "rapiz1"
+repo = "https://github.com/rapiz1/catp"
+stars = "1154"
+version = "v0.2.0"
+updated = "2022-07-25T13:23:34Z"
+size = "0.76 MB"
+bsum = "ae111a6b1ce7f3d7d0b6f0a3186018aca088249d05c60d851957d8c7dd9e01d8"
+sha = "8bf897170f10dbdc600a5925bfb6ba537c67e70290d079df16b4750961896fb8"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/catp"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["catp"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

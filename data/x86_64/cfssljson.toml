@@ -1,0 +1,26 @@
+[bin]
+name = "cfssljson"
+
+[package]
+architecture = "x86_64"
+name = "cfssljson"
+description = "CFSSL: Cloudflare's PKI and TLS toolkit"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cfssl"
+stars = "8221"
+version = "v1.6.4"
+updated = "2023-04-10T19:07:12Z"
+size = "7.29 MB"
+bsum = "9f0df1edb833cc6d5717c34c8622ee062adbdeff6ab1033c72d0caaa4f3f15ff"
+sha = "c2513f70e18e4e72e9c9c5d545a05970900ee1fbd9eaa42e65769696a00a8f80"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cfssljson"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["cfssljson"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
