@@ -1,0 +1,26 @@
+[bin]
+name = "hakrevdns"
+
+[package]
+architecture = "x86_64"
+name = "hakrevdns"
+description = "Small, fast tool for performing reverse DNS lookups en masse."
+author = "hakluke"
+repo = "https://github.com/hakluke/hakrevdns"
+stars = "1207"
+version = "null"
+updated = ""
+size = "2.02 MB"
+bsum = "4f42f3d0186519028ece95c1fc01c009d492b54db378a35bfa5000006edc93e0"
+sha = "3c5110a2141c90bb59a347fd73409d93897ae533adb06369e9e3610c2946ea9d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hakrevdns"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hakrevdns"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
