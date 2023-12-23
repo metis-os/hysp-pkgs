@@ -22,5 +22,5 @@ conflicts  = ["gitea"]
 requires = []
 
 [package.metadata]
-keywords = ["devops","git","git-gui","git-server","gitea","github","github-clone","gitlab","go","gogs","golang","hacktoberfest","hacktoberfest2023"]
+keywords = ["devops","docker-registry-v2","git","git-gui","git-server","gitea","github","github-actions","gitlab","go","gogs","golang","hacktoberfest","maven-server","npm-registry","vue"]
 categories = ["Utilities"]
