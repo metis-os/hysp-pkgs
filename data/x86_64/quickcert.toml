@@ -1,0 +1,26 @@
+[bin]
+name = "quickcert"
+
+[package]
+architecture = "x86_64"
+name = "quickcert"
+description = "A better way of querying certificate transparency logs"
+author = "c3l3si4n"
+repo = "https://github.com/c3l3si4n/quickcert"
+stars = "63"
+version = "v0.0.2"
+updated = "2023-10-09T20:06:23Z"
+size = "7.33 MB"
+bsum = "24030711d9f4a077164f6248bcacdb8834458ed8cb0839be97dd6b87faf8c880"
+sha = "926dc170b8e54d8c70fef0fc33263a57f2d3c157a8f0ed0e9cb2c38837f155e2"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/quickcert"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["quickcert"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
