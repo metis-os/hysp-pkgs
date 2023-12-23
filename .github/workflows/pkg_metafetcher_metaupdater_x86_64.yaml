@@ -190,6 +190,15 @@ jobs:
           BIN="anew" REPO="tomnomnom/anew" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #anewer: anewer appends lines from stdin to a file if they don't already exist in the file 
+      - name: Generate Meta (anewer)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="anewer" REPO="ysf/anewer" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #angle-grinder: Slice and dice logs on the command line 
       - name: Generate Meta (agrind)
         run: |
@@ -344,6 +353,15 @@ jobs:
           BIN="binocle" REPO="sharkdp/binocle" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #bleve : A modern text indexing library for go 
+      - name: Generate Meta (bleve)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="bleve" REPO="blevesearch/bleve" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #bluetuith :  A TUI bluetooth manager for Linux. 
       - name: Generate Meta (bluetuith)
         run: |
@@ -480,6 +498,15 @@ jobs:
           BIN="caddy" REPO="caddyserver/caddy" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #catp: Print the output of a running process
+      - name: Generate Meta (catp)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="catp" REPO="rapiz1/catp" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #cdncheck : A utility to detect various technology for a given IP address. 
       - name: Generate Meta (cdncheck)
         run: |
@@ -490,21 +517,64 @@ jobs:
         continue-on-error: true
      #----------------------------#
      #cent : Fetch & Organize all Nuclei Templates
+      - name: Generate Meta (certspotter)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="certspotter" REPO="SSLMate/certspotter" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #certspotter : Certificate Transparency Log Monitor
       - name: Generate Meta (cent)
         run: |
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="cent" REPO="xm1k3/cent" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-        continue-on-error: true        
+        continue-on-error: true       
      #----------------------------# 
      #certstream : Cli for calidog's certstream
-      - name: Generate Meta (certstream )
+      - name: Generate Meta (certstream)
         run: |
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="certstream" REPO="Azathothas/Arsenal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #certwatcher : CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
+      - name: Generate Meta (certwatcher)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="certwatcher" REPO="drfabiocastro/certwatcher" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #cexec : Execute any command, cache its output and get cached output on subsequent execution
+      - name: Generate Meta (cexec)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="cexec" REPO="mrusme/cexec" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #cfssl : Cloudflare's PKI and TLS toolkit
+      - name: Generate Meta (cfssl)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="cfssl" REPO="cloudflare/cfssl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="cfssl-bundle" REPO="cloudflare/cfssl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="cfssl-certinfo" REPO="cloudflare/cfssl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="cfssl-newkey" REPO="cloudflare/cfssl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="cfssl-scan" REPO="cloudflare/cfssl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="cfssljson" REPO="cloudflare/cfssl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="mkbundle" REPO="cloudflare/cfssl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="multirootca" REPO="cloudflare/cfssl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------# 
      #Chameleon : Content Discovery using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies.
@@ -523,7 +593,16 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="cherrybomb" REPO="blst-security/cherrybomb" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-        continue-on-error: true                
+        continue-on-error: true
+     #----------------------------# 
+     #chisel : A fast TCP/UDP tunnel over HTTP
+      - name: Generate Meta (chisel)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="chisel" REPO="jpillora/chisel" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true                 
      #----------------------------#
      #chaos-client : cli for Chaos DB API
       - name: Generate Meta (chaos)
@@ -543,6 +622,15 @@ jobs:
           BIN="circumflex" REPO="bensadeh/circumflex" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #cloudcash : Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
+      - name: Generate Meta (cloudcash)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="cloudcash" REPO="mrusme/cloudcash" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #cloudlist : Cloudlist is a tool for listing Assets from multiple Cloud Providers.
       - name: Generate Meta (cloudlist)
         run: |
@@ -559,6 +647,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="cloudreve" REPO="cloudreve/Cloudreve" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #cog : The Conventional Commits toolbox
+      - name: Generate Meta (cog)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="cog" REPO="cocogitto/cocogitto" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #comb : Combine the lines from two files in every combination.
@@ -604,6 +701,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="cowtiness" REPO="stolenusername/cowitness" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #cproxy: Easy per application transparent proxy built on cgroup.
+      - name: Generate Meta (cproxy)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="cproxy" REPO="NOBLES5E/cproxy" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------# 
      #cpufetch : fetch for cpu
@@ -687,6 +793,24 @@ jobs:
           BIN="csvtk" REPO="shenwei356/csvtk" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #ct_monitor : Certificate Transparency log monitor 
+      - name: Generate Meta (ct_monitor)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ct_monitor" REPO="crtsh/ct_monitor" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ctlwatcher : Monitor Certificate Transparency logs for domains matching regexes. 
+      - name: Generate Meta (ctlwatcher)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ctlwatcher" REPO="Azathothas/ctlwatcher" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #curl
       - name: Generate Meta (curl)
         run: |
@@ -739,6 +863,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="datadash" REPO="keithknott26/datadash" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ddns-go : Simple and easy to use DDNS.
+      - name: Generate Meta (ddns-go)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ddns-go" REPO="jeessy2/ddns-go" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true      
      #----------------------------#
      #delta : A syntax-highlighting pager for git, diff, and grep output
@@ -757,6 +890,24 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="devbox" REPO="jetpack-io/devbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #devpod : Codespaces but open-source, client-only and unopinionated
+      - name: Generate Meta (devpod)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="devpod" REPO="loft-sh/devpod" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #diffoci : diff for Docker and OCI container images 
+      - name: Generate Meta (diffoci)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="diffoci" REPO="reproducible-containers/diffoci" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #direnv: unclutter your .profile 
@@ -872,6 +1023,15 @@ jobs:
           BIN="dufs" REPO="sigoden/dufs" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #dura: Dura is a background process that watches your Git repositories and commits your uncommitted changes without impacting HEAD, the current branch, or the Git index (staged files)
+      - name: Generate Meta (dura)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="dura" REPO="tkellogg/dura" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #dust : A more intuitive version of du in rust 
       - name: Generate Meta (dust)
         run: |
@@ -899,6 +1059,15 @@ jobs:
           BIN="eget" REPO="zyedidia/eget" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#   
+     #elfcat: ELF visualizer. Generates HTML files from ELF binaries.
+      - name: Generate Meta (elfcat)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="elfcat" REPO="ruslashev/elfcat" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#   
      #enc : 🔑🔒 A modern and friendly CLI alternative to GnuPG
       - name: Generate Meta (enc)
         run: |
@@ -917,13 +1086,13 @@ jobs:
           BIN="encode" REPO="Brum3ns/encode" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
-     #encode : Encode|Decode input from stdin
+     #enola : Hunt down social media accounts by username across social networks 
       - name: Generate Meta (enola)
         run: |
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
-          BIN="encode" REPO="Brum3ns/encode" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="enola" REPO="TheYahya/enola" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #enumerepo : List all public repositories for (valid) GitHub usernames
@@ -934,8 +1103,8 @@ jobs:
           #--------------#
           BIN="enumerepo" REPO="trickest/enumerepo" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
-      #----------------------------#
-      #etcd : Distributed reliable key-value store for the most critical data of a distributed system
+     #----------------------------#
+     #etcd : Distributed reliable key-value store for the most critical data of a distributed system
       - name: Generate Meta (etcd)
         run: |
           #Presets
@@ -944,6 +1113,15 @@ jobs:
           BIN="etcd" REPO="etcd-io/etcd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
           BIN="etcdctl" REPO="etcd-io/etcd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
           BIN="etcdutl" REPO="etcd-io/etcd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #exifLooter : ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap 
+      - name: Generate Meta (exiflooter)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="exiflooter" REPO="aydinnyunus/exifLooter" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #eza : A modern replacement for ‘ls’. (Fork of exa) 
@@ -1100,6 +1278,15 @@ jobs:
           BIN="fuse-overlayfs" REPO="containers/fuse-overlayfs" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #fscan : A comprehensive intranet scanning tool that facilitates one-click automated, all-round missed scanning. 
+      - name: Generate Meta (fscan)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="fscan" REPO="shadow1ng/fscan" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #fuse-overlayfs : FUSE implementation for overlayfs 
       - name: Generate Meta (fuse-overlayfs)
         run: |
@@ -1116,6 +1303,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="fuzzuli" REPO="musana/fuzzuli" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #fwanalyzer : a tool to analyze filesystem images for security 
+      - name: Generate Meta (fwanalyzer)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="fwanalyzer" REPO="cruise-automation/fwanalyzer" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #fx: Terminal JSON viewer & processor
@@ -1244,6 +1440,15 @@ jobs:
           set -x ; set +e
           #--------------#
           BIN="git-cliff" REPO="orhun/git-cliff" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------# 
+     #git-sizer : Compute various size metrics for a Git repository
+      - name: Generate Meta (git-sizer)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="git-sizer" REPO="github/git-sizer" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------# 
      #gitea : Git with a cup of tea!
@@ -1453,6 +1658,15 @@ jobs:
           BIN="gotator" REPO="Josue87/gotator" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #gotty : Share your terminal as a web application
+      - name: Generate Meta (gotty)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="gotty" REPO="sorenisanerd/gotty" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #gowitness : 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
       - name: Generate Meta (gowitness)
         run: |
@@ -1496,6 +1710,16 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="grpcurl" REPO="fullstorydev/grpcurl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #gsocket : Connect like there is no firewall. Securely. 
+      - name: Generate Meta (gsocket)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="gsocket" REPO="hackerschoice/gsocket" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="gs-netcat" REPO="hackerschoice/gsocket" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #gup : Update binaries installed by "go install" with goroutines. 
@@ -1650,6 +1874,15 @@ jobs:
           #--------------#
           BIN="hub" REPO="mislav/hub" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
+     #----------------------------#
+     #hex (hx): 🔮 Futuristic take on hexdump, made in Rust.
+      - name: Generate Meta (hx)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="hx" REPO="sitkevij/hex" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
      #----------------------------# 
      #hxn : ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal
       - name: Generate Meta (hxn)
@@ -1696,6 +1929,24 @@ jobs:
           BIN="iperf3" REPO="esnet/iperf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #ipt2socks : convert iptables/nftables transparent proxy traffic to socks5
+      - name: Generate Meta (ipt2socks)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ipt2socks" REPO="zfl9/ipt2socks" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #istioctl : Connect, secure, control, and observe services.
+      - name: Generate Meta (istioctl)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="istioctl" REPO="istio/istio" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #interactsh-client : An OOB interaction gathering server and client library 
       - name: Generate Meta (interactsh-client)
         run: |
@@ -1712,6 +1963,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="jaeles" REPO="jaeles-project/jaeles" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #jaq : A jq clone focussed on correctness, speed, and simplicity
+      - name: Generate Meta (jaq)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="jaq" REPO="01mf02/jaq" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #jc : converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries
@@ -1759,6 +2019,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="jq" REPO="jqlang/jq" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #jql : A JSON Query Language CLI tool 
+      - name: Generate Meta (jql)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="jql" REPO="yamafaktory/jql" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #jqp : TUI for jq
@@ -1898,6 +2167,15 @@ jobs:
           BIN="lazygit" REPO="jesseduffield/lazygit" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #legba: A multiprotocol credentials bruteforcer / password sprayer and enumerator. 🥷
+      - name: Generate Meta (legba)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="legba" REPO="evilsocket/legba" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #lf : Terminal file manager
       - name: Generate Meta (lf)
         run: |
@@ -1914,6 +2192,15 @@ jobs:
           set -x ; set +e
           #--------------#
           BIN="linuxwave" REPO="orhun/linuxwave" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #listmonk : High performance, self-hosted, newsletter and mailing list manager with a modern dashboard
+      - name: Generate Meta (listmonk)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="listmonk" REPO="knadh/listmonk" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #lit-bb-hack-tools  : Little Bug Bounty & Hacking Tools⚔️ 
@@ -2014,6 +2301,27 @@ jobs:
           BIN="logtimer" REPO="Eun/logtimer" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #loki : Like Prometheus, but for logs 
+      - name: Generate Meta (loki)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="loki" REPO="grafana/loki" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="logcli" REPO="grafana/loki" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="loki-canary" REPO="grafana/loki" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="promtail" REPO="grafana/loki" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #lsd : The next gen ls command 
+      - name: Generate Meta (lsd)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="lsd" REPO="lsd-rs/lsd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #lux: 👾 Fast and simple video download library and CLI tool written in Go 
       - name: Generate Meta (lux)
         run: |
@@ -2033,12 +2341,12 @@ jobs:
         continue-on-error: true                
      #----------------------------#
      #macchinna : system-info-fetch
-      - name: Generate Meta (macchinna)
+      - name: Generate Meta (macchina)
         run: |
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
-          BIN="macchinna" REPO="Macchina-CLI/macchina" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="macchina" REPO="Macchina-CLI/macchina" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #maddy : ✉️ Composable all-in-one mail server.
@@ -2095,6 +2403,15 @@ jobs:
           BIN="massdns" REPO="blechschmidt/massdns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #mcfly : Fly through your shell history. Great Scott! 
+      - name: Generate Meta (mcfly)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="mcfly" REPO="cantino/mcfly" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #mdcat : cat for markdown 
       - name: Generate Meta (mdcat)
         run: |
@@ -2111,6 +2428,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="mdsh" REPO="zimbatm/mdsh" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #melange : build APKs from source code 
+      - name: Generate Meta (melange)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="melange" REPO="chainguard-dev/melange" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true                 
      #----------------------------#
      #mergerfs : A featureful union filesystem 
@@ -2211,7 +2537,16 @@ jobs:
           #--------------#
           BIN="naabu" REPO="projectdiscovery/naabu" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
           BIN="naabu_staticx" REPO="projectdiscovery/naabu" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-        continue-on-error: true        
+        continue-on-error: true 
+     #----------------------------#
+     #navi : An interactive cheatsheet tool for the command-line
+      - name: Generate Meta (navi)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="navi" REPO="denisidoro/navi" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true       
      #----------------------------#
     #  #ncdu
     #   - name: Generate Meta (ncdu)
@@ -2257,6 +2592,15 @@ jobs:
     #       #--------------#
     #       BIN="ngrok" REPO="ngrok/ngrok" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
     #     continue-on-error: true
+     #----------------------------#
+     #niltalk : Instant, disposable, single-binary web based live chat server
+      - name: Generate Meta (niltalk)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="niltalk" REPO="knadh/niltalk" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
      #----------------------------#
      #nmap : port scanner
       - name: Generate Meta (nmap)
@@ -2321,6 +2665,15 @@ jobs:
           BIN="nuclei" REPO="projectdiscovery/nuclei" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #nushell : A new type of shell
+      - name: Generate Meta (nu)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="nu" REPO="nushell/nushell" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #oha: HTTP load generator
       - name: Generate Meta (oha)
         run: |
@@ -2366,6 +2719,15 @@ jobs:
           BIN="osmedeus" REPO="j3ssie/osmedeus" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #overmind : Process manager for Procfile-based applications and tmux
+      - name: Generate Meta (overmind)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="overmind" REPO="DarthSim/overmind" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #ouch : Painless compression and decompression in the terminal
       - name: Generate Meta (ouch)
         run: |
@@ -2382,7 +2744,16 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="ov" REPO="noborus/ov" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-        continue-on-error: true                 
+        continue-on-error: true
+     #----------------------------#
+     #PassDetective : PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets
+      - name: Generate Meta (ov)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="passdetective" REPO="aydinnyunus/PassDetective" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true                
      #----------------------------#
      #pathbuster : A path-normalization pentesting tool
       - name: Generate Meta (pathbuster)
@@ -2409,6 +2780,16 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="pgweb" REPO="sosedoff/pgweb" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #phantun: Easy per application transparent proxy built on cgroup.
+      - name: Generate Meta (phantun)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="phantun-client" REPO="dndx/phantun" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="phantun-server" REPO="dndx/phantun" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true        
      #----------------------------#
      #pkgtop : Interactive package manager and resource monitor designed for the GNU/Linux
@@ -2418,6 +2799,15 @@ jobs:
           set -x ; set +e
           #--------------#
           BIN="pkgtop" REPO="orhun/pkgtop" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #planor : TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
+      - name: Generate Meta (planor)
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          BIN="planor" REPO="mrusme/planor" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #podman : A tool for managing OCI containers and pods.
@@ -2492,6 +2882,15 @@ jobs:
           BIN="proxify" REPO="projectdiscovery/proxify" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #pspy : Monitor linux processes without root permissions
+      - name: Generate Meta (pspy)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="pspy" REPO="DominicBreuker/pspy" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #pueue : task management tool for sequential and parallel execution of long-running tasks
       - name: Generate Meta (pueue)
         run: |
@@ -2509,6 +2908,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="puredns" REPO="d3mondev/puredns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #pwninit: automate starting binary exploit challenges
+      - name: Generate Meta (pwninit)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="pwninit" REPO="io12/pwninit" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #Qbittorent-nox : static Single binary for qbittorent
@@ -2536,6 +2944,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="qsv" REPO="jqnatividad/qsv" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #quickcert : Query crtsh via pgsl server --> postgres://guest@crt.sh:5432/certwatch?sslmode=disable&default_query_exec_mode=simple_protocol 
+      - name: Generate Meta (quickcert)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="quickcert" REPO="c3l3si4n/quickcert" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true        
      #----------------------------#
      #rate-limit-checker : Check whether the domain has a rate limit enabled
@@ -2547,6 +2964,15 @@ jobs:
           BIN="rate-limit-checker" REPO="Sh1Yo/rate-limit-checker" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #rathole : A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok
+      - name: Generate Meta (rathole)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="rathole" REPO="rapiz1/rathole" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #rclone : rsync for cloud storage
       - name: Generate Meta (rclone)
         run: |
@@ -2554,6 +2980,35 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="rclone" REPO="rclone/rclone" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #reader : A lightweight tool offering better readability of web pages on the CLI
+      - name: Generate Meta (reader)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="reader" REPO="mrusme/reader" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #realm : A network relay tool
+      - name: Generate Meta (realm)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="realm" REPO="zhboner/realm" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #rebuilderd: Independent verification of binary packages - reproducible builds
+      - name: Generate Meta (rebuilderd)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="rebuilderd" REPO="kpcyrd/rebuilderd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="rebuildctl" REPO="kpcyrd/rebuilderd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="rebuilderd-worker" REPO="kpcyrd/rebuilderd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #recollapse : Helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
@@ -2565,6 +3020,15 @@ jobs:
           BIN="recollapse_staticx" REPO="0xacb/recollapse" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #redguard : RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.
+      - name: Generate Meta (redguard)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="redguard" REPO="wikiZ/RedGuard" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #redive : Trace URL redirections in the terminal.
       - name: Generate Meta (redive)
         run: |
@@ -2572,6 +3036,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="redive" REPO="neelkarma/redive" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #relic : a tool for adding digital signatures to operating system packages for Linux and Windows
+      - name: Generate Meta (relic)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="relic" REPO="sassoftware/relic" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #reptyr : Reparent a running program to a new terminal 
@@ -2628,6 +3101,15 @@ jobs:
           BIN="ripgen" REPO="resyncgg/ripgen" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #rnr : A command-line tool to batch rename files and directories
+      - name: Generate Meta (rnr)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="rnr" REPO="ismaelgv/rnr" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #ripgrep : modern grep
       - name: Generate Meta (ripgrep)
         run: |
@@ -2635,6 +3117,7 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="rg" REPO="BurntSushi/ripgrep" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="ripgrep" REPO="BurntSushi/ripgrep" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #ripgrep-all : ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc
@@ -2671,6 +3154,33 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="rootlesskit" REPO="rootless-containers/rootlesskit" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ropr: A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
+      - name: Generate Meta (ropr)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ropr" REPO="Ben-Lichtman/ropr" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #rqbit : A bittorrent client in Rust 
+      - name: Generate Meta (rqbit)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="rqbit" REPO="ikatson/rqbit" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #rshijack: tcp connection hijacker, rust rewrite of shijack 
+      - name: Generate Meta (rshijack)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="rshijack" REPO="kpcyrd/rshijack" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #ruff : An extremely fast Python linter and code formatter, written in Rust. 
@@ -2715,7 +3225,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
-          BIN="rustscan" REPO="RustScan/RustScan" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="rustcan" REPO="RustScan/RustScan" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #rustypaste : A minimal file upload/pastebin service.
@@ -2736,15 +3246,6 @@ jobs:
           BIN="rpaste" REPO="orhun/rustypaste-cli" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
-     #sake : 🤖 Task runner for local and remote hosts via ssh & more
-      - name: Generate Meta (sake)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
-          #--------------#
-          BIN="sake" REPO="alajmo/sake" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-        continue-on-error: true
-     #----------------------------#
      #s3scanner : Scan for misconfigured S3 buckets across S3-compatible APIs
       - name: Generate Meta (s3scanner)
         run: |
@@ -2754,6 +3255,15 @@ jobs:
           BIN="s3scanner" REPO="sa7mon/S3Scanner" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #s3sync : Really fast sync tool for S3
+      - name: Generate Meta (s3sync)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="s3sync" REPO="larrabee/s3sync" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #s5cmd : Parallel S3 and local filesystem execution tool.
       - name: Generate Meta (s5cmd)
         run: |
@@ -2761,6 +3271,24 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="s5cmd" REPO="peak/s5cmd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #sake : 🤖 Task runner for local and remote hosts via ssh & more
+      - name: Generate Meta (sake)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sake" REPO="alajmo/sake" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #sbctl : 💻 🔒 🔑 Secure Boot key manager
+      - name: Generate Meta (sbctl)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sbctl" REPO="Foxboron/sbctl" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #scilla : Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
@@ -2834,6 +3362,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="shellharden" REPO="anordal/shellharden" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #shellz : a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place. 
+      - name: Generate Meta (shellz)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="shellz" REPO="evilsocket/shellz" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true        
      #----------------------------#
      #shfmt : A shell parser, formatter, and interpreter with bash support; includes shfmt 
@@ -2854,6 +3391,24 @@ jobs:
           BIN="shuffledns" REPO="projectdiscovery/shuffledns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #sish : HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
+      - name: Generate Meta (sish)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sish" REPO="antoniomika/sish" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #sj : A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.
+      - name: Generate Meta (sj)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sj" REPO="BishopFox/sj" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #skim : Fuzzy Finder in rust!
       - name: Generate Meta (skim)
         run: |
@@ -2861,6 +3416,16 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="sk" REPO="lotabout/skim" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #sliver : Adversary Emulation Framework
+      - name: Generate Meta (sliver)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sliver-client" REPO="BishopFox/sliver" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="sliver-server" REPO="BishopFox/sliver" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #shortscan : An IIS short filename enumeration tool 
@@ -2909,14 +3474,14 @@ jobs:
           BIN="sns" REPO="sw33tLie/sns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
-    #  #socat
-    #   - name: Generate Meta (socat)
-    #     run: |
-    #       #Presets
-    #       set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
-    #       #--------------#
-    #       BIN="socat" REPO="socat/socat" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-    #     continue-on-error: true
+     #socat
+      - name: Generate Meta (socat)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="socat" REPO="Azathothas/static-toolbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
      #----------------------------#
      #speedtest-go : CLI and Go API to Test Internet Speed using multiple-servers
       - name: Generate Meta (speedtest-go)
@@ -2954,6 +3519,78 @@ jobs:
           BIN="sq" REPO="neilotoole/sq" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #sqlc : Universal DBMS/SQL client with exfiltration features :)
+      - name: Generate Meta (sqlc)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sqlc" REPO="kost/sqlc" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ssh-add : adds RSA or DSA identities to the authentication agent ssh-agent
+      - name: Generate Meta (ssh-add)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ssh-add" REPO="Azathothas/static-toolbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ssh-agent : OpenSSH authentication agent
+      - name: Generate Meta (ssh-agent)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ssh-agent" REPO="Azathothas/static-toolbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ssh-keygen : OpenSSH authentication key utility
+      - name: Generate Meta (ssh-keygen)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ssh-keygen" REPO="Azathothas/static-toolbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ssh-keyscan : gather SSH public keys from servers
+      - name: Generate Meta (ssh-keyscan)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ssh-keyscan" REPO="Azathothas/static-toolbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ssh-keysign : OpenSSH helper for host-based authentication
+      - name: Generate Meta (ssh-keysign)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ssh-keysign" REPO="Azathothas/static-toolbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #sshd
+      - name: Generate Meta (sshd)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sshd" REPO="Azathothas/static-toolbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #sshd_config
+      - name: Generate Meta (sshd_config)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sshd_config" REPO="Azathothas/static-toolbox" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #sshesame : SSH honeypot, a fake SSH server that lets anyone in and logs their activity
       - name: Generate Meta (sshesame)
         run: |
@@ -2981,6 +3618,16 @@ jobs:
           BIN="sshportal" REPO="moul/sshportal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #sshx : Fast, collaborative live terminal sharing over the web
+      - name: Generate Meta (sshx)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="sshx" REPO="ekzhang/sshx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+          BIN="sshx-server" REPO="ekzhang/sshx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #starship : ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! 
       - name: Generate Meta (starship)
         run: |
@@ -3006,6 +3653,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="sttr" REPO="abhimanyu003/sttr" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #stuffbin : Compress and embed static files and assets into Go binaries and access them with a virtual file system in production
+      - name: Generate Meta (stuffbin)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="stuffbin" REPO="knadh/stuffbin" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #strace : diagnostic, debugging and instructional userspace utility for Linux 
@@ -3060,6 +3716,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="surf" REPO="assetnote/surf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #svg-hush: Make it safe to serve untrusted SVG files
+      - name: Generate Meta (svg-hush)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="svg-hush" REPO="cloudflare/svg-hush" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #Syncthing : Open Source Continuous File Synchronization
@@ -3152,6 +3817,15 @@ jobs:
           BIN="tere" REPO="mgunyho/tere" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #termshark : A terminal UI for tshark, inspired by Wireshark
+      - name: Generate Meta (termshark)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="termshark" REPO="gcla/termshark" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #tldr : Simplified and community-driven man pages
       - name: Generate Meta (tldr)
         run: |
@@ -3241,6 +3915,24 @@ jobs:
           #--------------#
           BIN="try" REPO="binpash/try" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
+     #----------------------------#
+     #tty2web : Share your terminal as a web application in bind/reverse mode 
+      - name: Generate Meta (tty2web)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="tty2web" REPO="kost/tty2web" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #ttyd : Share your terminal over the web 
+      - name: Generate Meta (ttyd)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="ttyd" REPO="tsl0922/ttyd" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
     #  #----------------------------#
     #  #tuiarchiver : terminal application to list / manage archives 
     #   - name: Generate Meta (tuiarchiver)
@@ -3288,6 +3980,15 @@ jobs:
           BIN="udpx" REPO="nullt3r/udpx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #uip : A tool to obtain your public IP address with the help of STUN servers
+      - name: Generate Meta (uip)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="uip" REPO="dndx/uip" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #uncover : Quickly discover exposed hosts on the internet using multiple search engines
       - name: Generate Meta (uncover)
         run: |
@@ -3295,6 +3996,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="uncover" REPO="projectdiscovery/uncover" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #unf: UNixize Filename -- replace annoying anti-unix characters in filenames
+      - name: Generate Meta (unf)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="unf" REPO="io12/unf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #unfurl : Pull out bits of URLs provided on stdin 
@@ -3333,6 +4043,15 @@ jobs:
           BIN="usql" REPO="xo/usql" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #v2raya : A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀 
+      - name: Generate Meta (v2raya)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="v2raya" REPO="v2rayA/v2rayA" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #validtoml : simple toml validitor
       - name: Generate Meta (validtoml)
         run: |
@@ -3369,6 +4088,24 @@ jobs:
           BIN="viewgen_staticx" REPO="0xacb/viewgen" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #viu : Terminal image viewer with native support for iTerm and Kitty
+      - name: Generate Meta (viu)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="viu" REPO="atanunq/viu" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #volta : JS Toolchains as Code. ⚡
+      - name: Generate Meta (volta)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="volta" REPO="volta-cli/volta" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #viddy : 👀 A modern watch command. Time machine and pager etc. 
       - name: Generate Meta (viddy)
         run: |
@@ -3396,6 +4133,15 @@ jobs:
           BIN="vtm" REPO="directvt/vtm" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #vultr-cli : Official command line tool for Vultr services
+      - name: Generate Meta (vultr-cli)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="vultr-cli" REPO="vultr/vultr-cli" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #wadl-dumper : Dump all available paths and/or endpoints on WADL file
       - name: Generate Meta (wadl-dumper)
         run: |
@@ -3412,7 +4158,16 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="walk" REPO="antonmedv/walk" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-        continue-on-error: true                         
+        continue-on-error: true
+     #----------------------------#
+     #wasminspect: An interactive debugger for WebAssembly
+      - name: Generate Meta (wasminspect)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="wasminspect" REPO="kateinoigakukun/wasminspect" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true                        
      #----------------------------#
      #watchexec : Executes commands in response to file modifications 
       - name: Generate Meta (watchexec)
@@ -3504,6 +4259,15 @@ jobs:
           BIN="wormhole-rs" REPO="magic-wormhole/magic-wormhole.rs" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #wstunnel : Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI
+      - name: Generate Meta (wstunnel)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="wstunnel" REPO="erebe/wstunnel" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #wtfutil : The personal information dashboard for your terminal
       - name: Generate Meta (wtf)
         run: |
@@ -3511,7 +4275,16 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="wtfutil" REPO="wtfutil/wtf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
-        continue-on-error: true        
+        continue-on-error: true 
+     #----------------------------#
+     #wth : What The Heck: The better personal information dashboard for your terminal
+      - name: Generate Meta (wth)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="wth" REPO="mrusme/wth" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true       
      #----------------------------#
      #x8 : Hidden parameters discovery suite 
       - name: Generate Meta (x8)
@@ -3567,6 +4340,15 @@ jobs:
           BIN="yataf" REPO="Damian89/yataf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
+     #yazi :💥 Blazing fast terminal file manager written in Rust, based on async I/O. 
+      - name: Generate Meta (yazi)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="yazi" REPO="sxyazi/yazi" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
      #yj: Convert between YAML, TOML, JSON, and HCL
       - name: Generate Meta (yj)
         run: |
@@ -3610,6 +4392,15 @@ jobs:
           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
           #--------------#
           BIN="zenith" REPO="bvaisvil/zenith" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
+        continue-on-error: true
+     #----------------------------#
+     #zfxtop : fetch top for gen Z with X written by bubbletea enjoyer
+      - name: Generate Meta (zfxtop)
+        run: |
+          #Presets
+          set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
+          #--------------#
+          BIN="zfxtop" REPO="ssleert/zfxtop" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64.sh")
         continue-on-error: true
      #----------------------------#
      #zgrab2 : Fast Go Application Scanner 
