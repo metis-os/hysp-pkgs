@@ -322,7 +322,7 @@
 - **Description:** Terminal bandwidth utilization tool
 - **Author:** imsnif
 - **Repository:** [https://github.com/imsnif/bandwhich](https://github.com/imsnif/bandwhich)
-- **Stars:** 8365
+- **Stars:** 8366
 - **Version:** v0.21.1
 - **Updated:** 2023-10-16T01:40:32Z
 - **Size:** 2.01 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44337
+- **Stars:** 44340
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -498,7 +498,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8128
+- **Stars:** 8127
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.68 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51193
+- **Stars:** 51196
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 37.67 MB
@@ -786,7 +786,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1952
+- **Stars:** 1951
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.29 MB
@@ -1266,7 +1266,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 11834
+- **Stars:** 11835
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.14 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 29936
+- **Stars:** 29937
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.47 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56291
+- **Stars:** 56296
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1842,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34104
+- **Stars:** 34105
 - **Version:** v2.40.1
 - **Updated:** 2023-12-13T14:59:38Z
 - **Size:** 41.22 MB
@@ -2610,7 +2610,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1952
+- **Stars:** 1951
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.66 MB
@@ -2642,7 +2642,7 @@
 - **Description:** iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 - **Author:** esnet
 - **Repository:** [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
-- **Stars:** 5949
+- **Stars:** 5951
 - **Version:** 3.16
 - **Updated:** 2023-12-01T19:15:52Z
 - **Size:** 2.76 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40985
+- **Stars:** 40988
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3570,7 +3570,7 @@
 - **Description:** A modern replacement for ps written in Rust
 - **Author:** dalance
 - **Repository:** [https://github.com/dalance/procs](https://github.com/dalance/procs)
-- **Stars:** 4436
+- **Stars:** 4437
 - **Version:** v0.14.4
 - **Updated:** 2023-11-24T00:58:03Z
 - **Size:** 3.47 MB
@@ -3682,7 +3682,7 @@
 - **Description:**  analyzed.
 - **Author:** jqnatividad
 - **Repository:** [https://github.com/jqnatividad/qsv](https://github.com/jqnatividad/qsv)
-- **Stars:** 1029
+- **Stars:** 1041
 - **Version:** 0.119.0
 - **Updated:** 2023-11-20T04:48:29Z
 - **Size:** 11.50 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41732
+- **Stars:** 41733
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -4562,7 +4562,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1952
+- **Stars:** 1951
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.29 MB
@@ -4578,7 +4578,7 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 9360
+- **Stars:** 9361
 - **Version:** v13.0.0-alpha.0
 - **Updated:** 2023-03-27T15:56:31Z
 - **Size:** 3.49 MB
@@ -4882,7 +4882,7 @@
 - **Description:** Executes commands in response to file modifications
 - **Author:** watchexec
 - **Repository:** [https://github.com/watchexec/watchexec](https://github.com/watchexec/watchexec)
-- **Stars:** 4473
+- **Stars:** 4474
 - **Version:** v1.24.2
 - **Updated:** 2023-12-20T00:56:51Z
 - **Size:** 6.74 MB
@@ -4914,7 +4914,7 @@
 - **Description:** Fetch all the URLs that the Wayback Machine knows about for a domain
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
-- **Stars:** 2948
+- **Stars:** 2947
 - **Version:** v0.1.0
 - **Updated:** 2022-04-05T10:19:55Z
 - **Size:** 4.44 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15027
+- **Stars:** 15028
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
@@ -5186,7 +5186,7 @@
 - **Description:** Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - **Author:** bvaisvil
 - **Repository:** [https://github.com/bvaisvil/zenith](https://github.com/bvaisvil/zenith)
-- **Stars:** 2026
+- **Stars:** 2027
 - **Version:** 0.14.0
 - **Updated:** 2023-02-24T22:01:18Z
 - **Size:** 1.26 MB
