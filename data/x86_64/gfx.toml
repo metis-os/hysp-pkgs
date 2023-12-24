@@ -1,0 +1,26 @@
+[bin]
+name = "gfx"
+
+[package]
+architecture = "x86_64"
+name = "gfx"
+description = "A wrapper around grep, to help you grep for things! - Improved version of gf by @tomnomnom."
+author = "dwisiswant0"
+repo = "https://github.com/dwisiswant0/gfx"
+stars = "54"
+version = "v1.0.2"
+updated = "2023-02-11T19:06:21Z"
+size = "5.74 MB"
+bsum = "f04682610a1b12f1a95148bfa12dd2c31669bbcd57c36fb77609eda634b333eb"
+sha = "b3f5ac7c08a2319dd29d3301bcabb065d1b2133173445d1bd790a145d21b5d2c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gfx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gfx"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

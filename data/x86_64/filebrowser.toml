@@ -1,0 +1,26 @@
+[bin]
+name = "filebrowser"
+
+[package]
+architecture = "x86_64"
+name = "filebrowser"
+description = "📂 Web File Browser"
+author = "filebrowser"
+repo = "https://github.com/filebrowser/filebrowser"
+stars = "21874"
+version = "v2.26.0"
+updated = "2023-11-02T21:58:20Z"
+size = "14.45 MB"
+bsum = "2f9ed5cf9ef7e84ef6d0074e56d482aff0623af1d0efc01574bfdd5c24ab9a11"
+sha = "308238fc254cfced35a630d77dda0d411a415b30a39dee672d051c632750bb3b"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/filebrowser"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["filebrowser"]
+requires = []
+
+[package.metadata]
+keywords = ["administrator","extension","filemanager","gui","interface","plugin","vuejs","web"]
+categories = ["Utilities"]

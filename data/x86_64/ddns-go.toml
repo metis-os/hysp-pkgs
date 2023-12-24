@@ -1,0 +1,26 @@
+[bin]
+name = "ddns-go"
+
+[package]
+architecture = "x86_64"
+name = "ddns-go"
+description = "简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)"
+author = "jeessy2"
+repo = "https://github.com/jeessy2/ddns-go"
+stars = "7672"
+version = "v5.7.0"
+updated = "2023-12-23T13:01:48Z"
+size = "8.16 MB"
+bsum = "172e1e195aa3549e58d1be32fae243db87e35e3cf43445dda7f948e62ddf04ab"
+sha = "e2d8931a168c167ac1500f1e744e7415087bca4b3853e7ef886a95db84796a8e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ddns-go"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ddns-go"]
+requires = []
+
+[package.metadata]
+keywords = ["alidns","baiduyun","cloudflare","ddns","ddns-go","dnspod","godaddy-ddns","google-domains","porkbun"]
+categories = ["Utilities"]
