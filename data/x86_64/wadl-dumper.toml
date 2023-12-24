@@ -1,0 +1,26 @@
+[bin]
+name = "wadl-dumper"
+
+[package]
+architecture = "x86_64"
+name = "wadl-dumper"
+description = "Dump all available paths and/or endpoints on WADL file."
+author = "dwisiswant0"
+repo = "https://github.com/dwisiswant0/wadl-dumper"
+stars = "78"
+version = "v0.1.1"
+updated = "2021-03-04T12:18:18Z"
+size = "5.71 MB"
+bsum = "de88853d8eca7413246f1d7e465e20c9a40adc38f933faa334c557ee7b137601"
+sha = "48cb210ae24b1ed659d71dbb8f29d49a0ba706c02a5357b5d2f0fb7af7343aad"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/wadl-dumper"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["wadl-dumper"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","bugbounty-tool","bugbountytips","go","golang","wadl","xml","xml-parser"]
+categories = ["Utilities"]
