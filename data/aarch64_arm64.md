@@ -546,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14378
+- **Stars:** 14379
 - **Version:** v1.2.13
 - **Updated:** 2022-11-06T21:36:41Z
 - **Size:** 2.24 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51210
+- **Stars:** 51211
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 37.67 MB
@@ -882,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25298
+- **Stars:** 25299
 - **Version:** v9.6.6
 - **Updated:** 2023-11-09T14:56:49Z
 - **Size:** 7.08 MB
@@ -946,7 +946,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 32718
+- **Stars:** 32719
 - **Version:** curl-8_5_0
 - **Updated:** 2023-12-06T07:24:06Z
 - **Size:** 6.22 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 4310
+- **Stars:** 4311
 - **Version:** v0.17.0
 - **Updated:** 2023-12-13T16:57:33Z
 - **Size:** 1.53 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56313
+- **Stars:** 56314
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -2466,7 +2466,7 @@
 - **Description:** Horust is a supervisor / init system written in rust and designed to run inside containers.
 - **Author:** FedericoPonzi
 - **Repository:** [https://github.com/FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust)
-- **Stars:** 155
+- **Stars:** 156
 - **Version:** v0.1.7
 - **Updated:** 2023-04-12T15:23:56Z
 - **Size:** 4.72 MB
@@ -2658,7 +2658,7 @@
 - **Description:** The Swiss Army knife for automated Web Application Testing
 - **Author:** jaeles-project
 - **Repository:** [https://github.com/jaeles-project/jaeles](https://github.com/jaeles-project/jaeles)
-- **Stars:** 1997
+- **Stars:** 1998
 - **Version:** beta-v0.17.1
 - **Updated:** 2023-07-08T08:31:33Z
 - **Size:** 22.29 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15054
+- **Stars:** 15055
 - **Version:** 1.18.1
 - **Updated:** 2023-12-24T17:20:43Z
 - **Size:** 2.70 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 40997
+- **Stars:** 40996
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3314,7 +3314,7 @@
 - **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- **Stars:** 15808
+- **Stars:** 15809
 - **Version:** v3.1.3
 - **Updated:** 2023-12-21T12:45:22Z
 - **Size:** 65.59 MB
@@ -3554,7 +3554,7 @@
 - **Description:** prettyping is a wrapper around the standard ping tool, making the output prettier, more colorful, more compact, and easier to read.
 - **Author:** denilsonsa
 - **Repository:** [https://github.com/denilsonsa/prettyping](https://github.com/denilsonsa/prettyping)
-- **Stars:** 1160
+- **Stars:** 1161
 - **Version:** v1.0.1
 - **Updated:** 2017-04-04T07:30:04Z
 - **Size:** 0.02 MB
@@ -3682,7 +3682,7 @@
 - **Description:**  analyzed.
 - **Author:** jqnatividad
 - **Repository:** [https://github.com/jqnatividad/qsv](https://github.com/jqnatividad/qsv)
-- **Stars:** 1142
+- **Stars:** 1147
 - **Version:** 0.119.0
 - **Updated:** 2023-11-20T04:48:29Z
 - **Size:** 11.50 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 42139
+- **Stars:** 42140
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -3954,7 +3954,7 @@
 - **Description:** A cross-platform command-line tool for executing jobs in parallel
 - **Author:** shenwei356
 - **Repository:** [https://github.com/shenwei356/rush](https://github.com/shenwei356/rush)
-- **Stars:** 799
+- **Stars:** 800
 - **Version:** v0.5.4
 - **Updated:** 2023-11-13T17:53:58Z
 - **Size:** 6.67 MB
@@ -4866,7 +4866,7 @@
 - **Description:** Terminal file manager
 - **Author:** antonmedv
 - **Repository:** [https://github.com/antonmedv/walk](https://github.com/antonmedv/walk)
-- **Stars:** 2844
+- **Stars:** 2845
 - **Version:** v1.7.0
 - **Updated:** 2023-10-29T11:07:58Z
 - **Size:** 2.56 MB
@@ -4978,7 +4978,7 @@
 - **Description:** Wireguard client that exposes itself as a socks5 proxy
 - **Author:** pufferffish
 - **Repository:** [https://github.com/pufferffish/wireproxy](https://github.com/pufferffish/wireproxy)
-- **Stars:** 2720
+- **Stars:** 2721
 - **Version:** v1.0.6
 - **Updated:** 2023-05-22T17:11:23Z
 - **Size:** 5.79 MB
