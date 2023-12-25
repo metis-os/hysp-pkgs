@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 46234
+- **Stars:** 46236
 - **Version:** v0.2.56
 - **Updated:** 2023-12-17T22:14:06Z
 - **Size:** 14.52 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 33579
+- **Stars:** 33580
 - **Version:** v3.29.1
 - **Updated:** 2023-11-25T08:10:18Z
 - **Size:** 61.29 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32326
+- **Stars:** 32327
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
@@ -610,63 +610,15 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51226
-- **Version:** v2.7.6
-- **Updated:** 2023-12-08T01:03:36Z
+- **Stars:** 51229
+- **Version:** 
+- **Updated:** 
 - **Size:** 37.67 MB
 - **SHA256SUM:** 0fa04df20c77791f1857df89ef86001cb981e52c7fe44682fd66e0e8093ece5b
 - **B3SUM:** d2e28493b2faf2117409e09a9a8a9e381999639c59e6268ddc8f20f68741160f
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/caddy
 - **Language:** Go
 - **License:** Apache License 2.0
-
----
-
-### cdncheck
-- **Description:** A utility to detect various technology for a given IP address.
-- **Author:** projectdiscovery
-- **Repository:** [https://github.com/projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck)
-- **Stars:** 578
-- **Version:** v1.0.9
-- **Updated:** 2023-06-09T11:21:20Z
-- **Size:** 18.96 MB
-- **SHA256SUM:** 84528b5dbc295f6961799948a6230d18c2cfdaad3514416f09e5885ec365ee42
-- **B3SUM:** 287bea9794f30b004c42b4e9cc2b1fef1ef57a6073c9c9947060ad6cb5f7fbbf
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cdncheck
-- **Language:** Go
-- **License:** MIT License
-
----
-
-### cent
-- **Description:** Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
-- **Author:** xm1k3
-- **Repository:** [https://github.com/xm1k3/cent](https://github.com/xm1k3/cent)
-- **Stars:** 724
-- **Version:** v1.3.3
-- **Updated:** 2023-12-13T15:28:03Z
-- **Size:** 11.84 MB
-- **SHA256SUM:** 92e60b6b4c8fc6167f8af2e97b53c493559bcf83a2bbdbc45b236d1c6a32a3e7
-- **B3SUM:** 60abdbf3b660211f6a3ef909b540291e29683cf99f9335e59c199508a83aace5
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cent
-- **Language:** Go
-- **License:** Apache License 2.0
-
----
-
-### certstream
-- **Description:**  Bug Bounties
-- **Author:** Azathothas
-- **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 10
-- **Version:** null
-- **Updated:** 
-- **Size:** 4.19 MB
-- **SHA256SUM:** f59abfacece4f8cd10abfa8175f2266721c6e877e0a2665a2f22986a31a8af30
-- **B3SUM:** bb5b144e46b860ed8f1d3d93739d98bc585240c1620c16fa0b5f8d96e3bfb758
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/certstream
-- **Language:** Shell
-- **License:** null
 
 ---
 
@@ -686,22 +638,6 @@
 
 ---
 
-### chaos-client
-- **Description:** Go client to communicate with Chaos DB API.
-- **Author:** projectdiscovery
-- **Repository:** [https://github.com/projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client)
-- **Stars:** 558
-- **Version:** v0.5.1
-- **Updated:** 2023-03-20T07:15:52Z
-- **Size:** 17.09 MB
-- **SHA256SUM:** 74928c42dfb6ba10db05dc42be5059feacb52565b84879ab6c98a86530a61a55
-- **B3SUM:** e094b53287936f82633a32677e0c096ab285d5faeb4df2ffdfe9f4e3d72e5482
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/chaos-client
-- **Language:** Go
-- **License:** MIT License
-
----
-
 ### checkbypass
 - **Description:**  Hacking Tools⚔️
 - **Author:** edoardottt
@@ -718,22 +654,6 @@
 
 ---
 
-### cherrybomb
-- **Description:** Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
-- **Author:** blst-security
-- **Repository:** [https://github.com/blst-security/cherrybomb](https://github.com/blst-security/cherrybomb)
-- **Stars:** 1001
-- **Version:** v1.0.1
-- **Updated:** 2023-11-19T15:05:29Z
-- **Size:** 3.63 MB
-- **SHA256SUM:** 0fa4725f7cdb36c74177f59bf620891cdbb36cd7d46ba71ee3e6c28413b2b89b
-- **B3SUM:** 875e4fe055aec3ce911bf33fc9419d0d544ce1fccd56a710b6f4b7fbf0941b92
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cherrybomb
-- **Language:** Rust
-- **License:** Apache License 2.0
-
----
-
 ### cleanpath
 - **Description:**  Hacking Tools⚔️
 - **Author:** edoardottt
@@ -747,118 +667,6 @@
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cleanpath
 - **Language:** Go
 - **License:** GNU General Public License v3.0
-
----
-
-### cloudlist
-- **Description:** Cloudlist is a tool for listing Assets from multiple Cloud Providers.
-- **Author:** projectdiscovery
-- **Repository:** [https://github.com/projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist)
-- **Stars:** 731
-- **Version:** v1.0.4
-- **Updated:** 2023-10-02T09:26:24Z
-- **Size:** 89.68 MB
-- **SHA256SUM:** 325748528dcdef9a7ad1c64f9e6fc0fdd589ca4f9fd1f5ebf7cac9efbeafffac
-- **B3SUM:** bbd7ed19d69ba5915300c034479029e93880f436f47bedad5220b11cb9ff21b6
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cloudlist
-- **Language:** Go
-- **License:** MIT License
-
----
-
-### cloudreve
-- **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-- **Author:** cloudreve
-- **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Stars:** 19726
-- **Version:** 3.8.3
-- **Updated:** 2023-10-07T12:30:31Z
-- **Size:** 32.32 MB
-- **SHA256SUM:** 4488e044f212c84ab934a95110f8d0d809a9293fcaae2a71279928e155989d4e
-- **B3SUM:** 64d7785086f4118c5f7fbae3eb1b29e74d978e403cc793eb7bfe6270cab8ccb1
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cloudreve
-- **Language:** Go
-- **License:** GNU General Public License v3.0
-
----
-
-### comb
-- **Description:** A collection of hacks and one-off scripts
-- **Author:** tomnomnom
-- **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1954
-- **Version:** null
-- **Updated:** 
-- **Size:** 1.29 MB
-- **SHA256SUM:** c3f74555ef8efbfd376f9cc6030e42dc149f818fc014d8e523bd3c49c57f739c
-- **B3SUM:** f4077104904fb6d22edfe2a392c16cdb4ebfcdde94986d183be3723dd95cca62
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/comb
-- **Language:** Go
-- **License:** null
-
----
-
-### containerd
-- **Description:** An open and reliable container runtime
-- **Author:** containerd
-- **Repository:** [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
-- **Stars:** 15342
-- **Version:** v1.7.11
-- **Updated:** 2023-12-08T23:48:02Z
-- **Size:** 35.38 MB
-- **SHA256SUM:** b2406986919dfc3e7551dc96136cae93f059d64534dca4afaeaeb9d7152ae5ae
-- **B3SUM:** a92b60753e794ebfd9456cafb75fd456d1f12301dc69db2a69f35ac410e02c2e
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/containerd
-- **Language:** Go
-- **License:** Apache License 2.0
-
----
-
-### cotp
-- **Description:** Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
-- **Author:** replydev
-- **Repository:** [https://github.com/replydev/cotp](https://github.com/replydev/cotp)
-- **Stars:** 135
-- **Version:** v1.3.0
-- **Updated:** 2023-10-10T20:22:49Z
-- **Size:** 1.90 MB
-- **SHA256SUM:** b8440dadc430050a5506f6dcf40e7617871e5c496546dce32a227377851d0608
-- **B3SUM:** f98f2e341ba2b4e93a8312a3546a883a8a99827ea60807c9fe06bdda8ff8bb04
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cotp
-- **Language:** Rust
-- **License:** GNU General Public License v3.0
-
----
-
-### cpufetch
-- **Description:** Simple yet fancy CPU architecture fetching tool
-- **Author:** Dr-Noob
-- **Repository:** [https://github.com/Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch)
-- **Stars:** 1715
-- **Version:** v1.04
-- **Updated:** 2023-05-06T10:09:18Z
-- **Size:** 0.62 MB
-- **SHA256SUM:** 04b26889554208dda0657549b815b1b520035282ad875500e7b016f61d488efe
-- **B3SUM:** 8cb69ff57b59dec7389179a795aad789d04b4661b56e274f2120424b76f95e98
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cpufetch
-- **Language:** C
-- **License:** GNU General Public License v2.0
-
----
-
-### crictl
-- **Description:** CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
-- **Author:** kubernetes-sigs
-- **Repository:** [https://github.com/kubernetes-sigs/cri-tools](https://github.com/kubernetes-sigs/cri-tools)
-- **Stars:** 1477
-- **Version:** v1.29.0
-- **Updated:** 2023-12-12T08:09:06Z
-- **Size:** 35.27 MB
-- **SHA256SUM:** e0eafc3dd2c80ff3a20fc6ca30fe52e9527e293dd92b4d14e4f6111284f59a46
-- **B3SUM:** cd166194771b1803a6c5f8be89f13dc9484f7252bf29051581d3dc14e4e987e6
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/crictl
-- **Language:** Go
-- **License:** Apache License 2.0
 
 ---
 
@@ -1522,7 +1330,7 @@
 - **Description:** A fast, simple, recursive content discovery tool written in Rust.
 - **Author:** epi052
 - **Repository:** [https://github.com/epi052/feroxbuster](https://github.com/epi052/feroxbuster)
-- **Stars:** 4869
+- **Stars:** 4870
 - **Version:** v2.10.1
 - **Updated:** 2023-11-09T02:37:19Z
 - **Size:** 7.69 MB
@@ -1570,7 +1378,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10680
+- **Stars:** 10682
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 7.46 MB
@@ -1618,7 +1426,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21889
+- **Stars:** 21890
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.90 MB
@@ -2082,7 +1890,7 @@
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
-- **Stars:** 13919
+- **Stars:** 13920
 - **Version:** v1.5.1
 - **Updated:** 2023-05-09T16:16:51Z
 - **Size:** 16.60 MB
@@ -2274,7 +2082,7 @@
 - **Description:** Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - **Author:** fullstorydev
 - **Repository:** [https://github.com/fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
-- **Stars:** 9529
+- **Stars:** 9530
 - **Version:** v1.8.9
 - **Updated:** 2023-10-24T17:17:39Z
 - **Size:** 22.18 MB
@@ -2642,7 +2450,7 @@
 - **Description:** iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 - **Author:** esnet
 - **Repository:** [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
-- **Stars:** 5953
+- **Stars:** 5954
 - **Version:** 3.16
 - **Updated:** 2023-12-01T19:15:52Z
 - **Size:** 2.76 MB
@@ -2706,7 +2514,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15066
+- **Stars:** 15068
 - **Version:** 1.18.1
 - **Updated:** 2023-12-24T17:20:43Z
 - **Size:** 2.70 MB
@@ -2850,7 +2658,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31410
+- **Stars:** 31411
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -2866,7 +2674,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 41014
+- **Stars:** 41015
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3682,7 +3490,7 @@
 - **Description:**  analyzed.
 - **Author:** jqnatividad
 - **Repository:** [https://github.com/jqnatividad/qsv](https://github.com/jqnatividad/qsv)
-- **Stars:** 1191
+- **Stars:** 1197
 - **Version:** 0.119.0
 - **Updated:** 2023-11-20T04:48:29Z
 - **Size:** 11.50 MB
@@ -3794,7 +3602,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 42164
+- **Stars:** 42165
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -4163,8 +3971,8 @@
 - **Author:** showwin
 - **Repository:** [https://github.com/showwin/speedtest-go](https://github.com/showwin/speedtest-go)
 - **Stars:** 414
-- **Version:** v1.6.9
-- **Updated:** 2023-11-17T09:31:12Z
+- **Version:** v1.6.10
+- **Updated:** 2023-12-25T21:01:47Z
 - **Size:** 6.25 MB
 - **SHA256SUM:** 40331ffbbf9acfc29e774fb92297e5d5806892d84f0024008864b8aab8da7adc
 - **B3SUM:** e44edd45d9f416035eb89fce4476700986ab336516ef2ed4dddbcf2f8f964c42
@@ -4434,7 +4242,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14710
+- **Stars:** 14711
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.42 MB
@@ -4450,7 +4258,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14710
+- **Stars:** 14711
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 28.10 MB
