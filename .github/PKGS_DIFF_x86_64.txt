@@ -26,5 +26,3 @@
 │ 506│-twingate-connectorctl            │    │
 │ 507│-twingate-notifier                │    │
 │ 517│-usql.tar.gz                      │    │
-│ 559│-zgrab2                           │    │
-│ 560│-zoxide                           │    │

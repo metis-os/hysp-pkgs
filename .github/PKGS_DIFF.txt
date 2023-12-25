@@ -592,9 +592,4 @@
 │ 518│ v2raya                           │ 487│ v2raya
 │ 519│ validtoml                        │ 488│ validtoml
 │ 520│ vegeta                           │ 489│ vegeta
-│ 556│ zellij                           │ 525│ zellij
-│ 557│ zenith                           │ 526│ zenith
-│ 558│ zfxtop                           │ 527│ zfxtop
 
-│ 559│-zgrab2                           │    │
-│ 560│-zoxide                           │    │
