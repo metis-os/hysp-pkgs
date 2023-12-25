@@ -1,0 +1,26 @@
+[bin]
+name = "cent"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cent"
+description = "Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place"
+author = "xm1k3"
+repo = "https://github.com/xm1k3/cent"
+stars = "724"
+version = "v1.3.3"
+updated = "2023-12-13T15:28:03Z"
+size = "11.84 MB"
+bsum = "60abdbf3b660211f6a3ef909b540291e29683cf99f9335e59c199508a83aace5"
+sha = "92e60b6b4c8fc6167f8af2e97b53c493559bcf83a2bbdbc45b236d1c6a32a3e7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cent"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["cent"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","golang","hacktoberfest","nuclei","nuclei-templates","penetration-testing","pentesting","templates"]
+categories = ["Utilities"]

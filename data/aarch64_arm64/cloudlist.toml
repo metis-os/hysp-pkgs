@@ -1,0 +1,26 @@
+[bin]
+name = "cloudlist"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cloudlist"
+description = "Cloudlist is a tool for listing Assets from multiple Cloud Providers."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/cloudlist"
+stars = "731"
+version = "v1.0.4"
+updated = "2023-10-02T09:26:24Z"
+size = "89.68 MB"
+bsum = "bbd7ed19d69ba5915300c034479029e93880f436f47bedad5220b11cb9ff21b6"
+sha = "325748528dcdef9a7ad1c64f9e6fc0fdd589ca4f9fd1f5ebf7cac9efbeafffac"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cloudlist"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cloudlist"]
+requires = []
+
+[package.metadata]
+keywords = ["asset-management","cli","cloudsecurity","devops","hacktoberfest","security"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "comb"
+
+[package]
+architecture = "aarch64_arm64"
+name = "comb"
+description = "A collection of hacks and one-off scripts"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/hacks"
+stars = "1954"
+version = "null"
+updated = ""
+size = "1.29 MB"
+bsum = "f4077104904fb6d22edfe2a392c16cdb4ebfcdde94986d183be3723dd95cca62"
+sha = "c3f74555ef8efbfd376f9cc6030e42dc149f818fc014d8e523bd3c49c57f739c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/comb"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["comb"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

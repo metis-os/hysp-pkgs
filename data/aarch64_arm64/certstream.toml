@@ -1,24 +1,24 @@
 [bin]
-name = "scopeview"
+name = "certstream"
 
 [package]
 architecture = "aarch64_arm64"
-name = "scopeview"
+name = "certstream"
 description = " Bug Bounties"
 author = "Azathothas"
 repo = "https://github.com/Azathothas/Arsenal"
 stars = "11"
 version = "null"
 updated = ""
-size = "0.00 MB"
-bsum = "8f6395301d795091528d401725333201fb13e970ea887a7726b9e485f6a59819"
-sha = "91edb3c8bfc420d6ce1c7a5c05fb2bec8f59457e15dada31cf970e372a8a104e"
-source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/scopeview"
+size = "4.19 MB"
+bsum = "bb5b144e46b860ed8f1d3d93739d98bc585240c1620c16fa0b5f8d96e3bfb758"
+sha = "f59abfacece4f8cd10abfa8175f2266721c6e877e0a2665a2f22986a31a8af30"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/certstream"
 language = "Shell"
 license = "null"
 
 [package.conditions]
-conflicts  = ["scopeview"]
+conflicts  = ["certstream"]
 requires = []
 
 [package.metadata]
