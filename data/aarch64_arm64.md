@@ -5,12 +5,60 @@
 - **Stars:** 
 - **Version:** 23.01
 - **Updated:** (2023-06-20)
-- **Size:** 
+- **Size:** 2.88 MB
 - **SHA256SUM:** 4dcf5ca455e02c7a0eb1c35af41b429d3413845039840fa8a1dfbb0994a5b529
 - **B3SUM:** 
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/7z
 - **Language:** C++
 - **License:** LGPL-2.1-or-later
+
+---
+
+### act
+- **Description:** Run your GitHub Actions locally 🚀
+- **Author:** nektos
+- **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
+- **Stars:** 46230
+- **Version:** v0.2.56
+- **Updated:** 2023-12-17T22:14:06Z
+- **Size:** 14.52 MB
+- **SHA256SUM:** a0614781509eb90fbce3bd5c99372db4f2e60951a69836adf0c2b25ed4f043a3
+- **B3SUM:** 8e9c5ab93533f6aa27a6fbbd2e8685728268cfc67fc668d64ed9801c8acbaccc
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/act
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### actionlint
+- **Description:** :octocat: Static checker for GitHub Actions workflow files
+- **Author:** rhysd
+- **Repository:** [https://github.com/rhysd/actionlint](https://github.com/rhysd/actionlint)
+- **Stars:** 2097
+- **Version:** v1.6.26
+- **Updated:** 2023-09-18T14:05:44Z
+- **Size:** 4.62 MB
+- **SHA256SUM:** 050f2f25e27e45d0899ba0531d698038c1c4e53f953c938c5357794d0ca24bd9
+- **B3SUM:** 7b2281b4fc3f3d9946e4b8e19075ecdafab7f416639c9a81790d742f9118b768
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/actionlint
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### agg
+- **Description:** asciinema gif generator
+- **Author:** asciinema
+- **Repository:** [https://github.com/asciinema/agg](https://github.com/asciinema/agg)
+- **Stars:** 917
+- **Version:** v1.4.3
+- **Updated:** 2023-10-02T14:05:41Z
+- **Size:** 4.62 MB
+- **SHA256SUM:** 902666a23efebf12c29d423bab62670d8458c0b046b1ea4ed13933d3960fc1f9
+- **B3SUM:** 640980bd163c263f3f9a18ce0c0e1936b2176c245506774b1c94b3318d8eeb6a
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/agg
+- **Language:** Rust
+- **License:** Apache License 2.0
 
 ---
 
@@ -26,6 +74,134 @@
 - **B3SUM:** 2b6e19aeaece87c3e2d1d447b95eeb89d032307404cf9c09deb2e3995fdae2d9
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/agrind
 - **Language:** Rust
+- **License:** MIT License
+
+---
+
+### airixss
+- **Description:** Finding XSS during recon
+- **Author:** ferreiraklet
+- **Repository:** [https://github.com/ferreiraklet/airixss](https://github.com/ferreiraklet/airixss)
+- **Stars:** 214
+- **Version:** att
+- **Updated:** 2022-09-13T20:15:47Z
+- **Size:** 4.55 MB
+- **SHA256SUM:** 1d4d96f02d254f101e07f1eb96225002742798f1eacfa195994d7e7889e4cf86
+- **B3SUM:** ee1dd9de6a1b772fee368336b38ff32246013b256547b12c3b5d2368378d5b43
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/airixss
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### aix
+- **Description:** AIx is a cli tool to interact with Large Language Models (LLM) APIs.
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/aix](https://github.com/projectdiscovery/aix)
+- **Stars:** 208
+- **Version:** v0.0.3
+- **Updated:** 2023-05-25T12:10:12Z
+- **Size:** 29.41 MB
+- **SHA256SUM:** 70e16bfdff065d64542904caad01e0be4766e36033d43429825857b6da38a289
+- **B3SUM:** d4906150334d20fc92fe477d506e4ddcd128805c8d6d6bd6ff959de201aa9813
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/aix
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### algernon
+- **Description:** Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- **Author:** xyproto
+- **Repository:** [https://github.com/xyproto/algernon](https://github.com/xyproto/algernon)
+- **Stars:** 2486
+- **Version:** v1.15.5
+- **Updated:** 2023-12-06T09:19:49Z
+- **Size:** 23.45 MB
+- **SHA256SUM:** 1f01230625c1a950a2f20f87036e5082dc11c92f71af0036054059e71e4693a2
+- **B3SUM:** 31b07280608b6caefdb77e9b1ab3e6bebfff4083f2d98d3c14ce8f880f257a42
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/algernon
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
+### alist
+- **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- **Author:** alist-org
+- **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
+- **Stars:** 33574
+- **Version:** v3.29.1
+- **Updated:** 2023-11-25T08:10:18Z
+- **Size:** 61.29 MB
+- **SHA256SUM:** cd8d152229c6cef96df01aedd7be50c4d84d89ea43b0f2238ae6ec0d0aadd321
+- **B3SUM:** c4e7bec428d7032c5b41e458dd6d28e743706379f9c7fa6750db163ce56825aa
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/alist
+- **Language:** Go
+- **License:** GNU Affero General Public License v3.0
+
+---
+
+### alterx
+- **Description:** Fast and customizable subdomain wordlist generator using DSL
+- **Author:** projectdiscovery
+- **Repository:** [https://github.com/projectdiscovery/alterx](https://github.com/projectdiscovery/alterx)
+- **Stars:** 545
+- **Version:** v0.0.3
+- **Updated:** 2023-10-11T10:15:11Z
+- **Size:** 18.42 MB
+- **SHA256SUM:** bd8cf7778fd970cb8a9e819d4d87fb4f54fb8009907f40cc1e8e8001d152f76c
+- **B3SUM:** 034b423acd6b6c63722ad2a61b65ff08913e91fd5483db1c1c7eb98b96141aa3
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/alterx
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### amass
+- **Description:** In-depth attack surface mapping and asset discovery
+- **Author:** owasp-amass
+- **Repository:** [https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)
+- **Stars:** 10557
+- **Version:** v4.2.0
+- **Updated:** 2023-09-10T20:52:27Z
+- **Size:** 33.64 MB
+- **SHA256SUM:** 7ac67b5a2bbc02389022bca2f35f8ed58beeb71574354a702a178aa2dac8dbb0
+- **B3SUM:** a5808bc3b36d7c4fce2c3615f1a765827e49c14cc086b245f3c69fb4603baf99
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/amass
+- **Language:** Go
+- **License:** Other
+
+---
+
+### analyticsrelationships
+- **Description:** Get related domains / subdomains by looking at Google Analytics IDs
+- **Author:** Josue87
+- **Repository:** [https://github.com/Josue87/AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships)
+- **Stars:** 209
+- **Version:** null
+- **Updated:** 
+- **Size:** 4.55 MB
+- **SHA256SUM:** f70db96bd30937412d66adb508f43c31f260b6c0f6cc0b0ee676d23745b4d5c7
+- **B3SUM:** 2887c2bc92ad48e9774426f5a19536cd8108ea2050f271b51581931aa3112479
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/analyticsrelationships
+- **Language:** Go
+- **License:** GNU General Public License v3.0
+
+---
+
+### anew
+- **Description:** A tool for adding new lines to files, skipping duplicates
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
+- **Stars:** 1103
+- **Version:** v0.1.1
+- **Updated:** 2022-03-15T22:35:31Z
+- **Size:** 1.29 MB
+- **SHA256SUM:** a20d06a2bdfe85d93f7f393d73d2f669369196e35c8c281089ccfa225b62d2ba
+- **B3SUM:** 21aed50aebd6f7947eea514bbd12e1f83052998a18a7dcfe2c43f0cc263d262f
+- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/anew
+- **Language:** Go
 - **License:** MIT License
 
 ---
@@ -98,7 +274,7 @@
 - **Description:** :computer: make your ssh client smarter
 - **Author:** moul
 - **Repository:** [https://github.com/moul/assh](https://github.com/moul/assh)
-- **Stars:** 2914
+- **Stars:** 2915
 - **Version:** v2.16.0
 - **Updated:** 2023-10-02T09:04:34Z
 - **Size:** 7.72 MB
@@ -162,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44352
+- **Stars:** 44353
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -322,7 +498,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8137
+- **Stars:** 8138
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.68 MB
@@ -370,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14387
+- **Stars:** 14390
 - **Version:** v1.2.13
 - **Updated:** 2022-11-06T21:36:41Z
 - **Size:** 2.24 MB
@@ -818,7 +994,7 @@
 - **Description:** 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - **Author:** hahwul
 - **Repository:** [https://github.com/hahwul/dalfox](https://github.com/hahwul/dalfox)
-- **Stars:** 3028
+- **Stars:** 3029
 - **Version:** v2.9.1
 - **Updated:** 2023-11-26T00:56:40Z
 - **Size:** 23.62 MB
@@ -1362,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40036
+- **Stars:** 40038
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -1378,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40036
+- **Stars:** 40038
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -1442,7 +1618,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 21885
+- **Stars:** 21886
 - **Version:** v2.26.0
 - **Updated:** 2023-11-02T21:58:20Z
 - **Size:** 13.90 MB
@@ -1506,7 +1682,7 @@
 - **Description:** jq for binary formats - tool, language and decoders for working with binary and text formats
 - **Author:** wader
 - **Repository:** [https://github.com/wader/fq](https://github.com/wader/fq)
-- **Stars:** 9090
+- **Stars:** 9091
 - **Version:** v0.9.0
 - **Updated:** 2023-11-25T17:53:02Z
 - **Size:** 10.48 MB
@@ -1554,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56321
+- **Stars:** 56323
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -2018,7 +2194,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14438
+- **Stars:** 14439
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.07 MB
@@ -2498,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27436
+- **Stars:** 27437
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.63 MB
@@ -2530,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15064
+- **Stars:** 15065
 - **Version:** 1.18.1
 - **Updated:** 2023-12-24T17:20:43Z
 - **Size:** 2.70 MB
@@ -2578,7 +2754,7 @@
 - **Description:** A next-generation crawling and spidering framework.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/katana](https://github.com/projectdiscovery/katana)
-- **Stars:** 7816
+- **Stars:** 7817
 - **Version:** v1.0.4
 - **Updated:** 2023-09-14T17:35:36Z
 - **Size:** 31.86 MB
@@ -2642,7 +2818,7 @@
 - **Description:**  Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - **Author:** kopia
 - **Repository:** [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
-- **Stars:** 5445
+- **Stars:** 5446
 - **Version:** v0.15.0
 - **Updated:** 2023-10-22T03:20:50Z
 - **Size:** 33.08 MB
@@ -2674,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31408
+- **Stars:** 31410
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -2690,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 41008
+- **Stars:** 41009
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -2930,7 +3106,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23218
+- **Stars:** 23219
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 10.83 MB
@@ -2946,7 +3122,7 @@
 - **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-- **Stars:** 5245
+- **Stars:** 5246
 - **Version:** v0.24.0
 - **Updated:** 2023-07-06T08:50:57Z
 - **Size:** 1.30 MB
@@ -3458,7 +3634,7 @@
 - **Description:** Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - **Author:** d3mondev
 - **Repository:** [https://github.com/d3mondev/puredns](https://github.com/d3mondev/puredns)
-- **Stars:** 1469
+- **Stars:** 1470
 - **Version:** v2.1.1
 - **Updated:** 2023-04-11T18:09:27Z
 - **Size:** 7.06 MB
@@ -3506,7 +3682,7 @@
 - **Description:**  analyzed.
 - **Author:** jqnatividad
 - **Repository:** [https://github.com/jqnatividad/qsv](https://github.com/jqnatividad/qsv)
-- **Stars:** 1174
+- **Stars:** 1178
 - **Version:** 0.119.0
 - **Updated:** 2023-11-20T04:48:29Z
 - **Size:** 11.50 MB
@@ -3730,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21636
+- **Stars:** 21637
 - **Version:** v0.1.9
 - **Updated:** 2023-12-21T18:46:59Z
 - **Size:** 16.12 MB
@@ -3890,7 +4066,7 @@
 - **Description:** Fetches system/theme information in terminal for Linux desktop screenshots.
 - **Author:** KittyKatt
 - **Repository:** [https://github.com/KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch)
-- **Stars:** 3689
+- **Stars:** 3690
 - **Version:** v3.9.1
 - **Updated:** 2019-11-12T22:02:38Z
 - **Size:** 0.25 MB
@@ -4082,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 38201
+- **Stars:** 38202
 - **Version:** v1.16.0
 - **Updated:** 2023-07-30T13:48:25Z
 - **Size:** 7.40 MB
@@ -4258,7 +4434,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14704
+- **Stars:** 14706
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.42 MB
@@ -4274,7 +4450,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14704
+- **Stars:** 14706
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 28.10 MB
@@ -4610,7 +4786,7 @@
 - **Description:** Your CLI home video recorder 📼
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- **Stars:** 12551
+- **Stars:** 12553
 - **Version:** v0.7.1
 - **Updated:** 2023-12-12T19:50:53Z
 - **Size:** 23.15 MB
@@ -4786,7 +4962,7 @@
 - **Description:** Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - **Author:** WireGuard
 - **Repository:** [https://github.com/WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go)
-- **Stars:** 2447
+- **Stars:** 2448
 - **Version:** v0.0.20201121
 - **Updated:** 2021-04-23T02:26:48Z
 - **Size:** 2.61 MB

@@ -1,0 +1,26 @@
+[bin]
+name = "act"
+
+[package]
+architecture = "aarch64_arm64"
+name = "act"
+description = "Run your GitHub Actions locally 🚀"
+author = "nektos"
+repo = "https://github.com/nektos/act"
+stars = "46230"
+version = "v0.2.56"
+updated = "2023-12-17T22:14:06Z"
+size = "14.52 MB"
+bsum = "8e9c5ab93533f6aa27a6fbbd2e8685728268cfc67fc668d64ed9801c8acbaccc"
+sha = "a0614781509eb90fbce3bd5c99372db4f2e60951a69836adf0c2b25ed4f043a3"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/act"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["act"]
+requires = []
+
+[package.metadata]
+keywords = ["ci","devops","github-actions","golang"]
+categories = ["Utilities"]

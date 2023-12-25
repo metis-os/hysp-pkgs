@@ -1,0 +1,26 @@
+[bin]
+name = "anew"
+
+[package]
+architecture = "aarch64_arm64"
+name = "anew"
+description = "A tool for adding new lines to files, skipping duplicates"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/anew"
+stars = "1103"
+version = "v0.1.1"
+updated = "2022-03-15T22:35:31Z"
+size = "1.29 MB"
+bsum = "21aed50aebd6f7947eea514bbd12e1f83052998a18a7dcfe2c43f0cc263d262f"
+sha = "a20d06a2bdfe85d93f7f393d73d2f669369196e35c8c281089ccfa225b62d2ba"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/anew"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["anew"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
