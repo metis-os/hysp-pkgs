@@ -1,0 +1,26 @@
+[bin]
+name = "upx"
+
+[package]
+architecture = "x86_64"
+name = "upx"
+description = "UPX - the Ultimate Packer for eXecutables"
+author = "upx"
+repo = "https://github.com/upx/upx"
+stars = "12679"
+version = "v4.2.1"
+updated = "2023-11-01T12:02:45Z"
+size = "0.54 MB"
+bsum = "e9fde1272c9555e2f16b86dde82c94a6ee04a561f3642bf5c21bd251b4ebf7e7"
+sha = "e6d61dbe267ca09a44d41a2a5b85ea673ffbff20b62c6cc6d61b37b6c7f84a2d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/upx"
+language = "C++"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["upx"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
