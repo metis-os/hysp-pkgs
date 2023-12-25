@@ -1,14 +1,3 @@
-│  5 │-act                              │    │
-│  6 │-actionlint                       │    │
-│  7 │-agg                              │    │
-│  9 │-airixss                          │    │
-│ 10 │-aix                              │    │
-│ 11 │-algernon                         │    │
-│ 12 │-alist                            │    │
-│ 13 │-alterx                           │    │
-│ 14 │-amass                            │    │
-│ 15 │-analyticsrelationships           │    │
-│ 16 │-anew                             │    │
 │ 17 │-anewer                           │    │
 │ 18 │-arduino-cli                      │    │
 │ 25 │-aws-nuke.tar.gz                  │    │
