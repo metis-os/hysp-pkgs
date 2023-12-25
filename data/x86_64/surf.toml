@@ -1,0 +1,26 @@
+[bin]
+name = "surf"
+
+[package]
+architecture = "x86_64"
+name = "surf"
+description = "Escalate your SSRF vulnerabilities on Modern Cloud Environments. surf allows you to filter a list of hosts, returning a list of viable SSRF candidates."
+author = "assetnote"
+repo = "https://github.com/assetnote/surf"
+stars = "461"
+version = "v0.0.5"
+updated = "2023-06-17T07:23:34Z"
+size = "32.70 MB"
+bsum = "e13abf332f3f828d4b4ea40ff890e608b49ba93a1c9335fe87dd68fbdefc3cf3"
+sha = "3b2631229c900c42b75f6ebe55c7ad734f795776a550c67858cf02401380ba0d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/surf"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["surf"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
