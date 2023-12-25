@@ -1,0 +1,26 @@
+[bin]
+name = "resto"
+
+[package]
+architecture = "x86_64"
+name = "resto"
+description = " API requests with TUI."
+author = "abdfnx"
+repo = "https://github.com/abdfnx/resto"
+stars = "190"
+version = "v0.1.6"
+updated = "2022-01-03T19:06:56Z"
+size = "9.57 MB"
+bsum = "e53963ebd20b9b5f3806618b5eac18ac08bcf2d426be59b67ce0916c7f27a704"
+sha = "f703724172c98bc1b28d6c6a19a353b684add37f7786d814295db91e1ac1f57c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/resto"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["resto"]
+requires = []
+
+[package.metadata]
+keywords = ["api","cli","golang","http","http-client","requests","rest","rest-api","resto","terminal-based","tui","user-interface"]
+categories = ["Utilities"]
