@@ -34,7 +34,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 11
+- **Stars:** 12
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.54 MB
@@ -306,7 +306,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 11
+- **Stars:** 12
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.54 MB
