@@ -1,0 +1,26 @@
+[bin]
+name = "lnav"
+
+[package]
+architecture = "x86_64"
+name = "lnav"
+description = "Log file navigator"
+author = "tstack"
+repo = "https://github.com/tstack/lnav"
+stars = "6170"
+version = "v0.11.2"
+updated = "2023-07-03T05:24:37Z"
+size = "14.31 MB"
+bsum = "37f269aba5521c47cd769eb471243dc712c39900535c77f522c46321efdc88ca"
+sha = "5be58ac485d5893623a0d5fb91a84657f5dd82b1e85231a67bda406303e5c16b"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/lnav"
+language = "C++"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["lnav"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line-tool","less","log-analysis","log-monitor","logging","more","pager","tail","terminal","terminal-pager","tui"]
+categories = ["Utilities"]

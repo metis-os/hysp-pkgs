@@ -1,0 +1,26 @@
+[bin]
+name = "gitleaks"
+
+[package]
+architecture = "x86_64"
+name = "gitleaks"
+description = "Protect and discover secrets using Gitleaks 🔑"
+author = "gitleaks"
+repo = "https://github.com/gitleaks/gitleaks"
+stars = "14387"
+version = "v8.18.1"
+updated = "2023-11-17T20:58:58Z"
+size = "6.58 MB"
+bsum = "7ac1b32ec2a0907aac282f6b64b28a6bcce7d992fb1623dbcc0685214402cacb"
+sha = "82aec6cfe72d1f0c5524a679f5b2c7f161cf36d758fb63f51a41559b580437e0"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitleaks"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gitleaks"]
+requires = []
+
+[package.metadata]
+keywords = ["devsecops","git","gitleaks","go","golang","hacktoberfest","secret","security","security-tools"]
+categories = ["Utilities"]
