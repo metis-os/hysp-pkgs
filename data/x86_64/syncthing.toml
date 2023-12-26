@@ -1,0 +1,26 @@
+[bin]
+name = "syncthing"
+
+[package]
+architecture = "x86_64"
+name = "syncthing"
+description = "Open Source Continuous File Synchronization"
+author = "syncthing"
+repo = "https://github.com/syncthing/syncthing"
+stars = "57024"
+version = "v1.27.1"
+updated = "2023-12-11T07:19:42Z"
+size = "22.18 MB"
+bsum = "87d7fce92268c96759a9da429f193e56825106207e4dbf5265135191ae2b2d50"
+sha = "5e879a4bcd37bbbddd1827a23daac68a50fb37f9c1d179c48ddc38b98157738e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/syncthing"
+language = "Go"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["syncthing"]
+requires = []
+
+[package.metadata]
+keywords = ["go","p2p","peer-to-peer","synchronization"]
+categories = ["Utilities"]

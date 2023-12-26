@@ -1,0 +1,26 @@
+[bin]
+name = "screenfetch"
+
+[package]
+architecture = "x86_64"
+name = "screenfetch"
+description = "Fetches system/theme information in terminal for Linux desktop screenshots."
+author = "KittyKatt"
+repo = "https://github.com/KittyKatt/screenFetch"
+stars = "3690"
+version = "v3.9.1"
+updated = "2019-11-12T22:02:38Z"
+size = "0.25 MB"
+bsum = "2b2f86690ae8bb5cb57f93adc349c044ee8b80bc61c80d9f8941f19c2746508a"
+sha = "522b73ff063cea5ccb751b2d65b53be3d85c2031c672049fef4acb88cd55e94f"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/screenfetch"
+language = "Shell"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["screenfetch"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","desktop","information-retrieval","shell"]
+categories = ["Utilities"]

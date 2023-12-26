@@ -1,0 +1,26 @@
+[bin]
+name = "runme"
+
+[package]
+architecture = "x86_64"
+name = "runme"
+description = "Execute your runbooks, docs, and READMEs."
+author = "stateful"
+repo = "https://github.com/stateful/runme"
+stars = "664"
+version = "v2.0.6"
+updated = "2023-12-13T14:35:46Z"
+size = "21.65 MB"
+bsum = "5915a639c2f178512a8d73da8555563d9ae5bab9c92b096217ff335bcbd6ed1d"
+sha = "8a19ec06d45fdc269c074ed4df20f45a984c4c944d260f96e414920249ac9350"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/runme"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["runme"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
