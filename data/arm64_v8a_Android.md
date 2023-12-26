@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8142
+- **Stars:** 8141
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.08 MB
@@ -66,7 +66,7 @@
 - **Description:** dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx)
-- **Stars:** 1811
+- **Stars:** 1812
 - **Version:** v1.1.6
 - **Updated:** 2023-11-11T19:20:44Z
 - **Size:** 25.01 MB
