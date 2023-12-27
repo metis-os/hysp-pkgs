@@ -4,7 +4,7 @@ name = "vtm"
 [package]
 architecture = "aarch64_arm64"
 name = "vtm"
-description = "Text-based desktop"
+description = "Text mode desktop"
 author = "directvt"
 repo = "https://github.com/directvt/vtm"
 stars = "1460"
@@ -22,5 +22,5 @@ conflicts  = ["vtm"]
 requires = []
 
 [package.metadata]
-keywords = ["console","multiplexer","terminal"]
+keywords = ["multiplexer","terminal","tui"]
 categories = ["Utilities"]
