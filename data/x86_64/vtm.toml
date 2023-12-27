@@ -4,7 +4,7 @@ name = "vtm"
 [package]
 architecture = "x86_64"
 name = "vtm"
-description = "virtual terminal multiplexer"
+description = "Text-based desktop"
 author = "directvt"
 repo = "https://github.com/directvt/vtm"
 stars = "1460"
