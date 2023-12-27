@@ -4,6 +4,24 @@
 │ 79 │-cloudfox.tar.gz                  │    │
 │ 87 │-cowitness                        │    │
 │ 217│-gotld                            │    │
+│ 298│-mantra                           │    │
+│ 299│-mapcidr                          │    │
+│ 300│-massdns                          │    │
+│ 301│-mcfly                            │    │
+│ 302│-mdcat                            │    │
+│ 303│-mdsh                             │    │
+│ 304│-melange                          │    │
+│ 305│-mergerfs                         │    │
+│ 306│-mgwls                            │    │
+│ 307│-micro                            │    │
+│ 308│-miniserve                        │    │
+│ 309│-minisign                         │    │
+│ 311│-mksub                            │    │
+│ 312│-mlr                              │    │
+│ 313│-mmv                              │    │
+│ 314│-mqttui                           │    │
+│ 315│-mubeng                           │    │
+│ 317│-naabu                            │    │
 │ 320│-ncat                             │    │
 │ 321│-ncdu                             │    │
 │ 326│-nginx                            │    │
