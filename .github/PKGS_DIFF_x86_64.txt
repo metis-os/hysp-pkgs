@@ -4,15 +4,6 @@
 │ 79 │-cloudfox.tar.gz                  │    │
 │ 87 │-cowitness                        │    │
 │ 217│-gotld                            │    │
-│ 295│-maddy                            │    │
-│ 296│-mailpit                          │    │
-│ 297│-mani                             │    │
-│ 298│-mantra                           │    │
-│ 299│-mapcidr                          │    │
-│ 300│-massdns                          │    │
-│ 301│-mcfly                            │    │
-│ 302│-mdcat                            │    │
-│ 303│-mdsh                             │    │
 │ 320│-ncat                             │    │
 │ 321│-ncdu                             │    │
 │ 326│-nginx                            │    │
