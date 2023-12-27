@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 33654
+- **Stars:** 33655
 - **Version:** v3.29.1
 - **Updated:** 2023-11-25T08:10:18Z
 - **Size:** 61.29 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32347
+- **Stars:** 32348
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
@@ -226,7 +226,7 @@
 - **Description:** ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - **Author:** nitefood
 - **Repository:** [https://github.com/nitefood/asn](https://github.com/nitefood/asn)
-- **Stars:** 1093
+- **Stars:** 1094
 - **Version:** v0.75.2
 - **Updated:** 2023-12-03T01:56:52Z
 - **Size:** 0.18 MB
@@ -1490,7 +1490,7 @@
 - **Description:** Efficient Duplicate File Finder
 - **Author:** pkolaczk
 - **Repository:** [https://github.com/pkolaczk/fclones](https://github.com/pkolaczk/fclones)
-- **Stars:** 1519
+- **Stars:** 1521
 - **Version:** v0.34.0
 - **Updated:** 2023-10-29T16:56:06Z
 - **Size:** 3.10 MB
@@ -1522,7 +1522,7 @@
 - **Description:** A fast, simple, recursive content discovery tool written in Rust.
 - **Author:** epi052
 - **Repository:** [https://github.com/epi052/feroxbuster](https://github.com/epi052/feroxbuster)
-- **Stars:** 4871
+- **Stars:** 4872
 - **Version:** v2.10.1
 - **Updated:** 2023-11-09T02:37:19Z
 - **Size:** 7.69 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40087
+- **Stars:** 40088
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40087
+- **Stars:** 40088
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56361
+- **Stars:** 56362
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1858,7 +1858,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5214
+- **Stars:** 5215
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.52 MB
@@ -1890,7 +1890,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5214
+- **Stars:** 5215
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.52 MB
@@ -1922,7 +1922,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5214
+- **Stars:** 5215
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.64 MB
@@ -1938,7 +1938,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5214
+- **Stars:** 5215
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.52 MB
@@ -1954,7 +1954,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5214
+- **Stars:** 5215
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 4.69 MB
@@ -2050,7 +2050,7 @@
 - **Description:** Protect and discover secrets using Gitleaks 🔑
 - **Author:** gitleaks
 - **Repository:** [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-- **Stars:** 14391
+- **Stars:** 14392
 - **Version:** v8.18.1
 - **Updated:** 2023-11-17T20:58:58Z
 - **Size:** 6.27 MB
@@ -2258,7 +2258,7 @@
 - **Description:** Ping, but with a graph
 - **Author:** orf
 - **Repository:** [https://github.com/orf/gping](https://github.com/orf/gping)
-- **Stars:** 9773
+- **Stars:** 9774
 - **Version:** gping-v1.16.0
 - **Updated:** 2023-11-29T19:16:00Z
 - **Size:** 2.33 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27454
+- **Stars:** 27456
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.63 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15174
+- **Stars:** 15177
 - **Version:** 1.18.1
 - **Updated:** 2023-12-24T17:20:43Z
 - **Size:** 2.70 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 41056
+- **Stars:** 41057
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3074,7 +3074,7 @@
 - **Description:** a featureful union filesystem
 - **Author:** trapexit
 - **Repository:** [https://github.com/trapexit/mergerfs](https://github.com/trapexit/mergerfs)
-- **Stars:** 3593
+- **Stars:** 3594
 - **Version:** 2.38.0
 - **Updated:** 2023-10-29T23:23:29Z
 - **Size:** 1.75 MB
@@ -3474,7 +3474,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 20166
+- **Stars:** 20167
 - **Version:** v4.8.2
 - **Updated:** 2023-12-11T12:42:38Z
 - **Size:** 26.82 MB
@@ -3538,7 +3538,7 @@
 - **Description:** A terminal slideshow tool
 - **Author:** mfontanini
 - **Repository:** [https://github.com/mfontanini/presenterm](https://github.com/mfontanini/presenterm)
-- **Stars:** 520
+- **Stars:** 521
 - **Version:** v0.4.1
 - **Updated:** 2023-12-22T14:51:27Z
 - **Size:** 5.60 MB
@@ -3682,7 +3682,7 @@
 - **Description:**  analyzed.
 - **Author:** jqnatividad
 - **Repository:** [https://github.com/jqnatividad/qsv](https://github.com/jqnatividad/qsv)
-- **Stars:** 1614
+- **Stars:** 1618
 - **Version:** 0.119.0
 - **Updated:** 2023-11-20T04:48:29Z
 - **Size:** 11.50 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41795
+- **Stars:** 41796
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -3874,7 +3874,7 @@
 - **Description:** 🐸 Simple, reliable, persistent ssh tunnels with embedded ssh server
 - **Author:** ferama
 - **Repository:** [https://github.com/ferama/rospo](https://github.com/ferama/rospo)
-- **Stars:** 252
+- **Stars:** 253
 - **Version:** v0.11.6
 - **Updated:** 2023-11-26T11:17:40Z
 - **Size:** 8.21 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21675
+- **Stars:** 21676
 - **Version:** v0.1.9
 - **Updated:** 2023-12-21T18:46:59Z
 - **Size:** 16.12 MB
@@ -4258,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 38229
+- **Stars:** 38230
 - **Version:** v1.16.0
 - **Updated:** 2023-07-30T13:48:25Z
 - **Size:** 7.40 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15078
+- **Stars:** 15079
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
@@ -5202,7 +5202,7 @@
 - **Description:** Fast Go Application Scanner
 - **Author:** zmap
 - **Repository:** [https://github.com/zmap/zgrab2](https://github.com/zmap/zgrab2)
-- **Stars:** 1519
+- **Stars:** 1520
 - **Version:** v0.1.6
 - **Updated:** 2020-03-31T20:01:53Z
 - **Size:** 13.29 MB
