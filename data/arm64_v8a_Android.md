@@ -323,8 +323,8 @@
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
 - **Stars:** 951
-- **Version:** v2.24.1
-- **Updated:** 2023-11-14T23:15:43Z
+- **Version:** v2.24.2
+- **Updated:** 2023-12-28T17:38:30Z
 - **Size:** 6.40 MB
 - **SHASUM:** 0d8df2b3e8795bc8625cfd7ac342043a2898788b092029d1b7968dd4c09b9f91
 - **B3SUM:** 8c0071186430e9c7c829f6311e906ed50ac9e902b605f3d8b9177cde8f646043
