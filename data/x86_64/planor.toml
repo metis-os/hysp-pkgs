@@ -1,0 +1,26 @@
+[bin]
+name = "planor"
+
+[package]
+architecture = "x86_64"
+name = "planor"
+description = "The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)"
+author = "mrusme"
+repo = "https://github.com/mrusme/planor"
+stars = "60"
+version = "v0.5.1"
+updated = "2022-08-18T04:56:52Z"
+size = "8.01 MB"
+bsum = "16157007a42661ea93af06b6c1bad035c655650880eaae015f8024cd5296be34"
+sha = "b279990a2cf9633f0e508a0035204ccf91801aef3594ac7f649fa088d38d1e63"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/planor"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["planor"]
+requires = []
+
+[package.metadata]
+keywords = ["aws","aws-cloudwatch-logs","aws-codepipeline","charm","cloud","command-line","command-line-tool","fleek","fleek-hosting","heroku","render","render-com","text-user-interface","tui","vultr"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "grpcurl"
+
+[package]
+architecture = "x86_64"
+name = "grpcurl"
+description = "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers"
+author = "fullstorydev"
+repo = "https://github.com/fullstorydev/grpcurl"
+stars = "9549"
+version = "v1.8.9"
+updated = "2023-10-24T17:17:39Z"
+size = "22.92 MB"
+bsum = "3bd6d7a6c4b0add0e238b2635e77fedd6d937d1a09301e6e321846d577b0a415"
+sha = "29a92dc6c491b983f348e3a0e4103676be2418fe2e95e602dadd304a0381c2fa"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/grpcurl"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["grpcurl"]
+requires = []
+
+[package.metadata]
+keywords = ["golang","grpc","protobuf"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "devbox"
+
+[package]
+architecture = "x86_64"
+name = "devbox"
+description = "Instant, easy, and predictable development environments"
+author = "jetpack-io"
+repo = "https://github.com/jetpack-io/devbox"
+stars = "6744"
+version = "0.8.5"
+updated = "2023-12-22T17:05:59Z"
+size = "24.61 MB"
+bsum = "17f8b5443518dad80f59be12c61c2fb25f40a950858b649bc1ef2d71acc15163"
+sha = "fcd28613a9e59745f405190d938420cb86674ed992e8e0133fb51fffedec64b4"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/devbox"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["devbox"]
+requires = []
+
+[package.metadata]
+keywords = ["build-system","build-tool","buildpack","containers","dev-environment","devbox","development-environment","nix","venv","virtual-environment","virtualization"]
+categories = ["Utilities"]

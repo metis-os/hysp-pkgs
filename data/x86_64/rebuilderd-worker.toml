@@ -1,0 +1,26 @@
+[bin]
+name = "rebuilderd-worker"
+
+[package]
+architecture = "x86_64"
+name = "rebuilderd-worker"
+description = "Independent verification of binary packages - reproducible builds"
+author = "kpcyrd"
+repo = "https://github.com/kpcyrd/rebuilderd"
+stars = "331"
+version = "v0.20.0"
+updated = "2023-10-18T10:14:01Z"
+size = "10.25 MB"
+bsum = "1074bbb83eaf1eb9bfc9f2488ef85d9819ed99a52e51d098516ac724185b4714"
+sha = "ad30d2feafd65819839a1c9453fdbf0a6dc889741299ebd3d66229d523f4c2b0"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rebuilderd-worker"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["rebuilderd-worker"]
+requires = []
+
+[package.metadata]
+keywords = ["rebuilder","reproducible-builds","rust","security-tools","supply-chain","supply-chain-security"]
+categories = ["Utilities"]
