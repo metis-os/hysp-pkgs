@@ -22,5 +22,5 @@ conflicts  = ["gup"]
 requires = []
 
 [package.metadata]
-keywords = ["cli-app","command-line-tool","cross-platform","go","golang","golang-tools","update","updater"]
+keywords = ["cli-app","command-line-tool","cross-platform","go","golang","golang-tools","update","updater","user-friendly"]
 categories = ["Utilities"]
