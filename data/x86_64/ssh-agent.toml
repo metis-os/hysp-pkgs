@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-agent"
+
+[package]
+architecture = "x86_64"
+name = "ssh-agent"
+description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/static-toolbox"
+stars = "14"
+version = "misc_utils_2023_12_28_07_43_31_AM"
+updated = "2023-12-28T01:58:32Z"
+size = "3.92 MB"
+bsum = "8c70a4d8d8635a95e06d41ba2ec2965a3573c16dd2559c9e4b9d13776bbd8f71"
+sha = "280b34813a7e1e236e0d4ebe81e5c0aadea338861c71401378fcbf4f8762db67"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ssh-agent"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ssh-agent"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+categories = ["Utilities"]

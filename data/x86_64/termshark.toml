@@ -1,0 +1,26 @@
+[bin]
+name = "termshark"
+
+[package]
+architecture = "x86_64"
+name = "termshark"
+description = "A terminal UI for tshark, inspired by Wireshark"
+author = "gcla"
+repo = "https://github.com/gcla/termshark"
+stars = "8513"
+version = "v2.4.0"
+updated = "2022-07-11T22:25:27Z"
+size = "14.90 MB"
+bsum = "65f5bd39e79f80d39202a725c25a959301e4f8b17d2e296ffeee68830369c121"
+sha = "a0027d79d1e89defb54d58cf795cd88a20b8a93f4d0880d2627f80bfa6e2c627"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/termshark"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["termshark"]
+requires = []
+
+[package.metadata]
+keywords = ["go","golang","gowid","pcap","tcell","tshark","tui","wireshark"]
+categories = ["Utilities"]
