@@ -1,0 +1,26 @@
+[bin]
+name = "starship"
+
+[package]
+architecture = "aarch64_arm64"
+name = "starship"
+description = "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+author = "starship"
+repo = "https://github.com/starship/starship"
+stars = "38246"
+version = "v1.17.0"
+updated = "2023-12-28T18:30:26Z"
+size = "7.76 MB"
+bsum = "b29d36dbc66ab90dfa62f91279be83801f2c720672ce31ead3b82aa120e5bd6c"
+sha = "8cbcd1cc98a3d472f306773c8d57dd394ec69244f7be98c0e5d19e7bcc406e40"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/starship"
+language = "Rust"
+license = "ISC License"
+
+[package.conditions]
+conflicts  = ["starship"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","fish","fish-prompt","fish-theme","oh-my-zsh","powershell","rust","shell-prompt","starship","zsh","zsh-prompt","zsh-theme"]
+categories = ["Utilities"]

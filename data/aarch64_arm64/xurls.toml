@@ -1,0 +1,26 @@
+[bin]
+name = "xurls"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xurls"
+description = "Extract urls from text"
+author = "mvdan"
+repo = "https://github.com/mvdan/xurls"
+stars = "1100"
+version = "v2.5.0"
+updated = "2023-04-16T20:42:59Z"
+size = "4.45 MB"
+bsum = "717952048fa0c8b29884cf57f67d754b3d8784eaa5c19a61d81799cefa6ed610"
+sha = "986e07d36c6d67b186c3415d90e386d20c0990f2496149a70b15f5c6efb11b7c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/xurls"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["xurls"]
+requires = []
+
+[package.metadata]
+keywords = ["extract-urls","go","tld"]
+categories = ["Utilities"]

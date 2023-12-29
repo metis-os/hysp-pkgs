@@ -1,0 +1,26 @@
+[bin]
+name = "vegeta"
+
+[package]
+architecture = "aarch64_arm64"
+name = "vegeta"
+description = "HTTP load testing tool and library. It's over 9000!"
+author = "tsenart"
+repo = "https://github.com/tsenart/vegeta"
+stars = "22292"
+version = "v12.11.1"
+updated = "2023-10-02T09:08:28Z"
+size = "9.74 MB"
+bsum = "7d8c36e7c914dcdee0afe83dbb6fd1b5e88512209bb1e2db37c5a30995ba5975"
+sha = "a1c62b8d4bc2915280b7a7ccefd5853490e0d6037cb0fdc3e801b49a1738a9d6"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/vegeta"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["vegeta"]
+requires = []
+
+[package.metadata]
+keywords = ["benchmarking","go","http","load-testing"]
+categories = ["Utilities"]

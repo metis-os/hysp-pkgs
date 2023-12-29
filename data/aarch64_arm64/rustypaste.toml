@@ -1,0 +1,26 @@
+[bin]
+name = "rustypaste"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rustypaste"
+description = "A minimal file upload/pastebin service."
+author = "orhun"
+repo = "https://github.com/orhun/rustypaste"
+stars = "603"
+version = "v0.14.4"
+updated = "2023-12-20T19:53:54Z"
+size = "5.23 MB"
+bsum = "45f8b4d927e549a48114c955cc0ae4b620bcebb49e4ac75301e5c90832e1eed4"
+sha = "b95dff85a2b514db1413043a9cc04cc18d3444e048134ae14b1eaccf5afafbab"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rustypaste"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rustypaste"]
+requires = []
+
+[package.metadata]
+keywords = ["file-sharing","file-upload","file-upload-server","file-upload-service","file-uploading","hacktoberfest","multipart-uploads","paste-service","pastebin","pastebin-service","rust","upload","upload-file","upload-images"]
+categories = ["Utilities"]

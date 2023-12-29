@@ -1,0 +1,26 @@
+[bin]
+name = "ripgen"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ripgen"
+description = "Rust-based high performance domain permutation generator."
+author = "resyncgg"
+repo = "https://github.com/resyncgg/ripgen"
+stars = "246"
+version = "null"
+updated = ""
+size = "2.08 MB"
+bsum = "b4988fbaa6774d92fd67a937d0a5bf6fe69f59668789b919dd4d2b86278ad01d"
+sha = "c40fc73ebe708091889a27ea2f8744194bd7e3765df64ed9efb3b0ddc4b3c528"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ripgen"
+language = "Rust"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ripgen"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "qsv"
+
+[package]
+architecture = "aarch64_arm64"
+name = "qsv"
+description = " analyzed."
+author = "jqnatividad"
+repo = "https://github.com/jqnatividad/qsv"
+stars = "1817"
+version = "0.119.0"
+updated = "2023-11-20T04:48:29Z"
+size = "11.50 MB"
+bsum = "ab4f976aa59ad30aca5cc1309f811f7191b5bf04aa588e5bf5259fa4f52a8e36"
+sha = "e7ca1dfb2a5ca9202c5fa7a17ae676b5087dc66117d24f672fa7a6f5987cb4b4"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/qsv"
+language = "Rust"
+license = "The Unlicense"
+
+[package.conditions]
+conflicts  = ["qsv"]
+requires = []
+
+[package.metadata]
+keywords = ["ckan","cli","csv","data-engineering","data-wrangling","datapackage","excel","geocode","luau","opendata","parquet","polars","postgresql","rust","snappy","sql","sqlite","tsv"]
+categories = ["Utilities"]

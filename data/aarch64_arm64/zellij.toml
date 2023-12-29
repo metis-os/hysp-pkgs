@@ -1,0 +1,26 @@
+[bin]
+name = "zellij"
+
+[package]
+architecture = "aarch64_arm64"
+name = "zellij"
+description = "A terminal workspace with batteries included"
+author = "zellij-org"
+repo = "https://github.com/zellij-org/zellij"
+stars = "15102"
+version = "v0.39.2"
+updated = "2023-11-29T10:58:39Z"
+size = "24.09 MB"
+bsum = "4175f4cfe5bf521e5ea9f765e5bc8364640edfd2b74aad5175cf30a06948e5b4"
+sha = "a7f5bba8992b4235b9251e7a96868d3902127bdededd5bb061ffcdf9c2ef3b92"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zellij"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["zellij"]
+requires = []
+
+[package.metadata]
+keywords = ["multiplexer","terminal","workspace"]
+categories = ["Utilities"]

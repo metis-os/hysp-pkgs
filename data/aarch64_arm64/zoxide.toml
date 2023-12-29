@@ -1,0 +1,26 @@
+[bin]
+name = "zoxide"
+
+[package]
+architecture = "aarch64_arm64"
+name = "zoxide"
+description = "A smarter cd command. Supports all major shells."
+author = "ajeetdsouza"
+repo = "https://github.com/ajeetdsouza/zoxide"
+stars = "12875"
+version = "v0.9.2"
+updated = "2023-08-04T03:16:26Z"
+size = "0.93 MB"
+bsum = "e7e7e7a53015bf27ad3d866c87ec2f9c87c91ac4eea405b1d896a7319bd5fe00"
+sha = "fc8bde5cd4563d6bbfec2c838a9ed48aa644c0782435bb8f196d18f6f4f0e81a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zoxide"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["zoxide"]
+requires = []
+
+[package.metadata]
+keywords = ["autojump","bash","cli","command-line","command-line-tool","elvish","fasd","fish","fish-shell","fzf","hacktoberfest","jump","nushell","powershell","rust","shell","xonsh","xontrib","z","zsh"]
+categories = ["Utilities"]
