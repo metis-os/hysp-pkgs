@@ -54,8 +54,8 @@
 - **Version:** v1.4.3
 - **Updated:** 2023-10-02T14:05:41Z
 - **Size:** 4.62 MB
-- **SHA256SUM:** 902666a23efebf12c29d423bab62670d8458c0b046b1ea4ed13933d3960fc1f9
-- **B3SUM:** 640980bd163c263f3f9a18ce0c0e1936b2176c245506774b1c94b3318d8eeb6a
+- **SHA256SUM:** 7daa7c9069ec30350a290b8d47ea1163e957067bc35bfd39c2649d0ce75679d8
+- **B3SUM:** 78b4665b58fd086df43f043819cb9a4d66c95633e3b3a8eb84b590b722c08a36
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/agg
 - **Language:** Rust
 - **License:** Apache License 2.0
@@ -70,8 +70,8 @@
 - **Version:** v0.19.2
 - **Updated:** 2023-05-21T00:37:55Z
 - **Size:** 2.81 MB
-- **SHA256SUM:** cac3374157230fceb57f7aee4e794214a40f34f490d15706d3459eb68b496623
-- **B3SUM:** 2b6e19aeaece87c3e2d1d447b95eeb89d032307404cf9c09deb2e3995fdae2d9
+- **SHA256SUM:** 3dd1777f483026d999e868b585345bd7f4a217c99c62b7588e0309ccc2fc5c2b
+- **B3SUM:** 2fcd92d98eadd78f903bc0fb77aa926cd8cb96490f18290ae2c7241753f44111
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/agrind
 - **Language:** Rust
 - **License:** MIT License
@@ -86,8 +86,8 @@
 - **Version:** att
 - **Updated:** 2022-09-13T20:15:47Z
 - **Size:** 4.55 MB
-- **SHA256SUM:** 1d4d96f02d254f101e07f1eb96225002742798f1eacfa195994d7e7889e4cf86
-- **B3SUM:** ee1dd9de6a1b772fee368336b38ff32246013b256547b12c3b5d2368378d5b43
+- **SHA256SUM:** 617381ad758a1d87063bee7a9ba3854303ebb4afc51ccc9babfe0d845894a023
+- **B3SUM:** 08a6ecc32a52a6ff6dc4e7dd85e775683243c5899f5316e5e1883c4206190cb8
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/airixss
 - **Language:** Go
 - **License:** MIT License
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 33676
+- **Stars:** 33675
 - **Version:** v3.29.1
 - **Updated:** 2023-11-25T08:10:18Z
 - **Size:** 61.29 MB
@@ -166,8 +166,8 @@
 - **Version:** v4.2.0
 - **Updated:** 2023-09-10T20:52:27Z
 - **Size:** 33.64 MB
-- **SHA256SUM:** 7ac67b5a2bbc02389022bca2f35f8ed58beeb71574354a702a178aa2dac8dbb0
-- **B3SUM:** a5808bc3b36d7c4fce2c3615f1a765827e49c14cc086b245f3c69fb4603baf99
+- **SHA256SUM:** e69e28dec1d421c1b9437d13d96c5a8a5ba53c36e60a5548b70fe3df82c52310
+- **B3SUM:** ce0a351ddc349ecb50b46cb951e65515cff24b00f12b9e35316b2055b6499948
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/amass
 - **Language:** Go
 - **License:** Other
@@ -182,8 +182,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.55 MB
-- **SHA256SUM:** f70db96bd30937412d66adb508f43c31f260b6c0f6cc0b0ee676d23745b4d5c7
-- **B3SUM:** 2887c2bc92ad48e9774426f5a19536cd8108ea2050f271b51581931aa3112479
+- **SHA256SUM:** 26d193ef9bb5eaf2549c2a89c3a5b86e43267c685115925e27e8b44dc46e05b5
+- **B3SUM:** 5f81f4e3e290ab1d4f3626b8e428b4be518dade9b473c1ff613de0485343aaef
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/analyticsrelationships
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -198,8 +198,8 @@
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.29 MB
-- **SHA256SUM:** a20d06a2bdfe85d93f7f393d73d2f669369196e35c8c281089ccfa225b62d2ba
-- **B3SUM:** 21aed50aebd6f7947eea514bbd12e1f83052998a18a7dcfe2c43f0cc263d262f
+- **SHA256SUM:** 6f3becfc138561679f1a9c69744920c8c64dd21d35a0ec732f2fb6efc9dadca2
+- **B3SUM:** 90edb8303656f405646485e6d4226a4a3e1d9eeee5de0fc18ae4269fcfacbdd3
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/anew
 - **Language:** Go
 - **License:** MIT License
@@ -214,8 +214,8 @@
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
-- **SHA256SUM:** f7b8fc6067cb01927b18eb3f6da3a6e120a0d82cf044a70feeebb032b9fbd284
-- **B3SUM:** 4aa557ce59e39e4e1ef21fa4d41a2c5813a91e7e98a36bd94d1bd8cde3f097bd
+- **SHA256SUM:** 8d80fbc4bd41dc07e68fcac6b119027a4221507a4a0b5b6bf3d9e1980361edb9
+- **B3SUM:** b150964f0b06eeff388d8d76187062522971655f9384d6763328f94ed3973487
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/aria2c
 - **Language:** C++
 - **License:** GNU General Public License v2.0
@@ -246,8 +246,8 @@
 - **Version:** v1.0.6
 - **Updated:** 2023-11-09T14:08:16Z
 - **Size:** 20.03 MB
-- **SHA256SUM:** 8afeb843416ae335348df8d16524da4ab8ef40557da5b0d453e29f0a96739d09
-- **B3SUM:** 2a6e20be46535542d483b64a3a6e12b6620585dd0c354bb41fba135d92a9df4b
+- **SHA256SUM:** 3da08b3bbbf5e78ea617fb93c2d0058fe4295e77479c56d80a4305f9daff950b
+- **B3SUM:** 015ec89cf199f0615dc0c0d032efc7d64d04d389d1cdfc9e0dd86505fe6491fd
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/asnmap
 - **Language:** Go
 - **License:** MIT License
@@ -262,8 +262,8 @@
 - **Version:** v0.1.1
 - **Updated:** 2020-04-15T10:38:43Z
 - **Size:** 4.57 MB
-- **SHA256SUM:** 93c16ce69a43c787f30c751bbe8d1ada6e8b2d3a029b5af8c8f5758192dc095a
-- **B3SUM:** f63f8c6693f3210dce1d5d1fefd5613b2a91f18eccdad1fda052cda8bbffc41d
+- **SHA256SUM:** 4cea253ac0d7bd1b20997367e9d3ca4db817517d629f2100953f461050085936
+- **B3SUM:** e789a88bf1883b2a1b0524be6d96f2f23e65273e0c9ccfdf78d8ae3930539141
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/assetfinder
 - **Language:** Go
 - **License:** MIT License
@@ -278,8 +278,8 @@
 - **Version:** v2.16.0
 - **Updated:** 2023-10-02T09:04:34Z
 - **Size:** 7.72 MB
-- **SHA256SUM:** 316d5927825d52ede1323a5b0949457a7259a3ebad82c6aeac6d4d6ce9a343c2
-- **B3SUM:** c340d8c19a76fffb32c7b3da4a4c9d65676df2e7518064d5ae2cc427ab2ef512
+- **SHA256SUM:** f5513e09dd0fe2b3b1529154da05e5d753b4eaf12f40cf1647f1d5c4abad8bb7
+- **B3SUM:** 656d7d3fa46d8dd963bb30f25c758fc4fad4d514417efd0d04f67a255632a232
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/assh
 - **Language:** Go
 - **License:** MIT License
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 12486
+- **Stars:** 12488
 - **Version:** v17.1.0
 - **Updated:** 2023-12-10T13:12:32Z
 - **Size:** 16.48 MB
@@ -306,12 +306,12 @@
 - **Description:** the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - **Author:** BLAKE3-team
 - **Repository:** [https://github.com/BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-- **Stars:** 4382
+- **Stars:** 4383
 - **Version:** 1.5.0
 - **Updated:** 2023-09-21T03:35:48Z
 - **Size:** 0.73 MB
-- **SHA256SUM:** 998b9ee812a2ce3273ac6b63d7b5c34f134cfbee07c36352965f252e6baad9a9
-- **B3SUM:** 3c5da0cad7c5fa30c4031f3cf0b1a4a0b8a5793f0f21191d5dc15c6c55ecf6c3
+- **SHA256SUM:** 2eb5a9533fe6e02821beb7b98b0d779b5a2da2115c0e9cf29c71da6fd48927a3
+- **B3SUM:** 1c10d8f70e3269d95eb8d104101046a4851fc87cd306d598d095ef685eae5572
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/b3sum
 - **Language:** Assembly
 - **License:** Other
@@ -322,7 +322,7 @@
 - **Description:** Terminal bandwidth utilization tool
 - **Author:** imsnif
 - **Repository:** [https://github.com/imsnif/bandwhich](https://github.com/imsnif/bandwhich)
-- **Stars:** 8374
+- **Stars:** 8375
 - **Version:** v0.21.1
 - **Updated:** 2023-10-16T01:40:32Z
 - **Size:** 2.01 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44402
+- **Stars:** 44404
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -358,8 +358,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 1.66 MB
-- **SHA256SUM:** 58bb5fc8a83687f97f8e26a3cf01134fcf2ac1662cac20ea88dd55eac1068aa5
-- **B3SUM:** f2c131fcfb21bf9db0fa5881c601d26774b0821ae5bad789abda8c72c9ae098d
+- **SHA256SUM:** a306b6b7b62f312af0393f88ad584522b4c0924b0ee01af77bd9d85c34cd01f5
+- **B3SUM:** 49125718e1a05d4073179bf092dc2f4b691bec6b8ea91c6278dedf626fa3915e
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bbscope
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -374,8 +374,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 3.94 MB
-- **SHA256SUM:** db3c9877028373a7e12cb411e2ba9b7bd410a2ae69a550bc695100dbd5f5d164
-- **B3SUM:** fff0e4b9e0ecee9da6d39953811a4711cdcca4d4629221561bfba7e671056d45
+- **SHA256SUM:** f5a361d3a79cedb8c0cef78cdbd5fdd051046a435783d20dc979e8f2102d37aa
+- **B3SUM:** 584a7b74e7bd3889fe67a71383ba533f9ba37f4c84f6f3427e77affd8410d511
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bbtargets
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -454,8 +454,8 @@
 - **Version:** 0.7.0
 - **Updated:** 2023-10-30T03:51:49Z
 - **Size:** 12.38 MB
-- **SHA256SUM:** 7f7d8e6e07122d392e56693c1ce1093ede32a823859999a4a3dcb39e109b1150
-- **B3SUM:** faeabca8064273f4f004e52a2f9b94ebded86f39dde76ac201eb353e777671d0
+- **SHA256SUM:** 037f379360c792802ecbb8f2f202e102d952baaeb898c4b36189041f159102d0
+- **B3SUM:** 2e9955c9f6f22a6206c13363257880f55eea708cb48533a4204c729130afa866
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/boltconn
 - **Language:** Rust
 - **License:** GNU General Public License v3.0
@@ -498,7 +498,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8155
+- **Stars:** 8156
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.68 MB
@@ -534,8 +534,8 @@
 - **Version:** v1.30.2
 - **Updated:** 2023-12-23T08:12:27Z
 - **Size:** 7.43 MB
-- **SHA256SUM:** 607d32645256fbd1661813ea70819d5155bde133074ab68d9bd20b43d4157a96
-- **B3SUM:** 27024859591be44852ab21f5faa9333f880e5ae73d76432b522f0369edd1683e
+- **SHA256SUM:** aab28f13c152ba03faa94c77928dd98f23c4b930ae99890b5cd2a77a8073d1fd
+- **B3SUM:** cb80fc4274ad1068a622e5a449c6518160b67da0cff1fc27f8a58708e44b60e9
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/broot
 - **Language:** Rust
 - **License:** MIT License
@@ -549,9 +549,9 @@
 - **Stars:** 14427
 - **Version:** v1.2.13
 - **Updated:** 2022-11-06T21:36:41Z
-- **Size:** 2.24 MB
-- **SHA256SUM:** 74b4ebaeba3c6db9377bd53c044370d49877a6f2a4b3cea30b5b8c088293ee8c
-- **B3SUM:** 3890fbaf91b4b23977590dfb2e7ad76cf04a72fc4f20957522b1b11cf9c15b05
+- **Size:** 2.17 MB
+- **SHA256SUM:** c0b501ad2a3555cbbbafe18c9e1234cea1f09ab97c743e88fb7413b441a24d61
+- **B3SUM:** b8e6b446bf8139b33b4b7fb8e5ea00a11c8099c6d563880c2f5ed6ceb7438422
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/btop
 - **Language:** C++
 - **License:** Apache License 2.0
@@ -566,8 +566,8 @@
 - **Version:** v2.0
 - **Updated:** 2023-11-13T14:01:44Z
 - **Size:** 10.75 MB
-- **SHA256SUM:** e509013acecce2bebee74a50fd2f61c93599887e74a1a34df1d58e8fd9a9dad1
-- **B3SUM:** 1e91673aaf71f2b2630746b298238357babfa60a424ef2b5168452459ede639a
+- **SHA256SUM:** ee33a02f3478b9a86fcd460b055ab2d841c782e3ce8490b25fb57846468d8bb6
+- **B3SUM:** aa8f34bc315f90c64998d799cb666868dd0265d92db4e80ce95baf455405f3ec
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bucketloot
 - **Language:** Go
 - **License:** MIT License
@@ -578,7 +578,7 @@
 - **Description:** BusyBox mirror
 - **Author:** mirror
 - **Repository:** [https://github.com/mirror/busybox](https://github.com/mirror/busybox)
-- **Stars:** 1442
+- **Stars:** 1443
 - **Version:** 1_36_0
 - **Updated:** 2023-01-03T14:15:41Z
 - **Size:** 1.18 MB
@@ -598,8 +598,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.79 MB
-- **SHA256SUM:** df27043e29eefa2f2a51df52bc1e4d4aeae0a16ba7ff71c6883ffa909314b72b
-- **B3SUM:** a88156401a61af8f32930b7f5e6ee62033e51ab284b9405c3d30abae549d61c1
+- **SHA256SUM:** 5f647a427734cd77cd12378559b7ed83ccdee97e3dcbe88dfc0b1afab5136983
+- **B3SUM:** bfad4e49db13a7386630d4069b379bc63d5c637aa11a98aacc1c18b2eaebcdae
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/byp4xx
 - **Language:** Go
 - **License:** null
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51302
+- **Stars:** 51305
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 37.67 MB
@@ -662,8 +662,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.19 MB
-- **SHA256SUM:** f59abfacece4f8cd10abfa8175f2266721c6e877e0a2665a2f22986a31a8af30
-- **B3SUM:** bb5b144e46b860ed8f1d3d93739d98bc585240c1620c16fa0b5f8d96e3bfb758
+- **SHA256SUM:** ab5d0522ee6b60949df4ed5514438015def45be2ebd6ea7afbdc399c960562eb
+- **B3SUM:** 2685bb73289c5f431016f5040a377206c0c522fada3b288a964c47979535c906
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/certstream
 - **Language:** Shell
 - **License:** null
@@ -678,8 +678,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 3.81 MB
-- **SHA256SUM:** 9e51f595d456237169e443263af92a5757b2f2aac00004b4d7e6ab906a2668b3
-- **B3SUM:** d7d1dd96a0b726aa75ab9455e56aaa063623294a188446ea66d989ccda9e98c9
+- **SHA256SUM:** 9de82d8a60ae50b9fc8fab12e1db569f41b1b17b39591879c76acefb28d7680d
+- **B3SUM:** 4fb04e43425e304f4a30454de5d9c9f594fad587a618a27e9848f96572233362
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/chainredir
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -710,8 +710,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 3.81 MB
-- **SHA256SUM:** 6c6846bb347994db7b270c7942d67be0c66da8fe72bd7514f99ec4fa6df03b82
-- **B3SUM:** 854e76be1037af7b16a6f74e362b8dd87784a16433999326996f75a6b892336c
+- **SHA256SUM:** 025e5ca83b31c86620e0f1d1160292a81ad929131fb83608dcf1078f7755347c
+- **B3SUM:** 480285d93daa39575b07964bbbdf6fa511a1060cbb1c1a0a4a4ff068e8467902
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/checkbypass
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -726,8 +726,8 @@
 - **Version:** v1.0.1
 - **Updated:** 2023-11-19T15:05:29Z
 - **Size:** 3.63 MB
-- **SHA256SUM:** 0fa4725f7cdb36c74177f59bf620891cdbb36cd7d46ba71ee3e6c28413b2b89b
-- **B3SUM:** 875e4fe055aec3ce911bf33fc9419d0d544ce1fccd56a710b6f4b7fbf0941b92
+- **SHA256SUM:** a35f60661da864288313db1705dde1f638d5bc86de406df9894ed07c6995cf68
+- **B3SUM:** aa6c7f51839572086281d906ec88247c858ff557740dd155f5d1ee37e3022e14
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cherrybomb
 - **Language:** Rust
 - **License:** Apache License 2.0
@@ -742,8 +742,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 1.30 MB
-- **SHA256SUM:** afcb5c5c7ec52017e915ec78efc2ab2a70ed302983b5c6aea25335c3fa565bbd
-- **B3SUM:** 4e1ada7679a6d8fdbce4fc9264cbc948fc9adc9b8f4cae047d5d2ad18f8b2461
+- **SHA256SUM:** d6c0ca33f3c9e771c08b96c7754ce12cdf71a042b1b33688c48f37b0a11419a5
+- **B3SUM:** d32f7625ffd3a0e746690fdc369ab304dd8c6d30ecdf6c945e79521395defe79
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cleanpath
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -770,7 +770,7 @@
 - **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - **Author:** cloudreve
 - **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Stars:** 19750
+- **Stars:** 19751
 - **Version:** 3.8.3
 - **Updated:** 2023-10-07T12:30:31Z
 - **Size:** 32.32 MB
@@ -790,8 +790,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.29 MB
-- **SHA256SUM:** c3f74555ef8efbfd376f9cc6030e42dc149f818fc014d8e523bd3c49c57f739c
-- **B3SUM:** f4077104904fb6d22edfe2a392c16cdb4ebfcdde94986d183be3723dd95cca62
+- **SHA256SUM:** 42d1ec2030d1191068867337114b1b1eff4943a2953cc43aafaf0c6e44062978
+- **B3SUM:** e9f1f44f2c86b1edbee4db04ca4c3f393da9ae146a346bd7c05b6928f264e18d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/comb
 - **Language:** Go
 - **License:** null
@@ -870,8 +870,8 @@
 - **Version:** v1.4.1
 - **Updated:** 2021-04-03T03:16:30Z
 - **Size:** 4.31 MB
-- **SHA256SUM:** 994e89b1341ecb894c2f214d3effc1416c41d74d35f5e5e69913efceeffce828
-- **B3SUM:** fda1677033e47a9fdde63cb9f3985234a5e0766ce8ebf0638fef2f0e6d4bdb04
+- **SHA256SUM:** 82aa1eed9cc33e8391f4dae8693818d768440eb22c70f645d8de3cf8f272c80e
+- **B3SUM:** beeaa0e99e489a27fcd9fa579f93aa97c7fcf6d3bc389fa3b33f5a10e027263f
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/crlfuzz
 - **Language:** Go
 - **License:** MIT License
@@ -882,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25314
+- **Stars:** 25315
 - **Version:** v9.6.6
 - **Updated:** 2023-11-09T14:56:49Z
 - **Size:** 7.08 MB
@@ -902,8 +902,8 @@
 - **Version:** v0.1.0
 - **Updated:** 2022-03-08T21:41:54Z
 - **Size:** 4.26 MB
-- **SHA256SUM:** d31e6a610fb49f0a50f7bb95ad0667add17fc5d3abec9e949a897a6fa073ee1c
-- **B3SUM:** 4b34b3cea1266e9347b1fcd23185b221c94f617cd3516a77f9a11c0225be7da5
+- **SHA256SUM:** 22f14ef4809b146a15e323bfd6f7d8970b51f97117b8ca78a986bb3909b5f96b
+- **B3SUM:** 2bc78f9fad14a2054a33e1c54ab7ef975b2402e720cd755f7f7abcc33e177654
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/crt
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -918,8 +918,8 @@
 - **Version:** v0.0.8
 - **Updated:** 2023-05-24T07:52:32Z
 - **Size:** 8.53 MB
-- **SHA256SUM:** f86c965123d952df0857d68f459733f660b25e8c8c1abefd5eaa55b03c21d612
-- **B3SUM:** a11ae04fb56dc2af7648f67c570ee19a395da053b8b15761820eecd8458eaeb9
+- **SHA256SUM:** 61e312247715272d9c81c1e41ef7f77eca510bf919a57594807b2f8aa2a3bae4
+- **B3SUM:** eabb6a1b32285facfb018ee4f783812701e2495cfa8fccc7a17728dcd1062bba
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/csprecon
 - **Language:** Go
 - **License:** MIT License
@@ -982,8 +982,8 @@
 - **Version:** v1.0.30
 - **Updated:** 2023-07-22T22:04:31Z
 - **Size:** 8.20 MB
-- **SHA256SUM:** 92fffd359569000d23226bec1a30fa5bbea787b770fd5742e844797659370d4d
-- **B3SUM:** 77c6d7cbb0e94f1245fcb92410c672f8e92b99243a1d50552e13de12a0c3bc87
+- **SHA256SUM:** fd68c9f78086e446a99f022b2a28f716061e69914dc5ccf6e424f32d41119826
+- **B3SUM:** 33a71848bce690a8d3fadaafa9a732f2e4a5919b6e1eca4d462b92551fd37838
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cut-cdn
 - **Language:** Go
 - **License:** MIT License
@@ -1014,8 +1014,8 @@
 - **Version:** v0.1.0
 - **Updated:** null
 - **Size:** 4.06 MB
-- **SHA256SUM:** 1f59b4d5c17dd0e66c51a77c908aba032650b6fb7c0a708a9dff422c6b52de5d
-- **B3SUM:** fca57cfdb4c6b023da23b11992a2cb2a555e58c31d8dfc9eb22e82e159968f53
+- **SHA256SUM:** dd9deab48a0510d5e3a92100dbd48701e9d52ed096a838f53e5e71b5d638da52
+- **B3SUM:** 62e9aeaa879e57cec31015f8080bbbba6431d0570a0c22c64b9620fa42e47b1e
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/datadash
 - **Language:** Go
 - **License:** MIT License
@@ -1042,7 +1042,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19450
+- **Stars:** 19452
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.18 MB
@@ -1061,9 +1061,9 @@
 - **Stars:** 6742
 - **Version:** 0.8.5
 - **Updated:** 2023-12-22T17:05:59Z
-- **Size:** 20.71 MB
-- **SHA256SUM:** 0df285f8d2522d43591c21279dba67661bc5911d6e4dc42fdc27e50507612d64
-- **B3SUM:** f991fe94a1d56b7da3a0015ddf32b4a39246144bef7431871b5643ff57a91c07
+- **Size:** 23.29 MB
+- **SHA256SUM:** cbbbfe98092e223e28178967ba0d8a6e4a046d4a2affc94df35941ed51319565
+- **B3SUM:** 1b22c6e1dedce40e3f5ae6e073869432c0c1daca235c8d8437d6066e878ad4bb
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/devbox
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -1094,8 +1094,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 3.73 MB
-- **SHA256SUM:** a65c206be59609a29fcfcb6488e4a305b83ddafd236d1b12750556bc069c5609
-- **B3SUM:** 3529b59952600b68bb2474667c6709ef3023abe076d537e45669871ba8cf8420
+- **SHA256SUM:** 97ef36864575bca77a7235910e0252abcad358417b9cfb55f2ad9f6f65f38cb6
+- **B3SUM:** 5d82589f07597eeed61275408b7dce1cc5b86f690a4552041b91dcd8e0c33291
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/dns-doctor
 - **Language:** Go
 - **License:** MIT License
@@ -1110,8 +1110,8 @@
 - **Version:** v0.1.1
 - **Updated:** 2022-04-15T09:40:35Z
 - **Size:** 4.63 MB
-- **SHA256SUM:** 3d50458151e5d4056e208c1ad74c8c2d7a4af1fd7da2683ea10be6e1a4efb334
-- **B3SUM:** 4b247a287d127aefff834b4ddff66da980eab9ca2ddb2fe99452dcf0a2e627d9
+- **SHA256SUM:** 18455d6bdd0535bde50d1122d43bb3bfaa62cf3784496e6bc443f5161b0a3b53
+- **B3SUM:** 35156f8f50761a871e05a451f2a199376d79ee8c8649901ef5ec8ca0c6ee9944
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/dnstake
 - **Language:** Go
 - **License:** MIT License
@@ -1282,7 +1282,7 @@
 - **Description:** A more intuitive version of du in rust
 - **Author:** bootandy
 - **Repository:** [https://github.com/bootandy/dust](https://github.com/bootandy/dust)
-- **Stars:** 7041
+- **Stars:** 7042
 - **Version:** v0.8.6
 - **Updated:** 2023-05-05T19:59:54Z
 - **Size:** 1.79 MB
@@ -1318,8 +1318,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 1.30 MB
-- **SHA256SUM:** e40b41471324f4b9d364e2b9726067cd81e3158f5543f556087dba89f460c19b
-- **B3SUM:** 008f097c3990cfc3994677aa5d41fd2d3de8e386445b4ab6a7437c5199d6d821
+- **SHA256SUM:** d32c10f4953f0fb2025b77182f5207ef11bccc6917c97851791bb06e08756e74
+- **B3SUM:** 017c1d760910972ea481bf0b6ba8b3c107b7135220e63dd41dda346d271d6b29
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eae
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -1334,8 +1334,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 1.30 MB
-- **SHA256SUM:** 575f1700350f83baadd81cca802a14ce547ff574d30bf1871142db5f92a71f0f
-- **B3SUM:** e2a69e44228ba3d680838fa9cf69c120882604f4eb38a4bccae04ad1f7a8a51a
+- **SHA256SUM:** 3fe162f8aaba520309de6d5b96d256ae81e72f8bf89d3183b5b0dee36368439e
+- **B3SUM:** 5b6215de36c8ae0801ad11105b5977bc43bbb40e8a9546c73faed47c7039f8f9
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eah
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -1350,8 +1350,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 1.30 MB
-- **SHA256SUM:** d215ada59431eb297fdaa676dee65ead52639950dbf59f4c7a60bfec4e832c7e
-- **B3SUM:** 98e2c4b742baae873ce4cdc1d6a7e5c66d747d003f4d536ba507e3d8de45c566
+- **SHA256SUM:** 4ee19dff7ac8a61bd3a05222b0f0cd6b7c80c3815588231b8692b1c3fcba41af
+- **B3SUM:** ec3a37cdaf74e0b49c9752b6371a2bc2d1cbfce8fdd28a888b0fbf528a2e2a0d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eap
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -1366,8 +1366,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 1.30 MB
-- **SHA256SUM:** 0707a7592ce774c593f7e2f0715ddd41cc467ffa06a9652c55023fc3c63c35b3
-- **B3SUM:** 1f8b6019931439859c25b83becf55c9448002651968be5a3ffb72508ac399611
+- **SHA256SUM:** 9cf30aebf20e57101074514865a65aad08758d8fce5f6de7eadf284ae771a672
+- **B3SUM:** e4d50f5244d5b106098558586eebdb013e536f8c9cc6a4ae5eec5ced9a6c15b6
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eaparam
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -1382,8 +1382,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 1.30 MB
-- **SHA256SUM:** efb2c4ba440fde7480abd916c38a5bc676c3e03aa42f28d99607511e180465c8
-- **B3SUM:** 472f664b3009dcee45b696690b8b11445f53d44ca8b54c23f5fbf94662b8b021
+- **SHA256SUM:** cb3bc38f3c745e844aab4bab295676fcfb1a58b0216fcfc753553e2dc9dbfe52
+- **B3SUM:** 38c3c6fa7500c3ce5c6c750d345a0dbd2866933bcccf9add22e1a32c9b735169
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eapath
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -1414,8 +1414,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.24 MB
-- **SHA256SUM:** 200fb967d1ff73a4a9b2f9102254975a16f43e1f1b4210eccdb5205fa78f8369
-- **B3SUM:** d23a47396c4aeae67e71043744b2a9046c08dc6b886d82c311f96d9be70e1878
+- **SHA256SUM:** cc847c9a33302da9298d33d7dfe3e900332c1ab17892758a0094c73d1ac6629e
+- **B3SUM:** a4f0b68061475a60df1626f403236c7cf89d9fa16964fcd6c7fa4bb5c1909a76
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/encode
 - **Language:** Go
 - **License:** MIT License
@@ -1442,12 +1442,12 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 4364
+- **Stars:** 4366
 - **Version:** v0.17.0
 - **Updated:** 2023-12-13T16:57:33Z
 - **Size:** 1.53 MB
-- **SHA256SUM:** 01d9a14c3c390daaada44fc79f9d4327fb5f5be824a8d6d18670f66520c2bece
-- **B3SUM:** ff3f8a336098211669ae20331cd6036b988f3497520a3f7e7917745277e2602e
+- **SHA256SUM:** 98e1f805207fa01f8a94e324e9076ba234f11de19a2052d5e1fe7fa3e092fb29
+- **B3SUM:** 3261d0333e385dcc442e936b9525069a69424d8afbdc2a661eb4bcfa19cd16da
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/eza
 - **Language:** Rust
 - **License:** MIT License
@@ -1462,8 +1462,8 @@
 - **Version:** v0.4.4
 - **Updated:** 2023-03-18T03:52:09Z
 - **Size:** 6.66 MB
-- **SHA256SUM:** 0a37e2faffc4a2c30fe50b33f86c5018a8d2592b84dea602d32a3aed84d10589
-- **B3SUM:** 99a4505f7f8c9b184b01ee0b6db2a3a21f01e9822b19396513aa6c2da26421c0
+- **SHA256SUM:** 7e935d5b333b2395417e82f34d859d82edc753833344b3a04c3530b4b277e905
+- **B3SUM:** c51b0fa12869afd354c0cf1a1ec91864318568e86433dadc22e668ebdf2556c0
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fasttld
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -1478,8 +1478,8 @@
 - **Version:** v4.8.0
 - **Updated:** 2023-12-21T07:44:25Z
 - **Size:** 2.42 MB
-- **SHA256SUM:** cb4c58c0540908e40457221f798ae2c16d0feaf52aa2e6c68133cfc3a326de2f
-- **B3SUM:** aac5b76d2d3583abb83f0f0e91e1c182231f095f5cd69cf7af02bf1a8fe7c9ef
+- **SHA256SUM:** d6a7ba4d30361a29a62c16523019451c6b9e0d4be4debc0790867559c56ffda3
+- **B3SUM:** 1c19a49c22a28af80f3ab0127da73d3da4da25b7672ec9c0b19b03be586fc8cf
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fblog
 - **Language:** Rust
 - **License:** Do What The F*ck You Want To Public License
@@ -1494,8 +1494,8 @@
 - **Version:** v0.34.0
 - **Updated:** 2023-10-29T16:56:06Z
 - **Size:** 3.10 MB
-- **SHA256SUM:** ec7aa3a2a194cdc2ef96617da22d46e3ecdc85575f54551eedfde4acb43aef6e
-- **B3SUM:** 5e0ada80377cee3d18de7cc1edf01ca5febbbd7ff67fd464bea7cb027c90d31f
+- **SHA256SUM:** 2939db3ce55cb5f82b379c9e86c2d6b4cae00d2953fffa22fdbe19a70656c2a4
+- **B3SUM:** 54a32f95ac0cba9dbe62ae7ec26464f0a24e05d73486477b4fa7b46e7136f798
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fclones
 - **Language:** Rust
 - **License:** MIT License
@@ -1510,8 +1510,8 @@
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.47 MB
-- **SHA256SUM:** 5d3f6c24979407e32be64d60c8beb4ebda434437760c680f2ea7f0b7b21dc339
-- **B3SUM:** e15eeb65e85dfe37c4b834b07d8b8a7b385149c738f6f3549108c4ef32a72ac2
+- **SHA256SUM:** c361a0a0dc0729f6daeb75530b7b8ae2685cd4fcdaba4c29d8424fb830c98f02
+- **B3SUM:** 6886849ef7c7558059d6a493a7d0651354f8257cd295040aadfcc96bd63371d4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fd
 - **Language:** Rust
 - **License:** Apache License 2.0
@@ -1590,8 +1590,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.97 MB
-- **SHA256SUM:** 4eb113b1def11cf2386068ba6001b64140709943f2d4601a1a30d806bec2f54c
-- **B3SUM:** a5ae6e124ea10d9d5ede9b8b43e192f8fb447724c9f623032fb50844cdb1674b
+- **SHA256SUM:** a66b3445bb93c16561ea54999b07a3ef391c2cf9562f4e6ed831b71c1372216a
+- **B3SUM:** b9b3d049202bf8be8163821f44997fa22d0d0260175c26a9e993b0a012aacb6c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ffufPostprocessing
 - **Language:** Go
 - **License:** null
@@ -1606,8 +1606,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.37 MB
-- **SHA256SUM:** e2baf45056171876bddb6ef31b32e58bc7087d4eb4b33671715485ef8367f6cb
-- **B3SUM:** 65d6f639ba1b24cee6b70f25e16c30e62cb58bb32d27b6aa096efaec16f1adb1
+- **SHA256SUM:** bd3d2ba240a0a5e46e220ba0e1b69c7e3311310a8d9af023298c2f63bd38681a
+- **B3SUM:** ddeeadcc11d001232376b5df4eb80b350a841d5a9ee3ba5b31202d12d4869b80
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fget
 - **Language:** Go
 - **License:** null
@@ -1638,8 +1638,8 @@
 - **Version:** 0.4.2
 - **Updated:** 2023-07-23T17:18:51Z
 - **Size:** 1.63 MB
-- **SHA256SUM:** 8062248edb6e14d19290b051b266e93b9dde35d21a2f29f5362fb1223a9387a3
-- **B3SUM:** dd1ef5b1140e44c8dd651527a135b98bfd44c5837809f38bef03f7d47b3e9619
+- **SHA256SUM:** d619c02c8ddeba61b211a31730ed7987791fe4b35f8a0f6ec5a8b1c735118e35
+- **B3SUM:** 9a20e8aadc33cbf711f94027aceb49060d815b6484c4a6e8b4935b9c00a4e08a
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/find-rs
 - **Language:** Rust
 - **License:** MIT License
@@ -1682,7 +1682,7 @@
 - **Description:** jq for binary formats - tool, language and decoders for working with binary and text formats
 - **Author:** wader
 - **Repository:** [https://github.com/wader/fq](https://github.com/wader/fq)
-- **Stars:** 9114
+- **Stars:** 9121
 - **Version:** v0.9.0
 - **Updated:** 2023-11-25T17:53:02Z
 - **Size:** 10.48 MB
@@ -1702,8 +1702,8 @@
 - **Version:** v1.1.4
 - **Updated:** 2023-07-16T20:18:46Z
 - **Size:** 5.91 MB
-- **SHA256SUM:** e8d809e4434f26bbf4543c29151b999841a0da57dc662c059a893890a9385163
-- **B3SUM:** 343f49c33172dc4cce70ad16d0aa13ac3f7a7cc323552ba55f8e2393503937ab
+- **SHA256SUM:** dd4e65eaafe87b15bf123ae5b3dcd5bb2b1cc16a86565c50497e13fa79921ec4
+- **B3SUM:** 4ce08a6ad916e9042728c6aef76f351641a15fe0a5ad12650fbc7ec318577429
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fuzzuli
 - **Language:** Go
 - **License:** MIT License
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56394
+- **Stars:** 56395
 - **Version:** 0.44.1
 - **Updated:** 2023-11-17T10:20:41Z
 - **Size:** 3.31 MB
@@ -1750,8 +1750,8 @@
 - **Version:** v2.2.1
 - **Updated:** 2023-11-02T13:13:38Z
 - **Size:** 7.32 MB
-- **SHA256SUM:** 5c6f01c0ecf1e4ea77a7e3785d3b081cdd72abd03f8ed71be32193fd4b308f5c
-- **B3SUM:** 6a5f59afe53f7d0783e516d868bbe34b517a68e427354f61be4da00f7351e82d
+- **SHA256SUM:** 79b21230b0dad4edda2225b30e972142d1c0a6f842b95af4a37dec3d39c67037
+- **B3SUM:** 2fda7e5cbaa93d61830b6e83bb8875cf9510d814ecbebde06380486b3d2561d1
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gau
 - **Language:** Go
 - **License:** MIT License
@@ -1782,8 +1782,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.93 MB
-- **SHA256SUM:** 39cd722615c7f470e557b142c1806d366c283514971e095c0951904cc8be59cf
-- **B3SUM:** b3e531014e6f64f2a7b87f4cf05c02d3f9041a7d19db6a6008ee7092aa37c456
+- **SHA256SUM:** 4d649f9eb456c21eb95e71ed5b190c4a4c98f3f6cb43b51aa7a4d4718819e8e8
+- **B3SUM:** bb2fe301319c13bfde92dfe3115382f5e10b170131f69da4c05e0b921ad5c60c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/getJS
 - **Language:** Go
 - **License:** null
@@ -1810,12 +1810,12 @@
 - **Description:** A wrapper around grep, to help you grep for things
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/gf](https://github.com/tomnomnom/gf)
-- **Stars:** 1554
+- **Stars:** 1555
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
-- **SHA256SUM:** 260a48be8feb252211b37a230c77736f19c2b21ae8a765b9c484e1dab5cf6738
-- **B3SUM:** e4622d181f58a6b7a321a0b3f4c9ad83e214d92410f812cfec02fa815ccf6593
+- **SHA256SUM:** ad92193672bf2377268057c0ddecf56aceea060a0539bec709621cac757f9f37
+- **B3SUM:** a8b3f44caa16b73dc7c9c141648ee433019c5a2c62d5b2a8dda3ab3e12334c58
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gf
 - **Language:** Go
 - **License:** MIT License
@@ -1830,8 +1830,8 @@
 - **Version:** v1.0.2
 - **Updated:** 2023-02-11T19:06:21Z
 - **Size:** 5.62 MB
-- **SHA256SUM:** 10dbd9b8479b48ec8d1203394229739636c2e54f1ba7015dd7ca1daf98904983
-- **B3SUM:** ed00f007770f55ba7f4be2edd7301d4f9e3d33d0f03b0cb0f9639954e28b35f3
+- **SHA256SUM:** f5bec0a0fe92bca911703f46e7284e41bef8df389fe9546fdc09e654512afbaf
+- **B3SUM:** a8ce4de55516262f7e520e9e8b5e7f913bd5cd57f095db560de16a843d22788f
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gfx
 - **Language:** Go
 - **License:** MIT License
@@ -1842,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34130
+- **Stars:** 34131
 - **Version:** v2.40.1
 - **Updated:** 2023-12-13T14:59:38Z
 - **Size:** 41.22 MB
@@ -1858,12 +1858,12 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5222
+- **Stars:** 5223
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.52 MB
-- **SHA256SUM:** 03a34b4754413bf50106151dc8e5070791732a0ea8266c8bcacb386a958ebb3c
-- **B3SUM:** 66de06bdbbe518b66f4b28efcd8f5e1ea0549480ea92a79a5959d0615cbd8551
+- **SHA256SUM:** 601d6ec80f2a00196b70f2b87a54a8832b9020272ca8cb36d521e40d500de85c
+- **B3SUM:** 568ebaf09c597df42b97f82915dd3139d05b8e842eed3c97fb30f1a3f8b7f825
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-checkout
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -1874,7 +1874,7 @@
 - **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
-- **Stars:** 6601
+- **Stars:** 6602
 - **Version:** v1.4.0
 - **Updated:** 2023-10-29T13:23:20Z
 - **Size:** 7.43 MB
@@ -1890,12 +1890,12 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5222
+- **Stars:** 5223
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.52 MB
-- **SHA256SUM:** 31e592e0278451d218205bea1b9d1148f45f7594a81922d504e5b8ad0857a73f
-- **B3SUM:** 37c93ba917edfcc31ef6006664a5244b38343aa9d78fa93ca0be40e16d781a2f
+- **SHA256SUM:** 1ef99dd0717578f970f6f12a0772232ba596db3315ab0235494976a4b210bfea
+- **B3SUM:** 848e11afba0d6ec6e521dd026ad71232d7bde7ce1209875ea8cd422b924c6488
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-clone
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -1922,12 +1922,12 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5222
+- **Stars:** 5223
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.64 MB
-- **SHA256SUM:** d2b6de54813e7b1eef87b6fa2ae30b9d6f95ef3762bd1187eec908bbfd28697e
-- **B3SUM:** 910e7145ce50c42c8c25295c86d52d69bb0e8f63d02bd17e8c24deb2621b56cb
+- **SHA256SUM:** a9e62923e66e678d95b40cf2e06fb2f1c3931493ade520f4d3f71e91bdd3dc54
+- **B3SUM:** aa949d223053d4206f33a7564a9de697855e24bc2e29eeb85d2093f770dbd4e8
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-log
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -1938,12 +1938,12 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5222
+- **Stars:** 5223
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.52 MB
-- **SHA256SUM:** fca7923b5928810dd0fa6abe0d5a5a16ea5c233b04c4e295d76dcd2bec63c4a2
-- **B3SUM:** e210d729abfa092de443ce1759398feff2da50999bbb7ba309a76a780a8cdae3
+- **SHA256SUM:** c3957c6a83a61ec579d42422c3a2e55199ac40dad2d7e794e9b49d283c40de44
+- **B3SUM:** 3c7774722bd21d64a641705db24e30555aad59ae77ffc8aaa935007ee32e94f7
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-pull
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -1954,12 +1954,12 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5222
+- **Stars:** 5223
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 4.69 MB
-- **SHA256SUM:** 73babb08abfe684b3d470970fb526d2529cab4dac9897fff95f3e0d4a64db9ad
-- **B3SUM:** 9e48fce81cb8080a6c09e44446c528ab8bb71bcb0b25574e271761427146f813
+- **SHA256SUM:** 6c6b981ebeb31346f48e2cf922caa705a0841365b916b26dd9619accf76136c8
+- **B3SUM:** 21221aa1770f1172abaf3c306b37fa2bb5bdea1d91a5611a816eeb5d4a4d6037
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-tag
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -1974,8 +1974,8 @@
 - **Version:** v0.1
 - **Updated:** 2022-03-16T07:43:35Z
 - **Size:** 4.88 MB
-- **SHA256SUM:** a5c13694d28b1fce6b2b7cf250e24330fd4fdf895e2627288a64b4d3dc9f3245
-- **B3SUM:** e9c960fc1a75bc2aed0228f38b46ea1fb0f44a33e7625fa0d10d4006bce4fd20
+- **SHA256SUM:** 21760aea8024df536025b3c34418e1b3191381ba78f6b72b962d993917212c55
+- **B3SUM:** ea37b4b27bf7d0355b7404558871088f09265a40a124199ff66833a1941a8f12
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gitdorks_go
 - **Language:** Go
 - **License:** null
@@ -1990,8 +1990,8 @@
 - **Version:** v1.2.2
 - **Updated:** 2023-02-09T13:53:35Z
 - **Size:** 4.84 MB
-- **SHA256SUM:** b264d1d574a56c6c1fa7a7506a9ffefa78de898a23ce9565ad7b0811d8c37aa9
-- **B3SUM:** d5b1edb7a1f1cf1d32ac87047d3fcce9f80a9c33a3753fdfb6193f033d40e588
+- **SHA256SUM:** 7bc95330a7730a95e23e1f1f81222256b57b91e5cef96d33652e165d936c1f21
+- **B3SUM:** 6ce2eb551d53750e41cd3349a3d5464318032b8b9842c3c8335f6aaef8c3e40a
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/github-endpoints
 - **Language:** Go
 - **License:** MIT License
@@ -2006,8 +2006,8 @@
 - **Version:** v1.2.1
 - **Updated:** 2023-02-09T13:40:09Z
 - **Size:** 4.74 MB
-- **SHA256SUM:** fd6dfa47387cba829197e78a7bdc5b0558c0179fa208cd0ebf21b34b3713e61a
-- **B3SUM:** 41f57e7dfc59974691207e4a83c59f93a1de397ecd866be48fd230ceab111ccf
+- **SHA256SUM:** 78cb1b4b147981d42b89908bc064ce24b492a7e403029b1af861c260baf84c18
+- **B3SUM:** 0ac1b88e0a0d0dcb8131d7f2098163f4a05a86a1cde35e7ae43ac2c90b179972
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/github-regexp
 - **Language:** Go
 - **License:** MIT License
@@ -2022,8 +2022,8 @@
 - **Version:** v1.2.2
 - **Updated:** 2023-02-09T13:53:05Z
 - **Size:** 4.84 MB
-- **SHA256SUM:** 85627fcd533fe97378016d5a9fddd76d633d0f1ee8793b9081f8ab3c675ea2a2
-- **B3SUM:** 0390667b979ed412c20c218d26c8af99218ac8d302903dd67b0e404445e02888
+- **SHA256SUM:** 5c5009238a766f0c56f1e8e114c1b47f5debda6d93eff053725cff985fdf8005
+- **B3SUM:** 9cf6dfcb61ce91364d6032356c89adffc78218b5dc97556028fd442f8bbbb7aa
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/github-subdomains
 - **Language:** Go
 - **License:** MIT License
@@ -2038,8 +2038,8 @@
 - **Version:** v1.0.1
 - **Updated:** 2022-12-02T08:03:44Z
 - **Size:** 4.78 MB
-- **SHA256SUM:** c17bf9cc5175210962a58bd5881d51b8988d3b6dc676ef1aba8d7aa7447b03b8
-- **B3SUM:** 250072d3f2e428703f72400eb83601cabe8cef82ec85e3b9b74d67fa7039bec0
+- **SHA256SUM:** 02d697cdb50abb95acf5f6cfcbce650ed283544f0cd33a00ed500df373d589d1
+- **B3SUM:** f4830c402f70ed3688d993e70596a9b6b7ee66563a3e292e9f9d291122ea2666
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gitlab-subdomains
 - **Language:** Go
 - **License:** MIT License
@@ -2102,8 +2102,8 @@
 - **Version:** v0.0.6
 - **Updated:** 2023-03-20T15:04:35Z
 - **Size:** 5.63 MB
-- **SHA256SUM:** ccac9a47233c5968d7f4e8937faad89688438b2b716a4ae77301e8d68bd056ac
-- **B3SUM:** 25639a0a3701936629eda8686728910d3f490b90080ccd3490d1a7fda1caea39
+- **SHA256SUM:** a6602672e8cc3f7fb42998b969f30fedc46970211672b5d301371d64b4176bdd
+- **B3SUM:** 4d1de25b3a0cb8c419bc52d02719ebdbb7af0f602dbb29eb18d06ff369f24da8
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/go-simplehttpserver
 - **Language:** Go
 - **License:** MIT License
@@ -2166,8 +2166,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 8.99 MB
-- **SHA256SUM:** 74c0d76e9bc2e6c0f57a0bf9e22162c981f37cc46bf6ab9136b76c36cc538f5a
-- **B3SUM:** 507c287aade0a9e76ae0124636632b0c7c5a6c10db87c018dcb58118b4714392
+- **SHA256SUM:** 682b5f93a8bff15cf5c0a0283c42e26bcf97df6c3eadc872ef38b9c71e0f9c8b
+- **B3SUM:** bfb18f3358cdc067f2a2039162860b89b0e05f2cf417e8dec8236a62c053ea39
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/goop
 - **Language:** Go
 - **License:** MIT License
@@ -2194,7 +2194,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14457
+- **Stars:** 14458
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.07 MB
@@ -2230,8 +2230,8 @@
 - **Version:** v1.1
 - **Updated:** 2021-07-26T14:37:40Z
 - **Size:** 1.72 MB
-- **SHA256SUM:** 9194c3072c389a96683497a306b184647c2de0a532cf13d6367bb82c9ddb7941
-- **B3SUM:** 6c0236f1d36139c5835aa94fcee38f0e86c75b2e57ce24aa74692588a7a33340
+- **SHA256SUM:** 2766bff447610ad3d0775532c3350796ab19ff502b932cd373e7fb15a6fdf64c
+- **B3SUM:** 20c7d298be0a681a1a764477d1e5ce65d10a60dfb1fd3c60cf27736bde9fb939
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gotator
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -2246,8 +2246,8 @@
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 22.42 MB
-- **SHA256SUM:** 8f99725f161eb0ba4ecc7dae4257072cc804de062d3f9bfbda9af6583880e15e
-- **B3SUM:** 53c991137a2fc20f51e8e8291b960eb860f0ef1cdbe592e0fc4bdcafc50210e1
+- **SHA256SUM:** b028e81236a2cd42690dc7196b6fbf8ade09141b79637b2ad35db110c93214c0
+- **B3SUM:** fc5531652b94b2536a9ec64e9adfbe2dfb27e3e64691316c00edb8bd4494c091
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gowitness
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -2277,9 +2277,9 @@
 - **Stars:** 9546
 - **Version:** v1.8.9
 - **Updated:** 2023-10-24T17:17:39Z
-- **Size:** 22.18 MB
-- **SHA256SUM:** f5879c98055c6d7c3a7cd687a95f95f649c0eb21eeee107fde0a4f24f83bab9b
-- **B3SUM:** 62dfe5b3fb4ebe64fc769ffe26f543aa4fa81e2904374f6c34424d42ee6c563c
+- **Size:** 22.25 MB
+- **SHA256SUM:** 0bd3e82a938534decbbd1b5716737794cdbfe4bc1c141d28b0333166be59ada5
+- **B3SUM:** 85d1a5247a5f0d6e5791bcfb77dac515417789d517f88b3a5caee03a68c7ea53
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/grpcurl
 - **Language:** Go
 - **License:** MIT License
@@ -2310,8 +2310,8 @@
 - **Version:** v4.1
 - **Updated:** 2021-11-30T12:57:43Z
 - **Size:** 4.55 MB
-- **SHA256SUM:** ba66192ff6871ed66728122782f39ec1c219023e0bba8eb55d6e19e9d90345ee
-- **B3SUM:** dbd4a08048738ee4b252837df1c1cf4bcef33c4e59dff6daa10a64147f911615
+- **SHA256SUM:** 0ed4a9b542b6096754ac2d94b0db6221bc728ab3e3892a9f870fb5b5fb989893
+- **B3SUM:** c349c45cecf6ba7d12ac0ce3fa34e9d63f08de57d7d03d23a6476660f7643ba8
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/gxss
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -2326,8 +2326,8 @@
 - **Version:** v3.0.0
 - **Updated:** 2022-09-11T11:19:11Z
 - **Size:** 4.91 MB
-- **SHA256SUM:** bc4fdf220a8caa30768415c747b7e5306963c346e0135151cca29a1cab35ecbd
-- **B3SUM:** 5a6fdfd335efb12be226c77d97d5ca44f58e9b7a57720605c98082c7590c65af
+- **SHA256SUM:** a58d02a09784725849ad89e4123dccb8eac47b9713fce84d6d1d4d8722d10748
+- **B3SUM:** fcfa8cc4e22cddf3d8c9f12daf22971e1670687a37e6443978c89b60be4d4516
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hacker-scoper
 - **Language:** Go
 - **License:** Other
@@ -2342,8 +2342,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.31 MB
-- **SHA256SUM:** fe4a6b34a84983a9eb3e2a86a497a54f52027b8b36d95daa353233699610137a
-- **B3SUM:** d3389e91f988f14c2c7e81b84c1d099117b6a16d71b1133a2b9d9a5bc031d24c
+- **SHA256SUM:** 6b96fb441cfabed416b0efd991ae0f6387491a53bf579250812ed09700d6364c
+- **B3SUM:** 8729aae288e8fff5c4f7b72eb17e834c39af13832c9d6e9279acaf95e1a1986c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hakip2host
 - **Language:** Go
 - **License:** null
@@ -2358,8 +2358,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.31 MB
-- **SHA256SUM:** 4f87c14560c8bf24d9ed3b3989580cff070e063fcddb83870b1ab63f567712aa
-- **B3SUM:** 435ad87399909b9f187e252b16a79936e4a6c8c96f5abccfd01b1b534a3563c9
+- **SHA256SUM:** 4ff1d88d154b6f5fe062d56d4511eb2ce4c82fb9ff76d8b8a6bde1a42ba9a354
+- **B3SUM:** 3e608a3e1e8da92394c05d6ce327f994cb5032bcd5bb998dff8cafdc1a5743db
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hakoriginfinder
 - **Language:** Go
 - **License:** null
@@ -2374,8 +2374,8 @@
 - **Version:** 2.1
 - **Updated:** 2022-05-23T08:28:59Z
 - **Size:** 10.13 MB
-- **SHA256SUM:** ecce46197aa350b90210f7edffc0c34756804a713fef96c8cd5066216a65eb2c
-- **B3SUM:** a74bb32e5d30ed9b6bf479570adef8cc66db97a5905e1b186e240d3af5c0a246
+- **SHA256SUM:** a924422d6e16d9ca6b215309cd549257ca0df7ff743bdf66da4c067d8c4e627b
+- **B3SUM:** c36b53ccba918703d5e95f3798e9b9d9bd8cde582f8f838d6e02da6a9379a20b
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hakrawler
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -2390,8 +2390,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.04 MB
-- **SHA256SUM:** 455bea6e42dea5a902ee8b0871b5bb34e5b076b3cecda3439d411155e17a8228
-- **B3SUM:** 73fc8449cfeccf50a878f0f0ed0df148b2572c9d5a0863ef1fa7b57a17120e31
+- **SHA256SUM:** 4f0991b7ac208c1189222555f4ef9f1f96afa76e84ce1be698aae68cf721d43e
+- **B3SUM:** f786bd3d7ebf4cb9a91083e01d6436c13e3c3644d5ec50d9a0f0f11cbbb649b3
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hakrevdns
 - **Language:** Go
 - **License:** MIT License
@@ -2422,8 +2422,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 3.81 MB
-- **SHA256SUM:** 434a9787ff9e8e04cbd7b3bd3fc5025bc6cf03c25385503b6d04b8e73e8e5469
-- **B3SUM:** 8b449e497ee870fc900d5eb51b514c746f6561060f08ae0669258de4f64625f7
+- **SHA256SUM:** c321d8781a6e44790579d3a3a6c2e16b7e39fea922b11c24eb473f85cabf9223
+- **B3SUM:** 5b7eb2a462936de30890b7d8c918e92d48da92c041b2ca76b04ededd5c08307e
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/heacoll
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -2438,8 +2438,8 @@
 - **Version:** v1.0.2
 - **Updated:** 2023-12-20T12:28:29Z
 - **Size:** 13.72 MB
-- **SHA256SUM:** 03710bb3219c6f9ed3c17abc02ff4b51f46121950e7253cf4c184401e942a40e
-- **B3SUM:** 895aaad1b5f95176f134a151cf9358791769b0054532b6b35385573e24b6e398
+- **SHA256SUM:** 5e6174f5519f567cb9e2e00efe8c5b0b1acb5ab0f3c9dc22f8e3af467517ab37
+- **B3SUM:** e37da9b571a460cd060dd93adad2465c66676fad1c529ebc44828fa8c172db68
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hednsextractor
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -2454,8 +2454,8 @@
 - **Version:** v0.14.0
 - **Updated:** 2023-12-11T22:33:44Z
 - **Size:** 0.67 MB
-- **SHA256SUM:** 8850871f267a18d5e603f9efb94655debf4781f5402a6d5bf86f00b2f8fa181a
-- **B3SUM:** 89faa6bdc7cc471659793e5b638ad0135ea20aa7d8ff35835b0a8ed7ae859476
+- **SHA256SUM:** 2f80b36a1a8dbc9eddf79b247e976f1398255530b291871e11bfd55cd622b9fa
+- **B3SUM:** b6b79f5607655fdfef82fe597413b5ac0617ab3b6cdfa86caba7f5b5b039c434
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hexyl
 - **Language:** Rust
 - **License:** Apache License 2.0
@@ -2518,8 +2518,8 @@
 - **Version:** v0.2
 - **Updated:** 2022-06-09T16:22:06Z
 - **Size:** 4.31 MB
-- **SHA256SUM:** 4ed09073c2841324d0229ea0e6c10e7c34c30afbd51bc5053cc6f4770d6060f1
-- **B3SUM:** 7f92ef892a26b48cf06054e4ca569284123b44448f5a4359cc19b5682bcf6f07
+- **SHA256SUM:** 403cdc0f2838c6cbd401c9bc3a634eb548d48a78bacbbf857542c69e998497c5
+- **B3SUM:** 55588722b360577d7e0de146450d322eb7f4f370472a62b4105dcbebdfc1df10
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/httprobe
 - **Language:** Go
 - **License:** MIT License
@@ -2550,8 +2550,8 @@
 - **Version:** v2.14.2
 - **Updated:** 2020-03-05T17:55:23Z
 - **Size:** 5.84 MB
-- **SHA256SUM:** 23d7b998590f7560061c10c51b3f62ebc47f41505d3e3f6f0fc916fea7071c9b
-- **B3SUM:** f2d4d367f0f36ae2b4282d2b61e5b0c52f6f954db7b1367e8c5a624199831c3f
+- **SHA256SUM:** 83831b7a492229aaae8f6a4480f1b8fec162c0e715a76dd9d18e41be44e032a0
+- **B3SUM:** f0ec89785f331317dd57d554ff22d5d43173e79ae03d43526d63a9797b3309b8
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hub
 - **Language:** Go
 - **License:** MIT License
@@ -2598,8 +2598,8 @@
 - **Version:** v0.1.2
 - **Updated:** 2023-12-13T15:03:18Z
 - **Size:** 3.18 MB
-- **SHA256SUM:** 4c3b693cfb1e431ac1c78a2abb6518544bbca73fd6a1302514b2aae4d1cb6050
-- **B3SUM:** 2a48cd72f24cba62ea8e320d6ae385ce7b9135d6e68284b51df55021c1de7de6
+- **SHA256SUM:** a8a964dd8f7ae4a95ad64b5fd41e64b8b134662563f9563cb1b9220c0aef0424
+- **B3SUM:** dea49142af3ae90886150e19618afa960d46cfec9503a7daa7d433f855f7e87a
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hysp
 - **Language:** Rust
 - **License:** MIT License
@@ -2614,8 +2614,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.66 MB
-- **SHA256SUM:** 227cbfaba93436d80c9db88202e31eb0ebffea3db7ad282dd83378fd649fd211
-- **B3SUM:** 0dcdb5b57b6dd617bb5b106f7c2f01797bc51d162fdb5b10703774589b49ac51
+- **SHA256SUM:** f1d9abc35df586ab416f3d1d12de12bfe69e26c88e4772e19911a09f88336709
+- **B3SUM:** c2a78f86270962b3dde6d3a44d7bf8aaa897af1ac6a812b7ca41d104c3008eaf
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/inscope
 - **Language:** Go
 - **License:** null
@@ -2662,8 +2662,8 @@
 - **Version:** beta-v0.17.1
 - **Updated:** 2023-07-08T08:31:33Z
 - **Size:** 22.29 MB
-- **SHA256SUM:** da01d65610787b2efad13faf0a437113f242fd97e8f931b66841953f1c2d013e
-- **B3SUM:** cf15b6966771a041642ff89cce78e1492af2ecd4e6ea912d3c2bd31b120357f2
+- **SHA256SUM:** 2a52b5334e42df7d98ab78f2e87d5aa5638aee2b631b7dbc17b0fef7e13ba280
+- **B3SUM:** 18863128cadb73333a2b6869c13f6c1390a9f25623aebc05ff00cf38c76b07ce
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/jaeles
 - **Language:** Go
 - **License:** MIT License
@@ -2706,12 +2706,12 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15208
+- **Stars:** 15209
 - **Version:** 1.19.0
 - **Updated:** 2023-12-28T04:34:06Z
-- **Size:** 2.70 MB
-- **SHA256SUM:** 9ede7427544f047703a52da93bc6bc5c40966b977728a8d0f06540bb28eeeeb8
-- **B3SUM:** 5a54c2a87c73ab44037924628b4219d3fe80ea147df84aba4d8b03d632285da0
+- **Size:** 2.74 MB
+- **SHA256SUM:** 32525e247527f9ca3217ead54db6deece6f741d3b8409c567eaa30367d43d5bb
+- **B3SUM:** 94b554013c9df92bd9866bdebde1c61ff35eae95786fdb8e3293aa817918e02d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/just
 - **Language:** Rust
 - **License:** Creative Commons Zero v1.0 Universal
@@ -2726,8 +2726,8 @@
 - **Version:** v1.1.2
 - **Updated:** 2021-12-24T17:00:39Z
 - **Size:** 4.03 MB
-- **SHA256SUM:** a3dc1dab014fcb845a03ff57b0f1b9d2555312206a43aedd12a5d6eac1a5c100
-- **B3SUM:** a6bf1fc9968357c2d95336b52c93b6ae5b9661485c8aa25dfe4901a2d0db9495
+- **SHA256SUM:** 69f8312bbd587b8a76b7c229a3a7b73c77a78ac5c2376d58dc5adee22e26dc5d
+- **B3SUM:** 28886b71d888962b33fd2ce204c14e8eb37e9eead8d2721297289aa10d9db773
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/jwt-hack
 - **Language:** Go
 - **License:** MIT License
@@ -2790,8 +2790,8 @@
 - **Version:** v1.6.4
 - **Updated:** 2023-10-27T08:56:26Z
 - **Size:** 1.08 MB
-- **SHA256SUM:** d5a3bfe217b166a1821c10ebc47623492e41365547a0a7085cbbb4d46465285d
-- **B3SUM:** f28d74677e22342d6492670ccdba7714bd256fa82938b5c0452c83b6c49523e4
+- **SHA256SUM:** 95687d3719c3010faa3430c8713eb05ea41caecc1711a63c68de0b000990e9ee
+- **B3SUM:** e28eab9200bd86d7b1d4c40f16e6fd55ee76ee970f4e42266d018274f2ce3050
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/kmon
 - **Language:** Rust
 - **License:** GNU General Public License v3.0
@@ -2838,8 +2838,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 3.98 MB
-- **SHA256SUM:** 09ceabef047deee8749ad1005d330e8358b828fdddc9659de672279449045899
-- **B3SUM:** 56b6e0444a24ec6337cf64ee37b065e84e51cd2fe3ef3ca392a4b5904bf2abd4
+- **SHA256SUM:** 425b1385cce7a3b05de14310409064912e0e27e24b2a4e124880588fe52fb3df
+- **B3SUM:** cd14bf9d898d0b5f1f86c0add69b5519f4ed8c00df4e96b667adc2848bf10a92
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/kubemetrics
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 41079
+- **Stars:** 41080
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -2930,7 +2930,7 @@
 - **Description:** 👾 Fast and simple video download library and CLI tool written in Go
 - **Author:** iawia002
 - **Repository:** [https://github.com/iawia002/lux](https://github.com/iawia002/lux)
-- **Stars:** 22791
+- **Stars:** 22792
 - **Version:** v0.22.0
 - **Updated:** 2023-11-06T05:54:09Z
 - **Size:** 16.49 MB
@@ -2950,8 +2950,8 @@
 - **Version:** v0.1.7
 - **Updated:** 2023-08-23T05:40:44Z
 - **Size:** 13.94 MB
-- **SHA256SUM:** 1b3f85aab701b7d1f3729d109ff0d30cc378c1183d1ad11089a9551473b6db89
-- **B3SUM:** 07e22d15b78f550edb457a2369944bde105945f4a34c6c671cf1c61c59df657d
+- **SHA256SUM:** 2957f65b91d5355e7243684378f2a690819c69224620b8b4c1abc1c60be02356
+- **B3SUM:** bf0a2733110a3e1edce5951a2566201db081f55cdfed3c0266ebb12b6f4935d5
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/mabel
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -2965,9 +2965,9 @@
 - **Stars:** 977
 - **Version:** v6.1.8
 - **Updated:** 2023-01-09T15:11:08Z
-- **Size:** 2.54 MB
-- **SHA256SUM:** 27bb9ce04bf510ce1537493918efcc9df1eda89c719b6764fe8a2655b4dcdee3
-- **B3SUM:** ca3767a5e763a2a7344dcd70e17a8b0fc8dde8d9c63cd586f8ffa52e08ed63e3
+- **Size:** 2.85 MB
+- **SHA256SUM:** ec68b7c8f4e583d539019edb146f9a7e741d18b4dbc9659480eccaa87c1715f7
+- **B3SUM:** e9e9a9af49ce55ae5f2ed098448ad739a0e0bdbb764a373c4065852be71f626c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/macchina
 - **Language:** Rust
 - **License:** MIT License
@@ -2982,8 +2982,8 @@
 - **Version:** v0.7.0
 - **Updated:** 2023-05-29T20:47:22Z
 - **Size:** 22.10 MB
-- **SHA256SUM:** 38da71c88be2e202135a65d1b157d88c33f760c60ffc2fb6c4b2739329b94b88
-- **B3SUM:** e034e1a81465ff766c2de9068c5ce9b91578300e0a1a4300cda0810218fd4e38
+- **SHA256SUM:** 44df22db767bf9d7318c2c9854cef8461848dd146657796010ac7410cfb94e63
+- **B3SUM:** b79c0a689f4e7fbb064dd390b170856308853a5de5c9ce9ec8ecf22e50d19faf
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/maddy
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -3030,8 +3030,8 @@
 - **Version:** v1.1.16
 - **Updated:** 2023-11-23T07:59:56Z
 - **Size:** 20.09 MB
-- **SHA256SUM:** 2fb4846693e64c53b91a7aafae78978edd263a28545445f6a3152c7acfaefcaf
-- **B3SUM:** 0820457ad3c775af4567e315aa4f8592583069784cc93ddd9270f2336485c2df
+- **SHA256SUM:** 228f73f87dd16ae77523bfb22a96d691bf372bf0894f2e6b6b986b7c6a339c49
+- **B3SUM:** 9c24dd3706eacbfe62efc8c4724c18a75515c750f41a656d98dfd159c87c694d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/mapcidr
 - **Language:** Go
 - **License:** MIT License
@@ -3042,7 +3042,7 @@
 - **Description:** A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - **Author:** blechschmidt
 - **Repository:** [https://github.com/blechschmidt/massdns](https://github.com/blechschmidt/massdns)
-- **Stars:** 2863
+- **Stars:** 2864
 - **Version:** v1.0.0
 - **Updated:** 2021-10-08T17:02:48Z
 - **Size:** 0.14 MB
@@ -3106,7 +3106,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23241
+- **Stars:** 23242
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 10.83 MB
@@ -3122,7 +3122,7 @@
 - **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-- **Stars:** 5254
+- **Stars:** 5255
 - **Version:** v0.24.0
 - **Updated:** 2023-07-06T08:50:57Z
 - **Size:** 1.30 MB
@@ -3190,8 +3190,8 @@
 - **Version:** v0.14.1
 - **Updated:** 2023-08-29T17:33:01Z
 - **Size:** 8.49 MB
-- **SHA256SUM:** 215ece872daa2342a0f82fa52c89b28ecd54810c0efc38a70e3dfbe250e159a3
-- **B3SUM:** 613e8241df8e5e05cbb2734b4a39ff9f6f1b318c625c5fdcf9880e504cc1346d
+- **SHA256SUM:** cee9866e0f9bb6af581599de78041f80d77eaa7a96ccb16aa17ce08e48496003
+- **B3SUM:** 84535fcc9a76aa280508ec4727db928a0300f09d4b7828769faaa66b71d0dda4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/mubeng
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -3206,8 +3206,8 @@
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 0.52 MB
-- **SHA256SUM:** 458fcb2ba86eb5024587bbc6677eeb1e994ec358de7d11df499a244c73fc1c1c
-- **B3SUM:** dacee9ceeaa20c0328d270bd5e55a9d8c92a85347d76a2d8b2a809c6b4585e77
+- **SHA256SUM:** 699ec6c4ee3925e092917540c5152da5ca37efbdaa7a7bc30ff20fea9161f96d
+- **B3SUM:** 8254663eebcaac3451059932e616072b4d7d23f5c9d3ce4f9a5c568e82e3ebf8
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/neofetch
 - **Language:** Shell
 - **License:** MIT License
@@ -3234,12 +3234,12 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7280
+- **Stars:** 7281
 - **Version:** v0.25.2
 - **Updated:** 2023-12-22T10:26:54Z
-- **Size:** 21.35 MB
-- **SHA256SUM:** 0051bd1e04dc0b952a1b6484383432e22775b3e9655abb4d3d3e5fe4b69d0e4a
-- **B3SUM:** d22d8126d120f4b49e64b76a427da419b7f0a9b6c2a013872e88fa8b3ab0b257
+- **Size:** 21.48 MB
+- **SHA256SUM:** c7b024517d29ab0dc8ef684dfa1a902ea6ea8fee136c685763824159dc23bae0
+- **B3SUM:** 09e7c15ae1bb3045e44db71cac59c51bd4075535ad4e69e9115ebc21003091ff
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/netbird
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -3254,8 +3254,8 @@
 - **Version:** v2.1.6
 - **Updated:** 2023-12-02T12:20:02Z
 - **Size:** 4.06 MB
-- **SHA256SUM:** 64a057e8a12d99e94255c9696ffb8edc57920e3a17a07894fcf0f085161aef8f
-- **B3SUM:** 3287e8a8acaf530d05fe4486db3bb83a9249134331194fa1d0453e0692a5e7ba
+- **SHA256SUM:** 6a2ebb79f8831fc39dd13065cd88099d3c455bcf0af47e6e0b6da4570b53ac27
+- **B3SUM:** e625ddf5d7f31d6d0df61fb74df7769325d25c542af1d92d022b580d271db6c8
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/nmap-formatter
 - **Language:** Go
 - **License:** MIT License
@@ -3302,8 +3302,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 3.81 MB
-- **SHA256SUM:** b01689398e24c181f931e0d5ba474a8b233075a9df8f714b8283a959f2dab033
-- **B3SUM:** edc2f08174147a21423fd2c300a3822a462bfb452dd22ba6a74cad72a7560bc8
+- **SHA256SUM:** fa3b0e43614546d63519d9be44d5cf12c8dba6c619c94cfcb551ad5e72562def
+- **B3SUM:** 1fe4d14902bc100dc8023eca53a8faea20c68ca4d92c1fe2a5f43fe3a6cfba62
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/nrp
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -3349,9 +3349,9 @@
 - **Stars:** 760
 - **Version:** v0.3.7
 - **Updated:** 2023-12-24T03:01:35Z
-- **Size:** 2.21 MB
-- **SHA256SUM:** 31b9f066d5cd8262bacdf2434301978ccddf236715924ce1ae1788a8b28e69dc
-- **B3SUM:** 648c570db8af248ce76a0aa9911d7dfe100c91cbfbe88c75036ca73dcde46f40
+- **Size:** 2.22 MB
+- **SHA256SUM:** 8569dd342f10d98cd9d9f13922d53030431d821419de1ea612f8f490312741f1
+- **B3SUM:** a5aedec54ab7ae29bcdf4a2b43912b122bbf1a6059dd1b35b8d36b6fd00a72db
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/onetun
 - **Language:** Rust
 - **License:** MIT License
@@ -3366,8 +3366,8 @@
 - **Version:** v0.0.1
 - **Updated:** 2022-12-23T14:50:22Z
 - **Size:** 7.96 MB
-- **SHA256SUM:** a14f3b606a6e01b4da3e33da7a8115f116489f1b8d2ff3325a29a9cedfded4bc
-- **B3SUM:** 78b29dc99512394edd17f45acc99be9ec9c513f4d165006ae4804732a4e633c0
+- **SHA256SUM:** cf471806368ada9626709c1c1865759ba40a24066153d721cfed4d7d61535563
+- **B3SUM:** 0cd1376280abf5672bba4bfa7f3f26f5462b56c8f2b5b45a7f62d16afc22aaa9
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/openrisk
 - **Language:** Go
 - **License:** MIT License
@@ -3398,8 +3398,8 @@
 - **Version:** v4.6.3
 - **Updated:** 2023-12-15T11:45:54Z
 - **Size:** 25.64 MB
-- **SHA256SUM:** 8302c838ec18bdc4a3c14408544107ac8c3483de622b0e57b7a9864d9570537f
-- **B3SUM:** b9d5d4ff2d7a10332618ba3263d483149ce59990ee766f800eee4c1e2906d429
+- **SHA256SUM:** 041e559ad9eac617a2ede2c1ed610765d220594c1d6a99a8497875396109e165
+- **B3SUM:** 28a75aa3aac801c8a20af6cc30f8091101076071b42a2d5665d12ebeb24fbbe4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/osmedeus
 - **Language:** Go
 - **License:** MIT License
@@ -3462,8 +3462,8 @@
 - **Version:** 2.5.1
 - **Updated:** 2023-10-13T10:50:35Z
 - **Size:** 2.12 MB
-- **SHA256SUM:** 53cbe1d50103e45ced10fa83a53e95724addf6c73682bb095bac0ba8dc7b0f10
-- **B3SUM:** 7ac56f102eb1d294d717affa2745942ca1a81378e35db0746543bf23e0bc5656
+- **SHA256SUM:** b088f72946c0917cf31a1ae8c322df2b54339e3a07fd10ed302a9c32c95c377d
+- **B3SUM:** 7fd608958a09a8aad2b5070201a4db31ed12efb1212e3267f1d35edb7755670d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/pkgtop
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -3494,8 +3494,8 @@
 - **Version:** v0.0.3
 - **Updated:** 2021-12-27T20:05:06Z
 - **Size:** 1.29 MB
-- **SHA256SUM:** 4baa82b4b63783ee845caec4178b02220a9c6bf81c03a272c1bd33875fd516f7
-- **B3SUM:** b3958fc811d4e367a1f69abbacde064ac1ff02a0be946413543dc28f4c6d260d
+- **SHA256SUM:** b72216fe12aa27bb6316f6be4957394b924605e2c8ca5b0747d8bbc8def94693
+- **B3SUM:** da705cc33aca7fd040c0d499461ba79c0269e774a50c1ed56a728527e883cada
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ppath
 - **Language:** Go
 - **License:** MIT License
@@ -3509,9 +3509,9 @@
 - **Stars:** 536
 - **Version:** v1.0.2
 - **Updated:** 2022-12-01T20:59:05Z
-- **Size:** 2.66 MB
-- **SHA256SUM:** d9c1c29c97d4e33e9e27f8dd399b0edf05456ed8e6b27c9db6a6c359b298a82d
-- **B3SUM:** 64c9f45b76d738aa792a05937654af93a439161fecc1b1073efd97ca832d7273
+- **Size:** 2.67 MB
+- **SHA256SUM:** e77a960768ab1ad94c63de82675311c023d55bd1e3ec47d650228b5233f577e5
+- **B3SUM:** 5034e4f2fbab6b5ddd064550260121b2f5371bf4b09d4e1a00e1d25c63518cbd
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ppfuzz
 - **Language:** Rust
 - **License:** MIT License
@@ -3542,8 +3542,8 @@
 - **Version:** v0.4.1
 - **Updated:** 2023-12-22T14:51:27Z
 - **Size:** 5.60 MB
-- **SHA256SUM:** 4cec85e6090f1666118071e4150caedd1854beb3163edcbd0e476ce3ed57b4a8
-- **B3SUM:** cc576386c59fb9e4b59f190d7f10547049d4f9f61b91e8391c049a795134c7f2
+- **SHA256SUM:** d0572191d323873b797808b3c214983f52d44be9a5895fdf36f4bd862154ec8d
+- **B3SUM:** 1ff7372ae29f5a99e7e448787a9b79928a2921a4ab6ab3e69c239600d8ef1d25
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/presenterm
 - **Language:** Rust
 - **License:** BSD 2-Clause Simplified License
@@ -3570,12 +3570,12 @@
 - **Description:** A modern replacement for ps written in Rust
 - **Author:** dalance
 - **Repository:** [https://github.com/dalance/procs](https://github.com/dalance/procs)
-- **Stars:** 4445
+- **Stars:** 4446
 - **Version:** v0.14.4
 - **Updated:** 2023-11-24T00:58:03Z
-- **Size:** 3.47 MB
-- **SHA256SUM:** 295ca43fae1c3aaef706d757a25808675e5dc6c5b0418e04f69a40dcb3a0829e
-- **B3SUM:** 89c1c6c5791704481241d054af0c1f951af4dffccd85e50d4963614301d9da96
+- **Size:** 3.48 MB
+- **SHA256SUM:** 26c6115107805d33f1c8bade0b76ce002073a559387603b9ee85cd9c754291da
+- **B3SUM:** 3b03642105dbfb9b7f07d6ae9e082b82d0afb8841321c253862fceb766c19a9f
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/procs
 - **Language:** Rust
 - **License:** MIT License
@@ -3590,8 +3590,8 @@
 - **Version:** v0.0.12
 - **Updated:** 2023-08-12T20:48:49Z
 - **Size:** 34.42 MB
-- **SHA256SUM:** a681affcec068a4088bdfd92a310a2aeb8243b369358588bf6e71543fbda6dcb
-- **B3SUM:** 194f5b7fa90e974a4b433e01302a51a83b9b288a5faab8e092088bfb73bfdb82
+- **SHA256SUM:** a62edb836aa4ca1251ddf9ba1d5860024cbc734cb6fb918894dc3b035e563892
+- **B3SUM:** db3b16242b86c21164b923e9db3a47a97cc66ba420ba05d90da953dd821b347e
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/proxify
 - **Language:** Go
 - **License:** MIT License
@@ -3602,7 +3602,7 @@
 - **Description:** :stars: Manage your shell commands.
 - **Author:** Nukesor
 - **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
-- **Stars:** 4062
+- **Stars:** 4063
 - **Version:** v3.3.2
 - **Updated:** 2023-11-28T16:10:32Z
 - **Size:** 2.21 MB
@@ -3618,7 +3618,7 @@
 - **Description:** :stars: Manage your shell commands.
 - **Author:** Nukesor
 - **Repository:** [https://github.com/Nukesor/pueue](https://github.com/Nukesor/pueue)
-- **Stars:** 4062
+- **Stars:** 4063
 - **Version:** v3.3.2
 - **Updated:** 2023-11-28T16:10:32Z
 - **Size:** 2.27 MB
@@ -3634,7 +3634,7 @@
 - **Description:** Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - **Author:** d3mondev
 - **Repository:** [https://github.com/d3mondev/puredns](https://github.com/d3mondev/puredns)
-- **Stars:** 1471
+- **Stars:** 1472
 - **Version:** v2.1.1
 - **Updated:** 2023-04-11T18:09:27Z
 - **Size:** 7.06 MB
@@ -3670,8 +3670,8 @@
 - **Version:** v0.0.3
 - **Updated:** 2022-06-23T20:16:33Z
 - **Size:** 1.29 MB
-- **SHA256SUM:** 577b3d01737985ab602cfbff0553715e99ec4c37d8acdb1b7f515266fa2463d4
-- **B3SUM:** b12b54ec9a0e10713b8b42993787d4f09b8f7631dba1b686810f5aaa62935e52
+- **SHA256SUM:** ebfa33161a5ab2390b57cd2b05512d416ff063cecfe8f1ef6a867ba308763c01
+- **B3SUM:** 40f79339a1113d31aa1507048ccd2e2fdd1f1e3a52a7d71fb25813f32d664a37
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/qsreplace
 - **Language:** Go
 - **License:** MIT License
@@ -3682,7 +3682,7 @@
 - **Description:**  analyzed.
 - **Author:** jqnatividad
 - **Repository:** [https://github.com/jqnatividad/qsv](https://github.com/jqnatividad/qsv)
-- **Stars:** 1789
+- **Stars:** 1796
 - **Version:** 0.119.0
 - **Updated:** 2023-11-20T04:48:29Z
 - **Size:** 11.50 MB
@@ -3702,8 +3702,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.31 MB
-- **SHA256SUM:** 0fac8887e53e0e43de1ea8b71e3359a52c2d7e070ef99125816763adf89128a5
-- **B3SUM:** 4470510d3df90c48b410a524c737fff663efe0aed52b6d1546cf4c37389c6e8e
+- **SHA256SUM:** 52d4b455dd34279a8bff9ea21bab33792f17316ba8139741b0f33650d28497bc
+- **B3SUM:** a74967624ab5a29f5fc84fef293dd608fc348a1835319b877468db18c3539642
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rate-limit-checker
 - **Language:** Go
 - **License:** MIT License
@@ -3765,9 +3765,9 @@
 - **Stars:** 190
 - **Version:** v0.1.6
 - **Updated:** 2022-01-03T19:06:56Z
-- **Size:** 9.10 MB
-- **SHA256SUM:** 02f258b5429815e3387927548aec2008f58458a1d6ca6c3c0ee952e5c9044588
-- **B3SUM:** 97e8466d4fc50e50bb5c1eb8ea1da89fee658441163310c86424e78381e1052e
+- **Size:** 9.16 MB
+- **SHA256SUM:** 5def2b48df04e9e1a516e250833c966bff02ebee6209e885bebf1c5c452683ab
+- **B3SUM:** 0ee1fbd7a8f13471ded9243e255cb77308b127952c8421361299138b2abaef40
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/resto
 - **Language:** Go
 - **License:** MIT License
@@ -3782,8 +3782,8 @@
 - **Version:** v0.0.1
 - **Updated:** 2023-08-09T18:21:20Z
 - **Size:** 1.92 MB
-- **SHA256SUM:** c4ec15732185ef1754b120fa7eb4dd4b5f067754d8ea7f778b929203db3c32ec
-- **B3SUM:** 93615b29699435098dd63d1dcb176e5517326e75ddfcc2dc1a5c64d9a0607d2e
+- **SHA256SUM:** a2f179cfbcb895583e7961cde5eec3314d8eb2dc9947a74d74ee6c8e2d98d65f
+- **B3SUM:** 36959b8d915b488806336ada2b94c7463afe467dd10519ef65ad15dcda40c859
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/revit
 - **Language:** Go
 - **License:** MIT License
@@ -3829,9 +3829,9 @@
 - **Stars:** 246
 - **Version:** null
 - **Updated:** 
-- **Size:** 2.07 MB
-- **SHA256SUM:** 6af65729ca8db888a36445bd3a2c7e970a196d9faf7fe6ad74fc9a759b4e5bf5
-- **B3SUM:** 1f283e1e05c70e71379ba6cec9d4ab192c4cad1051118568d9ce4f4a10ab54e9
+- **Size:** 2.08 MB
+- **SHA256SUM:** c40fc73ebe708091889a27ea2f8744194bd7e3765df64ed9efb3b0ddc4b3c528
+- **B3SUM:** b4988fbaa6774d92fd67a937d0a5bf6fe69f59668789b919dd4d2b86278ad01d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ripgen
 - **Language:** Rust
 - **License:** null
@@ -3846,8 +3846,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.74 MB
-- **SHA256SUM:** 1b8a2f400b0e8d02dab75c62dafb7e10e830c3a25c8c7b22a80cc1478542153b
-- **B3SUM:** ffb51aa21496c7a6c2b460431d4280a3d3571171549f9935dd457f610d442950
+- **SHA256SUM:** 249cf2cabef6d2e23b4517b5f1f1edf8173b5c793d5f69fb3bbac6c9c261fc37
+- **B3SUM:** 8c22216d3664b94f0e96f2d7f2beac7b391ceda7da8f8032f783ae55b4d37a01
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/roboxtractor
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -3974,8 +3974,8 @@
 - **Version:** v0.14.4
 - **Updated:** 2023-12-20T19:53:54Z
 - **Size:** 5.23 MB
-- **SHA256SUM:** 20f9bad8ba0953bd00ec408b4ae0c56ac77a3d3389670a2fc69505427bc41cc1
-- **B3SUM:** b2bae215bc6437201f2494122b4f5fc9507d3545e85aa14617284cef8e1edd16
+- **SHA256SUM:** b95dff85a2b514db1413043a9cc04cc18d3444e048134ae14b1eaccf5afafbab
+- **B3SUM:** 45f8b4d927e549a48114c955cc0ae4b620bcebb49e4ac75301e5c90832e1eed4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/rustypaste
 - **Language:** Rust
 - **License:** MIT License
@@ -4022,8 +4022,8 @@
 - **Version:** v1.2.7
 - **Updated:** 2023-04-01T08:14:18Z
 - **Size:** 10.86 MB
-- **SHA256SUM:** 511f45a3848cd19a34a5c1df4bdc311c151365257720f9e5c02a9eaadebc3f1e
-- **B3SUM:** cdcb5934b0905d0740ef8b8c44b49f327175bbe41227dc9b7c72f04ee54a3611
+- **SHA256SUM:** 2e8af0d77dd7b8232c47c2f10a5d365bd750833620a20b4a18af2344a4391176
+- **B3SUM:** 5daee5065f5b13e92bed090c9b47925eb2888a2e80a67113dacbbfd2cecf6fc0
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/scilla
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -4038,8 +4038,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.35 MB
-- **SHA256SUM:** c6dc301c4860ad61423175cb488db60624a1942c2f870868e2a61c8a7e44fd8e
-- **B3SUM:** 381de5da99e273e724f65d59e04617fea768d67c614c1ee4cecffac781b9d5c0
+- **SHA256SUM:** 06c33061211830318e21b877d5716f0aa150a3667ccf3ab825038ce8e639dc2a
+- **B3SUM:** 22ae161cd51abc49348ea4b09b1ffcea3b0167de14126a8a019b259a291c3760
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/scopegen
 - **Language:** Shell
 - **License:** null
@@ -4070,8 +4070,8 @@
 - **Version:** v3.9.1
 - **Updated:** 2019-11-12T22:02:38Z
 - **Size:** 0.25 MB
-- **SHA256SUM:** 522b73ff063cea5ccb751b2d65b53be3d85c2031c672049fef4acb88cd55e94f
-- **B3SUM:** 2b2f86690ae8bb5cb57f93adc349c044ee8b80bc61c80d9f8941f19c2746508a
+- **SHA256SUM:** ad1ca95a5e236aefee3fca8eaf2e4910e0093b233c4b4ccd355d3a714f02d3c7
+- **B3SUM:** 1eeb4a1a03a1f40c571a09e645a298ddf5b8e0e3f76b35041d4d25c99a201337
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/screenfetch
 - **Language:** Shell
 - **License:** GNU General Public License v3.0
@@ -4102,8 +4102,8 @@
 - **Version:** v0.6.2
 - **Updated:** 2023-07-31T20:04:07Z
 - **Size:** 9.12 MB
-- **SHA256SUM:** c902a1db6ada5ad475e45df50bb9f93fbebc8b512099be4883d949dcbbb6bf0a
-- **B3SUM:** 4acf286f4e62d360c34d98b4d00d6fc31e870afa7bb3afbdfaa4e8af7d9e140e
+- **SHA256SUM:** 76b8320195087a75713a60e3a03487b81279b45830b574b9ea574ba65e4e8e60
+- **B3SUM:** 8e820c114395c87da5fcc22f21a9908405d97ba8a343ac5255b9143d20b7578a
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/shortscan
 - **Language:** Go
 - **License:** MIT License
@@ -4134,8 +4134,8 @@
 - **Version:** 0.1.12
 - **Updated:** 2022-11-13T21:50:58Z
 - **Size:** 13.45 MB
-- **SHA256SUM:** cfc32a792ae8892bb20df46e433e5cbc120de6aa6a587161a2d51aa10394ca77
-- **B3SUM:** b38ed935a577f14eac7539d8fc714dc2987115a11ba2b5427de0d93b375109b3
+- **SHA256SUM:** 57154b3558f10f61a520d50e65382654102e29b4a76d8c7a48a4086bd88ffa91
+- **B3SUM:** 1a069ca64f13423cf009ab3fd76bf5f3337f4496e4030767878300e8a1334033
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/smap
 - **Language:** Go
 - **License:** GNU Affero General Public License v3.0
@@ -4150,8 +4150,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 7.58 MB
-- **SHA256SUM:** d2767049edded631d4990733ef45b9420fa773a6bee37943ef837cde4276f354
-- **B3SUM:** f87eb37dcf385940aa5f2a6d163e20b7db46436cbd4e1d05b98bc051accfad18
+- **SHA256SUM:** 0b48c28635c5796fdd4360cf411d83f7e6b2a1fe978d7700414ab50cede8b851
+- **B3SUM:** 11c6cf44137b7e0ee5ec5dae0d4b88a259b78fa597d9e4389a1ff0293e0a21bd
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/sns
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -4166,8 +4166,8 @@
 - **Version:** v1.6.10
 - **Updated:** 2023-12-25T21:01:47Z
 - **Size:** 6.25 MB
-- **SHA256SUM:** 40331ffbbf9acfc29e774fb92297e5d5806892d84f0024008864b8aab8da7adc
-- **B3SUM:** e44edd45d9f416035eb89fce4476700986ab336516ef2ed4dddbcf2f8f964c42
+- **SHA256SUM:** 5561494a38cafc60a1966f2789e90e1e2c7573292f33585a888454fa44215ec5
+- **B3SUM:** 053b7f0faf503ace43a6a3fc544a85ee690e89f7ab0950699877bb75232a7709
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/speedtest-go
 - **Language:** Go
 - **License:** MIT License
@@ -4182,8 +4182,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 6.23 MB
-- **SHA256SUM:** e79acddad36f0572ca4b4523134ba929a6b28f33008f4ab5d103bdc8cfff6c05
-- **B3SUM:** c8b2b315640208bea4993a3b12c7198797cbff6fe1e3ce2049507c693e911061
+- **SHA256SUM:** 310eef80f4dedb424753bc950701608c977acb2c9789b873a80ff9e6edbc2584
+- **B3SUM:** 54bc580113e2320903941ec5dde009252b35ef323ba579c7fd529b1dc3bb013d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/spk
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -4198,8 +4198,8 @@
 - **Version:** 0.8
 - **Updated:** 2023-09-08T08:40:10Z
 - **Size:** 4.78 MB
-- **SHA256SUM:** 8af472dfddf18577338ae3cfa7ecbe843f2047975996cefbd3c4fcb320f5fec5
-- **B3SUM:** 61d7046fb655a275461156c12ada8cb64c288ee84d5de73a9cd1b427e4ccaba9
+- **SHA256SUM:** eb3696b6c691b1eea4f4c292b28bbf9018371484b131911bdd5ef5e5ac1ecf65
+- **B3SUM:** 12585d15e9575699f424dacd6bee3ff5299657fdbcc1a4cc022d87372b08cacc
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/spoof-dpi
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -4214,8 +4214,8 @@
 - **Version:** v0.0.27
 - **Updated:** 2023-01-18T09:25:26Z
 - **Size:** 8.72 MB
-- **SHA256SUM:** 8f4f461d36bfb575c3babdbd2557c70c01a5131ab405b5e29e3676355514d62d
-- **B3SUM:** 6f2db746a3ec3c0ab15781c8fdc0656dff70ba66565db5eed7348511a1b668fb
+- **SHA256SUM:** 6a5aa0f559509fe61c1e7aca7c8f6c904297229af94fa1e608e7475c4b28c11d
+- **B3SUM:** daaef5d4dcd853babe9047e23e218f681f061ae35227d787135a6d299a7b2f8d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/sshesame
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -4246,8 +4246,8 @@
 - **Version:** v1.19.5
 - **Updated:** 2023-05-20T09:27:43Z
 - **Size:** 10.12 MB
-- **SHA256SUM:** 8186e5befc5bbd6370c7451adfd59843f941c473ca88133f9e05771947830707
-- **B3SUM:** 18703bf4440b7e486ee31bc9c44e135776d0326be1765faafb29e99f03aab01c
+- **SHA256SUM:** 0915019b10d4e7f20dbbcc78c805d17faaab3385d36be55fc567cfa7f05562fc
+- **B3SUM:** 58d2d9d712f7ada34b50dfe693759a3ce9e38f4ba4541a5a5f6c0cd4f5fe7f68
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/sshportal
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -4258,12 +4258,12 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 38247
+- **Stars:** 38244
 - **Version:** v1.17.0
 - **Updated:** 2023-12-28T18:30:26Z
-- **Size:** 7.40 MB
-- **SHA256SUM:** 30fbaa5266b1cf31ab58b31f12d11063788ce418cc40857186273406c9a2453b
-- **B3SUM:** 9bf776401a73b1d12daa704888ffa4d5e475fcedbee94bf8d6ee0c1795135ac7
+- **Size:** 7.76 MB
+- **SHA256SUM:** 8cbcd1cc98a3d472f306773c8d57dd394ec69244f7be98c0e5d19e7bcc406e40
+- **B3SUM:** b29d36dbc66ab90dfa62f91279be83801f2c720672ce31ead3b82aa120e5bd6c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/starship
 - **Language:** Rust
 - **License:** ISC License
@@ -4278,8 +4278,8 @@
 - **Version:** v0.3.0
 - **Updated:** 2022-03-08T05:31:09Z
 - **Size:** 7.82 MB
-- **SHA256SUM:** 0687354fc7114078103ee59ac195bfc09eb5e3ec4fba5cc7997e7fcbfe51d725
-- **B3SUM:** 35840e94c845eac925cfbdc26bee848b96d626194d061260e346a9f9a21de581
+- **SHA256SUM:** 8300f30d849512c68ae47a1d642ded1ce3b654461d98c19e87e12706600c7f7e
+- **B3SUM:** 597eecb151ef0374e5b5aa122212242316e046479573ad3fe1431535eeddf2ec
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/stew
 - **Language:** Go
 - **License:** MIT License
@@ -4342,8 +4342,8 @@
 - **Version:** v1.0.1
 - **Updated:** 2020-05-16T17:11:45Z
 - **Size:** 4.80 MB
-- **SHA256SUM:** 7bbc538536f1ca00c780070d2eadc2a5c59b6f14838d8347bfd2be5b4b35dcd1
-- **B3SUM:** 8c9b9d040d3f957c50d5b996884cdfa79fe641105ee5d486ce16d25008de4552
+- **SHA256SUM:** 0aa733ce73a61edcfd7a26cbdb7f496035fbe0c58cfe757e9c0a8ea267702fdd
+- **B3SUM:** afda09095c0804bc31c7c25399f897e6507696a664e16863b4cf9e1e9f6878ec
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/subjs
 - **Language:** Go
 - **License:** MIT License
@@ -4374,8 +4374,8 @@
 - **Version:** v0.0.5
 - **Updated:** 2023-06-17T07:23:34Z
 - **Size:** 31.78 MB
-- **SHA256SUM:** 2cd4da8696211d7e8715469aca9888093931506c54d20a54d8cfc8997c4e2363
-- **B3SUM:** 8700aa1a42931bde8a8707898f433e2284724ce112513cdee51f3b8cffd99955
+- **SHA256SUM:** cff1509c548f3536b00c4224d4208802f04a0e20483be594b455b59a1bf5b1af
+- **B3SUM:** efdce00d2f9478f4a3fd015771f076e8a66c468e72167de1f76e98ca4194d3e7
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/surf
 - **Language:** Go
 - **License:** null
@@ -4390,8 +4390,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 3.84 MB
-- **SHA256SUM:** c61f3cd0bd472638bc2a9dabe319ecbce147722f10ccd5a1160b2c3dbd469ed8
-- **B3SUM:** ca4350a9bcf77aef79c2abde6de6808d4b711e1ce74f0eaa040e92c9305ca070
+- **SHA256SUM:** 4224bb9dca95630e674a456ac56aafb8a002350e7b9bf3f61d2bee28b67b1362
+- **B3SUM:** 5c1edf19735e7068d32d009199119eba75771844807ad135b34d52aa46181eda
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/systemctl-tui
 - **Language:** Rust
 - **License:** MIT License
@@ -4422,8 +4422,8 @@
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 3.94 MB
-- **SHA256SUM:** e1e1cf8e5c4aedce2d3697ed1ea2247827520a7d731b09f032ba3421df77d93b
-- **B3SUM:** 601acc4dfd24c57bc7b56f7fabcd8017e75a32dbbf7a805cae74908c545adcc4
+- **SHA256SUM:** 03515b9754a1ed1f20112df1c9dd8f9bdac3af4f384ebc53fc3b8a6d37063b60
+- **B3SUM:** e68c1630b37cc7bfe44881bcf588a56126fefc48f3563e871dbe95d5f471134b
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tahm
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -4466,12 +4466,12 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 3764
+- **Stars:** 3768
 - **Version:** 2.2.0
 - **Updated:** 2023-11-19T15:04:41Z
-- **Size:** 2.62 MB
-- **SHA256SUM:** 2c3fd0e29e6bd89b8035a40383ce9fab48d5d1f39a65bbd9b9a671dce3cb9fa4
-- **B3SUM:** 28c7e1fe4837cafb44ba7159d28e089f7b77500620f1de50adf970d75af85600
+- **Size:** 2.61 MB
+- **SHA256SUM:** 553843d1a0d8ba115fd95a00880b0aa6d63c000190b76d41e6deb4a6dc50a12b
+- **B3SUM:** 5d88e089fd1ec4257b41bf9706422b7f8c42a25140f8d14e1fc9c68b5d970502
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tailspin
 - **Language:** Rust
 - **License:** MIT License
@@ -4485,9 +4485,9 @@
 - **Stars:** 2626
 - **Version:** v0.14.0
 - **Updated:** 2023-12-24T16:53:24Z
-- **Size:** 32.31 MB
-- **SHA256SUM:** bfebca1460f59b2743f9e546d15dcc1f6223962cb46972fa629709644927bd3b
-- **B3SUM:** 1c8f538d3692f641ce2c486f5cf831252eb2c7ee84ad3da4635f863e68e8b0e5
+- **Size:** 32.65 MB
+- **SHA256SUM:** ecde483c623b9ae8e92b2a701beea205c883fe25e77208aeb677b1ac6fb0ac2d
+- **B3SUM:** cc759ffcc9e095bbbd25758bcd1df85fa758ab4954f5e98e339253c4a3d32f48
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tdl
 - **Language:** Go
 - **License:** GNU Affero General Public License v3.0
@@ -4566,8 +4566,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.29 MB
-- **SHA256SUM:** e663c9720e23ea22e0f24616819839cd92bf18bce9e5bf05a6aeb18df561b55b
-- **B3SUM:** 14a547e785c971d8e518c61dd601cf6a92a9ab60efea866280e31bb8aa5fb2e4
+- **SHA256SUM:** 2533da074d8a4810e9ac81fe3d470426921114ea8ed16e85cd52028be73e2061
+- **B3SUM:** 430906e09e5899937d8a67c223e2502aae38f6770f59c116bb17b5a42d070ac4
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tok
 - **Language:** Go
 - **License:** null
@@ -4678,8 +4678,8 @@
 - **Version:** v1.0.7
 - **Updated:** 2023-02-01T16:25:35Z
 - **Size:** 2.06 MB
-- **SHA256SUM:** 35df41ca331387bac895dcc34e61edfc3b8da397e0d48ee2e28f37e1afd5b9cd
-- **B3SUM:** 3e89f05be5c42a24b5b7e7b6630de621539593efc28087fd4583151f4483ae01
+- **SHA256SUM:** 2b58cd341f88acb95724dbbb8dc19b9d5eba6841da20c2403793213ebfc6462f
+- **B3SUM:** 349608c6180a1b9026c3ef960120c90be60f6f8802fa7fb6f9cabd1dc424564b
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/udpx
 - **Language:** Go
 - **License:** MIT License
@@ -4710,8 +4710,8 @@
 - **Version:** v0.4.3
 - **Updated:** 2022-07-19T14:36:40Z
 - **Size:** 4.68 MB
-- **SHA256SUM:** 1bee2c6da692f7124481e74bc6efbc6e6db5a909418e11ee403ca96f8a39711d
-- **B3SUM:** 067fafd67314907ef61e9f563628ed81fa14f8d6eb32e8a63b9c15a2ca37c353
+- **SHA256SUM:** 52f9137e6b6bf3c25086ef183d49e152a60734441b9c770d2c752cd3736f4954
+- **B3SUM:** 2f3c003eb807d5cb73dab4f7521ec8ffa4c1e200a4d48acc5d49b75f3e5737b6
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/unfurl
 - **Language:** Go
 - **License:** MIT License
@@ -4758,8 +4758,8 @@
 - **Version:** 0.2.0
 - **Updated:** 2021-06-30T12:29:46Z
 - **Size:** 3.67 MB
-- **SHA256SUM:** b158d7d64f0b1ca82f08d99914007ce16247d79f331081974d14c7c9817970fa
-- **B3SUM:** bd64c6799a9d0e18967a2d7bf7ab9837f918b1aa1d265d8466531720192e40ed
+- **SHA256SUM:** 7d9260424fba246af154c0a6ecc49f23ea398f3c4a708630606fd4c756478d3f
+- **B3SUM:** a862052f49f95a3a6abd59ad82165ae183dfcad4cb5d9eef2962ab7c9d37abce
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/validtoml
 - **Language:** Go
 - **License:** MIT License
@@ -4837,9 +4837,9 @@
 - **Stars:** 1460
 - **Version:** v0.9.43
 - **Updated:** 2023-12-28T22:13:06Z
-- **Size:** 4.60 MB
-- **SHA256SUM:** cf39ef987842e7c4ebf08771f47ae1d2e35ca148895d83dee2c574173c90afcf
-- **B3SUM:** 65bb1f173fe3c1940a4176532a06d4b2cac684c596fd585d2aea535017f2b123
+- **Size:** 4.49 MB
+- **SHA256SUM:** 342415055fca1e18d225f1e185a80baef78ca1fd7ec0041c07fb871915696943
+- **B3SUM:** 3e33c0105227586f77de9713030ed06de14554aef2c2c5c5465bcc1bc05e62a6
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/vtm
 - **Language:** C++
 - **License:** MIT License
@@ -4854,8 +4854,8 @@
 - **Version:** v0.1.1
 - **Updated:** 2021-03-04T12:18:18Z
 - **Size:** 5.48 MB
-- **SHA256SUM:** c91eefe68378e61179f3a9d6ef7acd9e61357fc382369ee9e48ec286f874c426
-- **B3SUM:** 656a5cb67480dd922f9ef23011e3330dd918b7164858f5d28c34c6e741b318cd
+- **SHA256SUM:** 8c1f4ee268fd40e0d70d061c728cafcc3b9439352f3ad361b29125092cbbdb63
+- **B3SUM:** e4c4373db29e7926a5125de9d071063312c723a075a8185b2fe88250b602e5f9
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wadl-dumper
 - **Language:** Go
 - **License:** MIT License
@@ -4866,7 +4866,7 @@
 - **Description:** Terminal file manager
 - **Author:** antonmedv
 - **Repository:** [https://github.com/antonmedv/walk](https://github.com/antonmedv/walk)
-- **Stars:** 2857
+- **Stars:** 2858
 - **Version:** v1.7.0
 - **Updated:** 2023-10-29T11:07:58Z
 - **Size:** 2.56 MB
@@ -4902,8 +4902,8 @@
 - **Version:** v1.0.1
 - **Updated:** 2023-09-21T15:25:43Z
 - **Size:** 5.13 MB
-- **SHA256SUM:** a338619ef2e11249a7603b004d2b714e8d9821d5102f79993a24b1f34983e180
-- **B3SUM:** 79a2095d8d38f350df0501c9dfa7302c8be07d0eec29f90c47aa0dd2a03e52c3
+- **SHA256SUM:** 4c2a2eaffd7a22a7578706741c61f61824e01c10e3aa3ff9b4a74e65d91f392b
+- **B3SUM:** 5b80aa2094606624e68822cb2d0a9081642e0dcf5c4cf38bff7d58c6a02a97ee
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/waybackrobots
 - **Language:** Go
 - **License:** MIT License
@@ -4918,8 +4918,8 @@
 - **Version:** v0.1.0
 - **Updated:** 2022-04-05T10:19:55Z
 - **Size:** 4.44 MB
-- **SHA256SUM:** e8a832b4138d9ee73e943c99d639464f657ab59f017bed4c740fed94480db0d0
-- **B3SUM:** e3f662472dc9d4387c47648423586966dd75211b04f1a8e6a117165796e4ec99
+- **SHA256SUM:** 3e37c15b66efc99c0721fdf1489ca1a86ade3b4a398c3dac1887e048f52080e9
+- **B3SUM:** a99dd7576320d68c765e79903b0d224784b45e52debf82fd0fc8bdbdc3634808
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/waybackurls
 - **Language:** Go
 - **License:** null
@@ -4934,8 +4934,8 @@
 - **Version:** 1.1.1
 - **Updated:** 2023-12-06T10:46:10Z
 - **Size:** 5.13 MB
-- **SHA256SUM:** c22f0ec7a6288ee3c53100dd26aacb87ab3bacab14b0c34c2c9eff7e75cabb4d
-- **B3SUM:** dc94c8d16378d4408120182a4991f809b37251fdea6314c39284fb5e283538cc
+- **SHA256SUM:** dacf84e161ed8f49d0ff054b8fce6b132d5133b76d3b6764e65cf1357b2b80d3
+- **B3SUM:** 2923f1adb3fab77826f0a2705b8ae60c652cf4b59b4c1dbb71a1be5a40e9ad13
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/web-cache-vulnerability-scanner
 - **Language:** Go
 - **License:** Other
@@ -4966,8 +4966,8 @@
 - **Version:** v0.0.20201121
 - **Updated:** 2021-04-23T02:26:48Z
 - **Size:** 2.61 MB
-- **SHA256SUM:** 901b0887aa558f738233419f4a5c961ab22bcb169ca7061421c5c389dc892f9b
-- **B3SUM:** 0ad576fa8d09c971b067e64621793320371eb4ba56c3282daee84952e9c5a6e3
+- **SHA256SUM:** a93999caf6f07f546634015d104db2b6b485d2ae6e5dc60673320ba5e696f308
+- **B3SUM:** cdd4cd76a4f9de07d0e4a23bfd1462b902c689bc620413ca88f599c0e45e740d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wireguard-go
 - **Language:** Go
 - **License:** MIT License
@@ -5013,9 +5013,9 @@
 - **Stars:** 523
 - **Version:** 0.6.1
 - **Updated:** 2023-12-03T18:11:45Z
-- **Size:** 5.20 MB
-- **SHA256SUM:** a9560ead8341b84b3621721c72c8218f9492a56935bdf93083b4250f92909577
-- **B3SUM:** ff639ad61731078c5b680b89dbf89b47c8aa3623f5ea4fa42fdc0d21ef3e1ea4
+- **Size:** 5.17 MB
+- **SHA256SUM:** 6eda0585add013f80b62c4f9527008e30ecbe2617103c6b8cd466096584bbc60
+- **B3SUM:** 1ec79c8d05f15a49e26875d36bd09a069211ab8ec4ce468e831a2b438528da33
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/wormhole-rs
 - **Language:** Rust
 - **License:** European Union Public License 1.2
@@ -5046,8 +5046,8 @@
 - **Version:** 0.4.2
 - **Updated:** 2023-07-23T17:18:51Z
 - **Size:** 0.66 MB
-- **SHA256SUM:** 1b5beb5b3e51fef956ea000754036a30f07b1d0e0caeded78777fc375b990907
-- **B3SUM:** 8821c393092ebe8d3408a472d63db9394c24a9d16309268bfd8ff4b2fddf2bcc
+- **SHA256SUM:** 43e05f136faf944dd1e89376f480ac8fce3e2affbc4aa8cb07eeeaa498f6488b
+- **B3SUM:** 66e08ad1c7dab6c1dc93c293c4c06f489482e52b4d69627a4cfc4bf6c8f8ea42
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/xargs-rs
 - **Language:** Rust
 - **License:** MIT License
@@ -5094,8 +5094,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 5.88 MB
-- **SHA256SUM:** 59976c80923987ea31cffaa2c0028f96f9f76da9ac3f45575eeb37b4fcd53787
-- **B3SUM:** 0c73078751055b64cf5402a133942d96d6e23c595d2808f7b95d02c50d5b070c
+- **SHA256SUM:** 21542659911fc9d5c869d0b79804d896658d6e94c2ceac92c4efcabdf05f7d94
+- **B3SUM:** f4c87056282ae2d4066a4606da49345e3cfbc85dbde7ffb679d116d11d36fa9c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yalis
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -5110,8 +5110,8 @@
 - **Version:** 1.0.0
 - **Updated:** 2023-02-08T13:45:36Z
 - **Size:** 4.55 MB
-- **SHA256SUM:** 8c49d5c1d71ce9a195521ec55308a57158eb7e9721833fd140cff22763ce14c3
-- **B3SUM:** c7bb353466d839f5becc5e3f5984d664875522f16f648cdd66477842aa5f3244
+- **SHA256SUM:** 203dab13f71b5fdff193edca4fa2f910cb6092250b9f95a5bea8f792273c4a0a
+- **B3SUM:** b065ea5832398ad101caaaaccfa642f7b98a27b96a517ce87d804ec45b0c98c5
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yataf
 - **Language:** Go
 - **License:** null
@@ -5126,8 +5126,8 @@
 - **Version:** v5.1.0
 - **Updated:** 2022-04-12T01:58:57Z
 - **Size:** 3.10 MB
-- **SHA256SUM:** 920f7b3e4b16f2c378aa5f9398c5692e347062f1f98be7debf532f72cb3722c6
-- **B3SUM:** 8120dd75cf04ff2404e02a26ab5edf34ebcc758d652075d65872633efe91fe26
+- **SHA256SUM:** ce073af956d4d04e2e309016861c6a09b74bd8438ddc076d833eaaaf02292445
+- **B3SUM:** d2e6e2b837f8d3847c461d415d20f3d2df17309436cdc2eebeae57b4896c17bc
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yj
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -5158,8 +5158,8 @@
 - **Version:** v1.0.0
 - **Updated:** 2023-09-10T17:09:04Z
 - **Size:** 7.95 MB
-- **SHA256SUM:** f3869548faaabca696f6a563f90f4e895d02b750163141b9eeacadf4b03acead
-- **B3SUM:** 79fb111ddbc4a1707030cc32c92800cf368b52f547a2fe8acd307d183d849bf9
+- **SHA256SUM:** acb437ef21cb713dc4aab85078b4ac021f297c42be6300b5331f728741bd10cc
+- **B3SUM:** 86210c8671d5903ac2069c1a85a773850b5e4bdba05844746bd1e614b99e261a
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zdns
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15100
+- **Stars:** 15099
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
@@ -5189,9 +5189,9 @@
 - **Stars:** 2031
 - **Version:** 0.14.0
 - **Updated:** 2023-02-24T22:01:18Z
-- **Size:** 1.26 MB
-- **SHA256SUM:** 105fc86766796222caf6377800d18224264bcf485ea4193e5bb376af7ba2c167
-- **B3SUM:** 02cd672596d69c7440f6eddb8af40a9e3bedc29291b8872be63c49108b43e4b3
+- **Size:** 1.25 MB
+- **SHA256SUM:** 25c165f94d0ce2ab5fff37ef78ec4c3355ee2f765cba70df22a302bbef3eddd2
+- **B3SUM:** 80766f4fcd1c4f04b884058bc2c8aae62e6bc476df1056369a85875e1c999a58
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zenith
 - **Language:** Rust
 - **License:** MIT License
@@ -5206,8 +5206,8 @@
 - **Version:** v0.1.6
 - **Updated:** 2020-03-31T20:01:53Z
 - **Size:** 13.29 MB
-- **SHA256SUM:** 60885c52d07bab60a2c60ceed3de59a3cdfe19593ba2fd7f6dcd04eaf58c6db5
-- **B3SUM:** 4d8d1c6b401817560e13232ac14a52f1f0e1e8d825bea358e0870adf5b80a01b
+- **SHA256SUM:** 32045a9fecb86e430c0bbfe6b912872b0f8d10b270045d4dd8ba0d3413cfe460
+- **B3SUM:** 1c1c64ce86a24cfb79a5fe051dd9c6e9da29241a20469d1bfeb2dd2ee2b34e04
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zgrab2
 - **Language:** Go
 - **License:** Other
@@ -5218,7 +5218,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 12875
+- **Stars:** 12876
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 0.93 MB
