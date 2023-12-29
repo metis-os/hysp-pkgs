@@ -1,0 +1,26 @@
+[bin]
+name = "reptyr"
+
+[package]
+architecture = "x86_64"
+name = "reptyr"
+description = "Reparent a running program to a new terminal"
+author = "nelhage"
+repo = "https://github.com/nelhage/reptyr"
+stars = "5460"
+version = "reptyr-0.10.0"
+updated = "null"
+size = "0.95 MB"
+bsum = "31fcb826638ef3d1258f15b546161ae1bfcb75cbf5eadbe25cb309920f8413eb"
+sha = "eb9d8a34b7055c596b491bb3dab99053f16e021351645b641a0fdbf1b68a9a48"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/reptyr"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["reptyr"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
