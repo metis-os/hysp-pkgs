@@ -1,28 +1,61 @@
-│ 26 │-aws-nuke.tar.gz                  │    │
-│ 43 │-bombadillo                       │    │
-│ 61 │-certstream-server-go             │    │
-│ 79 │-cloudfox.tar.gz                  │    │
-│ 87 │-cowitness                        │    │
-│ 217│-gotld                            │    │
-│ 320│-ncat                             │    │
-│ 321│-ncdu                             │    │
-│ 326│-nginx                            │    │
-│ 327│-ngrok                            │    │
-│ 329│-njs                              │    │
-│ 332│-nmctl                            │    │
-│ 336│-nping                            │    │
-│ 337│-nrich                            │    │
-│ 387│-rekor                            │    │
-│ 393│-resdns                           │    │
-│ 425│-scp                              │    │
-│ 440│-sk-tmux                          │    │
-│ 451│-ssh                              │    │
-│ 481│-tailscale_merged                 │    │
-│ 496│-traefik.tar.gz                   │    │
-│ 501│-tuiarchiver                      │    │
-│ 503│-twingate-client                  │    │
-│ 504│-twingate-connector               │    │
-│ 505│-twingate-connector-staticx       │    │
-│ 506│-twingate-connectorctl            │    │
-│ 507│-twingate-notifier                │    │
-│ 517│-usql.tar.gz                      │    │
+│  7 │-age                              │    │
+│  8 │-age-keygen                       │    │
+│ 16 │-allxfr                           │    │
+│ 22 │-apk.sh                           │    │
+│ 24 │-aretext                          │    │
+│ 31 │-awk                              │    │
+│ 32 │-aws-nuke.tar.gz                  │    │
+│ 49 │-bombadillo                       │    │
+│ 65 │-certgraph                        │    │
+│ 68 │-certstream-server-go             │    │
+│ 80 │-cheat                            │    │
+│ 87 │-cloudfox.tar.gz                  │    │
+│ 95 │-cowitness                        │    │
+│ 96 │-cowsay                           │    │
+│ 97 │-cowthink                         │    │
+│ 123│-dizi                             │    │
+│ 124│-dizi-server                      │    │
+│ 150│-edgevpn                          │    │
+│ 165│-falconhound                      │    │
+│ 176│-ffufw                            │    │
+│ 220│-goawk                            │    │
+│ 233│-gotld                            │    │
+│ 260│-hugo                             │    │
+│ 267│-invidtui                         │    │
+│ 298│-ladder                           │    │
+│ 311│-luet                             │    │
+│ 321│-matterbridge                     │    │
+│ 329│-miniflux                         │    │
+│ 342│-ncat                             │    │
+│ 343│-ncdu                             │    │
+│ 348│-nginx                            │    │
+│ 349│-ngocok                           │    │
+│ 350│-ngrok                            │    │
+│ 352│-njs                              │    │
+│ 355│-nmctl                            │    │
+│ 359│-nping                            │    │
+│ 360│-nrich                            │    │
+│ 375│-pfetch-rs                        │    │
+│ 382│-podsync                          │    │
+│ 412│-rekor                            │    │
+│ 418│-resdns                           │    │
+│ 450│-scp                              │    │
+│ 465│-sk-tmux                          │    │
+│ 476│-ssh                              │    │
+│ 497│-sunbeam                          │    │
+│ 507│-tailscale_merged                 │    │
+│ 515│-tgpt                             │    │
+│ 517│-tlrc                             │    │
+│ 524│-traefik.tar.gz                   │    │
+│ 529│-tuiarchiver                      │    │
+│ 531│-twingate-client                  │    │
+│ 532│-twingate-connector               │    │
+│ 533│-twingate-connector-staticx       │    │
+│ 534│-twingate-connectorctl            │    │
+│ 535│-twingate-notifier                │    │
+│ 545│-usql.tar.gz                      │    │
+│ 547│-v6disk                           │    │
+│ 548│-v6run                            │    │
+│ 567│-wego                             │    │
+│ 579│-xh                               │    │
+│ 585│-yip                              │    │
