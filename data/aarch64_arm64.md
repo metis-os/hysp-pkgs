@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 46341
+- **Stars:** 46342
 - **Version:** v0.2.56
 - **Updated:** 2023-12-17T22:14:06Z
 - **Size:** 14.52 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32381
+- **Stars:** 32382
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44466
+- **Stars:** 44468
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -466,7 +466,7 @@
 - **Description:** 🕳 bore is a simple CLI tool for making tunnels to localhost
 - **Author:** ekzhang
 - **Repository:** [https://github.com/ekzhang/bore](https://github.com/ekzhang/bore)
-- **Stars:** 7579
+- **Stars:** 7580
 - **Version:** v0.5.0
 - **Updated:** 2023-04-28T02:05:39Z
 - **Size:** 1.18 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51357
+- **Stars:** 51358
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 37.67 MB
@@ -946,7 +946,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 32748
+- **Stars:** 32749
 - **Version:** curl-8_5_0
 - **Updated:** 2023-12-06T07:24:06Z
 - **Size:** 6.22 MB
@@ -1266,7 +1266,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 11853
+- **Stars:** 11854
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.14 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40144
+- **Stars:** 40145
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40144
+- **Stars:** 40145
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -1714,7 +1714,7 @@
 - **Description:**  processor
 - **Author:** antonmedv
 - **Repository:** [https://github.com/antonmedv/fx](https://github.com/antonmedv/fx)
-- **Stars:** 17905
+- **Stars:** 17906
 - **Version:** 31.0.0
 - **Updated:** 2023-11-10T22:14:58Z
 - **Size:** 3.15 MB
@@ -1906,7 +1906,7 @@
 - **Description:** Git extension for versioning large files
 - **Author:** git-lfs
 - **Repository:** [https://github.com/git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
-- **Stars:** 12121
+- **Stars:** 12122
 - **Version:** v3.4.1
 - **Updated:** 2023-12-13T23:25:51Z
 - **Size:** 10.27 MB
@@ -2066,7 +2066,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 14712
+- **Stars:** 14713
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.41 MB
@@ -2194,7 +2194,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14462
+- **Stars:** 14463
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.07 MB
@@ -2242,7 +2242,7 @@
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost
 - **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2496
+- **Stars:** 2498
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 22.42 MB
@@ -2450,7 +2450,7 @@
 - **Description:** A command-line hex viewer
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hexyl](https://github.com/sharkdp/hexyl)
-- **Stars:** 8595
+- **Stars:** 8596
 - **Version:** v0.14.0
 - **Updated:** 2023-12-11T22:33:44Z
 - **Size:** 0.67 MB
@@ -2642,7 +2642,7 @@
 - **Description:** iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 - **Author:** esnet
 - **Repository:** [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
-- **Stars:** 5972
+- **Stars:** 5973
 - **Version:** 3.16
 - **Updated:** 2023-12-01T19:15:52Z
 - **Size:** 2.76 MB
@@ -2690,7 +2690,7 @@
 - **Description:** A TUI playground to experiment with jq
 - **Author:** noahgorstein
 - **Repository:** [https://github.com/noahgorstein/jqp](https://github.com/noahgorstein/jqp)
-- **Stars:** 1889
+- **Stars:** 1890
 - **Version:** v0.5.0
 - **Updated:** 2023-09-18T02:05:21Z
 - **Size:** 10.75 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15241
+- **Stars:** 15242
 - **Version:** 1.21.0
 - **Updated:** 2023-12-29T21:52:53Z
 - **Size:** 2.74 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31589
+- **Stars:** 31592
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 41165
+- **Stars:** 41169
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -3234,7 +3234,7 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7336
+- **Stars:** 7337
 - **Version:** v0.25.2
 - **Updated:** 2023-12-22T10:26:54Z
 - **Size:** 21.48 MB
@@ -3650,7 +3650,7 @@
 - **Description:** A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - **Author:** userdocs
 - **Repository:** [https://github.com/userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static)
-- **Stars:** 881
+- **Stars:** 882
 - **Version:** release-4.6.2_v2.0.9
 - **Updated:** 2023-11-28T00:33:16Z
 - **Size:** 25.58 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 41843
+- **Stars:** 41845
 - **Version:** v1.65.0
 - **Updated:** 2023-11-26T17:13:20Z
 - **Size:** 52.82 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 42283
+- **Stars:** 42286
 - **Version:** 14.0.3
 - **Updated:** 2023-11-28T21:22:28Z
 - **Size:** 5.09 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21734
+- **Stars:** 21735
 - **Version:** v0.1.9
 - **Updated:** 2023-12-21T18:46:59Z
 - **Size:** 16.12 MB
@@ -3922,7 +3922,7 @@
 - **Description:** CLI tool for spawning and running containers according to the OCI specification
 - **Author:** opencontainers
 - **Repository:** [https://github.com/opencontainers/runc](https://github.com/opencontainers/runc)
-- **Stars:** 11002
+- **Stars:** 11001
 - **Version:** v1.1.10
 - **Updated:** 2023-11-01T07:28:10Z
 - **Size:** 9.56 MB
@@ -4258,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 38277
+- **Stars:** 38278
 - **Version:** v1.17.0
 - **Updated:** 2023-12-28T18:30:26Z
 - **Size:** 7.76 MB
@@ -4466,7 +4466,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 4106
+- **Stars:** 4108
 - **Version:** 2.2.0
 - **Updated:** 2023-11-19T15:04:41Z
 - **Size:** 2.61 MB
@@ -4722,7 +4722,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12721
+- **Stars:** 12720
 - **Version:** v4.2.1
 - **Updated:** 2023-11-01T12:02:45Z
 - **Size:** 0.55 MB
@@ -5026,7 +5026,7 @@
 - **Description:** The personal information dashboard for your terminal
 - **Author:** wtfutil
 - **Repository:** [https://github.com/wtfutil/wtf](https://github.com/wtfutil/wtf)
-- **Stars:** 15214
+- **Stars:** 15215
 - **Version:** v0.43.0
 - **Updated:** 2023-02-24T05:34:48Z
 - **Size:** 58.24 MB
@@ -5123,110 +5123,14 @@
 - **Author:** sclevine
 - **Repository:** [https://github.com/sclevine/yj](https://github.com/sclevine/yj)
 - **Stars:** 890
-- **Version:** v5.1.0
-- **Updated:** 2022-04-12T01:58:57Z
+- **Version:** 
+- **Updated:** 
 - **Size:** 3.10 MB
 - **SHA256SUM:** ce073af956d4d04e2e309016861c6a09b74bd8438ddc076d833eaaaf02292445
 - **B3SUM:** d2e6e2b837f8d3847c461d415d20f3d2df17309436cdc2eebeae57b4896c17bc
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yj
 - **Language:** Go
 - **License:** Apache License 2.0
-
----
-
-### yq
-- **Description:** yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-- **Author:** mikefarah
-- **Repository:** [https://github.com/mikefarah/yq](https://github.com/mikefarah/yq)
-- **Stars:** 9989
-- **Version:** v4.40.5
-- **Updated:** 2023-12-12T02:53:05Z
-- **Size:** 8.93 MB
-- **SHA256SUM:** cb049533367ab4964259df602f089bbb66661d1b101a5d476a9d86c246046643
-- **B3SUM:** 3c4ad65b5e3748af8e1366a2809bd17f32bbb9f78a67d128b6380cb5e1605ed3
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yq
-- **Language:** Go
-- **License:** MIT License
-
----
-
-### zdns
-- **Description:** Fast CLI DNS Lookup Tool
-- **Author:** zmap
-- **Repository:** [https://github.com/zmap/zdns](https://github.com/zmap/zdns)
-- **Stars:** 816
-- **Version:** v1.0.0
-- **Updated:** 2023-09-10T17:09:04Z
-- **Size:** 7.95 MB
-- **SHA256SUM:** acb437ef21cb713dc4aab85078b4ac021f297c42be6300b5331f728741bd10cc
-- **B3SUM:** 86210c8671d5903ac2069c1a85a773850b5e4bdba05844746bd1e614b99e261a
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zdns
-- **Language:** Go
-- **License:** Apache License 2.0
-
----
-
-### zellij
-- **Description:** A terminal workspace with batteries included
-- **Author:** zellij-org
-- **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15135
-- **Version:** v0.39.2
-- **Updated:** 2023-11-29T10:58:39Z
-- **Size:** 24.09 MB
-- **SHA256SUM:** a7f5bba8992b4235b9251e7a96868d3902127bdededd5bb061ffcdf9c2ef3b92
-- **B3SUM:** 4175f4cfe5bf521e5ea9f765e5bc8364640edfd2b74aad5175cf30a06948e5b4
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zellij
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### zenith
-- **Description:** Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-- **Author:** bvaisvil
-- **Repository:** [https://github.com/bvaisvil/zenith](https://github.com/bvaisvil/zenith)
-- **Stars:** 2032
-- **Version:** 0.14.0
-- **Updated:** 2023-02-24T22:01:18Z
-- **Size:** 1.25 MB
-- **SHA256SUM:** 25c165f94d0ce2ab5fff37ef78ec4c3355ee2f765cba70df22a302bbef3eddd2
-- **B3SUM:** 80766f4fcd1c4f04b884058bc2c8aae62e6bc476df1056369a85875e1c999a58
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zenith
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### zgrab2
-- **Description:** Fast Go Application Scanner
-- **Author:** zmap
-- **Repository:** [https://github.com/zmap/zgrab2](https://github.com/zmap/zgrab2)
-- **Stars:** 1523
-- **Version:** v0.1.6
-- **Updated:** 2020-03-31T20:01:53Z
-- **Size:** 13.29 MB
-- **SHA256SUM:** 32045a9fecb86e430c0bbfe6b912872b0f8d10b270045d4dd8ba0d3413cfe460
-- **B3SUM:** 1c1c64ce86a24cfb79a5fe051dd9c6e9da29241a20469d1bfeb2dd2ee2b34e04
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zgrab2
-- **Language:** Go
-- **License:** Other
-
----
-
-### zoxide
-- **Description:** A smarter cd command. Supports all major shells.
-- **Author:** ajeetdsouza
-- **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 12901
-- **Version:** v0.9.2
-- **Updated:** 2023-08-04T03:16:26Z
-- **Size:** 0.93 MB
-- **SHA256SUM:** fc8bde5cd4563d6bbfec2c838a9ed48aa644c0782435bb8f196d18f6f4f0e81a
-- **B3SUM:** e7e7e7a53015bf27ad3d866c87ec2f9c87c91ac4eea405b1d896a7319bd5fe00
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/zoxide
-- **Language:** Rust
-- **License:** MIT License
 
 ---
 
