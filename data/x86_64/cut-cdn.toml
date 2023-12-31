@@ -1,0 +1,26 @@
+[bin]
+name = "cut-cdn"
+
+[package]
+architecture = "x86_64"
+name = "cut-cdn"
+description = "✂️ Removing CDN IPs from the list of IP addresses"
+author = "ImAyrix"
+repo = "https://github.com/ImAyrix/cut-cdn"
+stars = "237"
+version = "v1.0.30"
+updated = "2023-07-22T22:04:31Z"
+size = "8.53 MB"
+bsum = "a6f9de325251a204440963e35e23d906726d9dbfe36745bccc01eb3752041b5a"
+sha = "d5423b39bf0bca9e94e4b6b89c4952a756e5541c804c442466296ac97e84d2ec"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cut-cdn"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cut-cdn"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","bugbounty-tool","cdn","golang","penetration-testing","pentest","recon","reconnaissance","web-application","web-application-security"]
+categories = ["Utilities"]

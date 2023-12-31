@@ -1,0 +1,26 @@
+[bin]
+name = "ct_monitor"
+
+[package]
+architecture = "x86_64"
+name = "ct_monitor"
+description = "Certificate Transparency log monitor"
+author = "crtsh"
+repo = "https://github.com/crtsh/ct_monitor"
+stars = "274"
+version = "null"
+updated = ""
+size = "17.18 MB"
+bsum = "fea64029f6ebb233186c4202d0ddad2f3e9986f47d9cce6d7adeab1da9eddc91"
+sha = "b9c3d8eab55ba112e1ef2e0618f6e11bb904ea10fc91df5972465d0ca2eedd89"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ct_monitor"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["ct_monitor"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

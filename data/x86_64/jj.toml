@@ -1,0 +1,26 @@
+[bin]
+name = "jj"
+
+[package]
+architecture = "x86_64"
+name = "jj"
+description = "A Git-compatible DVCS that is both simple and powerful"
+author = "martinvonz"
+repo = "https://github.com/martinvonz/jj"
+stars = "4184"
+version = "v0.12.0"
+updated = "2023-12-06T00:45:00Z"
+size = "18.50 MB"
+bsum = "7055341021743e3ce9aef98e56160b85b772b6ca815a17beb625e8dbaad87056"
+sha = "e680e0dc4ab22f7b208eb533ad22e7e865d98cf58854292c277455ffca909038"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/jj"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["jj"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","git","mercurial","vcs"]
+categories = ["Utilities"]
