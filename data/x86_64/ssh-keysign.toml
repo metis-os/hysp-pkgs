@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-keysign"
+
+[package]
+architecture = "x86_64"
+name = "ssh-keysign"
+description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/static-toolbox"
+stars = "14"
+version = "misc_utils_2023_12_31_07_48_02_AM"
+updated = "2023-12-31T02:03:03Z"
+size = "4.17 MB"
+bsum = "5f248254587259ce4feddcafe6ed108919c82c5accaccaa0eaf8336b3190100c"
+sha = "91ed8f6e34a95221a7c4782fdd1c7c819b5e9047e4e67b3c0492c1a18d80dfd6"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ssh-keysign"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ssh-keysign"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+categories = ["Utilities"]

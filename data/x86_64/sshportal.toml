@@ -1,0 +1,26 @@
+[bin]
+name = "sshportal"
+
+[package]
+architecture = "x86_64"
+name = "sshportal"
+description = ":tophat: simple, fun and transparent SSH (and telnet) bastion server"
+author = "moul"
+repo = "https://github.com/moul/sshportal"
+stars = "1617"
+version = "v1.19.5"
+updated = "2023-05-20T09:27:43Z"
+size = "10.60 MB"
+bsum = "a0ea3b8f9fc560cfdf0b725a16395e315cb0f8763f3730f75022fcc8c2a7ced2"
+sha = "d7871e9aeeb39ced786c00397ab0dee714fb75111f40ecc92c4a32996d918b58"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sshportal"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["sshportal"]
+requires = []
+
+[package.metadata]
+keywords = ["bastion","devops","fun","security","ssh","ssh-server"]
+categories = ["Utilities"]

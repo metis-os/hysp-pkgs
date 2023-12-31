@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-keyscan"
+
+[package]
+architecture = "x86_64"
+name = "ssh-keyscan"
+description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/static-toolbox"
+stars = "14"
+version = "misc_utils_2023_12_31_07_48_02_AM"
+updated = "2023-12-31T02:03:03Z"
+size = "4.14 MB"
+bsum = "3191ad881b8a4eb86020a70eb0d214b5bd31b7180236d3ba4c55e3503b7df582"
+sha = "a0b9b205ca16a9771dc4d4c2af7901eba5e6818fdbab4cef4e8c3c669c72da57"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ssh-keyscan"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ssh-keyscan"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+categories = ["Utilities"]
