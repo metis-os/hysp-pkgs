@@ -162,7 +162,7 @@
 - **Description:** In-depth attack surface mapping and asset discovery
 - **Author:** owasp-amass
 - **Repository:** [https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)
-- **Stars:** 10590
+- **Stars:** 10591
 - **Version:** v4.2.0
 - **Updated:** 2023-09-10T20:52:27Z
 - **Size:** 33.64 MB
@@ -194,7 +194,7 @@
 - **Description:** A tool for adding new lines to files, skipping duplicates
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1101
+- **Stars:** 1102
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.29 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32384
+- **Stars:** 32385
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.04 MB
@@ -258,7 +258,7 @@
 - **Description:** Find domains and subdomains related to a given domain
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder)
-- **Stars:** 2675
+- **Stars:** 2676
 - **Version:** v0.1.1
 - **Updated:** 2020-04-15T10:38:43Z
 - **Size:** 4.57 MB
@@ -946,7 +946,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 32750
+- **Stars:** 32751
 - **Version:** curl-8_5_0
 - **Updated:** 2023-12-06T07:24:06Z
 - **Size:** 6.22 MB
@@ -1490,7 +1490,7 @@
 - **Description:** Efficient Duplicate File Finder
 - **Author:** pkolaczk
 - **Repository:** [https://github.com/pkolaczk/fclones](https://github.com/pkolaczk/fclones)
-- **Stars:** 1524
+- **Stars:** 1525
 - **Version:** v0.34.0
 - **Updated:** 2023-10-29T16:56:06Z
 - **Size:** 3.10 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 30061
+- **Stars:** 30062
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.47 MB
@@ -1570,7 +1570,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10700
+- **Stars:** 10701
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 7.46 MB
@@ -2514,7 +2514,7 @@
 - **Description:** Take a list of domains and probe for working HTTP and HTTPS servers
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/httprobe](https://github.com/tomnomnom/httprobe)
-- **Stars:** 2635
+- **Stars:** 2637
 - **Version:** v0.2
 - **Updated:** 2022-06-09T16:22:06Z
 - **Size:** 4.31 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15245
+- **Stars:** 15246
 - **Version:** 1.21.0
 - **Updated:** 2023-12-29T21:52:53Z
 - **Size:** 2.74 MB
@@ -2802,7 +2802,7 @@
 - **Description:** Cleans dependencies and build artifacts from your projects.
 - **Author:** tbillington
 - **Repository:** [https://github.com/tbillington/kondo](https://github.com/tbillington/kondo)
-- **Stars:** 1479
+- **Stars:** 1480
 - **Version:** v0.8
 - **Updated:** 2023-12-19T07:29:40Z
 - **Size:** 1.44 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 31600
+- **Stars:** 31603
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.42 MB
@@ -3106,7 +3106,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23253
+- **Stars:** 23255
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 10.83 MB
@@ -3154,7 +3154,7 @@
 - **Description:** Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - **Author:** johnkerl
 - **Repository:** [https://github.com/johnkerl/miller](https://github.com/johnkerl/miller)
-- **Stars:** 8326
+- **Stars:** 8327
 - **Version:** v6.10.0
 - **Updated:** 2023-12-14T00:06:08Z
 - **Size:** 31.98 MB
@@ -3234,7 +3234,7 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7340
+- **Stars:** 7341
 - **Version:** v0.25.2
 - **Updated:** 2023-12-22T10:26:54Z
 - **Size:** 21.48 MB
@@ -3682,7 +3682,7 @@
 - **Description:**  analyzed.
 - **Author:** jqnatividad
 - **Repository:** [https://github.com/jqnatividad/qsv](https://github.com/jqnatividad/qsv)
-- **Stars:** 1900
+- **Stars:** 1901
 - **Version:** 0.119.0
 - **Updated:** 2023-11-20T04:48:29Z
 - **Size:** 11.50 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 21736
+- **Stars:** 21737
 - **Version:** v0.1.9
 - **Updated:** 2023-12-21T18:46:59Z
 - **Size:** 16.12 MB
@@ -4466,7 +4466,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 4111
+- **Stars:** 4112
 - **Version:** 2.2.0
 - **Updated:** 2023-11-19T15:04:41Z
 - **Size:** 2.61 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15135
+- **Stars:** 15136
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
