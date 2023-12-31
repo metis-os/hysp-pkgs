@@ -1,0 +1,26 @@
+[bin]
+name = "mlr"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mlr"
+description = "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON"
+author = "johnkerl"
+repo = "https://github.com/johnkerl/miller"
+stars = "8326"
+version = "v6.10.0"
+updated = "2023-12-14T00:06:08Z"
+size = "31.98 MB"
+bsum = "c77e8bd447254d6a58fa112b2e0775e55c06d776731cc24a16a6512effe1d665"
+sha = "11408a548eb2cb57c77eb87c16c6acad7b21e256ad0ec36eafa4964a637e5d01"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/mlr"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["mlr"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","command-line-tools","csv","csv-format","data-cleaning","data-processing","data-reduction","data-regression","devops","devops-tools","json","json-data","miller","statistical-analysis","statistics","streaming-algorithms","streaming-data","tabular-data","tsv","unix-toolkit"]
+categories = ["Utilities"]

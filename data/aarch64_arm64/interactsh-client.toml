@@ -1,0 +1,26 @@
+[bin]
+name = "interactsh-client"
+
+[package]
+architecture = "aarch64_arm64"
+name = "interactsh-client"
+description = "An OOB interaction gathering server and client library"
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/interactsh"
+stars = "2837"
+version = "v1.1.8"
+updated = "2023-12-07T20:30:02Z"
+size = "24.02 MB"
+bsum = "99017cd9c321ab1f12cde86b28f0f98fbf369f2bca198cf9611ea6dbb6880b67"
+sha = "9d7d2bca201d7c21c99a03d23ec8d2793d25d7574fd38f2084f65ce6d2523465"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/interactsh-client"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["interactsh-client"]
+requires = []
+
+[package.metadata]
+keywords = ["appsec","bugbounty","dns","golang","http","ldap","oast","oob","security","smtp"]
+categories = ["Utilities"]

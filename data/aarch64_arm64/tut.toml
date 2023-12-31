@@ -1,0 +1,26 @@
+[bin]
+name = "tut"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tut"
+description = "TUI for Mastodon with vim inspired keys"
+author = "RasmusLindroth"
+repo = "https://github.com/RasmusLindroth/tut"
+stars = "398"
+version = "2.0.1"
+updated = "2023-01-26T17:48:00Z"
+size = "9.36 MB"
+bsum = "13f5e2b937b35ec21c9318ce76b804932ac4aa4e6b0a1c95a0c7830933031844"
+sha = "8b38be75116dd268875505b0c52350d6ff1e1b97fd2f5544c993fa7138e25d67"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/tut"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tut"]
+requires = []
+
+[package.metadata]
+keywords = ["mastodon","mastodon-app","mastodon-client","terminal-based","tui"]
+categories = ["Utilities"]

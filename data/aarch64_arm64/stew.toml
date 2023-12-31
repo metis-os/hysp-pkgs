@@ -1,0 +1,26 @@
+[bin]
+name = "stew"
+
+[package]
+architecture = "aarch64_arm64"
+name = "stew"
+description = "🥘 An independent package manager for compiled binaries."
+author = "marwanhawari"
+repo = "https://github.com/marwanhawari/stew"
+stars = "122"
+version = "v0.3.0"
+updated = "2022-03-08T05:31:09Z"
+size = "7.82 MB"
+bsum = "597eecb151ef0374e5b5aa122212242316e046479573ad3fe1431535eeddf2ec"
+sha = "8300f30d849512c68ae47a1d642ded1ce3b654461d98c19e87e12706600c7f7e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/stew"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["stew"]
+requires = []
+
+[package.metadata]
+keywords = ["binaries","github","go","package-manager","releases"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "scopeview"
+
+[package]
+architecture = "aarch64_arm64"
+name = "scopeview"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "12"
+version = "null"
+updated = ""
+size = "0.00 MB"
+bsum = "8f6395301d795091528d401725333201fb13e970ea887a7726b9e485f6a59819"
+sha = "91edb3c8bfc420d6ce1c7a5c05fb2bec8f59457e15dada31cf970e372a8a104e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/scopeview"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["scopeview"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

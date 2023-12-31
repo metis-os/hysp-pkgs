@@ -1,0 +1,26 @@
+[bin]
+name = "ppath"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ppath"
+description = "🌈 A command-line tool to pretty print your system's PATH environment variable."
+author = "marwanhawari"
+repo = "https://github.com/marwanhawari/ppath"
+stars = "7"
+version = "v0.0.3"
+updated = "2021-12-27T20:05:06Z"
+size = "1.29 MB"
+bsum = "da705cc33aca7fd040c0d499461ba79c0269e774a50c1ed56a728527e883cada"
+sha = "b72216fe12aa27bb6316f6be4957394b924605e2c8ca5b0747d8bbc8def94693"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ppath"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ppath"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line-tool","go","path","pretty-print"]
+categories = ["Utilities"]

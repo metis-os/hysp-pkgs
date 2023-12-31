@@ -1,0 +1,26 @@
+[bin]
+name = "kondo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "kondo"
+description = "Cleans dependencies and build artifacts from your projects."
+author = "tbillington"
+repo = "https://github.com/tbillington/kondo"
+stars = "1479"
+version = "v0.8"
+updated = "2023-12-19T07:29:40Z"
+size = "1.44 MB"
+bsum = "d6d16ba0492c4696b5eed366a4c24b9baf53514b52d2e85aa945f983e4218b21"
+sha = "c1f76400b84916da24fdd6ae36d17eeedf8803dbd8d88f76efa8358fac2068c2"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/kondo"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["kondo"]
+requires = []
+
+[package.metadata]
+keywords = ["cargo","cleaner","cli","command-line","disk-space","gui","kondo","linux","macos","rust","unity","unity3d","windows"]
+categories = ["Utilities"]

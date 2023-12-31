@@ -1,0 +1,26 @@
+[bin]
+name = "nmap-formatter"
+
+[package]
+architecture = "aarch64_arm64"
+name = "nmap-formatter"
+description = "A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter."
+author = "vdjagilev"
+repo = "https://github.com/vdjagilev/nmap-formatter"
+stars = "169"
+version = "v2.1.6"
+updated = "2023-12-02T12:20:02Z"
+size = "4.06 MB"
+bsum = "e625ddf5d7f31d6d0df61fb74df7769325d25c542af1d92d022b580d271db6c8"
+sha = "6a2ebb79f8831fc39dd13065cd88099d3c455bcf0af47e6e0b6da4570b53ac27"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/nmap-formatter"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["nmap-formatter"]
+requires = []
+
+[package.metadata]
+keywords = ["bounty","csv","devsecops","go","golang","graphviz","html","json","markdown","nmap","pentesting","port-scanner","port-scanning","scan","scanner","security","security-tools","sqlite","xml","xml-parsing"]
+categories = ["Utilities"]
