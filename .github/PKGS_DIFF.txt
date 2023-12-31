@@ -493,14 +493,14 @@
 │ 520│-yazi                             │    │
 │ 521│-yip                              │    │
 │ 522│ yj                               │ 321│ yj
-
-│ 523│-yq                               │    │
-│ 524│-zdns                             │    │
-│ 525│-zellij                           │    │
-│ 526│-zenith                           │    │
+│ 523│ yq                               │ 322│ yq
+│ 524│ zdns                             │ 323│ zdns
+│ 525│ zellij                           │ 324│ zellij
+│ 526│ zenith                           │ 325│ zenith
 │ 527│-zfxtop                           │    │
-│ 528│-zgrab2                           │    │
-│ 529│-zoxide                           │    │
+│ 528│ zgrab2                           │ 326│ zgrab2
+│ 529│ zoxide                           │ 327│ zoxide
+
 
 
 [+] x86_64
