@@ -1,0 +1,26 @@
+[bin]
+name = "yq"
+
+[package]
+architecture = "aarch64_arm64"
+name = "yq"
+description = "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor"
+author = "mikefarah"
+repo = "https://github.com/mikefarah/yq"
+stars = "9989"
+version = "v4.40.5"
+updated = "2023-12-12T02:53:05Z"
+size = "8.93 MB"
+bsum = "3c4ad65b5e3748af8e1366a2809bd17f32bbb9f78a67d128b6380cb5e1605ed3"
+sha = "cb049533367ab4964259df602f089bbb66661d1b101a5d476a9d86c246046643"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/yq"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["yq"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","cli","csv","devops-tools","golang","json","portable","properties","splat","toml","xml","yaml","yaml-processor"]
+categories = ["Utilities"]
