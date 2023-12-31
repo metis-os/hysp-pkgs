@@ -805,4 +805,8 @@
 │ 586│ yj                               │ 522│ yj
 │ 587│ yq                               │ 523│ yq
 │ 588│ zdns                             │ 524│ zdns
+│ 590│ zenith                           │ 526│ zenith
+│ 591│ zfxtop                           │ 527│ zfxtop
+│ 592│ zgrab2                           │ 528│ zgrab2
 
+│ 593│-zoxide                           │    │
