@@ -1,0 +1,26 @@
+[bin]
+name = "vultr-cli"
+
+[package]
+architecture = "x86_64"
+name = "vultr-cli"
+description = "Official command line tool for Vultr services"
+author = "vultr"
+repo = "https://github.com/vultr/vultr-cli"
+stars = "440"
+version = "v2.21.0"
+updated = "2023-11-29T15:30:49Z"
+size = "8.99 MB"
+bsum = "943122fa2e3ec6a74389e843d8f3396f5a51684323fb57adf7f03bb25861e57a"
+sha = "c03b1016b62c2d6e9d923dfeb05b43de0116aaf05887612a29a48d3aa5bcd948"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/vultr-cli"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["vultr-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","cobra","vultr","vultr-cli"]
+categories = ["Utilities"]

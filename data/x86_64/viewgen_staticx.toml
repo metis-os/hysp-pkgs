@@ -1,0 +1,26 @@
+[bin]
+name = "viewgen_staticx"
+
+[package]
+architecture = "x86_64"
+name = "viewgen_staticx"
+description = "Viewgen is a ViewState tool capable of generating both signed and encrypted payloads with leaked validation keys"
+author = "0xacb"
+repo = "https://github.com/0xacb/viewgen"
+stars = "556"
+version = "v0.2"
+updated = "2023-01-17T21:35:19Z"
+size = "8.46 MB"
+bsum = "58e270a9b6b90a55e074578b0f38fb9191b36f431e7b3cb7e3284bc9a11132fc"
+sha = "26e6be3bc155c0bcf234382f6b18e15b9ce01013fc524f534309485f1d4bced4"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/viewgen_staticx"
+language = "Python"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["viewgen_staticx"]
+requires = []
+
+[package.metadata]
+keywords = ["asp-net","hacking-tools","viewstate"]
+categories = ["Utilities"]

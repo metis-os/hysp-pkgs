@@ -1,0 +1,26 @@
+[bin]
+name = "xcp"
+
+[package]
+architecture = "x86_64"
+name = "xcp"
+description = "An extended cp"
+author = "tarka"
+repo = "https://github.com/tarka/xcp"
+stars = "501"
+version = "v0.16.0"
+updated = "2023-12-20T00:55:58Z"
+size = "2.90 MB"
+bsum = "ca2b3bed4660791795e86ddf5898ae7b2daa617595b5e138901a9eb46cac451f"
+sha = "426e4de6fc431dbc2b3518f53c7ef84ee52577675e4fb846e41d9a14c52cd2aa"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/xcp"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["xcp"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","copy-files","linux","solid-state-disks","sparse-files"]
+categories = ["Utilities"]
