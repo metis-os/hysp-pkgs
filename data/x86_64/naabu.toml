@@ -1,0 +1,26 @@
+[bin]
+name = "naabu"
+
+[package]
+architecture = "x86_64"
+name = "naabu"
+description = "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests"
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/naabu"
+stars = "3964"
+version = "v2.2.0"
+updated = "2023-11-28T14:08:28Z"
+size = "28.92 MB"
+bsum = "1b26decb169990bd72f3ab7632aad7b3c0a566ca57539f5846a17da44dbff8b0"
+sha = "bcd92a4a2c8957387b64dfacadabec93d4757e26d16e4c5aa23995af3c9ca160"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/naabu"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["naabu"]
+requires = []
+
+[package.metadata]
+keywords = ["cdn-exclusion","hacktoberfest","nmap","port-enumeration","portscanner","scan-ports"]
+categories = ["Utilities"]

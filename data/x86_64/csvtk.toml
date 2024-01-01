@@ -1,0 +1,26 @@
+[bin]
+name = "csvtk"
+
+[package]
+architecture = "x86_64"
+name = "csvtk"
+description = "A cross-platform, efficient and practical CSV/TSV toolkit in Golang"
+author = "shenwei356"
+repo = "https://github.com/shenwei356/csvtk"
+stars = "916"
+version = "v0.29.0"
+updated = "2023-11-27T14:35:40Z"
+size = "20.45 MB"
+bsum = "70a0d1b65fe339748ae4c854e73b51aeb09ae619982a351aa019f4f25c898703"
+sha = "b9ab1864743ce77706ac391497fc6d0fa1bc5b4aea3a8bf341cec663fee3238c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/csvtk"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["csvtk"]
+requires = []
+
+[package.metadata]
+keywords = ["bioinformatics","command-line","cross-platform","csv","golang","tool","toolkit","tsv"]
+categories = ["Utilities"]
