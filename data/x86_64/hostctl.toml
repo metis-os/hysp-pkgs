@@ -1,0 +1,26 @@
+[bin]
+name = "hostctl"
+
+[package]
+architecture = "x86_64"
+name = "hostctl"
+description = "Your dev tool to manage /etc/hosts like a pro!"
+author = "guumaster"
+repo = "https://github.com/guumaster/hostctl"
+stars = "972"
+version = "v1.1.4"
+updated = "2023-05-02T12:26:24Z"
+size = "8.31 MB"
+bsum = "71e1c21db89e5b6941d058f0f5050087b58812afb1391017cad7050a462e9876"
+sha = "d6f8738d5edf0df1e5973e91a5c08d42a0acca6df7241b511a91db3e6c5ef187"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hostctl"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hostctl"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","developer-tools","dns","etchosts","go","golang","hosts-file","hostsfile","localhost-management"]
+categories = ["Utilities"]
