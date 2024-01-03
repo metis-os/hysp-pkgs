@@ -1,0 +1,26 @@
+[bin]
+name = "rga"
+
+[package]
+architecture = "x86_64"
+name = "rga"
+description = "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc."
+author = "phiresky"
+repo = "https://github.com/phiresky/ripgrep-all"
+stars = "5961"
+version = "v1.0.0-alpha.5"
+updated = "2023-06-04T16:38:58Z"
+size = "5.85 MB"
+bsum = "98bc58a3f627b8320a4260702056fcbc13203f0a2d059b7aacfc295121083a83"
+sha = "0debd01ccb55b5527cbb4b3200d30860ec876fad4df1449714f351bf5019bf71"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rga"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["rga"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
