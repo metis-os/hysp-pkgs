@@ -1,0 +1,26 @@
+[bin]
+name = "mdcat"
+
+[package]
+architecture = "x86_64"
+name = "mdcat"
+description = "cat for markdown"
+author = "swsnr"
+repo = "https://github.com/swsnr/mdcat"
+stars = "1796"
+version = "mdcat-2.1.0"
+updated = "2023-10-16T20:09:36Z"
+size = "11.72 MB"
+bsum = "f850722c1e0af6a66766837b9838c35d5de14d9de81120d84550d1e05a942ffe"
+sha = "4e686ea59e69c7a1a2daa15aa3fe2864bcaaa8cad48f9ebe46444e59da2063b5"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mdcat"
+language = "Rust"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["mdcat"]
+requires = []
+
+[package.metadata]
+keywords = ["cat","iterm2","markdown","rust","terminal"]
+categories = ["Utilities"]

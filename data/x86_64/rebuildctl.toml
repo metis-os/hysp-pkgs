@@ -1,0 +1,26 @@
+[bin]
+name = "rebuildctl"
+
+[package]
+architecture = "x86_64"
+name = "rebuildctl"
+description = "Independent verification of binary packages - reproducible builds"
+author = "kpcyrd"
+repo = "https://github.com/kpcyrd/rebuilderd"
+stars = "330"
+version = "v0.20.0"
+updated = "2023-10-18T10:14:01Z"
+size = "10.63 MB"
+bsum = "719e36d4500ce0ccee31703e261f0e46625544f92b37079b98e311cdd7fb6d57"
+sha = "8089439d9f8591dcb4d5cd281d0c82087bf60d0ba7b55f0f6e79f55bb954a703"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rebuildctl"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["rebuildctl"]
+requires = []
+
+[package.metadata]
+keywords = ["rebuilder","reproducible-builds","rust","security-tools","supply-chain","supply-chain-security"]
+categories = ["Utilities"]

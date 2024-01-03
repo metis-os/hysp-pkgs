@@ -1,0 +1,26 @@
+[bin]
+name = "earh"
+
+[package]
+architecture = "x86_64"
+name = "earh"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "287"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.30 MB"
+bsum = "437bb39c6353f9542a4c1c47926d9a2151eb4c27cff77bdc9bec88a256c017d6"
+sha = "77b3226367e0468e47c9dce9d18ed1d70a152fcbfe7a7bd158aac87d4215ff92"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/earh"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["earh"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

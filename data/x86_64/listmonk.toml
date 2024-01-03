@@ -1,0 +1,26 @@
+[bin]
+name = "listmonk"
+
+[package]
+architecture = "x86_64"
+name = "listmonk"
+description = "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app."
+author = "knadh"
+repo = "https://github.com/knadh/listmonk"
+stars = "12322"
+version = "v2.5.1"
+updated = "2023-08-15T16:03:00Z"
+size = "14.31 MB"
+bsum = "f3926a979c33686f7461b976f148f725f783d9cfc12e964a2a6d2eb2533e21eb"
+sha = "dd29c67025bb5ce39df74774579c19c4672a923c08e8480fd18a57d6ee09d12e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/listmonk"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["listmonk"]
+requires = []
+
+[package.metadata]
+keywords = ["campaign","campaign-management","email-campaigns","email-marketing","email-subscription","fcm-messaging","listmonk","mailing-list","newsletter","newsletter-management","self-hosted","sms-gateway","smtp"]
+categories = ["Utilities"]
