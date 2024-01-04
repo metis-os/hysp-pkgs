@@ -8,6 +8,7 @@
 │ 49 │-bombadillo                       │    │
 │ 65 │-certgraph                        │    │
 │ 68 │-certstream-server-go             │    │
+│ 69 │-certwatcher                      │    │
 │ 80 │-cheat                            │    │
 │ 87 │-cloudfox.tar.gz                  │    │
 │ 95 │-cowitness                        │    │
