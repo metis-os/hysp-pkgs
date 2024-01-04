@@ -1,0 +1,26 @@
+[bin]
+name = "pgweb"
+
+[package]
+architecture = "x86_64"
+name = "pgweb"
+description = "Cross-platform client for PostgreSQL databases"
+author = "sosedoff"
+repo = "https://github.com/sosedoff/pgweb"
+stars = "8161"
+version = "v0.14.2"
+updated = "2023-10-30T02:52:50Z"
+size = "15.70 MB"
+bsum = "0d7bf6b73376daff77545aadd9c2ad27f11dc0b0acd704b9bc47539ee7fa58a2"
+sha = "d0a8532a43036736f7846c0206777b86d1d3fd6df3bf08fd9d3b5a13e6a66edf"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pgweb"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pgweb"]
+requires = []
+
+[package.metadata]
+keywords = ["cross-platform","golang","pgweb","postgresql"]
+categories = ["Utilities"]

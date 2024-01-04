@@ -1,0 +1,26 @@
+[bin]
+name = "phantun-server"
+
+[package]
+architecture = "x86_64"
+name = "phantun-server"
+description = " Layer 4 (NAPT) firewalls/NATs."
+author = "dndx"
+repo = "https://github.com/dndx/phantun"
+stars = "1339"
+version = "v0.6.0"
+updated = "2022-10-25T15:42:57Z"
+size = "1.89 MB"
+bsum = "eb3b3a1a2d709f8e8a356272a02de6a6d31929f50e790f7067f6f5c60fb2786b"
+sha = "0f63701967f278bd6dba6fbe11739a49d728606da34a81bf32d7045f87c6c135"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/phantun-server"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["phantun-server"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

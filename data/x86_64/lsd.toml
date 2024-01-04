@@ -1,0 +1,26 @@
+[bin]
+name = "lsd"
+
+[package]
+architecture = "x86_64"
+name = "lsd"
+description = "The next gen ls command"
+author = "lsd-rs"
+repo = "https://github.com/lsd-rs/lsd"
+stars = "11521"
+version = "v1.0.0"
+updated = "2023-08-27T16:53:06Z"
+size = "3.24 MB"
+bsum = "29c7008783deccf8bbc6b17f606bde42cb997648801d50406e24bbf21fb2e299"
+sha = "740100c2b11f07d4e05c141df4f49254cde9ea06c53011390a4814503029c693"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/lsd"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["lsd"]
+requires = []
+
+[package.metadata]
+keywords = ["color","icons","ls","nerd-fonts","rust"]
+categories = ["Utilities"]

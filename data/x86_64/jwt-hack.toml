@@ -1,0 +1,26 @@
+[bin]
+name = "jwt-hack"
+
+[package]
+architecture = "x86_64"
+name = "jwt-hack"
+description = "🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)"
+author = "hahwul"
+repo = "https://github.com/hahwul/jwt-hack"
+stars = "697"
+version = "v1.1.2"
+updated = "2021-12-24T17:00:39Z"
+size = "4.17 MB"
+bsum = "c11b389bf9887061c5e83274ad97f5653630245eeae8ac7b852e0d0e65673dc9"
+sha = "a5dad275a6ed2ee65a868f1bf8a3e2668ccf910acc287a8e5145db3c37ec2884"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/jwt-hack"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jwt-hack"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","cracking","hacking","jwt","payload-generator","security","testing-tools","tool"]
+categories = ["Utilities"]

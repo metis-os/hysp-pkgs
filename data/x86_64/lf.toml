@@ -1,0 +1,26 @@
+[bin]
+name = "lf"
+
+[package]
+architecture = "x86_64"
+name = "lf"
+description = "Terminal file manager"
+author = "gokcehan"
+repo = "https://github.com/gokcehan/lf"
+stars = "6709"
+version = "r31"
+updated = "2023-09-17T11:55:19Z"
+size = "3.36 MB"
+bsum = "413fad13f3df0473ee57546c2a16efa5ccfca17ca49ec8548df742cb24cc4e71"
+sha = "3b237e21d119431e5dd8ce30ecba80395ceb335139e4732d1e897f28aa179206"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/lf"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["lf"]
+requires = []
+
+[package.metadata]
+keywords = ["file-manager","terminal"]
+categories = ["Utilities"]
