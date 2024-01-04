@@ -5,29 +5,88 @@
 │ 24 │-aretext                          │    │
 │ 31 │-awk                              │    │
 │ 32 │-aws-nuke.tar.gz                  │    │
+│ 37 │-bbscope                          │    │
+│ 38 │-bbtargets                        │    │
 │ 49 │-bombadillo                       │    │
 │ 65 │-certgraph                        │    │
 │ 68 │-certstream-server-go             │    │
+│ 77 │-chainredir                       │    │
 │ 80 │-cheat                            │    │
+│ 81 │-checkbypass                      │    │
+│ 85 │-cleanpath                        │    │
 │ 87 │-cloudfox.tar.gz                  │    │
 │ 95 │-cowitness                        │    │
 │ 96 │-cowsay                           │    │
 │ 97 │-cowthink                         │    │
 │ 123│-dizi                             │    │
 │ 124│-dizi-server                      │    │
+│ 130│-doomxss                          │    │
+│ 144│-eae                              │    │
+│ 145│-eah                              │    │
+│ 146│-eap                              │    │
+│ 147│-eaparam                          │    │
+│ 148│-eapath                           │    │
+│ 149│-earh                             │    │
 │ 150│-edgevpn                          │    │
+│ 151│-eefjsf                           │    │
 │ 165│-falconhound                      │    │
 │ 176│-ffufw                            │    │
+│ 192│-genscope                         │    │
 │ 220│-goawk                            │    │
 │ 233│-gotld                            │    │
+│ 250│-heacoll                          │    │
 │ 260│-hugo                             │    │
 │ 267│-invidtui                         │    │
+│ 292│-knoxssme                         │    │
+│ 295│-ksubdomain                       │    │
+│ 296│-ksubdomain_staticx               │    │
+│ 297│-kubemetrics                      │    │
 │ 298│-ladder                           │    │
+│ 299│-lazydocker                       │    │
+│ 300│-lazygit                          │    │
+│ 301│-legba                            │    │
+│ 302│-lf                               │    │
+│ 303│-linuxwave                        │    │
+│ 304│-listmonk                         │    │
+│ 305│-lnav                             │    │
+│ 306│-logcli                           │    │
+│ 307│-logtimer                         │    │
+│ 308│-loki                             │    │
+│ 309│-loki-canary                      │    │
+│ 310│-lsd                              │    │
 │ 311│-luet                             │    │
+│ 312│-lux                              │    │
+│ 313│-mabel                            │    │
+│ 314│-macchina                         │    │
+│ 315│-maddy                            │    │
+│ 316│-mailpit                          │    │
+│ 317│-mani                             │    │
+│ 318│-mantra                           │    │
+│ 319│-mapcidr                          │    │
+│ 320│-massdns                          │    │
 │ 321│-matterbridge                     │    │
+│ 322│-mcfly                            │    │
+│ 323│-mdcat                            │    │
+│ 324│-mdsh                             │    │
+│ 325│-melange                          │    │
+│ 326│-mergerfs                         │    │
+│ 327│-mgwls                            │    │
+│ 328│-micro                            │    │
 │ 329│-miniflux                         │    │
+│ 330│-miniserve                        │    │
+│ 331│-minisign                         │    │
+│ 333│-mksub                            │    │
+│ 334│-mlr                              │    │
+│ 335│-mmv                              │    │
+│ 336│-mqttui                           │    │
+│ 337│-mubeng                           │    │
+│ 339│-naabu                            │    │
+│ 340│-naabu_staticx                    │    │
+│ 341│-navi                             │    │
 │ 342│-ncat                             │    │
 │ 343│-ncdu                             │    │
+│ 345│-nerdctl                          │    │
+│ 346│-netbird                          │    │
 │ 348│-nginx                            │    │
 │ 349│-ngocok                           │    │
 │ 350│-ngrok                            │    │
@@ -35,14 +94,22 @@
 │ 355│-nmctl                            │    │
 │ 359│-nping                            │    │
 │ 360│-nrich                            │    │
+│ 361│-nrp                              │    │
 │ 375│-pfetch-rs                        │    │
 │ 382│-podsync                          │    │
+│ 389│-promtail                         │    │
+│ 400│-rapwp                            │    │
 │ 412│-rekor                            │    │
+│ 414│-removehost                       │    │
+│ 415│-removepro                        │    │
 │ 418│-resdns                           │    │
+│ 427│-robotstxt                        │    │
+│ 433│-rpfu                             │    │
 │ 450│-scp                              │    │
 │ 465│-sk-tmux                          │    │
 │ 476│-ssh                              │    │
 │ 497│-sunbeam                          │    │
+│ 505│-tahm                             │    │
 │ 507│-tailscale_merged                 │    │
 │ 515│-tgpt                             │    │
 │ 517│-tlrc                             │    │
