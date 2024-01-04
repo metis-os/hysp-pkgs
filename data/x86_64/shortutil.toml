@@ -1,0 +1,26 @@
+[bin]
+name = "shortutil"
+
+[package]
+architecture = "x86_64"
+name = "shortutil"
+description = "An IIS short filename enumeration tool"
+author = "bitquark"
+repo = "https://github.com/bitquark/shortscan"
+stars = "379"
+version = "v0.6.2"
+updated = "2023-07-31T20:04:07Z"
+size = "1.91 MB"
+bsum = "25893332089e412f0ac77c1c7799cce20fd06ec8082ff3390607307e378da600"
+sha = "462a2179bbc8e82857606cb5bb8ea83b052f6fe1c3bdb7a3b0a352d99a2bead2"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/shortutil"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["shortutil"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

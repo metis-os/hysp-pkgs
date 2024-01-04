@@ -1,0 +1,26 @@
+[bin]
+name = "sliver-client"
+
+[package]
+architecture = "x86_64"
+name = "sliver-client"
+description = "Adversary Emulation Framework"
+author = "BishopFox"
+repo = "https://github.com/BishopFox/sliver"
+stars = "7043"
+version = "v1.5.41"
+updated = "2023-07-11T21:41:22Z"
+size = "34.82 MB"
+bsum = "90b942c4140b85264bf1d883c58d61c4a82b1134b2f3e2e0f25f0f73a56376b5"
+sha = "afeb282bb991650ada2e73c65ed5a1770e1a3bc415b2e1e07462b854c077c93d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sliver-client"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["sliver-client"]
+requires = []
+
+[package.metadata]
+keywords = ["adversarial-attacks","adversary-simulation","c2","command-and-control","dns","dns-server","golang","gplv3","http","implant","red-team","red-team-engagement","red-teaming","security-tools","sliver"]
+categories = ["Utilities"]
