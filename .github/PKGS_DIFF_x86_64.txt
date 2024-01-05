@@ -41,6 +41,7 @@
 │ 412│-rekor                            │    │
 │ 418│-resdns                           │    │
 │ 450│-scp                              │    │
+│ 463│-sj                               │    │
 │ 465│-sk-tmux                          │    │
 │ 476│-ssh                              │    │
 │ 497│-sunbeam                          │    │
