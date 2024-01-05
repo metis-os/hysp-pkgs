@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6314
+- **Stars:** 6312
 - **Version:** v1.3.7
 - **Updated:** 2023-11-13T07:26:10Z
 - **Size:** 39.73 MB
@@ -194,7 +194,7 @@
 - **Description:** ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal.
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/haylxon](https://github.com/pwnwriter/haylxon)
-- **Stars:** 349
+- **Stars:** 348
 - **Version:** v0.1.9
 - **Updated:** 2023-11-03T07:24:19Z
 - **Size:** 6.03 MB
@@ -210,7 +210,7 @@
 - **Description:** 📦 An independent package manager that every hacker deserves.
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/hysp](https://github.com/pwnwriter/hysp)
-- **Stars:** 389
+- **Stars:** 388
 - **Version:** v0.1.2
 - **Updated:** 2023-12-13T15:03:18Z
 - **Size:** 3.26 MB
@@ -226,7 +226,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1959
+- **Stars:** 1958
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.79 MB
@@ -258,7 +258,7 @@
 - **Description:** 🦚 A web-app pentesting suite written in rust .
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/kanha](https://github.com/pwnwriter/kanha)
-- **Stars:** 220
+- **Stars:** 218
 - **Version:** v-v0.1.2
 - **Updated:** 2023-10-17T16:42:52Z
 - **Size:** 2.78 MB
