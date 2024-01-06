@@ -1,0 +1,26 @@
+[bin]
+name = "sshd"
+
+[package]
+architecture = "x86_64"
+name = "sshd"
+description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/static-toolbox"
+stars = "14"
+version = "misc_utils_2024_01_04_07_47_08_AM"
+updated = "2024-01-04T02:02:09Z"
+size = "4.69 MB"
+bsum = "b7836ce2f5e162edf5cab81e85e18d5aaf71672378f1e365393ce5a1de93b542"
+sha = "fba613d68fce1b7652bfeecdf000cdfc0a39aec169984227cf127806d90935ad"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sshd"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["sshd"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+categories = ["Utilities"]
