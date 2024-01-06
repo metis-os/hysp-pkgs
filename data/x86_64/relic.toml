@@ -1,0 +1,26 @@
+[bin]
+name = "relic"
+
+[package]
+architecture = "x86_64"
+name = "relic"
+description = "Relic is a service and a tool for adding digital signatures to operating system packages for Linux and Windows"
+author = "sassoftware"
+repo = "https://github.com/sassoftware/relic"
+stars = "130"
+version = "v7.6.1"
+updated = "2023-08-22T18:46:35Z"
+size = "24.18 MB"
+bsum = "8a98da4b959af0f3c24b89f04a914c847ea637f3842955e7227b6a9cc7a88e6b"
+sha = "e8d813430d28aa764e461693b2d20bcbbad03086ac1f7da6aba2baf4f6537313"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/relic"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["relic"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
