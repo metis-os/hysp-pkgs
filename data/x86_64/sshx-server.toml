@@ -1,0 +1,26 @@
+[bin]
+name = "sshx-server"
+
+[package]
+architecture = "x86_64"
+name = "sshx-server"
+description = "Fast, collaborative live terminal sharing over the web"
+author = "ekzhang"
+repo = "https://github.com/ekzhang/sshx"
+stars = "4680"
+version = "null"
+updated = ""
+size = "7.44 MB"
+bsum = "a85618a0c5adeb616a2e878c5df93b4cdd19d3638fa5e0f9c506e63592e1834f"
+sha = "929857885ca016fe11fe2bec8a8d6343b05e03e4635aad86ce445b4a6ab5d507"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sshx-server"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sshx-server"]
+requires = []
+
+[package.metadata]
+keywords = ["collaborative","rust","share","ssh","terminal","tty","web"]
+categories = ["Utilities"]

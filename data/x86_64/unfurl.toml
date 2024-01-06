@@ -1,0 +1,26 @@
+[bin]
+name = "unfurl"
+
+[package]
+architecture = "x86_64"
+name = "unfurl"
+description = "Pull out bits of URLs provided on stdin"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/unfurl"
+stars = "927"
+version = "v0.4.3"
+updated = "2022-07-19T14:36:40Z"
+size = "4.90 MB"
+bsum = "67baa1e1962f33d3848d7e79fe5870905c25bb5dde08533d2b66c6755c3f8e9a"
+sha = "eb82fea6583ca64947a10006925083ff6dbe2cab7e3459c826767de8c37f4b7e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/unfurl"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["unfurl"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
