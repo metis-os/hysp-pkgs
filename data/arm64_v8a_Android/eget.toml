@@ -1,0 +1,26 @@
+[bin]
+name = "eget"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "eget"
+description = "Easily install prebuilt binaries from GitHub."
+author = "zyedidia"
+repo = "https://github.com/zyedidia/eget"
+stars = "658"
+version = "v1.3.3"
+updated = "2023-02-22T05:15:46Z"
+size = "6.49 MB"
+bsum = "c8408b1f3f26fe9ba5a228e6528f51620304098e093784fbe4196d074e5962c9"
+sha = "2f2860a9d1f5514b3bba0a5b68e0013b82b88c54a4f31a37c7c2cceab832c843"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/eget"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["eget"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line-tool","go","golang","installer","prebuilt-binaries"]
+categories = ["Utilities"]
