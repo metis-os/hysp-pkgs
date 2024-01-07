@@ -1,0 +1,26 @@
+[bin]
+name = "waybackurls"
+
+[package]
+architecture = "x86_64"
+name = "waybackurls"
+description = "Fetch all the URLs that the Wayback Machine knows about for a domain"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/waybackurls"
+stars = "2967"
+version = "v0.1.0"
+updated = "2022-04-05T10:19:55Z"
+size = "4.70 MB"
+bsum = "e13efebdd548225f6f10fa8c319ce5c2d8389f47d1739338daf305924a2e0149"
+sha = "36b84064b62d5ce87bd723d84468d32dab6ea92a92c9b5389852a7c9efbc6ca9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/waybackurls"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["waybackurls"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
