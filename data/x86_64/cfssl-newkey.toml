@@ -1,0 +1,26 @@
+[bin]
+name = "cfssl-newkey"
+
+[package]
+architecture = "x86_64"
+name = "cfssl-newkey"
+description = "CFSSL: Cloudflare's PKI and TLS toolkit"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cfssl"
+stars = "8242"
+version = "v1.6.4"
+updated = "2023-04-10T19:07:12Z"
+size = "9.45 MB"
+bsum = "72c5ecf32c1e99418c5266a6e2377aa4c0e65d75ed29ca8c3f2210d22ce3fed5"
+sha = "4ccf1040e475ab6379242216211ed580fed5d2517fb50f3ca44f5e9aab2bbf78"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cfssl-newkey"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["cfssl-newkey"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

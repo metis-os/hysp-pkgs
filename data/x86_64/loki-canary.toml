@@ -1,0 +1,26 @@
+[bin]
+name = "loki-canary"
+
+[package]
+architecture = "x86_64"
+name = "loki-canary"
+description = "Like Prometheus, but for logs."
+author = "grafana"
+repo = "https://github.com/grafana/loki"
+stars = "20960"
+version = "v2.9.3"
+updated = "2023-12-11T19:59:24Z"
+size = "27.62 MB"
+bsum = "dbd492c9ce64934d6206bd50487d2acd0700eaddf8e1985141e3368074494ca3"
+sha = "f69a7490e7fee94fa6e0148fc21f3c83b9dac47e446c8643a0a3dda5700f4ea3"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/loki-canary"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["loki-canary"]
+requires = []
+
+[package.metadata]
+keywords = ["cloudnative","grafana","hacktoberfest","logging","loki","prometheus"]
+categories = ["Utilities"]

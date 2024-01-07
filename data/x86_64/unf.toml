@@ -1,0 +1,26 @@
+[bin]
+name = "unf"
+
+[package]
+architecture = "x86_64"
+name = "unf"
+description = "UNixize Filename -- replace annoying anti-unix characters in filenames"
+author = "io12"
+repo = "https://github.com/io12/unf"
+stars = "56"
+version = "2.1.4"
+updated = "2021-12-11T10:36:09Z"
+size = "2.33 MB"
+bsum = "1279cccb40e0761b504322d63e8b68e817d1786a93ae5005edd84ed0285909af"
+sha = "5ca76ec285e067b54a1f7bf6cf2bf45113a96646e4fc395886ee87934d635136"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/unf"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["unf"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","files","rust","shell","unix"]
+categories = ["Utilities"]

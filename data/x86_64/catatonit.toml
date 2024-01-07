@@ -1,0 +1,26 @@
+[bin]
+name = "catatonit"
+
+[package]
+architecture = "x86_64"
+name = "catatonit"
+description = "A container init that is so simple it's effectively brain-dead."
+author = "openSUSE"
+repo = "https://github.com/openSUSE/catatonit"
+stars = "149"
+version = "v0.2.0"
+updated = "2023-10-02T05:46:49Z"
+size = "1.08 MB"
+bsum = "66100cda610a85899405391e191185a8b3daea7c3c051e0f36f6819d387ec658"
+sha = "097e4ee45c781e8feca5c2bc0a215ba05260dc553a10f808f72e50ae2607f9e1"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/catatonit"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["catatonit"]
+requires = []
+
+[package.metadata]
+keywords = ["containers","docker"]
+categories = ["Utilities"]

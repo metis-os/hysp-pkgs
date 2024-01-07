@@ -1,0 +1,26 @@
+[bin]
+name = "dropbearmulti"
+
+[package]
+architecture = "x86_64"
+name = "dropbearmulti"
+description = "Dropbear SSH"
+author = "mkj"
+repo = "https://github.com/mkj/dropbear"
+stars = "1458"
+version = "DROPBEAR_2022.83"
+updated = "2022-11-14T14:05:56Z"
+size = "1.72 MB"
+bsum = "dd21411e8e02003a7ab35f7404f238dc180a9d68d0866812d56b0746f5b43b53"
+sha = "60b9db1329b22eee21cd6e96bc72c081d4981b92e6d74dc8b5a9ec79696b2749"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dropbearmulti"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["dropbearmulti"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

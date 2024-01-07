@@ -1,0 +1,26 @@
+[bin]
+name = "enola"
+
+[package]
+architecture = "x86_64"
+name = "enola"
+description = "This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks"
+author = "TheYahya"
+repo = "https://github.com/TheYahya/enola"
+stars = "483"
+version = "v0.2.4"
+updated = "2023-08-05T05:45:59Z"
+size = "7.47 MB"
+bsum = "064fd3c679ebcea5bcb369bd4d2f5892bb5b3c40c40b2687c80622c85b93524b"
+sha = "003b667d23ae6054a0e918c0593b85e18adda60b4e4a6cfeef3bc6b47fc8f2f2"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/enola"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["enola"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","go","golang","search","sherlock","sherlock-holmes","social-network","username"]
+categories = ["Utilities"]

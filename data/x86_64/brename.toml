@@ -1,0 +1,26 @@
+[bin]
+name = "brename"
+
+[package]
+architecture = "x86_64"
+name = "brename"
+description = "A practical cross-platform command-line tool for safely batch renaming files/directories via regular expression"
+author = "shenwei356"
+repo = "https://github.com/shenwei356/brename"
+stars = "235"
+version = "v2.13.0"
+updated = "2023-04-13T02:36:45Z"
+size = "7.24 MB"
+bsum = "6e7017ba8c7dd4e1cbca30a4b14cec28c183931fc4af20b312a400b1bce64e28"
+sha = "a80a601287a4208b513e0998a8dc5932da88960fc8f3dd707a159e72f1f597fe"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/brename"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["brename"]
+requires = []
+
+[package.metadata]
+keywords = ["batch","batch-rename","batch-rename-files","batch-renamer","go","golang","rename","safe","windows"]
+categories = ["Utilities"]

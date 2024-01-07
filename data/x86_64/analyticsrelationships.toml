@@ -1,0 +1,26 @@
+[bin]
+name = "analyticsrelationships"
+
+[package]
+architecture = "x86_64"
+name = "analyticsrelationships"
+description = "Get related domains / subdomains by looking at Google Analytics IDs"
+author = "Josue87"
+repo = "https://github.com/Josue87/AnalyticsRelationships"
+stars = "208"
+version = "null"
+updated = ""
+size = "4.73 MB"
+bsum = "54636f80f6e5016be9c386b6b0a4a2e497e9b9e73ca0aee9e95fb03581253621"
+sha = "7d95d8ca9c2f2e8efdada6c89b4effb7e3f5e5848c62f830dd42417acb8e352c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/analyticsrelationships"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["analyticsrelationships"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","osint","subdomains"]
+categories = ["Utilities"]

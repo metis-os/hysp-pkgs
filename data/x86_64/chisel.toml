@@ -1,0 +1,26 @@
+[bin]
+name = "chisel"
+
+[package]
+architecture = "x86_64"
+name = "chisel"
+description = "A fast TCP/UDP tunnel over HTTP"
+author = "jpillora"
+repo = "https://github.com/jpillora/chisel"
+stars = "10488"
+version = "v1.9.1"
+updated = "2023-08-23T10:26:18Z"
+size = "8.25 MB"
+bsum = "9e477f2a13455c0fd3e02353bbac2a712fd91954ee329fc53a1d49f8ab810bb6"
+sha = "5c14669b10bd8a65f669645a2af35c15e52bb6b9db31081c6840b359c0203682"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/chisel"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["chisel"]
+requires = []
+
+[package.metadata]
+keywords = ["golang","http","tcp","tunnel"]
+categories = ["Utilities"]

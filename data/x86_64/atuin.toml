@@ -1,0 +1,26 @@
+[bin]
+name = "atuin"
+
+[package]
+architecture = "x86_64"
+name = "atuin"
+description = "✨ Magical shell history"
+author = "atuinsh"
+repo = "https://github.com/atuinsh/atuin"
+stars = "12830"
+version = "v17.2.1"
+updated = "2024-01-03T15:52:50Z"
+size = "18.69 MB"
+bsum = "d23188179d74525b39e9cea65d41f9552e9e486f29311cf8301f87530ea7dc18"
+sha = "0eec3a6f5df8cbf942008941b5d3a1bc3ea999044f7ee682c3f3df9b28af0a84"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/atuin"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["atuin"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","fish","history","rust","shell","zsh"]
+categories = ["Utilities"]
