@@ -1,0 +1,26 @@
+[bin]
+name = "shellz"
+
+[package]
+architecture = "x86_64"
+name = "shellz"
+description = "shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place."
+author = "evilsocket"
+repo = "https://github.com/evilsocket/shellz"
+stars = "550"
+version = "v1.6.0"
+updated = "2021-08-19T12:46:24Z"
+size = "31.99 MB"
+bsum = "1dc7ee2a9309529e9c2d95ee4df0b1603d5d722761ed828d06f1f0e79f0b4b76"
+sha = "466006cc2512458c5c59b47432627347c1f94f1c0accf5df21439dfdf4c66f69"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/shellz"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["shellz"]
+requires = []
+
+[package.metadata]
+keywords = ["access","kubernetes","shell","ssh","telnet","winrm"]
+categories = ["Utilities"]
