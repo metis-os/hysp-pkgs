@@ -70,6 +70,7 @@
 │ 215│-gron                             │    │
 │ 217│-gs-netcat                        │    │
 │ 218│-gsocket                          │    │
+│ 226│-halp                             │    │
 │ 236│-hx                               │    │
 │ 242│-interactsh-server                │    │
 │ 243│-invidtui                         │    │
