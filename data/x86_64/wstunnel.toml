@@ -1,0 +1,26 @@
+[bin]
+name = "wstunnel"
+
+[package]
+architecture = "x86_64"
+name = "wstunnel"
+description = "Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available"
+author = "erebe"
+repo = "https://github.com/erebe/wstunnel"
+stars = "2235"
+version = "v8.5.4"
+updated = "2024-01-02T18:50:18Z"
+size = "7.03 MB"
+bsum = "df34e3cb32893edfb417b9d28d1f4ffe110cdf4b7b1de850866b563753c35657"
+sha = "ee1098bbe2859f688fab9052ae31b202ae904d9bdef49ee829c2208258951b6d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/wstunnel"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["wstunnel"]
+requires = []
+
+[package.metadata]
+keywords = ["reverse-tunnel","socks5-proxy","tcp-tunnel","transparent-proxy","tunneling","udp-tunnel","websocket","wireguard","wireguard-tunnel"]
+categories = ["Utilities"]

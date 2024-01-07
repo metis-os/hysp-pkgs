@@ -1,0 +1,26 @@
+[bin]
+name = "yazi"
+
+[package]
+architecture = "x86_64"
+name = "yazi"
+description = "💥 Blazing fast terminal file manager written in Rust, based on async I/O."
+author = "sxyazi"
+repo = "https://github.com/sxyazi/yazi"
+stars = "4624"
+version = "v0.1.5"
+updated = "2023-10-21T05:27:26Z"
+size = "9.94 MB"
+bsum = "fd64ee3daf1d5ab4f47bb4ea8392e068e329386813a248b6ba57ba46a0f0ac09"
+sha = "e3dab2b8943d96d32dd87e21887c3c3b70f4dbdf55644c5eebb825245e615dda"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yazi"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["yazi"]
+requires = []
+
+[package.metadata]
+keywords = ["asyncio","concurrency","file-manager","linux","macos","rust","terminal","tui","windows","yazi"]
+categories = ["Utilities"]

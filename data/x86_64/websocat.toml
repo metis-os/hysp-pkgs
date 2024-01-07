@@ -1,0 +1,26 @@
+[bin]
+name = "websocat"
+
+[package]
+architecture = "x86_64"
+name = "websocat"
+description = "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions"
+author = "vi"
+repo = "https://github.com/vi/websocat"
+stars = "6176"
+version = "v1.12.0"
+updated = "2023-09-17T15:00:07Z"
+size = "6.63 MB"
+bsum = "ed2feeadcf5e6bf12e1b67ae4da97db7e7ed4a624cd4a19b1672718085725fb6"
+sha = "c0d76f794e5652e4a3350084466a7f1de80591c0cb62a3ad29e022dbe0eef337"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/websocat"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["websocat"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","curl","netcat","proxy","rfc-6455","socat","websocket-client","websocket-server","websockets"]
+categories = ["Utilities"]
