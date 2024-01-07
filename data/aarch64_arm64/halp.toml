@@ -1,0 +1,26 @@
+[bin]
+name = "halp"
+
+[package]
+architecture = "aarch64_arm64"
+name = "halp"
+description = "A CLI tool to get help with CLI tools 🐙"
+author = "orhun"
+repo = "https://github.com/orhun/halp"
+stars = "635"
+version = "v0.1.7"
+updated = "2023-06-17T17:22:35Z"
+size = "2.08 MB"
+bsum = "2c75ed41b5110c5783591f57ffe487255d860d4cc810136b1966328705825c52"
+sha = "44a42370e8c581d43bfe69c50d44473edc3e9e43948101ec3c5debedb2d5d66e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/halp"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["halp"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","cli-command","cli-helper","cli-helpers","cli-tool","cli-tools","command-line","command-line-tool","command-line-tools","command-line-utility","help","helper","helpers","rust","terminal","terminal-helper"]
+categories = ["Utilities"]
