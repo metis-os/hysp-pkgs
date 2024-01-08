@@ -1,0 +1,26 @@
+[bin]
+name = "nerdctl"
+
+[package]
+architecture = "x86_64"
+name = "nerdctl"
+description = "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
+author = "containerd"
+repo = "https://github.com/containerd/nerdctl"
+stars = "7003"
+version = "v1.7.2"
+updated = "2023-12-12T11:25:26Z"
+size = "23.69 MB"
+bsum = "e48966e22cab9905dee4ba9476e7a579a5f9f5c90cf4ffa2b45d8f1ab1e63cc2"
+sha = "67f5003a68c4bda4cdd50dd6754aa20c3c0fcfb01a04d72fc4b7f83a9a957e46"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/nerdctl"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["nerdctl"]
+requires = []
+
+[package.metadata]
+keywords = ["containerd"]
+categories = ["Utilities"]
