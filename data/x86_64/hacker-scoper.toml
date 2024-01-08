@@ -1,0 +1,26 @@
+[bin]
+name = "hacker-scoper"
+
+[package]
+architecture = "x86_64"
+name = "hacker-scoper"
+description = "Automagically filter URLs with Bug Bounty program scope rules scraped from the internet."
+author = "ItsIgnacioPortal"
+repo = "https://github.com/ItsIgnacioPortal/hacker-scoper"
+stars = "21"
+version = "v3.0.0"
+updated = "2022-09-11T11:19:11Z"
+size = "5.10 MB"
+bsum = "7870bc73caac94d5fa721e8cef90d2f9badffd928f858f9c87fb71cb3415e146"
+sha = "626bfe26244c9484ea87ea33108c0f83d097ecbf8bd8919e0040de61c25e19dc"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hacker-scoper"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["hacker-scoper"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","bugcrowd","enumeration","filter","go","golang","hackerone","infosec","pentesting","recon","scopes","security","security-tools","websec","websecurity"]
+categories = ["Utilities"]

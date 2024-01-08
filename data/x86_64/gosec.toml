@@ -1,0 +1,26 @@
+[bin]
+name = "gosec"
+
+[package]
+architecture = "x86_64"
+name = "gosec"
+description = "Go security checker"
+author = "securego"
+repo = "https://github.com/securego/gosec"
+stars = "7254"
+version = "v2.18.2"
+updated = "2023-10-23T08:06:01Z"
+size = "7.59 MB"
+bsum = "1465d2f5a08d4c720556125e24b7dc7ae9219bc767604892c33b46881069a1b0"
+sha = "1ff6bbe3ac073a6a349263b72e2844acaa9eb14cc08116fd0d2202ea2b707c3a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gosec"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gosec"]
+requires = []
+
+[package.metadata]
+keywords = ["golang","security","security-automation","security-tools","static-analysis","static-code-analysis"]
+categories = ["Utilities"]

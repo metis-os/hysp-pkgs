@@ -1,0 +1,26 @@
+[bin]
+name = "gh-dash"
+
+[package]
+architecture = "x86_64"
+name = "gh-dash"
+description = "A beautiful CLI dashboard for GitHub 🚀"
+author = "dlvhdr"
+repo = "https://github.com/dlvhdr/gh-dash"
+stars = "3959"
+version = "v3.12.0"
+updated = "2024-01-05T15:09:36Z"
+size = "19.98 MB"
+bsum = "77db262f421ca082d9ecce108fdd7a14d663075e39392512f3d6b255ca665090"
+sha = "3e8df7cfb22623d88319a59010678b65771f9e50307ac96d5322337b68380ee6"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gh-dash"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gh-dash"]
+requires = []
+
+[package.metadata]
+keywords = ["bubbles","bubbletea","cli","cobra","gh-extension","glamour","go","golang","lipgloss","terminal"]
+categories = ["Utilities"]

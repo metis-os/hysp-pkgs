@@ -1,0 +1,26 @@
+[bin]
+name = "ropr"
+
+[package]
+architecture = "x86_64"
+name = "ropr"
+description = "A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative"
+author = "Ben-Lichtman"
+repo = "https://github.com/Ben-Lichtman/ropr"
+stars = "416"
+version = "0.2.25"
+updated = "2023-08-13T23:17:38Z"
+size = "2.42 MB"
+bsum = "72a2eb87ed3969cd81b7fb58757dd660a0a0bf0ab7a0eb982a33ed02c6641adc"
+sha = "a9fa23730e2cce4a9d079fcc26e9c5aff54d52d14958193934e79c6609074114"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ropr"
+language = "Rust"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ropr"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line-tool","exploitation","rop","rop-chain","rop-gadget","rust"]
+categories = ["Utilities"]
