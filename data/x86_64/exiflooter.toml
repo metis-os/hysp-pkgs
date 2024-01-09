@@ -1,0 +1,26 @@
+[bin]
+name = "exiflooter"
+
+[package]
+architecture = "x86_64"
+name = "exiflooter"
+description = "ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap"
+author = "aydinnyunus"
+repo = "https://github.com/aydinnyunus/exifLooter"
+stars = "378"
+version = "v1.0.0"
+updated = "2023-12-10T12:22:58Z"
+size = "6.53 MB"
+bsum = "c619aa7165c08e6ae8930b103d17513cdf121147ab1f740aa789c5dafdd19e6a"
+sha = "52becbeb26012f71e9950d913a4e26f2ee9ab48801325e44a0887fac3fe7d195"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/exiflooter"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["exiflooter"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","cyber-security","exif","exif-metadata","exiftool","golang","hack","hacking","image","metadata","metadata-extraction","osint","redteam","security"]
+categories = ["Utilities"]
