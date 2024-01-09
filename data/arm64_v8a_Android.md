@@ -78,22 +78,6 @@
 
 ---
 
-### eget
-- **Description:** Easily install prebuilt binaries from GitHub.
-- **Author:** zyedidia
-- **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 659
-- **Version:** v1.3.3
-- **Updated:** 2023-02-22T05:15:46Z
-- **Size:** 6.49 MB
-- **SHASUM:** ba98a2412085c371acf354befbe4ed62828a29cff12e1a079a593bf5f2af5f55
-- **B3SUM:** b22a9b4da831b4503a01faf47b1b9a70539f387ca03c4997838c083f94eb5d59
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/eget
-- **Language:** Go
-- **License:** MIT License
-
----
-
 ### encode
 - **Description:** Script to read input from stdin and encode it
 - **Author:** Brum3ns
@@ -130,7 +114,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22147
+- **Stars:** 22149
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.29 MB
@@ -158,27 +142,11 @@
 
 ---
 
-### gowitness
-- **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
-- **Author:** sensepost
-- **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2528
-- **Version:** 2.5.1
-- **Updated:** 2023-10-29T11:11:30Z
-- **Size:** 25.96 MB
-- **SHASUM:** 653952d6f66b49b395d6ef6d933d97172be8d99e8a55caeca3e50b714daad823
-- **B3SUM:** 811717cf5ec5e088f8472f5e2693167aa840135efe92c9109bf568de7abfa59b
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/gowitness
-- **Language:** Go
-- **License:** GNU General Public License v3.0
-
----
-
 ### httpx
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6328
+- **Stars:** 6329
 - **Version:** v1.3.7
 - **Updated:** 2023-11-13T07:26:10Z
 - **Size:** 39.73 MB
@@ -222,22 +190,6 @@
 
 ---
 
-### inscope
-- **Description:** A collection of hacks and one-off scripts
-- **Author:** tomnomnom
-- **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1977
-- **Version:** null
-- **Updated:** 
-- **Size:** 1.79 MB
-- **SHASUM:** 8c9afa63f31080fbb8712f47d7871c24596d99ea481747a2fd6069c3cddca507
-- **B3SUM:** dd5f01125240bb50cebe980b291b91dbb6ebd9fb4b1fa3d751d240197cd2f4c8
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/inscope
-- **Language:** Go
-- **License:** null
-
----
-
 ### jless
 - **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - **Author:** PaulJuliusMartinez
@@ -266,22 +218,6 @@
 - **B3SUM:** 6b2ed3125975891cddc8001b3ae8b6ce658ff5828a4f36e2fba36118a4d3dd34
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/kanha
 - **Language:** Rust
-- **License:** MIT License
-
----
-
-### mapcidr
-- **Description:** Utility program to perform multiple operations for a given subnet/CIDR ranges.
-- **Author:** projectdiscovery
-- **Repository:** [https://github.com/projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr)
-- **Stars:** 874
-- **Version:** v1.1.16
-- **Updated:** 2023-11-23T07:59:56Z
-- **Size:** 22.31 MB
-- **SHASUM:** c37809b7990f797ccf4af4a89fb45876574d11a1a96c9d8297c3037d33ea5c56
-- **B3SUM:** 4eaa6fe51d1d5765bbe2460e07ad9da8e1a0d621874d1545c039f34b700c3363
-- **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/mapcidr
-- **Language:** Go
 - **License:** MIT License
 
 ---
@@ -354,7 +290,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14882
+- **Stars:** 14883
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.42 MB
@@ -370,7 +306,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14882
+- **Stars:** 14883
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.69 MB
@@ -386,7 +322,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14882
+- **Stars:** 14883
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 28.10 MB
@@ -402,7 +338,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14882
+- **Stars:** 14883
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 29.86 MB
