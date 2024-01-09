@@ -1,0 +1,26 @@
+[bin]
+name = "git-cliff"
+
+[package]
+architecture = "aarch64_arm64"
+name = "git-cliff"
+description = "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️"
+author = "orhun"
+repo = "https://github.com/orhun/git-cliff"
+stars = "6633"
+version = "v1.4.0"
+updated = "2023-10-29T13:23:20Z"
+size = "7.43 MB"
+bsum = "b45d4e88b62e00778898eb46765485a7375f4714f9a3f047a09750e55cb84b0a"
+sha = "1fa585999da2f2d6ec403ff9959e7998761980822e83cac792199ba0051f6482"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-cliff"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["git-cliff"]
+requires = []
+
+[package.metadata]
+keywords = ["changelog","changelog-generator","commit","conventional-changelog","conventional-commit","conventional-commits","generator","git","git-cliff","hacktoberfest","keepachangelog","rust","semver"]
+categories = ["Utilities"]

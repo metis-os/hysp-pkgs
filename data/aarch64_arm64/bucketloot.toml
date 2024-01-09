@@ -1,0 +1,26 @@
+[bin]
+name = "bucketloot"
+
+[package]
+architecture = "aarch64_arm64"
+name = "bucketloot"
+description = "BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text."
+author = "redhuntlabs"
+repo = "https://github.com/redhuntlabs/BucketLoot"
+stars = "271"
+version = "v2.0"
+updated = "2023-11-13T14:01:44Z"
+size = "10.75 MB"
+bsum = "4979e544e8dc710a8dc20034021467e1dd3efd672dc8bd898f882f1b84cb458c"
+sha = "b722988065116712c610c7813b87e84dcb363dd1d0979dac274a9078de0953e0"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/bucketloot"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["bucketloot"]
+requires = []
+
+[package.metadata]
+keywords = ["automation","blackhat","bounty","bugbounty","bughunting","cli","cloud","cloud-security","cybersecurity","infosec","infosectools","osint","pentesting","recon","reconnaissance","s3","secret-scanning"]
+categories = ["Utilities"]

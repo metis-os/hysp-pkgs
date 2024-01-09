@@ -1,0 +1,26 @@
+[bin]
+name = "git-lfs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "git-lfs"
+description = "Git extension for versioning large files"
+author = "git-lfs"
+repo = "https://github.com/git-lfs/git-lfs"
+stars = "12151"
+version = "v3.4.1"
+updated = "2023-12-13T23:25:51Z"
+size = "10.27 MB"
+bsum = "bd677a8506dc5197fb2befce23244dee11dbf6798a569cfbb539ffa059c801f9"
+sha = "828b2d4047cf772997a7b7b71b5bac94b790cca6691ee905fbdbf1d61f090aef"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-lfs"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["git-lfs"]
+requires = []
+
+[package.metadata]
+keywords = ["git","git-lfs","go"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ov"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ov"
+description = "🎑Feature-rich terminal-based text viewer. It is a so-called terminal pager."
+author = "noborus"
+repo = "https://github.com/noborus/ov"
+stars = "1244"
+version = "v0.33.0"
+updated = "2023-12-30T05:47:28Z"
+size = "7.63 MB"
+bsum = "bded62db74b1c35b93f7bea3cebeb949486052c2a67e06f78a2fea4287e76882"
+sha = "90f5bd71d25c8f86161b0319e4b5126faf372325389b6f1b7c4009b4cc6605e4"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/ov"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ov"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","go","golang","incremental-search","less","more","pager","tail","tcell","terminal","terminal-pager","tui"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "git-log"
+
+[package]
+architecture = "aarch64_arm64"
+name = "git-log"
+description = "A highly extensible Git implementation in pure Go."
+author = "go-git"
+repo = "https://github.com/go-git/go-git"
+stars = "5258"
+version = "v5.11.0"
+updated = "2023-12-09T19:56:52Z"
+size = "6.64 MB"
+bsum = "767e8aecd72c52de9ab33be5569b0c6d1255e6f79cc0c2c1d7fe39a9208e73c3"
+sha = "7edf14915deb1d2ca38f8d1e83f91417c99683a967a313dec1d16c5f2d8c3b7d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/git-log"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["git-log"]
+requires = []
+
+[package.metadata]
+keywords = ["git","git-client","git-server","go-git","golang"]
+categories = ["Utilities"]
