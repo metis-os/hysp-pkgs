@@ -1,0 +1,26 @@
+[bin]
+name = "jqp"
+
+[package]
+architecture = "x86_64"
+name = "jqp"
+description = "A TUI playground to experiment with jq"
+author = "noahgorstein"
+repo = "https://github.com/noahgorstein/jqp"
+stars = "1905"
+version = "v0.5.0"
+updated = "2023-09-18T02:05:21Z"
+size = "11.11 MB"
+bsum = "e156057cd05ac83d8f264c3fc1ae1d2c7840bf581be575cf1a1cc04b026b8397"
+sha = "5de84213dddf498c82edc72783a7cbd8797e081366da02b1c448df8b7e619a47"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/jqp"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jqp"]
+requires = []
+
+[package.metadata]
+keywords = ["go","jq","tui"]
+categories = ["Utilities"]
