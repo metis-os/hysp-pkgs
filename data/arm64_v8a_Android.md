@@ -195,8 +195,8 @@
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/haylxon](https://github.com/pwnwriter/haylxon)
 - **Stars:** 350
-- **Version:** v0.1.9
-- **Updated:** 2023-11-03T07:24:19Z
+- **Version:** v0.1.10
+- **Updated:** 2024-01-09T15:11:15Z
 - **Size:** 6.03 MB
 - **SHASUM:** 999efb0e47ed88ceb8a8851189a234cc17e347a3b0ede797ab1129ffc854f192
 - **B3SUM:** cedf7c1a753326bcd4629fd44036d2173215b9238ccb570a9e0a5bf82800dc70
