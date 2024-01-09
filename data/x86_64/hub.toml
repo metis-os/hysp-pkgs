@@ -1,0 +1,26 @@
+[bin]
+name = "hub"
+
+[package]
+architecture = "x86_64"
+name = "hub"
+description = "A command-line tool that makes git easier to use with GitHub."
+author = "mislav"
+repo = "https://github.com/mislav/hub"
+stars = "22609"
+version = "v2.14.2"
+updated = "2020-03-05T17:55:23Z"
+size = "6.14 MB"
+bsum = "dcf3e12cb2a48f704828c905e96d54ea7a516288c47e1b722e145b043690011a"
+sha = "8015699ab1ebc34d5f06d1f6de02da68f26c6d2aed590c8c97ef71b507fb04b9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/hub"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hub"]
+requires = []
+
+[package.metadata]
+keywords = ["git","github-api","go","homebrew","pull-request"]
+categories = ["Utilities"]

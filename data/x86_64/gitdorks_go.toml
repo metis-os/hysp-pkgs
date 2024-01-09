@@ -1,0 +1,26 @@
+[bin]
+name = "gitdorks_go"
+
+[package]
+architecture = "x86_64"
+name = "gitdorks_go"
+description = "一款在github上发现敏感信息的自动化收集工具"
+author = "damit5"
+repo = "https://github.com/damit5/gitdorks_go"
+stars = "197"
+version = "v0.1"
+updated = "2022-03-16T07:43:35Z"
+size = "5.12 MB"
+bsum = "ef15e8e7e12f3cf15034f8f5c8a2e5c5d2d91f1f1daac6d45d5aea6b2f21134e"
+sha = "29f558022aeb31e875b85a5ef5d595f3f389a6690b2ca238580d04efbe2d3a6a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gitdorks_go"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["gitdorks_go"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

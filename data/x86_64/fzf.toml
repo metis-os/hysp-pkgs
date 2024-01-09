@@ -1,0 +1,26 @@
+[bin]
+name = "fzf"
+
+[package]
+architecture = "x86_64"
+name = "fzf"
+description = ":cherry_blossom: A command-line fuzzy finder"
+author = "junegunn"
+repo = "https://github.com/junegunn/fzf"
+stars = "56645"
+version = "0.45.0"
+updated = "2024-01-01T06:41:32Z"
+size = "3.36 MB"
+bsum = "0d6dd788f93757a8e83ff35fc69de366adea32c69eddad317519ba173b616f92"
+sha = "ce92a58f76189e089a756c8246360915f46d49e0dc87098afcfc0e1ef45988bb"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/fzf"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["fzf"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","cli","fish","fzf","go","neovim","tmux","unix","vim","zsh"]
+categories = ["Utilities"]
