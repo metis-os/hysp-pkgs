@@ -2,7 +2,7 @@
 - **Description:** A tool for adding new lines to files, skipping duplicates
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1109
+- **Stars:** 1110
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.41 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22152
+- **Stars:** 22154
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.29 MB
@@ -162,7 +162,7 @@
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost
 - **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2528
+- **Stars:** 2529
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 25.96 MB
