@@ -7,26 +7,10 @@
 │ 23 │-aretext                          │    │
 │ 30 │-aws-nuke.tar.gz                  │    │
 │ 34 │-batcat                           │    │
-│ 35 │-bbscope                          │    │
-│ 36 │-bbtargets                        │    │
 │ 37 │-bed                              │    │
-│ 42 │-boltconn                         │    │
 │ 43 │-bombadillo                       │    │
-│ 44 │-bore                             │    │
-│ 45 │-boringtun-cli                    │    │
-│ 46 │-bottom                           │    │
-│ 47 │-brename                          │    │
-│ 48 │-broot                            │    │
-│ 49 │-btop                             │    │
-│ 50 │-bucketloot                       │    │
-│ 51 │-busybox                          │    │
-│ 52 │-byp4xx                           │    │
-│ 53 │-caddy                            │    │
-│ 54 │-cdncheck                         │    │
-│ 55 │-cent                             │    │
 │ 56 │-certgraph                        │    │
 │ 57 │-certspotter                      │    │
-│ 58 │-certstream                       │    │
 │ 59 │-certstream-server-go             │    │
 │ 60 │-certwatcher                      │    │
 │ 61 │-cexec                            │    │
@@ -36,19 +20,12 @@
 │ 65 │-cfssl-newkey                     │    │
 │ 66 │-cfssl-scan                       │    │
 │ 67 │-cfssljson                        │    │
-│ 69 │-chaos-client                     │    │
 │ 70 │-cheat                            │    │
-│ 71 │-checkbypass                      │    │
-│ 72 │-cherrybomb                       │    │
 │ 73 │-chisel                           │    │
 │ 74 │-circumflex                       │    │
 │ 76 │-cloudcash                        │    │
 │ 77 │-cloudfox.tar.gz                  │    │
-│ 78 │-cloudlist                        │    │
-│ 79 │-cloudreve                        │    │
 │ 80 │-cog                              │    │
-│ 81 │-comb                             │    │
-│ 82 │-containerd                       │    │
 │ 84 │-cowitness                        │    │
 │ 85 │-cowsay                           │    │
 │ 86 │-cowthink                         │    │
@@ -80,30 +57,14 @@
 │ 166│-fuse-overlayfs                   │    │
 │ 168│-fwanalyzer                       │    │
 │ 173│-genscope                         │    │
-│ 177│-gfx                              │    │
-│ 178│-gh                               │    │
 │ 179│-gh-dash                          │    │
-│ 181│-git-cliff                        │    │
-│ 183│-git-lfs                          │    │
-│ 184│-git-log                          │    │
 │ 186│-git-sizer                        │    │
-│ 187│-git-tag                          │    │
-│ 188│-gitdorks_go                      │    │
 │ 189│-gitea.tar.gz                     │    │
-│ 191│-github-regexp                    │    │
-│ 192│-github-subdomains                │    │
-│ 193│-gitlab-subdomains                │    │
-│ 194│-gitleaks                         │    │
 │ 195│-gitql                            │    │
-│ 196│-gitui                            │    │
-│ 197│-glow                             │    │
 │ 199│-goawk                            │    │
 │ 201│-gocurl                           │    │
-│ 202│-godns                            │    │
 │ 203│-godnsbench                       │    │
 │ 205│-gojq                             │    │
-│ 206│-goop                             │    │
-│ 207│-gorilla                          │    │
 │ 208│-gosec                            │    │
 │ 212│-gotty                            │    │
 │ 215│-gron                             │    │
@@ -117,15 +78,9 @@
 │ 248│-jaq                              │    │
 │ 249│-jira                             │    │
 │ 251│-jql                              │    │
-│ 254│-jwt-hack                         │    │
 │ 255│-k9s                              │    │
-│ 257│-katana                           │    │
-│ 258│-killport                         │    │
 │ 260│-knoxssme                         │    │
-│ 262│-kopia                            │    │
 │ 264│-ladder                           │    │
-│ 266│-lazygit                          │    │
-│ 267│-lf                               │    │
 │ 269│-listmonk                         │    │
 │ 270│-logcli                           │    │
 │ 272│-loki                             │    │
@@ -150,21 +105,14 @@
 │ 311│-njs                              │    │
 │ 315│-nping                            │    │
 │ 317│-nu                               │    │
-│ 322│-orbiton                          │    │
-│ 323│-osmedeus                         │    │
-│ 325│-ov                               │    │
 │ 326│-overmind                         │    │
 │ 327│-passdetective                    │    │
 │ 328│-pdfcpu                           │    │
 │ 329│-pfetch-rs                        │    │
 │ 331│-phantun-client                   │    │
 │ 332│-phantun-server                   │    │
-│ 333│-pkgtop                           │    │
 │ 334│-planor                           │    │
-│ 335│-podman                           │    │
 │ 336│-podsync                          │    │
-│ 338│-ppfuzz                           │    │
-│ 339│-pping                            │    │
 │ 343│-promtail                         │    │
 │ 345│-pspy                             │    │
 │ 352│-quickcert                        │    │
@@ -204,9 +152,6 @@
 │ 413│-sj                               │    │
 │ 414│-sk                               │    │
 │ 415│-sk-tmux                          │    │
-│ 417│-sns                              │    │
-│ 419│-spk                              │    │
-│ 420│-spoof-dpi                        │    │
 │ 421│-sq                               │    │
 │ 422│-ssh                              │    │
 │ 423│-ssh-add                          │    │
@@ -216,47 +161,25 @@
 │ 427│-ssh-keysign                      │    │
 │ 428│-sshd                             │    │
 │ 429│-sshd_config                      │    │
-│ 430│-sshesame                         │    │
-│ 431│-sshkeys                          │    │
-│ 433│-starship                         │    │
-│ 434│-stew                             │    │
-│ 435│-strace                           │    │
-│ 436│-sttr                             │    │
 │ 437│-stuffbin                         │    │
-│ 440│-subxtract                        │    │
 │ 441│-sunbeam                          │    │
 │ 442│-supervisord                      │    │
-│ 443│-surf                             │    │
 │ 444│-svg-hush                         │    │
 │ 445│-syncthing                        │    │
-│ 447│-systeroid                        │    │
-│ 449│-tailscale                        │    │
 │ 450│-tailscale_merged                 │    │
-│ 451│-tailscaled                       │    │
-│ 452│-tailspin                         │    │
 │ 453│-taplo                            │    │
-│ 454│-tdl                              │    │
-│ 455│-tere                             │    │
 │ 456│-termshark                        │    │
 │ 457│-tgpt                             │    │
 │ 459│-tlrc                             │    │
-│ 460│-tlsx                             │    │
-│ 461│-tmate                            │    │
-│ 462│-tok                              │    │
-│ 463│-tokei                            │    │
-│ 464│-toybox                           │    │
 │ 465│-traefik.tar.gz                   │    │
 │ 466│-trufflehog.tar.gz                │    │
-│ 467│-try                              │    │
 │ 468│-tty2web                          │    │
 │ 469│-ttyd                             │    │
 │ 470│-tuiarchiver                      │    │
-│ 471│-tut                              │    │
 │ 472│-twingate-client                  │    │
 │ 473│-twingate-connector               │    │
 │ 474│-twingate-connectorctl            │    │
 │ 475│-twingate-notifier                │    │
-│ 476│-txeh                             │    │
 │ 478│-u-root                           │    │
 │ 480│-uip                              │    │
 │ 482│-unf                              │    │

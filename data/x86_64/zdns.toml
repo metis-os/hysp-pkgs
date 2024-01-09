@@ -1,0 +1,26 @@
+[bin]
+name = "zdns"
+
+[package]
+architecture = "x86_64"
+name = "zdns"
+description = "Fast CLI DNS Lookup Tool"
+author = "zmap"
+repo = "https://github.com/zmap/zdns"
+stars = "816"
+version = "v1.0.0"
+updated = "2023-09-10T17:09:04Z"
+size = "8.32 MB"
+bsum = "0c8157aac3b334c772bd2808a091881c70fca88310cd3e154730f6b921c30775"
+sha = "9aa919101fbd84672fb0849e0f6fc9a3c1cee3c1843a11d269d377a0f43625eb"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/zdns"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["zdns"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
