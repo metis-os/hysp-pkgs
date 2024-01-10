@@ -1,0 +1,26 @@
+[bin]
+name = "wth"
+
+[package]
+architecture = "x86_64"
+name = "wth"
+description = "What The Heck: The better personal information dashboard for your terminal"
+author = "mrusme"
+repo = "https://github.com/mrusme/wth"
+stars = "32"
+version = "v0.1.1"
+updated = "2023-07-03T20:07:14Z"
+size = "5.00 MB"
+bsum = "9260f30a5aecbb3038ddf8f29f1127bf08ae46df34b7450da29fdd03136ee150"
+sha = "b362769700908cab31fc9971206795ed0138e8eb082f4026262ff34cb3a9fb89"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/wth"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["wth"]
+requires = []
+
+[package.metadata]
+keywords = ["bubbletea","dashboard","terminal","terminal-app","terminal-based","terminal-dashboard","tui","what-the-heck","wtf","wtfutil","wth"]
+categories = ["Utilities"]
