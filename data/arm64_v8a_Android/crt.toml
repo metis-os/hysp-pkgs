@@ -1,0 +1,26 @@
+[bin]
+name = "crt"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "crt"
+description = "A CLI tool to check Certificate Transparency logs of a domain name."
+author = "cemulus"
+repo = "https://github.com/cemulus/crt"
+stars = "64"
+version = "v0.1.0"
+updated = "2022-03-08T21:41:54Z"
+size = "4.63 MB"
+bsum = "e88660448ab5d18b9fb550694e8b59d572c320897b4a6154772e1d4f9062bc73"
+sha = "f624a6fac2b800689758ab4d63cd0c412aa8c55d769d25ada3aad330585ae6f1"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/crt"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["crt"]
+requires = []
+
+[package.metadata]
+keywords = ["certificate","certificate-transparency","crt","pem","ssl","subdomain"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "kanha"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "kanha"
+description = "🦚 A web-app pentesting suite written in rust ."
+author = "pwnwriter"
+repo = "https://github.com/pwnwriter/kanha"
+stars = "220"
+version = "v-v0.1.2"
+updated = "2023-10-17T16:42:52Z"
+size = "2.78 MB"
+bsum = "6b2ed3125975891cddc8001b3ae8b6ce658ff5828a4f36e2fba36118a4d3dd34"
+sha = "d92ce5d7f396d0cd46c7766bca3aaa0351abb4cfec0279b94783eb06dfd0d303"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/kanha"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["kanha"]
+requires = []
+
+[package.metadata]
+keywords = ["hackers-tools","hacsectools","hactoberfest","offsec-tools","osint","pentesting-suite","pwntools","pwnwriter","recon","unixporn"]
+categories = ["Utilities"]

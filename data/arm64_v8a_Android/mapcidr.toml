@@ -1,0 +1,26 @@
+[bin]
+name = "mapcidr"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "mapcidr"
+description = "Utility program to perform multiple operations for a given subnet/CIDR ranges."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/mapcidr"
+stars = "874"
+version = "v1.1.16"
+updated = "2023-11-23T07:59:56Z"
+size = "22.31 MB"
+bsum = "4eaa6fe51d1d5765bbe2460e07ad9da8e1a0d621874d1545c039f34b700c3363"
+sha = "c37809b7990f797ccf4af4a89fb45876574d11a1a96c9d8297c3037d33ea5c56"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/mapcidr"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mapcidr"]
+requires = []
+
+[package.metadata]
+keywords = ["cidr","cidr-ranges","subnetting","subnetwork"]
+categories = ["Utilities"]
