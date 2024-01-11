@@ -4,7 +4,7 @@ name = "ddns-go"
 [package]
 architecture = "x86_64"
 name = "ddns-go"
-description = "简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)"
+description = "Simple and easy to use DDNS. Automatically update domain name resolution to public IP (Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...)"
 author = "jeessy2"
 repo = "https://github.com/jeessy2/ddns-go"
 stars = "7886"
