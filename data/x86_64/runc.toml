@@ -1,0 +1,26 @@
+[bin]
+name = "runc"
+
+[package]
+architecture = "x86_64"
+name = "runc"
+description = "CLI tool for spawning and running containers according to the OCI specification"
+author = "opencontainers"
+repo = "https://github.com/opencontainers/runc"
+stars = "11033"
+version = "v1.1.11"
+updated = "2024-01-02T03:00:18Z"
+size = "10.21 MB"
+bsum = "8b9a6b9d35b35d24bd3d03cd2e2ba3b34da9991852e85e006af5db8bc7d562f5"
+sha = "77ae134de014613c44d25e6310a57a219a7a91155cd47d069a0f22a2cad5caea"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/runc"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["runc"]
+requires = []
+
+[package.metadata]
+keywords = ["containers","docker","oci"]
+categories = ["Utilities"]
