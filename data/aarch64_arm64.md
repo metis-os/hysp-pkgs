@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 34152
+- **Stars:** 34153
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 61.29 MB
@@ -258,7 +258,7 @@
 - **Description:** Find domains and subdomains related to a given domain
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder)
-- **Stars:** 2693
+- **Stars:** 2694
 - **Version:** v0.1.1
 - **Updated:** 2020-04-15T10:38:43Z
 - **Size:** 4.57 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 13791
+- **Stars:** 13806
 - **Version:** v17.2.1
 - **Updated:** 2024-01-03T15:52:50Z
 - **Size:** 16.73 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44610
+- **Stars:** 44611
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -786,7 +786,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1981
+- **Stars:** 1982
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.29 MB
@@ -1042,7 +1042,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19563
+- **Stars:** 19564
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.18 MB
@@ -1058,7 +1058,7 @@
 - **Description:** Instant, easy, and predictable development environments
 - **Author:** jetpack-io
 - **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
-- **Stars:** 6802
+- **Stars:** 6803
 - **Version:** 0.8.5
 - **Updated:** 2023-12-22T17:05:59Z
 - **Size:** 23.29 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 30234
+- **Stars:** 30236
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.47 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40340
+- **Stars:** 40341
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.70 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40340
+- **Stars:** 40341
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 47.63 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56707
+- **Stars:** 56708
 - **Version:** 0.45.0
 - **Updated:** 2024-01-01T06:41:32Z
 - **Size:** 3.31 MB
@@ -2050,7 +2050,7 @@
 - **Description:** Protect and discover secrets using Gitleaks 🔑
 - **Author:** gitleaks
 - **Repository:** [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-- **Stars:** 14450
+- **Stars:** 14451
 - **Version:** v8.18.1
 - **Updated:** 2023-11-17T20:58:58Z
 - **Size:** 6.27 MB
@@ -2210,7 +2210,7 @@
 - **Description:** Simple Go-based setuid+setgid+setgroups+exec
 - **Author:** tianon
 - **Repository:** [https://github.com/tianon/gosu](https://github.com/tianon/gosu)
-- **Stars:** 4530
+- **Stars:** 4531
 - **Version:** 1.17
 - **Updated:** 2023-11-02T21:46:05Z
 - **Size:** 2.10 MB
@@ -2530,7 +2530,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6340
+- **Stars:** 6341
 - **Version:** v1.3.7
 - **Updated:** 2023-11-13T07:26:10Z
 - **Size:** 35.76 MB
@@ -2610,7 +2610,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1981
+- **Stars:** 1982
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.66 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27607
+- **Stars:** 27608
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.63 MB
@@ -2690,7 +2690,7 @@
 - **Description:** A TUI playground to experiment with jq
 - **Author:** noahgorstein
 - **Repository:** [https://github.com/noahgorstein/jqp](https://github.com/noahgorstein/jqp)
-- **Stars:** 1906
+- **Stars:** 1907
 - **Version:** v0.5.0
 - **Updated:** 2023-09-18T02:05:21Z
 - **Size:** 10.75 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15449
+- **Stars:** 15450
 - **Version:** 1.22.1
 - **Updated:** 2024-01-08T21:37:12Z
 - **Size:** 2.78 MB
@@ -2755,8 +2755,8 @@
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/katana](https://github.com/projectdiscovery/katana)
 - **Stars:** 7951
-- **Version:** v1.0.4
-- **Updated:** 2023-09-14T17:35:36Z
+- **Version:** v1.0.5
+- **Updated:** 2024-01-11T22:04:21Z
 - **Size:** 31.86 MB
 - **SHA256SUM:** cc6a80336c643e127145d99b5371c4e18b71847e8584530bcd9c45a7174aaa4f
 - **B3SUM:** 81209bea55357666c359e9e5b5c1bee3fd177a1317fdbbb7137ffb14f86db900
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 41510
+- **Stars:** 41513
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 14.75 MB
@@ -2882,7 +2882,7 @@
 - **Description:** Terminal file manager
 - **Author:** gokcehan
 - **Repository:** [https://github.com/gokcehan/lf](https://github.com/gokcehan/lf)
-- **Stars:** 6740
+- **Stars:** 6741
 - **Version:** r31
 - **Updated:** 2023-09-17T11:55:19Z
 - **Size:** 3.38 MB
@@ -3074,7 +3074,7 @@
 - **Description:** a featureful union filesystem
 - **Author:** trapexit
 - **Repository:** [https://github.com/trapexit/mergerfs](https://github.com/trapexit/mergerfs)
-- **Stars:** 3627
+- **Stars:** 3628
 - **Version:** 2.38.0
 - **Updated:** 2023-10-29T23:23:29Z
 - **Size:** 1.75 MB
@@ -3170,7 +3170,7 @@
 - **Description:** Subscribe to a MQTT Topic or publish something quickly from the terminal
 - **Author:** EdJoPaTo
 - **Repository:** [https://github.com/EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
-- **Stars:** 237
+- **Stars:** 238
 - **Version:** v0.19.0
 - **Updated:** 2023-05-17T19:39:12Z
 - **Size:** 2.34 MB
@@ -3586,7 +3586,7 @@
 - **Description:** A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/proxify](https://github.com/projectdiscovery/proxify)
-- **Stars:** 2461
+- **Stars:** 2462
 - **Version:** v0.0.12
 - **Updated:** 2023-08-12T20:48:49Z
 - **Size:** 34.42 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42024
+- **Stars:** 42026
 - **Version:** v1.65.1
 - **Updated:** 2024-01-08T11:51:12Z
 - **Size:** 52.82 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 42567
+- **Stars:** 42571
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.09 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 22039
+- **Stars:** 22040
 - **Version:** v0.1.11
 - **Updated:** 2024-01-02T23:05:09Z
 - **Size:** 16.24 MB
@@ -4322,7 +4322,7 @@
 - **Description:** Fast passive subdomain enumeration tool.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
-- **Stars:** 8767
+- **Stars:** 8768
 - **Version:** v2.6.4
 - **Updated:** 2024-01-11T19:00:24Z
 - **Size:** 23.50 MB
@@ -4466,7 +4466,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 4370
+- **Stars:** 4372
 - **Version:** 2.4.0
 - **Updated:** 2024-01-11T06:54:46Z
 - **Size:** 2.61 MB
@@ -4562,7 +4562,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1981
+- **Stars:** 1982
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.29 MB
@@ -5138,7 +5138,7 @@
 - **Description:** yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
 - **Author:** mikefarah
 - **Repository:** [https://github.com/mikefarah/yq](https://github.com/mikefarah/yq)
-- **Stars:** 10066
+- **Stars:** 10067
 - **Version:** v4.40.5
 - **Updated:** 2023-12-12T02:53:05Z
 - **Size:** 8.93 MB
