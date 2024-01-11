@@ -1,0 +1,26 @@
+[bin]
+name = "ddns-go"
+
+[package]
+architecture = "x86_64"
+name = "ddns-go"
+description = "Simple and easy to use DDNS. Automatically update domain name resolution to public IP (Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...)"
+author = "jeessy2"
+repo = "https://github.com/jeessy2/ddns-go"
+stars = "7886"
+version = "v6.0.0"
+updated = "2024-01-11T11:26:01Z"
+size = "8.25 MB"
+bsum = "487b9d85cca057ebb2669f0901781be88b1db36533d7516306fdd001c403bfe9"
+sha = "d0524190990a3234446c239af6e8119e577891c204b144e8bcb5e217d1f0604a"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ddns-go"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ddns-go"]
+requires = []
+
+[package.metadata]
+keywords = ["alidns","baiduyun","cloudflare","ddns","ddns-go","dnspod","godaddy-ddns","google-domains","porkbun"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "dbclient"
+
+[package]
+architecture = "x86_64"
+name = "dbclient"
+description = "Dropbear SSH"
+author = "mkj"
+repo = "https://github.com/mkj/dropbear"
+stars = "1458"
+version = "DROPBEAR_2022.83"
+updated = "2022-11-14T14:05:56Z"
+size = "1.46 MB"
+bsum = "2c9fa007c5aa2977ba93ba00a28b48cbe6d1327ee512dd6f45ef9656adef4280"
+sha = "280fdd1a7d811c77bf705eb151029132b303b637d7b6b0b22eb8a6aec2cad774"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dbclient"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["dbclient"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

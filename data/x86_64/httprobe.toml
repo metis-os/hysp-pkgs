@@ -1,0 +1,26 @@
+[bin]
+name = "httprobe"
+
+[package]
+architecture = "x86_64"
+name = "httprobe"
+description = "Take a list of domains and probe for working HTTP and HTTPS servers"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/httprobe"
+stars = "2648"
+version = "v0.2"
+updated = "2022-06-09T16:22:06Z"
+size = "4.51 MB"
+bsum = "203fb530277c077cbd72dc1f11c0ce643664f05e649a6df9e00ed810c6d27a1e"
+sha = "2003c9d7ef89fd908941adca673ab9c3676a3e445a7fbbf298686f158b17c25e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/httprobe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["httprobe"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

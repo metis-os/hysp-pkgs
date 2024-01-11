@@ -1,0 +1,26 @@
+[bin]
+name = "mani"
+
+[package]
+architecture = "x86_64"
+name = "mani"
+description = ":robot: CLI tool to help you manage repositories"
+author = "alajmo"
+repo = "https://github.com/alajmo/mani"
+stars = "403"
+version = "v0.25.0"
+updated = "2023-06-07T22:07:05Z"
+size = "4.77 MB"
+bsum = "b6eb3a4275ff021c8a64ba4e589fc6df706cd3f14c036b5ca3c73c579a45470f"
+sha = "00bff787d16774742ff58f79e60d7ffae6b69107cd409a73b2d26ba3d2c25bb7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mani"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mani"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","git","golang"]
+categories = ["Utilities"]
