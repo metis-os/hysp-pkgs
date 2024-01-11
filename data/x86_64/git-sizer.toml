@@ -1,0 +1,26 @@
+[bin]
+name = "git-sizer"
+
+[package]
+architecture = "x86_64"
+name = "git-sizer"
+description = "Compute various size metrics for a Git repository, flagging those that might cause problems"
+author = "github"
+repo = "https://github.com/github/git-sizer"
+stars = "3162"
+version = "v1.5.0"
+updated = "2021-11-16T16:14:39Z"
+size = "2.50 MB"
+bsum = "9dfabb40ba8e8ba928f91d80acbcaa0438c9341d50b03a2955a434d729e7b7fc"
+sha = "d9222bf8c5a0dc86b89d6b1e08aeb77fdcf8dc6408ab529fdec8a22292a70376"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/git-sizer"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["git-sizer"]
+requires = []
+
+[package.metadata]
+keywords = ["git","github","golang"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "github-regexp"
+
+[package]
+architecture = "x86_64"
+name = "github-regexp"
+description = "Basically a regexp over a GitHub search."
+author = "gwen001"
+repo = "https://github.com/gwen001/github-regexp"
+stars = "55"
+version = "v1.2.1"
+updated = "2023-02-09T13:40:09Z"
+size = "4.97 MB"
+bsum = "fc7214fd8eaa2d391e85d54c76f69442e5a7d3e46fc4ebad6276a93e9d95d0f4"
+sha = "a3bee4951b2b8b58a2a6022fa72eb232a91bea6e544964fbf634c64a45ddae7e"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/github-regexp"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["github-regexp"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","github","go","golang","pentesting","private","regexp","secrets","security-tools"]
+categories = ["Utilities"]

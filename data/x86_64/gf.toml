@@ -1,0 +1,26 @@
+[bin]
+name = "gf"
+
+[package]
+architecture = "x86_64"
+name = "gf"
+description = "A wrapper around grep, to help you grep for things"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/gf"
+stars = "1563"
+version = "null"
+updated = ""
+size = "1.87 MB"
+bsum = "49714cc157635b3fe8b2baee5e6b9903263bd40a8aca8ea9ccf91a7edf9bd9e9"
+sha = "77a4df87e1451dea4f8022f47953a6b32e16f17f8af4eb01a427f645958da660"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gf"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gf"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
