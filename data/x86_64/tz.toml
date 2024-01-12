@@ -1,0 +1,26 @@
+[bin]
+name = "tz"
+
+[package]
+architecture = "x86_64"
+name = "tz"
+description = "🌐 A time zone helper"
+author = "oz"
+repo = "https://github.com/oz/tz"
+stars = "783"
+version = "v0.7.0"
+updated = "2024-01-10T00:36:19Z"
+size = "2.36 MB"
+bsum = "f45fd74e5b56c8aec040e8c45ed5efbe6547a47d5b0401498a7499c1a9ada489"
+sha = "a668e1ec80af12b07532dcd990950f65f44b5adc69484ef04b5c1932081a3fab"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tz"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["tz"]
+requires = []
+
+[package.metadata]
+keywords = ["timezone","tzdata","zone-helper"]
+categories = ["Utilities"]
