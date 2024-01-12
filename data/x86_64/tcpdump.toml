@@ -22,5 +22,5 @@ conflicts  = ["tcpdump"]
 requires = []
 
 [package.metadata]
-keywords = ["berkeley-packet-filter","bpf","bsd-packet-filter","libpcap","packet-capture","pcap","pcapng","sniffer","tcpdump"]
+keywords = ["auditing","berkeley-packet-filter","bpf","bsd-packet-filter","libpcap","packet-capture","pcap","pcapng","security","sniffer","tcpdump","troubleshooting"]
 categories = ["Utilities"]
