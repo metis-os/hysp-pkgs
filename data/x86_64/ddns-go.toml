@@ -4,7 +4,7 @@ name = "ddns-go"
 [package]
 architecture = "x86_64"
 name = "ddns-go"
-description = "Simple and easy to use DDNS. Automatically update domain name resolution to public IP (Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...)"
+description = "Simple and easy to use DDNS. Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo..."
 author = "jeessy2"
 repo = "https://github.com/jeessy2/ddns-go"
 stars = "7890"
