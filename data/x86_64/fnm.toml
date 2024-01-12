@@ -1,0 +1,26 @@
+[bin]
+name = "fnm"
+
+[package]
+architecture = "x86_64"
+name = "fnm"
+description = "🚀 Fast and simple Node.js version manager, built in Rust"
+author = "Schniz"
+repo = "https://github.com/Schniz/fnm"
+stars = "14317"
+version = "v1.35.1"
+updated = "2023-08-16T06:13:47Z"
+size = "7.00 MB"
+bsum = "a9bf0d9abc379a0d549266ff5f082a9774c3fa61036bdcb2763d7a5af661dbbc"
+sha = "b011cb6177bff94f29fd7dad2b65e776baafab1e5dc69987cdd79de14a383132"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/fnm"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["fnm"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","javascript","nodejs","nvm","reasonml","version"]
+categories = ["Utilities"]
