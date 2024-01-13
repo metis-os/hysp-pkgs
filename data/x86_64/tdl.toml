@@ -1,0 +1,26 @@
+[bin]
+name = "tdl"
+
+[package]
+architecture = "x86_64"
+name = "tdl"
+description = "📥 A Telegram downloader/tools written in Golang"
+author = "iyear"
+repo = "https://github.com/iyear/tdl"
+stars = "2716"
+version = "v0.14.1"
+updated = "2024-01-08T11:12:17Z"
+size = "33.49 MB"
+bsum = "b1f367723808de83a89d8cccdc3fd0c7d26d6e6e4b6a65bd5c06e03202f8e124"
+sha = "7aa880a27338fbbfb589252f0a77ad0d753dc325e29c55ea064162eaca4b253b"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tdl"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["tdl"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","download","downloader","telegram","telegram-api"]
+categories = ["Utilities"]

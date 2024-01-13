@@ -7,6 +7,8 @@
 │ 23 │-aretext                          │    │
 │ 30 │-aws-nuke.tar.gz                  │    │
 │ 34 │-batcat                           │    │
+│ 35 │-bbscope                          │    │
+│ 36 │-bbtargets                        │    │
 │ 37 │-bed                              │    │
 │ 43 │-bombadillo                       │    │
 │ 56 │-certgraph                        │    │
@@ -20,9 +22,12 @@
 │ 65 │-cfssl-newkey                     │    │
 │ 66 │-cfssl-scan                       │    │
 │ 67 │-cfssljson                        │    │
+│ 68 │-chainredir                       │    │
 │ 70 │-cheat                            │    │
+│ 71 │-checkbypass                      │    │
 │ 73 │-chisel                           │    │
 │ 74 │-circumflex                       │    │
+│ 75 │-cleanpath                        │    │
 │ 76 │-cloudcash                        │    │
 │ 77 │-cloudfox.tar.gz                  │    │
 │ 80 │-cog                              │    │
@@ -40,6 +45,11 @@
 │ 115│-doomxss                          │    │
 │ 116│-dotenv-linter                    │    │
 │ 125│-dufs                             │    │
+│ 128│-eae                              │    │
+│ 129│-eah                              │    │
+│ 130│-eap                              │    │
+│ 131│-eaparam                          │    │
+│ 132│-eapath                           │    │
 │ 133│-earh                             │    │
 │ 134│-edgevpn                          │    │
 │ 135│-eefjsf                           │    │
@@ -70,40 +80,103 @@
 │ 215│-gron                             │    │
 │ 217│-gs-netcat                        │    │
 │ 218│-gsocket                          │    │
+│ 220│-gxss                             │    │
+│ 221│-hacker-scoper                    │    │
+│ 222│-hakip2host                       │    │
+│ 223│-hakoriginfinder                  │    │
+│ 224│-hakrawler                        │    │
+│ 225│-hakrevdns                        │    │
+│ 226│-halp                             │    │
+│ 227│-heacoll                          │    │
+│ 228│-hednsextractor                   │    │
+│ 229│-hexyl                            │    │
+│ 230│-horust                           │    │
+│ 231│-hostctl                          │    │
+│ 232│-htmlq                            │    │
+│ 233│-httprobe                         │    │
+│ 234│-httpx                            │    │
+│ 235│-hub                              │    │
 │ 236│-hx                               │    │
+│ 237│-hxn                              │    │
+│ 238│-hyperfine                        │    │
+│ 239│-hysp                             │    │
+│ 240│-inscope                          │    │
+│ 241│-interactsh-client                │    │
 │ 242│-interactsh-server                │    │
 │ 243│-invidtui                         │    │
+│ 244│-iperf3                           │    │
 │ 245│-ipt2socks                        │    │
 │ 246│-istioctl                         │    │
+│ 247│-jaeles                           │    │
 │ 248│-jaq                              │    │
 │ 249│-jira                             │    │
+│ 250│-jq                               │    │
 │ 251│-jql                              │    │
+│ 252│-jqp                              │    │
+│ 253│-just                             │    │
+│ 254│-jwt-hack                         │    │
 │ 255│-k9s                              │    │
+│ 256│-kanha                            │    │
+│ 257│-katana                           │    │
+│ 258│-killport                         │    │
+│ 259│-kmon                             │    │
 │ 260│-knoxssme                         │    │
+│ 261│-kondo                            │    │
+│ 262│-kopia                            │    │
+│ 263│-kubemetrics                      │    │
 │ 264│-ladder                           │    │
+│ 265│-lazydocker                       │    │
+│ 266│-lazygit                          │    │
+│ 267│-lf                               │    │
+│ 268│-linuxwave                        │    │
 │ 269│-listmonk                         │    │
 │ 270│-logcli                           │    │
+│ 271│-logtimer                         │    │
 │ 272│-loki                             │    │
 │ 273│-loki-canary                      │    │
 │ 274│-lsd                              │    │
 │ 275│-luet                             │    │
+│ 276│-lux                              │    │
+│ 277│-mabel                            │    │
+│ 278│-macchina                         │    │
+│ 279│-maddy                            │    │
 │ 280│-mailpit                          │    │
+│ 281│-mani                             │    │
+│ 282│-mantra                           │    │
+│ 283│-mapcidr                          │    │
+│ 284│-massdns                          │    │
 │ 285│-matterbridge                     │    │
 │ 286│-mcfly                            │    │
+│ 287│-mdsh                             │    │
 │ 288│-melange                          │    │
+│ 289│-mergerfs                         │    │
+│ 290│-mgwls                            │    │
+│ 291│-micro                            │    │
 │ 292│-miniflux                         │    │
+│ 293│-miniserve                        │    │
 │ 294│-minisign                         │    │
 │ 295│-mkbundle                         │    │
+│ 296│-mksub                            │    │
+│ 297│-mlr                              │    │
 │ 298│-mmv                              │    │
+│ 299│-mqttui                           │    │
+│ 300│-mubeng                           │    │
 │ 301│-multirootca                      │    │
 │ 302│-navi                             │    │
 │ 303│-ncat                             │    │
 │ 304│-ncdu                             │    │
+│ 305│-neofetch                         │    │
+│ 306│-nerdctl                          │    │
+│ 307│-netbird                          │    │
 │ 308│-nginx                            │    │
 │ 309│-ngocok                           │    │
 │ 310│-ngrok                            │    │
 │ 311│-njs                              │    │
+│ 312│-nmap                             │    │
+│ 313│-nmap-formatter                   │    │
+│ 314│-notify                           │    │
 │ 315│-nping                            │    │
+│ 316│-nrp                              │    │
 │ 317│-nu                               │    │
 │ 326│-overmind                         │    │
 │ 327│-passdetective                    │    │
@@ -166,6 +239,7 @@
 │ 442│-supervisord                      │    │
 │ 444│-svg-hush                         │    │
 │ 445│-syncthing                        │    │
+│ 448│-tahm                             │    │
 │ 450│-tailscale_merged                 │    │
 │ 453│-taplo                            │    │
 │ 456│-termshark                        │    │
