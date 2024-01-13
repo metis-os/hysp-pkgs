@@ -1,0 +1,26 @@
+[bin]
+name = "eza"
+
+[package]
+architecture = "x86_64"
+name = "eza"
+description = "A modern, maintained replacement for ls"
+author = "eza-community"
+repo = "https://github.com/eza-community/eza"
+stars = "4699"
+version = "v0.17.1"
+updated = "2024-01-11T15:27:23Z"
+size = "1.91 MB"
+bsum = "55ebd311f3dee7b7846238118ff4f7244e6dff34938fc5243cec761d435f32b7"
+sha = "72fc03ff46e31ff65131d501e74bc8f6c62dc8dd10ce7b9f75c672ef54e207de"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eza"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["eza"]
+requires = []
+
+[package.metadata]
+keywords = ["color","command-line","files","hacktoberfest","icons","ls","nerd-fonts","rust","terminal","tools"]
+categories = ["Utilities"]
