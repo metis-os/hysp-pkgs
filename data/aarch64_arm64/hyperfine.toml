@@ -1,0 +1,26 @@
+[bin]
+name = "hyperfine"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hyperfine"
+description = "A command-line benchmarking tool"
+author = "sharkdp"
+repo = "https://github.com/sharkdp/hyperfine"
+stars = "18522"
+version = "v1.18.0"
+updated = "2023-10-05T08:07:11Z"
+size = "0.96 MB"
+bsum = "18353ee3a3e8073d90aeac4598ff4e2e21c8493b3879befffc59cf48bc046cd5"
+sha = "8088765e73706462e412cde729e5c3f868eaaee249ca568642b7d686586363ff"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hyperfine"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["hyperfine"]
+requires = []
+
+[package.metadata]
+keywords = ["benchmark","cli","command-line","hacktoberfest","rust","terminal","tool"]
+categories = ["Utilities"]

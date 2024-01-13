@@ -1,0 +1,26 @@
+[bin]
+name = "macchina"
+
+[package]
+architecture = "aarch64_arm64"
+name = "macchina"
+description = "A system information frontend with an emphasis on performance."
+author = "Macchina-CLI"
+repo = "https://github.com/Macchina-CLI/macchina"
+stars = "988"
+version = "v6.1.8"
+updated = "2023-01-09T15:11:08Z"
+size = "2.84 MB"
+bsum = "03518aec1338d1cb77dd1468f93d6a6844571f3381dac36a319bd0f599efeb87"
+sha = "84af3dff0b7c41e0b3eb1a366ac50c7cdfffd780d8f86caf1e50c57ffb29fb66"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/macchina"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["macchina"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","cross-platform","fetch","system-information"]
+categories = ["Utilities"]

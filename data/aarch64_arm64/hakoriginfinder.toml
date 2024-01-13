@@ -1,0 +1,26 @@
+[bin]
+name = "hakoriginfinder"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hakoriginfinder"
+description = "Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!"
+author = "hakluke"
+repo = "https://github.com/hakluke/hakoriginfinder"
+stars = "756"
+version = "null"
+updated = ""
+size = "4.31 MB"
+bsum = "f3138b03aacc1b7f18a151e2c9bde3559682be9cfe7924fc88977650d3786276"
+sha = "00e40a6272b2db8f9b1da903d399e994b2fdbce072265bb317c26c68caa75ffa"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hakoriginfinder"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["hakoriginfinder"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
