@@ -1,0 +1,26 @@
+[bin]
+name = "txeh"
+
+[package]
+architecture = "aarch64_arm64"
+name = "txeh"
+description = "Go library and CLI utility for /etc/hosts management."
+author = "txn2"
+repo = "https://github.com/txn2/txeh"
+stars = "303"
+version = "v1.5.4"
+updated = "2023-09-05T17:50:55Z"
+size = "3.05 MB"
+bsum = "aa062e346180c76c2ddb22a792dbc249429f6de91e842bbf0455eb5bbe8b771b"
+sha = "f32128169431ef42eade81749b7006059bb88fac6ab98257f5ecb8ef335c7ee8"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/txeh"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["txeh"]
+requires = []
+
+[package.metadata]
+keywords = ["binary","brew","developer-tools","devops","dns","golang","homebrew","hostsfile","library","network","networking","sysadmin","utility"]
+categories = ["Utilities"]

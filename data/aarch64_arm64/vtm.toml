@@ -1,0 +1,26 @@
+[bin]
+name = "vtm"
+
+[package]
+architecture = "aarch64_arm64"
+name = "vtm"
+description = "Text mode desktop"
+author = "directvt"
+repo = "https://github.com/directvt/vtm"
+stars = "1463"
+version = "v0.9.54"
+updated = "2024-01-10T10:08:54Z"
+size = "4.52 MB"
+bsum = "6ae82dbe9027d98bf8a2dacb78866ee1c330420359396683087b6d188ca1f22b"
+sha = "e105355724c359932901a26fdbbdecd7302b77982c9d6210f0c83eb2e2a373f5"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/vtm"
+language = "C++"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["vtm"]
+requires = []
+
+[package.metadata]
+keywords = ["multiplexer","terminal","tui"]
+categories = ["Utilities"]
