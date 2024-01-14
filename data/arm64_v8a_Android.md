@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22220
+- **Stars:** 22221
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.29 MB
@@ -274,7 +274,7 @@
 - **Description:** Utility program to perform multiple operations for a given subnet/CIDR ranges.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr)
-- **Stars:** 873
+- **Stars:** 874
 - **Version:** v1.1.16
 - **Updated:** 2023-11-23T07:59:56Z
 - **Size:** 22.31 MB
