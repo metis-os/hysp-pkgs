@@ -22,5 +22,5 @@ conflicts  = ["qsv"]
 requires = []
 
 [package.metadata]
-keywords = ["ckan","cli","csv","data-engineering","data-wrangling","datapackage","excel","geocode","luau","opendata","parquet","polars","postgresql","rust","snappy","sql","sqlite","tsv"]
+keywords = ["ckan","cli","csv","data-engineering","data-wrangling","datapackage","excel","geocode","luau","opendata","parquet","polars","postgresql","rust","snappy","sql","sqlite","timeseries","tsv"]
 categories = ["Utilities"]
