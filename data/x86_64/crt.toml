@@ -1,0 +1,26 @@
+[bin]
+name = "crt"
+
+[package]
+architecture = "x86_64"
+name = "crt"
+description = "A CLI tool to check Certificate Transparency logs of a domain name."
+author = "cemulus"
+repo = "https://github.com/cemulus/crt"
+stars = "64"
+version = "v0.1.0"
+updated = "2022-03-08T21:41:54Z"
+size = "4.44 MB"
+bsum = "02ace2ff4643483de42f57a72b2014d0cf781bace366fa2f5453039b7b4c0a59"
+sha = "eead33efa1af9e6d65d4058b4667853dc63771e0a4d7daa89a0455ec1c970c8f"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["crt"]
+requires = []
+
+[package.metadata]
+keywords = ["certificate","certificate-transparency","crt","pem","ssl","subdomain"]
+categories = ["Utilities"]
