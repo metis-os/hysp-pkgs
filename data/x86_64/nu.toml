@@ -1,0 +1,26 @@
+[bin]
+name = "nu"
+
+[package]
+architecture = "x86_64"
+name = "nu"
+description = "A new type of shell"
+author = "nushell"
+repo = "https://github.com/nushell/nushell"
+stars = "28072"
+version = "0.89.0"
+updated = "2024-01-09T21:03:29Z"
+size = "57.93 MB"
+bsum = "0d7bea62cec52715bc22675c8f85d1e7554858d869841970d7c48214290d80f6"
+sha = "5e5330f7fedb6286759e9838a77c2b91415d294ceb15a920544a63bd0586abb1"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/nu"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["nu"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","shell"]
+categories = ["Utilities"]
