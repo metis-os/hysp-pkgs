@@ -22,5 +22,5 @@ conflicts  = ["vtm"]
 requires = []
 
 [package.metadata]
-keywords = ["cli","cmd","command-line","command-line-interface","console","cui","desktop","floating-window","multiplexer","multiuser","powershell","remote-access-tool","remote-desktop","ssh","terminal","text-based","tiling-window-manager","tui","vt","wsl"]
+keywords = ["cli","cmd","command-line","command-line-interface","console","cui","desktop-environment","floating-window","multiplexer","multiuser","remote","remote-access-tool","remote-desktop","ssh","terminal","text-based","tiling-window-manager","tui","vt","wsl"]
 categories = ["Utilities"]
