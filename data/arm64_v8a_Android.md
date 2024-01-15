@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8254
+- **Stars:** 8255
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.10 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22244
+- **Stars:** 22245
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.29 MB
@@ -179,8 +179,8 @@
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
 - **Stars:** 6360
-- **Version:** v1.3.7
-- **Updated:** 2023-11-13T07:26:10Z
+- **Version:** v1.3.8
+- **Updated:** 2024-01-15T23:02:18Z
 - **Size:** 39.73 MB
 - **SHASUM:** 87e41ea67d68b3a5d6f07c463c2be4feff49e3649125b0b201ffdbe20970a86e
 - **B3SUM:** 294b1626f354c673ab226448722a05b30b9f692631bb3308ed1183bf5eadba92
