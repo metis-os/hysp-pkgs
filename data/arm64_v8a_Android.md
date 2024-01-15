@@ -6,8 +6,8 @@
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.41 MB
-- **SHASUM:** 6ec76b020ab38309a3e3e4877fe79397f136e3b6e08e7f2f9125ab80b9739ecd
-- **B3SUM:** 835f73a08b04dc090275a2371204e42a471d0cb2130a3083ce9a265b9d5447c9
+- **SHASUM:** 71f4a6a24d16f0d78808ccbaabbb0d0a75b086494070eecb8f1e13cd098f9cda
+- **B3SUM:** f6da4ac6923f9fecac2b770956139ba4f45b0dcb2814d2b59a657f86d64fe51c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/anew
 - **Language:** Go
 - **License:** MIT License
@@ -38,8 +38,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.54 MB
-- **SHASUM:** 6a2d1d68102d307b0d320fbfb8952fca5f4cedd2a7ffb1abce30756e6881bddb
-- **B3SUM:** ef45f18ddc202414aeeb87588b25d2e81f05b14fabccc876d1441bed12f7d700
+- **SHASUM:** 37f9a4688a6859ca0371af3668c711d66e4b3ff0de8b55b9e5ecc7d78e57251c
+- **B3SUM:** 0824ab2b6dbd2afc399bade351f23760bc50d7016530dbfd3a357ada498d9294
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/certstream
 - **Language:** Shell
 - **License:** null
@@ -54,8 +54,8 @@
 - **Version:** v0.1.0
 - **Updated:** 2022-03-08T21:41:54Z
 - **Size:** 4.63 MB
-- **SHASUM:** 7ef2b7ef584d74af7b6fc48c398741a529690d143bab5c638b8349e3802d7285
-- **B3SUM:** 54ead0bdf04145ec7c6c8db99d29e20d73685b3117b46de16b2c8710308961a5
+- **SHASUM:** 16c7bfd4b2f38896cd05800bc74e1acbaa65b5c607834838842c01e2d632cfb8
+- **B3SUM:** b6d521907c31503b8882a3d3d865f436d4eff41f05a917bd121f047be87b664d
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/crt
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -70,8 +70,8 @@
 - **Version:** v1.1.6
 - **Updated:** 2023-11-11T19:20:44Z
 - **Size:** 25.01 MB
-- **SHASUM:** fbf712fbaec54022c6d2d6ba9e8b077450ff9ecb6b82df3f5d32b26ff6b70be8
-- **B3SUM:** 7d391ee14cafdb65a01e315f6ffda39175813462328b9dcc2b09d4ebf80d858b
+- **SHASUM:** 420449d2fd6b0d4d3d0f065665afbfc2f203c2edb5b94d48d1577b2ee1fef977
+- **B3SUM:** 108cb10a27253dbfa59042b376866589a3a6837aa79c81010c8f92e6d5139535
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/dnsx
 - **Language:** Go
 - **License:** MIT License
@@ -86,8 +86,8 @@
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.49 MB
-- **SHASUM:** 291cf2270fed0181f4feafd18cf96a6ec163a10b92bd3cf022f5c22dea5a9e5e
-- **B3SUM:** 9b9eaf812f652d1e1b2a7dfb4de61622e384b846939ba487e6ce02a4a8451145
+- **SHASUM:** af83968bb95a1afaa0374eb711a12bc98d5a5deaa7ee8d5df2f85f66d2608cf8
+- **B3SUM:** 68ef29cfbf7cb3da76864e41c4e7f5d92b5692fd467639b642fa0e087e56a8fe
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/eget
 - **Language:** Go
 - **License:** MIT License
@@ -102,8 +102,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.49 MB
-- **SHASUM:** eae0553a7461c315843ae610c87abd711366aa2b7f6ba5b7ac28f9b566776e1b
-- **B3SUM:** 4a7209d52079f611a0daccee0a356a969c6c311f5513448851b7af747c6a1bc3
+- **SHASUM:** d453d69368bf3b9b1ca04a5b587dd7983fc3c4377aac6b5a973328cda67a4d71
+- **B3SUM:** f208bc6281fab40219965803e70be0183b91bc2b32cbbac26073651d2d915a72
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/encode
 - **Language:** Go
 - **License:** MIT License
@@ -114,12 +114,12 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10768
+- **Stars:** 10769
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.18 MB
-- **SHASUM:** 3b4196399d72d1ba7a482c746f19e244d76744f23f4aca920779f82d28b2046c
-- **B3SUM:** aa2bbd67dec677609db42258bb0c948b6c8bf08babf6e70ef24459ac521f0279
+- **SHASUM:** 0b48d664d7ecd40b4f63573d9d0190b6a62bb46866ff66af4ee431e9fc6ce004
+- **B3SUM:** 3f3f5a5f375ebac2cf77aeb9f623ee8e016078e4ea7c6a2dbeb484ea6be71e91
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/ffuf
 - **Language:** Go
 - **License:** MIT License
@@ -134,8 +134,8 @@
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.29 MB
-- **SHASUM:** 88889efc9f3b6bef5f0c9e68e16912de012e5bdfc982a4e62ccbf7fd94fd26a1
-- **B3SUM:** 8404f26b894e128cf5113c58d12cb1b1193c1cf90aea944d1dcdbefb8ed84e4e
+- **SHASUM:** d4a83496a0cbaa8550974bcd73a3421d834a245c0702ebd81b7eb41e87992a65
+- **B3SUM:** a48d1c5a4c2e6f8dd1cb3b1884d377319df24401a95ff7e4bdab3fde3cd81c9b
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/filebrowser
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -150,8 +150,8 @@
 - **Version:** v3.0.5
 - **Updated:** 2024-01-05T15:35:43Z
 - **Size:** 11.81 MB
-- **SHASUM:** 3ca1e6d2d2e7477546d7f0aacad2d5ba1b21d1d7539dcccec3fb287421441b8d
-- **B3SUM:** aeda7a7a5c7cf3cc689abf05717afa680db85e09c8f0e2ffd6a14721ee0fcd03
+- **SHASUM:** 00041eb1bc03c10bd60f2841e5c0727673e8dbfa77e27e6a607cdb943d79d406
+- **B3SUM:** 54fc4fc287262b7940a594c332e61032086bd147f962f066f987059cc3835d8c
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/godns
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -166,8 +166,8 @@
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 25.96 MB
-- **SHASUM:** ff717fe1b464c8c4594803d5e3c2d85a9b0e1098d672874a81334f34b4db451e
-- **B3SUM:** d4b2d02bffa38446b45a397c313a9cc272b39864b1280fb89430b8ea930a40fb
+- **SHASUM:** ba6dbe913c99d9333b7f2a27986e53c8722023687f7ed958ceaf1b4ef945c795
+- **B3SUM:** f4db3cdc35161a03bf905354ba2a7b832fe07b9ed8d371cc4f63fb572f882f8a
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/gowitness
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -178,12 +178,12 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6354
+- **Stars:** 6355
 - **Version:** v1.3.7
 - **Updated:** 2023-11-13T07:26:10Z
 - **Size:** 39.73 MB
-- **SHASUM:** d41914dab4a5e38c96e0a6b12cde08949a53688ebc2dbdce51bd6c78af925105
-- **B3SUM:** f9b3837fd7f55d2c6e2e3188bd93c65595f6de65a065b957135f68251bab10bf
+- **SHASUM:** 87e41ea67d68b3a5d6f07c463c2be4feff49e3649125b0b201ffdbe20970a86e
+- **B3SUM:** 294b1626f354c673ab226448722a05b30b9f692631bb3308ed1183bf5eadba92
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/httpx
 - **Language:** Go
 - **License:** MIT License
@@ -198,8 +198,8 @@
 - **Version:** v0.1.10
 - **Updated:** 2024-01-09T15:11:15Z
 - **Size:** 5.94 MB
-- **SHASUM:** ac8dc795c9c8e1f3b98ae667ee56906eb59c9697c8ab36130f6c1644ec8ca152
-- **B3SUM:** e82040cf2c4c8f9332fb6b26a6730e601b7de3e9d0abcc5a8ca2931c7874d78f
+- **SHASUM:** ca98c6d1210be877603229267e047d01e9c92b7bb316a711d13e7945eb6d9f35
+- **B3SUM:** 7214c4e42827883c4c3f198fa31b35d4d6d1ff2d4e3ace66d7e75f69a814d778
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/hxn
 - **Language:** Rust
 - **License:** MIT License
@@ -214,8 +214,8 @@
 - **Version:** v0.1.2
 - **Updated:** 2023-12-13T15:03:18Z
 - **Size:** 3.25 MB
-- **SHASUM:** 173950b95ea914a994c3728eb0deea4d6b672e9b17a3d8adb739eb9ba096dfd7
-- **B3SUM:** 9234ac027511581cd0807e055094440df6f176fdc911d0683f84f6a945718118
+- **SHASUM:** 45cb0db69da283f88fd66552e5b7ad755c7a4fb3b35854147cb9581962e34bf4
+- **B3SUM:** 9bdcb948698d4db45ee356cc2f824d719fd91ac823ea34a5daaae410010e1159
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/hysp
 - **Language:** Rust
 - **License:** MIT License
@@ -230,8 +230,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.79 MB
-- **SHASUM:** 97cc64bdc4b15ba1135c4cf9e3da7da8a27ac7c1210674d18cd5d749547ad222
-- **B3SUM:** a111ba94d7b1bb532922a98d12527f283b2633e4c4407082abde1e00f6acc884
+- **SHASUM:** d8a842973371299e197749844c25c2145d13ff013b8b27b041a85544662db593
+- **B3SUM:** aa55a5930025837ea2f9954da91db054fc2908a6c7d81d5849c3087980077429
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/inscope
 - **Language:** Go
 - **License:** null
@@ -278,8 +278,8 @@
 - **Version:** v1.1.16
 - **Updated:** 2023-11-23T07:59:56Z
 - **Size:** 22.31 MB
-- **SHASUM:** 5aef21b8b8e8311a4aab7ffa77a1a8853d9742e505f367924eead2112623fc0b
-- **B3SUM:** c262373328226785a67d5292186b5f277aa4979bf9cb053f8ba0a0409eb9ee7b
+- **SHASUM:** 1c5319afa7dc5825ec94b3009daf694389f28eea1898ff6176a25ee537dbbbeb
+- **B3SUM:** 65ce34f427357c4f473ed2fd7a3416d815d678ec49a191fed3581ddccae0f829
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/mapcidr
 - **Language:** Go
 - **License:** MIT License
@@ -294,8 +294,8 @@
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.48 MB
-- **SHASUM:** 4b88f9b770dc1c9a9e24a1519f063a39541a3d233c20d8a611102788d0084de3
-- **B3SUM:** ae0ba7a1db20aa2e85de9c06368401d2ae5f986073bb7c40463c7a2cc262946a
+- **SHASUM:** cb50b7ed8f0e5f2e4fece53a2ccdf39c764ec1b69296097806bb5013beb958b9
+- **B3SUM:** 9e829134a98ec8d9a97abaad1429585c7fd859b5af14f98ac91dfc23e291a484
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/pspy
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -310,8 +310,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.54 MB
-- **SHASUM:** 77e4ae8537d18155d334691917cdf38be6b31a995244a7056cffdd51c61507c0
-- **B3SUM:** f775dbb59f4b9e675eb7726ac57116eda2151293e5f14620edd60c509d22e95e
+- **SHASUM:** b7c752f47aff29654d20d2c3bca9fa60312d3315c18b7c5d07f8ec57b7ca00ca
+- **B3SUM:** 5c2d6e5dd4b662b49fabc1c062dd15115a20beb7a4fb336da54af3eafe357646
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/scopegen
 - **Language:** Shell
 - **License:** null
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14957
+- **Stars:** 14960
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.42 MB
@@ -370,12 +370,12 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14957
+- **Stars:** 14960
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.69 MB
-- **SHASUM:** a85afb19b752838eea121c24f0fff5dcc8a47c157cb99a1ff14f9375f3e03b4d
-- **B3SUM:** c99e8947231da5a285341553bbc7ed5737f604781707bcb156f81de46723b073
+- **SHASUM:** dc7806a43838d16c04ba9afc276ba9ef3643c27f7a6deef6b6e96724693aca83
+- **B3SUM:** 5fbd493cb7f7c860a45504815bb9db95ce8395a83210bb8049e1639e9ff944e3
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/tailscale_dynamic_native
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14957
+- **Stars:** 14960
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 28.10 MB
@@ -402,12 +402,12 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14957
+- **Stars:** 14960
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 29.86 MB
-- **SHASUM:** 35bac62ee9c7d7712002d826e77dc2f0e9ce835ed427a3a3292e6db39a67e62d
-- **B3SUM:** 7d7a71963d06fa10abc7f29253279f856f15cbd5fb7e6ac40f4e072ab5a6fb93
+- **SHASUM:** 9f8fe200c64b3d3ef29faa189146e836297ce02d11b06df92caa7dc276fcd668
+- **B3SUM:** b76904e83c21128012b6ca79f21138f5e0a5d98338161d5722c8e39f78a3c2cd
 - **Source:** https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/tailscaled_dynamic_native
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
