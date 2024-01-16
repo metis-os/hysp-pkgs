@@ -7,14 +7,39 @@
 │ 32 │-aws-nuke.tar.gz                  │    │
 │ 39 │-bearer                           │    │
 │ 50 │-bombadillo                       │    │
+│ 65 │-cent                             │    │
 │ 66 │-certgraph                        │    │
+│ 67 │-certspotter                      │    │
+│ 68 │-certstream                       │    │
 │ 69 │-certstream-server-go             │    │
 │ 70 │-certwatcher                      │    │
+│ 71 │-cexec                            │    │
+│ 72 │-cfssl                            │    │
+│ 73 │-cfssl-bundle                     │    │
+│ 74 │-cfssl-certinfo                   │    │
+│ 75 │-cfssl-newkey                     │    │
+│ 76 │-cfssl-scan                       │    │
+│ 77 │-cfssljson                        │    │
+│ 79 │-chameleon                        │    │
+│ 80 │-chaos-client                     │    │
 │ 81 │-cheat                            │    │
+│ 83 │-cherrybomb                       │    │
+│ 84 │-chisel                           │    │
+│ 85 │-circumflex                       │    │
+│ 87 │-cloudcash                        │    │
 │ 88 │-cloudfox.tar.gz                  │    │
+│ 89 │-cloudlist                        │    │
+│ 90 │-cloudreve                        │    │
+│ 91 │-cog                              │    │
+│ 92 │-comb                             │    │
+│ 93 │-containerd                       │    │
+│ 94 │-coreutils                        │    │
+│ 95 │-cotp                             │    │
 │ 96 │-cowitness                        │    │
 │ 97 │-cowsay                           │    │
 │ 98 │-cowthink                         │    │
+│ 99 │-cproxy                           │    │
+│ 100│-cpufetch                         │    │
 │ 124│-dizi                             │    │
 │ 125│-dizi-server                      │    │
 │ 151│-edgevpn                          │    │
@@ -29,6 +54,8 @@
 │ 313│-luet                             │    │
 │ 323│-matterbridge                     │    │
 │ 331│-miniflux                         │    │
+│ 334│-mkbundle                         │    │
+│ 340│-multirootca                      │    │
 │ 344│-ncat                             │    │
 │ 345│-ncdu                             │    │
 │ 350│-nginx                            │    │
