@@ -1,0 +1,26 @@
+[bin]
+name = "inscope"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "inscope"
+description = "A collection of hacks and one-off scripts"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/hacks"
+stars = "1985"
+version = "null"
+updated = ""
+size = "1.79 MB"
+bsum = "aa55a5930025837ea2f9954da91db054fc2908a6c7d81d5849c3087980077429"
+sha = "d8a842973371299e197749844c25c2145d13ff013b8b27b041a85544662db593"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/inscope"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["inscope"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

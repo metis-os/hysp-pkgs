@@ -1,0 +1,26 @@
+[bin]
+name = "godns"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "godns"
+description = " DreamHost, etc, written in Go."
+author = "TimothyYe"
+repo = "https://github.com/TimothyYe/godns"
+stars = "1387"
+version = "v3.0.5"
+updated = "2024-01-05T15:35:43Z"
+size = "11.81 MB"
+bsum = "54fc4fc287262b7940a594c332e61032086bd147f962f066f987059cc3835d8c"
+sha = "00041eb1bc03c10bd60f2841e5c0727673e8dbfa77e27e6a607cdb943d79d406"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/godns"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["godns"]
+requires = []
+
+[package.metadata]
+keywords = ["alidns","cloudflare","ddns","dns","dnspod","dreamhost","duckdns","dynamic-dns","dyndns","godns","googledomains-dynamic-dns"]
+categories = ["Utilities"]
