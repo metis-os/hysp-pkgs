@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-keygen"
+
+[package]
+architecture = "x86_64"
+name = "ssh-keygen"
+description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/static-toolbox"
+stars = "16"
+version = "misc_utils_2024_01_16_07_46_57_AM"
+updated = "2024-01-16T02:01:58Z"
+size = "4.08 MB"
+bsum = "a70164ba81fb38b9ea2da04082e0f7cd394945942f4c0ddc26efbf972ee13cc7"
+sha = "8342ca94c92da60f223f414be7c125e1bc6f37d5abf209a2cebedb10ce6373b6"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ssh-keygen"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ssh-keygen"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+categories = ["Utilities"]

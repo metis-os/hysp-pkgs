@@ -1,0 +1,26 @@
+[bin]
+name = "rshijack"
+
+[package]
+architecture = "x86_64"
+name = "rshijack"
+description = "tcp connection hijacker, rust rewrite of shijack"
+author = "kpcyrd"
+repo = "https://github.com/kpcyrd/rshijack"
+stars = "415"
+version = "v0.5.0"
+updated = "2023-06-03T16:40:33Z"
+size = "1.30 MB"
+bsum = "453aeaf5c1cff89453ebde3e7de02c4fe8a98714dabfe65ef04f080fdac2d741"
+sha = "f57f6cd054a81d37dc34eb2c09bf5a4f016ebc493de4d4aa7baf7aa3de11d5d2"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rshijack"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["rshijack"]
+requires = []
+
+[package.metadata]
+keywords = ["hijacking","network","pentesting","rust","tcp"]
+categories = ["Utilities"]

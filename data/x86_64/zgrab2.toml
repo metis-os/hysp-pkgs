@@ -1,0 +1,26 @@
+[bin]
+name = "zgrab2"
+
+[package]
+architecture = "x86_64"
+name = "zgrab2"
+description = "Fast Go Application Scanner"
+author = "zmap"
+repo = "https://github.com/zmap/zgrab2"
+stars = "1531"
+version = "v0.1.6"
+updated = "2020-03-31T20:01:53Z"
+size = "13.76 MB"
+bsum = "aa49f69ebf81b1560984bf1b1680949d81d4904d224ccb8aaf05eb084b1d1095"
+sha = "efa915f907957b31ac5312264953494d0e39ee51b41c1a8e4507b710e978eee6"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/zgrab2"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["zgrab2"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
