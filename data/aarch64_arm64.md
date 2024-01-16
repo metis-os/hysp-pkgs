@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 34287
+- **Stars:** 34290
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 57.92 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44662
+- **Stars:** 44663
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 4.94 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51632
+- **Stars:** 51633
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 37.67 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 4769
+- **Stars:** 4770
 - **Version:** v0.17.1
 - **Updated:** 2024-01-11T15:27:23Z
 - **Size:** 1.53 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 30292
+- **Stars:** 30293
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.47 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 56807
+- **Stars:** 56808
 - **Version:** 0.45.0
 - **Updated:** 2024-01-01T06:41:32Z
 - **Size:** 3.31 MB
@@ -2274,7 +2274,7 @@
 - **Description:** Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - **Author:** fullstorydev
 - **Repository:** [https://github.com/fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
-- **Stars:** 9610
+- **Stars:** 9611
 - **Version:** v1.8.9
 - **Updated:** 2023-10-24T17:17:39Z
 - **Size:** 22.38 MB
@@ -2818,7 +2818,7 @@
 - **Description:**  Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - **Author:** kopia
 - **Repository:** [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
-- **Stars:** 5610
+- **Stars:** 5611
 - **Version:** v0.15.0
 - **Updated:** 2023-10-22T03:20:50Z
 - **Size:** 33.08 MB
@@ -3346,7 +3346,7 @@
 - **Description:** User space WireGuard port-forward in Rust
 - **Author:** aramperes
 - **Repository:** [https://github.com/aramperes/onetun](https://github.com/aramperes/onetun)
-- **Stars:** 764
+- **Stars:** 763
 - **Version:** v0.3.7
 - **Updated:** 2023-12-24T03:01:35Z
 - **Size:** 2.21 MB
@@ -3394,7 +3394,7 @@
 - **Description:** A Workflow Engine for Offensive Security
 - **Author:** j3ssie
 - **Repository:** [https://github.com/j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)
-- **Stars:** 4937
+- **Stars:** 4938
 - **Version:** v4.6.3
 - **Updated:** 2023-12-15T11:45:54Z
 - **Size:** 25.64 MB
@@ -3426,7 +3426,7 @@
 - **Description:** 🎑Feature-rich terminal-based text viewer. It is a so-called terminal pager.
 - **Author:** noborus
 - **Repository:** [https://github.com/noborus/ov](https://github.com/noborus/ov)
-- **Stars:** 1244
+- **Stars:** 1245
 - **Version:** v0.33.1
 - **Updated:** 2024-01-12T21:35:42Z
 - **Size:** 7.63 MB
@@ -3650,7 +3650,7 @@
 - **Description:** A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - **Author:** userdocs
 - **Repository:** [https://github.com/userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static)
-- **Stars:** 884
+- **Stars:** 885
 - **Version:** release-4.6.2_v2.0.9
 - **Updated:** 2023-11-28T00:33:16Z
 - **Size:** 25.58 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42095
+- **Stars:** 42096
 - **Version:** v1.65.1
 - **Updated:** 2024-01-08T11:51:12Z
 - **Size:** 52.89 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 22145
+- **Stars:** 22146
 - **Version:** v0.1.13
 - **Updated:** 2024-01-12T15:52:51Z
 - **Size:** 16.45 MB
@@ -4066,7 +4066,7 @@
 - **Description:** Fetches system/theme information in terminal for Linux desktop screenshots.
 - **Author:** KittyKatt
 - **Repository:** [https://github.com/KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch)
-- **Stars:** 3694
+- **Stars:** 3695
 - **Version:** v3.9.1
 - **Updated:** 2019-11-12T22:02:38Z
 - **Size:** 0.25 MB
@@ -4258,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 38583
+- **Stars:** 38584
 - **Version:** v1.17.1
 - **Updated:** 2024-01-02T18:30:02Z
 - **Size:** 7.77 MB
@@ -4434,7 +4434,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14981
+- **Stars:** 14983
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 10.42 MB
@@ -4450,7 +4450,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 14981
+- **Stars:** 14983
 - **Version:** v1.56.1
 - **Updated:** 2023-12-15T19:44:23Z
 - **Size:** 28.10 MB
@@ -4802,7 +4802,7 @@
 - **Description:** 👀 A modern watch command. Time machine and pager etc.
 - **Author:** sachaos
 - **Repository:** [https://github.com/sachaos/viddy](https://github.com/sachaos/viddy)
-- **Stars:** 4227
+- **Stars:** 4228
 - **Version:** v0.4.0
 - **Updated:** 2023-10-15T07:41:31Z
 - **Size:** 7.57 MB
@@ -4946,7 +4946,7 @@
 - **Description:** Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - **Author:** vi
 - **Repository:** [https://github.com/vi/websocat](https://github.com/vi/websocat)
-- **Stars:** 6200
+- **Stars:** 6201
 - **Version:** v1.12.0
 - **Updated:** 2023-09-17T15:00:07Z
 - **Size:** 4.74 MB
@@ -5170,7 +5170,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15350
+- **Stars:** 15353
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 24.09 MB
@@ -5218,7 +5218,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 13071
+- **Stars:** 13072
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 0.93 MB
