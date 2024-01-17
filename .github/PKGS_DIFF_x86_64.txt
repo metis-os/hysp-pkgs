@@ -35,6 +35,7 @@
 │ 351│-ngocok                           │    │
 │ 352│-ngrok                            │    │
 │ 354│-njs                              │    │
+│ 355│-nmap                             │    │
 │ 357│-nmctl                            │    │
 │ 361│-nping                            │    │
 │ 362│-nrich                            │    │
