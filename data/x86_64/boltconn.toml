@@ -4,7 +4,7 @@ name = "boltconn"
 [package]
 architecture = "x86_64"
 name = "boltconn"
-description = "Transparent and flexible L4/L7 networking manager, supporting WireGuard, firewall and scripted MitM."
+description = " network manager, supporting WireGuard, L7 firewall and scripted MitM."
 author = "XOR-op"
 repo = "https://github.com/XOR-op/BoltConn"
 stars = "47"
@@ -22,5 +22,5 @@ conflicts  = ["boltconn"]
 requires = []
 
 [package.metadata]
-keywords = ["firewall","http","https","linux","macos","mitm","proxy","rust","transparent-proxy","tunnel","wireguard"]
+keywords = ["firewall","http","https","linux","macos","mitm","proxies","proxy","rust","transparent-proxy","tunnel","wireguard"]
 categories = ["Utilities"]
