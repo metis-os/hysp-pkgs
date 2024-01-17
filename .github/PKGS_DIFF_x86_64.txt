@@ -40,6 +40,7 @@
 │ 362│-nrich                            │    │
 │ 377│-pfetch-rs                        │    │
 │ 384│-podsync                          │    │
+│ 389│-prettyping                       │    │
 │ 414│-rekor                            │    │
 │ 420│-resdns                           │    │
 │ 452│-scp                              │    │
