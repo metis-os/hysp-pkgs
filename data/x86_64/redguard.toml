@@ -1,0 +1,26 @@
+[bin]
+name = "redguard"
+
+[package]
+architecture = "x86_64"
+name = "redguard"
+description = "RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check."
+author = "wikiZ"
+repo = "https://github.com/wikiZ/RedGuard"
+stars = "1179"
+version = "23.08.21"
+updated = "2023-08-20T17:32:49Z"
+size = "9.13 MB"
+bsum = "087d67d941921cadfbe7deb26dd1648258024c9dd7390b41c1aade6b6c669e66"
+sha = "b2f91ef85cdff9cfb7ebbe6f8f733cf6fd631582b8e232549a479840ec54d270"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/redguard"
+language = "Go"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["redguard"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
