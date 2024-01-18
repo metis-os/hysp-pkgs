@@ -4,7 +4,7 @@ name = "vtm"
 [package]
 architecture = "aarch64_arm64"
 name = "vtm"
-description = "Text mode desktop"
+description = "Text-based desktop environment"
 author = "directvt"
 repo = "https://github.com/directvt/vtm"
 stars = "1464"
