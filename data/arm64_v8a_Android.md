@@ -355,8 +355,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 15033
-- **Version:** v1.56.1
-- **Updated:** 2023-12-15T19:44:23Z
+- **Version:** v1.58.0
+- **Updated:** 2024-01-18T21:39:08Z
 - **Size:** 10.42 MB
 - **SHASUM:** a114fc9064192e1eddbf0cec8ca95ff342df0b2ae717a6f9c628387ed6451c98
 - **B3SUM:** 0887795552cff90cfd0844694b6c3a87024d97fae58c9a5ce8f7d806eaf923ce
@@ -371,8 +371,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 15033
-- **Version:** v1.56.1
-- **Updated:** 2023-12-15T19:44:23Z
+- **Version:** v1.58.0
+- **Updated:** 2024-01-18T21:39:08Z
 - **Size:** 10.69 MB
 - **SHASUM:** a03d2e7ad9d15207e7ff9bd86a7b5dd843f24c7891ad48f8746a3ce740b347a2
 - **B3SUM:** 7b674c2599c13898d16672d06b6a6caf0d8c1168bbf22d8a0aa6d9e15d37bed1
@@ -387,8 +387,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 15033
-- **Version:** v1.56.1
-- **Updated:** 2023-12-15T19:44:23Z
+- **Version:** v1.58.0
+- **Updated:** 2024-01-18T21:39:08Z
 - **Size:** 28.10 MB
 - **SHASUM:** 0340d673d4d2dcb8101c0bbfae2b4e3077626b9c48d4b930a2703a7b94029e77
 - **B3SUM:** 8b556ab47194a3898393c5032987574b325777ecc36faf4dc4fdb34a52b98e2e
@@ -403,8 +403,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 15033
-- **Version:** v1.56.1
-- **Updated:** 2023-12-15T19:44:23Z
+- **Version:** v1.58.0
+- **Updated:** 2024-01-18T21:39:08Z
 - **Size:** 29.86 MB
 - **SHASUM:** 37b352e2fe9d7dde7e3822e14fbbf660f6119c0ee996f079ca4b5683c7bee1fc
 - **B3SUM:** 12ce821188c26d397607855576e7a117f989901e99721396e632ec16a10e7bc8
