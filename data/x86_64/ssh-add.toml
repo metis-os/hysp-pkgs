@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-add"
+
+[package]
+architecture = "x86_64"
+name = "ssh-add"
+description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/static-toolbox"
+stars = "16"
+version = "misc_utils_2024_01_19_07_48_44_AM"
+updated = "2024-01-19T02:03:45Z"
+size = "3.95 MB"
+bsum = "3bc3548256e3dd87367725c2f0b7f4971f2a1b541ea0e9a0baea635bb3c36c8d"
+sha = "5cf4b40318657c4bbcbf74b6c360d5b9f6f2fe3e6235c276e61a650768807492"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ssh-add"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ssh-add"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+categories = ["Utilities"]
