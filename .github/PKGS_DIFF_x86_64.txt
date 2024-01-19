@@ -49,6 +49,7 @@
 │ 509│-tailscale_merged                 │    │
 │ 517│-tgpt                             │    │
 │ 519│-tlrc                             │    │
+│ 525│-toybox                           │    │
 │ 526│-traefik.tar.gz                   │    │
 │ 531│-tuiarchiver                      │    │
 │ 533│-twingate-client                  │    │
