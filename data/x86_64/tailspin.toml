@@ -1,0 +1,26 @@
+[bin]
+name = "tailspin"
+
+[package]
+architecture = "x86_64"
+name = "tailspin"
+description = "🌀 A log file highlighter"
+author = "bensadeh"
+repo = "https://github.com/bensadeh/tailspin"
+stars = "4417"
+version = "2.4.0"
+updated = "2024-01-11T06:54:46Z"
+size = "4.40 MB"
+bsum = "29ec40e5d8f6f8d5eba79fb131c0a671324abf4f3f4b5234b2414da17969c50f"
+sha = "145d460c34bb060ebbaeade90ed7f12a7cf888d4f175a1c0770d551317f13a64"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/tailspin"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tailspin"]
+requires = []
+
+[package.metadata]
+keywords = ["colorizer","colors","file","follow","highlighter","less","log","log-file","logfile","syntax-highlighting","tail"]
+categories = ["Utilities"]
