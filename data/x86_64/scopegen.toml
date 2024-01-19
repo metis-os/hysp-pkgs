@@ -1,0 +1,26 @@
+[bin]
+name = "scopegen"
+
+[package]
+architecture = "x86_64"
+name = "scopegen"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "13"
+version = "null"
+updated = ""
+size = "1.32 MB"
+bsum = "cade3ee61f9821613ee05d9720c3beb140f2ec5199334e54d0a60561745048a4"
+sha = "16de117f099f63ad386efd4900ab399f2cb0d0f500bf087ee83840a55392c3ac"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scopegen"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["scopegen"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]
