@@ -428,79 +428,80 @@
 │ 455│ tere                             │ 282│ tere
 │ 456│-termshark                        │    │
 │ 457│-tgpt                             │    │
-│ 458│ tldr                             │ 283│ tldr
-│ 459│-tlrc                             │    │
-│ 460│ tlsx                             │ 284│ tlsx
-│ 461│ tmate                            │ 285│ tmate
-│ 462│ tok                              │ 286│ tok
-│ 463│ tokei                            │ 287│ tokei
-│ 464│ toybox                           │ 288│ toybox
-│ 465│-traefik.tar.gz                   │    │
-│ 466│-trufflehog.tar.gz                │    │
-│ 467│ try                              │ 289│ try
-│ 468│-tty2web                          │    │
-│ 469│-ttyd                             │    │
-│ 470│-tuiarchiver                      │    │
-│ 471│ tut                              │ 290│ tut
-│ 472│-twingate-client                  │    │
-│ 473│-twingate-connector               │    │
-│ 474│-twingate-connectorctl            │    │
-│ 475│-twingate-notifier                │    │
-│ 476│ txeh                             │ 291│ txeh
-│ 477│ tz                               │ 292│ tz
-│ 478│-u-root                           │    │
-│ 479│ udpx                             │ 293│ udpx
-│ 480│-uip                              │    │
-│ 481│ uncover                          │ 294│ uncover
-│ 482│-unf                              │    │
-│ 483│ unfurl                           │ 295│ unfurl
-│ 484│ upx                              │ 296│ upx
-│ 485│ usql                             │ 297│ usql
-│ 486│-usql.tar.gz                      │    │
-│ 487│-v2raya                           │    │
-│ 488│-v6disk                           │    │
-│ 489│-v6run                            │    │
-│ 490│ validtoml                        │ 298│ validtoml
-│ 491│ vegeta                           │ 299│ vegeta
-│ 492│ vhs                              │ 300│ vhs
-│ 493│ viddy                            │ 301│ viddy
-│ 494│-viu                              │    │
-│ 495│-volta                            │    │
-│ 496│ vopono                           │ 302│ vopono
-│ 497│ vtm                              │ 303│ vtm
-│ 498│-vultr-cli                        │    │
-│ 499│ wadl-dumper                      │ 304│ wadl-dumper
-│ 500│ walk                             │ 305│ walk
-│ 501│-wasminspect                      │    │
-│ 502│ watchexec                        │ 306│ watchexec
-│ 503│ waybackrobots                    │ 307│ waybackrobots
-│ 504│ waybackurls                      │ 308│ waybackurls
-│ 505│ web-cache-vulnerability-scanner  │ 309│ web-cache-vulnerability-scanner
-│ 506│ websocat                         │ 310│ websocat
-│ 507│-wego                             │    │
-│ 508│ wireguard-go                     │ 311│ wireguard-go
-│ 509│ wireproxy                        │ 312│ wireproxy
-│ 510│ wiretap                          │ 313│ wiretap
-│ 511│ wormhole-rs                      │ 314│ wormhole-rs
-│ 512│-wstunnel                         │    │
-│ 513│ wtfutil                          │ 315│ wtfutil
-│ 514│-wth                              │    │
-│ 515│ xargs-rs                         │ 316│ xargs-rs
-│ 516│-xh                               │    │
-│ 517│ xplr                             │ 317│ xplr
-│ 518│ xurls                            │ 318│ xurls
-│ 519│ yalis                            │ 319│ yalis
-│ 520│ yataf                            │ 320│ yataf
-│ 521│-yazi                             │    │
-│ 522│-yip                              │    │
-│ 523│ yj                               │ 321│ yj
-│ 524│ yq                               │ 322│ yq
-│ 525│ zdns                             │ 323│ zdns
-│ 526│ zellij                           │ 324│ zellij
-│ 527│ zenith                           │ 325│ zenith
-│ 528│-zfxtop                           │    │
-│ 529│ zgrab2                           │ 326│ zgrab2
-│ 530│ zoxide                           │ 327│ zoxide
+│ 458│-tidy-viewer                      │    │
+│ 459│ tldr                             │ 283│ tldr
+│ 460│-tlrc                             │    │
+│ 461│ tlsx                             │ 284│ tlsx
+│ 462│ tmate                            │ 285│ tmate
+│ 463│ tok                              │ 286│ tok
+│ 464│ tokei                            │ 287│ tokei
+│ 465│ toybox                           │ 288│ toybox
+│ 466│-traefik.tar.gz                   │    │
+│ 467│-trufflehog.tar.gz                │    │
+│ 468│ try                              │ 289│ try
+│ 469│-tty2web                          │    │
+│ 470│-ttyd                             │    │
+│ 471│-tuiarchiver                      │    │
+│ 472│ tut                              │ 290│ tut
+│ 473│-twingate-client                  │    │
+│ 474│-twingate-connector               │    │
+│ 475│-twingate-connectorctl            │    │
+│ 476│-twingate-notifier                │    │
+│ 477│ txeh                             │ 291│ txeh
+│ 478│ tz                               │ 292│ tz
+│ 479│-u-root                           │    │
+│ 480│ udpx                             │ 293│ udpx
+│ 481│-uip                              │    │
+│ 482│ uncover                          │ 294│ uncover
+│ 483│-unf                              │    │
+│ 484│ unfurl                           │ 295│ unfurl
+│ 485│ upx                              │ 296│ upx
+│ 486│ usql                             │ 297│ usql
+│ 487│-usql.tar.gz                      │    │
+│ 488│-v2raya                           │    │
+│ 489│-v6disk                           │    │
+│ 490│-v6run                            │    │
+│ 491│ validtoml                        │ 298│ validtoml
+│ 492│ vegeta                           │ 299│ vegeta
+│ 493│ vhs                              │ 300│ vhs
+│ 494│ viddy                            │ 301│ viddy
+│ 495│-viu                              │    │
+│ 496│-volta                            │    │
+│ 497│ vopono                           │ 302│ vopono
+│ 498│ vtm                              │ 303│ vtm
+│ 499│-vultr-cli                        │    │
+│ 500│ wadl-dumper                      │ 304│ wadl-dumper
+│ 501│ walk                             │ 305│ walk
+│ 502│-wasminspect                      │    │
+│ 503│ watchexec                        │ 306│ watchexec
+│ 504│ waybackrobots                    │ 307│ waybackrobots
+│ 505│ waybackurls                      │ 308│ waybackurls
+│ 506│ web-cache-vulnerability-scanner  │ 309│ web-cache-vulnerability-scanner
+│ 507│ websocat                         │ 310│ websocat
+│ 508│-wego                             │    │
+│ 509│ wireguard-go                     │ 311│ wireguard-go
+│ 510│ wireproxy                        │ 312│ wireproxy
+│ 511│ wiretap                          │ 313│ wiretap
+│ 512│ wormhole-rs                      │ 314│ wormhole-rs
+│ 513│-wstunnel                         │    │
+│ 514│ wtfutil                          │ 315│ wtfutil
+│ 515│-wth                              │    │
+│ 516│ xargs-rs                         │ 316│ xargs-rs
+│ 517│-xh                               │    │
+│ 518│ xplr                             │ 317│ xplr
+│ 519│ xurls                            │ 318│ xurls
+│ 520│ yalis                            │ 319│ yalis
+│ 521│ yataf                            │ 320│ yataf
+│ 522│-yazi                             │    │
+│ 523│-yip                              │    │
+│ 524│ yj                               │ 321│ yj
+│ 525│ yq                               │ 322│ yq
+│ 526│ zdns                             │ 323│ zdns
+│ 527│ zellij                           │ 324│ zellij
+│ 528│ zenith                           │ 325│ zenith
+│ 529│-zfxtop                           │    │
+│ 530│ zgrab2                           │ 326│ zgrab2
+│ 531│ zoxide                           │ 327│ zoxide
 
 
 
