@@ -1,0 +1,26 @@
+[bin]
+name = "wasminspect"
+
+[package]
+architecture = "x86_64"
+name = "wasminspect"
+description = "An interactive debugger for WebAssembly"
+author = "kateinoigakukun"
+repo = "https://github.com/kateinoigakukun/wasminspect"
+stars = "123"
+version = "v0.2.0"
+updated = "2020-05-02T07:57:49Z"
+size = "3.75 MB"
+bsum = "fe454c67437278acef5737dbc8f26bd64937f485af495e17585da6eb3e414bc9"
+sha = "574e70c500f2b6847ca1239829c075cd965712aa034d19887d8cdb38578641d9"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/wasminspect"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["wasminspect"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
