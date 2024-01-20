@@ -1,0 +1,26 @@
+[bin]
+name = "rustcan"
+
+[package]
+architecture = "x86_64"
+name = "rustcan"
+description = "🤖 The Modern Port Scanner 🤖"
+author = "RustScan"
+repo = "https://github.com/RustScan/RustScan"
+stars = "11502"
+version = "2.1.1"
+updated = "2022-11-07T10:43:57Z"
+size = "5.03 MB"
+bsum = "7e0d8a8b399125831610d7180f95ff5912ad90b6866c9ca9880f2743a1764e0b"
+sha = "ddd924d8f826ac1059c204a46d7942c7b10fb8533c096ed47fe018ac3bd29569"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rustcan"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["rustcan"]
+requires = []
+
+[package.metadata]
+keywords = ["docker","hacking","hacktoberfest","networking","nmap","pentesting","port","rust","scanning","security","security-tools"]
+categories = ["Utilities"]

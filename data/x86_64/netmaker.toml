@@ -1,0 +1,26 @@
+[bin]
+name = "netmaker"
+
+[package]
+architecture = "x86_64"
+name = "netmaker"
+description = "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks."
+author = "gravitl"
+repo = "https://github.com/gravitl/netmaker"
+stars = "8604"
+version = "v0.22.0"
+updated = "2024-01-16T14:58:10Z"
+size = "14.12 MB"
+bsum = "20b2b7fe8f7c8faca36a1df705fbc4b67290af843320e65ce93790dc698315f9"
+sha = "72d68394a8adf9eb74d5f83cb26348992983c4795854bc2b980fdabf1aab7f77"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/netmaker"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["netmaker"]
+requires = []
+
+[package.metadata]
+keywords = ["cloud","devsecops","k8s","kubernetes","mesh","network","networking","security","self-hosted","virtual-network","virtual-networking","vpn","vpn-server","wg-quick","wireguard","wireguard-ui","wireguard-vpn","zero-trust"]
+categories = ["Utilities"]
