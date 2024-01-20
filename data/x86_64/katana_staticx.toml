@@ -1,0 +1,26 @@
+[bin]
+name = "katana_staticx"
+
+[package]
+architecture = "x86_64"
+name = "katana_staticx"
+description = "A next-generation crawling and spidering framework."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/katana"
+stars = "7988"
+version = "v1.0.5"
+updated = "2024-01-11T22:04:21Z"
+size = "9.99 MB"
+bsum = "9a6ca769a0e16d3638303e0272c27f7f7b43955c2ae3c6959d7b4f01b7f32d78"
+sha = "78fe5639e576e5ba4f9e5ad5d4acc83d530279c2f5c532e7ba88532e2dce51b1"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/katana_staticx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["katana_staticx"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","crawler","gocrawler","headless","spider-framework","web-spider"]
+categories = ["Utilities"]

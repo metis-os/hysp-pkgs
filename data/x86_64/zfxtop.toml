@@ -1,0 +1,26 @@
+[bin]
+name = "zfxtop"
+
+[package]
+architecture = "x86_64"
+name = "zfxtop"
+description = "[WIP] fetch top for gen Z with X written by bubbletea enjoyer"
+author = "ssleert"
+repo = "https://github.com/ssleert/zfxtop"
+stars = "338"
+version = "0.3.2"
+updated = "2023-04-03T02:26:55Z"
+size = "1.56 MB"
+bsum = "07c87d3219debe60b8be5439d55c82f9be03cff83cf5b2c42e544eed38752598"
+sha = "9d0cf00e3340fa5f6cd81a3af140d7536f95a999e21e3c790001b057cc183f52"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/zfxtop"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["zfxtop"]
+requires = []
+
+[package.metadata]
+keywords = ["btop","bubbletea","go","golang","htop","system-monitor","unixporn","zfxtop"]
+categories = ["Utilities"]

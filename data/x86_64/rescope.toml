@@ -1,0 +1,26 @@
+[bin]
+name = "rescope"
+
+[package]
+architecture = "x86_64"
+name = "rescope"
+description = " ZAP"
+author = "root4loot"
+repo = "https://github.com/root4loot/rescope"
+stars = "307"
+version = "v2.4"
+updated = "2023-10-27T10:45:28Z"
+size = "5.67 MB"
+bsum = "ad0619a19b36af2b753c8fb1ff9dd5703d1fa02cb3cba9b542327217e6b99eb4"
+sha = "45d636dffb7db96cb024e280225e9db118bacc77f70185adf0d08b42e43405b7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/rescope"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rescope"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","burp","burpsuite","enumeration","go","golang","infosec","pentesting","scope","security","security-tools","websec","zap"]
+categories = ["Utilities"]

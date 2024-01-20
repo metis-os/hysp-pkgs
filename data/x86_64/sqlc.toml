@@ -1,0 +1,26 @@
+[bin]
+name = "sqlc"
+
+[package]
+architecture = "x86_64"
+name = "sqlc"
+description = "sqlc - Universal DBMS/SQL client with exfiltration features :)"
+author = "kost"
+repo = "https://github.com/kost/sqlc"
+stars = "17"
+version = "v0.1.1"
+updated = "2022-08-22T11:34:07Z"
+size = "28.47 MB"
+bsum = "1f165da6ac99d464c8535ba985ffd7d5389c7105c1ee1fdd3cc004d94a617067"
+sha = "5e01bd70df256683abbb09cab150a47f956ead90d2d8d228b4a59980385746cb"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sqlc"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["sqlc"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

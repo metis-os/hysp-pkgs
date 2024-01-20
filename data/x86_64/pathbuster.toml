@@ -1,0 +1,26 @@
+[bin]
+name = "pathbuster"
+
+[package]
+architecture = "x86_64"
+name = "pathbuster"
+description = "A path-normalization pentesting tool."
+author = "ethicalhackingplayground"
+repo = "https://github.com/ethicalhackingplayground/pathbuster"
+stars = "99"
+version = "v0.5.5"
+updated = "2023-05-11T10:45:24Z"
+size = "5.75 MB"
+bsum = "d4fe1c78c77675cf67316d0b9f53a868804613c64c6ad3b500442d7eee82f06d"
+sha = "3a050118d0bfe07b1b31efd44d3d4e16f7ed3161dce824d3d7607976ce4b2f17"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/pathbuster"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pathbuster"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","path-normalization","rust","url-filter-bypass"]
+categories = ["Utilities"]
