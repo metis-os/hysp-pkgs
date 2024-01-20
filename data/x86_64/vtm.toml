@@ -1,0 +1,26 @@
+[bin]
+name = "vtm"
+
+[package]
+architecture = "x86_64"
+name = "vtm"
+description = "Text-based desktop environment"
+author = "directvt"
+repo = "https://github.com/directvt/vtm"
+stars = "1468"
+version = "v0.9.55"
+updated = "2024-01-17T15:24:54Z"
+size = "5.21 MB"
+bsum = "9b1c93047f763904c98f1cf726f4cc410c873794cfb66f205312945ae9d06634"
+sha = "11e605e8bc590ff151f287584372a12b8a853dbdef26dfc3613a81c9c5d21bd1"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/vtm"
+language = "C++"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["vtm"]
+requires = []
+
+[package.metadata]
+keywords = ["admin","cli","cmd","command-line","console","cui","desktop-environment","floating-window","multiplexer","remote","remote-desktop","remote-shell","ssh","terminal","text-based","tiling-window-manager","tui","vt","windows-console","wsl"]
+categories = ["Utilities"]
