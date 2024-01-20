@@ -797,28 +797,35 @@
 │ 552│ validtoml                        │ 487│ validtoml
 │ 553│ vegeta                           │ 488│ vegeta
 │ 554│ vhs                              │ 489│ vhs
-│ 567│ waybackurls                      │ 502│ waybackurls
-│ 568│ web-cache-vulnerability-scanner  │ 503│ web-cache-vulnerability-scanner
-│ 569│ websocat                         │ 504│ websocat
+│ 563│ walk                             │ 498│ walk
+│ 564│ wasminspect                      │ 499│ wasminspect
+│ 565│ watchexec                        │ 500│ watchexec
+│ 566│-waybackrobots                    │    │
+│ 567│-waybackurls                      │    │
+│ 568│-web-cache-vulnerability-scanner  │    │
+│ 569│-websocat                         │    │
 │ 570│-wego                             │    │
-│ 571│ wireguard-go                     │ 505│ wireguard-go
-│ 572│ wireguard-rs                     │ 506│ wireguard-rs
-│ 573│ wireproxy                        │ 507│ wireproxy
-│ 579│ x8                               │ 513│ x8
-│ 580│ xargs-rs                         │ 514│ xargs-rs
-│ 581│ xcp                              │ 515│ xcp
+│ 571│-wireguard-go                     │    │
+│ 572│-wireguard-rs                     │    │
+│ 573│-wireproxy                        │    │
+│ 574│ wiretap                          │ 501│ wiretap
+│ 575│ wormhole-rs                      │ 502│ wormhole-rs
+│ 576│ wstunnel                         │ 503│ wstunnel
+│ 579│ x8                               │ 506│ x8
+│ 580│ xargs-rs                         │ 507│ xargs-rs
+│ 581│ xcp                              │ 508│ xcp
 │ 582│-xh                               │    │
-│ 583│ xplr                             │ 516│ xplr
-│ 584│ xurls                            │ 517│ xurls
-│ 585│ yalis                            │ 518│ yalis
-│ 586│ yataf                            │ 519│ yataf
-│ 587│ yazi                             │ 520│ yazi
+│ 583│ xplr                             │ 509│ xplr
+│ 584│ xurls                            │ 510│ xurls
+│ 585│ yalis                            │ 511│ yalis
+│ 586│ yataf                            │ 512│ yataf
+│ 587│ yazi                             │ 513│ yazi
 │ 588│-yip                              │    │
-│ 589│ yj                               │ 521│ yj
-│ 590│ yq                               │ 522│ yq
-│ 591│ zdns                             │ 523│ zdns
-│ 594│ zfxtop                           │ 526│ zfxtop
-│ 595│ zgrab2                           │ 527│ zgrab2
-│ 596│ zoxide                           │ 528│ zoxide
+│ 589│ yj                               │ 514│ yj
+│ 590│ yq                               │ 515│ yq
+│ 591│ zdns                             │ 516│ zdns
+│ 594│ zfxtop                           │ 519│ zfxtop
+│ 595│ zgrab2                           │ 520│ zgrab2
+│ 596│ zoxide                           │ 521│ zoxide
 
 │ 597│-zstd                             │    │
