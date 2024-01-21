@@ -1,0 +1,26 @@
+[bin]
+name = "anew"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "anew"
+description = "A tool for adding new lines to files, skipping duplicates"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/anew"
+stars = "1121"
+version = "v0.1.1"
+updated = "2022-03-15T22:35:31Z"
+size = "1.41 MB"
+bsum = "b4d7d36fb3df65928832277d958dab767c6c6fad60f5c513551f10a8fc742e55"
+sha = "d1054f63493688029629b5ffbffb9ee57ffe912b4169a313784f506ca52c1d9f"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/anew"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["anew"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

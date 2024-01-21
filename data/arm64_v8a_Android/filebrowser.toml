@@ -1,0 +1,26 @@
+[bin]
+name = "filebrowser"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "filebrowser"
+description = "📂 Web File Browser"
+author = "filebrowser"
+repo = "https://github.com/filebrowser/filebrowser"
+stars = "22336"
+version = "v2.27.0"
+updated = "2024-01-02T14:38:37Z"
+size = "13.29 MB"
+bsum = "6b64cc383414a6842a2351263ea433553ad8b832d559e620d8f23256122dd8eb"
+sha = "8eea00083f2d97201fcec12202362da500c2f7f38e3e2fb563b37171090629cd"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/filebrowser"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["filebrowser"]
+requires = []
+
+[package.metadata]
+keywords = ["administrator","extension","filemanager","gui","interface","plugin","vuejs","web"]
+categories = ["Utilities"]

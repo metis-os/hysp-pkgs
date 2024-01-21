@@ -1,0 +1,26 @@
+[bin]
+name = "tailscale_dynamic_native"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "tailscale_dynamic_native"
+description = "The easiest, most secure way to use WireGuard and 2FA."
+author = "tailscale"
+repo = "https://github.com/tailscale/tailscale"
+stars = "15069"
+version = "v1.58.0"
+updated = "2024-01-18T21:39:08Z"
+size = "10.75 MB"
+bsum = "11288f62e0daaf1651d7587de0a9c42f7b348aa968f92a8f8623dea4ca5aa9a2"
+sha = "28911f337be748736bb8b46a7ea607ac139748be5747979bccd6fb0657358400"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/tailscale_dynamic_native"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["tailscale_dynamic_native"]
+requires = []
+
+[package.metadata]
+keywords = ["2fa","oauth","sso","tailscale","vpn","wireguard"]
+categories = ["Utilities"]
