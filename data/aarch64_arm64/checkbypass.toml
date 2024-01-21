@@ -1,0 +1,26 @@
+[bin]
+name = "checkbypass"
+
+[package]
+architecture = "aarch64_arm64"
+name = "checkbypass"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "291"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "3.81 MB"
+bsum = "077ceec73e0999d7174399d84792ea7ba36a8f212693b83c6947d363c9e55cc9"
+sha = "30fec0d489cb48b74ee1603d337ed144b2f4d304724a756b223e16f4c3c08fba"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/checkbypass"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["checkbypass"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

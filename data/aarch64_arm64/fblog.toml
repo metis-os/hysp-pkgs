@@ -1,0 +1,26 @@
+[bin]
+name = "fblog"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fblog"
+description = "Small command-line JSON Log viewer"
+author = "brocode"
+repo = "https://github.com/brocode/fblog"
+stars = "357"
+version = "v4.8.0"
+updated = "2023-12-21T07:44:25Z"
+size = "2.41 MB"
+bsum = "83c8d3446fab5bb5807d70cb671b3c2b691a254e1b39815d040fce25e73d7e93"
+sha = "d800dc78860e5206cc21b6ef03531b4dedd2eff569a2b69cecef798c53bf4543"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/fblog"
+language = "Rust"
+license = "Do What The F*ck You Want To Public License"
+
+[package.conditions]
+conflicts  = ["fblog"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","command-line-tool","json","log","viewer"]
+categories = ["Utilities"]

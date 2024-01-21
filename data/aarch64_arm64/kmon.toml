@@ -1,0 +1,26 @@
+[bin]
+name = "kmon"
+
+[package]
+architecture = "aarch64_arm64"
+name = "kmon"
+description = "Linux Kernel Manager and Activity Monitor 🐧💻"
+author = "orhun"
+repo = "https://github.com/orhun/kmon"
+stars = "2290"
+version = "v1.6.4"
+updated = "2023-10-27T08:56:26Z"
+size = "1.07 MB"
+bsum = "6b0298b72b99882301588e26c54d1b7c595890bd0fd36dbd85734d8f3a7a57d4"
+sha = "46913692adadb60fecffa7c7b3ba4594d7a16cd774e0c9417d0ef2133b59b9dc"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/kmon"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["kmon"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","kernel-activities","kernel-information","kernel-modules","kmon","linux","linux-kernel","management","monitoring","tui"]
+categories = ["Utilities"]

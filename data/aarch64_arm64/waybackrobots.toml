@@ -1,0 +1,26 @@
+[bin]
+name = "waybackrobots"
+
+[package]
+architecture = "aarch64_arm64"
+name = "waybackrobots"
+description = "Enumerate old versions of robots.txt paths using Wayback Machine for content discovery"
+author = "mhmdiaa"
+repo = "https://github.com/mhmdiaa/waybackrobots"
+stars = "30"
+version = "v1.0.1"
+updated = "2023-09-21T15:25:43Z"
+size = "5.13 MB"
+bsum = "9c674b92e2bb0a7ef605810fefa18a5faf06cbd7ae8754c728797fea43795b92"
+sha = "91ad050f0546ece95e5ded5bccd60b3526caa0e9e0aedf94f98b8b8de9daf224"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/waybackrobots"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["waybackrobots"]
+requires = []
+
+[package.metadata]
+keywords = ["content-discovery","recon","robots-txt","wayback-machine"]
+categories = ["Utilities"]

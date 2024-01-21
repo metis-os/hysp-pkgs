@@ -1,0 +1,26 @@
+[bin]
+name = "cleanpath"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cleanpath"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "291"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.30 MB"
+bsum = "086c730f983a21b8426e6d28f7b1bd4d7adb23cc26193d67e7713682cf0328d9"
+sha = "8c526a1eb574a048770ff3492e5e6aa117f8c5b880a06b4b52cc8a0a33830b9d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/cleanpath"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["cleanpath"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

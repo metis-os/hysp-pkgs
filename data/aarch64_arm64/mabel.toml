@@ -1,0 +1,26 @@
+[bin]
+name = "mabel"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mabel"
+description = "A fancy BitTorrent client for the terminal"
+author = "smmr-software"
+repo = "https://github.com/smmr-software/mabel"
+stars = "418"
+version = "v0.1.7"
+updated = "2023-08-23T05:40:44Z"
+size = "13.94 MB"
+bsum = "9ea92786937ee12afa3b405e1a842bba4cf3a5c80e5b96338f120245f3d0a66e"
+sha = "b1b55bfc925d52ed132a679f5157a537dfad457b36d4ebca1ac9b5e2b6089de1"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/mabel"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["mabel"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

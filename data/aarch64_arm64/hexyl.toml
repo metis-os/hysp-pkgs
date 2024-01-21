@@ -1,0 +1,26 @@
+[bin]
+name = "hexyl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hexyl"
+description = "A command-line hex viewer"
+author = "sharkdp"
+repo = "https://github.com/sharkdp/hexyl"
+stars = "8631"
+version = "v0.14.0"
+updated = "2023-12-11T22:33:44Z"
+size = "0.67 MB"
+bsum = "fbd4349d1358cda000aeb2194072a8c8769a3bb8984ed999534d760a952c9928"
+sha = "d16f0ecd99d6b9dd7f7abe9d65a6a514c9726d937a79dbdbd89b77a6d17cc5b7"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/hexyl"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["hexyl"]
+requires = []
+
+[package.metadata]
+keywords = ["binary-data","command-line","hexadecimal","rust","tool"]
+categories = ["Utilities"]

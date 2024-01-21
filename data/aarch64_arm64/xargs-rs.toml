@@ -1,0 +1,26 @@
+[bin]
+name = "xargs-rs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xargs-rs"
+description = "Rust implementation of findutils"
+author = "uutils"
+repo = "https://github.com/uutils/findutils"
+stars = "240"
+version = "0.4.2"
+updated = "2023-07-23T17:18:51Z"
+size = "0.66 MB"
+bsum = "ce82a72fb070f7ea7b2dad16757eacc076fea11bcc72fbdc3223d7e8c8fd3f9b"
+sha = "757c21fd00adc02d14294b5a5b8daf109d701f4e9e0e009c5db1063b3785b403"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64/xargs-rs"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["xargs-rs"]
+requires = []
+
+[package.metadata]
+keywords = ["cross-platform","findutils","rust"]
+categories = ["Utilities"]
