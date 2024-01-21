@@ -1,0 +1,26 @@
+[bin]
+name = "mubeng"
+
+[package]
+architecture = "x86_64"
+name = "mubeng"
+description = " IP rotator with ease."
+author = "kitabisa"
+repo = "https://github.com/kitabisa/mubeng"
+stars = "1305"
+version = "v0.14.1"
+updated = "2023-08-29T17:33:01Z"
+size = "8.79 MB"
+bsum = "464d9614dc8cb6708035fa9de158779bf9345e10909ea4e275a5ad6516386be7"
+sha = "4230d6a4600d29c1f271e17b587fba1e1b59638020810d50f9e92f278758d6e3"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mubeng"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["mubeng"]
+requires = []
+
+[package.metadata]
+keywords = ["http-proxy","https-proxy","ip-rate-limit","ip-rotation","proxy","proxy-checker","proxy-list","proxy-rotation","proxy-rotator","proxy-server","socks5","socks5-proxy"]
+categories = ["Utilities"]

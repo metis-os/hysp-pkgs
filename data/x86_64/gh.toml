@@ -1,0 +1,26 @@
+[bin]
+name = "gh"
+
+[package]
+architecture = "x86_64"
+name = "gh"
+description = "GitHub’s official command line tool"
+author = "cli"
+repo = "https://github.com/cli/cli"
+stars = "34342"
+version = "v2.42.1"
+updated = "2024-01-16T18:34:55Z"
+size = "41.45 MB"
+bsum = "c981c5d6bd9e6a8e2efcfd57c306a30da1ed4cadc14577e854c585b335c16057"
+sha = "24793b2f8657101008c91495729dfa6e3b6fd8de8b49a1b35c2b7ed32f5b62e0"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gh"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gh"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","git","github-api-v4","golang"]
+categories = ["Utilities"]

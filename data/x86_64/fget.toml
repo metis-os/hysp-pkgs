@@ -1,0 +1,26 @@
+[bin]
+name = "fget"
+
+[package]
+architecture = "x86_64"
+name = "fget"
+description = "null"
+author = "bp0lr"
+repo = "https://github.com/bp0lr/fget"
+stars = "6"
+version = "null"
+updated = ""
+size = "4.56 MB"
+bsum = "99a849b34786a2276d060bd737c87dca1e22df6474cce83a673b6362c7ce9719"
+sha = "ebfe5d06695c3cf0d97571bb6b51b85780a8532cb5001fdee0fd581d4c0938a4"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/fget"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["fget"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

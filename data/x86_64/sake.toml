@@ -1,0 +1,26 @@
+[bin]
+name = "sake"
+
+[package]
+architecture = "x86_64"
+name = "sake"
+description = ":robot: sake is a task runner for local and remote hosts"
+author = "alajmo"
+repo = "https://github.com/alajmo/sake"
+stars = "632"
+version = "v0.15.1"
+updated = "2023-09-25T10:00:13Z"
+size = "7.47 MB"
+bsum = "75a741b598eb07dc7594779138b3c80ec2462f9a05c048d7f2398015c5e2f3d6"
+sha = "9fb43612a7ff7854ee1664d95f82bc3fac98d0eaaf6bc3290e2149ddd805b0dc"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/sake"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sake"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","config","golang","server","ssh"]
+categories = ["Utilities"]

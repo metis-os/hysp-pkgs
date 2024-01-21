@@ -1,0 +1,26 @@
+[bin]
+name = "gotator"
+
+[package]
+architecture = "x86_64"
+name = "gotator"
+description = "Gotator is a tool to generate DNS wordlists through permutations."
+author = "Josue87"
+repo = "https://github.com/Josue87/gotator"
+stars = "411"
+version = "v1.1"
+updated = "2021-07-26T14:37:40Z"
+size = "1.71 MB"
+bsum = "3cdd36ee878d97085f540edafd7d57e1f8c6844ad4f404ed4162f6962fd4e49f"
+sha = "e9629384f4a8e693e9a9d8b5a60686e0b0e44ee871d8246987ec413a32e06d2c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gotator"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["gotator"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","reconnaissance","security-tools","subdomain"]
+categories = ["Utilities"]

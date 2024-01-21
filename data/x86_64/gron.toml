@@ -1,0 +1,26 @@
+[bin]
+name = "gron"
+
+[package]
+architecture = "x86_64"
+name = "gron"
+description = "Make JSON greppable!"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/gron"
+stars = "13303"
+version = "v0.7.1"
+updated = "2022-04-13T14:09:29Z"
+size = "5.03 MB"
+bsum = "e494136ff1ff56ee4a62cb983f18822f5475235a3c19a361f09cbe3ddecda951"
+sha = "c7a064ba500fca90a56a84da46c4347876e30b88cf563d2a1b09bf47011063cd"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gron"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gron"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

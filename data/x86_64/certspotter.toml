@@ -1,0 +1,26 @@
+[bin]
+name = "certspotter"
+
+[package]
+architecture = "x86_64"
+name = "certspotter"
+description = "Certificate Transparency Log Monitor"
+author = "SSLMate"
+repo = "https://github.com/SSLMate/certspotter"
+stars = "881"
+version = "v0.18.0"
+updated = "null"
+size = "5.18 MB"
+bsum = "001b6fc6cb7ef3c88650842c7c230d641bdd085bb5e945aafad1a1ad6afbd560"
+sha = "1cd6eb12ce60ed4ee6e142d8fc71e190850e87bcf9841d49c155b2b39079a32c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/certspotter"
+language = "Go"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["certspotter"]
+requires = []
+
+[package.metadata]
+keywords = ["certificate-transparency","pki","security","x509"]
+categories = ["Utilities"]

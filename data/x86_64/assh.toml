@@ -1,0 +1,26 @@
+[bin]
+name = "assh"
+
+[package]
+architecture = "x86_64"
+name = "assh"
+description = ":computer: make your ssh client smarter"
+author = "moul"
+repo = "https://github.com/moul/assh"
+stars = "2939"
+version = "v2.16.0"
+updated = "2023-10-02T09:04:34Z"
+size = "7.99 MB"
+bsum = "8676eefd7fd95d0cc17ad2314702f43679d39f5a13e95dc1b0faf4687578da7c"
+sha = "60d9da8b64f78b82328506cbb3663e855f7098c23e1c76873c50cdd3fe65f253"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/assh"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["assh"]
+requires = []
+
+[package.metadata]
+keywords = ["automation","config","config-management","devops","proxy","ssh"]
+categories = ["Utilities"]

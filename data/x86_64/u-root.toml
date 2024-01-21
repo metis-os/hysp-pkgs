@@ -1,0 +1,26 @@
+[bin]
+name = "u-root"
+
+[package]
+architecture = "x86_64"
+name = "u-root"
+description = "A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go."
+author = "u-root"
+repo = "https://github.com/u-root/u-root"
+stars = "2363"
+version = "v0.12.0"
+updated = "2024-01-10T06:09:15Z"
+size = "5.52 MB"
+bsum = "992d6299892bba41e6f39b621e4e0e7897bfac2ff78af2a7d14d1ac4efed7dfd"
+sha = "8afd70514130e061c2e09dfd4b48a251ad3780b7c0d2b395863d754be0e92484"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/u-root"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["u-root"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","coreboot","embedded","hacktoberfest","initramfs","kernel","linux","linuxboot","ramfs","system","tinycore"]
+categories = ["Utilities"]

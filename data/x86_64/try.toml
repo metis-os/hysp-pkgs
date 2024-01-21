@@ -1,0 +1,26 @@
+[bin]
+name = "try"
+
+[package]
+architecture = "x86_64"
+name = "try"
+description = "Inspect a command's effects before modifying your live system"
+author = "binpash"
+repo = "https://github.com/binpash/try"
+stars = "5063"
+version = "v0.2.0"
+updated = "2023-07-24T20:24:15Z"
+size = "0.02 MB"
+bsum = "3c82ea0c38d540e41f95536caf6e6a76ff8b23c6eac8b9a6ef47d96d4e2180db"
+sha = "8cf1a37238d082843820faacc5a45453c8913a7ada169c55e3e2eab635335277"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/try"
+language = "Shell"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["try"]
+requires = []
+
+[package.metadata]
+keywords = ["administration","containers","shell","tools","virtualization"]
+categories = ["Utilities"]
