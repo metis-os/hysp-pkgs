@@ -1,0 +1,26 @@
+[bin]
+name = "fastfetch"
+
+[package]
+architecture = "x86_64"
+name = "fastfetch"
+description = "Like neofetch, but much faster because written mostly in C."
+author = "fastfetch-cli"
+repo = "https://github.com/fastfetch-cli/fastfetch"
+stars = "1489"
+version = "2.6.2"
+updated = "2024-01-21T10:12:32Z"
+size = "1.11 MB"
+bsum = "b2edb5e4eb2be2c001578275bbcd2c5f6d763adf2b749fd291195d4cdff91eb4"
+sha = "0a8dfa8856167999d79d4a119c4262e4ce2b4a6d7e6e0ee517393f31f0813b07"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/fastfetch"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["fastfetch"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","fastfetch","fetch","flashfetch","hacktoberfest","terminal"]
+categories = ["Utilities"]

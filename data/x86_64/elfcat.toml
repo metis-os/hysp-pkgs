@@ -1,0 +1,26 @@
+[bin]
+name = "elfcat"
+
+[package]
+architecture = "x86_64"
+name = "elfcat"
+description = "ELF visualizer. Generates HTML files from ELF binaries."
+author = "ruslashev"
+repo = "https://github.com/ruslashev/elfcat"
+stars = "914"
+version = "0.1.8"
+updated = "2021-10-13T06:27:37Z"
+size = "0.56 MB"
+bsum = "88a9403e3a50345a1af7f4d20a059346e83c92ff651a8d081685d0df800a75dc"
+sha = "a3f5be08897e886143f2bfafa5cc77cec475ce40c7a5e122369ec831e70a5e97"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/elfcat"
+language = "Rust"
+license = "zlib License"
+
+[package.conditions]
+conflicts  = ["elfcat"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

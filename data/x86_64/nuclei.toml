@@ -1,0 +1,26 @@
+[bin]
+name = "nuclei"
+
+[package]
+architecture = "x86_64"
+name = "nuclei"
+description = "Fast and customizable vulnerability scanner based on simple YAML based DSL."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/nuclei"
+stars = "16141"
+version = "v3.1.6"
+updated = "2024-01-18T19:50:20Z"
+size = "68.93 MB"
+bsum = "c613733a727c02009165b34fc174d557751ce50a3666683a00f096614a7c24d8"
+sha = "194181aad439f44d37f6d4237a8211eb5e43563a227318895db7bd6a4fd4ee8c"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/nuclei"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["nuclei"]
+requires = []
+
+[package.metadata]
+keywords = ["attack-surface","cve-scanner","hacktoberfest","nuclei-engine","security","security-scanner","subdomain-takeover","vulnerability-assessment","vulnerability-detection","vulnerability-scanner"]
+categories = ["Utilities"]

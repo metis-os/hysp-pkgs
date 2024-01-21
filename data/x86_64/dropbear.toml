@@ -1,0 +1,26 @@
+[bin]
+name = "dropbear"
+
+[package]
+architecture = "x86_64"
+name = "dropbear"
+description = "Dropbear SSH"
+author = "mkj"
+repo = "https://github.com/mkj/dropbear"
+stars = "1463"
+version = "DROPBEAR_2022.83"
+updated = "2022-11-14T14:05:56Z"
+size = "1.66 MB"
+bsum = "88ccb7117ab1beb6bc7d65b4cbfe3a86b731fa92c78200539e96974b9de7fe7a"
+sha = "4d6e4f57df98d5bf07b2c9eacc0e5df7cb659cba4477a5ca23e8590453383cf5"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dropbear"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["dropbear"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
