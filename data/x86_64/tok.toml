@@ -1,0 +1,26 @@
+[bin]
+name = "tok"
+
+[package]
+architecture = "x86_64"
+name = "tok"
+description = "A collection of hacks and one-off scripts"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/hacks"
+stars = "1989"
+version = "null"
+updated = ""
+size = "1.3 MB"
+bsum = "e2602fac3266beff79392eca6aa45f0397b9ad7cb52da4cd58fec1accddf21a4"
+sha = "4eef3fc3ec99ecb5e94e2ebacfc88befe19f9d177a2505fcc8e1e2299f715ba2"
+source = "https://bin.ajam.dev/x86_64_Linux/tok"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["tok"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
