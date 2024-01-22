@@ -39,6 +39,7 @@
 │ 111│-dnslookup                        │    │
 │ 115│-doomxss                          │    │
 │ 116│-dotenv-linter                    │    │
+│ 119│-dropbearkey                      │    │
 │ 125│-dufs                             │    │
 │ 133│-earh                             │    │
 │ 134│-edgevpn                          │    │

@@ -1,0 +1,26 @@
+[bin]
+name = "socat"
+
+[package]
+architecture = "x86_64"
+name = "socat"
+description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/static-toolbox"
+stars = "16"
+version = "misc_utils_2024_01_22_07_50_45_AM"
+updated = "2024-01-22T02:05:46Z"
+size = "3.06 MB"
+bsum = "074c1f74dffccee5cca4fe80cd1817b5f5efdf7ebb56c868a7ad1412504f46c2"
+sha = "e54dcf9ff343fbf15af2791c1d958a5645ae90cb4d1f68fda046c017c64a841d"
+source = "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/socat"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["socat"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+categories = ["Utilities"]
