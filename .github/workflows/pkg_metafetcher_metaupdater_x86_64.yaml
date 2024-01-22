@@ -75,7 +75,7 @@ jobs:
           #Generate Dynamic Meta
           BSUM="$(curl -qfsSL "$SOURCE_BIN/BLAKE3SUM.txt" 2>/dev/null | grep -i "$BIN$" | awk '{print $1}' | sort  -u | head -n 1 | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export BSUM="$BSUM"
           SHA="$(curl -qfsSL "$SOURCE_BIN/SHA256SUM.txt" 2>/dev/null | grep -i "$BIN$" | awk '{print $1}' | sort  -u | head -n 1 | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SHA="$SHA"
-          SIZE="$(echo $PKG_METADATA | jq -r '.Size' | awk '{printf "%.2f MB\n", $1 / (1024 * 1024)}' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SIZE="$SIZE"
+          SIZE="$(echo $PKG_METADATA | jq -r '.Size' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SIZE="$SIZE"
           PKG_VERSION="$(curl -qfsSL "https://www.7-zip.org/download.html" | grep -oP '<B>Download 7-Zip \K[^<]*' | grep -iv 'windows' | sort -u | tail -n 1 |  awk '{print $1}')" && export PKG_VERSION="$PKG_VERSION" 
           PKG_RELEASED="$(curl -qfsSL "https://www.7-zip.org/download.html" | grep -oP '<B>Download 7-Zip \K[^<]*' | grep -iv 'windows' | sort -u | tail -n 1 |  awk '{print $2}')" && export PKG_RELEASED="$PKG_RELEASED" 
           #Update
