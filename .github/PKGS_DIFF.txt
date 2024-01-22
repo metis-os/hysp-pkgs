@@ -797,57 +797,36 @@
 │ 543│ txeh                             │ 477│ txeh
 │ 544│ tz                               │ 478│ tz
 │ 545│ u-root                           │ 479│ u-root
-│ 549│ unf                              │ 483│ unf
-│ 550│ unfurl                           │ 484│ unfurl
 │ 551│ upx                              │ 485│ upx
-│ 552│-usql                             │    │
-│ 553│-v2raya                           │    │
+│ 552│ usql                             │ 486│ usql
+│ 553│ v2raya                           │ 487│ v2raya
 │ 554│-v6disk                           │    │
 │ 555│-v6run                            │    │
-│ 556│-validtoml                        │    │
-│ 557│-vegeta                           │    │
-│ 558│-vhs                              │    │
-│ 559│-viddy                            │    │
-│ 560│-viewgen_staticx                  │    │
-│ 561│-viu                              │    │
-│ 562│-volta                            │    │
-│ 563│-vopono                           │    │
-│ 564│-vtm                              │    │
-│ 565│-vultr-cli                        │    │
-│ 566│-wadl-dumper                      │    │
-│ 567│-walk                             │    │
-│ 568│-wasminspect                      │    │
-│ 569│-watchexec                        │    │
-│ 570│-waybackrobots                    │    │
-│ 571│-waybackurls                      │    │
-│ 572│-web-cache-vulnerability-scanner  │    │
-│ 573│-websocat                         │    │
+│ 556│ validtoml                        │ 488│ validtoml
+│ 557│ vegeta                           │ 489│ vegeta
+│ 558│ vhs                              │ 490│ vhs
+│ 571│ waybackurls                      │ 503│ waybackurls
+│ 572│ web-cache-vulnerability-scanner  │ 504│ web-cache-vulnerability-scanner
+│ 573│ websocat                         │ 505│ websocat
 │ 574│-wego                             │    │
-│ 575│-wireguard-go                     │    │
-│ 576│-wireguard-rs                     │    │
-│ 577│-wireproxy                        │    │
-│ 578│-wiretap                          │    │
-│ 579│-wormhole-rs                      │    │
-│ 580│-wstunnel                         │    │
-│ 581│-wtfutil                          │    │
-│ 582│-wth                              │    │
-│ 583│-x8                               │    │
-│ 584│ xargs-rs                         │ 486│ xargs-rs
-
-│ 585│-xcp                              │    │
+│ 575│ wireguard-go                     │ 506│ wireguard-go
+│ 576│ wireguard-rs                     │ 507│ wireguard-rs
+│ 577│ wireproxy                        │ 508│ wireproxy
+│ 583│ x8                               │ 514│ x8
+│ 584│ xargs-rs                         │ 515│ xargs-rs
+│ 585│ xcp                              │ 516│ xcp
 │ 586│-xh                               │    │
-│ 587│-xplr                             │    │
-│ 588│-xurls                            │    │
-│ 589│-yalis                            │    │
-│ 590│-yataf                            │    │
-│ 591│-yazi                             │    │
+│ 587│ xplr                             │ 517│ xplr
+│ 588│ xurls                            │ 518│ xurls
+│ 589│ yalis                            │ 519│ yalis
+│ 590│ yataf                            │ 520│ yataf
+│ 591│ yazi                             │ 521│ yazi
 │ 592│-yip                              │    │
-│ 593│-yj                               │    │
-│ 594│-yq                               │    │
-│ 595│-zdns                             │    │
-│ 596│-zellij                           │    │
-│ 597│-zenith                           │    │
-│ 598│-zfxtop                           │    │
-│ 599│-zgrab2                           │    │
-│ 600│-zoxide                           │    │
+│ 593│ yj                               │ 522│ yj
+│ 594│ yq                               │ 523│ yq
+│ 595│ zdns                             │ 524│ zdns
+│ 598│ zfxtop                           │ 527│ zfxtop
+│ 599│ zgrab2                           │ 528│ zgrab2
+│ 600│ zoxide                           │ 529│ zoxide
+
 │ 601│-zstd                             │    │
