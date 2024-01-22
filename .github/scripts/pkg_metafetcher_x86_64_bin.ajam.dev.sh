@@ -85,8 +85,8 @@ echo -e "\n\n"
 #EOF
 
 #Sanity Checks for updater
-# if [[ -n "$GITHUB_WORKSPACE" ]]; then
-#    # Run
-#    bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metaupdater_x86_64.sh")
-# fi
+ if [[ -n "$GITHUB_WORKSPACE" ]]; then
+    # Run
+    bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metaupdater_x86_64.sh")
+ fi
 #EOF
