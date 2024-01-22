@@ -181,7 +181,6 @@
 │ 463│-tidy-viewer                      │    │
 │ 465│-tlrc                             │    │
 │ 471│-traefik                          │    │
-│ 472│-trufflehog                       │    │
 │ 474│-tty2web                          │    │
 │ 475│-ttyd                             │    │
 │ 476│-tuiarchiver                      │    │
