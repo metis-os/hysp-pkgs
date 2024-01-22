@@ -42,17 +42,17 @@ jobs:
           set +x ; set +e
           #--------------#
           #action-lint
-          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/actionlint" -o "/usr/local/bin/actionlint" && sudo chmod +xwr "/usr/local/bin/actionlint"
+          sudo curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/actionlint" -o "/usr/local/bin/actionlint" && sudo chmod +xwr "/usr/local/bin/actionlint"
           #delta
-          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/delta" -o "/usr/local/bin/delta" && sudo chmod +xwr "/usr/local/bin/delta"
+          sudo curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/delta" -o "/usr/local/bin/delta" && sudo chmod +xwr "/usr/local/bin/delta"
           #eget
-          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
+          sudo curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
           #validtoml
-          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
+          sudo curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
           #Yq
-          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yq" -o "/usr/local/bin/yq" && sudo chmod +xwr "/usr/local/bin/yq"
+          sudo curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/yq" -o "/usr/local/bin/yq" && sudo chmod +xwr "/usr/local/bin/yq"
           #Yj
-          sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
+          sudo curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
         continue-on-error: true
 
       - name: Setup Env
@@ -68,7 +68,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="anew" REPO="tomnomnom/anew" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="anew" REPO="tomnomnom/anew" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#        
      #bottom : htop clone | graphical process/system monitor
@@ -77,7 +77,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="btm" REPO="ClementTsang/bottom" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="btm" REPO="ClementTsang/bottom" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------# 
      #certstream : Cli for calidog's certstream
@@ -86,7 +86,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="certstream" REPO="Azathothas/Arsenal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="certstream" REPO="Azathothas/Arsenal" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #crt : A CLI tool to check Certificate Transparency logs of a domain name
@@ -95,7 +95,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="crt" REPO="cemulus/crt" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="crt" REPO="cemulus/crt" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #dnsx : Multi-purpose DNS toolkit allow to run multiple DNS queries
@@ -104,7 +104,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="dnsx" REPO="projectdiscovery/dnsx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="dnsx" REPO="projectdiscovery/dnsx" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#   
      #eget : Easily install prebuilt binaries from GitHub
@@ -113,7 +113,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="eget" REPO="zyedidia/eget" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="eget" REPO="zyedidia/eget" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #encode : Encode|Decode input from stdin
@@ -122,7 +122,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="encode" REPO="Brum3ns/encode" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="encode" REPO="Brum3ns/encode" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #ffuf : Fast web fuzzer written in Go 
@@ -131,7 +131,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="ffuf" REPO="ffuf/ffuf" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="ffuf" REPO="ffuf/ffuf" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #filebrowser : 📂 Web File Browser
@@ -140,7 +140,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="filebrowser" REPO="filebrowser/filebrowser" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="filebrowser" REPO="filebrowser/filebrowser" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #godns : A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc
@@ -149,7 +149,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="godns" REPO="TimothyYe/godns" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="godns" REPO="TimothyYe/godns" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #gost : GO Simple Tunnel - a simple tunnel written in golang
@@ -158,7 +158,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="gost" REPO="ginuerzh/gost" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="gost" REPO="ginuerzh/gost" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #gowitness : 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
@@ -167,7 +167,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="gowitness" REPO="sensepost/gowitness" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="gowitness" REPO="sensepost/gowitness" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #httpx : httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes
@@ -176,7 +176,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="httpx" REPO="projectdiscovery/httpx" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="httpx" REPO="projectdiscovery/httpx" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------# 
      #hxn : ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal
@@ -185,7 +185,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="hxn" REPO="pwnwriter/haylxon" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="hxn" REPO="pwnwriter/haylxon" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------# 
      #hysp : 📦 An independent package manager that every hacker deserves.
@@ -194,7 +194,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="hysp" REPO="pwnwriter/hysp" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="hysp" REPO="pwnwriter/hysp" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #inscope : filtering URLs and domains supplied on stdin to make sure they meet one of a set of regular expressions
@@ -203,7 +203,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="inscope" REPO="tomnomnom/hacks" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="inscope" REPO="tomnomnom/hacks" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true  
      #----------------------------#
      #jless : jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data
@@ -212,7 +212,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="jless" REPO="PaulJuliusMartinez/jless" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="jless" REPO="PaulJuliusMartinez/jless" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #kanha : 🦚 A web-app pentesting suite written in rust
@@ -221,7 +221,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="kanha" REPO="pwnwriter/kanha" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="kanha" REPO="pwnwriter/kanha" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #mapcidr : Utility program to perform multiple operations for a given subnet/CIDR ranges
@@ -230,7 +230,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="mapcidr" REPO="projectdiscovery/mapcidr" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="mapcidr" REPO="projectdiscovery/mapcidr" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #pspy : Monitor linux processes without root permissions 
@@ -239,7 +239,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="pspy" REPO="DominicBreuker/pspy" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="pspy" REPO="DominicBreuker/pspy" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #scopegen : Generates .scope compatible format for ScopeView (based on TomNomNom's Inscope)
@@ -248,7 +248,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="scopegen" REPO="Azathothas/Arsenal" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="scopegen" REPO="Azathothas/Arsenal" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #static-web-server : A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
@@ -257,7 +257,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="static-web-server" REPO="static-web-server/static-web-server" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="static-web-server" REPO="static-web-server/static-web-server" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #sudo : A wrapper script to drop to the supported shells or execute shell script files with superuser (root) context in termux
@@ -266,7 +266,7 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="sudo" REPO="agnostic-apollo/sudo" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="sudo" REPO="agnostic-apollo/sudo" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
      #----------------------------#
      #tailscale : The easiest, most secure way to use WireGuard and 2FA
@@ -275,10 +275,10 @@ jobs:
           #Presets
           set -x ; set +e ; ulimit -S -s unlimited
           #--------------#
-          BIN="tailscale" REPO="tailscale/tailscale" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
-          BIN="tailscaled" REPO="tailscale/tailscale" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
-          BIN="tailscale_dynamic_native" REPO="tailscale/tailscale" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
-          BIN="tailscaled_dynamic_native" REPO="tailscale/tailscale" SOURCE_BIN="Azathothas/Toolpacks" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android.sh")
+          BIN="tailscale" REPO="tailscale/tailscale" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
+          BIN="tailscaled" REPO="tailscale/tailscale" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
+          BIN="tailscale_dynamic_native" REPO="tailscale/tailscale" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
+          BIN="tailscaled_dynamic_native" REPO="tailscale/tailscale" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
         continue-on-error: true
 #------------------------------------------------------------------------------------#        
       - name: Dos2Unix Everything
@@ -364,10 +364,10 @@ jobs:
           cd "$GITHUB_WORKSPACE/main"          
           #aarch64_arm64
           echo -e "[+] aarch64_arm64\n" > "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
-          delta -s --raw <(curl -qfsSL "https://api.github.com/repos/Azathothas/Toolpacks/contents/aarch64_arm64/" | jq -r '.[].name' | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/aarch64_arm64_Linux/METADATA.json" | jq -r '.[].Name' | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #x86_64
           echo -e "\n\n[+] x86_64\n" >> "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
-          delta -s --raw <(curl -qfsSL "https://api.github.com/repos/Azathothas/Toolpacks/contents/x86_64/" | jq -r '.[].name' | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/METADATA.json" | jq -r '.[].Name' | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #Only Missing
           #aarch64_arm64
           cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "aarch64_arm64" 2>/dev/null | awk '/x86_64/{exit} {print}' 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_aarch64_arm64.txt"
