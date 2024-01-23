@@ -83,7 +83,6 @@
 │ 248│-invidtui                         │    │
 │ 250│-ipt2socks                        │    │
 │ 251│-istioctl                         │    │
-│ 252│-jaeles                           │    │
 │ 253│-jaq                              │    │
 │ 254│-jira                             │    │
 │ 256│-jql                              │    │
