@@ -309,7 +309,7 @@
 - **Stars:** 14
 - **Version:** null
 - **Updated:** 
-- **Size:** 1.62 MB
+- **Size:** 1.61 MB
 - **SHASUM:** a666ac5ad60a280e0fbb2116671fe443a96e54e247504523f7299f2d7bdd64f1
 - **B3SUM:** 1dac0801b928f9ee1ac47961dba2128e30e4fbdb56e71b5d4b1297de53b7e3bf
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/scopegen
@@ -325,7 +325,7 @@
 - **Stars:** 987
 - **Version:** v2.25.0
 - **Updated:** 2024-01-23T00:03:19Z
-- **Size:** 6.76 MB
+- **Size:** 6.8 MB
 - **SHASUM:** c2f88a85c97bf9547466106633feee4c79378ee18624311b72798b235fff1237
 - **B3SUM:** 10d6227ab1882bec3a376aaf5f63437a85ab1c915b5cfda7a7c55579ba8e6149
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/static-web-server
