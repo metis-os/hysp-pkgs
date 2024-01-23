@@ -22,5 +22,5 @@ conflicts  = ["wstunnel"]
 requires = []
 
 [package.metadata]
-keywords = ["reverse-tunnel","socks5-proxy","tcp-tunnel","transparent-proxy","tunneling","udp-tunnel","websocket","wireguard","wireguard-tunnel"]
+keywords = ["http2","reverse-tunnel","socks","socks5","socks5-proxy","tcp-tunnel","transparent-proxy","tunneling","udp-tunnel","websocket","wireguard","wireguard-tunnel"]
 categories = ["Utilities"]
