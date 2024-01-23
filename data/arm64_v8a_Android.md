@@ -82,7 +82,7 @@
 - **Description:** Easily install prebuilt binaries from GitHub.
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 672
+- **Stars:** 673
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.8 MB
@@ -226,7 +226,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1990
+- **Stars:** 1991
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
@@ -242,7 +242,7 @@
 - **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - **Author:** PaulJuliusMartinez
 - **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
-- **Stars:** 4323
+- **Stars:** 4324
 - **Version:** v0.9.0
 - **Updated:** 2023-07-17T02:51:34Z
 - **Size:** 1.83 MB
@@ -355,8 +355,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 15129
-- **Version:** v1.58.0
-- **Updated:** 2024-01-18T21:39:08Z
+- **Version:** v1.58.2
+- **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 10.92 MB
 - **SHASUM:** a9c91ac7e8240ca11b72169e07a3c914e7c1479086a38905c8f903452d09dae8
 - **B3SUM:** 5fd66b16ac82a695aac41c7f710f9a9f7946368114021e61968c8164d2770a24
@@ -371,8 +371,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 15129
-- **Version:** v1.58.0
-- **Updated:** 2024-01-18T21:39:08Z
+- **Version:** v1.58.2
+- **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 11.28 MB
 - **SHASUM:** a13d1d268560c1e78eab61148a9c30e8ad791c14e27a3b4f0598b2c97ea2f2b5
 - **B3SUM:** f59cfc45fc642a36479260e3299630e25c259aa4981d142bc35358f1eea89c7c
@@ -387,8 +387,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 15129
-- **Version:** v1.58.0
-- **Updated:** 2024-01-18T21:39:08Z
+- **Version:** v1.58.2
+- **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 20.48 MB
 - **SHASUM:** c2d8796ca33a2e2b8ae2218e8950ed548eb336c3f1c7d658a74a3ddf9045b642
 - **B3SUM:** 445c19ff6aa6d77e201f9ff7a5660a2069425dc4547bd7c5085b065672aff85e
@@ -403,8 +403,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 15129
-- **Version:** v1.58.0
-- **Updated:** 2024-01-18T21:39:08Z
+- **Version:** v1.58.2
+- **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 21.67 MB
 - **SHASUM:** a4f95882db9f999e96d6bb7a3e9fd866c938052c6a10ca30b5588224b150dfa8
 - **B3SUM:** 86e74588b5c0cd85afef8f4318d2402178613bf1ca77e3125eca7b20e7d9d894
