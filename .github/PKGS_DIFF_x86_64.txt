@@ -48,6 +48,7 @@
 │ 456│-scp                              │    │
 │ 471│-sk-tmux                          │    │
 │ 482│-ssh                              │    │
+│ 487│-ssh-keysign                      │    │
 │ 503│-sunbeam                          │    │
 │ 513│-tailscale_merged                 │    │
 │ 521│-tgpt                             │    │
