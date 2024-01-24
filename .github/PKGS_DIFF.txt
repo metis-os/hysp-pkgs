@@ -704,63 +704,58 @@
 │ 364│ notify                           │ 319│ notify
 │ 365│-nping                            │    │
 │ 366│-nrich                            │    │
-│ 367│ nrp                              │ 320│ nrp
-│ 368│ nu                               │ 321│ nu
-│ 369│ nuclei                           │ 322│ nuclei
-│ 378│ passdetective                    │ 331│ passdetective
-│ 379│ pathbuster                       │ 332│ pathbuster
-│ 380│ pdfcpu                           │ 333│ pdfcpu
+│ 367│-nrp                              │    │
+│ 368│ nu                               │ 320│ nu
+│ 369│ nuclei                           │ 321│ nuclei
+│ 370│ oha                              │ 322│ oha
+│ 378│ passdetective                    │ 330│ passdetective
+│ 379│ pathbuster                       │ 331│ pathbuster
+│ 380│ pdfcpu                           │ 332│ pdfcpu
 │ 381│-pfetch-rs                        │    │
-│ 382│ pgweb                            │ 334│ pgweb
-│ 383│ phantun-client                   │ 335│ phantun-client
-│ 384│ phantun-server                   │ 336│ phantun-server
-│ 385│ pkgtop                           │ 337│ pkgtop
-│ 386│ planor                           │ 338│ planor
-│ 387│ podman                           │ 339│ podman
+│ 382│ pgweb                            │ 333│ pgweb
+│ 383│ phantun-client                   │ 334│ phantun-client
+│ 384│ phantun-server                   │ 335│ phantun-server
+│ 385│ pkgtop                           │ 336│ pkgtop
+│ 386│ planor                           │ 337│ planor
+│ 387│ podman                           │ 338│ podman
 │ 388│-podsync                          │    │
-│ 389│ ppath                            │ 340│ ppath
-│ 390│ ppfuzz                           │ 341│ ppfuzz
-│ 391│ pping                            │ 342│ pping
-│ 415│ recollapse_staticx               │ 366│ recollapse_staticx
-│ 416│ redguard                         │ 367│ redguard
-│ 417│ redive                           │ 368│ redive
+│ 389│ ppath                            │ 339│ ppath
+│ 390│ ppfuzz                           │ 340│ ppfuzz
+│ 391│ pping                            │ 341│ pping
+│ 415│ recollapse_staticx               │ 365│ recollapse_staticx
+│ 416│ redguard                         │ 366│ redguard
+│ 417│ redive                           │ 367│ redive
 │ 418│-rekor                            │    │
-│ 419│ relic                            │ 369│ relic
-│ 420│ removehost                       │ 370│ removehost
-│ 421│ removepro                        │ 371│ removepro
-│ 422│ reptyr                           │ 372│ reptyr
-│ 423│ rescope                          │ 373│ rescope
+│ 419│ relic                            │ 368│ relic
+│ 420│ removehost                       │ 369│ removehost
+│ 421│ removepro                        │ 370│ removepro
+│ 422│ reptyr                           │ 371│ reptyr
+│ 423│ rescope                          │ 372│ rescope
 │ 424│-resdns                           │    │
-│ 425│ restic                           │ 374│ restic
-│ 426│ resto                            │ 375│ resto
-│ 427│ revit                            │ 376│ revit
-│ 453│ scilla                           │ 402│ scilla
-│ 454│ scopegen                         │ 403│ scopegen
-│ 455│ scopeview                        │ 404│ scopeview
+│ 425│ restic                           │ 373│ restic
+│ 426│ resto                            │ 374│ resto
+│ 427│ revit                            │ 375│ revit
+│ 453│ scilla                           │ 401│ scilla
+│ 454│ scopegen                         │ 402│ scopegen
+│ 455│ scopeview                        │ 403│ scopeview
 │ 456│-scp                              │    │
-│ 457│ screenfetch                      │ 405│ screenfetch
-│ 458│ sd                               │ 406│ sd
-│ 459│ sessionprobe                     │ 407│ sessionprobe
-│ 468│ sish                             │ 416│ sish
-│ 469│ sj                               │ 417│ sj
-│ 470│ sk                               │ 418│ sk
+│ 457│ screenfetch                      │ 404│ screenfetch
+│ 458│ sd                               │ 405│ sd
+│ 459│ sessionprobe                     │ 406│ sessionprobe
+│ 468│ sish                             │ 415│ sish
+│ 469│ sj                               │ 416│ sj
+│ 470│ sk                               │ 417│ sk
 │ 471│-sk-tmux                          │    │
-│ 472│ sliver-client                    │ 419│ sliver-client
-│ 473│ smap                             │ 420│ smap
-│ 474│ smenu                            │ 421│ smenu
-│ 479│ spoof-dpi                        │ 426│ spoof-dpi
-│ 480│ sq                               │ 427│ sq
-│ 481│ sqlc                             │ 428│ sqlc
+│ 472│ sliver-client                    │ 418│ sliver-client
+│ 473│ smap                             │ 419│ smap
+│ 474│ smenu                            │ 420│ smenu
+│ 479│ spoof-dpi                        │ 425│ spoof-dpi
+│ 480│ sq                               │ 426│ sq
+│ 481│ sqlc                             │ 427│ sqlc
 │ 482│-ssh                              │    │
-│ 483│ ssh-add                          │ 429│ ssh-add
-│ 484│ ssh-agent                        │ 430│ ssh-agent
-│ 485│ ssh-keygen                       │ 431│ ssh-keygen
-│ 486│ ssh-keyscan                      │ 432│ ssh-keyscan
-│ 487│ ssh-keysign                      │ 433│ ssh-keysign
-│ 488│-sshd                             │    │
-│ 489│ sshd_config                      │ 434│ sshd_config
-│ 490│ sshesame                         │ 435│ sshesame
-│ 491│ sshkeys                          │ 436│ sshkeys
+│ 483│ ssh-add                          │ 428│ ssh-add
+│ 484│ ssh-agent                        │ 429│ ssh-agent
+│ 485│ ssh-keygen                       │ 430│ ssh-keygen
 │ 500│ subfinder                        │ 445│ subfinder
 │ 501│ subjs                            │ 446│ subjs
 │ 502│ subxtract                        │ 447│ subxtract
