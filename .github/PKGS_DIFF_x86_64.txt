@@ -6,9 +6,13 @@
 │ 20 │-allxfr                           │    │
 │ 26 │-apk.sh                           │    │
 │ 28 │-aretext                          │    │
+│ 30 │-asn                              │    │
+│ 31 │-asnmap                           │    │
 │ 35 │-awk                              │    │
 │ 36 │-aws-nuke                         │    │
 │ 43 │-bearer                           │    │
+│ 46 │-bin                              │    │
+│ 47 │-binfetch                         │    │
 │ 54 │-bombadillo                       │    │
 │ 70 │-certgraph                        │    │
 │ 73 │-certstream-server-go             │    │
