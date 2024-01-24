@@ -274,7 +274,7 @@
 - **Description:** Utility program to perform multiple operations for a given subnet/CIDR ranges.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr)
-- **Stars:** 881
+- **Stars:** 882
 - **Version:** v1.1.16
 - **Updated:** 2023-11-23T07:59:56Z
 - **Size:** 23.4 MB
@@ -315,22 +315,6 @@
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/scopegen
 - **Language:** Shell
 - **License:** null
-
----
-
-### static-web-server
-- **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
-- **Author:** static-web-server
-- **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 989
-- **Version:** v2.25.0
-- **Updated:** 2024-01-23T00:03:19Z
-- **Size:** 6.8 MB
-- **SHASUM:** c2f88a85c97bf9547466106633feee4c79378ee18624311b72798b235fff1237
-- **B3SUM:** 10d6227ab1882bec3a376aaf5f63437a85ab1c915b5cfda7a7c55579ba8e6149
-- **Source:** https://bin.ajam.dev/arm64_v8a_Android/static-web-server
-- **Language:** Rust
-- **License:** Apache License 2.0
 
 ---
 
