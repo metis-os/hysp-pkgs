@@ -41,7 +41,6 @@
 │ 361│-nmctl                            │    │
 │ 365│-nping                            │    │
 │ 366│-nrich                            │    │
-│ 367│-nrp                              │    │
 │ 381│-pfetch-rs                        │    │
 │ 388│-podsync                          │    │
 │ 418│-rekor                            │    │
