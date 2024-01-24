@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 46872
+- **Stars:** 46873
 - **Version:** v0.2.57
 - **Updated:** 2024-01-01T02:21:32Z
 - **Size:** 15.23 MB
@@ -194,7 +194,7 @@
 - **Description:** A tool for adding new lines to files, skipping duplicates
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1135
+- **Stars:** 1136
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.35 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 15138
+- **Stars:** 15140
 - **Version:** v17.2.1
 - **Updated:** 2024-01-03T15:52:50Z
 - **Size:** 17.54 MB
@@ -322,7 +322,7 @@
 - **Description:** Terminal bandwidth utilization tool
 - **Author:** imsnif
 - **Repository:** [https://github.com/imsnif/bandwhich](https://github.com/imsnif/bandwhich)
-- **Stars:** 8430
+- **Stars:** 8431
 - **Version:** v0.21.1
 - **Updated:** 2023-10-16T01:40:32Z
 - **Size:** 1.96 MB
@@ -498,7 +498,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8305
+- **Stars:** 8306
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.86 MB
@@ -546,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14784
+- **Stars:** 14785
 - **Version:** v1.3.0
 - **Updated:** 2024-01-07T14:23:07Z
 - **Size:** 2.27 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51792
+- **Stars:** 51793
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 39.5 MB
@@ -882,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25462
+- **Stars:** 25463
 - **Version:** v9.6.6
 - **Updated:** 2023-11-09T14:56:49Z
 - **Size:** 7.43 MB
@@ -1266,7 +1266,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 11957
+- **Stars:** 11958
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.24 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 4906
+- **Stars:** 4907
 - **Version:** v0.17.2
 - **Updated:** 2024-01-20T18:24:38Z
 - **Size:** 1.6 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40589
+- **Stars:** 40590
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 50.02 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40589
+- **Stars:** 40590
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 49.95 MB
@@ -1618,7 +1618,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22398
+- **Stars:** 22402
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 14.58 MB
@@ -1682,7 +1682,7 @@
 - **Description:** jq for binary formats - tool, language and decoders for working with binary and text formats
 - **Author:** wader
 - **Repository:** [https://github.com/wader/fq](https://github.com/wader/fq)
-- **Stars:** 9194
+- **Stars:** 9195
 - **Version:** v0.9.0
 - **Updated:** 2023-11-25T17:53:02Z
 - **Size:** 10.99 MB
@@ -1698,7 +1698,7 @@
 - **Description:** fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain.
 - **Author:** musana
 - **Repository:** [https://github.com/musana/fuzzuli](https://github.com/musana/fuzzuli)
-- **Stars:** 559
+- **Stars:** 560
 - **Version:** v1.1.4
 - **Updated:** 2023-07-16T20:18:46Z
 - **Size:** 6.2 MB
@@ -1810,7 +1810,7 @@
 - **Description:** A wrapper around grep, to help you grep for things
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/gf](https://github.com/tomnomnom/gf)
-- **Stars:** 1568
+- **Stars:** 1569
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.96 MB
@@ -1842,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34369
+- **Stars:** 34371
 - **Version:** v2.42.1
 - **Updated:** 2024-01-16T18:34:55Z
 - **Size:** 43.22 MB
@@ -1906,7 +1906,7 @@
 - **Description:** Git extension for versioning large files
 - **Author:** git-lfs
 - **Repository:** [https://github.com/git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
-- **Stars:** 12193
+- **Stars:** 12194
 - **Version:** v3.4.1
 - **Updated:** 2023-12-13T23:25:51Z
 - **Size:** 10.77 MB
@@ -2066,7 +2066,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 16195
+- **Stars:** 16197
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.82 MB
@@ -2082,7 +2082,7 @@
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
-- **Stars:** 14109
+- **Stars:** 14110
 - **Version:** v1.5.1
 - **Updated:** 2023-05-09T16:16:51Z
 - **Size:** 17.41 MB
@@ -2114,7 +2114,7 @@
 - **Description:** Directory/File, DNS and VHost busting tool written in Go
 - **Author:** OJ
 - **Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
-- **Stars:** 8646
+- **Stars:** 8647
 - **Version:** v3.6.0
 - **Updated:** 2023-08-14T08:30:05Z
 - **Size:** 7.75 MB
@@ -2498,7 +2498,7 @@
 - **Description:** Like jq, but for HTML.
 - **Author:** mgdm
 - **Repository:** [https://github.com/mgdm/htmlq](https://github.com/mgdm/htmlq)
-- **Stars:** 6735
+- **Stars:** 6736
 - **Version:** v0.4.0
 - **Updated:** 2022-01-03T21:40:36Z
 - **Size:** 1.54 MB
@@ -2578,7 +2578,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 18666
+- **Stars:** 18667
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.01 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27707
+- **Stars:** 27708
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.71 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15681
+- **Stars:** 15682
 - **Version:** 1.23.0
 - **Updated:** 2024-01-13T02:56:31Z
 - **Size:** 2.95 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 32110
+- **Stars:** 32111
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.92 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 41971
+- **Stars:** 41972
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 15.47 MB
@@ -3106,7 +3106,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23381
+- **Stars:** 23382
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.35 MB
@@ -3314,7 +3314,7 @@
 - **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- **Stars:** 16173
+- **Stars:** 16174
 - **Version:** v3.1.7
 - **Updated:** 2024-01-22T21:53:47Z
 - **Size:** 69.45 MB
@@ -3410,7 +3410,7 @@
 - **Description:** Painless compression and decompression in the terminal
 - **Author:** ouch-org
 - **Repository:** [https://github.com/ouch-org/ouch](https://github.com/ouch-org/ouch)
-- **Stars:** 1815
+- **Stars:** 1816
 - **Version:** 0.5.1
 - **Updated:** 2023-12-05T22:42:47Z
 - **Size:** 4.32 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 42855
+- **Stars:** 42856
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.37 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 22368
+- **Stars:** 22371
 - **Version:** v0.1.14
 - **Updated:** 2024-01-19T20:22:26Z
 - **Size:** 17.28 MB
@@ -3970,7 +3970,7 @@
 - **Description:** A minimal file upload/pastebin service.
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/rustypaste](https://github.com/orhun/rustypaste)
-- **Stars:** 618
+- **Stars:** 619
 - **Version:** v0.14.4
 - **Updated:** 2023-12-20T19:53:54Z
 - **Size:** 5.45 MB
@@ -3986,7 +3986,7 @@
 - **Description:** Scan for misconfigured S3 buckets across S3-compatible APIs!
 - **Author:** sa7mon
 - **Repository:** [https://github.com/sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
-- **Stars:** 2297
+- **Stars:** 2298
 - **Version:** v3.0.4
 - **Updated:** 2023-09-25T23:07:42Z
 - **Size:** 18.86 MB
@@ -4802,7 +4802,7 @@
 - **Description:** Your CLI home video recorder 📼
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- **Stars:** 12940
+- **Stars:** 12942
 - **Version:** v0.7.1
 - **Updated:** 2023-12-12T19:50:53Z
 - **Size:** 24.27 MB
@@ -4898,7 +4898,7 @@
 - **Description:** Executes commands in response to file modifications
 - **Author:** watchexec
 - **Repository:** [https://github.com/watchexec/watchexec](https://github.com/watchexec/watchexec)
-- **Stars:** 4558
+- **Stars:** 4559
 - **Version:** v1.25.1
 - **Updated:** 2024-01-05T04:56:49Z
 - **Size:** 7.3 MB
@@ -5186,7 +5186,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15529
+- **Stars:** 15530
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 25.26 MB
@@ -5234,7 +5234,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 13267
+- **Stars:** 13268
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 972.41 kB

@@ -822,12 +822,11 @@
 │ 590│ yataf                            │ 520│ yataf
 │ 591│ yazi                             │ 521│ yazi
 │ 592│-yip                              │    │
-│ 593│-yj                               │    │
-│ 594│ yq                               │ 522│ yq
-│ 595│ zdns                             │ 523│ zdns
-│ 596│ zellij                           │ 524│ zellij
-│ 598│ zfxtop                           │ 526│ zfxtop
-│ 599│ zgrab2                           │ 527│ zgrab2
-│ 600│ zoxide                           │ 528│ zoxide
+│ 593│ yj                               │ 522│ yj
+│ 594│ yq                               │ 523│ yq
+│ 595│ zdns                             │ 524│ zdns
+│ 598│ zfxtop                           │ 527│ zfxtop
+│ 599│ zgrab2                           │ 528│ zgrab2
+│ 600│ zoxide                           │ 529│ zoxide
 
 │ 601│-zstd                             │    │
