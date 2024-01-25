@@ -20,7 +20,6 @@
 │ 102│-cowthink                         │    │
 │ 128│-dizi                             │    │
 │ 129│-dizi-server                      │    │
-│ 137│-dropbear                         │    │
 │ 155│-edgevpn                          │    │
 │ 170│-falconhound                      │    │
 │ 181│-ffufw                            │    │
