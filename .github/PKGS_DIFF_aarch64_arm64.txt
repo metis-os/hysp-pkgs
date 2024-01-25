@@ -40,10 +40,7 @@
 │ 93 │-crawley                          │    │
 │ 99 │-csview                           │    │
 │ 101│-ct_monitor                       │    │
-│ 104│-cut-cdn                          │    │
-│ 105│-dalfox                           │    │
 │ 106│-dasel                            │    │
-│ 107│-datadash                         │    │
 │ 109│-ddns-go                          │    │
 │ 112│-devpod                           │    │
 │ 113│-diffoci                          │    │
