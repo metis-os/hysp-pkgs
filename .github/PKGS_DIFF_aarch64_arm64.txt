@@ -63,6 +63,7 @@
 │ 168│-fnm                              │    │
 │ 170│-fscan                            │    │
 │ 171│-fuse-overlayfs                   │    │
+│ 172│-fuzzuli                          │    │
 │ 173│-fwanalyzer                       │    │
 │ 178│-genscope                         │    │
 │ 184│-gh-dash                          │    │
