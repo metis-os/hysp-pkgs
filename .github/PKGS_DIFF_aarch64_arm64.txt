@@ -78,6 +78,7 @@
 │ 220│-gron                             │    │
 │ 222│-gs-netcat                        │    │
 │ 223│-gsocket                          │    │
+│ 236│-hostctl                          │    │
 │ 241│-hx                               │    │
 │ 247│-interactsh-server                │    │
 │ 248│-invidtui                         │    │
