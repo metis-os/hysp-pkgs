@@ -3,8 +3,8 @@
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
 - **Stars:** 1139
-- **Version:** v0.1.1
-- **Updated:** 2022-03-15T22:35:31Z
+- **Version:** v0.2
+- **Updated:** 2022-03-15T21:57:53Z
 - **Size:** 1.48 MB
 - **SHASUM:** 84bdedaa10c3efce0eba2867ed91a36b5b8f7b67c5a046cb30058c8dbdb23c2e
 - **B3SUM:** 9bec590d43628d5266464aa25a7640dca5d2dac1057fb51d59e2b9f48075eb79
@@ -114,7 +114,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10868
+- **Stars:** 10867
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
@@ -146,7 +146,7 @@
 - **Description:**  DreamHost, etc, written in Go.
 - **Author:** TimothyYe
 - **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
-- **Stars:** 1396
+- **Stars:** 1395
 - **Version:** v3.0.6
 - **Updated:** 2024-01-25T15:49:38Z
 - **Size:** 12.38 MB
@@ -162,7 +162,7 @@
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost
 - **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2546
+- **Stars:** 2545
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 27.22 MB
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6405
+- **Stars:** 6404
 - **Version:** v1.3.9
 - **Updated:** 2024-01-24T11:17:45Z
 - **Size:** 42.14 MB
@@ -226,7 +226,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 1991
+- **Stars:** 1989
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
@@ -274,7 +274,7 @@
 - **Description:** Utility program to perform multiple operations for a given subnet/CIDR ranges.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr)
-- **Stars:** 884
+- **Stars:** 883
 - **Version:** v1.1.16
 - **Updated:** 2023-11-23T07:59:56Z
 - **Size:** 23.4 MB
