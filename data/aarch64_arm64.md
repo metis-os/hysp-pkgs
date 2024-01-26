@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 46900
+- **Stars:** 46901
 - **Version:** v0.2.57
 - **Updated:** 2024-01-01T02:21:32Z
 - **Size:** 15.23 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 34559
+- **Stars:** 34562
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 60.73 MB
@@ -642,7 +642,7 @@
 - **Description:** Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - **Author:** xm1k3
 - **Repository:** [https://github.com/xm1k3/cent](https://github.com/xm1k3/cent)
-- **Stars:** 738
+- **Stars:** 739
 - **Version:** v1.3.3
 - **Updated:** 2023-12-13T15:28:03Z
 - **Size:** 12.42 MB
@@ -770,7 +770,7 @@
 - **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - **Author:** cloudreve
 - **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Stars:** 20201
+- **Stars:** 20203
 - **Version:** 3.8.3
 - **Updated:** 2023-10-07T12:30:31Z
 - **Size:** 33.89 MB
@@ -866,7 +866,7 @@
 - **Description:** A fast tool to scan CRLF vulnerability written in Go
 - **Author:** dwisiswant0
 - **Repository:** [https://github.com/dwisiswant0/crlfuzz](https://github.com/dwisiswant0/crlfuzz)
-- **Stars:** 1179
+- **Stars:** 1180
 - **Version:** v1.4.1
 - **Updated:** 2021-04-03T03:16:30Z
 - **Size:** 4.52 MB
@@ -1042,7 +1042,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19679
+- **Stars:** 19680
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.39 MB
@@ -1058,7 +1058,7 @@
 - **Description:** Instant, easy, and predictable development environments
 - **Author:** jetpack-io
 - **Repository:** [https://github.com/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
-- **Stars:** 6869
+- **Stars:** 6870
 - **Version:** 0.8.7
 - **Updated:** 2024-01-24T00:14:16Z
 - **Size:** 24.42 MB
@@ -1138,7 +1138,7 @@
 - **Description:** :dog: Command-line DNS Client for Humans. Written in Golang
 - **Author:** mr-karan
 - **Repository:** [https://github.com/mr-karan/doggo](https://github.com/mr-karan/doggo)
-- **Stars:** 1423
+- **Stars:** 1424
 - **Version:** v0.5.7
 - **Updated:** 2023-09-13T10:10:30Z
 - **Size:** 9.32 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 4930
+- **Stars:** 4931
 - **Version:** v0.17.3
 - **Updated:** 2024-01-25T14:17:36Z
 - **Size:** 1.6 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 30434
+- **Stars:** 30436
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.59 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40611
+- **Stars:** 40612
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 50.02 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40611
+- **Stars:** 40612
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 49.95 MB
@@ -1618,7 +1618,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22439
+- **Stars:** 22441
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 14.58 MB
@@ -1874,7 +1874,7 @@
 - **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
-- **Stars:** 6687
+- **Stars:** 6688
 - **Version:** v1.4.0
 - **Updated:** 2023-10-29T13:23:20Z
 - **Size:** 7.79 MB
@@ -2050,7 +2050,7 @@
 - **Description:** Protect and discover secrets using Gitleaks 🔑
 - **Author:** gitleaks
 - **Repository:** [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-- **Stars:** 14547
+- **Stars:** 14546
 - **Version:** v8.18.1
 - **Updated:** 2023-11-17T20:58:58Z
 - **Size:** 6.57 MB
@@ -2066,7 +2066,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 16214
+- **Stars:** 16215
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.82 MB
@@ -2098,7 +2098,7 @@
 - **Description:** Go alternative of python SimpleHTTPServer
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver)
-- **Stars:** 438
+- **Stars:** 439
 - **Version:** v0.0.6
 - **Updated:** 2023-03-20T15:04:35Z
 - **Size:** 5.9 MB
@@ -2114,7 +2114,7 @@
 - **Description:** Directory/File, DNS and VHost busting tool written in Go
 - **Author:** OJ
 - **Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
-- **Stars:** 8654
+- **Stars:** 8655
 - **Version:** v3.6.0
 - **Updated:** 2023-08-14T08:30:05Z
 - **Size:** 7.75 MB
@@ -2194,7 +2194,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14699
+- **Stars:** 14700
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.65 MB
@@ -2386,7 +2386,7 @@
 - **Description:** Small, fast tool for performing reverse DNS lookups en masse.
 - **Author:** hakluke
 - **Repository:** [https://github.com/hakluke/hakrevdns](https://github.com/hakluke/hakrevdns)
-- **Stars:** 1237
+- **Stars:** 1238
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.14 MB
@@ -2578,7 +2578,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 18680
+- **Stars:** 18681
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.01 MB
@@ -2690,7 +2690,7 @@
 - **Description:** A TUI playground to experiment with jq
 - **Author:** noahgorstein
 - **Repository:** [https://github.com/noahgorstein/jqp](https://github.com/noahgorstein/jqp)
-- **Stars:** 1916
+- **Stars:** 1917
 - **Version:** v0.5.0
 - **Updated:** 2023-09-18T02:05:21Z
 - **Size:** 11.28 MB
@@ -2754,7 +2754,7 @@
 - **Description:** A next-generation crawling and spidering framework.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/katana](https://github.com/projectdiscovery/katana)
-- **Stars:** 8003
+- **Stars:** 8004
 - **Version:** v1.0.5
 - **Updated:** 2024-01-11T22:04:21Z
 - **Size:** 35 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 32124
+- **Stars:** 32125
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.92 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 42074
+- **Stars:** 42076
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 15.47 MB
@@ -2930,7 +2930,7 @@
 - **Description:** 👾 Fast and simple video download library and CLI tool written in Go
 - **Author:** iawia002
 - **Repository:** [https://github.com/iawia002/lux](https://github.com/iawia002/lux)
-- **Stars:** 23030
+- **Stars:** 23031
 - **Version:** v0.22.0
 - **Updated:** 2023-11-06T05:54:09Z
 - **Size:** 17.29 MB
@@ -3330,7 +3330,7 @@
 - **Description:** Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - **Author:** hatoo
 - **Repository:** [https://github.com/hatoo/oha](https://github.com/hatoo/oha)
-- **Stars:** 3399
+- **Stars:** 3401
 - **Version:** v1.1.0
 - **Updated:** 2024-01-16T09:56:23Z
 - **Size:** 7.32 MB
@@ -3362,7 +3362,7 @@
 - **Description:** openrisk is a tool that generates a risk score based on the results of a Nuclei scan.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/openrisk](https://github.com/projectdiscovery/openrisk)
-- **Stars:** 151
+- **Stars:** 152
 - **Version:** v0.0.1
 - **Updated:** 2022-12-23T14:50:22Z
 - **Size:** 8.34 MB
@@ -3410,7 +3410,7 @@
 - **Description:** Painless compression and decompression in the terminal
 - **Author:** ouch-org
 - **Repository:** [https://github.com/ouch-org/ouch](https://github.com/ouch-org/ouch)
-- **Stars:** 1820
+- **Stars:** 1821
 - **Version:** 0.5.1
 - **Updated:** 2023-12-05T22:42:47Z
 - **Size:** 4.32 MB
@@ -3426,7 +3426,7 @@
 - **Description:** 🎑Feature-rich terminal-based text viewer. It is a so-called terminal pager.
 - **Author:** noborus
 - **Repository:** [https://github.com/noborus/ov](https://github.com/noborus/ov)
-- **Stars:** 1251
+- **Stars:** 1252
 - **Version:** v0.33.1
 - **Updated:** 2024-01-12T21:35:42Z
 - **Size:** 8 MB
@@ -3474,7 +3474,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 20574
+- **Stars:** 20572
 - **Version:** v4.9.0
 - **Updated:** 2024-01-23T01:13:03Z
 - **Size:** 28.13 MB
@@ -3554,7 +3554,7 @@
 - **Description:** prettyping is a wrapper around the standard ping tool, making the output prettier, more colorful, more compact, and easier to read.
 - **Author:** denilsonsa
 - **Repository:** [https://github.com/denilsonsa/prettyping](https://github.com/denilsonsa/prettyping)
-- **Stars:** 1166
+- **Stars:** 1167
 - **Version:** v1.0.1
 - **Updated:** 2017-04-04T07:30:04Z
 - **Size:** 23.64 kB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42257
+- **Stars:** 42259
 - **Version:** v1.65.2
 - **Updated:** 2024-01-24T16:28:08Z
 - **Size:** 55.46 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 42876
+- **Stars:** 42879
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.37 MB
@@ -3826,7 +3826,7 @@
 - **Description:** Rust-based high performance domain permutation generator.
 - **Author:** resyncgg
 - **Repository:** [https://github.com/resyncgg/ripgen](https://github.com/resyncgg/ripgen)
-- **Stars:** 252
+- **Stars:** 253
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.18 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 22400
+- **Stars:** 22402
 - **Version:** v0.1.14
 - **Updated:** 2024-01-19T20:22:26Z
 - **Size:** 17.28 MB
@@ -4018,7 +4018,7 @@
 - **Description:** Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - **Author:** edoardottt
 - **Repository:** [https://github.com/edoardottt/scilla](https://github.com/edoardottt/scilla)
-- **Stars:** 695
+- **Stars:** 696
 - **Version:** v1.2.7
 - **Updated:** 2023-04-01T08:14:18Z
 - **Size:** 11.38 MB
@@ -4114,7 +4114,7 @@
 - **Description:** MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns)
-- **Stars:** 1161
+- **Stars:** 1163
 - **Version:** v1.0.9
 - **Updated:** 2023-05-07T12:10:42Z
 - **Size:** 17.67 MB
@@ -4322,7 +4322,7 @@
 - **Description:** Fast passive subdomain enumeration tool.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
-- **Stars:** 8835
+- **Stars:** 8837
 - **Version:** v2.6.4
 - **Updated:** 2024-01-11T19:00:24Z
 - **Size:** 27.31 MB
@@ -4359,7 +4359,7 @@
 - **Updated:** 
 - **Size:** 3823 B
 - **SHA256SUM:** 8e00d515a0a31d00768ad446a3a4f9c24bf0d500b993dc36515cd06d9168c3e0
-- **B3SUM:** 2fbd41f075b73d02eac77032a6400d2db7b1642a618923f628bfb0b392009cc2
+- **B3SUM:** c7631fc4f64a30d90b299aa2b253ee919babf2ffacb5b1255edcd3119689b185
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/subxtract
 - **Language:** Shell
 - **License:** null
@@ -4375,7 +4375,7 @@
 - **Updated:** 2023-06-17T07:23:34Z
 - **Size:** 33.32 MB
 - **SHA256SUM:** cf2ec25b3263b990041abc5eaa20bac9c9cc25869e1d394a4dd28645a922cf41
-- **B3SUM:** 948305644d94f6c8e5b2d7cfba9c04f695b151dd52aa6d9bee32dd07c1d00b63
+- **B3SUM:** 78e6538a92b9e016ca17c1e795b2d29a6d8d0d12ed2e262ca270ca763078e705
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/surf
 - **Language:** Go
 - **License:** null
@@ -4391,7 +4391,7 @@
 - **Updated:** 2024-01-21T21:20:25Z
 - **Size:** 4.01 MB
 - **SHA256SUM:** f12392c95da1177e09aa5f83412c2ac4b5ae8b698ce76e9dd136e0d57607bc44
-- **B3SUM:** bb64c180b6a0903ed91182812459ef9f3c2235fe1d4a338b37d976daaeb6dd54
+- **B3SUM:** a257ee72305fb6406725e6ed411f20d2f3f9de13903a41303e40cc5b0fb4e360
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/systemctl-tui
 - **Language:** Rust
 - **License:** MIT License
@@ -4402,7 +4402,7 @@
 - **Description:** A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/systeroid](https://github.com/orhun/systeroid)
-- **Stars:** 1175
+- **Stars:** 1176
 - **Version:** v0.4.4
 - **Updated:** 2023-09-19T10:15:03Z
 - **Size:** 2 MB
@@ -4439,7 +4439,7 @@
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 10.92 MB
 - **SHA256SUM:** a9c91ac7e8240ca11b72169e07a3c914e7c1479086a38905c8f903452d09dae8
-- **B3SUM:** 5fd66b16ac82a695aac41c7f710f9a9f7946368114021e61968c8164d2770a24
+- **B3SUM:** ef80806ae45dd0d4f2bec4c59b202a4c9bd33e5c792b240a1a238c5e4364e1f1
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/tailscale
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -4455,7 +4455,7 @@
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 20.48 MB
 - **SHA256SUM:** c2d8796ca33a2e2b8ae2218e8950ed548eb336c3f1c7d658a74a3ddf9045b642
-- **B3SUM:** 445c19ff6aa6d77e201f9ff7a5660a2069425dc4547bd7c5085b065672aff85e
+- **B3SUM:** 08d5aab8a7e544017f5581a5850eb34c6286fc6eba67f60382ea5b70fc261afc
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/tailscaled
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -4471,7 +4471,7 @@
 - **Updated:** 2024-01-21T13:36:52Z
 - **Size:** 2.81 MB
 - **SHA256SUM:** d48fe2b54a5e8debf1ff6d4b6ce8a9553b5efcb82d52d67e8af15610eecc0582
-- **B3SUM:** 512b6bf672601ce25332eb586b43eebc6a51a0e67fa04e0b67924e47ca50b34d
+- **B3SUM:** 210f5e7ec8f9bedfcc90bcf09dc1a3a4a6bffc6b54ee67a3da9cc6b9b99a765b
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/tailspin
 - **Language:** Rust
 - **License:** MIT License
@@ -4519,7 +4519,7 @@
 - **Updated:** 
 - **Size:** 14.17 kB
 - **SHA256SUM:** ddbb8cae0dd30010333cb5a8b62d88d0a254aa8c357b77692e877e82ca623660
-- **B3SUM:** b7e4c6beed9ec492387e855c43577fdb2017651ed1ab690ad0171d0ee6a3ea45
+- **B3SUM:** a967f1befb2ef3c840aca2b2c1dad3d7bd4e363c0a94e6bc5ae67d19b3712007
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/tldr
 - **Language:** Shell
 - **License:** MIT License
@@ -4566,8 +4566,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.36 MB
-- **SHA256SUM:** 47f1b848592d693f693657806cbb62f9f191365fe972ec453b769f61024c3081
-- **B3SUM:** fd36a2eeaa7fdfa37fbf89998744d7562bdfeb0383f65853285506aa2a948c92
+- **SHA256SUM:** a6f3b61edad9e20dee482c1d4e52f5f0a727675b8e7cc910800cf22d50a2419b
+- **B3SUM:** b54f19ec20e03d2b69845eec003b5888ee7578ab0d4b1a356061036fc645c7d8
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/tok
 - **Language:** Go
 - **License:** null
@@ -4578,7 +4578,7 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 9480
+- **Stars:** 9481
 - **Version:** v13.0.0-alpha.0
 - **Updated:** 2023-03-27T15:56:31Z
 - **Size:** 3.66 MB
@@ -4614,8 +4614,8 @@
 - **Version:** v3.64.0
 - **Updated:** 2024-01-23T21:49:20Z
 - **Size:** 83.87 MB
-- **SHA256SUM:** f8ae6d5681bf8f8509ed2750243a37ad27766d364b682c60358125a33bc1c02f
-- **B3SUM:** e6bdf241911960e22e21078b182131ea69f4543d282025b7be4e4bdcd01918af
+- **SHA256SUM:** 80d25c79b788969eeb53e52214edea0135bb220b56c6e603bf23ebc104ebc769
+- **B3SUM:** ca8e852c3642079a4a170e54ebd5a9332e120d5e669b8f5cd2db561931b3e437
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/trufflehog
 - **Language:** Go
 - **License:** GNU Affero General Public License v3.0
@@ -4694,8 +4694,8 @@
 - **Version:** v1.0.7
 - **Updated:** 2023-02-01T16:25:35Z
 - **Size:** 2.16 MB
-- **SHA256SUM:** d27e1773fb93f327821f02b7f71bd7777c11f529b19ae77c068974c1e03105fe
-- **B3SUM:** d580ccec131a87b4dd50e40abe103ddba8fc4de9c87d45c9fc91f7433085e172
+- **SHA256SUM:** 812d6789a2e03dc09d3906408973998adf192f528c050cf1908d162b179d3d15
+- **B3SUM:** e6ba0b7f04c9e2c1a92dc9ae0006b2afbd193d2f03edff38c2e8802cd9993d3c
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/udpx
 - **Language:** Go
 - **License:** MIT License
@@ -4726,8 +4726,8 @@
 - **Version:** v0.4.3
 - **Updated:** 2022-07-19T14:36:40Z
 - **Size:** 4.9 MB
-- **SHA256SUM:** e0356e97c19cb7d5eb2b81544092e105f4864587a9f10cbaac32692ac7000b5c
-- **B3SUM:** e1a4106e4758a3af705b7092bdcb4840080bccf554d4a43dda6d0c69f1a9a379
+- **SHA256SUM:** 21a031a4820ba613475aec344326b0cd91e8e08e35932628b47d67804b502bdf
+- **B3SUM:** a0a262f2bfe35f6ff521e2aa55dbb2bee65050eee3ea73072c1f8546bcf8a85f
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/unfurl
 - **Language:** Go
 - **License:** MIT License
@@ -4774,8 +4774,8 @@
 - **Version:** 0.2.0
 - **Updated:** 2021-06-30T12:29:46Z
 - **Size:** 3.85 MB
-- **SHA256SUM:** 8f9fb7134636934b6fa9583665057c89f8fa8ce8e9d752ec44642ec4fdf921c1
-- **B3SUM:** 07f37388ff1718bb9ade61adc9ff2323f138681bbb58e83524b7b761e7395b74
+- **SHA256SUM:** ff765e03133af15e92d53debc3b08429354a3f40ec11837b50f0046ad870c7db
+- **B3SUM:** 3f69a9c8db9c602151fe58ce1fb269dd49ff0062f8d879c3573f1e7301348004
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/validtoml
 - **Language:** Go
 - **License:** MIT License
@@ -4838,8 +4838,8 @@
 - **Version:** 0.10.8
 - **Updated:** 2024-01-20T14:13:34Z
 - **Size:** 9.98 MB
-- **SHA256SUM:** ce920244d7ab6a10309dabee738e5c0fbdb9069f7a96984ef5835077a357dd77
-- **B3SUM:** cf99c97fa55cc8c6e90db86f68a01dd4c8279e7524e0c267737210123b167432
+- **SHA256SUM:** f05d3955e702ff7a0f5d057ea724f4e762e6f8b0269ca524fcd9ef07a2060c0b
+- **B3SUM:** 720a9d845d6bd13d1af2ec3ad2a43c39288ffe41ac944dcb8be1d92af01370b1
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/vopono
 - **Language:** Rust
 - **License:** GNU General Public License v3.0
@@ -4854,8 +4854,8 @@
 - **Version:** v0.9.59
 - **Updated:** 2024-01-24T21:11:26Z
 - **Size:** 4.74 MB
-- **SHA256SUM:** 44aa48ad65717fd0e7aa14e672223c9e7d6a113caae8590796fa69bc82f264c2
-- **B3SUM:** a406d60f5df363b9489f9e341833bd965de4ccfafe0708105964ae6d5c6a34f4
+- **SHA256SUM:** cd156b6c6d3aa8f50c0b0a2077bed8dfdb4f9020ea7369e8c55e22518d5a240a
+- **B3SUM:** 84a44cf03d1f9fbc8b44d0b462d567ee5fee2eaac5ea9b9dbc0b45892a47db27
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/vtm
 - **Language:** C++
 - **License:** MIT License
@@ -4870,8 +4870,8 @@
 - **Version:** v0.1.1
 - **Updated:** 2021-03-04T12:18:18Z
 - **Size:** 5.75 MB
-- **SHA256SUM:** d9f67bd0cb545fdc5123928a73428f8830612750e5f0ec4a6a9f3286b1e1c21f
-- **B3SUM:** 869035bc6b1f8e1c5c3a20992b1286e30e89837f05890437d626964b171776f1
+- **SHA256SUM:** 72fbc6e4f371d25f2572a12b9fc5a5ae43f6e637919f9a3a7adf7b8b49220d08
+- **B3SUM:** ee4ec8e402d939b9001b918e7f6ca1d2dc000a0118f8b113cc9e231dd836de19
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/wadl-dumper
 - **Language:** Go
 - **License:** MIT License
@@ -4918,8 +4918,8 @@
 - **Version:** v1.0.1
 - **Updated:** 2023-09-21T15:25:43Z
 - **Size:** 5.38 MB
-- **SHA256SUM:** 91ad050f0546ece95e5ded5bccd60b3526caa0e9e0aedf94f98b8b8de9daf224
-- **B3SUM:** 9c674b92e2bb0a7ef605810fefa18a5faf06cbd7ae8754c728797fea43795b92
+- **SHA256SUM:** 3e714022d082b29b9ea4a2594c5b4162bb29ac8abe7906b7a9a0aa5691ddad16
+- **B3SUM:** 3870bd5215cec0cc0bb295af301953f70972a93b3e84363c33364f823ed252b3
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/waybackrobots
 - **Language:** Go
 - **License:** MIT License
@@ -4934,8 +4934,8 @@
 - **Version:** v0.1.0
 - **Updated:** 2022-04-05T10:19:55Z
 - **Size:** 4.66 MB
-- **SHA256SUM:** 4030d03977b535c9ce49f49ef7cacacd5d5a199b9364cf7433825a05b9646eb3
-- **B3SUM:** b64479da0b423d3482afcde42d40bca1facabad82260626c7fc147691d8f84bb
+- **SHA256SUM:** 485b3a66c089f710659e59547968b18d813af06bb1141c6f8bf01a1f9d0ecf33
+- **B3SUM:** 60ea554bd52fcaf71ec6766fa928bcf63289c31ccfbd607cf068402105e9127c
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/waybackurls
 - **Language:** Go
 - **License:** null
@@ -4950,8 +4950,8 @@
 - **Version:** 1.1.2
 - **Updated:** 2024-01-02T14:03:15Z
 - **Size:** 5.38 MB
-- **SHA256SUM:** b346139f9f72ec737fe2665245eb8bfb2b43a0fd5b118f24c4afc23efc875aaa
-- **B3SUM:** 5123152ab1774f35ca41699e2708054a976c4fc621d99f960a9400f02215c1f7
+- **SHA256SUM:** 9ed9e835d3808fd1fab6b83945b704e4b636f61db25f3590e00ada42d9bbcceb
+- **B3SUM:** b30f6f6583d63d44c2a5dcbecad969abb2c00504824b63802567c2fcafcaddf0
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/web-cache-vulnerability-scanner
 - **Language:** Go
 - **License:** Other
@@ -4982,8 +4982,8 @@
 - **Version:** v0.0.20201121
 - **Updated:** 2021-04-23T02:26:48Z
 - **Size:** 2.73 MB
-- **SHA256SUM:** 805f0e6b6b4e377a499106c2287da710095a9ab8cf1a1d8119008b4b6b8757ab
-- **B3SUM:** 5f8ab07d00eaba89b1c0db1af7a2d4b569f264524cd1f47974bdb2b0fd3e4c78
+- **SHA256SUM:** 6555d2b2c8f5615969a0fb6957dce4b848022204c9438978b184bc75d96e069e
+- **B3SUM:** f204bb9b45f77de6db4569010dd34cdc45c7a912a2415a37095f61e45bbe9b70
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/wireguard-go
 - **Language:** Go
 - **License:** MIT License
@@ -5010,7 +5010,7 @@
 - **Description:** Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 - **Author:** sandialabs
 - **Repository:** [https://github.com/sandialabs/wiretap](https://github.com/sandialabs/wiretap)
-- **Stars:** 728
+- **Stars:** 729
 - **Version:** v0.4.2
 - **Updated:** 2023-11-12T02:50:09Z
 - **Size:** 14.14 MB
@@ -5030,8 +5030,8 @@
 - **Version:** 0.6.1
 - **Updated:** 2023-12-03T18:11:45Z
 - **Size:** 5.42 MB
-- **SHA256SUM:** 43147f7450302aff9eb125898656fef5a9142f1b7fda91164cc9290176efc1a9
-- **B3SUM:** 69cd59c461ef70527130e429e8e52561186a5a9bf37bc10102f569acc00722d8
+- **SHA256SUM:** aa9d29c13e274450e967f6a86c0f552f278aee4913a4ca9422a2db53439d328f
+- **B3SUM:** 573ff32c0a07bdf58b6e289cbe5a96204fc304d1ec7db476820eb5c79d8c3e9c
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/wormhole-rs
 - **Language:** Rust
 - **License:** European Union Public License 1.2
@@ -5110,8 +5110,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 6.16 MB
-- **SHA256SUM:** 3015d417718f4c5eac10e540f7c69d2ea4207e3f1ac644318ea9c6b5ac2024a8
-- **B3SUM:** 6cae6031f93e33d083e682bf8b342a355abe45b2f590f4a31ec616329f2c6767
+- **SHA256SUM:** ed2608b077975a8174c301cea5a0fb3cb7e912da60a921e305e2b957037e2092
+- **B3SUM:** dd76de2e4266524898e9da2c1e4382580e548bcdaeb39547576709e871cb97b6
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/yalis
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -5126,8 +5126,8 @@
 - **Version:** 1.0.0
 - **Updated:** 2023-02-08T13:45:36Z
 - **Size:** 4.77 MB
-- **SHA256SUM:** 389798baeafa3b3de5b2afb45a97c50ac5b5f0825e2cad0d068fd5532f10f512
-- **B3SUM:** 701c3d45ffcb644d8acb93b096da1f641605f124812236ada147cc7b39cadaa7
+- **SHA256SUM:** def61bb23a25a30d90b3749458457f2b844a6366da851067177ad3e3f12e550f
+- **B3SUM:** 1778567005720d6bc9788ac11e42fd66f660d26126f5af6fa2896bd7e30d65bc
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/yataf
 - **Language:** Go
 - **License:** null
@@ -5142,8 +5142,8 @@
 - **Version:** v5.1.0
 - **Updated:** 2022-04-12T01:58:57Z
 - **Size:** 3.25 MB
-- **SHA256SUM:** 35f1c392e137c3be675c0e7259cc6a37aaed8f335c6493f5dd7d7975e025fa73
-- **B3SUM:** 4ed570c8eba415857940a85d4521bbdd0d1a6f354c88f6c09c856809f41d5e23
+- **SHA256SUM:** 12a7b3082a66b6e4c9938ac3af4a81c81da409a76906262ebb99a669d1afffa2
+- **B3SUM:** e66ec4ff4c2c5c8433b4f1e189b29ae6901ada5cd0a43fd72d91f6adedc23654
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/yj
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -5174,8 +5174,8 @@
 - **Version:** v1.0.0
 - **Updated:** 2023-09-10T17:09:04Z
 - **Size:** 8.33 MB
-- **SHA256SUM:** e26029b59a32431fc9ecaed70c8cd92b9c6a559f3d644c1be731e87adccb0840
-- **B3SUM:** 0d4e70349394f06325e2678d70503e27b08f82b535cff70e45ef63528b67e012
+- **SHA256SUM:** d5ba4d5c5649ebc2a4a9fc251cc2cf5209b18a4060c78b3df0477b242a0d43c3
+- **B3SUM:** d1b188c4f3d908c712845badf42b5ded37aacf4e29f7840b8ff0c826575c5a96
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/zdns
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -5222,8 +5222,8 @@
 - **Version:** v0.1.6
 - **Updated:** 2020-03-31T20:01:53Z
 - **Size:** 13.93 MB
-- **SHA256SUM:** 8b5c2b5aca5d5e8e8823a9588ffa4392e32070a0b3425338ce3175fdcbe48a8f
-- **B3SUM:** 8cd6f9b6c63af2fa1bbaf3e6bed714e1111980d829d273dcc92f83cd21229e88
+- **SHA256SUM:** 2279e827ac92a00b63ba7bad71258e51c7c8b3912c439f43a897fb844c6faae0
+- **B3SUM:** b0a86650a11e85d3174a885de41d19f80c4a87f186db94940a28dc26a96e5707
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/zgrab2
 - **Language:** Go
 - **License:** Other
