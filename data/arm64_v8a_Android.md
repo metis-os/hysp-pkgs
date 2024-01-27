@@ -6,8 +6,8 @@
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.48 MB
-- **SHASUM:** 84bdedaa10c3efce0eba2867ed91a36b5b8f7b67c5a046cb30058c8dbdb23c2e
-- **B3SUM:** 9bec590d43628d5266464aa25a7640dca5d2dac1057fb51d59e2b9f48075eb79
+- **SHASUM:** 44f9f8e19db2777f57b8b6309c8cf3221611da56c368f1c76fdd02e737e13ca2
+- **B3SUM:** 7295b5e50f2d3b9cda73744f880c20da1de9c8cacf7e9bbfb726c2596a9a06e0
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/anew
 - **Language:** Go
 - **License:** MIT License
@@ -38,8 +38,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.76 MB
-- **SHASUM:** bd7374f5851c268582fda6cf71b803d1bbf1bec07cd2b8917a3a5f75ad595903
-- **B3SUM:** 4b498834d8cb30982f6b4e534c1baeff22319eebb707e42e433bd78718929de2
+- **SHASUM:** 125bb3186f92fbba050ad4dc3c8b2cf2d320a9c4773c5c513a33d080b950bef6
+- **B3SUM:** e47d952b0e2142f579cfe9d04fd2245f9270d2fae5f39e55dfe68f95ac8c3c0e
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/certstream
 - **Language:** Shell
 - **License:** null
@@ -54,8 +54,8 @@
 - **Version:** v0.1.0
 - **Updated:** 2022-03-08T21:41:54Z
 - **Size:** 4.85 MB
-- **SHASUM:** e614f398a84a3cb966f98f7bd176292f9448f55e57ee7360ba89d590917693fc
-- **B3SUM:** 23741fcb1420b18de7cdb80d2db8d11537073f03028082b921fde8cf18b3ed91
+- **SHASUM:** 3235ecaac3d35ad702a4fcb0df6ce62ad3c0238ffa5624a6c8ba50168370bed4
+- **B3SUM:** 2dae496a6e1ddcf6098f21c90c94c842f2dd56e6c192fbaec304563f7f77e25c
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/crt
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -70,8 +70,8 @@
 - **Version:** v1.1.6
 - **Updated:** 2023-11-11T19:20:44Z
 - **Size:** 26.22 MB
-- **SHASUM:** 31062e784086153911f2fb2e25679e45e3291bc188eaa454a6004b893942edc8
-- **B3SUM:** 7cab5192c3c62a221e79af63c562a931c1735b5874380748ebc2dfddbe4925a6
+- **SHASUM:** 1efb5ed99afa429b97ac5a800697f68ac4fc16bd0f9fb6e458ac255a2b7ee3b0
+- **B3SUM:** ae209e757f5ef115b88509c339e6416eb399764c3a3c22c0a621e48f258c9ac1
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/dnsx
 - **Language:** Go
 - **License:** MIT License
@@ -86,8 +86,8 @@
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.8 MB
-- **SHASUM:** 064579563f838e24a322ac0dcd80f5cae6e1f2430543659ce33702d29b5b247d
-- **B3SUM:** 4a4c55ced74f1f0adb4337534fc47155f5f8d4ac2d65ae2aed6ede46b30347f5
+- **SHASUM:** c4ebab0a2e16c0c18ae5064cc51c33420a2e4cd3aaa054250a44da39a05102fd
+- **B3SUM:** 60639f213cc06e8f330bda40d556649aa4d839ce54f3caeb51454e1458074533
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/eget
 - **Language:** Go
 - **License:** MIT License
@@ -102,8 +102,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 2.61 MB
-- **SHASUM:** e3deb30fd04afbc32181e844b8ac343c6376677d575fc77481e5fbf8ba3b145f
-- **B3SUM:** f42d3d23b30966b22ce2f223417d36ba15cca7b5de9938061960587d10e293ac
+- **SHASUM:** 2ccee00e7d63ca4bd8489b2ee64588d48c0abe776bee76c71dc2c9d534f9a4b5
+- **B3SUM:** d1049ef0e7bb65aa8b6a9d648e8a7049b1f962e50bd169ba5ac7c17c3fcc09ec
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/encode
 - **Language:** Go
 - **License:** MIT License
@@ -118,8 +118,8 @@
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
-- **SHASUM:** 78ba08cd30a180717eaae71106fd1a9e100b304ddfcf7d6ed995fdfd3eadbc27
-- **B3SUM:** 4f2e4ceed44a027dda43c5f025b4114beb080dda52931767c98c842b8bbedd88
+- **SHASUM:** 2dce898ed5e6c6ae8a41d64f41fe02135b26ff240ba8668bfa2b2fda91b1590a
+- **B3SUM:** a43ed5f916b73324aac346601441cae533e8c911f83b53af3188f9fda679782c
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/ffuf
 - **Language:** Go
 - **License:** MIT License
@@ -134,8 +134,8 @@
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
-- **SHASUM:** a429cf09fba42eb03fc0eac6b63681906b73d5da745bdb863fac385a4b8ae18b
-- **B3SUM:** 4e2d5b01f7fe897b9da07bca31f4f8bb3d7f6cfa12aed0c97f3f62411dbcdd04
+- **SHASUM:** 2982e7808f9f3ae41d9c25059b98b07f5a5c1826b823c7c239fa2f0ba8342fac
+- **B3SUM:** 0d0747b396f17b01a6cac4d0ac857067855627d354d67e76a1b3d3929a568a22
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/filebrowser
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -150,8 +150,8 @@
 - **Version:** v3.0.6
 - **Updated:** 2024-01-25T15:49:38Z
 - **Size:** 12.38 MB
-- **SHASUM:** 4230e90b23fab7a16fbb1d730a5d1e46a7d363633730294956653a4464a978cd
-- **B3SUM:** 74615d85547efaa6550c34c504be87a976a85e99a065fb51f503dbe832b9acfa
+- **SHASUM:** e97160efe99e062af4265b910e090f0f6b38c8f624effef0ecaa11af48a43f41
+- **B3SUM:** 9181c31ed62e8529b79c424b66f7edc81aa2212bef087cb0789672a99558c5df
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/godns
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -166,8 +166,8 @@
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 27.22 MB
-- **SHASUM:** 27e3edaeb0e3251ffe16018fc5dcca4846f4a29ef6c2600014e750d74037b980
-- **B3SUM:** eb5f65f8ef445e1dc343f4cf9d7e2c1b1a9aa9773f95f0ed6c778639ceefd6ea
+- **SHASUM:** decfce533a91526ff0845a834e4ace021ac602001ae911039010c995962b7cb5
+- **B3SUM:** 20fafdf135f3716765cc77ad37379ac4b060db0d73c837374b80dbb4e443786b
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/gowitness
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -182,8 +182,8 @@
 - **Version:** v1.3.9
 - **Updated:** 2024-01-24T11:17:45Z
 - **Size:** 42.14 MB
-- **SHASUM:** 6d8c34ea544bfbb78390d414e4b1cd6e6fa9f0c5c4a7f50742623e9c7622cc62
-- **B3SUM:** d3f540b82f5e201b54186f7cc1f58104501ec613ed08fd1a02518f75aca8e7ca
+- **SHASUM:** cc1b41ef70bf77bc12ef3bbf5d0c814d80585c4eefd4c6accc1ae534a8aef817
+- **B3SUM:** 258c198805b729e7e89ae59318471d425d93ff29dae2c7082f4abec7f6fa1339
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/httpx
 - **Language:** Go
 - **License:** MIT License
@@ -198,8 +198,8 @@
 - **Version:** v0.1.10
 - **Updated:** 2024-01-09T15:11:15Z
 - **Size:** 6.23 MB
-- **SHASUM:** 0b990b552c0ab389b5baf86b219b2ac0a1fc646544bf118900ba82b73de54414
-- **B3SUM:** 398d802ca945da0b347d275c3cf34796ff44e71297f63bc61953a8c3ff107d09
+- **SHASUM:** 729ed9665e924b740da5611dcc4f2fe4dc4c5ed3f64493cfc436af902703b3cb
+- **B3SUM:** d637c314748e816368baaf9681ca56b4c74206d04d0175be83b8f6cfe345537c
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/hxn
 - **Language:** Rust
 - **License:** MIT License
@@ -214,8 +214,8 @@
 - **Version:** v0.1.2
 - **Updated:** 2023-12-13T15:03:18Z
 - **Size:** 3.4 MB
-- **SHASUM:** db7508cd406424f70ae05d15ddd2d6b15d0d61f1c08472b8ddaf346eee9fd377
-- **B3SUM:** de83f2d1b46a70d21daaeaf3980d8cc632a4f864c95bfb962581bf3d5d1a3338
+- **SHASUM:** 5847e6702a80030241a493fabdd935c447f90ab8a8dc42b2627d4c9c6bf3f588
+- **B3SUM:** 5116f7d43fabe896c05c67957d3e28d3deb68d5ff2b6bac2c32f6bd1648c67f3
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/hysp
 - **Language:** Rust
 - **License:** MIT License
@@ -230,8 +230,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
-- **SHASUM:** 4f404ef91b41dd547a71aa681b2da0353e4b49e5127d1bd83db85077eed85443
-- **B3SUM:** 7b78c364c442559f7ec83ec71e808d3c20558a2a7d74f0c95e150f5dae1f0e8f
+- **SHASUM:** 12a079ab98151a586a4de5f465ac2d9fa3ab00091518fc054e53a712b6e66a5d
+- **B3SUM:** 4c24f84db70dab8c8c75f8d477ebb77cca92175e1706f7046ac3b27c08505fb5
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/inscope
 - **Language:** Go
 - **License:** null
@@ -242,7 +242,7 @@
 - **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - **Author:** PaulJuliusMartinez
 - **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
-- **Stars:** 4326
+- **Stars:** 4327
 - **Version:** v0.9.0
 - **Updated:** 2023-07-17T02:51:34Z
 - **Size:** 1.83 MB
@@ -258,7 +258,7 @@
 - **Description:** 🦚 A web-app pentesting suite written in rust .
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/kanha](https://github.com/pwnwriter/kanha)
-- **Stars:** 235
+- **Stars:** 236
 - **Version:** v-v0.1.2
 - **Updated:** 2023-10-17T16:42:52Z
 - **Size:** 2.91 MB
@@ -278,8 +278,8 @@
 - **Version:** v1.1.16
 - **Updated:** 2023-11-23T07:59:56Z
 - **Size:** 23.4 MB
-- **SHASUM:** 308221f81b9ced464a4f7658e3b214cbb44162b108344c9a7dadf874aa5d1ecc
-- **B3SUM:** 3afd150e259dfc28ae22eadb660601d3ae7a02c7c4c0c35043e607f74517879f
+- **SHASUM:** 0e24e3bde3dbb3328df7206fc8c11d9a0027727b3d4082e98e51635886afdd15
+- **B3SUM:** fe8dc9b1691543a18cbc7571a11ab12e73776e31527ef288b6cac146628ae856
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/mapcidr
 - **Language:** Go
 - **License:** MIT License
@@ -294,8 +294,8 @@
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.65 MB
-- **SHASUM:** 3af1e2dcc897873f6512c790af3fe662b5a74b8d0c44a8ebeabb9a19d9ae5ca1
-- **B3SUM:** 9a8b4ef66d2b38a43996d85ef8fb9f1ef6b11ec597c80e67b79dfe27500c6007
+- **SHASUM:** 19d62528a9a995cf20c44b41c7b4bedc24f469e2c733d58337f8baa727f964eb
+- **B3SUM:** a1e7b7d02343bf71f12a499d0e0625b6002bfbeeddd7bd33b1194749bd480667
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/pspy
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -310,8 +310,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.61 MB
-- **SHASUM:** 0641447a74a596b7cb8044b3799fdd2bb32be627aeff45ccafabb68c3966c1bd
-- **B3SUM:** ff7f5c592387cd9350a46fb7b9b034caba4d7afeefe80bff70c293822439fa6f
+- **SHASUM:** a647d4d97a0bb9a5f5e29ecb829177b11fee7fd16093919273566856126abd08
+- **B3SUM:** c0c7009b6f99caa23bd4e40cf7e6d1e5038a810c13b0d1815a1ac2615c6de762
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/scopegen
 - **Language:** Shell
 - **License:** null
@@ -374,8 +374,8 @@
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 11.28 MB
-- **SHASUM:** 6c12800ca41bf77b7af4abec1d25edfa09c6ce2af8fd8882ecbdc6dc419906ac
-- **B3SUM:** a1afcbe1f8707a92c7de9f3aae7812ac4430d23886d16a444d36365ef0be4941
+- **SHASUM:** 75770d3dbfd2f163a1efdff68d3ed143c1485596bb631ac5935efde2266a4fbf
+- **B3SUM:** 01ff4e7ea35dd53ff1456e5f53622d92d5ca4f71d5e75d70b96e98cc76527533
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale_dynamic_native
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -406,8 +406,8 @@
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 21.67 MB
-- **SHASUM:** c06d2452230a37bb3755189f05c1eab8d3d6de9917126bdaec94b6b06ef0dfa6
-- **B3SUM:** 41279f0bf360e11f28b404999eb7e04b90a2ca7ab45ab4aa73383fa11b634b1b
+- **SHASUM:** a359c0fdade000084ca0cfdccdb17035197dd9efd6693ccb358436b68885d8f2
+- **B3SUM:** bcb6ffdb3d2b573064d9df6500e7e8166674cb24e8110b1e00085dfdf334146c
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscaled_dynamic_native
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
