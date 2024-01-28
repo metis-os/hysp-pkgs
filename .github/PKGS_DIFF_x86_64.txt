@@ -18,7 +18,6 @@
 │ 100│-cowitness                        │    │
 │ 101│-cowsay                           │    │
 │ 102│-cowthink                         │    │
-│ 109│-crt                              │    │
 │ 128│-dizi                             │    │
 │ 129│-dizi-server                      │    │
 │ 155│-edgevpn                          │    │
