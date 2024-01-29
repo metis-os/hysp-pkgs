@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32673
+- **Stars:** 32674
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.44 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 44900
+- **Stars:** 44899
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.18 MB
@@ -546,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 14868
+- **Stars:** 14869
 - **Version:** v1.3.0
 - **Updated:** 2024-01-07T14:23:07Z
 - **Size:** 2.27 MB
@@ -770,7 +770,7 @@
 - **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - **Author:** cloudreve
 - **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Stars:** 20220
+- **Stars:** 20221
 - **Version:** 3.8.3
 - **Updated:** 2023-10-07T12:30:31Z
 - **Size:** 33.89 MB
@@ -802,7 +802,7 @@
 - **Description:** An open and reliable container runtime
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
-- **Stars:** 15539
+- **Stars:** 15540
 - **Version:** v1.7.12
 - **Updated:** 2024-01-12T16:59:44Z
 - **Size:** 37.12 MB
@@ -882,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25541
+- **Stars:** 25542
 - **Version:** v9.6.6
 - **Updated:** 2023-11-09T14:56:49Z
 - **Size:** 7.43 MB
@@ -1042,7 +1042,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19718
+- **Stars:** 19721
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.39 MB
@@ -1266,7 +1266,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 11992
+- **Stars:** 11993
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.24 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 4998
+- **Stars:** 5000
 - **Version:** v0.17.3
 - **Updated:** 2024-01-25T14:17:36Z
 - **Size:** 1.6 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40666
+- **Stars:** 40668
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 50.02 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40666
+- **Stars:** 40668
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 49.95 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 57109
+- **Stars:** 57112
 - **Version:** 0.46.0
 - **Updated:** 2024-01-23T14:55:12Z
 - **Size:** 3.53 MB
@@ -1842,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34413
+- **Stars:** 34414
 - **Version:** v2.42.1
 - **Updated:** 2024-01-16T18:34:55Z
 - **Size:** 43.22 MB
@@ -1906,7 +1906,7 @@
 - **Description:** Git extension for versioning large files
 - **Author:** git-lfs
 - **Repository:** [https://github.com/git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
-- **Stars:** 12209
+- **Stars:** 12211
 - **Version:** v3.4.1
 - **Updated:** 2023-12-13T23:25:51Z
 - **Size:** 10.77 MB
@@ -2194,7 +2194,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14716
+- **Stars:** 14717
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.65 MB
@@ -2258,7 +2258,7 @@
 - **Description:** Ping, but with a graph
 - **Author:** orf
 - **Repository:** [https://github.com/orf/gping](https://github.com/orf/gping)
-- **Stars:** 9870
+- **Stars:** 9871
 - **Version:** gping-v1.16.0
 - **Updated:** 2023-11-29T19:16:00Z
 - **Size:** 2.44 MB
@@ -2450,7 +2450,7 @@
 - **Description:** A command-line hex viewer
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hexyl](https://github.com/sharkdp/hexyl)
-- **Stars:** 8647
+- **Stars:** 8648
 - **Version:** v0.14.0
 - **Updated:** 2023-12-11T22:33:44Z
 - **Size:** 702.04 kB
@@ -2642,7 +2642,7 @@
 - **Description:** iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 - **Author:** esnet
 - **Repository:** [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
-- **Stars:** 6071
+- **Stars:** 6072
 - **Version:** 3.16
 - **Updated:** 2023-12-01T19:15:52Z
 - **Size:** 2.9 MB
@@ -2722,7 +2722,7 @@
 - **Description:** 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
 - **Author:** hahwul
 - **Repository:** [https://github.com/hahwul/jwt-hack](https://github.com/hahwul/jwt-hack)
-- **Stars:** 703
+- **Stars:** 702
 - **Version:** v1.1.2
 - **Updated:** 2021-12-24T17:00:39Z
 - **Size:** 4.22 MB
@@ -2738,7 +2738,7 @@
 - **Description:** 🦚 A web-app pentesting suite written in rust .
 - **Author:** pwnwriter
 - **Repository:** [https://github.com/pwnwriter/kanha](https://github.com/pwnwriter/kanha)
-- **Stars:** 238
+- **Stars:** 237
 - **Version:** v-v0.1.2
 - **Updated:** 2023-10-17T16:42:52Z
 - **Size:** 3.41 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 32166
+- **Stars:** 32167
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.92 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 42229
+- **Stars:** 42230
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 15.47 MB
@@ -3106,7 +3106,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23407
+- **Stars:** 23408
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.35 MB
@@ -3202,7 +3202,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19738
+- **Stars:** 19739
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 546.7 kB
@@ -3250,7 +3250,7 @@
 - **Description:** A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 - **Author:** vdjagilev
 - **Repository:** [https://github.com/vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter)
-- **Stars:** 389
+- **Stars:** 391
 - **Version:** v2.1.6
 - **Updated:** 2023-12-02T12:20:02Z
 - **Size:** 4.26 MB
@@ -3410,7 +3410,7 @@
 - **Description:** Painless compression and decompression in the terminal
 - **Author:** ouch-org
 - **Repository:** [https://github.com/ouch-org/ouch](https://github.com/ouch-org/ouch)
-- **Stars:** 1828
+- **Stars:** 1829
 - **Version:** 0.5.1
 - **Updated:** 2023-12-05T22:42:47Z
 - **Size:** 4.32 MB
@@ -3474,7 +3474,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 20621
+- **Stars:** 20620
 - **Version:** v4.9.0
 - **Updated:** 2024-01-23T01:13:03Z
 - **Size:** 28.82 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42393
+- **Stars:** 42395
 - **Version:** v1.65.2
 - **Updated:** 2024-01-24T16:28:08Z
 - **Size:** 55.46 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 42943
+- **Stars:** 42944
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.37 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 22473
+- **Stars:** 22474
 - **Version:** v0.1.14
 - **Updated:** 2024-01-19T20:22:26Z
 - **Size:** 17.3 MB
@@ -4066,7 +4066,7 @@
 - **Description:** Fetches system/theme information in terminal for Linux desktop screenshots.
 - **Author:** KittyKatt
 - **Repository:** [https://github.com/KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch)
-- **Stars:** 3699
+- **Stars:** 3700
 - **Version:** v3.9.1
 - **Updated:** 2019-11-12T22:02:38Z
 - **Size:** 258.68 kB
@@ -4082,7 +4082,7 @@
 - **Description:** A shell parser, formatter, and interpreter with bash support; includes shfmt
 - **Author:** mvdan
 - **Repository:** [https://github.com/mvdan/sh](https://github.com/mvdan/sh)
-- **Stars:** 6467
+- **Stars:** 6468
 - **Version:** v3.7.0
 - **Updated:** 2023-06-18T11:38:17Z
 - **Size:** 2.87 MB
@@ -4258,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 38890
+- **Stars:** 38892
 - **Version:** v1.17.1
 - **Updated:** 2024-01-02T18:30:02Z
 - **Size:** 8.15 MB
@@ -4290,7 +4290,7 @@
 - **Description:** strace is a diagnostic, debugging and instructional userspace utility for Linux
 - **Author:** strace
 - **Repository:** [https://github.com/strace/strace](https://github.com/strace/strace)
-- **Stars:** 1975
+- **Stars:** 1976
 - **Version:** v6.6
 - **Updated:** 2023-10-31T11:48:38Z
 - **Size:** 2.03 MB
@@ -4466,7 +4466,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 4492
+- **Stars:** 4494
 - **Version:** 3.0.0
 - **Updated:** 2024-01-21T13:36:52Z
 - **Size:** 2.92 MB
@@ -4722,7 +4722,7 @@
 - **Description:** Pull out bits of URLs provided on stdin
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/unfurl](https://github.com/tomnomnom/unfurl)
-- **Stars:** 936
+- **Stars:** 937
 - **Version:** v0.4.3
 - **Updated:** 2022-07-19T14:36:40Z
 - **Size:** 4.9 MB
@@ -4738,7 +4738,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12886
+- **Stars:** 12885
 - **Version:** v4.2.2
 - **Updated:** 2024-01-03T18:33:34Z
 - **Size:** 575.78 kB
@@ -5138,7 +5138,7 @@
 - **Description:** CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - **Author:** sclevine
 - **Repository:** [https://github.com/sclevine/yj](https://github.com/sclevine/yj)
-- **Stars:** 893
+- **Stars:** 894
 - **Version:** v5.1.0
 - **Updated:** 2022-04-12T01:58:57Z
 - **Size:** 3.25 MB
@@ -5154,7 +5154,7 @@
 - **Description:** yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
 - **Author:** mikefarah
 - **Repository:** [https://github.com/mikefarah/yq](https://github.com/mikefarah/yq)
-- **Stars:** 10158
+- **Stars:** 10159
 - **Version:** v4.40.5
 - **Updated:** 2023-12-12T02:53:05Z
 - **Size:** 9.37 MB
@@ -5186,7 +5186,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15610
+- **Stars:** 15612
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 25.26 MB
