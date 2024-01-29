@@ -1,0 +1,26 @@
+[bin]
+name = "shortscan"
+
+[package]
+architecture = "x86_64"
+name = "shortscan"
+description = "An IIS short filename enumeration tool"
+author = "bitquark"
+repo = "https://github.com/bitquark/shortscan"
+stars = "411"
+version = "v0.6.2"
+updated = "2023-07-31T20:04:07Z"
+size = "9.78 MB"
+bsum = "153d8173d71b7692217ee883afae4a202602e040b5f3d9016021fe154e7009a6"
+sha = "d067408c9ffa4be215cdf80b2de674d897981ca2fb804dbfc052cbe2f5c41981"
+source = "https://bin.ajam.dev/x86_64_Linux/shortscan"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["shortscan"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
