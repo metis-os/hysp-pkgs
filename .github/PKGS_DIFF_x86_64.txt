@@ -62,6 +62,7 @@
 │ 542│-twingate-notifier                │    │
 │ 554│-v6disk                           │    │
 │ 555│-v6run                            │    │
+│ 565│-vultr-cli                        │    │
 │ 574│-wego                             │    │
 │ 586│-xh                               │    │
 │ 592│-yip                              │    │
