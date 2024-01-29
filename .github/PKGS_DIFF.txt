@@ -486,29 +486,29 @@
 │ 510│ web-cache-vulnerability-scanner  │ 310│ web-cache-vulnerability-scanner
 │ 511│ websocat                         │ 311│ websocat
 │ 512│-wego                             │    │
-│ 513│ wireguard-go                     │ 312│ wireguard-go
-│ 514│ wireproxy                        │ 313│ wireproxy
-│ 515│ wiretap                          │ 314│ wiretap
-│ 516│ wormhole-rs                      │ 315│ wormhole-rs
+│ 513│-wireguard-go                     │    │
+│ 514│ wireproxy                        │ 312│ wireproxy
+│ 515│ wiretap                          │ 313│ wiretap
+│ 516│ wormhole-rs                      │ 314│ wormhole-rs
 │ 517│-wstunnel                         │    │
-│ 518│ wtfutil                          │ 316│ wtfutil
+│ 518│ wtfutil                          │ 315│ wtfutil
 │ 519│-wth                              │    │
-│ 520│ xargs-rs                         │ 317│ xargs-rs
+│ 520│ xargs-rs                         │ 316│ xargs-rs
 │ 521│-xh                               │    │
-│ 522│ xplr                             │ 318│ xplr
-│ 523│ xurls                            │ 319│ xurls
-│ 524│ yalis                            │ 320│ yalis
-│ 525│ yataf                            │ 321│ yataf
+│ 522│ xplr                             │ 317│ xplr
+│ 523│ xurls                            │ 318│ xurls
+│ 524│ yalis                            │ 319│ yalis
+│ 525│ yataf                            │ 320│ yataf
 │ 526│-yazi                             │    │
 │ 527│-yip                              │    │
-│ 528│ yj                               │ 322│ yj
-│ 529│ yq                               │ 323│ yq
-│ 530│ zdns                             │ 324│ zdns
-│ 531│ zellij                           │ 325│ zellij
-│ 532│ zenith                           │ 326│ zenith
+│ 528│ yj                               │ 321│ yj
+│ 529│ yq                               │ 322│ yq
+│ 530│ zdns                             │ 323│ zdns
+│ 531│ zellij                           │ 324│ zellij
+│ 532│ zenith                           │ 325│ zenith
 │ 533│-zfxtop                           │    │
-│ 534│ zgrab2                           │ 327│ zgrab2
-│ 535│ zoxide                           │ 328│ zoxide
+│ 534│ zgrab2                           │ 326│ zgrab2
+│ 535│ zoxide                           │ 327│ zoxide
 
 
 
