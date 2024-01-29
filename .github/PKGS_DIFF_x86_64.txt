@@ -46,6 +46,7 @@
 │ 418│-rekor                            │    │
 │ 424│-resdns                           │    │
 │ 456│-scp                              │    │
+│ 465│-shortscan                        │    │
 │ 471│-sk-tmux                          │    │
 │ 482│-ssh                              │    │
 │ 503│-sunbeam                          │    │
