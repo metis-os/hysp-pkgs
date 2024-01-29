@@ -199,7 +199,6 @@
 │ 503│-vultr-cli                        │    │
 │ 506│-wasminspect                      │    │
 │ 512│-wego                             │    │
-│ 513│-wireguard-go                     │    │
 │ 517│-wstunnel                         │    │
 │ 519│-wth                              │    │
 │ 521│-xh                               │    │
