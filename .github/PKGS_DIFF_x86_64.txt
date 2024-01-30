@@ -6,7 +6,6 @@
 │ 20 │-allxfr                           │    │
 │ 26 │-apk.sh                           │    │
 │ 28 │-aretext                          │    │
-│ 30 │-asn                              │    │
 │ 35 │-awk                              │    │
 │ 36 │-aws-nuke                         │    │
 │ 43 │-bearer                           │    │
@@ -15,7 +14,6 @@
 │ 73 │-certstream-server-go             │    │
 │ 74 │-certwatcher                      │    │
 │ 85 │-cheat                            │    │
-│ 90 │-cleanpath                        │    │
 │ 92 │-cloudfox                         │    │
 │ 100│-cowitness                        │    │
 │ 101│-cowsay                           │    │
@@ -49,7 +47,6 @@
 │ 424│-resdns                           │    │
 │ 456│-scp                              │    │
 │ 471│-sk-tmux                          │    │
-│ 480│-sq                               │    │
 │ 482│-ssh                              │    │
 │ 503│-sunbeam                          │    │
 │ 513│-tailscale_merged                 │    │
