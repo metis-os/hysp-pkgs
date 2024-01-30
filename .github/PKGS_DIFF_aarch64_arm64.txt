@@ -95,7 +95,6 @@
 │ 278│-loki-canary                      │    │
 │ 279│-lsd                              │    │
 │ 280│-luet                             │    │
-│ 281│-lux                              │    │
 │ 285│-mailpit                          │    │
 │ 290│-matterbridge                     │    │
 │ 291│-mcfly                            │    │
