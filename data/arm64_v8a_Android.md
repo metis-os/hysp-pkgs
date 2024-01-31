@@ -69,7 +69,7 @@
 - **Stars:** 1844
 - **Version:** v1.1.6
 - **Updated:** 2023-11-11T19:20:44Z
-- **Size:** 26.22 MB
+- **Size:** 26.19 MB
 - **SHASUM:** 11fdd9dee8ec56a739eb56983dab13454630f19d8ab94f3b3aa8b5beaca8ec34
 - **B3SUM:** bf30e3e434e0f9d0155abeeb4a50efb3635aa53104929a32906e6a034d87d135
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/dnsx
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22517
+- **Stars:** 22518
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -235,22 +235,6 @@
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/inscope
 - **Language:** Go
 - **License:** null
-
----
-
-### jless
-- **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-- **Author:** PaulJuliusMartinez
-- **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
-- **Stars:** 4335
-- **Version:** v0.9.0
-- **Updated:** 2023-07-17T02:51:34Z
-- **Size:** 1.83 MB
-- **SHASUM:** f95b2c666fcc770a829cc241b7ad2631bc41258d8afd9a9a0f5115635279098a
-- **B3SUM:** e54b6f5027f01876c0d6cff993c6e75a0be33eec0242601e2b969536ee99a627
-- **Source:** https://bin.ajam.dev/arm64_v8a_Android/jless
-- **Language:** Rust
-- **License:** MIT License
 
 ---
 
