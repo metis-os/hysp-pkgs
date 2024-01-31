@@ -28,6 +28,7 @@
 │ 265│-hugo                             │    │
 │ 272│-interactsh-server                │    │
 │ 273│-invidtui                         │    │
+│ 282│-jj                               │    │
 │ 304│-ladder                           │    │
 │ 317│-luet                             │    │
 │ 327│-matterbridge                     │    │
