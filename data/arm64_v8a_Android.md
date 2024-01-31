@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22518
+- **Stars:** 22521
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -238,6 +238,22 @@
 
 ---
 
+### jless
+- **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- **Author:** PaulJuliusMartinez
+- **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
+- **Stars:** 4335
+- **Version:** v0.9.0
+- **Updated:** 2023-07-17T02:51:34Z
+- **Size:** 1.83 MB
+- **SHASUM:** f95b2c666fcc770a829cc241b7ad2631bc41258d8afd9a9a0f5115635279098a
+- **B3SUM:** e54b6f5027f01876c0d6cff993c6e75a0be33eec0242601e2b969536ee99a627
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/jless
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### kanha
 - **Description:** 🦚 A web-app pentesting suite written in rust .
 - **Author:** pwnwriter
@@ -338,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15212
+- **Stars:** 15213
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 10.92 MB
@@ -354,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15212
+- **Stars:** 15213
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 11.28 MB
@@ -370,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15212
+- **Stars:** 15213
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 20.48 MB
@@ -386,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15212
+- **Stars:** 15213
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 21.67 MB
