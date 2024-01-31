@@ -43,6 +43,7 @@
 │ 366│-nrich                            │    │
 │ 381│-pfetch-rs                        │    │
 │ 388│-podsync                          │    │
+│ 405│-quickcert                        │    │
 │ 418│-rekor                            │    │
 │ 424│-resdns                           │    │
 │ 456│-scp                              │    │
