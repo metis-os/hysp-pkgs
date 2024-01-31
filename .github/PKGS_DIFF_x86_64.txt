@@ -10,6 +10,7 @@
 │ 36 │-aws-nuke                         │    │
 │ 43 │-bearer                           │    │
 │ 54 │-bombadillo                       │    │
+│ 67 │-catp                             │    │
 │ 70 │-certgraph                        │    │
 │ 73 │-certstream-server-go             │    │
 │ 74 │-certwatcher                      │    │
