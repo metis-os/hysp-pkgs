@@ -107,7 +107,6 @@
 │ 307│-navi                             │    │
 │ 308│-ncat                             │    │
 │ 309│-ncdu                             │    │
-│ 312│-netbird                          │    │
 │ 313│-nginx                            │    │
 │ 314│-ngocok                           │    │
 │ 315│-ngrok                            │    │
