@@ -45,7 +45,6 @@
 │ 388│-podsync                          │    │
 │ 418│-rekor                            │    │
 │ 424│-resdns                           │    │
-│ 453│-scilla                           │    │
 │ 456│-scp                              │    │
 │ 471│-sk-tmux                          │    │
 │ 482│-ssh                              │    │
