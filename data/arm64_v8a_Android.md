@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8354
+- **Stars:** 8355
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22552
+- **Stars:** 22553
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -290,7 +290,7 @@
 - **Description:** Monitor linux processes without root permissions
 - **Author:** DominicBreuker
 - **Repository:** [https://github.com/DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)
-- **Stars:** 4354
+- **Stars:** 4355
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.65 MB
