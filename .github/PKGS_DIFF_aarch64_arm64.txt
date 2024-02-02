@@ -89,7 +89,6 @@
 │ 257│-jql                              │    │
 │ 261│-k9s                              │    │
 │ 266│-knoxssme                         │    │
-│ 268│-kopia                            │    │
 │ 270│-ladder                           │    │
 │ 275│-listmonk                         │    │
 │ 276│-logcli                           │    │
