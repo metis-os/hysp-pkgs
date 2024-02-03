@@ -52,6 +52,7 @@
 │ 142│-etcdutl                          │    │
 │ 143│-exiflooter                       │    │
 │ 145│-falconhound                      │    │
+│ 153│-ffuf                             │    │
 │ 155│-ffufw                            │    │
 │ 161│-fnm                              │    │
 │ 163│-fscan                            │    │
