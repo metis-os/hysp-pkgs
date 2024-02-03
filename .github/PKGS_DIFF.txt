@@ -744,87 +744,89 @@
 │ 464│ sk                               │ 418│ sk
 │ 465│-sk-tmux                          │    │
 │ 466│ sliver-client                    │ 419│ sliver-client
-│ 467│ smap                             │ 420│ smap
-│ 468│ smenu                            │ 421│ smenu
-│ 473│ spoof-dpi                        │ 426│ spoof-dpi
-│ 474│ sq                               │ 427│ sq
-│ 475│ sqlc                             │ 428│ sqlc
-│ 476│-ssh                              │    │
-│ 477│ ssh-add                          │ 429│ ssh-add
-│ 478│ ssh-agent                        │ 430│ ssh-agent
-│ 479│ ssh-keygen                       │ 431│ ssh-keygen
-│ 494│ subfinder                        │ 446│ subfinder
-│ 495│ subjs                            │ 447│ subjs
-│ 496│ subxtract                        │ 448│ subxtract
-│ 497│-sunbeam                          │    │
-│ 498│ supervisord                      │ 449│ supervisord
-│ 499│ surf                             │ 450│ surf
-│ 500│ svg-hush                         │ 451│ svg-hush
-│ 504│ t-rec                            │ 455│ t-rec
-│ 505│ tahm                             │ 456│ tahm
-│ 506│ tailscale                        │ 457│ tailscale
-│ 507│-tailscale_merged                 │    │
-│ 508│ tailscaled                       │ 458│ tailscaled
-│ 509│ tailspin                         │ 459│ tailspin
-│ 510│ taplo                            │ 460│ taplo
-│ 512│ tdl                              │ 462│ tdl
-│ 513│ tere                             │ 463│ tere
-│ 514│ termshark                        │ 464│ termshark
-│ 515│-tgpt                             │    │
-│ 516│-tidy-viewer                      │    │
-│ 517│ tldr                             │ 465│ tldr
-│ 518│-tlrc                             │    │
-│ 519│ tlsx                             │ 466│ tlsx
-│ 520│ tmate                            │ 467│ tmate
-│ 521│ tmux                             │ 468│ tmux
-│ 522│ tok                              │ 469│ tok
-│ 523│ tokei                            │ 470│ tokei
-│ 524│ toybox                           │ 471│ toybox
-│ 525│-traefik                          │    │
-│ 526│ trufflehog                       │ 472│ trufflehog
-│ 527│ try                              │ 473│ try
-│ 528│ tty2web                          │ 474│ tty2web
-│ 529│ ttyd                             │ 475│ ttyd
-│ 530│-tuiarchiver                      │    │
-│ 531│ tut                              │ 476│ tut
-│ 532│-twingate-client                  │    │
-│ 533│-twingate-connector               │    │
-│ 534│-twingate-connector-staticx       │    │
-│ 535│-twingate-connectorctl            │    │
-│ 536│-twingate-notifier                │    │
-│ 537│ txeh                             │ 477│ txeh
-│ 538│ tz                               │ 478│ tz
-│ 539│ u-root                           │ 479│ u-root
-│ 545│ upx                              │ 485│ upx
-│ 546│ usql                             │ 486│ usql
-│ 547│ v2raya                           │ 487│ v2raya
-│ 548│-v6disk                           │    │
-│ 549│-v6run                            │    │
-│ 550│ validtoml                        │ 488│ validtoml
-│ 551│ vegeta                           │ 489│ vegeta
-│ 552│ vhs                              │ 490│ vhs
-│ 565│ waybackurls                      │ 503│ waybackurls
-│ 566│ web-cache-vulnerability-scanner  │ 504│ web-cache-vulnerability-scanner
-│ 567│ websocat                         │ 505│ websocat
-│ 568│-wego                             │    │
-│ 569│ wireguard-go                     │ 506│ wireguard-go
-│ 570│ wireguard-rs                     │ 507│ wireguard-rs
-│ 571│ wireproxy                        │ 508│ wireproxy
-│ 577│ x8                               │ 514│ x8
-│ 578│ xargs-rs                         │ 515│ xargs-rs
-│ 579│ xcp                              │ 516│ xcp
-│ 580│-xh                               │    │
-│ 581│ xplr                             │ 517│ xplr
-│ 582│ xurls                            │ 518│ xurls
-│ 583│ yalis                            │ 519│ yalis
-│ 584│ yataf                            │ 520│ yataf
-│ 585│ yazi                             │ 521│ yazi
-│ 586│-yip                              │    │
-│ 587│ yj                               │ 522│ yj
-│ 588│ yq                               │ 523│ yq
-│ 589│ zdns                             │ 524│ zdns
-│ 592│ zfxtop                           │ 527│ zfxtop
-│ 593│ zgrab2                           │ 528│ zgrab2
-│ 594│ zoxide                           │ 529│ zoxide
+│ 467│-sliver-server                    │    │
+│ 468│ smap                             │ 420│ smap
+│ 469│ smenu                            │ 421│ smenu
+│ 470│ sns                              │ 422│ sns
+│ 474│ spoof-dpi                        │ 426│ spoof-dpi
+│ 475│ sq                               │ 427│ sq
+│ 476│ sqlc                             │ 428│ sqlc
+│ 477│-ssh                              │    │
+│ 478│ ssh-add                          │ 429│ ssh-add
+│ 479│ ssh-agent                        │ 430│ ssh-agent
+│ 480│ ssh-keygen                       │ 431│ ssh-keygen
+│ 495│ subfinder                        │ 446│ subfinder
+│ 496│ subjs                            │ 447│ subjs
+│ 497│ subxtract                        │ 448│ subxtract
+│ 498│-sunbeam                          │    │
+│ 499│ supervisord                      │ 449│ supervisord
+│ 500│ surf                             │ 450│ surf
+│ 501│ svg-hush                         │ 451│ svg-hush
+│ 505│ t-rec                            │ 455│ t-rec
+│ 506│ tahm                             │ 456│ tahm
+│ 507│ tailscale                        │ 457│ tailscale
+│ 508│-tailscale_merged                 │    │
+│ 509│ tailscaled                       │ 458│ tailscaled
+│ 510│ tailspin                         │ 459│ tailspin
+│ 511│ taplo                            │ 460│ taplo
+│ 513│ tdl                              │ 462│ tdl
+│ 514│ tere                             │ 463│ tere
+│ 515│ termshark                        │ 464│ termshark
+│ 516│-tgpt                             │    │
+│ 517│-tidy-viewer                      │    │
+│ 518│ tldr                             │ 465│ tldr
+│ 519│-tlrc                             │    │
+│ 520│ tlsx                             │ 466│ tlsx
+│ 521│ tmate                            │ 467│ tmate
+│ 522│ tmux                             │ 468│ tmux
+│ 523│ tok                              │ 469│ tok
+│ 524│ tokei                            │ 470│ tokei
+│ 525│ toybox                           │ 471│ toybox
+│ 526│-traefik                          │    │
+│ 527│ trufflehog                       │ 472│ trufflehog
+│ 528│ try                              │ 473│ try
+│ 529│ tty2web                          │ 474│ tty2web
+│ 530│ ttyd                             │ 475│ ttyd
+│ 531│-tuiarchiver                      │    │
+│ 532│ tut                              │ 476│ tut
+│ 533│-twingate-client                  │    │
+│ 534│-twingate-connector               │    │
+│ 535│-twingate-connector-staticx       │    │
+│ 536│-twingate-connectorctl            │    │
+│ 537│-twingate-notifier                │    │
+│ 538│ txeh                             │ 477│ txeh
+│ 539│ tz                               │ 478│ tz
+│ 540│ u-root                           │ 479│ u-root
+│ 546│ upx                              │ 485│ upx
+│ 547│ usql                             │ 486│ usql
+│ 548│ v2raya                           │ 487│ v2raya
+│ 549│-v6disk                           │    │
+│ 550│-v6run                            │    │
+│ 551│ validtoml                        │ 488│ validtoml
+│ 552│ vegeta                           │ 489│ vegeta
+│ 553│ vhs                              │ 490│ vhs
+│ 566│ waybackurls                      │ 503│ waybackurls
+│ 567│ web-cache-vulnerability-scanner  │ 504│ web-cache-vulnerability-scanner
+│ 568│ websocat                         │ 505│ websocat
+│ 569│-wego                             │    │
+│ 570│ wireguard-go                     │ 506│ wireguard-go
+│ 571│ wireguard-rs                     │ 507│ wireguard-rs
+│ 572│ wireproxy                        │ 508│ wireproxy
+│ 578│ x8                               │ 514│ x8
+│ 579│ xargs-rs                         │ 515│ xargs-rs
+│ 580│ xcp                              │ 516│ xcp
+│ 581│-xh                               │    │
+│ 582│ xplr                             │ 517│ xplr
+│ 583│ xurls                            │ 518│ xurls
+│ 584│ yalis                            │ 519│ yalis
+│ 585│ yataf                            │ 520│ yataf
+│ 586│ yazi                             │ 521│ yazi
+│ 587│-yip                              │    │
+│ 588│ yj                               │ 522│ yj
+│ 589│ yq                               │ 523│ yq
+│ 590│ zdns                             │ 524│ zdns
+│ 593│ zfxtop                           │ 527│ zfxtop
+│ 594│ zgrab2                           │ 528│ zgrab2
+│ 595│ zoxide                           │ 529│ zoxide
 
-│ 595│-zstd                             │    │
+│ 596│-zstd                             │    │
