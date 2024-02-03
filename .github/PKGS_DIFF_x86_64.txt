@@ -45,7 +45,6 @@
 │ 418│-resdns                           │    │
 │ 450│-scp                              │    │
 │ 465│-sk-tmux                          │    │
-│ 467│-sliver-server                    │    │
 │ 477│-ssh                              │    │
 │ 498│-sunbeam                          │    │
 │ 508│-tailscale_merged                 │    │

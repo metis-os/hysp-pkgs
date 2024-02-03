@@ -744,89 +744,87 @@
 │ 464│ sk                               │ 418│ sk
 │ 465│-sk-tmux                          │    │
 │ 466│ sliver-client                    │ 419│ sliver-client
-│ 467│-sliver-server                    │    │
-│ 468│ smap                             │ 420│ smap
-│ 469│ smenu                            │ 421│ smenu
-│ 470│ sns                              │ 422│ sns
-│ 474│ spoof-dpi                        │ 426│ spoof-dpi
-│ 475│ sq                               │ 427│ sq
-│ 476│ sqlc                             │ 428│ sqlc
+│ 467│ sliver-server                    │ 420│ sliver-server
+│ 468│ smap                             │ 421│ smap
+│ 474│ spoof-dpi                        │ 427│ spoof-dpi
+│ 475│ sq                               │ 428│ sq
+│ 476│ sqlc                             │ 429│ sqlc
 │ 477│-ssh                              │    │
-│ 478│ ssh-add                          │ 429│ ssh-add
-│ 479│ ssh-agent                        │ 430│ ssh-agent
-│ 480│ ssh-keygen                       │ 431│ ssh-keygen
-│ 495│ subfinder                        │ 446│ subfinder
-│ 496│ subjs                            │ 447│ subjs
-│ 497│ subxtract                        │ 448│ subxtract
+│ 478│ ssh-add                          │ 430│ ssh-add
+│ 479│ ssh-agent                        │ 431│ ssh-agent
+│ 480│ ssh-keygen                       │ 432│ ssh-keygen
+│ 495│ subfinder                        │ 447│ subfinder
+│ 496│ subjs                            │ 448│ subjs
+│ 497│ subxtract                        │ 449│ subxtract
 │ 498│-sunbeam                          │    │
-│ 499│ supervisord                      │ 449│ supervisord
-│ 500│ surf                             │ 450│ surf
-│ 501│ svg-hush                         │ 451│ svg-hush
-│ 505│ t-rec                            │ 455│ t-rec
-│ 506│ tahm                             │ 456│ tahm
-│ 507│ tailscale                        │ 457│ tailscale
+│ 499│ supervisord                      │ 450│ supervisord
+│ 500│ surf                             │ 451│ surf
+│ 501│ svg-hush                         │ 452│ svg-hush
+│ 505│ t-rec                            │ 456│ t-rec
+│ 506│ tahm                             │ 457│ tahm
+│ 507│ tailscale                        │ 458│ tailscale
 │ 508│-tailscale_merged                 │    │
-│ 509│ tailscaled                       │ 458│ tailscaled
-│ 510│ tailspin                         │ 459│ tailspin
-│ 511│ taplo                            │ 460│ taplo
-│ 513│ tdl                              │ 462│ tdl
-│ 514│ tere                             │ 463│ tere
-│ 515│ termshark                        │ 464│ termshark
+│ 509│ tailscaled                       │ 459│ tailscaled
+│ 510│ tailspin                         │ 460│ tailspin
+│ 511│ taplo                            │ 461│ taplo
+│ 513│ tdl                              │ 463│ tdl
+│ 514│ tere                             │ 464│ tere
+│ 515│ termshark                        │ 465│ termshark
 │ 516│-tgpt                             │    │
 │ 517│-tidy-viewer                      │    │
-│ 518│ tldr                             │ 465│ tldr
+│ 518│ tldr                             │ 466│ tldr
 │ 519│-tlrc                             │    │
-│ 520│ tlsx                             │ 466│ tlsx
-│ 521│ tmate                            │ 467│ tmate
-│ 522│ tmux                             │ 468│ tmux
-│ 523│ tok                              │ 469│ tok
-│ 524│ tokei                            │ 470│ tokei
-│ 525│ toybox                           │ 471│ toybox
+│ 520│ tlsx                             │ 467│ tlsx
+│ 521│ tmate                            │ 468│ tmate
+│ 522│ tmux                             │ 469│ tmux
+│ 523│ tok                              │ 470│ tok
+│ 524│ tokei                            │ 471│ tokei
+│ 525│ toybox                           │ 472│ toybox
 │ 526│-traefik                          │    │
-│ 527│ trufflehog                       │ 472│ trufflehog
-│ 528│ try                              │ 473│ try
-│ 529│ tty2web                          │ 474│ tty2web
-│ 530│ ttyd                             │ 475│ ttyd
+│ 527│ trufflehog                       │ 473│ trufflehog
+│ 528│ try                              │ 474│ try
+│ 529│ tty2web                          │ 475│ tty2web
+│ 530│ ttyd                             │ 476│ ttyd
 │ 531│-tuiarchiver                      │    │
-│ 532│ tut                              │ 476│ tut
+│ 532│ tut                              │ 477│ tut
 │ 533│-twingate-client                  │    │
 │ 534│-twingate-connector               │    │
 │ 535│-twingate-connector-staticx       │    │
 │ 536│-twingate-connectorctl            │    │
 │ 537│-twingate-notifier                │    │
-│ 538│ txeh                             │ 477│ txeh
-│ 539│ tz                               │ 478│ tz
-│ 540│ u-root                           │ 479│ u-root
-│ 546│ upx                              │ 485│ upx
-│ 547│ usql                             │ 486│ usql
-│ 548│ v2raya                           │ 487│ v2raya
+│ 538│ txeh                             │ 478│ txeh
+│ 539│ tz                               │ 479│ tz
+│ 540│ u-root                           │ 480│ u-root
+│ 546│ upx                              │ 486│ upx
+│ 547│ usql                             │ 487│ usql
+│ 548│ v2raya                           │ 488│ v2raya
 │ 549│-v6disk                           │    │
 │ 550│-v6run                            │    │
-│ 551│ validtoml                        │ 488│ validtoml
-│ 552│ vegeta                           │ 489│ vegeta
-│ 553│ vhs                              │ 490│ vhs
-│ 566│ waybackurls                      │ 503│ waybackurls
-│ 567│ web-cache-vulnerability-scanner  │ 504│ web-cache-vulnerability-scanner
-│ 568│ websocat                         │ 505│ websocat
+│ 551│ validtoml                        │ 489│ validtoml
+│ 552│ vegeta                           │ 490│ vegeta
+│ 553│ vhs                              │ 491│ vhs
+│ 566│ waybackurls                      │ 504│ waybackurls
+│ 567│ web-cache-vulnerability-scanner  │ 505│ web-cache-vulnerability-scanner
+│ 568│ websocat                         │ 506│ websocat
 │ 569│-wego                             │    │
-│ 570│ wireguard-go                     │ 506│ wireguard-go
-│ 571│ wireguard-rs                     │ 507│ wireguard-rs
-│ 572│ wireproxy                        │ 508│ wireproxy
-│ 578│ x8                               │ 514│ x8
-│ 579│ xargs-rs                         │ 515│ xargs-rs
-│ 580│ xcp                              │ 516│ xcp
+│ 570│ wireguard-go                     │ 507│ wireguard-go
+│ 571│ wireguard-rs                     │ 508│ wireguard-rs
+│ 572│ wireproxy                        │ 509│ wireproxy
+│ 578│ x8                               │ 515│ x8
+│ 579│ xargs-rs                         │ 516│ xargs-rs
+│ 580│ xcp                              │ 517│ xcp
 │ 581│-xh                               │    │
-│ 582│ xplr                             │ 517│ xplr
-│ 583│ xurls                            │ 518│ xurls
-│ 584│ yalis                            │ 519│ yalis
-│ 585│ yataf                            │ 520│ yataf
-│ 586│ yazi                             │ 521│ yazi
+│ 582│ xplr                             │ 518│ xplr
+│ 583│ xurls                            │ 519│ xurls
+│ 584│ yalis                            │ 520│ yalis
+│ 585│ yataf                            │ 521│ yataf
+│ 586│ yazi                             │ 522│ yazi
 │ 587│-yip                              │    │
-│ 588│ yj                               │ 522│ yj
-│ 589│ yq                               │ 523│ yq
-│ 590│ zdns                             │ 524│ zdns
-│ 593│ zfxtop                           │ 527│ zfxtop
-│ 594│ zgrab2                           │ 528│ zgrab2
-│ 595│ zoxide                           │ 529│ zoxide
+│ 588│ yj                               │ 523│ yj
+│ 589│ yq                               │ 524│ yq
+│ 590│ zdns                             │ 525│ zdns
+│ 593│ zfxtop                           │ 528│ zfxtop
+│ 594│ zgrab2                           │ 529│ zgrab2
+│ 595│ zoxide                           │ 530│ zoxide
 
 │ 596│-zstd                             │    │
