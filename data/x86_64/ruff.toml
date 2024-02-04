@@ -1,0 +1,26 @@
+[bin]
+name = "ruff"
+
+[package]
+architecture = "x86_64"
+name = "ruff"
+description = "An extremely fast Python linter and code formatter, written in Rust."
+author = "astral-sh"
+repo = "https://github.com/astral-sh/ruff"
+stars = "22669"
+version = "v0.2.0"
+updated = "2024-02-01T23:32:41Z"
+size = "20.57 MB"
+bsum = "81aaa603c99148a8f7ee466c12923a887766dada43c2f41b0268e97de800173d"
+sha = "31dd0581215773615eec30f8766deafee7f8fcfe9c6958cc53a5177dee4674ea"
+source = "https://bin.ajam.dev/x86_64_Linux/ruff"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ruff"]
+requires = []
+
+[package.metadata]
+keywords = ["linter","pep8","python","python3","ruff","rust","rustpython","static-analysis","static-code-analysis","style-guide","styleguide"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "vtm"
+
+[package]
+architecture = "x86_64"
+name = "vtm"
+description = "Text-based desktop environment"
+author = "directvt"
+repo = "https://github.com/directvt/vtm"
+stars = "1475"
+version = "v0.9.63"
+updated = "2024-01-30T20:27:26Z"
+size = "5.54 MB"
+bsum = "0f8ba21fcc078e67338c1b42e07f8235ca7b8e0e13259460655aab23f9706e82"
+sha = "41933a9e52d2eaf6e3ee97663bc8adef044f1b3a44dbd95477e43de76c84a714"
+source = "https://bin.ajam.dev/x86_64_Linux/vtm"
+language = "C++"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["vtm"]
+requires = []
+
+[package.metadata]
+keywords = ["admin","cli","cmd","command-line","console","cui","desktop-environment","floating-window","multiplexer","remote","remote-desktop","remote-shell","ssh","terminal","text-based","tiling-window-manager","tui","vt","windows-console","wsl"]
+categories = ["Utilities"]
