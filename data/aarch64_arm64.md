@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 47141
+- **Stars:** 47142
 - **Version:** v0.2.59
 - **Updated:** 2024-02-01T22:35:59Z
 - **Size:** 15.3 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 34855
+- **Stars:** 34857
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 60.73 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32752
+- **Stars:** 32754
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.45 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 15516
+- **Stars:** 15517
 - **Version:** v17.2.1
 - **Updated:** 2024-01-03T15:52:50Z
 - **Size:** 17.54 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 51990
+- **Stars:** 51991
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 39.5 MB
@@ -802,7 +802,7 @@
 - **Description:** An open and reliable container runtime
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
-- **Stars:** 15816
+- **Stars:** 15817
 - **Version:** v1.7.13
 - **Updated:** 2024-01-31T20:58:30Z
 - **Size:** 37.11 MB
@@ -882,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25689
+- **Stars:** 25690
 - **Version:** v9.6.6
 - **Updated:** 2023-11-09T14:56:49Z
 - **Size:** 7.43 MB
@@ -946,7 +946,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 33184
+- **Stars:** 33185
 - **Version:** curl-8_6_0
 - **Updated:** 2024-01-31T07:15:55Z
 - **Size:** 7.38 MB
@@ -962,13 +962,29 @@
 - **Description:** The power of curl, the ease of use of httpie.
 - **Author:** rs
 - **Repository:** [https://github.com/rs/curlie](https://github.com/rs/curlie)
-- **Stars:** 2542
+- **Stars:** 2543
 - **Version:** v1.7.2
 - **Updated:** 2023-10-23T16:11:03Z
 - **Size:** 2.15 MB
 - **SHA256SUM:** 29324de922e219eb284cef3263788b20efc1ff815f35b1fc5c9c6c58e8d2ecd3
 - **B3SUM:** d77ae66d8cce8c36ee39a79062cf51339ab9a7edc79546be8d25bd6ee9ebed17
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/curlie
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### cut-cdn
+- **Description:** ✂️ Removing CDN IPs from the list of IP addresses
+- **Author:** ImAyrix
+- **Repository:** [https://github.com/ImAyrix/cut-cdn](https://github.com/ImAyrix/cut-cdn)
+- **Stars:** 247
+- **Version:** v1.0.31
+- **Updated:** 2024-01-09T06:36:33Z
+- **Size:** 8.6 MB
+- **SHA256SUM:** cb4a23765c18cee018b2f073e4fa4e715db5d553fd3505a49044e2d4c4f919f8
+- **B3SUM:** 99c209a42c464e90d4b005186184332c5acf4ef7b053caa9c285d78a247345f7
+- **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/cut-cdn
 - **Language:** Go
 - **License:** MIT License
 
@@ -1058,7 +1074,7 @@
 - **Description:** unclutter your .profile
 - **Author:** direnv
 - **Repository:** [https://github.com/direnv/direnv](https://github.com/direnv/direnv)
-- **Stars:** 11365
+- **Stars:** 11368
 - **Version:** v2.33.0
 - **Updated:** 2023-11-29T14:05:45Z
 - **Size:** 6.42 MB
@@ -1490,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 30576
+- **Stars:** 30577
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.59 MB
@@ -1554,7 +1570,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10939
+- **Stars:** 10940
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 7.82 MB
@@ -1602,7 +1618,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22587
+- **Stars:** 22588
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 14.58 MB
@@ -1714,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 57258
+- **Stars:** 57259
 - **Version:** 0.46.1
 - **Updated:** 2024-02-01T09:15:52Z
 - **Size:** 3.47 MB
@@ -1826,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34462
+- **Stars:** 34463
 - **Version:** v2.43.1
 - **Updated:** 2024-01-31T21:16:59Z
 - **Size:** 43.22 MB
@@ -2050,7 +2066,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 16300
+- **Stars:** 16301
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.82 MB
@@ -2258,7 +2274,7 @@
 - **Description:** Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - **Author:** fullstorydev
 - **Repository:** [https://github.com/fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
-- **Stars:** 9730
+- **Stars:** 9731
 - **Version:** v1.8.9
 - **Updated:** 2023-10-24T17:17:39Z
 - **Size:** 23.46 MB
@@ -2530,7 +2546,7 @@
 - **Description:** A command-line tool that makes git easier to use with GitHub.
 - **Author:** mislav
 - **Repository:** [https://github.com/mislav/hub](https://github.com/mislav/hub)
-- **Stars:** 22639
+- **Stars:** 22638
 - **Version:** v2.14.2
 - **Updated:** 2020-03-05T17:55:23Z
 - **Size:** 6.12 MB
@@ -2658,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27833
+- **Stars:** 27834
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.71 MB
@@ -2690,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15818
+- **Stars:** 15820
 - **Version:** 1.23.0
 - **Updated:** 2024-01-13T02:56:31Z
 - **Size:** 2.95 MB
@@ -2802,7 +2818,7 @@
 - **Description:**  Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - **Author:** kopia
 - **Repository:** [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
-- **Stars:** 5754
+- **Stars:** 5755
 - **Version:** v0.15.0
 - **Updated:** 2023-10-22T03:20:50Z
 - **Size:** 34.69 MB
@@ -3250,7 +3266,7 @@
 - **Description:** Nmap - the Network Mapper. Github mirror of official SVN repository.
 - **Author:** nmap
 - **Repository:** [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
-- **Stars:** 8863
+- **Stars:** 8864
 - **Version:** null
 - **Updated:** 
 - **Size:** 7.27 MB
@@ -3698,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42555
+- **Stars:** 42553
 - **Version:** v1.65.2
 - **Updated:** 2024-01-24T16:28:08Z
 - **Size:** 55.46 MB
@@ -3778,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 43099
+- **Stars:** 43101
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.37 MB
@@ -3890,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 22714
+- **Stars:** 22715
 - **Version:** v0.2.0
 - **Updated:** 2024-02-01T23:32:41Z
 - **Size:** 17.4 MB
@@ -4242,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 39093
+- **Stars:** 39097
 - **Version:** v1.17.1
 - **Updated:** 2024-01-02T18:30:02Z
 - **Size:** 8.15 MB
@@ -4418,7 +4434,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15282
+- **Stars:** 15283
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 10.92 MB
@@ -4434,7 +4450,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15282
+- **Stars:** 15283
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 20.48 MB
@@ -4594,7 +4610,7 @@
 - **Description:** Find and verify credentials
 - **Author:** trufflesecurity
 - **Repository:** [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-- **Stars:** 13173
+- **Stars:** 13174
 - **Version:** v3.67.1
 - **Updated:** 2024-02-04T16:58:32Z
 - **Size:** 86.51 MB
@@ -4882,7 +4898,7 @@
 - **Description:** Executes commands in response to file modifications
 - **Author:** watchexec
 - **Repository:** [https://github.com/watchexec/watchexec](https://github.com/watchexec/watchexec)
-- **Stars:** 4592
+- **Stars:** 4593
 - **Version:** v1.25.1
 - **Updated:** 2024-01-05T04:56:49Z
 - **Size:** 7.3 MB
@@ -4946,7 +4962,7 @@
 - **Description:** Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - **Author:** vi
 - **Repository:** [https://github.com/vi/websocat](https://github.com/vi/websocat)
-- **Stars:** 6267
+- **Stars:** 6268
 - **Version:** v1.12.0
 - **Updated:** 2023-09-17T15:00:07Z
 - **Size:** 4.98 MB
@@ -5138,7 +5154,7 @@
 - **Description:** yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
 - **Author:** mikefarah
 - **Repository:** [https://github.com/mikefarah/yq](https://github.com/mikefarah/yq)
-- **Stars:** 10217
+- **Stars:** 10218
 - **Version:** v4.40.5
 - **Updated:** 2023-12-12T02:53:05Z
 - **Size:** 9.37 MB
@@ -5154,7 +5170,7 @@
 - **Description:** Fast CLI DNS Lookup Tool
 - **Author:** zmap
 - **Repository:** [https://github.com/zmap/zdns](https://github.com/zmap/zdns)
-- **Stars:** 823
+- **Stars:** 824
 - **Version:** v1.0.0
 - **Updated:** 2023-09-10T17:09:04Z
 - **Size:** 8.33 MB
