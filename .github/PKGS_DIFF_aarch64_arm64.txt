@@ -33,7 +33,6 @@
 │ 86 │-crawley                          │    │
 │ 92 │-csview                           │    │
 │ 94 │-ct_monitor                       │    │
-│ 97 │-cut-cdn                          │    │
 │ 99 │-dasel                            │    │
 │ 102│-ddns-go                          │    │
 │ 105│-devpod                           │    │
