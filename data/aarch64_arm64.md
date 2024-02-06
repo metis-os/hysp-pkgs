@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 47197
+- **Stars:** 47198
 - **Version:** v0.2.59
 - **Updated:** 2024-02-01T22:35:59Z
 - **Size:** 15.3 MB
@@ -194,7 +194,7 @@
 - **Description:** A tool for adding new lines to files, skipping duplicates
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1150
+- **Stars:** 1151
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.35 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32773
+- **Stars:** 32775
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.45 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 15565
+- **Stars:** 15566
 - **Version:** v17.2.1
 - **Updated:** 2024-01-03T15:52:50Z
 - **Size:** 17.54 MB
@@ -306,7 +306,7 @@
 - **Description:** the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - **Author:** BLAKE3-team
 - **Repository:** [https://github.com/BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-- **Stars:** 4449
+- **Stars:** 4450
 - **Version:** 1.5.0
 - **Updated:** 2023-09-21T03:35:48Z
 - **Size:** 771.7 kB
@@ -1394,7 +1394,7 @@
 - **Description:** Easily install prebuilt binaries from GitHub.
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 684
+- **Stars:** 685
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 5218
+- **Stars:** 5219
 - **Version:** v0.18.0
 - **Updated:** 2024-02-01T05:22:06Z
 - **Size:** 1.6 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 57288
+- **Stars:** 57290
 - **Version:** 0.46.1
 - **Updated:** 2024-02-01T09:15:52Z
 - **Size:** 3.47 MB
@@ -2082,7 +2082,7 @@
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
-- **Stars:** 14229
+- **Stars:** 14230
 - **Version:** v1.5.1
 - **Updated:** 2023-05-09T16:16:51Z
 - **Size:** 17.41 MB
@@ -2578,7 +2578,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 18829
+- **Stars:** 18831
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.01 MB
@@ -2642,7 +2642,7 @@
 - **Description:** iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 - **Author:** esnet
 - **Repository:** [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
-- **Stars:** 6097
+- **Stars:** 6099
 - **Version:** 3.16
 - **Updated:** 2023-12-01T19:15:52Z
 - **Size:** 2.9 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 27848
+- **Stars:** 27849
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.71 MB
@@ -2754,7 +2754,7 @@
 - **Description:** A next-generation crawling and spidering framework.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/katana](https://github.com/projectdiscovery/katana)
-- **Stars:** 8053
+- **Stars:** 8054
 - **Version:** v1.0.5
 - **Updated:** 2024-01-11T22:04:21Z
 - **Size:** 35 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 42585
+- **Stars:** 42589
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 15.47 MB
@@ -2930,7 +2930,7 @@
 - **Description:** 👾 Fast and simple video download library and CLI tool written in Go
 - **Author:** iawia002
 - **Repository:** [https://github.com/iawia002/lux](https://github.com/iawia002/lux)
-- **Stars:** 23130
+- **Stars:** 23131
 - **Version:** v0.22.0
 - **Updated:** 2023-11-06T05:54:09Z
 - **Size:** 17.29 MB
@@ -3010,7 +3010,7 @@
 - **Description:** 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - **Author:** MrEmpy
 - **Repository:** [https://github.com/MrEmpy/mantra](https://github.com/MrEmpy/mantra)
-- **Stars:** 435
+- **Stars:** 436
 - **Version:** v.1.1
 - **Updated:** 2023-05-20T01:28:28Z
 - **Size:** 4.77 MB
@@ -3042,7 +3042,7 @@
 - **Description:** A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - **Author:** blechschmidt
 - **Repository:** [https://github.com/blechschmidt/massdns](https://github.com/blechschmidt/massdns)
-- **Stars:** 2896
+- **Stars:** 2897
 - **Version:** v1.0.0
 - **Updated:** 2021-10-08T17:02:48Z
 - **Size:** 149.86 kB
@@ -3106,7 +3106,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23451
+- **Stars:** 23453
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.35 MB
@@ -3186,7 +3186,7 @@
 - **Description:**  IP rotator with ease.
 - **Author:** kitabisa
 - **Repository:** [https://github.com/kitabisa/mubeng](https://github.com/kitabisa/mubeng)
-- **Stars:** 1328
+- **Stars:** 1329
 - **Version:** v0.14.2
 - **Updated:** 2024-01-26T07:07:31Z
 - **Size:** 8.9 MB
@@ -3202,7 +3202,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19809
+- **Stars:** 19810
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 546.7 kB
@@ -3218,7 +3218,7 @@
 - **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/nerdctl](https://github.com/containerd/nerdctl)
-- **Stars:** 7100
+- **Stars:** 7101
 - **Version:** v1.7.3
 - **Updated:** 2024-01-31T23:48:31Z
 - **Size:** 23.84 MB
@@ -3235,8 +3235,8 @@
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
 - **Stars:** 7659
-- **Version:** v0.25.5
-- **Updated:** 2024-01-25T12:02:48Z
+- **Version:** v0.25.6
+- **Updated:** 2024-02-05T16:33:19Z
 - **Size:** 27.69 MB
 - **SHA256SUM:** d0ad3c80599653f2d8aa49c20c8443b260c3dd55e73eb398c5a9f97acb1d5f90
 - **B3SUM:** 04524539a83e5243547bfffcd0f9bba7747181bf308f470bba26189c50b6551c
@@ -3250,7 +3250,7 @@
 - **Description:** A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 - **Author:** vdjagilev
 - **Repository:** [https://github.com/vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter)
-- **Stars:** 458
+- **Stars:** 461
 - **Version:** v2.1.6
 - **Updated:** 2023-12-02T12:20:02Z
 - **Size:** 4.26 MB
@@ -3970,7 +3970,7 @@
 - **Description:** A minimal file upload/pastebin service.
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/rustypaste](https://github.com/orhun/rustypaste)
-- **Stars:** 625
+- **Stars:** 626
 - **Version:** v0.14.4
 - **Updated:** 2023-12-20T19:53:54Z
 - **Size:** 5.45 MB
@@ -4098,7 +4098,7 @@
 - **Description:** An IIS short filename enumeration tool
 - **Author:** bitquark
 - **Repository:** [https://github.com/bitquark/shortscan](https://github.com/bitquark/shortscan)
-- **Stars:** 422
+- **Stars:** 423
 - **Version:** v0.6.2
 - **Updated:** 2023-07-31T20:04:07Z
 - **Size:** 9.56 MB
@@ -4194,7 +4194,7 @@
 - **Description:** A simple and fast anti-censorship tool written in Go
 - **Author:** xvzc
 - **Repository:** [https://github.com/xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)
-- **Stars:** 435
+- **Stars:** 436
 - **Version:** 0.8
 - **Updated:** 2023-09-08T08:40:10Z
 - **Size:** 5.01 MB
@@ -4258,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 39121
+- **Stars:** 39123
 - **Version:** v1.17.1
 - **Updated:** 2024-01-02T18:30:02Z
 - **Size:** 8.15 MB
@@ -4578,7 +4578,7 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 9523
+- **Stars:** 9524
 - **Version:** v13.0.0-alpha.0
 - **Updated:** 2023-03-27T15:56:31Z
 - **Size:** 3.66 MB
@@ -4818,7 +4818,7 @@
 - **Description:** 👀 A modern watch command. Time machine and pager etc.
 - **Author:** sachaos
 - **Repository:** [https://github.com/sachaos/viddy](https://github.com/sachaos/viddy)
-- **Stars:** 4251
+- **Stars:** 4252
 - **Version:** v0.4.0
 - **Updated:** 2023-10-15T07:41:31Z
 - **Size:** 7.93 MB
@@ -4962,7 +4962,7 @@
 - **Description:** Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - **Author:** vi
 - **Repository:** [https://github.com/vi/websocat](https://github.com/vi/websocat)
-- **Stars:** 6275
+- **Stars:** 6276
 - **Version:** v1.12.0
 - **Updated:** 2023-09-17T15:00:07Z
 - **Size:** 4.98 MB
@@ -5234,7 +5234,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 13416
+- **Stars:** 13417
 - **Version:** v0.9.2
 - **Updated:** 2023-08-04T03:16:26Z
 - **Size:** 972.41 kB
