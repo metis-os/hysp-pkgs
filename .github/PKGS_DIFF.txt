@@ -827,21 +827,21 @@
 │ 578│-wtf                              │    │
 │ 579│ wtfutil                          │ 513│ wtfutil
 │ 580│ wth                              │ 514│ wth
-│ 581│ x8                               │ 515│ x8
-│ 582│ xargs-rs                         │ 516│ xargs-rs
-│ 583│ xcp                              │ 517│ xcp
+│ 581│-x8                               │    │
+│ 582│ xargs-rs                         │ 515│ xargs-rs
+│ 583│-xcp                              │    │
 │ 584│-xh                               │    │
-│ 585│ xplr                             │ 518│ xplr
-│ 586│ xurls                            │ 519│ xurls
-│ 587│ yalis                            │ 520│ yalis
-│ 588│ yataf                            │ 521│ yataf
-│ 589│ yazi                             │ 522│ yazi
+│ 585│-xplr                             │    │
+│ 586│ xurls                            │ 516│ xurls
+│ 587│ yalis                            │ 517│ yalis
+│ 588│ yataf                            │ 518│ yataf
+│ 589│ yazi                             │ 519│ yazi
 │ 590│-yip                              │    │
-│ 591│ yj                               │ 523│ yj
-│ 592│ yq                               │ 524│ yq
-│ 593│ zdns                             │ 525│ zdns
-│ 596│ zfxtop                           │ 528│ zfxtop
-│ 597│ zgrab2                           │ 529│ zgrab2
-│ 598│ zoxide                           │ 530│ zoxide
+│ 591│ yj                               │ 520│ yj
+│ 592│ yq                               │ 521│ yq
+│ 593│ zdns                             │ 522│ zdns
+│ 596│ zfxtop                           │ 525│ zfxtop
+│ 597│ zgrab2                           │ 526│ zgrab2
+│ 598│ zoxide                           │ 527│ zoxide
 
 │ 599│-zstd                             │    │
