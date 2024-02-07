@@ -66,7 +66,6 @@
 │ 199│-gocurl                           │    │
 │ 201│-godnsbench                       │    │
 │ 203│-gojq                             │    │
-│ 205│-gorilla                          │    │
 │ 206│-gosec                            │    │
 │ 210│-gotty                            │    │
 │ 213│-gron                             │    │
