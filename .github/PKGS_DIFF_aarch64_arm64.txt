@@ -10,6 +10,8 @@
 │ 32 │-batcat                           │    │
 │ 35 │-bed                              │    │
 │ 41 │-bombadillo                       │    │
+│ 42 │-bore                             │    │
+│ 47 │-btop                             │    │
 │ 54 │-certgraph                        │    │
 │ 55 │-certspotter                      │    │
 │ 57 │-certstream-server-go             │    │
@@ -27,6 +29,7 @@
 │ 74 │-cloudcash                        │    │
 │ 75 │-cloudfox                         │    │
 │ 78 │-cog                              │    │
+│ 80 │-containerd                       │    │
 │ 82 │-cowitness                        │    │
 │ 83 │-cowsay                           │    │
 │ 84 │-cowthink                         │    │
