@@ -1,0 +1,26 @@
+[bin]
+name = "btop"
+
+[package]
+architecture = "aarch64_arm64"
+name = "btop"
+description = "A monitor of resources"
+author = "aristocratos"
+repo = "https://github.com/aristocratos/btop"
+stars = "15000"
+version = "v1.3.0"
+updated = "2024-01-07T14:23:07Z"
+size = "2.28 MB"
+bsum = "71777362c17ff892b725b6b4b1398b8ffe3d573465d44f747e799559f32b9bef"
+sha = "186fc2c703f176d535f9d69345ddcaa34956202d24b2e63f6b0903a2629c0e18"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/btop"
+language = "C++"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["btop"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
