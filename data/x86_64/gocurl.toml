@@ -8,8 +8,8 @@ description = "Simplified version of curl written in pure Go"
 author = "ameshkov"
 repo = "https://github.com/ameshkov/gocurl"
 stars = "20"
-version = "v1.4.0"
-updated = "2024-02-04T20:58:33Z"
+version = "v1.4.1"
+updated = "2024-02-07T13:25:03Z"
 size = "9.07 MB"
 bsum = "82afadd2c92a43e33f2626d12a7c16d49995a5d19e3989f1f67535271c46ec33"
 sha = "230f8ad34028f692d6175f13ec797e72da8bf56aa23e984ef3e87b883d59945e"
@@ -22,5 +22,5 @@ conflicts  = ["gocurl"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = ["curl","dns","ech","gocurl","golang","http","https","postquantum","websocket"]
 categories = ["Utilities"]
