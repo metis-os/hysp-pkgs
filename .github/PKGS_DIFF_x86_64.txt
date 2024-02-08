@@ -5,6 +5,7 @@
 │ 21 │-aretext                          │    │
 │ 28 │-awk                              │    │
 │ 29 │-aws-nuke                         │    │
+│ 33 │-batcat                           │    │
 │ 36 │-bearer                           │    │
 │ 47 │-bombadillo                       │    │
 │ 63 │-certgraph                        │    │
@@ -42,6 +43,7 @@
 │ 361│-nrich                            │    │
 │ 365│-nushell                          │    │
 │ 377│-pfetch-rs                        │    │
+│ 382│-planor                           │    │
 │ 384│-podsync                          │    │
 │ 414│-rekor                            │    │
 │ 420│-resdns                           │    │
