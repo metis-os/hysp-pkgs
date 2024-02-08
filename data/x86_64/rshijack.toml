@@ -4,7 +4,7 @@ name = "rshijack"
 [package]
 architecture = "x86_64"
 name = "rshijack"
-description = "tcp connection hijacker, rust rewrite of shijack"
+description = "TCP connection hijacker, Rust rewrite of shijack"
 author = "kpcyrd"
 repo = "https://github.com/kpcyrd/rshijack"
 stars = "420"
