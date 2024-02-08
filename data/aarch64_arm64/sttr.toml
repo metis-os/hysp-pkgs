@@ -22,5 +22,5 @@ conflicts  = ["sttr"]
 requires = []
 
 [package.metadata]
-keywords = ["cli","cli-app","count-lines","count-words","decoding","developer-tools","devutils","encoding","encrypt","encryption-decryption","go","json","productivity","string","termux","termux-tool","transform","tui","tui-app","zeropad"]
+keywords = ["cli","cli-app","cli-tool","cli-utilities","decoding","developer-tools","devutils","encoding","encrypt","encryption-decryption","go","json","productivity","string","termux","termux-tool","transform","tui","tui-app","zeropad"]
 categories = ["Utilities"]
