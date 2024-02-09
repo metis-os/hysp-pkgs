@@ -11,7 +11,6 @@
 │ 66 │-certstream-server-go             │    │
 │ 67 │-certwatcher                      │    │
 │ 78 │-cheat                            │    │
-│ 84 │-cloudcash                        │    │
 │ 85 │-cloudfox                         │    │
 │ 93 │-cowitness                        │    │
 │ 94 │-cowsay                           │    │
