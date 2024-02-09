@@ -1,24 +1,24 @@
 [bin]
-name = "pueue"
+name = "pueued"
 
 [package]
 architecture = "aarch64_arm64"
-name = "pueue"
+name = "pueued"
 description = ":stars: Manage your shell commands."
 author = "Nukesor"
 repo = "https://github.com/Nukesor/pueue"
 stars = "4147"
 version = "v3.3.3"
 updated = "2024-01-04T12:11:00Z"
-size = "2.51 MB"
-bsum = "998bc4da29dce79f0d4e263a4a8d398f903c977c040fb09b9222789d1424f26d"
-sha = "5a346b6c2f92a3582384f39349eee394118bb7c6e87c55574e3889e2f6d6fb9c"
-source = "https://bin.ajam.dev/aarch64_arm64_Linux/pueue"
+size = "2.55 MB"
+bsum = "3a4a60d8b05362db58b5cc0cddc751e605bbec1cc2ba7ba6777805694a1b99a9"
+sha = "4f2307e3e7503f09959a796bc0ee509b4437df565a41dfa0beda180163908c7d"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/pueued"
 language = "Rust"
 license = "MIT License"
 
 [package.conditions]
-conflicts  = ["pueue"]
+conflicts  = ["pueued"]
 requires = []
 
 [package.metadata]
