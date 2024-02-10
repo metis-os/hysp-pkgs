@@ -771,80 +771,77 @@
 │ 501│ supervisord                      │ 450│ supervisord
 │ 502│ surf                             │ 451│ surf
 │ 503│ svg-hush                         │ 452│ svg-hush
-│ 504│-syncthing                        │    │
-│ 505│ systemctl-tui                    │ 453│ systemctl-tui
-│ 506│ systeroid                        │ 454│ systeroid
-│ 507│ t-rec                            │ 455│ t-rec
-│ 508│ tahm                             │ 456│ tahm
-│ 509│ tailscale                        │ 457│ tailscale
+│ 507│ t-rec                            │ 456│ t-rec
+│ 508│ tahm                             │ 457│ tahm
+│ 509│ tailscale                        │ 458│ tailscale
 │ 510│-tailscale_merged                 │    │
-│ 511│ tailscaled                       │ 458│ tailscaled
-│ 512│ tailspin                         │ 459│ tailspin
-│ 513│ taplo                            │ 460│ taplo
-│ 515│ tdl                              │ 462│ tdl
-│ 516│ tere                             │ 463│ tere
-│ 517│ termshark                        │ 464│ termshark
+│ 511│ tailscaled                       │ 459│ tailscaled
+│ 512│ tailspin                         │ 460│ tailspin
+│ 513│ taplo                            │ 461│ taplo
+│ 515│ tdl                              │ 463│ tdl
+│ 516│ tere                             │ 464│ tere
+│ 517│ termshark                        │ 465│ termshark
 │ 518│-tgpt                             │    │
 │ 519│-tidy-viewer                      │    │
-│ 520│ tldr                             │ 465│ tldr
+│ 520│ tldr                             │ 466│ tldr
 │ 521│-tlrc                             │    │
-│ 522│ tlsx                             │ 466│ tlsx
-│ 523│ tmate                            │ 467│ tmate
-│ 524│ tmux                             │ 468│ tmux
-│ 525│ tok                              │ 469│ tok
-│ 526│ tokei                            │ 470│ tokei
-│ 527│ toybox                           │ 471│ toybox
+│ 522│ tlsx                             │ 467│ tlsx
+│ 523│ tmate                            │ 468│ tmate
+│ 524│ tmux                             │ 469│ tmux
+│ 525│ tok                              │ 470│ tok
+│ 526│ tokei                            │ 471│ tokei
+│ 527│ toybox                           │ 472│ toybox
 │ 528│-traefik                          │    │
-│ 529│ trufflehog                       │ 472│ trufflehog
-│ 530│ try                              │ 473│ try
-│ 531│ tty2web                          │ 474│ tty2web
-│ 532│ ttyd                             │ 475│ ttyd
+│ 529│ trufflehog                       │ 473│ trufflehog
+│ 530│ try                              │ 474│ try
+│ 531│ tty2web                          │ 475│ tty2web
+│ 532│ ttyd                             │ 476│ ttyd
 │ 533│-tuiarchiver                      │    │
-│ 534│ tut                              │ 476│ tut
+│ 534│ tut                              │ 477│ tut
 │ 535│-twingate-client                  │    │
 │ 536│-twingate-connector               │    │
 │ 537│-twingate-connector-staticx       │    │
 │ 538│-twingate-connectorctl            │    │
 │ 539│-twingate-notifier                │    │
-│ 540│ txeh                             │ 477│ txeh
-│ 541│ tz                               │ 478│ tz
-│ 542│ u-root                           │ 479│ u-root
-│ 548│ upx                              │ 485│ upx
-│ 549│ usql                             │ 486│ usql
-│ 550│ v2raya                           │ 487│ v2raya
+│ 540│ txeh                             │ 478│ txeh
+│ 541│ tz                               │ 479│ tz
+│ 542│ u-root                           │ 480│ u-root
+│ 548│ upx                              │ 486│ upx
+│ 549│ usql                             │ 487│ usql
+│ 550│ v2raya                           │ 488│ v2raya
 │ 551│-v6disk                           │    │
 │ 552│-v6run                            │    │
-│ 553│ validtoml                        │ 488│ validtoml
-│ 554│ vegeta                           │ 489│ vegeta
-│ 555│ vhs                              │ 490│ vhs
-│ 568│ waybackurls                      │ 503│ waybackurls
-│ 569│ web-cache-vulnerability-scanner  │ 504│ web-cache-vulnerability-scanner
-│ 570│ websocat                         │ 505│ websocat
+│ 553│ validtoml                        │ 489│ validtoml
+│ 554│ vegeta                           │ 490│ vegeta
+│ 555│ vhs                              │ 491│ vhs
+│ 568│ waybackurls                      │ 504│ waybackurls
+│ 569│ web-cache-vulnerability-scanner  │ 505│ web-cache-vulnerability-scanner
+│ 570│ websocat                         │ 506│ websocat
 │ 571│-wego                             │    │
-│ 572│ wireguard-go                     │ 506│ wireguard-go
-│ 573│ wireguard-rs                     │ 507│ wireguard-rs
-│ 574│ wireproxy                        │ 508│ wireproxy
-│ 575│ wiretap                          │ 509│ wiretap
-│ 576│ wormhole-rs                      │ 510│ wormhole-rs
-│ 577│ wstunnel                         │ 511│ wstunnel
+│ 572│ wireguard-go                     │ 507│ wireguard-go
+│ 573│ wireguard-rs                     │ 508│ wireguard-rs
+│ 574│ wireproxy                        │ 509│ wireproxy
+│ 575│ wiretap                          │ 510│ wiretap
+│ 576│ wormhole-rs                      │ 511│ wormhole-rs
+│ 577│ wstunnel                         │ 512│ wstunnel
 │ 578│-wtf                              │    │
-│ 579│ wtfutil                          │ 512│ wtfutil
-│ 580│ wth                              │ 513│ wth
-│ 581│ x8                               │ 514│ x8
-│ 582│ xargs-rs                         │ 515│ xargs-rs
-│ 583│ xcp                              │ 516│ xcp
+│ 579│ wtfutil                          │ 513│ wtfutil
+│ 580│ wth                              │ 514│ wth
+│ 581│ x8                               │ 515│ x8
+│ 582│ xargs-rs                         │ 516│ xargs-rs
+│ 583│ xcp                              │ 517│ xcp
 │ 584│-xh                               │    │
-│ 585│ xplr                             │ 517│ xplr
-│ 586│ xurls                            │ 518│ xurls
-│ 587│ yalis                            │ 519│ yalis
-│ 588│ yataf                            │ 520│ yataf
-│ 589│ yazi                             │ 521│ yazi
+│ 585│ xplr                             │ 518│ xplr
+│ 586│ xurls                            │ 519│ xurls
+│ 587│ yalis                            │ 520│ yalis
+│ 588│ yataf                            │ 521│ yataf
+│ 589│ yazi                             │ 522│ yazi
 │ 590│-yip                              │    │
-│ 591│ yj                               │ 522│ yj
-│ 592│ yq                               │ 523│ yq
-│ 593│ zdns                             │ 524│ zdns
-│ 596│ zfxtop                           │ 527│ zfxtop
-│ 597│ zgrab2                           │ 528│ zgrab2
-│ 598│ zoxide                           │ 529│ zoxide
+│ 591│ yj                               │ 523│ yj
+│ 592│ yq                               │ 524│ yq
+│ 593│ zdns                             │ 525│ zdns
+│ 596│ zfxtop                           │ 528│ zfxtop
+│ 597│ zgrab2                           │ 529│ zgrab2
+│ 598│ zoxide                           │ 530│ zoxide
 
 │ 599│-zstd                             │    │

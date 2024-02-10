@@ -49,7 +49,6 @@
 │ 467│-sk-tmux                          │    │
 │ 479│-ssh                              │    │
 │ 500│-sunbeam                          │    │
-│ 504│-syncthing                        │    │
 │ 510│-tailscale_merged                 │    │
 │ 518│-tgpt                             │    │
 │ 519│-tidy-viewer                      │    │

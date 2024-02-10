@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 47536
+- **Stars:** 47539
 - **Version:** v0.2.59
 - **Updated:** 2024-02-01T22:35:59Z
 - **Size:** 15.3 MB
@@ -66,7 +66,7 @@
 - **Description:** Slice and dice logs on the command line
 - **Author:** rcoh
 - **Repository:** [https://github.com/rcoh/angle-grinder](https://github.com/rcoh/angle-grinder)
-- **Stars:** 2874
+- **Stars:** 2875
 - **Version:** v0.19.2
 - **Updated:** 2023-05-21T00:37:55Z
 - **Size:** 2.94 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 34988
+- **Stars:** 34989
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 60.73 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32822
+- **Stars:** 32823
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.45 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 15645
+- **Stars:** 15646
 - **Version:** v18.0.0
 - **Updated:** 2024-02-09T12:53:05Z
 - **Size:** 17.54 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 52085
+- **Stars:** 52084
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 39.5 MB
@@ -770,7 +770,7 @@
 - **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - **Author:** cloudreve
 - **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Stars:** 20307
+- **Stars:** 20305
 - **Version:** 3.8.3
 - **Updated:** 2023-10-07T12:30:31Z
 - **Size:** 33.89 MB
@@ -962,7 +962,7 @@
 - **Description:** The power of curl, the ease of use of httpie.
 - **Author:** rs
 - **Repository:** [https://github.com/rs/curlie](https://github.com/rs/curlie)
-- **Stars:** 2546
+- **Stars:** 2547
 - **Version:** v1.7.2
 - **Updated:** 2023-10-23T16:11:03Z
 - **Size:** 2.15 MB
@@ -1042,7 +1042,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19838
+- **Stars:** 19839
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.39 MB
@@ -1266,7 +1266,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 12026
+- **Stars:** 12027
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.24 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40867
+- **Stars:** 40868
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 50.02 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40867
+- **Stars:** 40868
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 49.95 MB
@@ -1618,7 +1618,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22634
+- **Stars:** 22635
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 14.58 MB
@@ -2578,7 +2578,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 18884
+- **Stars:** 18885
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.01 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 28196
+- **Stars:** 28198
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.71 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42651
+- **Stars:** 42652
 - **Version:** v1.65.2
 - **Updated:** 2024-01-24T16:28:08Z
 - **Size:** 55.46 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 43211
+- **Stars:** 43212
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.37 MB
@@ -4466,7 +4466,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 4623
+- **Stars:** 4624
 - **Version:** 3.0.0
 - **Updated:** 2024-01-21T13:36:52Z
 - **Size:** 2.92 MB
@@ -4482,7 +4482,7 @@
 - **Description:** 📥 A Telegram downloader/tools written in Golang
 - **Author:** iyear
 - **Repository:** [https://github.com/iyear/tdl](https://github.com/iyear/tdl)
-- **Stars:** 2913
+- **Stars:** 2915
 - **Version:** v0.15.1
 - **Updated:** 2024-02-01T06:09:45Z
 - **Size:** 34.3 MB
@@ -4786,7 +4786,7 @@
 - **Description:** HTTP load testing tool and library. It's over 9000!
 - **Author:** tsenart
 - **Repository:** [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-- **Stars:** 22472
+- **Stars:** 22473
 - **Version:** v12.11.1
 - **Updated:** 2023-10-02T09:08:28Z
 - **Size:** 10.21 MB
