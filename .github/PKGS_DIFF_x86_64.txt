@@ -30,7 +30,6 @@
 │ 277│-jira-cli                         │    │
 │ 300│-ladder                           │    │
 │ 313│-luet                             │    │
-│ 318│-mailpit                          │    │
 │ 323│-matterbridge                     │    │
 │ 331│-miniflux                         │    │
 │ 344│-ncat                             │    │
