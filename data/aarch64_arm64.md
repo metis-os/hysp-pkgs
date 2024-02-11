@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 35019
+- **Stars:** 35020
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 60.73 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 45109
+- **Stars:** 45110
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.18 MB
@@ -610,7 +610,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 52101
+- **Stars:** 52102
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 39.5 MB
@@ -786,7 +786,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 2005
+- **Stars:** 2006
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.35 MB
@@ -994,7 +994,7 @@
 - **Description:** 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - **Author:** hahwul
 - **Repository:** [https://github.com/hahwul/dalfox](https://github.com/hahwul/dalfox)
-- **Stars:** 3108
+- **Stars:** 3109
 - **Version:** v2.9.2
 - **Updated:** 2024-01-28T15:50:31Z
 - **Size:** 24.76 MB
@@ -1026,7 +1026,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1482
+- **Stars:** 1484
 - **Version:** DROPBEAR_2022.83
 - **Updated:** 2022-11-14T14:05:56Z
 - **Size:** 1.13 MB
@@ -1154,7 +1154,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1482
+- **Stars:** 1484
 - **Version:** DROPBEAR_2022.83
 - **Updated:** 2022-11-14T14:05:56Z
 - **Size:** 1.32 MB
@@ -1170,7 +1170,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1482
+- **Stars:** 1484
 - **Version:** DROPBEAR_2022.83
 - **Updated:** 2022-11-14T14:05:56Z
 - **Size:** 928.25 kB
@@ -1186,7 +1186,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1482
+- **Stars:** 1484
 - **Version:** DROPBEAR_2022.83
 - **Updated:** 2022-11-14T14:05:56Z
 - **Size:** 928.25 kB
@@ -1202,7 +1202,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1482
+- **Stars:** 1484
 - **Version:** DROPBEAR_2022.83
 - **Updated:** 2022-11-14T14:05:56Z
 - **Size:** 1.39 MB
@@ -1218,7 +1218,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1482
+- **Stars:** 1484
 - **Version:** DROPBEAR_2022.83
 - **Updated:** 2022-11-14T14:05:56Z
 - **Size:** 600.14 kB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 5340
+- **Stars:** 5341
 - **Version:** v0.18.2
 - **Updated:** 2024-02-08T18:14:43Z
 - **Size:** 1.6 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 30667
+- **Stars:** 30668
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.59 MB
@@ -1538,7 +1538,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40881
+- **Stars:** 40883
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 50.02 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Mirror of https://git.ffmpeg.org/ffmpeg.git
 - **Author:** FFmpeg
 - **Repository:** [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- **Stars:** 40881
+- **Stars:** 40883
 - **Version:** v0.6.1
 - **Updated:** null
 - **Size:** 49.95 MB
@@ -1842,7 +1842,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34528
+- **Stars:** 34529
 - **Version:** v2.43.1
 - **Updated:** 2024-01-31T21:16:59Z
 - **Size:** 43.22 MB
@@ -2610,7 +2610,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 2005
+- **Stars:** 2006
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.74 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15915
+- **Stars:** 15916
 - **Version:** 1.23.0
 - **Updated:** 2024-01-13T02:56:31Z
 - **Size:** 2.95 MB
@@ -2850,7 +2850,7 @@
 - **Description:** The lazier way to manage everything docker
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-- **Stars:** 32328
+- **Stars:** 32330
 - **Version:** v0.23.1
 - **Updated:** 2023-10-13T07:45:11Z
 - **Size:** 10.92 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 42746
+- **Stars:** 42749
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 15.47 MB
@@ -3202,7 +3202,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19844
+- **Stars:** 19846
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 546.7 kB
@@ -3234,7 +3234,7 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7707
+- **Stars:** 7708
 - **Version:** v0.25.6
 - **Updated:** 2024-02-05T16:33:19Z
 - **Size:** 27.69 MB
@@ -3250,7 +3250,7 @@
 - **Description:** A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 - **Author:** vdjagilev
 - **Repository:** [https://github.com/vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter)
-- **Stars:** 546
+- **Stars:** 547
 - **Version:** v2.1.6
 - **Updated:** 2023-12-02T12:20:02Z
 - **Size:** 4.26 MB
@@ -3410,7 +3410,7 @@
 - **Description:** Painless compression and decompression in the terminal
 - **Author:** ouch-org
 - **Repository:** [https://github.com/ouch-org/ouch](https://github.com/ouch-org/ouch)
-- **Stars:** 1852
+- **Stars:** 1854
 - **Version:** 0.5.1
 - **Updated:** 2023-12-05T22:42:47Z
 - **Size:** 4.32 MB
@@ -3794,7 +3794,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 43234
+- **Stars:** 43235
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.37 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 22996
+- **Stars:** 22998
 - **Version:** v0.2.1
 - **Updated:** 2024-02-05T22:46:26Z
 - **Size:** 17.4 MB
@@ -4434,7 +4434,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15359
+- **Stars:** 15360
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 10.92 MB
@@ -4450,7 +4450,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15359
+- **Stars:** 15360
 - **Version:** v1.58.2
 - **Updated:** 2024-01-23T22:41:49Z
 - **Size:** 20.48 MB
@@ -4466,7 +4466,7 @@
 - **Description:** 🌀 A log file highlighter
 - **Author:** bensadeh
 - **Repository:** [https://github.com/bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-- **Stars:** 4641
+- **Stars:** 4642
 - **Version:** 3.0.0
 - **Updated:** 2024-01-21T13:36:52Z
 - **Size:** 2.92 MB
@@ -4562,7 +4562,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 2005
+- **Stars:** 2006
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.36 MB
@@ -4738,7 +4738,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12964
+- **Stars:** 12965
 - **Version:** v4.2.2
 - **Updated:** 2024-01-03T18:33:34Z
 - **Size:** 575.78 kB
@@ -4802,7 +4802,7 @@
 - **Description:** Your CLI home video recorder 📼
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- **Stars:** 13108
+- **Stars:** 13109
 - **Version:** v0.7.1
 - **Updated:** 2023-12-12T19:50:53Z
 - **Size:** 24.27 MB
@@ -4946,7 +4946,7 @@
 - **Description:** Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
 - **Author:** Hackmanit
 - **Repository:** [https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
-- **Stars:** 768
+- **Stars:** 769
 - **Version:** 1.2.0
 - **Updated:** 2024-02-09T14:00:35Z
 - **Size:** 5.38 MB
@@ -5186,7 +5186,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15983
+- **Stars:** 15984
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 25.26 MB
