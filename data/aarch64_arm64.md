@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 47608
+- **Stars:** 47611
 - **Version:** v0.2.59
 - **Updated:** 2024-02-01T22:35:59Z
 - **Size:** 15.3 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 35010
+- **Stars:** 35011
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 60.73 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32830
+- **Stars:** 32831
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.45 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 15673
+- **Stars:** 15674
 - **Version:** v18.0.0
 - **Updated:** 2024-02-09T12:53:05Z
 - **Size:** 17.54 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 45100
+- **Stars:** 45102
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.18 MB
@@ -882,7 +882,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 25724
+- **Stars:** 25723
 - **Version:** v9.6.9
 - **Updated:** 2024-02-08T20:39:51Z
 - **Size:** 7.43 MB
@@ -946,7 +946,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 33227
+- **Stars:** 33228
 - **Version:** curl-8_6_0
 - **Updated:** 2024-01-31T07:15:55Z
 - **Size:** 7.38 MB
@@ -1042,7 +1042,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19842
+- **Stars:** 19843
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.39 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 5334
+- **Stars:** 5335
 - **Version:** v0.18.2
 - **Updated:** 2024-02-08T18:14:43Z
 - **Size:** 1.6 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 30660
+- **Stars:** 30661
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.59 MB
@@ -1730,7 +1730,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 57409
+- **Stars:** 57411
 - **Version:** 0.46.1
 - **Updated:** 2024-02-01T09:15:52Z
 - **Size:** 3.47 MB
@@ -2066,7 +2066,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 16350
+- **Stars:** 16349
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.82 MB
@@ -2194,7 +2194,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 14758
+- **Stars:** 14757
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.65 MB
@@ -2258,7 +2258,7 @@
 - **Description:** Ping, but with a graph
 - **Author:** orf
 - **Repository:** [https://github.com/orf/gping](https://github.com/orf/gping)
-- **Stars:** 10016
+- **Stars:** 10018
 - **Version:** gping-v1.16.0
 - **Updated:** 2023-11-29T19:16:00Z
 - **Size:** 2.44 MB
@@ -2530,7 +2530,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6463
+- **Stars:** 6464
 - **Version:** v1.3.9
 - **Updated:** 2024-01-24T11:17:45Z
 - **Size:** 37.97 MB
@@ -2962,7 +2962,7 @@
 - **Description:** A system information frontend with an emphasis on performance.
 - **Author:** Macchina-CLI
 - **Repository:** [https://github.com/Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
-- **Stars:** 1009
+- **Stars:** 1010
 - **Version:** v6.1.8
 - **Updated:** 2023-01-09T15:11:08Z
 - **Size:** 2.98 MB
@@ -3074,7 +3074,7 @@
 - **Description:** a featureful union filesystem
 - **Author:** trapexit
 - **Repository:** [https://github.com/trapexit/mergerfs](https://github.com/trapexit/mergerfs)
-- **Stars:** 3704
+- **Stars:** 3705
 - **Version:** 2.39.0
 - **Updated:** 2024-01-30T01:01:43Z
 - **Size:** 1.97 MB
@@ -3202,7 +3202,7 @@
 - **Description:** 🖼️ A command-line system information tool written in bash 3.2+
 - **Author:** dylanaraps
 - **Repository:** [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- **Stars:** 19838
+- **Stars:** 19839
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
 - **Size:** 546.7 kB
@@ -3234,7 +3234,7 @@
 - **Description:** Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - **Author:** netbirdio
 - **Repository:** [https://github.com/netbirdio/netbird](https://github.com/netbirdio/netbird)
-- **Stars:** 7703
+- **Stars:** 7704
 - **Version:** v0.25.6
 - **Updated:** 2024-02-05T16:33:19Z
 - **Size:** 27.69 MB
@@ -3282,7 +3282,7 @@
 - **Description:** Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/notify](https://github.com/projectdiscovery/notify)
-- **Stars:** 1128
+- **Stars:** 1129
 - **Version:** v1.0.6
 - **Updated:** 2024-02-08T09:54:09Z
 - **Size:** 18.48 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42659
+- **Stars:** 42661
 - **Version:** v1.65.2
 - **Updated:** 2024-01-24T16:28:08Z
 - **Size:** 55.46 MB
@@ -4322,7 +4322,7 @@
 - **Description:** Fast passive subdomain enumeration tool.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
-- **Stars:** 8903
+- **Stars:** 8904
 - **Version:** v2.6.5
 - **Updated:** 2024-02-05T11:38:57Z
 - **Size:** 27.31 MB
@@ -4738,7 +4738,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12960
+- **Stars:** 12961
 - **Version:** v4.2.2
 - **Updated:** 2024-01-03T18:33:34Z
 - **Size:** 575.78 kB
@@ -4850,7 +4850,7 @@
 - **Description:** Text-based desktop environment
 - **Author:** directvt
 - **Repository:** [https://github.com/directvt/vtm](https://github.com/directvt/vtm)
-- **Stars:** 1482
+- **Stars:** 1483
 - **Version:** v0.9.63
 - **Updated:** 2024-01-30T20:27:26Z
 - **Size:** 4.8 MB
@@ -5154,7 +5154,7 @@
 - **Description:** yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
 - **Author:** mikefarah
 - **Repository:** [https://github.com/mikefarah/yq](https://github.com/mikefarah/yq)
-- **Stars:** 10277
+- **Stars:** 10279
 - **Version:** v4.40.7
 - **Updated:** 2024-02-08T23:50:53Z
 - **Size:** 9.37 MB
@@ -5186,7 +5186,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 15970
+- **Stars:** 15971
 - **Version:** v0.39.2
 - **Updated:** 2023-11-29T10:58:39Z
 - **Size:** 25.26 MB
