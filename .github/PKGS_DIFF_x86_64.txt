@@ -6,65 +6,66 @@
 │ 28 │-awk                              │    │
 │ 29 │-aws-nuke                         │    │
 │ 36 │-bearer                           │    │
-│ 47 │-bombadillo                       │    │
-│ 63 │-certgraph                        │    │
-│ 66 │-certstream-server-go             │    │
-│ 67 │-certwatcher                      │    │
-│ 78 │-cheat                            │    │
-│ 85 │-cloudfox                         │    │
-│ 93 │-cowitness                        │    │
-│ 94 │-cowsay                           │    │
-│ 95 │-cowthink                         │    │
-│ 121│-dizi                             │    │
-│ 122│-dizi-server                      │    │
-│ 148│-edgevpn                          │    │
-│ 163│-falconhound                      │    │
-│ 174│-ffufw                            │    │
-│ 218│-goawk                            │    │
-│ 231│-gotld                            │    │
-│ 240│-gum                              │    │
-│ 249│-hardeningmeter_staticx           │    │
-│ 260│-hugo                             │    │
-│ 267│-interactsh-server                │    │
-│ 268│-invidtui                         │    │
-│ 277│-jira-cli                         │    │
-│ 300│-ladder                           │    │
-│ 313│-luet                             │    │
-│ 323│-matterbridge                     │    │
-│ 331│-miniflux                         │    │
-│ 344│-ncat                             │    │
-│ 345│-ncdu                             │    │
-│ 350│-nginx                            │    │
-│ 351│-ngocok                           │    │
-│ 352│-ngrok                            │    │
-│ 354│-njs                              │    │
-│ 357│-nmctl                            │    │
-│ 361│-nping                            │    │
-│ 362│-nrich                            │    │
-│ 366│-nushell                          │    │
-│ 378│-pfetch-rs                        │    │
-│ 385│-podsync                          │    │
-│ 415│-rekor                            │    │
-│ 421│-resdns                           │    │
-│ 453│-scp                              │    │
-│ 468│-sk-tmux                          │    │
-│ 480│-ssh                              │    │
-│ 501│-sunbeam                          │    │
-│ 511│-tailscale_merged                 │    │
-│ 519│-tgpt                             │    │
-│ 520│-tidy-viewer                      │    │
-│ 522│-tlrc                             │    │
-│ 529│-traefik                          │    │
-│ 534│-tuiarchiver                      │    │
-│ 536│-twingate-client                  │    │
-│ 537│-twingate-connector               │    │
-│ 538│-twingate-connector-staticx       │    │
-│ 539│-twingate-connectorctl            │    │
-│ 540│-twingate-notifier                │    │
-│ 552│-v6disk                           │    │
-│ 553│-v6run                            │    │
-│ 572│-wego                             │    │
-│ 579│-wtf                              │    │
-│ 585│-xh                               │    │
-│ 591│-yip                              │    │
-│ 600│-zstd                             │    │
+│ 40 │-binary-security-check            │    │
+│ 48 │-bombadillo                       │    │
+│ 64 │-certgraph                        │    │
+│ 67 │-certstream-server-go             │    │
+│ 68 │-certwatcher                      │    │
+│ 79 │-cheat                            │    │
+│ 86 │-cloudfox                         │    │
+│ 94 │-cowitness                        │    │
+│ 95 │-cowsay                           │    │
+│ 96 │-cowthink                         │    │
+│ 122│-dizi                             │    │
+│ 123│-dizi-server                      │    │
+│ 149│-edgevpn                          │    │
+│ 164│-falconhound                      │    │
+│ 175│-ffufw                            │    │
+│ 219│-goawk                            │    │
+│ 232│-gotld                            │    │
+│ 241│-gum                              │    │
+│ 250│-hardeningmeter_staticx           │    │
+│ 261│-hugo                             │    │
+│ 268│-interactsh-server                │    │
+│ 269│-invidtui                         │    │
+│ 278│-jira-cli                         │    │
+│ 301│-ladder                           │    │
+│ 314│-luet                             │    │
+│ 324│-matterbridge                     │    │
+│ 332│-miniflux                         │    │
+│ 345│-ncat                             │    │
+│ 346│-ncdu                             │    │
+│ 351│-nginx                            │    │
+│ 352│-ngocok                           │    │
+│ 353│-ngrok                            │    │
+│ 355│-njs                              │    │
+│ 358│-nmctl                            │    │
+│ 362│-nping                            │    │
+│ 363│-nrich                            │    │
+│ 367│-nushell                          │    │
+│ 379│-pfetch-rs                        │    │
+│ 386│-podsync                          │    │
+│ 416│-rekor                            │    │
+│ 422│-resdns                           │    │
+│ 454│-scp                              │    │
+│ 469│-sk-tmux                          │    │
+│ 481│-ssh                              │    │
+│ 502│-sunbeam                          │    │
+│ 512│-tailscale_merged                 │    │
+│ 520│-tgpt                             │    │
+│ 521│-tidy-viewer                      │    │
+│ 523│-tlrc                             │    │
+│ 530│-traefik                          │    │
+│ 535│-tuiarchiver                      │    │
+│ 537│-twingate-client                  │    │
+│ 538│-twingate-connector               │    │
+│ 539│-twingate-connector-staticx       │    │
+│ 540│-twingate-connectorctl            │    │
+│ 541│-twingate-notifier                │    │
+│ 553│-v6disk                           │    │
+│ 554│-v6run                            │    │
+│ 573│-wego                             │    │
+│ 580│-wtf                              │    │
+│ 586│-xh                               │    │
+│ 592│-yip                              │    │
+│ 601│-zstd                             │    │
