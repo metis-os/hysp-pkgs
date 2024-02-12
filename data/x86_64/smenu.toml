@@ -22,5 +22,5 @@ conflicts  = ["smenu"]
 requires = []
 
 [package.metadata]
-keywords = ["cli","command-line","command-line-interface","console","interactive","menus","selection","shell","shell-scripts","terminal","tui"]
+keywords = ["c","cli","command-line","command-line-interface","console","interactive","menus","selection","shell","shell-scripts","terminal","tui"]
 categories = ["Utilities"]

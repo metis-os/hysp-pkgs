@@ -5,70 +5,82 @@
 │ 21 │-aretext                          │    │
 │ 28 │-awk                              │    │
 │ 29 │-aws-nuke                         │    │
-│ 36 │-bearer                           │    │
-│ 40 │-binary-security-check            │    │
-│ 48 │-bombadillo                       │    │
-│ 64 │-certgraph                        │    │
-│ 67 │-certstream-server-go             │    │
-│ 68 │-certwatcher                      │    │
-│ 79 │-cheat                            │    │
-│ 86 │-cloudfox                         │    │
-│ 94 │-cowitness                        │    │
-│ 95 │-cowsay                           │    │
-│ 96 │-cowthink                         │    │
-│ 122│-dizi                             │    │
-│ 123│-dizi-server                      │    │
-│ 149│-edgevpn                          │    │
-│ 164│-falconhound                      │    │
-│ 175│-ffufw                            │    │
-│ 219│-goawk                            │    │
-│ 232│-gotld                            │    │
-│ 241│-gum                              │    │
-│ 250│-hardeningmeter_staticx           │    │
-│ 261│-hugo                             │    │
-│ 268│-interactsh-server                │    │
-│ 269│-invidtui                         │    │
-│ 278│-jira-cli                         │    │
-│ 301│-ladder                           │    │
-│ 314│-luet                             │    │
-│ 324│-matterbridge                     │    │
-│ 332│-miniflux                         │    │
-│ 345│-ncat                             │    │
-│ 346│-ncdu                             │    │
-│ 351│-nginx                            │    │
-│ 352│-ngocok                           │    │
-│ 353│-ngrok                            │    │
-│ 355│-njs                              │    │
-│ 358│-nmctl                            │    │
-│ 362│-nping                            │    │
-│ 363│-nrich                            │    │
-│ 367│-nushell                          │    │
-│ 379│-pfetch-rs                        │    │
-│ 386│-podsync                          │    │
-│ 416│-rekor                            │    │
-│ 417│-rekor-cli                        │    │
-│ 418│-rekor-server                     │    │
-│ 424│-resdns                           │    │
-│ 456│-scp                              │    │
-│ 471│-sk-tmux                          │    │
-│ 483│-ssh                              │    │
-│ 504│-sunbeam                          │    │
-│ 514│-tailscale_merged                 │    │
-│ 522│-tgpt                             │    │
-│ 523│-tidy-viewer                      │    │
-│ 525│-tlrc                             │    │
-│ 532│-traefik                          │    │
-│ 537│-tuiarchiver                      │    │
-│ 539│-twingate-client                  │    │
-│ 540│-twingate-connector               │    │
-│ 541│-twingate-connector-staticx       │    │
-│ 542│-twingate-connectorctl            │    │
-│ 543│-twingate-notifier                │    │
-│ 555│-v6disk                           │    │
-│ 556│-v6run                            │    │
-│ 575│-wego                             │    │
-│ 582│-wtf                              │    │
-│ 588│-xh                               │    │
-│ 594│-yip                              │    │
-│ 597│-z                                │    │
-│ 604│-zstd                             │    │
+│ 36 │-bdl.sh                           │    │
+│ 37 │-bearer                           │    │
+│ 40 │-bigdl                            │    │
+│ 42 │-binary-security-check            │    │
+│ 50 │-bombadillo                       │    │
+│ 66 │-certgraph                        │    │
+│ 69 │-certstream-server-go             │    │
+│ 70 │-certwatcher                      │    │
+│ 81 │-cheat                            │    │
+│ 88 │-cloudfox                         │    │
+│ 96 │-cowitness                        │    │
+│ 97 │-cowsay                           │    │
+│ 98 │-cowthink                         │    │
+│ 124│-dizi                             │    │
+│ 125│-dizi-server                      │    │
+│ 151│-ecoji                            │    │
+│ 152│-edgevpn                          │    │
+│ 157│-elvish                           │    │
+│ 168│-falconhound                      │    │
+│ 179│-ffufw                            │    │
+│ 223│-goawk                            │    │
+│ 236│-gotld                            │    │
+│ 241│-grex                             │    │
+│ 246│-gum                              │    │
+│ 255│-hardeningmeter_staticx           │    │
+│ 266│-hugo                             │    │
+│ 273│-interactsh-server                │    │
+│ 274│-invidtui                         │    │
+│ 283│-jira-cli                         │    │
+│ 294│-kakoune                          │    │
+│ 307│-ladder                           │    │
+│ 320│-luet                             │    │
+│ 330│-matterbridge                     │    │
+│ 335│-meli                             │    │
+│ 339│-miniflux                         │    │
+│ 352│-ncat                             │    │
+│ 353│-ncdu                             │    │
+│ 358│-nginx                            │    │
+│ 359│-ngocok                           │    │
+│ 360│-ngrok                            │    │
+│ 362│-njs                              │    │
+│ 365│-nmctl                            │    │
+│ 369│-nping                            │    │
+│ 370│-nrich                            │    │
+│ 374│-nushell                          │    │
+│ 386│-pfetch-rs                        │    │
+│ 390│-pier                             │    │
+│ 394│-podsync                          │    │
+│ 424│-rekor                            │    │
+│ 425│-rekor-cli                        │    │
+│ 426│-rekor-server                     │    │
+│ 432│-resdns                           │    │
+│ 464│-scp                              │    │
+│ 479│-sk-tmux                          │    │
+│ 484│-sn0int                           │    │
+│ 492│-ssh                              │    │
+│ 510│-su-rs                            │    │
+│ 514│-sudo-rs                          │    │
+│ 515│-sunbeam                          │    │
+│ 525│-tailscale_merged                 │    │
+│ 533│-tgpt                             │    │
+│ 534│-tidy-viewer                      │    │
+│ 536│-tlrc                             │    │
+│ 543│-traefik                          │    │
+│ 548│-tuiarchiver                      │    │
+│ 550│-twingate-client                  │    │
+│ 551│-twingate-connector               │    │
+│ 552│-twingate-connector-staticx       │    │
+│ 553│-twingate-connectorctl            │    │
+│ 554│-twingate-notifier                │    │
+│ 566│-v6disk                           │    │
+│ 567│-v6run                            │    │
+│ 573│-visudo-rs                        │    │
+│ 587│-wego                             │    │
+│ 594│-wtf                              │    │
+│ 600│-xh                               │    │
+│ 606│-yip                              │    │
+│ 609│-z                                │    │
+│ 616│-zstd                             │    │
