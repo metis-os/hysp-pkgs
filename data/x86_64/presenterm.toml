@@ -4,7 +4,7 @@ name = "presenterm"
 [package]
 architecture = "x86_64"
 name = "presenterm"
-description = "A terminal slideshow tool"
+description = "A markdown terminal slideshow tool"
 author = "mfontanini"
 repo = "https://github.com/mfontanini/presenterm"
 stars = "620"
