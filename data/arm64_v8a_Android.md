@@ -179,8 +179,8 @@
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
 - **Stars:** 6468
-- **Version:** v1.3.9
-- **Updated:** 2024-01-24T11:17:45Z
+- **Version:** v1.4.0
+- **Updated:** 2024-02-12T15:23:09Z
 - **Size:** 42.14 MB
 - **SHASUM:** 879d336d3cae235efab2a0d678d70bb0fa662bb4075b49e0924089d4dafd6c73
 - **B3SUM:** 6314f8359f10ed6e57a9338f563b965e6dfcd7c54760e9d6081c7a1aadb14a9b
