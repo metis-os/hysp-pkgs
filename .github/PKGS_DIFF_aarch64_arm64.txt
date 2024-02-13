@@ -188,7 +188,6 @@
 │ 486│-v2raya                           │    │
 │ 487│-v6disk                           │    │
 │ 488│-v6run                            │    │
-│ 490│-vegeta                           │    │
 │ 493│-viu                              │    │
 │ 494│-volta                            │    │
 │ 497│-vultr-cli                        │    │
