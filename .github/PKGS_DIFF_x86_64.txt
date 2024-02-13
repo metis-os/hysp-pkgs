@@ -57,7 +57,6 @@
 │ 425│-rekor                            │    │
 │ 426│-rekor-cli                        │    │
 │ 427│-rekor-server                     │    │
-│ 428│-relic                            │    │
 │ 433│-resdns                           │    │
 │ 465│-scp                              │    │
 │ 480│-sk-tmux                          │    │
