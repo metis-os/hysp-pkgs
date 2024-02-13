@@ -463,46 +463,46 @@
 │ 487│-v6disk                           │    │
 │ 488│-v6run                            │    │
 │ 489│ validtoml                        │ 299│ validtoml
-│ 490│ vegeta                           │ 300│ vegeta
-│ 491│ vhs                              │ 301│ vhs
-│ 492│ viddy                            │ 302│ viddy
+│ 490│-vegeta                           │    │
+│ 491│ vhs                              │ 300│ vhs
+│ 492│ viddy                            │ 301│ viddy
 │ 493│-viu                              │    │
 │ 494│-volta                            │    │
-│ 495│ vopono                           │ 303│ vopono
-│ 496│ vtm                              │ 304│ vtm
+│ 495│ vopono                           │ 302│ vopono
+│ 496│ vtm                              │ 303│ vtm
 │ 497│-vultr-cli                        │    │
-│ 498│ wadl-dumper                      │ 305│ wadl-dumper
-│ 499│ walk                             │ 306│ walk
+│ 498│ wadl-dumper                      │ 304│ wadl-dumper
+│ 499│ walk                             │ 305│ walk
 │ 500│-wasminspect                      │    │
-│ 501│ watchexec                        │ 307│ watchexec
-│ 502│ waybackrobots                    │ 308│ waybackrobots
-│ 503│ waybackurls                      │ 309│ waybackurls
-│ 504│ web-cache-vulnerability-scanner  │ 310│ web-cache-vulnerability-scanner
-│ 505│ websocat                         │ 311│ websocat
+│ 501│ watchexec                        │ 306│ watchexec
+│ 502│ waybackrobots                    │ 307│ waybackrobots
+│ 503│ waybackurls                      │ 308│ waybackurls
+│ 504│ web-cache-vulnerability-scanner  │ 309│ web-cache-vulnerability-scanner
+│ 505│ websocat                         │ 310│ websocat
 │ 506│-wego                             │    │
-│ 507│ wireguard-go                     │ 312│ wireguard-go
-│ 508│ wireproxy                        │ 313│ wireproxy
-│ 509│ wiretap                          │ 314│ wiretap
-│ 510│ wormhole-rs                      │ 315│ wormhole-rs
+│ 507│ wireguard-go                     │ 311│ wireguard-go
+│ 508│ wireproxy                        │ 312│ wireproxy
+│ 509│ wiretap                          │ 313│ wiretap
+│ 510│ wormhole-rs                      │ 314│ wormhole-rs
 │ 511│-wstunnel                         │    │
-│ 512│ wtfutil                          │ 316│ wtfutil
+│ 512│ wtfutil                          │ 315│ wtfutil
 │ 513│-wth                              │    │
-│ 514│ xargs-rs                         │ 317│ xargs-rs
+│ 514│ xargs-rs                         │ 316│ xargs-rs
 │ 515│-xh                               │    │
-│ 516│ xplr                             │ 318│ xplr
-│ 517│ xurls                            │ 319│ xurls
-│ 518│ yalis                            │ 320│ yalis
-│ 519│ yataf                            │ 321│ yataf
+│ 516│ xplr                             │ 317│ xplr
+│ 517│ xurls                            │ 318│ xurls
+│ 518│ yalis                            │ 319│ yalis
+│ 519│ yataf                            │ 320│ yataf
 │ 520│-yazi                             │    │
 │ 521│-yip                              │    │
-│ 522│ yj                               │ 322│ yj
-│ 523│ yq                               │ 323│ yq
-│ 524│ zdns                             │ 324│ zdns
-│ 525│ zellij                           │ 325│ zellij
-│ 526│ zenith                           │ 326│ zenith
+│ 522│ yj                               │ 321│ yj
+│ 523│ yq                               │ 322│ yq
+│ 524│ zdns                             │ 323│ zdns
+│ 525│ zellij                           │ 324│ zellij
+│ 526│ zenith                           │ 325│ zenith
 │ 527│-zfxtop                           │    │
-│ 528│ zgrab2                           │ 327│ zgrab2
-│ 529│ zoxide                           │ 328│ zoxide
+│ 528│ zgrab2                           │ 326│ zgrab2
+│ 529│ zoxide                           │ 327│ zoxide
 
 
 
