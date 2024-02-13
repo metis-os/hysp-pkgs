@@ -22,5 +22,5 @@ conflicts  = ["qbittorrent-nox"]
 requires = []
 
 [package.metadata]
-keywords = ["alpine","alpine-linux","b2","bash","bash-script","boost","cmake","debian","debian-linux","docker","libtorrent","libtorrent-rasterbar","qbittorrent","qbittorrent-nox","qmake","static","ubuntu","ubuntu-linux","wsl2"]
+keywords = ["bash","bash-script","libtorrent","qbittorrent-nox","static"]
 categories = ["Utilities"]
