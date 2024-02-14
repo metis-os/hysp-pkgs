@@ -22,5 +22,5 @@ conflicts  = ["lnav"]
 requires = []
 
 [package.metadata]
-keywords = ["command-line-tool","less","log-analysis","log-monitor","logging","more","pager","tail","terminal","terminal-pager","tui"]
+keywords = ["command-line-tool","less","log-analysis","log-monitor","log-viewer","log-visualization","logging","more","pager","tail","terminal","terminal-pager","tui"]
 categories = ["Utilities"]
