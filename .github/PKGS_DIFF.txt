@@ -895,23 +895,24 @@
 │ 600│ x8                               │ 515│ x8
 │ 601│ xargs-rs                         │ 516│ xargs-rs
 │ 602│ xcp                              │ 517│ xcp
-│ 603│-xetcmd                           │    │
-│ 604│-xetmnt                           │    │
-│ 605│-xh                               │    │
-│ 606│ xplr                             │ 518│ xplr
-│ 607│ xurls                            │ 519│ xurls
-│ 608│ yalis                            │ 520│ yalis
-│ 609│ yataf                            │ 521│ yataf
-│ 610│ yazi                             │ 522│ yazi
-│ 611│-yip                              │    │
-│ 612│ yj                               │ 523│ yj
-│ 613│ yq                               │ 524│ yq
-│ 614│-z                                │    │
-│ 615│ zdns                             │ 525│ zdns
-│ 616│ zellij                           │ 526│ zellij
-│ 617│ zenith                           │ 527│ zenith
-│ 618│ zfxtop                           │ 528│ zfxtop
-│ 619│ zgrab2                           │ 529│ zgrab2
-│ 620│ zoxide                           │ 530│ zoxide
+│ 603│-xet_staticx                      │    │
+│ 604│-xetcmd                           │    │
+│ 605│-xetmnt                           │    │
+│ 606│-xh                               │    │
+│ 607│ xplr                             │ 518│ xplr
+│ 608│ xurls                            │ 519│ xurls
+│ 609│ yalis                            │ 520│ yalis
+│ 610│ yataf                            │ 521│ yataf
+│ 611│ yazi                             │ 522│ yazi
+│ 612│-yip                              │    │
+│ 613│ yj                               │ 523│ yj
+│ 614│ yq                               │ 524│ yq
+│ 615│-z                                │    │
+│ 616│ zdns                             │ 525│ zdns
+│ 617│ zellij                           │ 526│ zellij
+│ 618│ zenith                           │ 527│ zenith
+│ 619│ zfxtop                           │ 528│ zfxtop
+│ 620│ zgrab2                           │ 529│ zgrab2
+│ 621│ zoxide                           │ 530│ zoxide
 
-│ 621│-zstd                             │    │
+│ 622│-zstd                             │    │
