@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 47758
+- **Stars:** 47760
 - **Version:** v0.2.59
 - **Updated:** 2024-02-01T22:35:59Z
 - **Size:** 15.3 MB
@@ -34,7 +34,7 @@
 - **Description:** :octocat: Static checker for GitHub Actions workflow files
 - **Author:** rhysd
 - **Repository:** [https://github.com/rhysd/actionlint](https://github.com/rhysd/actionlint)
-- **Stars:** 2224
+- **Stars:** 2225
 - **Version:** v1.6.26
 - **Updated:** 2023-09-18T14:05:44Z
 - **Size:** 4.84 MB
@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 35054
+- **Stars:** 35055
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 60.73 MB
@@ -290,7 +290,7 @@
 - **Description:** ✨ Magical shell history
 - **Author:** atuinsh
 - **Repository:** [https://github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Stars:** 15729
+- **Stars:** 15732
 - **Version:** v18.0.1
 - **Updated:** 2024-02-12T08:39:25Z
 - **Size:** 17.54 MB
@@ -306,7 +306,7 @@
 - **Description:** the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - **Author:** BLAKE3-team
 - **Repository:** [https://github.com/BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-- **Stars:** 4462
+- **Stars:** 4463
 - **Version:** 1.5.0
 - **Updated:** 2023-09-21T03:35:48Z
 - **Size:** 771.7 kB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 45165
+- **Stars:** 45167
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.18 MB
@@ -498,7 +498,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8419
+- **Stars:** 8420
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.86 MB
@@ -530,7 +530,7 @@
 - **Description:** A new way to see and navigate directory trees : https://dystroy.org/broot
 - **Author:** Canop
 - **Repository:** [https://github.com/Canop/broot](https://github.com/Canop/broot)
-- **Stars:** 9796
+- **Stars:** 9797
 - **Version:** v1.33.1
 - **Updated:** 2024-02-03T19:14:59Z
 - **Size:** 7.77 MB
@@ -546,7 +546,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 15087
+- **Stars:** 15089
 - **Version:** v1.3.2
 - **Updated:** 2024-02-12T15:30:15Z
 - **Size:** 2.28 MB
@@ -642,7 +642,7 @@
 - **Description:** Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - **Author:** xm1k3
 - **Repository:** [https://github.com/xm1k3/cent](https://github.com/xm1k3/cent)
-- **Stars:** 745
+- **Stars:** 746
 - **Version:** v1.3.3
 - **Updated:** 2023-12-13T15:28:03Z
 - **Size:** 12.42 MB
@@ -1074,7 +1074,7 @@
 - **Description:** unclutter your .profile
 - **Author:** direnv
 - **Repository:** [https://github.com/direnv/direnv](https://github.com/direnv/direnv)
-- **Stars:** 11395
+- **Stars:** 11394
 - **Version:** v2.33.0
 - **Updated:** 2023-11-29T14:05:45Z
 - **Size:** 6.42 MB
@@ -1442,7 +1442,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 5418
+- **Stars:** 5420
 - **Version:** v0.18.2
 - **Updated:** 2024-02-08T18:14:43Z
 - **Size:** 1.6 MB
@@ -1570,7 +1570,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 10999
+- **Stars:** 11000
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 7.82 MB
@@ -1618,7 +1618,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22679
+- **Stars:** 22680
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 14.58 MB
@@ -2066,7 +2066,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 16367
+- **Stars:** 16369
 - **Version:** v0.24.3
 - **Updated:** 2023-09-09T09:14:43Z
 - **Size:** 8.82 MB
@@ -2530,7 +2530,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6485
+- **Stars:** 6486
 - **Version:** v1.4.0
 - **Updated:** 2024-02-12T15:23:09Z
 - **Size:** 37.97 MB
@@ -2578,7 +2578,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 18932
+- **Stars:** 18933
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.01 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 28284
+- **Stars:** 28285
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.71 MB
@@ -2706,7 +2706,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15963
+- **Stars:** 15964
 - **Version:** 1.24.0
 - **Updated:** 2024-02-11T19:51:34Z
 - **Size:** 2.95 MB
@@ -2754,7 +2754,7 @@
 - **Description:** A next-generation crawling and spidering framework.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/katana](https://github.com/projectdiscovery/katana)
-- **Stars:** 8086
+- **Stars:** 8087
 - **Version:** v1.0.5
 - **Updated:** 2024-01-11T22:04:21Z
 - **Size:** 35 MB
@@ -2818,7 +2818,7 @@
 - **Description:**  Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - **Author:** kopia
 - **Repository:** [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
-- **Stars:** 5848
+- **Stars:** 5849
 - **Version:** v0.15.0
 - **Updated:** 2023-10-22T03:20:50Z
 - **Size:** 34.69 MB
@@ -2866,7 +2866,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 42826
+- **Stars:** 42830
 - **Version:** v0.40.2
 - **Updated:** 2023-08-07T14:12:54Z
 - **Size:** 15.47 MB
@@ -2930,7 +2930,7 @@
 - **Description:** 👾 Fast and simple video download library and CLI tool written in Go
 - **Author:** iawia002
 - **Repository:** [https://github.com/iawia002/lux](https://github.com/iawia002/lux)
-- **Stars:** 23160
+- **Stars:** 23159
 - **Version:** v0.22.0
 - **Updated:** 2023-11-06T05:54:09Z
 - **Size:** 17.29 MB
@@ -3474,7 +3474,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 20864
+- **Stars:** 20866
 - **Version:** v4.9.3
 - **Updated:** 2024-02-13T22:38:32Z
 - **Size:** 27.98 MB
@@ -3634,7 +3634,7 @@
 - **Description:** Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - **Author:** d3mondev
 - **Repository:** [https://github.com/d3mondev/puredns](https://github.com/d3mondev/puredns)
-- **Stars:** 1507
+- **Stars:** 1508
 - **Version:** v2.1.1
 - **Updated:** 2023-04-11T18:09:27Z
 - **Size:** 7.4 MB
@@ -3682,7 +3682,7 @@
 - **Description:**  analyzed.
 - **Author:** jqnatividad
 - **Repository:** [https://github.com/jqnatividad/qsv](https://github.com/jqnatividad/qsv)
-- **Stars:** 2116
+- **Stars:** 2117
 - **Version:** 0.122.0
 - **Updated:** 2024-01-17T04:54:24Z
 - **Size:** 12.14 MB
@@ -3714,7 +3714,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42701
+- **Stars:** 42702
 - **Version:** v1.65.2
 - **Updated:** 2024-01-24T16:28:08Z
 - **Size:** 55.46 MB
@@ -3906,7 +3906,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 23083
+- **Stars:** 23082
 - **Version:** v0.2.1
 - **Updated:** 2024-02-05T22:46:26Z
 - **Size:** 17.4 MB
@@ -4082,7 +4082,7 @@
 - **Description:** A shell parser, formatter, and interpreter with bash support; includes shfmt
 - **Author:** mvdan
 - **Repository:** [https://github.com/mvdan/sh](https://github.com/mvdan/sh)
-- **Stars:** 6510
+- **Stars:** 6511
 - **Version:** v3.8.0
 - **Updated:** 2024-02-11T12:45:10Z
 - **Size:** 2.87 MB
@@ -4098,7 +4098,7 @@
 - **Description:** An IIS short filename enumeration tool
 - **Author:** bitquark
 - **Repository:** [https://github.com/bitquark/shortscan](https://github.com/bitquark/shortscan)
-- **Stars:** 433
+- **Stars:** 434
 - **Version:** v0.6.2
 - **Updated:** 2023-07-31T20:04:07Z
 - **Size:** 9.56 MB
@@ -4258,7 +4258,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 39281
+- **Stars:** 39280
 - **Version:** v1.17.1
 - **Updated:** 2024-01-02T18:30:02Z
 - **Size:** 8.15 MB
@@ -4738,7 +4738,7 @@
 - **Description:** UPX - the Ultimate Packer for eXecutables
 - **Author:** upx
 - **Repository:** [https://github.com/upx/upx](https://github.com/upx/upx)
-- **Stars:** 12988
+- **Stars:** 12989
 - **Version:** v4.2.2
 - **Updated:** 2024-01-03T18:33:34Z
 - **Size:** 575.78 kB
@@ -4786,7 +4786,7 @@
 - **Description:** HTTP load testing tool and library. It's over 9000!
 - **Author:** tsenart
 - **Repository:** [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-- **Stars:** 22482
+- **Stars:** 22483
 - **Version:** v12.11.1
 - **Updated:** 2023-10-02T09:08:28Z
 - **Size:** 10.21 MB
@@ -4962,7 +4962,7 @@
 - **Description:** Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - **Author:** vi
 - **Repository:** [https://github.com/vi/websocat](https://github.com/vi/websocat)
-- **Stars:** 6303
+- **Stars:** 6304
 - **Version:** v1.12.0
 - **Updated:** 2023-09-17T15:00:07Z
 - **Size:** 4.98 MB
@@ -5202,7 +5202,7 @@
 - **Description:** Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - **Author:** bvaisvil
 - **Repository:** [https://github.com/bvaisvil/zenith](https://github.com/bvaisvil/zenith)
-- **Stars:** 2067
+- **Stars:** 2068
 - **Version:** 0.14.0
 - **Updated:** 2023-02-24T22:01:18Z
 - **Size:** 1.31 MB
