@@ -1,0 +1,26 @@
+[bin]
+name = "certwatcher"
+
+[package]
+architecture = "x86_64"
+name = "certwatcher"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "15.17 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/certwatcher"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["certwatcher"]
+requires = []
+
+[package.metadata]
+keywords = 
+categories = ["Utilities"]
