@@ -130,7 +130,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 35070
+- **Stars:** 35071
 - **Version:** v3.30.0
 - **Updated:** 2024-01-05T08:34:13Z
 - **Size:** 60.73 MB
@@ -210,7 +210,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 32856
+- **Stars:** 32857
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 8.45 MB
@@ -382,6 +382,22 @@
 
 ---
 
+### berty
+- **Description:** Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- **Author:** berty
+- **Repository:** [https://github.com/berty/berty](https://github.com/berty/berty)
+- **Stars:** 7202
+- **Version:** v2.469.9
+- **Updated:** 2023-12-11T12:38:47Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Go
+- **License:** Other
+
+---
+
 ### bin
 - **Description:** Effortless binary manager
 - **Author:** marcosnils
@@ -510,6 +526,22 @@
 
 ---
 
+### boxxy
+- **Description:** boxxy puts bad Linux applications in a box with only their files.
+- **Author:** queer
+- **Repository:** [https://github.com/queer/boxxy](https://github.com/queer/boxxy)
+- **Stars:** 1176
+- **Version:** v0.8.4
+- **Updated:** 2023-12-21T17:07:01Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### brename
 - **Description:** A practical cross-platform command-line tool for safely batch renaming files/directories via regular expression
 - **Author:** shenwei356
@@ -546,7 +578,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 15103
+- **Stars:** 15104
 - **Version:** v1.3.2
 - **Updated:** 2024-02-12T15:30:15Z
 - **Size:** 2.28 MB
@@ -770,7 +802,7 @@
 - **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - **Author:** cloudreve
 - **Repository:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Stars:** 20339
+- **Stars:** 20340
 - **Version:** 3.8.3
 - **Updated:** 2023-10-07T12:30:31Z
 - **Size:** 33.89 MB
@@ -814,19 +846,51 @@
 
 ---
 
+### coreutils
+- **Description:** Cross-platform Rust rewrite of the GNU coreutils
+- **Author:** uutils
+- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
+- **Stars:** 16442
+- **Version:** 0.0.24
+- **Updated:** 2024-01-25T22:49:24Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### cotp
 - **Description:** Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 - **Author:** replydev
 - **Repository:** [https://github.com/replydev/cotp](https://github.com/replydev/cotp)
 - **Stars:** 141
-- **Version:** v1.4.2
-- **Updated:** 2024-02-15T00:27:57Z
+- **Version:** 1.4.3
+- **Updated:** 2024-02-15T00:36:13Z
 - **Size:** 2 MB
 - **SHA256SUM:** 4e2e621fb7f4a0f2167f554cfbad565723162e2aa5169a5d454149f636b24ad5
 - **B3SUM:** eadae79af043a640889c07cc12f18489ffc7e4ab644f22975dafb885ef843e0f
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/cotp
 - **Language:** Rust
 - **License:** GNU General Public License v3.0
+
+---
+
+### cowtiness
+- **Description:** CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
+- **Author:** stolenusername
+- **Repository:** [https://github.com/stolenusername/cowitness](https://github.com/stolenusername/cowitness)
+- **Stars:** 113
+- **Version:** 1.3
+- **Updated:** 2024-01-12T18:09:54Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
 
 ---
 
@@ -1042,7 +1106,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19884
+- **Stars:** 19885
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.39 MB
@@ -1618,7 +1682,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22682
+- **Stars:** 22683
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 14.58 MB
@@ -1682,7 +1746,7 @@
 - **Description:** jq for binary formats - tool, language and decoders for working with binary and text formats
 - **Author:** wader
 - **Repository:** [https://github.com/wader/fq](https://github.com/wader/fq)
-- **Stars:** 9242
+- **Stars:** 9243
 - **Version:** v0.10.0
 - **Updated:** 2024-02-11T16:17:41Z
 - **Size:** 10.99 MB
@@ -1730,7 +1794,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 57525
+- **Stars:** 57527
 - **Version:** 0.46.1
 - **Updated:** 2024-02-01T09:15:52Z
 - **Size:** 3.47 MB
@@ -1762,7 +1826,7 @@
 - **Description:** Fast disk usage analyzer with console interface written in Go
 - **Author:** dundee
 - **Repository:** [https://github.com/dundee/gdu](https://github.com/dundee/gdu)
-- **Stars:** 3086
+- **Stars:** 3087
 - **Version:** v5.26.0
 - **Updated:** 2024-02-12T20:02:16Z
 - **Size:** 9.4 MB
@@ -1842,7 +1906,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34562
+- **Stars:** 34563
 - **Version:** v2.43.1
 - **Updated:** 2024-01-31T21:16:59Z
 - **Size:** 43.22 MB
@@ -2494,6 +2558,22 @@
 
 ---
 
+### hrekt
+- **Description:** A really fast http prober.
+- **Author:** ethicalhackingplayground
+- **Repository:** [https://github.com/ethicalhackingplayground/hrekt](https://github.com/ethicalhackingplayground/hrekt)
+- **Stars:** 26
+- **Version:** v0.1.6
+- **Updated:** 2023-06-12T00:45:07Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### htmlq
 - **Description:** Like jq, but for HTML.
 - **Author:** mgdm
@@ -2802,7 +2882,7 @@
 - **Description:** Cleans dependencies and build artifacts from your projects.
 - **Author:** tbillington
 - **Repository:** [https://github.com/tbillington/kondo](https://github.com/tbillington/kondo)
-- **Stars:** 1528
+- **Stars:** 1529
 - **Version:** v0.8
 - **Updated:** 2023-12-19T07:29:40Z
 - **Size:** 1.5 MB
@@ -2882,7 +2962,7 @@
 - **Description:** Terminal file manager
 - **Author:** gokcehan
 - **Repository:** [https://github.com/gokcehan/lf](https://github.com/gokcehan/lf)
-- **Stars:** 6877
+- **Stars:** 6878
 - **Version:** r31
 - **Updated:** 2023-09-17T11:55:19Z
 - **Size:** 3.54 MB
@@ -3314,7 +3394,7 @@
 - **Description:** Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- **Stars:** 16416
+- **Stars:** 16417
 - **Version:** v3.1.10
 - **Updated:** 2024-02-02T17:06:25Z
 - **Size:** 70.04 MB
@@ -3474,7 +3554,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 20873
+- **Stars:** 20874
 - **Version:** v4.9.3
 - **Updated:** 2024-02-13T22:38:32Z
 - **Size:** 27.98 MB
@@ -3714,7 +3794,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 42711
+- **Stars:** 42712
 - **Version:** v1.65.2
 - **Updated:** 2024-01-24T16:28:08Z
 - **Size:** 55.46 MB
@@ -3794,7 +3874,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 43312
+- **Stars:** 43311
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.37 MB
@@ -3906,7 +3986,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 23097
+- **Stars:** 23098
 - **Version:** v0.2.1
 - **Updated:** 2024-02-05T22:46:26Z
 - **Size:** 17.4 MB
@@ -3963,6 +4043,22 @@
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/rush
 - **Language:** Go
 - **License:** MIT License
+
+---
+
+### rustscan
+- **Description:** 🤖 The Modern Port Scanner 🤖
+- **Author:** RustScan
+- **Repository:** [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)
+- **Stars:** 11633
+- **Version:** 2.1.1
+- **Updated:** 2022-11-07T10:43:57Z
+- **Size:** 
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Rust
+- **License:** GNU General Public License v3.0
 
 ---
 
@@ -4482,7 +4578,7 @@
 - **Description:** 📥 A Telegram downloader/tools written in Golang
 - **Author:** iyear
 - **Repository:** [https://github.com/iyear/tdl](https://github.com/iyear/tdl)
-- **Stars:** 2932
+- **Stars:** 2933
 - **Version:** v0.15.1
 - **Updated:** 2024-02-01T06:09:45Z
 - **Size:** 34.3 MB
@@ -4786,7 +4882,7 @@
 - **Description:** HTTP load testing tool and library. It's over 9000!
 - **Author:** tsenart
 - **Repository:** [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-- **Stars:** 22483
+- **Stars:** 22484
 - **Version:** v12.11.1
 - **Updated:** 2023-10-02T09:08:28Z
 - **Size:** 10.21 MB
@@ -5074,7 +5170,7 @@
 - **Description:** A hackable, minimal, fast TUI file explorer
 - **Author:** sayanarijit
 - **Repository:** [https://github.com/sayanarijit/xplr](https://github.com/sayanarijit/xplr)
-- **Stars:** 3774
+- **Stars:** 3775
 - **Version:** v0.21.5
 - **Updated:** 2024-01-03T11:52:30Z
 - **Size:** 5.87 MB
@@ -5234,7 +5330,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 13751
+- **Stars:** 13776
 - **Version:** v0.9.3
 - **Updated:** 2024-02-12T22:45:50Z
 - **Size:** 972.41 kB
