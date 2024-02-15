@@ -158,6 +158,22 @@
 
 ---
 
+### gost
+- **Description:** GO Simple Tunnel - a simple tunnel written in golang
+- **Author:** ginuerzh
+- **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
+- **Stars:** 14767
+- **Version:** v2.11.5
+- **Updated:** 2023-01-20T06:46:05Z
+- **Size:** 
+- **SHASUM:** 
+- **B3SUM:** 
+- **Source:** 
+- **Language:** Go
+- **License:** MIT License
+
+---
+
 ### gowitness
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost

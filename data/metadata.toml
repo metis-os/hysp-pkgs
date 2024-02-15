@@ -160,6 +160,22 @@ license = "Apache License 2.0"
 
 [[packages]]
 architecture = "arm64_v8a_Android"
+name = "gost"
+description = "GO Simple Tunnel - a simple tunnel written in golang"
+author = "ginuerzh"
+repo = "https://github.com/ginuerzh/gost"
+stars = "14767"
+version = "v2.11.5"
+updated = "2023-01-20T06:46:05Z"
+size = ""
+bsum = ""
+sha = ""
+source = ""
+language = "Go"
+license = "MIT License"
+
+[[packages]]
+architecture = "arm64_v8a_Android"
 name = "gowitness"
 description = "🔍 gowitness - a golang, web screenshot utility using Chrome Headless"
 author = "sensepost"
