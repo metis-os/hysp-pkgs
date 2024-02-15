@@ -12,7 +12,6 @@
 │ 50 │-bombadillo                       │    │
 │ 66 │-certgraph                        │    │
 │ 69 │-certstream-server-go             │    │
-│ 70 │-certwatcher                      │    │
 │ 81 │-cheat                            │    │
 │ 88 │-cloudfox                         │    │
 │ 96 │-cowitness                        │    │
