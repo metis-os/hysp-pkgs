@@ -338,7 +338,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1034
+- **Stars:** 1035
 - **Version:** v2.27.0
 - **Updated:** 2024-02-12T23:17:52Z
 - **Size:** 6.8 MB
