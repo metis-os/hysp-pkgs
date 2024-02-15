@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 47815
+- **Stars:** 47816
 - **Version:** v0.2.59
 - **Updated:** 2024-02-01T22:35:59Z
 - **Size:** 15.3 MB
@@ -242,7 +242,7 @@
 - **Description:** Go CLI and Library for quickly mapping organization network ranges using ASN information.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap)
-- **Stars:** 623
+- **Stars:** 624
 - **Version:** v1.0.6
 - **Updated:** 2023-11-09T14:08:16Z
 - **Size:** 21 MB
@@ -274,7 +274,7 @@
 - **Description:** :computer: make your ssh client smarter
 - **Author:** moul
 - **Repository:** [https://github.com/moul/assh](https://github.com/moul/assh)
-- **Stars:** 2950
+- **Stars:** 2951
 - **Version:** v2.16.0
 - **Updated:** 2023-10-02T09:04:34Z
 - **Size:** 8.1 MB
@@ -322,7 +322,7 @@
 - **Description:** Terminal bandwidth utilization tool
 - **Author:** imsnif
 - **Repository:** [https://github.com/imsnif/bandwhich](https://github.com/imsnif/bandwhich)
-- **Stars:** 8485
+- **Stars:** 8487
 - **Version:** v0.22.2
 - **Updated:** 2024-01-27T20:33:59Z
 - **Size:** 1.97 MB
@@ -338,7 +338,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 45196
+- **Stars:** 45198
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.18 MB
@@ -386,7 +386,7 @@
 - **Description:** Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - **Author:** berty
 - **Repository:** [https://github.com/berty/berty](https://github.com/berty/berty)
-- **Stars:** 7204
+- **Stars:** 7205
 - **Version:** v2.469.9
 - **Updated:** 2023-12-11T12:38:47Z
 - **Size:** 
@@ -786,7 +786,7 @@
 - **Description:** Cloudlist is a tool for listing Assets from multiple Cloud Providers.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist)
-- **Stars:** 751
+- **Stars:** 752
 - **Version:** v1.0.6
 - **Updated:** 2024-01-15T15:46:01Z
 - **Size:** 96.12 MB
@@ -850,7 +850,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16446
+- **Stars:** 16447
 - **Version:** 0.0.24
 - **Updated:** 2024-01-25T22:49:24Z
 - **Size:** 
@@ -1058,7 +1058,7 @@
 - **Description:** 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - **Author:** hahwul
 - **Repository:** [https://github.com/hahwul/dalfox](https://github.com/hahwul/dalfox)
-- **Stars:** 3116
+- **Stars:** 3117
 - **Version:** v2.9.2
 - **Updated:** 2024-01-28T15:50:31Z
 - **Size:** 24.76 MB
@@ -1106,7 +1106,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 19895
+- **Stars:** 19896
 - **Version:** 0.16.5
 - **Updated:** 2023-06-03T14:07:40Z
 - **Size:** 4.39 MB
@@ -1186,7 +1186,7 @@
 - **Description:** dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx)
-- **Stars:** 1866
+- **Stars:** 1867
 - **Version:** v1.1.6
 - **Updated:** 2023-11-11T19:20:44Z
 - **Size:** 23.35 MB
@@ -1330,7 +1330,7 @@
 - **Description:** Disk Usage/Free Utility - a better 'df' alternative
 - **Author:** muesli
 - **Repository:** [https://github.com/muesli/duf](https://github.com/muesli/duf)
-- **Stars:** 12042
+- **Stars:** 12044
 - **Version:** v0.8.1
 - **Updated:** 2022-02-08T06:49:51Z
 - **Size:** 2.24 MB
@@ -1506,7 +1506,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 5449
+- **Stars:** 5452
 - **Version:** v0.18.3
 - **Updated:** 2024-02-15T07:37:14Z
 - **Size:** 1.6 MB
@@ -1570,7 +1570,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 30723
+- **Stars:** 30724
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 2.59 MB
@@ -1714,7 +1714,7 @@
 - **Description:** The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 - **Author:** Findomain
 - **Repository:** [https://github.com/Findomain/Findomain](https://github.com/Findomain/Findomain)
-- **Stars:** 3101
+- **Stars:** 3102
 - **Version:** 9.0.4
 - **Updated:** 2023-11-30T20:29:30Z
 - **Size:** 14.4 MB
@@ -1778,7 +1778,7 @@
 - **Description:**  processor
 - **Author:** antonmedv
 - **Repository:** [https://github.com/antonmedv/fx](https://github.com/antonmedv/fx)
-- **Stars:** 18038
+- **Stars:** 18039
 - **Version:** 31.0.0
 - **Updated:** 2023-11-10T22:14:58Z
 - **Size:** 3.3 MB
@@ -1794,7 +1794,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 57580
+- **Stars:** 57585
 - **Version:** 0.46.1
 - **Updated:** 2024-02-01T09:15:52Z
 - **Size:** 3.47 MB
@@ -1842,7 +1842,7 @@
 - **Description:** A tool to fastly get all javascript sources/files
 - **Author:** 003random
 - **Repository:** [https://github.com/003random/getJS](https://github.com/003random/getJS)
-- **Stars:** 563
+- **Stars:** 564
 - **Version:** null
 - **Updated:** 
 - **Size:** 5.17 MB
@@ -1906,7 +1906,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 34576
+- **Stars:** 34577
 - **Version:** v2.44.0
 - **Updated:** 2024-02-15T14:06:22Z
 - **Size:** 43.22 MB
@@ -1922,7 +1922,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5345
+- **Stars:** 5346
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.83 MB
@@ -1954,7 +1954,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5345
+- **Stars:** 5346
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.83 MB
@@ -1986,7 +1986,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5345
+- **Stars:** 5346
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.96 MB
@@ -2002,7 +2002,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5345
+- **Stars:** 5346
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 6.83 MB
@@ -2018,7 +2018,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5345
+- **Stars:** 5346
 - **Version:** v5.11.0
 - **Updated:** 2023-12-09T19:56:52Z
 - **Size:** 4.92 MB
@@ -2514,7 +2514,7 @@
 - **Description:** A command-line hex viewer
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hexyl](https://github.com/sharkdp/hexyl)
-- **Stars:** 8682
+- **Stars:** 8681
 - **Version:** v0.14.0
 - **Updated:** 2023-12-11T22:33:44Z
 - **Size:** 702.04 kB
@@ -2786,7 +2786,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 15984
+- **Stars:** 15985
 - **Version:** 1.24.0
 - **Updated:** 2024-02-11T19:51:34Z
 - **Size:** 2.95 MB
@@ -3126,7 +3126,7 @@
 - **Version:** v1.0.0
 - **Updated:** 2021-10-08T17:02:48Z
 - **Size:** 149.86 kB
-- **SHA256SUM:** 
+- **SHA256SUM:** 67a05eaba66c942b375222f72a3ce5315c79c3ada42d605aaa4b202ad2859472
 - **B3SUM:** 74ed2574ea76a223ac545233f88273bfb412e47034b768b64f158f1af1c76dd7
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/massdns
 - **Language:** C
@@ -3221,10 +3221,10 @@
 - **Stars:** 239
 - **Version:** v1.1.1
 - **Updated:** 2022-07-22T13:50:34Z
-- **Size:** 
+- **Size:** 1.55 MB
 - **SHA256SUM:** d0bab66a0fa5a7af14a5da396ba35388e9a4a06ba771dad2a5e70d54e5f504fd
 - **B3SUM:** 17c6981782457c321a79fab2906a638e3f32487e5894ba218e27b69d42b6495b
-- **Source:** 
+- **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/mksub
 - **Language:** Go
 - **License:** MIT License
 
@@ -3239,7 +3239,7 @@
 - **Updated:** 2024-01-23T22:40:01Z
 - **Size:** 33.6 MB
 - **SHA256SUM:** 1b1691340eebfb2c09b08f8a9052145728804334d546c40442ae60b6a8497355
-- **B3SUM:** 
+- **B3SUM:** f9019a58fbc57581711de51f6fd964da3a684fbee30c44de8e98309cda69ca9e
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/mlr
 - **Language:** Go
 - **License:** Other
@@ -3285,10 +3285,10 @@
 - **Stars:** 19862
 - **Version:** 7.1.0
 - **Updated:** 2020-08-02T18:50:56Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
+- **Size:** 546.7 kB
+- **SHA256SUM:** 8bf6c40f7a22436f495dd6169e84f9820c81eea3c21045c1daff8b811e61d4f5
+- **B3SUM:** 35cc47d735e530145c66f31a79c0d401de255b08a34c2783c7fdc3c811157eb4
+- **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/neofetch
 - **Language:** Shell
 - **License:** MIT License
 
@@ -3298,7 +3298,7 @@
 - **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - **Author:** containerd
 - **Repository:** [https://github.com/containerd/nerdctl](https://github.com/containerd/nerdctl)
-- **Stars:** 7130
+- **Stars:** 7129
 - **Version:** v1.7.3
 - **Updated:** 2024-01-31T23:48:31Z
 - **Size:** 23.84 MB
@@ -3333,10 +3333,10 @@
 - **Stars:** 555
 - **Version:** v2.1.6
 - **Updated:** 2023-12-02T12:20:02Z
-- **Size:** 
+- **Size:** 4.26 MB
 - **SHA256SUM:** 2d69fdbaa3fe759689149982814170c937f3ec7da0be5a68a11897be7c3ccafa
 - **B3SUM:** 28d967dcc5025942777002bc4b053868d75f085e5f4c816149dfa2267e5696ca
-- **Source:** 
+- **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/nmap-formatter
 - **Language:** Go
 - **License:** MIT License
 
@@ -3365,10 +3365,10 @@
 - **Stars:** 1132
 - **Version:** v1.0.6
 - **Updated:** 2024-02-08T09:54:09Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
+- **Size:** 18.48 MB
+- **SHA256SUM:** 6a968cb334d17ad69d7129254abbc8b98e4901c613f1398327e8a34e4fce194b
+- **B3SUM:** 8945075ececfcf6cd9d0f0c83cd8becac0dc08d5a8f240b02e73a9f7ec161a17
+- **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/notify
 - **Language:** Go
 - **License:** MIT License
 
@@ -3397,10 +3397,10 @@
 - **Stars:** 16424
 - **Version:** v3.1.10
 - **Updated:** 2024-02-02T17:06:25Z
-- **Size:** 
-- **SHA256SUM:** 
-- **B3SUM:** 
-- **Source:** 
+- **Size:** 70.04 MB
+- **SHA256SUM:** 1724a5ff8c86dcf924a7270ca3ffadfc4fd85f7c54e2f3df9441bc42a124ad09
+- **B3SUM:** bbb90ac20d45cd981f86b2f77fbcaaa7f4e5e8824adfa3ca652fcf252217a03d
+- **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/nuclei
 - **Language:** Go
 - **License:** MIT License
 
@@ -3410,7 +3410,7 @@
 - **Description:** Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - **Author:** hatoo
 - **Repository:** [https://github.com/hatoo/oha](https://github.com/hatoo/oha)
-- **Stars:** 3499
+- **Stars:** 3500
 - **Version:** v1.3.0
 - **Updated:** 2024-02-04T06:52:11Z
 - **Size:** 7.32 MB
@@ -3650,7 +3650,7 @@
 - **Description:** A modern replacement for ps written in Rust
 - **Author:** dalance
 - **Repository:** [https://github.com/dalance/procs](https://github.com/dalance/procs)
-- **Stars:** 4549
+- **Stars:** 4550
 - **Version:** v0.14.4
 - **Updated:** 2023-11-24T00:58:03Z
 - **Size:** 3.66 MB
@@ -3746,7 +3746,7 @@
 - **Description:** Accept URLs on stdin, replace all query string values with a user-supplied value
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/qsreplace](https://github.com/tomnomnom/qsreplace)
-- **Stars:** 664
+- **Stars:** 665
 - **Version:** v0.0.3
 - **Updated:** 2022-06-23T20:16:33Z
 - **Size:** 1.36 MB
@@ -4066,7 +4066,7 @@
 - **Description:** A minimal file upload/pastebin service.
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/rustypaste](https://github.com/orhun/rustypaste)
-- **Stars:** 631
+- **Stars:** 630
 - **Version:** v0.14.4
 - **Updated:** 2023-12-20T19:53:54Z
 - **Size:** 5.45 MB
@@ -4178,7 +4178,7 @@
 - **Description:** A shell parser, formatter, and interpreter with bash support; includes shfmt
 - **Author:** mvdan
 - **Repository:** [https://github.com/mvdan/sh](https://github.com/mvdan/sh)
-- **Stars:** 6541
+- **Stars:** 6544
 - **Version:** v3.8.0
 - **Updated:** 2024-02-11T12:45:10Z
 - **Size:** 2.87 MB
@@ -4882,7 +4882,7 @@
 - **Description:** HTTP load testing tool and library. It's over 9000!
 - **Author:** tsenart
 - **Repository:** [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-- **Stars:** 22486
+- **Stars:** 22487
 - **Version:** v12.11.1
 - **Updated:** 2023-10-02T09:08:28Z
 - **Size:** 10.21 MB
@@ -4898,7 +4898,7 @@
 - **Description:** Your CLI home video recorder 📼
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- **Stars:** 13134
+- **Stars:** 13135
 - **Version:** v0.7.1
 - **Updated:** 2023-12-12T19:50:53Z
 - **Size:** 24.27 MB
@@ -5330,7 +5330,7 @@
 - **Description:** A smarter cd command. Supports all major shells.
 - **Author:** ajeetdsouza
 - **Repository:** [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- **Stars:** 14198
+- **Stars:** 14215
 - **Version:** v0.9.3
 - **Updated:** 2024-02-12T22:45:50Z
 - **Size:** 972.41 kB
