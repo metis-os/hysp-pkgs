@@ -194,7 +194,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6501
+- **Stars:** 6502
 - **Version:** v1.4.0
 - **Updated:** 2024-02-12T15:23:09Z
 - **Size:** 42.14 MB
