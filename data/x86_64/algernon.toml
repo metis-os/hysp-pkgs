@@ -22,5 +22,5 @@ conflicts  = ["algernon"]
 requires = []
 
 [package.metadata]
-keywords = ["algernon","cross-platform","go","gopher","http2","http3","live-reload","lua","mysql","pongo2","postgresql","quic","redis","server-sent-events","tls13"]
+keywords = ["algernon","cross-platform","go","gopher","http2","http3","live-reload","lua","mysql","ollama","pongo2","postgresql","quic","redis","server-sent-events","tls13"]
 categories = ["Utilities"]
