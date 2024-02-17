@@ -147,8 +147,8 @@
 - **Author:** TimothyYe
 - **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
 - **Stars:** 1404
-- **Version:** v3.0.7
-- **Updated:** 2024-02-04T03:20:36Z
+- **Version:** v3.1.0
+- **Updated:** 2024-02-17T12:59:28Z
 - **Size:** 12.38 MB
 - **SHASUM:** 8fada4617c3e1cc9389e6aeb5376a29846718ac68b5702082c113684142c821e
 - **B3SUM:** ec8f29e44a31043e9c086f963323ea144b8113114b26ae435dac4a886029baf6
