@@ -82,7 +82,7 @@
 - **Description:** Easily install prebuilt binaries from GitHub.
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 692
+- **Stars:** 691
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.8 MB
@@ -338,7 +338,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1040
+- **Stars:** 1041
 - **Version:** v2.27.0
 - **Updated:** 2024-02-12T23:17:52Z
 - **Size:** 6.8 MB
