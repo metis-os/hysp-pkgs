@@ -114,7 +114,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11024
+- **Stars:** 11025
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
@@ -149,10 +149,10 @@
 - **Stars:** 1404
 - **Version:** v3.1.2
 - **Updated:** 2024-02-17T16:42:39Z
-- **Size:** 12.38 MB
+- **Size:** 
 - **SHASUM:** 8fada4617c3e1cc9389e6aeb5376a29846718ac68b5702082c113684142c821e
 - **B3SUM:** ec8f29e44a31043e9c086f963323ea144b8113114b26ae435dac4a886029baf6
-- **Source:** https://bin.ajam.dev/arm64_v8a_Android/godns
+- **Source:** 
 - **Language:** Go
 - **License:** Apache License 2.0
 
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15423
+- **Stars:** 15424
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 10.92 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15423
+- **Stars:** 15424
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 11.28 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15423
+- **Stars:** 15424
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 20.48 MB
@@ -418,7 +418,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15423
+- **Stars:** 15424
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 21.67 MB
