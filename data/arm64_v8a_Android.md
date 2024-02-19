@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8449
+- **Stars:** 8450
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -78,22 +78,6 @@
 
 ---
 
-### eget
-- **Description:** Easily install prebuilt binaries from GitHub.
-- **Author:** zyedidia
-- **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 691
-- **Version:** v1.3.3
-- **Updated:** 2023-02-22T05:15:46Z
-- **Size:** 6.8 MB
-- **SHASUM:** 7f05210ac4792ba8cbdcecdcceedbcc768c2b76d5e575327d6b924399a401699
-- **B3SUM:** fa11c59fc84917894100d9fd187867343608acf53695c6fc69ba610d12c4ae91
-- **Source:** https://bin.ajam.dev/arm64_v8a_Android/eget
-- **Language:** Go
-- **License:** MIT License
-
----
-
 ### encode
 - **Description:** Script to read input from stdin and encode it
 - **Author:** Brum3ns
@@ -130,7 +114,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22729
+- **Stars:** 22731
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -226,7 +210,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 2010
+- **Stars:** 2011
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
@@ -354,7 +338,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15450
+- **Stars:** 15451
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 10.92 MB
@@ -370,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15450
+- **Stars:** 15451
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 11.28 MB
@@ -386,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15450
+- **Stars:** 15451
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 20.48 MB
@@ -402,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15450
+- **Stars:** 15451
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 21.67 MB
