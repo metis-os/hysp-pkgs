@@ -1,210 +1,278 @@
 │  2 │-TEST                             │    │
 │  5 │-age                              │    │
 │  6 │-age-keygen                       │    │
-│ 13 │-allxfr                           │    │
-│ 18 │-anewer                           │    │
-│ 19 │-apk.sh                           │    │
-│ 20 │-arduino-cli                      │    │
-│ 21 │-aretext                          │    │
-│ 28 │-aws-nuke                         │    │
-│ 32 │-batcat                           │    │
-│ 35 │-bed                              │    │
-│ 41 │-bombadillo                       │    │
-│ 54 │-certgraph                        │    │
-│ 55 │-certspotter                      │    │
-│ 57 │-certstream-server-go             │    │
-│ 58 │-certwatcher                      │    │
-│ 59 │-cexec                            │    │
-│ 60 │-cfssl                            │    │
-│ 61 │-cfssl-bundle                     │    │
-│ 62 │-cfssl-certinfo                   │    │
-│ 63 │-cfssl-newkey                     │    │
-│ 64 │-cfssl-scan                       │    │
-│ 65 │-cfssljson                        │    │
-│ 68 │-cheat                            │    │
-│ 71 │-chisel                           │    │
-│ 72 │-circumflex                       │    │
-│ 74 │-cloudcash                        │    │
-│ 75 │-cloudfox                         │    │
-│ 78 │-cog                              │    │
-│ 82 │-cowitness                        │    │
-│ 83 │-cowsay                           │    │
-│ 84 │-cowthink                         │    │
-│ 86 │-crawley                          │    │
-│ 92 │-csview                           │    │
-│ 94 │-ct_monitor                       │    │
-│ 99 │-darkhttpd                        │    │
-│ 100│-dasel                            │    │
-│ 103│-ddns-go                          │    │
-│ 106│-devpod                           │    │
-│ 107│-diffoci                          │    │
-│ 110│-dnslookup                        │    │
-│ 114│-doomxss                          │    │
-│ 115│-dotenv-linter                    │    │
-│ 124│-dufs                             │    │
-│ 132│-earh                             │    │
-│ 133│-edgevpn                          │    │
-│ 134│-eefjsf                           │    │
-│ 136│-elfcat                           │    │
-│ 137│-enc                              │    │
-│ 139│-enola                            │    │
-│ 141│-etcd                             │    │
-│ 142│-etcdctl                          │    │
-│ 143│-etcdutl                          │    │
-│ 144│-exiflooter                       │    │
-│ 146│-falconhound                      │    │
-│ 156│-ffufw                            │    │
-│ 162│-fnm                              │    │
-│ 164│-fscan                            │    │
-│ 165│-fuse-overlayfs                   │    │
-│ 167│-fwanalyzer                       │    │
-│ 170│-garm                             │    │
-│ 171│-garm-cli                         │    │
-│ 174│-genscope                         │    │
-│ 180│-gh-dash                          │    │
-│ 187│-git-sizer                        │    │
-│ 189│-git-xet                          │    │
-│ 191│-gitea                            │    │
-│ 197│-gitql                            │    │
-│ 201│-goawk                            │    │
-│ 203│-gocurl                           │    │
-│ 205│-godnsbench                       │    │
-│ 207│-gojq                             │    │
-│ 210│-gosec                            │    │
-│ 214│-gotty                            │    │
-│ 217│-gron                             │    │
-│ 219│-gs-netcat                        │    │
-│ 220│-gsocket                          │    │
-│ 221│-gum                              │    │
-│ 225│-hadolint                         │    │
-│ 240│-hx                               │    │
-│ 246│-interactsh-server                │    │
-│ 247│-invidtui                         │    │
-│ 249│-ipt2socks                        │    │
-│ 250│-istioctl                         │    │
-│ 252│-jaq                              │    │
-│ 253│-jira                             │    │
-│ 255│-jql                              │    │
-│ 259│-k9s                              │    │
-│ 264│-knoxssme                         │    │
-│ 268│-ladder                           │    │
-│ 273│-listmonk                         │    │
-│ 274│-logcli                           │    │
-│ 276│-loki                             │    │
-│ 277│-loki-canary                      │    │
-│ 278│-lsd                              │    │
-│ 279│-luet                             │    │
-│ 284│-mailpit                          │    │
-│ 289│-matterbridge                     │    │
-│ 290│-mcfly                            │    │
-│ 292│-melange                          │    │
-│ 293│-meli                             │    │
-│ 297│-miniflux                         │    │
-│ 299│-minisign                         │    │
-│ 300│-mkbundle                         │    │
-│ 303│-mmv                              │    │
-│ 306│-multirootca                      │    │
-│ 307│-navi                             │    │
-│ 308│-ncat                             │    │
-│ 309│-ncdu                             │    │
-│ 313│-nginx                            │    │
-│ 314│-ngocok                           │    │
-│ 315│-ngrok                            │    │
-│ 316│-njs                              │    │
-│ 320│-nping                            │    │
-│ 322│-nu                               │    │
-│ 331│-overmind                         │    │
-│ 332│-passdetective                    │    │
-│ 333│-pdfcpu                           │    │
-│ 334│-pfetch-rs                        │    │
-│ 336│-phantun-client                   │    │
-│ 337│-phantun-server                   │    │
-│ 339│-planor                           │    │
-│ 341│-podsync                          │    │
-│ 348│-promtail                         │    │
-│ 350│-pspy                             │    │
-│ 357│-quickcert                        │    │
-│ 358│-rapwp                            │    │
-│ 360│-rathole                          │    │
-│ 362│-reader                           │    │
-│ 363│-realm                            │    │
-│ 364│-recollapse_staticx               │    │
-│ 365│-redguard                         │    │
-│ 367│-rekor-cli                        │    │
-│ 368│-rekor-server                     │    │
-│ 369│-relic                            │    │
-│ 370│-removehost                       │    │
-│ 371│-removepro                        │    │
-│ 373│-resdns                           │    │
-│ 374│-restic                           │    │
-│ 380│-ripgrep                          │    │
-│ 381│-rnr                              │    │
-│ 382│-robotstxt                        │    │
-│ 385│-ropr                             │    │
-│ 388│-rpfu                             │    │
-│ 389│-rqbit                            │    │
-│ 390│-rshijack                         │    │
-│ 395│-rustcan                          │    │
-│ 398│-s3sync                           │    │
-│ 399│-s5cmd                            │    │
-│ 401│-sbctl                            │    │
-│ 405│-scp                              │    │
-│ 407│-sd                               │    │
-│ 408│-sessionprobe                     │    │
-│ 409│-sftp                             │    │
-│ 410│-sftp-server                      │    │
-│ 411│-shellharden                      │    │
-│ 412│-shellz                           │    │
-│ 415│-shortutil                        │    │
-│ 417│-sish                             │    │
-│ 418│-sj                               │    │
-│ 419│-sk                               │    │
-│ 420│-sk-tmux                          │    │
-│ 426│-sq                               │    │
-│ 427│-ssh                              │    │
-│ 428│-ssh-add                          │    │
-│ 429│-ssh-agent                        │    │
-│ 430│-ssh-keygen                       │    │
-│ 431│-ssh-keyscan                      │    │
-│ 432│-ssh-keysign                      │    │
-│ 433│-sshd                             │    │
-│ 434│-sshd_config                      │    │
-│ 442│-stuffbin                         │    │
-│ 446│-sunbeam                          │    │
-│ 447│-supervisord                      │    │
-│ 449│-svg-hush                         │    │
-│ 450│-syncthing                        │    │
-│ 455│-tailscale_merged                 │    │
-│ 458│-taplo                            │    │
-│ 461│-termshark                        │    │
-│ 462│-tgpt                             │    │
-│ 463│-tidy-viewer                      │    │
-│ 465│-tlrc                             │    │
-│ 471│-traefik                          │    │
-│ 474│-tty2web                          │    │
-│ 475│-ttyd                             │    │
-│ 476│-tuiarchiver                      │    │
-│ 478│-twingate-client                  │    │
-│ 479│-twingate-connector               │    │
-│ 480│-twingate-connectorctl            │    │
-│ 481│-twingate-notifier                │    │
-│ 484│-u-root                           │    │
-│ 486│-uip                              │    │
-│ 488│-unf                              │    │
-│ 492│-v2raya                           │    │
-│ 493│-v6disk                           │    │
-│ 494│-v6run                            │    │
-│ 499│-viu                              │    │
-│ 500│-volta                            │    │
-│ 503│-vultr-cli                        │    │
-│ 506│-wasminspect                      │    │
-│ 512│-wego                             │    │
-│ 517│-wstunnel                         │    │
-│ 519│-wth                              │    │
-│ 521│-xet_staticx                      │    │
-│ 522│-xetcmd                           │    │
-│ 523│-xetmnt                           │    │
-│ 524│-xh                               │    │
-│ 529│-yazi                             │    │
-│ 530│-yip                              │    │
-│ 536│-zfxtop                           │    │
+│ 11 │-albafetch                        │    │
+│ 14 │-allxfr                           │    │
+│ 19 │-anewer                           │    │
+│ 20 │-apk.sh                           │    │
+│ 21 │-arduino-cli                      │    │
+│ 22 │-aretext                          │    │
+│ 29 │-awk                              │    │
+│ 30 │-aws-nuke                         │    │
+│ 34 │-batcat                           │    │
+│ 37 │-bdl.sh                           │    │
+│ 38 │-bearer                           │    │
+│ 39 │-bed                              │    │
+│ 40 │-bigdl                            │    │
+│ 42 │-binary-security-check            │    │
+│ 43 │-binfetch                         │    │
+│ 44 │-binfetch.cfg                     │    │
+│ 47 │-bleve                            │    │
+│ 50 │-bombadillo                       │    │
+│ 61 │-catatonit                        │    │
+│ 64 │-certgraph                        │    │
+│ 65 │-certspotter                      │    │
+│ 67 │-certstream-server-go             │    │
+│ 68 │-certwatcher                      │    │
+│ 69 │-cexec                            │    │
+│ 70 │-cfssl                            │    │
+│ 71 │-cfssl-bundle                     │    │
+│ 72 │-cfssl-certinfo                   │    │
+│ 73 │-cfssl-newkey                     │    │
+│ 74 │-cfssl-scan                       │    │
+│ 75 │-cfssljson                        │    │
+│ 77 │-chameleon                        │    │
+│ 79 │-cheat                            │    │
+│ 82 │-chisel                           │    │
+│ 83 │-circumflex                       │    │
+│ 85 │-cloudcash                        │    │
+│ 86 │-cloudfox                         │    │
+│ 89 │-cog                              │    │
+│ 92 │-coreutils                        │    │
+│ 94 │-cowitness                        │    │
+│ 95 │-cowsay                           │    │
+│ 96 │-cowthink                         │    │
+│ 98 │-crawley                          │    │
+│ 104│-csview                           │    │
+│ 106│-ct_monitor                       │    │
+│ 107│-ctlwatcher                       │    │
+│ 112│-darkhttpd                        │    │
+│ 113│-dasel                            │    │
+│ 116│-ddns-go                          │    │
+│ 119│-devpod                           │    │
+│ 120│-diffoci                          │    │
+│ 122│-dizi                             │    │
+│ 123│-dizi-server                      │    │
+│ 125│-dnslookup                        │    │
+│ 129│-doomxss                          │    │
+│ 130│-dotenv-linter                    │    │
+│ 139│-dufs                             │    │
+│ 140│-dura                             │    │
+│ 148│-earh                             │    │
+│ 149│-ecoji                            │    │
+│ 150│-edgevpn                          │    │
+│ 151│-eefjsf                           │    │
+│ 153│-elfcat                           │    │
+│ 154│-elinks                           │    │
+│ 155│-elinks-lite                      │    │
+│ 156│-elvish                           │    │
+│ 157│-enc                              │    │
+│ 159│-enola                            │    │
+│ 161│-etcd                             │    │
+│ 162│-etcdctl                          │    │
+│ 163│-etcdutl                          │    │
+│ 164│-exiflooter                       │    │
+│ 166│-falconhound                      │    │
+│ 167│-fastfetch                        │    │
+│ 172│-fd-find                          │    │
+│ 178│-ffufw                            │    │
+│ 184│-fnm                              │    │
+│ 186│-fscan                            │    │
+│ 187│-fuse-overlayfs                   │    │
+│ 189│-fwanalyzer                       │    │
+│ 192│-garm                             │    │
+│ 193│-garm-cli                         │    │
+│ 196│-genscope                         │    │
+│ 202│-gh-dash                          │    │
+│ 203│-gip                              │    │
+│ 210│-git-sizer                        │    │
+│ 212│-git-xet                          │    │
+│ 214│-gitea                            │    │
+│ 220│-gitql                            │    │
+│ 224│-goawk                            │    │
+│ 226│-gocurl                           │    │
+│ 228│-godnsbench                       │    │
+│ 230│-gojq                             │    │
+│ 233│-gosec                            │    │
+│ 237│-gotty                            │    │
+│ 239│-gpg-tui                          │    │
+│ 241│-grex                             │    │
+│ 242│-gron                             │    │
+│ 244│-gs-netcat                        │    │
+│ 245│-gsocket                          │    │
+│ 246│-gum                              │    │
+│ 250│-hadolint                         │    │
+│ 256│-hardeningmeter_staticx           │    │
+│ 262│-hrekt                            │    │
+│ 267│-hugo                             │    │
+│ 268│-hx                               │    │
+│ 274│-interactsh-server                │    │
+│ 275│-invidtui                         │    │
+│ 277│-ipt2socks                        │    │
+│ 278│-istioctl                         │    │
+│ 280│-jaq                              │    │
+│ 281│-jira                             │    │
+│ 282│-jira-cli                         │    │
+│ 283│-jj                               │    │
+│ 284│-jless_staticx                    │    │
+│ 286│-jql                              │    │
+│ 290│-k9s                              │    │
+│ 291│-kakoune                          │    │
+│ 292│-kalker                           │    │
+│ 295│-katana_staticx                   │    │
+│ 298│-knoxssme                         │    │
+│ 301│-ksubdomain_staticx               │    │
+│ 303│-ladder                           │    │
+│ 308│-listmonk                         │    │
+│ 309│-logcli                           │    │
+│ 311│-loki                             │    │
+│ 312│-loki-canary                      │    │
+│ 313│-lsd                              │    │
+│ 314│-luet                             │    │
+│ 319│-mailpit                          │    │
+│ 324│-matterbridge                     │    │
+│ 325│-mcfly                            │    │
+│ 327│-melange                          │    │
+│ 328│-meli                             │    │
+│ 332│-miniflux                         │    │
+│ 334│-minisign                         │    │
+│ 335│-mkbundle                         │    │
+│ 338│-mmv                              │    │
+│ 341│-multirootca                      │    │
+│ 342│-navi                             │    │
+│ 343│-ncat                             │    │
+│ 344│-ncdu                             │    │
+│ 348│-netmaker                         │    │
+│ 349│-nfs-cat                          │    │
+│ 350│-nfs-cp                           │    │
+│ 351│-nfs-ls                           │    │
+│ 352│-nfs-stat                         │    │
+│ 353│-nginx                            │    │
+│ 354│-ngocok                           │    │
+│ 355│-ngrok                            │    │
+│ 356│-njs                              │    │
+│ 359│-nmctl                            │    │
+│ 360│-nnn                              │    │
+│ 361│-noir                             │    │
+│ 363│-nping                            │    │
+│ 365│-nu                               │    │
+│ 367│-nushell                          │    │
+│ 375│-overmind                         │    │
+│ 376│-passdetective                    │    │
+│ 377│-pdfcpu                           │    │
+│ 378│-pfetch-rs                        │    │
+│ 380│-phantun-client                   │    │
+│ 381│-phantun-server                   │    │
+│ 382│-pier                             │    │
+│ 384│-planor                           │    │
+│ 386│-podsync                          │    │
+│ 393│-progress                         │    │
+│ 394│-promtail                         │    │
+│ 396│-pspy                             │    │
+│ 400│-pwninit                          │    │
+│ 404│-quickcert                        │    │
+│ 405│-rapwp                            │    │
+│ 407│-rathole                          │    │
+│ 409│-reader                           │    │
+│ 410│-realm                            │    │
+│ 411│-rebuilderd-worker                │    │
+│ 412│-recollapse_staticx               │    │
+│ 413│-redguard                         │    │
+│ 415│-rekor-cli                        │    │
+│ 416│-rekor-server                     │    │
+│ 417│-relic                            │    │
+│ 418│-removehost                       │    │
+│ 419│-removepro                        │    │
+│ 420│-reptyr                           │    │
+│ 422│-resdns                           │    │
+│ 423│-restic                           │    │
+│ 429│-ripgrep                          │    │
+│ 430│-rnr                              │    │
+│ 431│-robotstxt                        │    │
+│ 434│-ropr                             │    │
+│ 437│-rpfu                             │    │
+│ 438│-rqbit                            │    │
+│ 439│-rshijack                         │    │
+│ 444│-rustcan                          │    │
+│ 447│-s3sync                           │    │
+│ 448│-s5cmd                            │    │
+│ 450│-sbctl                            │    │
+│ 454│-scp                              │    │
+│ 456│-sd                               │    │
+│ 457│-sessionprobe                     │    │
+│ 458│-sftp                             │    │
+│ 459│-sftp-server                      │    │
+│ 460│-shc                              │    │
+│ 461│-shellharden                      │    │
+│ 462│-shellz                           │    │
+│ 465│-shortutil                        │    │
+│ 467│-sish                             │    │
+│ 468│-sj                               │    │
+│ 469│-sk                               │    │
+│ 470│-sk-tmux                          │    │
+│ 472│-sn0int                           │    │
+│ 477│-sq                               │    │
+│ 478│-sqlc                             │    │
+│ 479│-ssh                              │    │
+│ 480│-ssh-add                          │    │
+│ 481│-ssh-agent                        │    │
+│ 482│-ssh-keygen                       │    │
+│ 483│-ssh-keyscan                      │    │
+│ 484│-ssh-keysign                      │    │
+│ 485│-sshd                             │    │
+│ 486│-sshd_config                      │    │
+│ 490│-sshx                             │    │
+│ 491│-sshx-server                      │    │
+│ 496│-stuffbin                         │    │
+│ 497│-su-rs                            │    │
+│ 501│-sudo-rs                          │    │
+│ 502│-sunbeam                          │    │
+│ 503│-supervisord                      │    │
+│ 505│-svg-hush                         │    │
+│ 506│-syncthing                        │    │
+│ 507│-sysbox-fs                        │    │
+│ 508│-sysbox-mgr                       │    │
+│ 509│-sysbox-runc                      │    │
+│ 514│-tailscale_merged                 │    │
+│ 517│-taplo                            │    │
+│ 520│-termshark                        │    │
+│ 521│-tgpt                             │    │
+│ 522│-tidy-viewer                      │    │
+│ 524│-tlrc                             │    │
+│ 530│-traefik                          │    │
+│ 531│-trip                             │    │
+│ 534│-tty2web                          │    │
+│ 535│-ttyd                             │    │
+│ 536│-tuiarchiver                      │    │
+│ 538│-twingate-client                  │    │
+│ 539│-twingate-connector               │    │
+│ 540│-twingate-connector-staticx       │    │
+│ 541│-twingate-connectorctl            │    │
+│ 542│-twingate-notifier                │    │
+│ 545│-u-root                           │    │
+│ 547│-uip                              │    │
+│ 549│-unf                              │    │
+│ 553│-v2raya                           │    │
+│ 554│-v6disk                           │    │
+│ 555│-v6run                            │    │
+│ 560│-viewgen_staticx                  │    │
+│ 561│-visudo-rs                        │    │
+│ 562│-viu                              │    │
+│ 563│-volta                            │    │
+│ 566│-vultr-cli                        │    │
+│ 569│-wasminspect                      │    │
+│ 575│-wego                             │    │
+│ 577│-wireguard-rs                     │    │
+│ 581│-wstunnel                         │    │
+│ 582│-wtf                              │    │
+│ 584│-wth                              │    │
+│ 585│-x8                               │    │
+│ 587│-xcp                              │    │
+│ 588│-xet_staticx                      │    │
+│ 589│-xetcmd                           │    │
+│ 590│-xetmnt                           │    │
+│ 591│-xh                               │    │
+│ 596│-yazi                             │    │
+│ 597│-yip                              │    │
+│ 600│-z                                │    │
+│ 604│-zfxtop                           │    │
