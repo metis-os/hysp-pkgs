@@ -78,6 +78,22 @@
 
 ---
 
+### eget
+- **Description:** Easily install prebuilt binaries from GitHub.
+- **Author:** zyedidia
+- **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
+- **Stars:** 691
+- **Version:** v1.3.3
+- **Updated:** 2023-02-22T05:15:46Z
+- **Size:** 6.8 MB
+- **SHASUM:** 7f05210ac4792ba8cbdcecdcceedbcc768c2b76d5e575327d6b924399a401699
+- **B3SUM:** fa11c59fc84917894100d9fd187867343608acf53695c6fc69ba610d12c4ae91
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/eget
+- **Language:** Go
+- **License:** MIT License
+
+---
+
 ### encode
 - **Description:** Script to read input from stdin and encode it
 - **Author:** Brum3ns
@@ -114,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22731
+- **Stars:** 22732
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
