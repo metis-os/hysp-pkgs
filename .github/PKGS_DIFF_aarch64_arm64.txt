@@ -38,7 +38,6 @@
 │ 85 │-cloudcash                        │    │
 │ 86 │-cloudfox                         │    │
 │ 89 │-cog                              │    │
-│ 92 │-coreutils                        │    │
 │ 94 │-cowitness                        │    │
 │ 95 │-cowsay                           │    │
 │ 96 │-cowthink                         │    │
@@ -103,7 +102,6 @@
 │ 246│-gum                              │    │
 │ 250│-hadolint                         │    │
 │ 256│-hardeningmeter_staticx           │    │
-│ 262│-hrekt                            │    │
 │ 267│-hugo                             │    │
 │ 268│-hx                               │    │
 │ 274│-interactsh-server                │    │
