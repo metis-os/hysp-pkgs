@@ -114,7 +114,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11029
+- **Stars:** 11031
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
@@ -231,7 +231,7 @@
 - **Updated:** 
 - **Size:** 1.87 MB
 - **SHASUM:** 5e90483b719d254ce789f990cf389ed00ac59ac17164f8e90935f1e81544adee
-- **B3SUM:** c6aa957f89fb0145064726dc9d2f46cd2dcf438fcdbc68a13e3012f021064466
+- **B3SUM:** 
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/inscope
 - **Language:** Go
 - **License:** null
@@ -290,7 +290,7 @@
 - **Description:** Monitor linux processes without root permissions
 - **Author:** DominicBreuker
 - **Repository:** [https://github.com/DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)
-- **Stars:** 4387
+- **Stars:** 4388
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.65 MB
