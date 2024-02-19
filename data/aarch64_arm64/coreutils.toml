@@ -1,0 +1,26 @@
+[bin]
+name = "coreutils"
+
+[package]
+architecture = "aarch64_arm64"
+name = "coreutils"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16465"
+version = "0.0.24"
+updated = "2024-01-25T22:49:24Z"
+size = "8.88 MB"
+bsum = "cc7355ddd6c27e2e03f9acc1797ef4ddec0a7207e509d89cb77f051a0f58ad29"
+sha = "ba76cc55eb3ac3ff6dad3b89a8acefbe69674afd21b349c8a379d8aafb983997"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/coreutils"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["coreutils"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

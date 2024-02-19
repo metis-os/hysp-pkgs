@@ -1,0 +1,26 @@
+[bin]
+name = "hrekt"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hrekt"
+description = "A really fast http prober."
+author = "ethicalhackingplayground"
+repo = "https://github.com/ethicalhackingplayground/hrekt"
+stars = "26"
+version = "v0.1.6"
+updated = "2023-06-12T00:45:07Z"
+size = "14.91 MB"
+bsum = "e5579cf4a8dd0ec9dd3bed7d8a1bade3cb52d43ea90fe23899504d6a9455a6c7"
+sha = "cb70174b96f28d18c50442d8e3d32034d8c2a27745424e9f3765330b8805828e"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/hrekt"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hrekt"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
