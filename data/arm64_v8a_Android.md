@@ -162,7 +162,7 @@
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost
 - **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2589
+- **Stars:** 2590
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 27.22 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15457
+- **Stars:** 15456
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15457
+- **Stars:** 15456
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15457
+- **Stars:** 15456
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15457
+- **Stars:** 15456
 - **Version:** v1.60.0
 - **Updated:** 2024-02-15T21:08:21Z
 - **Size:** 21.67 MB
