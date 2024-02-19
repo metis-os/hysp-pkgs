@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8448
+- **Stars:** 8449
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -231,7 +231,7 @@
 - **Updated:** 
 - **Size:** 1.87 MB
 - **SHASUM:** 5e90483b719d254ce789f990cf389ed00ac59ac17164f8e90935f1e81544adee
-- **B3SUM:** 
+- **B3SUM:** c6aa957f89fb0145064726dc9d2f46cd2dcf438fcdbc68a13e3012f021064466
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/inscope
 - **Language:** Go
 - **License:** null
