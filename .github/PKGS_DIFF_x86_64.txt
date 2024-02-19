@@ -72,6 +72,7 @@
 │ 490│-sk-tmux                          │    │
 │ 495│-sn0int                           │    │
 │ 503│-ssh                              │    │
+│ 511│-sshesame                         │    │
 │ 521│-su-rs                            │    │
 │ 525│-sudo-rs                          │    │
 │ 526│-sunbeam                          │    │
