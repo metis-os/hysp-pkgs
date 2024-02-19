@@ -4,7 +4,7 @@ name = "algernon"
 [package]
 architecture = "x86_64"
 name = "algernon"
-description = "Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support"
+description = "Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support"
 author = "xyproto"
 repo = "https://github.com/xyproto/algernon"
 stars = "2563"
