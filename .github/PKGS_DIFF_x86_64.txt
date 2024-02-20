@@ -91,7 +91,6 @@
 │ 568│-twingate-connector-staticx       │    │
 │ 569│-twingate-connectorctl            │    │
 │ 570│-twingate-notifier                │    │
-│ 578│-unfurl                           │    │
 │ 582│-v6disk                           │    │
 │ 583│-v6run                            │    │
 │ 589│-visudo-rs                        │    │

@@ -979,58 +979,54 @@
 │ 571│ txeh                             │ 478│ txeh
 │ 572│ tz                               │ 479│ tz
 │ 573│ u-root                           │ 480│ u-root
-│ 575│ uip                              │ 482│ uip
-│ 576│ uncover                          │ 483│ uncover
-│ 577│ unf                              │ 484│ unf
-│ 578│-unfurl                           │    │
-│ 579│ upx                              │ 485│ upx
-│ 580│ usql                             │ 486│ usql
-│ 581│ v2raya                           │ 487│ v2raya
+│ 579│ upx                              │ 486│ upx
+│ 580│ usql                             │ 487│ usql
+│ 581│ v2raya                           │ 488│ v2raya
 │ 582│-v6disk                           │    │
 │ 583│-v6run                            │    │
-│ 584│ validtoml                        │ 488│ validtoml
-│ 585│ vegeta                           │ 489│ vegeta
-│ 586│ vhs                              │ 490│ vhs
-│ 587│ viddy                            │ 491│ viddy
-│ 588│ viewgen_staticx                  │ 492│ viewgen_staticx
+│ 584│ validtoml                        │ 489│ validtoml
+│ 585│ vegeta                           │ 490│ vegeta
+│ 586│ vhs                              │ 491│ vhs
+│ 587│ viddy                            │ 492│ viddy
+│ 588│ viewgen_staticx                  │ 493│ viewgen_staticx
 │ 589│-visudo-rs                        │    │
-│ 590│ viu                              │ 493│ viu
-│ 591│ volta                            │ 494│ volta
-│ 592│ vopono                           │ 495│ vopono
-│ 600│ waybackurls                      │ 503│ waybackurls
-│ 601│ web-cache-vulnerability-scanner  │ 504│ web-cache-vulnerability-scanner
-│ 602│ websocat                         │ 505│ websocat
+│ 590│ viu                              │ 494│ viu
+│ 591│ volta                            │ 495│ volta
+│ 592│ vopono                           │ 496│ vopono
+│ 600│ waybackurls                      │ 504│ waybackurls
+│ 601│ web-cache-vulnerability-scanner  │ 505│ web-cache-vulnerability-scanner
+│ 602│ websocat                         │ 506│ websocat
 │ 603│-wego                             │    │
-│ 604│ wireguard-go                     │ 506│ wireguard-go
-│ 605│ wireguard-rs                     │ 507│ wireguard-rs
-│ 606│ wireproxy                        │ 508│ wireproxy
-│ 607│ wiretap                          │ 509│ wiretap
-│ 608│ wormhole-rs                      │ 510│ wormhole-rs
-│ 609│ wstunnel                         │ 511│ wstunnel
+│ 604│ wireguard-go                     │ 507│ wireguard-go
+│ 605│ wireguard-rs                     │ 508│ wireguard-rs
+│ 606│ wireproxy                        │ 509│ wireproxy
+│ 607│ wiretap                          │ 510│ wiretap
+│ 608│ wormhole-rs                      │ 511│ wormhole-rs
+│ 609│ wstunnel                         │ 512│ wstunnel
 │ 610│-wtf                              │    │
-│ 611│ wtfutil                          │ 512│ wtfutil
-│ 612│ wth                              │ 513│ wth
-│ 613│ x8                               │ 514│ x8
-│ 614│ xargs-rs                         │ 515│ xargs-rs
-│ 615│ xcp                              │ 516│ xcp
+│ 611│ wtfutil                          │ 513│ wtfutil
+│ 612│ wth                              │ 514│ wth
+│ 613│ x8                               │ 515│ x8
+│ 614│ xargs-rs                         │ 516│ xargs-rs
+│ 615│ xcp                              │ 517│ xcp
 │ 616│-xet_staticx                      │    │
 │ 617│-xetcmd                           │    │
 │ 618│-xetmnt                           │    │
 │ 619│-xh                               │    │
-│ 620│ xplr                             │ 517│ xplr
-│ 621│ xurls                            │ 518│ xurls
-│ 622│ yalis                            │ 519│ yalis
-│ 623│ yataf                            │ 520│ yataf
-│ 624│ yazi                             │ 521│ yazi
+│ 620│ xplr                             │ 518│ xplr
+│ 621│ xurls                            │ 519│ xurls
+│ 622│ yalis                            │ 520│ yalis
+│ 623│ yataf                            │ 521│ yataf
+│ 624│ yazi                             │ 522│ yazi
 │ 625│-yip                              │    │
-│ 626│ yj                               │ 522│ yj
-│ 627│ yq                               │ 523│ yq
+│ 626│ yj                               │ 523│ yj
+│ 627│ yq                               │ 524│ yq
 │ 628│-z                                │    │
-│ 629│ zdns                             │ 524│ zdns
-│ 630│ zellij                           │ 525│ zellij
-│ 631│ zenith                           │ 526│ zenith
-│ 632│ zfxtop                           │ 527│ zfxtop
-│ 633│ zgrab2                           │ 528│ zgrab2
-│ 634│ zoxide                           │ 529│ zoxide
+│ 629│ zdns                             │ 525│ zdns
+│ 630│ zellij                           │ 526│ zellij
+│ 631│ zenith                           │ 527│ zenith
+│ 632│ zfxtop                           │ 528│ zfxtop
+│ 633│ zgrab2                           │ 529│ zgrab2
+│ 634│ zoxide                           │ 530│ zoxide
 
 │ 635│-zstd                             │    │
