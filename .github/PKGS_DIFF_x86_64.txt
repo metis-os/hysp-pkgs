@@ -93,7 +93,6 @@
 │ 570│-twingate-notifier                │    │
 │ 582│-v6disk                           │    │
 │ 583│-v6run                            │    │
-│ 587│-viddy                            │    │
 │ 589│-visudo-rs                        │    │
 │ 603│-wego                             │    │
 │ 610│-wtf                              │    │

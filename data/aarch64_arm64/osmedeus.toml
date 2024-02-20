@@ -1,0 +1,26 @@
+[bin]
+name = "osmedeus"
+
+[package]
+architecture = "aarch64_arm64"
+name = "osmedeus"
+description = "A Workflow Engine for Offensive Security"
+author = "j3ssie"
+repo = "https://github.com/j3ssie/osmedeus"
+stars = "4989"
+version = "v4.6.3"
+updated = "2023-12-15T11:45:54Z"
+size = "28.36 MB"
+bsum = "ae51ee0cf3ef21e94dcc15918c706e54f5e56c3210c1eedff39c8dd6a89dbd8d"
+sha = "2d91cabb11dc1128c4bfe485eeb28bae268a330d36d3671f50739148e9de0530"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/osmedeus"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["osmedeus"]
+requires = []
+
+[package.metadata]
+keywords = ["attack-surfaces","bug-bounty","bugbounty","go","golang","hacking","hacking-tool","information-gathering","osint","penetration-testing","pentest-tool","pentesting","reconnaissance","scanning","security","security-tools"]
+categories = ["Utilities"]
