@@ -22,5 +22,5 @@ conflicts  = ["wiretap"]
 requires = []
 
 [package.metadata]
-keywords = ["golang","infosec","proxy","snl-cyber-sec","tunnel","vpn","wireguard"]
+keywords = ["golang","infosec","proxy","scr-2819","snl-cyber-sec","tunnel","vpn","wireguard"]
 categories = ["Utilities"]
