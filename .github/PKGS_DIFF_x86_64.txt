@@ -8,6 +8,7 @@
 │ 30 │-aws-nuke                         │    │
 │ 37 │-bdl.sh                           │    │
 │ 38 │-bearer                           │    │
+│ 40 │-berty                            │    │
 │ 41 │-bigdl                            │    │
 │ 43 │-binary-security-check            │    │
 │ 51 │-bombadillo                       │    │
