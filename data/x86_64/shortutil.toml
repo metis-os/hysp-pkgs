@@ -22,5 +22,5 @@ conflicts  = ["shortutil"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = ["bugbounty","bugbounty-tool","iis","iis-security","iis-server","pentesting","pentesting-tools","redteam","redteam-tools","security","security-audit","security-automation","security-scanner","security-tools","vulnerability-detection","vulnerability-scanners"]
 categories = ["Utilities"]
