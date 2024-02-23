@@ -11,6 +11,11 @@
 │ 41 │-bigdl                            │    │
 │ 43 │-binary-security-check            │    │
 │ 51 │-bombadillo                       │    │
+│ 59 │-bucketloot                       │    │
+│ 60 │-busybox                          │    │
+│ 61 │-byp4xx                           │    │
+│ 62 │-caddy                            │    │
+│ 63 │-catatonit                        │    │
 │ 67 │-certgraph                        │    │
 │ 70 │-certstream-server-go             │    │
 │ 71 │-certwatcher                      │    │
