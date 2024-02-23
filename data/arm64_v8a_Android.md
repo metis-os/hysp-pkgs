@@ -55,7 +55,7 @@
 - **Updated:** 2022-03-08T21:41:54Z
 - **Size:** 4.85 MB
 - **SHASUM:** 51eb756859cf9bb56ea96bcbb7b6a610ccd4f09f9692d8b22a57555a7508f574
-- **B3SUM:** 
+- **B3SUM:** 3b42771dc6cea047d4f75caef10c99914af1cd00f46e5a794af38d872f78846c
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/crt
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -114,7 +114,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11051
+- **Stars:** 11052
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22787
+- **Stars:** 22786
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
