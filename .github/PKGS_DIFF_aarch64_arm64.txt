@@ -177,7 +177,6 @@
 │ 395│-pier                             │    │
 │ 397│-planor                           │    │
 │ 399│-podsync                          │    │
-│ 405│-procs                            │    │
 │ 406│-progress                         │    │
 │ 407│-promtail                         │    │
 │ 409│-pspy                             │    │
