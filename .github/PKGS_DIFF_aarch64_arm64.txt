@@ -210,6 +210,7 @@
 │ 462│-s5cmd                            │    │
 │ 464│-sbctl                            │    │
 │ 468│-scp                              │    │
+│ 469│-screenfetch                      │    │
 │ 470│-sd                               │    │
 │ 471│-sessionprobe                     │    │
 │ 472│-sftp                             │    │
