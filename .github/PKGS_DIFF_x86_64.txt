@@ -64,7 +64,6 @@
 │ 339│-litefs                           │    │
 │ 346│-luet                             │    │
 │ 356│-matterbridge                     │    │
-│ 357│-mcfly                            │    │
 │ 361│-meli                             │    │
 │ 365│-miniflux                         │    │
 │ 368│-mise                             │    │
