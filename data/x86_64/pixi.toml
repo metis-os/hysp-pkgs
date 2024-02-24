@@ -1,0 +1,26 @@
+[bin]
+name = "pixi"
+
+[package]
+architecture = "x86_64"
+name = "pixi"
+description = "Package management made easy"
+author = "prefix-dev"
+repo = "https://github.com/prefix-dev/pixi"
+stars = "1544"
+version = "v0.14.0"
+updated = "2024-02-16T08:48:40Z"
+size = "24.54 MB"
+bsum = "2df50a270d71390f66a2132af58f92b5dc9cbbb113be2aa1d526ece0015405e8"
+sha = "fa9efa5afb1146884673a50181d05b3e6f3de60d1fbb7668065c2f79081f0389"
+source = "https://bin.ajam.dev/x86_64_Linux/pixi"
+language = "Rust"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["pixi"]
+requires = []
+
+[package.metadata]
+keywords = ["conda","conda-environment","conda-packages","hacktoberfest","package-management","package-manager","package-manager-tool","python-virtual-environment","rust","rust-lang"]
+categories = ["Utilities"]

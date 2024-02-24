@@ -1,0 +1,26 @@
+[bin]
+name = "visudo-rs"
+
+[package]
+architecture = "x86_64"
+name = "visudo-rs"
+description = "A memory safe implementation of sudo and su."
+author = "memorysafety"
+repo = "https://github.com/memorysafety/sudo-rs"
+stars = "2738"
+version = "v0.2.2"
+updated = "2024-02-13T11:12:37Z"
+size = "1.53 MB"
+bsum = "d5230bc7b9237ff5fbe7ebe5777368aa4158ba8cfa35205b228a3ad8dcb4fb52"
+sha = "41ed12b4639271e84bae3d5b3f8b65d591c386e57477df8c100eba3d88b9e062"
+source = "https://bin.ajam.dev/x86_64_Linux/visudo-rs"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["visudo-rs"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

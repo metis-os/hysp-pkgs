@@ -1,0 +1,26 @@
+[bin]
+name = "age"
+
+[package]
+architecture = "x86_64"
+name = "age"
+description = "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+author = "FiloSottile"
+repo = "https://github.com/FiloSottile/age"
+stars = "14908"
+version = "v1.1.1"
+updated = "2022-12-26T20:39:07Z"
+size = "3.54 MB"
+bsum = "f4797463f7d5c93584ef186a6fadffb381d57299a73feb4e9f28b256d95eb23e"
+sha = "22fc01356a4cb8c78e414b1a7d7545334db8bfe5aaec5ccc0bacfdae96b06df2"
+source = "https://bin.ajam.dev/x86_64_Linux/age"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["age"]
+requires = []
+
+[package.metadata]
+keywords = ["age-encryption","built-at-rc"]
+categories = ["Utilities"]

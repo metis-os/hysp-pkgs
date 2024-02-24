@@ -1,0 +1,26 @@
+[bin]
+name = "imix"
+
+[package]
+architecture = "x86_64"
+name = "imix"
+description = "Realm is a cross platform Red Team engagement platform with a focus on automation and reliability."
+author = "spellshift"
+repo = "https://github.com/spellshift/realm"
+stars = "261"
+version = "v0.0.6"
+updated = "2024-02-08T20:14:31Z"
+size = "22.33 MB"
+bsum = "08e15787098668136f070cd16d23e72ba48c5ca4298cb697925a75c294cfbf4a"
+sha = "7ca1c93114a65d5b682ec4540e6d36fade565d3ffbaddd659460371120380caa"
+source = "https://bin.ajam.dev/x86_64_Linux/imix"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["imix"]
+requires = []
+
+[package.metadata]
+keywords = ["agent","bot","c2","cyber","cybersecurity","golang","graphql","implant","react","redteam","redteam-tools","redteaming","rust","teamserver","typescript","webui"]
+categories = ["Utilities"]

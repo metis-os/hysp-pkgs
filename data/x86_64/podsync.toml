@@ -1,0 +1,26 @@
+[bin]
+name = "podsync"
+
+[package]
+architecture = "x86_64"
+name = "podsync"
+description = "Turn YouTube or Vimeo channels, users, or playlists into podcast feeds"
+author = "mxpv"
+repo = "https://github.com/mxpv/podsync"
+stars = "1324"
+version = "v2.6.1"
+updated = "2023-05-06T00:06:13Z"
+size = "20.63 MB"
+bsum = "f33d6aecf713aadb9041002e8b8ec623ebf7b2948b5d4f20152a3e50d1068bc4"
+sha = "ba7ffdabe3be5a06252e40d3df527ba2cd675ad5a3f6283432f32f95ac63ee62"
+source = "https://bin.ajam.dev/x86_64_Linux/podsync"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["podsync"]
+requires = []
+
+[package.metadata]
+keywords = ["cron-expression","docker","golang","playlists","podcast","podcast-fetcher","podcast-generator","podcast-manager","podcasting","podsync","soundcloud","vimeo","youtube"]
+categories = ["Utilities"]

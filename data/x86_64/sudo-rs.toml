@@ -1,0 +1,26 @@
+[bin]
+name = "sudo-rs"
+
+[package]
+architecture = "x86_64"
+name = "sudo-rs"
+description = "A memory safe implementation of sudo and su."
+author = "memorysafety"
+repo = "https://github.com/memorysafety/sudo-rs"
+stars = "2738"
+version = "v0.2.2"
+updated = "2024-02-13T11:12:37Z"
+size = "1.68 MB"
+bsum = "93b9a21a2fa44e564b10b5ce0f55c59e99d8510836952c3f86f6019c278d7f38"
+sha = "55e4211241649f01e2b189061692a6d56e6874fade51017f70f745551884e288"
+source = "https://bin.ajam.dev/x86_64_Linux/sudo-rs"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sudo-rs"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

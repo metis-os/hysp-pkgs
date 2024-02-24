@@ -1,0 +1,26 @@
+[bin]
+name = "xetmnt"
+
+[package]
+architecture = "x86_64"
+name = "xetmnt"
+description = "Rust crates for XetHub"
+author = "xetdata"
+repo = "https://github.com/xetdata/xet-core"
+stars = "17"
+version = "v0.13.0"
+updated = "2024-01-25T17:53:56Z"
+size = "24.28 MB"
+bsum = "a25605d04fed288843e50ee7660a008cb42948a23ec802bf0866aa5f0217a12e"
+sha = "572b6d19ff56cb60069092d48b02deab8bb0318075dacba51c2fed16649a78f6"
+source = "https://bin.ajam.dev/x86_64_Linux/xetmnt"
+language = "Rust"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["xetmnt"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","xethub"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "amp"
+
+[package]
+architecture = "x86_64"
+name = "amp"
+description = "A complete text editor for your terminal."
+author = "jmacdonald"
+repo = "https://github.com/jmacdonald/amp"
+stars = "3512"
+version = "0.7.0"
+updated = "2024-01-23T14:03:17Z"
+size = "6.09 MB"
+bsum = "2056ab92f70dc382f22993b06ed6d2f82e0d5964e5c77ed45d8cf21f11cf482f"
+sha = "43e30aaf8a70b1cf7411ca89728938333e140a997d6d5715e4cca65e749d6010"
+source = "https://bin.ajam.dev/x86_64_Linux/amp"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["amp"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","terminal","text-editor","vim"]
+categories = ["Utilities"]

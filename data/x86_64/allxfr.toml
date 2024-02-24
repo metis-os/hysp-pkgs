@@ -1,0 +1,26 @@
+[bin]
+name = "allxfr"
+
+[package]
+architecture = "x86_64"
+name = "allxfr"
+description = "AXFR all the things!"
+author = "lanrat"
+repo = "https://github.com/lanrat/allxfr"
+stars = "22"
+version = "v1.0.0"
+updated = "2021-05-12T03:13:35Z"
+size = "6.29 MB"
+bsum = "d7a92308d89a7063b7c8a6db6692c3b49586bb5c9981f06a3c2248961bee2a95"
+sha = "5a832ec4e3f70352d242c3a7d21e053cb34334a0d0d520ab65b7a4fd66538459"
+source = "https://bin.ajam.dev/x86_64_Linux/allxfr"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["allxfr"]
+requires = []
+
+[package.metadata]
+keywords = ["axfr","dns"]
+categories = ["Utilities"]

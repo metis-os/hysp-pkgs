@@ -1,0 +1,26 @@
+[bin]
+name = "kakoune"
+
+[package]
+architecture = "x86_64"
+name = "kakoune"
+description = "mawww's experiment for a better code editor"
+author = "mawww"
+repo = "https://github.com/mawww/kakoune"
+stars = "9458"
+version = "v2023.08.05"
+updated = "2023-08-05T01:07:39Z"
+size = "3.71 MB"
+bsum = "f472463a0ffd81fc1641d83573282be06385445ba036f3a2acc873c505d290bc"
+sha = "47e78607a035f0dc0afabb06d18825e3a0617ec7a1f416f9c10b4d2b8e3b62de"
+source = "https://bin.ajam.dev/x86_64_Linux/kakoune"
+language = "C++"
+license = "The Unlicense"
+
+[package.conditions]
+conflicts  = ["kakoune"]
+requires = []
+
+[package.metadata]
+keywords = ["c-plus-plus","console-application","kakoune","modal-editing","text-editor","vim"]
+categories = ["Utilities"]

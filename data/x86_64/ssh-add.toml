@@ -4,23 +4,23 @@ name = "ssh-add"
 [package]
 architecture = "x86_64"
 name = "ssh-add"
-description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
-author = "Azathothas"
-repo = "https://github.com/Azathothas/static-toolbox"
-stars = "17"
-version = "misc_utils_2024_02_22_07_42_57_AM"
-updated = "2024-02-22T01:57:57Z"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
 size = "4.14 MB"
 bsum = "ba923dc5d3c52834aca77f9f155d30df614577210cca083d96d086650c29bc35"
 sha = "89ec1725faec4abcbf7b3c5c836437846bf34be501d16d8e360dd9b0fb31ff59"
 source = "https://bin.ajam.dev/x86_64_Linux/ssh-add"
-language = "Shell"
-license = "null"
+language = "C"
+license = "Other"
 
 [package.conditions]
 conflicts  = ["ssh-add"]
 requires = []
 
 [package.metadata]
-keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
 categories = ["Utilities"]

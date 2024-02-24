@@ -4,23 +4,23 @@ name = "ssh-keysign"
 [package]
 architecture = "x86_64"
 name = "ssh-keysign"
-description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
-author = "Azathothas"
-repo = "https://github.com/Azathothas/static-toolbox"
-stars = "17"
-version = "misc_utils_2024_02_22_07_42_57_AM"
-updated = "2024-02-22T01:57:57Z"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
 size = "4.38 MB"
 bsum = "2f721c2a6d8db7a051f6c57831b766ce26b383917e5c411a27befc94750b36b1"
 sha = "04e5dde6e887f9363e30210adb56d1d20b8103b91dd70002cbd096a55268c596"
 source = "https://bin.ajam.dev/x86_64_Linux/ssh-keysign"
-language = "Shell"
-license = "null"
+language = "C"
+license = "Other"
 
 [package.conditions]
 conflicts  = ["ssh-keysign"]
 requires = []
 
 [package.metadata]
-keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
 categories = ["Utilities"]

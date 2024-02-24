@@ -1,0 +1,26 @@
+[bin]
+name = "dontgo403"
+
+[package]
+architecture = "x86_64"
+name = "dontgo403"
+description = "Tool to bypass 403/40X response codes."
+author = "devploit"
+repo = "https://github.com/devploit/dontgo403"
+stars = "736"
+version = "0.9.4"
+updated = "2023-10-07T15:04:54Z"
+size = "8.3 MB"
+bsum = "c6afc8c78ad891ee4f191bed4bc6f527d28114df17ecf3e7fe24a928fc610f88"
+sha = "cb8703805dd55d527a0db79c6d0dd019be524348b0d9eddd3d57a4201e09f27e"
+source = "https://bin.ajam.dev/x86_64_Linux/dontgo403"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["dontgo403"]
+requires = []
+
+[package.metadata]
+keywords = ["403","403-bypass","bugbounty","bypass","ctf","pentesting","waf-bypass","websec"]
+categories = ["Utilities"]

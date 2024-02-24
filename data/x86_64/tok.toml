@@ -4,17 +4,17 @@ name = "tok"
 [package]
 architecture = "x86_64"
 name = "tok"
-description = "A collection of hacks and one-off scripts"
-author = "tomnomnom"
-repo = "https://github.com/tomnomnom/hacks"
-stars = "2015"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
 version = "null"
 updated = ""
 size = "1.36 MB"
 bsum = "79e1273d016fa1dc8e07a549bc7afa0e7415df3b7694ffedea059dfeb44a578c"
 sha = "067c6b2a75bc407f38f402e9c20887379208ea643923f38bde029d9d149aad59"
 source = "https://bin.ajam.dev/x86_64_Linux/tok"
-language = "Go"
+language = "Shell"
 license = "null"
 
 [package.conditions]
@@ -22,5 +22,5 @@ conflicts  = ["tok"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
 categories = ["Utilities"]

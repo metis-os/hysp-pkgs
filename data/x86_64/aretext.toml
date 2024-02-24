@@ -1,0 +1,26 @@
+[bin]
+name = "aretext"
+
+[package]
+architecture = "x86_64"
+name = "aretext"
+description = "Minimalist text editor with vim-compatible key bindings."
+author = "aretext"
+repo = "https://github.com/aretext/aretext"
+stars = "237"
+version = "v1.2.0"
+updated = "2023-10-26T13:12:29Z"
+size = "6.71 MB"
+bsum = "704011a17c6050b339e97fa6594613b55931f8545303902d30f9b3fe759a0c7d"
+sha = "c178d04b46a8e348ef519a859128f8ec3463197f691e1299a8904ae07b24e569"
+source = "https://bin.ajam.dev/x86_64_Linux/aretext"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["aretext"]
+requires = []
+
+[package.metadata]
+keywords = ["code-editor","minimalist","modal-editing","syntax-highlighting","terminal-based","text-editor","tui","vim"]
+categories = ["Utilities"]

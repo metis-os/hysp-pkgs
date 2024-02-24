@@ -4,23 +4,23 @@ name = "curl"
 [package]
 architecture = "x86_64"
 name = "curl"
-description = "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
-author = "curl"
-repo = "https://github.com/curl/curl"
-stars = "33296"
-version = "curl-8_6_0"
-updated = "2024-01-31T07:15:55Z"
+description = "fully static builds of curl, runs anywhere"
+author = "moparisthebest"
+repo = "https://github.com/moparisthebest/static-curl"
+stars = "471"
+version = "v8.5.0"
+updated = "2023-12-14T01:31:25Z"
 size = "8.62 MB"
 bsum = "1f3a31c9c77e62a9372cd030eae9afbc118a2f683155196cba2f347fb2ee0972"
 sha = "328504b4e7f025b0542903259f44e0f3695a49b11e08f4dfdb9b6ea72ebc93fb"
 source = "https://bin.ajam.dev/x86_64_Linux/curl"
-language = "C"
-license = "Other"
+language = "Shell"
+license = "MIT License"
 
 [package.conditions]
 conflicts  = ["curl"]
 requires = []
 
 [package.metadata]
-keywords = ["c","client","curl","ftp","gopher","hacktoberfest","http","https","imaps","ldap","libcurl","library","mqtt","pop3","scp","sftp","transfer-data","transferring-data","user-agent","websocket"]
+keywords = []
 categories = ["Utilities"]

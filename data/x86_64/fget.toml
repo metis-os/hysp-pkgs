@@ -4,17 +4,17 @@ name = "fget"
 [package]
 architecture = "x86_64"
 name = "fget"
-description = "null"
-author = "bp0lr"
-repo = "https://github.com/bp0lr/fget"
-stars = "6"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
 version = "null"
 updated = ""
 size = "4.94 MB"
 bsum = "241b287ad2829e3ae3e4ba62843ee017e4cdd770423a76cb3b086dfd51bdf907"
 sha = "ea258ed4befc5a2dc5e43709f18c523aed1e70cd8dfa6a17ed8ee3a36710d604"
 source = "https://bin.ajam.dev/x86_64_Linux/fget"
-language = "Go"
+language = "Shell"
 license = "null"
 
 [package.conditions]
@@ -22,5 +22,5 @@ conflicts  = ["fget"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
 categories = ["Utilities"]

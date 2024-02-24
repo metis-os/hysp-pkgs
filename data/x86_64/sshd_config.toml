@@ -4,23 +4,23 @@ name = "sshd_config"
 [package]
 architecture = "x86_64"
 name = "sshd_config"
-description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
-author = "Azathothas"
-repo = "https://github.com/Azathothas/static-toolbox"
-stars = "17"
-version = "misc_utils_2024_02_22_07_42_57_AM"
-updated = "2024-02-22T01:57:57Z"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
 size = "3107 B"
 bsum = "780c6d45f77d6ddc309a35ec7a56436a0ded0e9b3e55b4fc644d0df6148c78ab"
 sha = "f6c2fbaffc1fc3f4f426171d38091206ae1bcc2f8a2dff03cefa5f3519e55a72"
 source = "https://bin.ajam.dev/x86_64_Linux/sshd_config"
-language = "Shell"
-license = "null"
+language = "C"
+license = "Other"
 
 [package.conditions]
 conflicts  = ["sshd_config"]
 requires = []
 
 [package.metadata]
-keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
 categories = ["Utilities"]

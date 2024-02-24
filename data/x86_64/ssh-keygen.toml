@@ -4,23 +4,23 @@ name = "ssh-keygen"
 [package]
 architecture = "x86_64"
 name = "ssh-keygen"
-description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
-author = "Azathothas"
-repo = "https://github.com/Azathothas/static-toolbox"
-stars = "17"
-version = "misc_utils_2024_02_22_07_42_57_AM"
-updated = "2024-02-22T01:57:57Z"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
 size = "4.29 MB"
 bsum = "c879bea226270174f80b0d6408e47165f66574f57689bc57dce278298d4510c8"
 sha = "fa750985af0b1cfd8b86514efec3c08ae6e25ac38eb565ee859bb9c943e86041"
 source = "https://bin.ajam.dev/x86_64_Linux/ssh-keygen"
-language = "Shell"
-license = "null"
+language = "C"
+license = "Other"
 
 [package.conditions]
 conflicts  = ["ssh-keygen"]
 requires = []
 
 [package.metadata]
-keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
 categories = ["Utilities"]

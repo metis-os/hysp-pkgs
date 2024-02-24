@@ -1,0 +1,26 @@
+[bin]
+name = "teldrive"
+
+[package]
+architecture = "x86_64"
+name = "teldrive"
+description = "Telegram Drive Storage"
+author = "divyam234"
+repo = "https://github.com/divyam234/teldrive"
+stars = "1238"
+version = "1.1.4"
+updated = "2024-02-19T18:53:14Z"
+size = "50.91 MB"
+bsum = "640ad61bbefad72058388ac4432f92eea4931a911ba4edd5c6c35430298e6248"
+sha = "5594e3c59b8ed330c07624f6e2d5a32f859db76c76fb82202ab1e290ca9d00c1"
+source = "https://bin.ajam.dev/x86_64_Linux/teldrive"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["teldrive"]
+requires = []
+
+[package.metadata]
+keywords = ["drive","golang","rclone","teldrive","teledrive","telegram","telegram-bot","telegramdrive"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "miniflux"
+
+[package]
+architecture = "x86_64"
+name = "miniflux"
+description = "Minimalist and opinionated feed reader"
+author = "miniflux"
+repo = "https://github.com/miniflux/v2"
+stars = "5897"
+version = "2.1.0"
+updated = "2024-02-17T21:20:56Z"
+size = "19.18 MB"
+bsum = "6ed1bdd1fd0a120c36cc3381a17588aad9cfd41c6a397a2e00b106f77ba220ab"
+sha = "79601d5314b2528923b3fb6271cbcf19270b1e925cb3a9b2942e4f4310c3f5c6"
+source = "https://bin.ajam.dev/x86_64_Linux/miniflux"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["miniflux"]
+requires = []
+
+[package.metadata]
+keywords = ["atom","feed","go","golang","jsonfeed","letsencrypt","opml","postgresql","rdf","rss"]
+categories = ["Utilities"]

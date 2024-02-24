@@ -1,0 +1,26 @@
+[bin]
+name = "tgpt"
+
+[package]
+architecture = "x86_64"
+name = "tgpt"
+description = "AI Chatbots in terminal without needing API keys"
+author = "aandrew-me"
+repo = "https://github.com/aandrew-me/tgpt"
+stars = "1406"
+version = "v2.7.1"
+updated = "2024-02-22T17:53:04Z"
+size = "8.51 MB"
+bsum = "33cc9090ebf578da9f7a8500449dee9c30a32f03a75b44eb76d825cc79eededc"
+sha = "e374de762473d1f70b9957d9c596705b1f492ab8a347193c335f7617255407e6"
+source = "https://bin.ajam.dev/x86_64_Linux/tgpt"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["tgpt"]
+requires = []
+
+[package.metadata]
+keywords = ["ai","chatbot","chatgpt","cli","go","golang","gpt3","gpt4","linux","llama","macos","terminal","windows"]
+categories = ["Utilities"]

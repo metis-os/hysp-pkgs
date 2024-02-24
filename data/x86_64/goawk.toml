@@ -1,0 +1,26 @@
+[bin]
+name = "goawk"
+
+[package]
+architecture = "x86_64"
+name = "goawk"
+description = "A POSIX-compliant AWK interpreter written in Go, with CSV support"
+author = "benhoyt"
+repo = "https://github.com/benhoyt/goawk"
+stars = "1798"
+version = "v1.25.0"
+updated = "2023-09-26T08:56:33Z"
+size = "2.81 MB"
+bsum = "5f9064bbd6c52289f3f0ae665446ab8ce352128ab03b43243c4261005b7364ec"
+sha = "899395fa4d5cd6350a0eaeb06d761f71b2356b1731afc9d2a07af72181355574"
+source = "https://bin.ajam.dev/x86_64_Linux/goawk"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["goawk"]
+requires = []
+
+[package.metadata]
+keywords = ["awk","csv","go","interpreter","parser"]
+categories = ["Utilities"]

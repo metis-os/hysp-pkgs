@@ -1,0 +1,26 @@
+[bin]
+name = "hardeningmeter_staticx"
+
+[package]
+architecture = "x86_64"
+name = "hardeningmeter_staticx"
+description = "HardeningMeter is an open-source Python tool carefully designed to comprehensively assess the security hardening of binaries and systems."
+author = "OfriOuzan"
+repo = "https://github.com/OfriOuzan/HardeningMeter"
+stars = "30"
+version = "null"
+updated = ""
+size = "7.29 MB"
+bsum = "0ad4b58104ef730381188f3b84298a770f970f65b274b228a7c94ff1572167c2"
+sha = "098f5f8e16c5c31a517e3cf9693a22db2c294d9f3adb26fc10f99ab2c602fabf"
+source = "https://bin.ajam.dev/x86_64_Linux/hardeningmeter_staticx"
+language = "Python"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["hardeningmeter_staticx"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

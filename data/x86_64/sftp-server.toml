@@ -4,23 +4,23 @@ name = "sftp-server"
 [package]
 architecture = "x86_64"
 name = "sftp-server"
-description = "Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]"
-author = "Azathothas"
-repo = "https://github.com/Azathothas/static-toolbox"
-stars = "17"
-version = "misc_utils_2024_02_22_07_42_57_AM"
-updated = "2024-02-22T01:57:57Z"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
 size = "243.77 kB"
 bsum = "5f026a9f1e2736d72ef3f62d9168cc0b0639dad57794b08756e5673e3a92386e"
 sha = "8b0b7a79de2106fe5c6f21b10aa40b51dba600932b324aa084dd3652446d14ed"
 source = "https://bin.ajam.dev/x86_64_Linux/sftp-server"
-language = "Shell"
-license = "null"
+language = "C"
+license = "Other"
 
 [package.conditions]
 conflicts  = ["sftp-server"]
 requires = []
 
 [package.metadata]
-keywords = ["coreutils","git","kmod","linux","moreutils","nmap","openssh","procps","socat","static-binary","strace","tcpdump","util-linux"]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
 categories = ["Utilities"]

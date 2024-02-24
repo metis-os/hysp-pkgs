@@ -4,17 +4,17 @@ name = "comb"
 [package]
 architecture = "x86_64"
 name = "comb"
-description = "A collection of hacks and one-off scripts"
-author = "tomnomnom"
-repo = "https://github.com/tomnomnom/hacks"
-stars = "2015"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
 version = "null"
 updated = ""
 size = "1.35 MB"
 bsum = "49a8869a746fb34a164fdfdf049617443d53116a0d13be68b86323b26084b631"
 sha = "b00d662db195041acd35fc43e1ad63aa53453a797d43567db3b417453b3ba09c"
 source = "https://bin.ajam.dev/x86_64_Linux/comb"
-language = "Go"
+language = "Shell"
 license = "null"
 
 [package.conditions]
@@ -22,5 +22,5 @@ conflicts  = ["comb"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
 categories = ["Utilities"]

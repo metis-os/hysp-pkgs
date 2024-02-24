@@ -4,23 +4,23 @@ name = "rate-limit-checker"
 [package]
 architecture = "x86_64"
 name = "rate-limit-checker"
-description = "Check whether the domain has a rate limit enabled."
-author = "Sh1Yo"
-repo = "https://github.com/Sh1Yo/rate-limit-checker"
-stars = "43"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
 version = "null"
 updated = ""
 size = "4.86 MB"
 bsum = "cdd06254beef395bf0f420995dec9b106f7369a30755b36a2ff1f7f56d4de0c6"
 sha = "769933a681aaa636e7fb6676a7260b0d32969eb14ff8d8ff75dc473e7facad9a"
 source = "https://bin.ajam.dev/x86_64_Linux/rate-limit-checker"
-language = "Go"
-license = "MIT License"
+language = "Shell"
+license = "null"
 
 [package.conditions]
 conflicts  = ["rate-limit-checker"]
 requires = []
 
 [package.metadata]
-keywords = ["bugbounty","go","golang"]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
 categories = ["Utilities"]

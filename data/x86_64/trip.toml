@@ -1,0 +1,26 @@
+[bin]
+name = "trip"
+
+[package]
+architecture = "x86_64"
+name = "trip"
+description = "A network diagnostic tool"
+author = "fujiapple852"
+repo = "https://github.com/fujiapple852/trippy"
+stars = "2740"
+version = "0.9.0"
+updated = "2023-11-30T15:07:31Z"
+size = "7.14 MB"
+bsum = "2ae7dff83a2fb72590f65c4ea73cc2731a5c72e94de9a9f5c0c720ec46ee9bc4"
+sha = "86572474716436d116fd53f4578b961d72f85c909407373716710d201f8f93ca"
+source = "https://bin.ajam.dev/x86_64_Linux/trip"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["trip"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line-interface","command-line-tool","dns","freebsd","icmp","linux","macos","mtr","netbsd","network","networking","ping","rust","rustlang","tool","traceroute","tui","tui-rs","windows"]
+categories = ["Utilities"]

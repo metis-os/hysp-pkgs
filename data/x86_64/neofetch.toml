@@ -4,12 +4,12 @@ name = "neofetch"
 [package]
 architecture = "x86_64"
 name = "neofetch"
-description = "🖼️ A command-line system information tool written in bash 3.2+"
-author = "dylanaraps"
-repo = "https://github.com/dylanaraps/neofetch"
-stars = "19913"
-version = "7.1.0"
-updated = "2020-08-02T18:50:56Z"
+description = "🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!"
+author = "hykilpikonna"
+repo = "https://github.com/hykilpikonna/hyfetch"
+stars = "582"
+version = "1.4.11"
+updated = "2023-12-02T00:32:28Z"
 size = "548.09 kB"
 bsum = "a4fcf5561cf1d5ac6f29fee0e4992a1f5c7bb9cf25f3b766dd1ef328b171283d"
 sha = "bfe58e1e41a2e8c8fcce2fa67f3c4dbebfdc1483b91c346c6977a28adc872104"
@@ -22,5 +22,5 @@ conflicts  = ["neofetch"]
 requires = []
 
 [package.metadata]
-keywords = ["bash","command-line","commandline","distro","neofetch","screenshot","script"]
+keywords = ["hyfetch","neofetch","neowofetch","screenfetch"]
 categories = ["Utilities"]

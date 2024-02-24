@@ -1,0 +1,26 @@
+[bin]
+name = "syncat"
+
+[package]
+architecture = "x86_64"
+name = "syncat"
+description = "Syntax aware cat"
+author = "foxfriends"
+repo = "https://github.com/foxfriends/syncat"
+stars = "37"
+version = "3.5.0"
+updated = "2023-11-01T13:49:33Z"
+size = "8.4 MB"
+bsum = "72c2e37e3563972aa049096af1d533110ce57f1962828dedaef534c4c330a513"
+sha = "e78faf3680a514c621ab9254f6eeb0b7d147d87c44490a6fa96e19801d53a900"
+source = "https://bin.ajam.dev/x86_64_Linux/syncat"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["syncat"]
+requires = []
+
+[package.metadata]
+keywords = ["cat","color","colour","command-line","highlighting","style","syntax","terminal"]
+categories = ["Utilities"]

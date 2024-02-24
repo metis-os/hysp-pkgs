@@ -1,0 +1,26 @@
+[bin]
+name = "nginx"
+
+[package]
+architecture = "x86_64"
+name = "nginx"
+description = "Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux."
+author = "jirutka"
+repo = "https://github.com/jirutka/nginx-binaries"
+stars = "34"
+version = "v0.7.0"
+updated = "null"
+size = "6.12 MB"
+bsum = "f013dbdd2fa45b45be4c1c6ef701110b6fb9ad01cad504f9866988d296372b48"
+sha = "ae5ab553221fc06b84fb1a829e81d4ddd7a708d8da2362fbc00b42f5dabb06ba"
+source = "https://bin.ajam.dev/x86_64_Linux/nginx"
+language = "TypeScript"
+license = "null"
+
+[package.conditions]
+conflicts  = ["nginx"]
+requires = []
+
+[package.metadata]
+keywords = ["binaries","javascript","nginx","nginx-linux","nginx-macos","nginx-windows","njs","static-binaries"]
+categories = ["Utilities"]
