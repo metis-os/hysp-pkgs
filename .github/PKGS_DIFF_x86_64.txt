@@ -11,6 +11,7 @@
 │ 41 │-bigdl                            │    │
 │ 43 │-binary-security-check            │    │
 │ 51 │-bombadillo                       │    │
+│ 62 │-caddy                            │    │
 │ 63 │-caido-cli                        │    │
 │ 68 │-certgraph                        │    │
 │ 71 │-certstream-server-go             │    │
