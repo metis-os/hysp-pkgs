@@ -190,7 +190,7 @@ jobs:
       - name: Generate Markdown ( Main README.md)
         run: |
            #Presets
-           set -x ; set +e ; ulimit -S -s unlimited
+           set -x ; set +e ; ulimit -S -s unlimited ; ulimit -f unlimited 2>/dev/null
            #--------------#
            cd "$GITHUB_WORKSPACE/main"
            #Generate $GITHUB_WORKSPACE/main/README.md
