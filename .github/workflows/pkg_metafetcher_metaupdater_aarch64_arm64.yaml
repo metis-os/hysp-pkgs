@@ -197,11 +197,11 @@ jobs:
            cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
            #aarch64_arm64
            unset TOTAL_PACKAGES
-           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
            sed "s/PLACEHOLDER_aarch64_arm64/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
            #x86_64
            unset TOTAL_PACKAGES
-           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
            sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
         continue-on-error: true
 
