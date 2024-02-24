@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8486
+- **Stars:** 8487
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22799
+- **Stars:** 22801
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -147,8 +147,8 @@
 - **Author:** TimothyYe
 - **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
 - **Stars:** 1407
-- **Version:** v3.1.2
-- **Updated:** 2024-02-17T16:42:39Z
+- **Version:** v3.1.3
+- **Updated:** 2024-02-24T13:46:47Z
 - **Size:** 12.38 MB
 - **SHASUM:** 8fada4617c3e1cc9389e6aeb5376a29846718ac68b5702082c113684142c821e
 - **B3SUM:** ec8f29e44a31043e9c086f963323ea144b8113114b26ae435dac4a886029baf6
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6529
+- **Stars:** 6530
 - **Version:** v1.4.0
 - **Updated:** 2024-02-12T15:23:09Z
 - **Size:** 42.14 MB
@@ -322,7 +322,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1048
+- **Stars:** 1049
 - **Version:** v2.27.0
 - **Updated:** 2024-02-12T23:17:52Z
 - **Size:** 6.8 MB
