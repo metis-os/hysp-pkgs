@@ -83,6 +83,7 @@ jobs:
                 bin="$(jq -r '.Name' <<< "$obj" | sed 's/\s//g' | tr -d '[:space:]')" && export bin="$bin"
                 repo="$(jq -r '.Repo' <<< "$obj" | sed 's|^https://github.com/||' | sed 's/\s//g' | tr -d '[:space:]')" && export repo="$repo"
                 # Set up the environment variables and execute the one-liner
+                echo -e "\n\n[+] Generating Meta for $bin ($repo)\n"
                 BIN="$bin" REPO="$repo" SOURCE_BIN="https://bin.ajam.dev/x86_64_Linux" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64_bin.ajam.dev.sh")
                 #unset vars
                 unset bin repo
