@@ -1,0 +1,26 @@
+[bin]
+name = "pier"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pier"
+description = "A Linux script management CLI written in Rust"
+author = "pier-cli"
+repo = "https://github.com/pier-cli/pier"
+stars = "489"
+version = "v0.1.5"
+updated = "2024-01-14T19:49:36Z"
+size = "1.07 MB"
+bsum = "c0fae3fbbd5fbab45999a3d73806e596b48387dae2d771e2d73d3d7cb78b8a46"
+sha = "d54b1673535b4f3cd793f035880f1866f42d51ebe63741efa3da4db23444ed35"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/pier"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pier"]
+requires = []
+
+[package.metadata]
+keywords = ["clis","linux","rust","tools"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "bearer"
+
+[package]
+architecture = "aarch64_arm64"
+name = "bearer"
+description = "Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks."
+author = "Bearer"
+repo = "https://github.com/Bearer/bearer"
+stars = "1586"
+version = "v1.39.0"
+updated = "2024-02-22T13:53:11Z"
+size = "49.99 MB"
+bsum = "61ab16273c602902ff57463e44e5048457f689494d6ed93fda7b11acb49cbb36"
+sha = "d934c61a747670ca032113895d60f08c89ea399dc868084683a5ce81c2bcaf9a"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/bearer"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["bearer"]
+requires = []
+
+[package.metadata]
+keywords = ["appsec","code-quality","compliance","dataflow","devsecops","devsecops-tools","gdpr","owasp","privacy","sast","security","security-audit","security-automation","security-scanner","security-tools","static-analysis","static-code-analysis","vulnerabilities","vulnerability"]
+categories = ["Utilities"]

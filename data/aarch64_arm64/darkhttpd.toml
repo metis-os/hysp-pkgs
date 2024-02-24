@@ -1,0 +1,26 @@
+[bin]
+name = "darkhttpd"
+
+[package]
+architecture = "aarch64_arm64"
+name = "darkhttpd"
+description = "When you need a web server in a hurry."
+author = "emikulic"
+repo = "https://github.com/emikulic/darkhttpd"
+stars = "971"
+version = "v1.15"
+updated = "2024-01-18T09:40:34Z"
+size = "95.89 kB"
+bsum = "4672d87f73b3b795241b644eed287f04a86ec2f973bec463e8c3ce7f52ca207b"
+sha = "a14d1e4f7e89228832509fbd1f9923eff072dfc224ad4fc1b6cf3f1c6819e181"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/darkhttpd"
+language = "C"
+license = "ISC License"
+
+[package.conditions]
+conflicts  = ["darkhttpd"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

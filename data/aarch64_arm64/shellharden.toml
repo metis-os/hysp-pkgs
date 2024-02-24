@@ -1,0 +1,26 @@
+[bin]
+name = "shellharden"
+
+[package]
+architecture = "aarch64_arm64"
+name = "shellharden"
+description = "The corrective bash syntax highlighter"
+author = "anordal"
+repo = "https://github.com/anordal/shellharden"
+stars = "4519"
+version = "v4.3.0"
+updated = "2022-06-26T15:40:54Z"
+size = "416.34 kB"
+bsum = "78be4b254a69db1aeb51fab7550574bc6b0203a735448fdaa74d703af9eb4e30"
+sha = "737c938f19d24f8d37390437015ee32afa22bde301880efa99a310c5317bb508"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/shellharden"
+language = "Rust"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["shellharden"]
+requires = []
+
+[package.metadata]
+keywords = ["lint","policy","syntax-highlighter"]
+categories = ["Utilities"]

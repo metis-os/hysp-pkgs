@@ -1,0 +1,26 @@
+[bin]
+name = "hx"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hx"
+description = "🔮 Futuristic take on hexdump, made in Rust."
+author = "sitkevij"
+repo = "https://github.com/sitkevij/hex"
+stars = "484"
+version = "v0.6.0"
+updated = "2024-01-02T00:27:34Z"
+size = "770.04 kB"
+bsum = "0be3835fd5a3e7d214cae02b9f92a4a537bfffc51066a61a17dfafff4eab4464"
+sha = "2788cc66982dd5fd99f8e48270c1270cc6dea9f6b7bd1a4e3056fbb2a17b8fcb"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/hx"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hx"]
+requires = []
+
+[package.metadata]
+keywords = ["ascii","binary-data","bytes","developer-tools","hex","hexadecimal","hexdump","rust","xxd"]
+categories = ["Utilities"]

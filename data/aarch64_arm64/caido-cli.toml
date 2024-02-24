@@ -1,0 +1,26 @@
+[bin]
+name = "caido-cli"
+
+[package]
+architecture = "aarch64_arm64"
+name = "caido-cli"
+description = "🚀 Caido releases, wiki and roadmap"
+author = "caido"
+repo = "https://github.com/caido/caido"
+stars = "691"
+version = "v0.32.0"
+updated = "2024-02-22T02:12:24Z"
+size = "16.4 MB"
+bsum = "c32b8a8f5d8794d22d8bbff412030df913961cb3911994120dafb01407988204"
+sha = "f5fe105951c20f4ae348ce8e7531426d3bc5aa5773b51d87ae7b42051e4b17df"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/caido-cli"
+language = "Dockerfile"
+license = "null"
+
+[package.conditions]
+conflicts  = ["caido-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","pentesting","proxy","security","tool"]
+categories = ["Utilities"]

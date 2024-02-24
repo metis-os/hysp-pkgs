@@ -1,0 +1,26 @@
+[bin]
+name = "cheat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cheat"
+description = "cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember."
+author = "cheat"
+repo = "https://github.com/cheat/cheat"
+stars = "11626"
+version = "4.4.2"
+updated = "2023-12-15T17:55:49Z"
+size = "10.9 MB"
+bsum = "6192dd0d4cd462aebd4811fd02a91852a77eea751db340eb40bd5f8e33f37b1c"
+sha = "3f6009ae68985fcfc42059015f5d5e080d97a3e1a2c71817091fbeeea661e064"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cheat"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cheat"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","cheat","cheatsheet","cheatsheets","documentation","help","interactive-cheatsheets","man-page"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "elvish"
+
+[package]
+architecture = "aarch64_arm64"
+name = "elvish"
+description = " powerful scripting language in one"
+author = "elves"
+repo = "https://github.com/elves/elvish"
+stars = "5243"
+version = "v0.20.1"
+updated = "2024-02-14T14:20:49Z"
+size = "6.69 MB"
+bsum = "516cb3df5688902b7350a7f8fca8b1dc159cd97ab6d5639a6c5d39c657eaca91"
+sha = "94523fb02175cb2e10f1c99a0cc7020d74c237432a3c0564253c4eb7a81a6b06"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/elvish"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["elvish"]
+requires = []
+
+[package.metadata]
+keywords = ["go","programming-language","shell","unix"]
+categories = ["Utilities"]

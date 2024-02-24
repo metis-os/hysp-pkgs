@@ -1,0 +1,26 @@
+[bin]
+name = "tinja"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tinja"
+description = "TInjA is a CLI tool for testing web pages for template injection vulnerabilities and supports 44 of the most relevant template engines for eight different programming languages."
+author = "Hackmanit"
+repo = "https://github.com/Hackmanit/TInjA"
+stars = "210"
+version = "1.1.1"
+updated = "2024-02-15T13:55:05Z"
+size = "15.05 MB"
+bsum = "25abd317004ecdec2b6eded163cfb65d9e4304e2babf1aeba731322c560d47b5"
+sha = "17567af9025533bc58e82e4745fdd960723b3961425a32d4082af36fdf415b01"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/tinja"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["tinja"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

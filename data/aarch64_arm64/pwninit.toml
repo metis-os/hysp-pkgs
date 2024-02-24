@@ -1,0 +1,26 @@
+[bin]
+name = "pwninit"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pwninit"
+description = "pwninit - automate starting binary exploit challenges"
+author = "io12"
+repo = "https://github.com/io12/pwninit"
+stars = "746"
+version = "3.3.1"
+updated = "2023-12-30T23:12:59Z"
+size = "8.13 MB"
+bsum = "be9ed7ca19aae525b9c67ea8f1a0435bf74c8d4a0396ca90ea77739315122113"
+sha = "63074812c0972c1f1beec08fe65b23acf04acf1d6765e75c33122b9b350ef1b1"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/pwninit"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pwninit"]
+requires = []
+
+[package.metadata]
+keywords = ["binary","elf","exploit","init","pwn"]
+categories = ["Utilities"]

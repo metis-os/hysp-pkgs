@@ -1,0 +1,26 @@
+[bin]
+name = "svg-hush"
+
+[package]
+architecture = "aarch64_arm64"
+name = "svg-hush"
+description = "Make it safe to serve untrusted SVG files"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/svg-hush"
+stars = "330"
+version = "0.9.4"
+updated = "null"
+size = "868.47 kB"
+bsum = "666620a0516ebb7e635e7091b09ff594b99669011c619107504ed82d2452b7aa"
+sha = "a3b2832f78a8019c09388a3c4617438db5e56c03d46af7d977bd96b45e4be83e"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/svg-hush"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["svg-hush"]
+requires = []
+
+[package.metadata]
+keywords = ["sanitizer","security","svg","xss-filter"]
+categories = ["Utilities"]

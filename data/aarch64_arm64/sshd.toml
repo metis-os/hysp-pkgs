@@ -1,0 +1,26 @@
+[bin]
+name = "sshd"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sshd"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
+size = "5 MB"
+bsum = "9186aeaa732f566a56e0176f58029b970b17bf8ae9b09e0501f5f3ee6ef3f418"
+sha = "136b0cb2ad9747320cf0aac48f58d4bbfcdbf7eaeb468a2c8ef93eaf66ad5cb0"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/sshd"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sshd"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
+categories = ["Utilities"]

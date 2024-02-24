@@ -1,0 +1,26 @@
+[bin]
+name = "cfssl-certinfo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cfssl-certinfo"
+description = "CFSSL: Cloudflare's PKI and TLS toolkit"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cfssl"
+stars = "8328"
+version = "v1.6.4"
+updated = "2023-04-10T19:07:12Z"
+size = "9.28 MB"
+bsum = "cda477c3206252b0ccc914fef0ba3f3f70df3ef6e4fe84a219e16e4833b8f2e3"
+sha = "08aa8fd0761f39772e23bfa13e8d1dff432c3d7e8c6c34860dedf9d1b0b17a16"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cfssl-certinfo"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["cfssl-certinfo"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

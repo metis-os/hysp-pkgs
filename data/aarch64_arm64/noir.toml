@@ -1,0 +1,26 @@
+[bin]
+name = "noir"
+
+[package]
+architecture = "aarch64_arm64"
+name = "noir"
+description = "Attack surface detector that identifies endpoints by static analysis"
+author = "noir-cr"
+repo = "https://github.com/noir-cr/noir"
+stars = "470"
+version = "v0.12.2"
+updated = "2024-02-03T12:16:01Z"
+size = "8.63 MB"
+bsum = "c118d8a34802f3d6b74b5b21b41ad4070eef3e989450c20c443f7e2db8847bfe"
+sha = "0edbbfdbabeb3f9835216dc23abfdeb694a632995f69e876d3dfeb790dc91c11"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/noir"
+language = "Crystal"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["noir"]
+requires = []
+
+[package.metadata]
+keywords = ["attack-surface-detector","attack-surfaces","crystal","crystal-lang","devsecops","noir","pentesting","security"]
+categories = ["Utilities"]

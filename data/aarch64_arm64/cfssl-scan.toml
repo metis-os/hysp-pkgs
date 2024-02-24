@@ -1,0 +1,26 @@
+[bin]
+name = "cfssl-scan"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cfssl-scan"
+description = "CFSSL: Cloudflare's PKI and TLS toolkit"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cfssl"
+stars = "8328"
+version = "v1.6.4"
+updated = "2023-04-10T19:07:12Z"
+size = "9.42 MB"
+bsum = "b54db23cb9c6a0097df2beae340f0aaf20e71139189b2963974da05dd50a67f1"
+sha = "2bb7752b59b9fc2b5e3d726eacf0b7f845663dea1ac82f37d8cabdab0bc825c3"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cfssl-scan"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["cfssl-scan"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

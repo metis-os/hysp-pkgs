@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-keysign"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ssh-keysign"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
+size = "4.45 MB"
+bsum = "17b698d82a06efe5d87b43377a0065dc2eb58f6c4a4f66ec6d17a0b3a34105b5"
+sha = "6a024dfae5fa8a27a07fab3d50b594fd50f7341528d0e3c98475f7104f49eeb0"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ssh-keysign"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["ssh-keysign"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
+categories = ["Utilities"]

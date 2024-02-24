@@ -1,0 +1,26 @@
+[bin]
+name = "devpod"
+
+[package]
+architecture = "aarch64_arm64"
+name = "devpod"
+description = "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+author = "loft-sh"
+repo = "https://github.com/loft-sh/devpod"
+stars = "6456"
+version = "v0.5.3"
+updated = "2024-02-19T16:21:28Z"
+size = "23.17 MB"
+bsum = "b01e4f3fa5fe87f47ef016c9da746e53525d6bdd4261cd4fb8c65ac45f5dcb52"
+sha = "63828c7d958817f9cafad5ce595fbde2f0e8896ef5b53de66adbdab1b8d481fc"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/devpod"
+language = "Go"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["devpod"]
+requires = []
+
+[package.metadata]
+keywords = ["cloud","devcontainer","devcontainers","developer-tools","development","docker","hacktoberfest","hacktoberfest2023","ide","kubernetes","remote-development","remote-development-environment","vscode"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-keygen"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ssh-keygen"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
+size = "4.36 MB"
+bsum = "4bdf5e3f21f99b62619f1d7142ea72a28eff1b426b4961b51d848c0877e9088b"
+sha = "368890894661d0e67604328ceeb67ef06175814878f4714495d86c33a812a223"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ssh-keygen"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["ssh-keygen"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
+categories = ["Utilities"]

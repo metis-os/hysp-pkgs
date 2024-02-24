@@ -1,0 +1,26 @@
+[bin]
+name = "anewer"
+
+[package]
+architecture = "aarch64_arm64"
+name = "anewer"
+description = "anewer appends lines from stdin to a file if they don't already exist in the file. This is a rust version of https://github.com/tomnomnom/anew"
+author = "ysf"
+repo = "https://github.com/ysf/anewer"
+stars = "56"
+version = "0.1.6"
+updated = "2021-09-13T13:53:25Z"
+size = "697.93 kB"
+bsum = "c6eea6a6b425acdacac8e2597f40903b79ca498197b3bca55b2623cd2e2faee3"
+sha = "54e76ec53eca9f6fbf9e65d9c03a500074cd1a5fdf570f57cf08c9e6f25b484c"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/anewer"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["anewer"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","cli","rust","stdin","stdout","tool","uniq"]
+categories = ["Utilities"]

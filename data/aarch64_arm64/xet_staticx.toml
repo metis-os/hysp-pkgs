@@ -1,0 +1,26 @@
+[bin]
+name = "xet_staticx"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xet_staticx"
+description = "Python SDK for XetHub"
+author = "xetdata"
+repo = "https://github.com/xetdata/pyxet"
+stars = "33"
+version = "null"
+updated = ""
+size = "36.67 MB"
+bsum = "3b4b2bac1733081071bdc56a3ba0859bc510501d68136e823bdda038ee121ca0"
+sha = "690bfa5830721add3190aab2e790e4fc066909dc65fc843b5fc539f49c5365f0"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/xet_staticx"
+language = "Python"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["xet_staticx"]
+requires = []
+
+[package.metadata]
+keywords = ["sdk-python","xethub"]
+categories = ["Utilities"]

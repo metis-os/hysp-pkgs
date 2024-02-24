@@ -1,0 +1,26 @@
+[bin]
+name = "crawley"
+
+[package]
+architecture = "aarch64_arm64"
+name = "crawley"
+description = "The unix-way web crawler"
+author = "s0rg"
+repo = "https://github.com/s0rg/crawley"
+stars = "216"
+version = "v1.7.3"
+updated = "2024-02-11T18:30:50Z"
+size = "5.15 MB"
+bsum = "10fff7dd3b3d6a69e094def290770527311fab3962f7af4cfe0287a948faff9b"
+sha = "585db0ac8b796192873526142c9cacb0652901b101ca469123501212d2ea2dd6"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/crawley"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["crawley"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","crawler","go","golang","golang-application","pentest-tool","unix-way","web-crawler","web-scraping","web-spider"]
+categories = ["Utilities"]

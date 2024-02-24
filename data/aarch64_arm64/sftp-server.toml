@@ -1,0 +1,26 @@
+[bin]
+name = "sftp-server"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sftp-server"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2693"
+version = "V_9_6_P1"
+updated = "null"
+size = "264.2 kB"
+bsum = "c034001bcee7d97ae4cb38ba1d84855acb30b4bbcc0279b487f18ca9e6b71148"
+sha = "d6c56043c5c29d093aae93abb031a3ea7928fc1a52adc1c2b9d354dd269bc0f3"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/sftp-server"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sftp-server"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "certstream-server-go"
+
+[package]
+architecture = "aarch64_arm64"
+name = "certstream-server-go"
+description = "This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket connections to the clients."
+author = "d-Rickyy-b"
+repo = "https://github.com/d-Rickyy-b/certstream-server-go"
+stars = "67"
+version = "v1.5.2"
+updated = "2024-02-17T00:11:19Z"
+size = "10.16 MB"
+bsum = "07479cb684dfc618d8cc0922ba3568872f6c4e73b02037fae265a5fb2e0e0d8d"
+sha = "b45a1676a5bbd541242eef6264f676ea96d3372a39081f9a023541c2717afb80"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/certstream-server-go"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["certstream-server-go"]
+requires = []
+
+[package.metadata]
+keywords = ["certificate","certificate-transparency","certificates","certstream","go","golang","osint","phishing","reconnaissance","security","tls","tls-certificate","x509"]
+categories = ["Utilities"]

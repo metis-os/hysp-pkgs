@@ -1,0 +1,26 @@
+[bin]
+name = "mailpit"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mailpit"
+description = "An email and SMTP testing tool with API for developers"
+author = "axllent"
+repo = "https://github.com/axllent/mailpit"
+stars = "4070"
+version = "v1.13.3"
+updated = "2024-02-09T10:29:17Z"
+size = "18.52 MB"
+bsum = "fec51cec70f205d5509ed5c984c6de9e62c0313f1b5f8f5d125e4f125c4a7f65"
+sha = "abfb7bee2094e2f32cdd8aa5d69eb0f6894934be19da9190e6a230fa0ac31644"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/mailpit"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mailpit"]
+requires = []
+
+[package.metadata]
+keywords = ["email-testing","go","golang","mailpit","smtp-relay","smtp-server","smtp-testing"]
+categories = ["Utilities"]

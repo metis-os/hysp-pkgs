@@ -1,0 +1,26 @@
+[bin]
+name = "ffufw"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ffufw"
+description = "null"
+author = "puzzlepeaches"
+repo = "https://github.com/puzzlepeaches/ffufw"
+stars = "87"
+version = "null"
+updated = ""
+size = "12.74 MB"
+bsum = "3a6de281fc8a56eb78244909a68bf41e1516650a1bfe76b845d32a50c1025798"
+sha = "328564d77b612a7b4dd78461ef1d6541d176a8f82ff4322b1b0a13793b8fdded"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ffufw"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ffufw"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

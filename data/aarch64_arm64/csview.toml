@@ -1,0 +1,26 @@
+[bin]
+name = "csview"
+
+[package]
+architecture = "aarch64_arm64"
+name = "csview"
+description = "📠 Pretty and fast csv viewer for cli with cjk/emoji support."
+author = "wfxr"
+repo = "https://github.com/wfxr/csview"
+stars = "494"
+version = "v1.2.2"
+updated = "2022-10-09T10:05:47Z"
+size = "850.33 kB"
+bsum = "0a9d684353959c2ff6ffdc85c77d6d17e5308f0d38f2b67613f6c210eb1372df"
+sha = "94cc9c6baab5216644e37f67e57475c77c27c0883ed2048ba876b55e330fed63"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/csview"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["csview"]
+requires = []
+
+[package.metadata]
+keywords = ["cjk","cli","command-line","csv","pager","rust","table","terminal","tool"]
+categories = ["Utilities"]

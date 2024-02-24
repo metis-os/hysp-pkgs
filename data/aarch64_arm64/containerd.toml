@@ -4,12 +4,12 @@ name = "containerd"
 [package]
 architecture = "aarch64_arm64"
 name = "containerd"
-description = "An open and reliable container runtime"
-author = "containerd"
-repo = "https://github.com/containerd/containerd"
-stars = "15943"
-version = "v1.7.13"
-updated = "2024-01-31T20:58:30Z"
+description = "The Docker CLI"
+author = "docker"
+repo = "https://github.com/docker/cli"
+stars = "4509"
+version = "v25.0.3"
+updated = "null"
 size = "37.66 MB"
 bsum = "87245063460c6fefdd41a1351b8116a9232d2b9a1ab0982211362011a46bbef2"
 sha = "f63ba1397a9a37943b04cc5b706dee9d0c6c41ac6c056b5e3201f1391d270474"
@@ -22,5 +22,5 @@ conflicts  = ["containerd"]
 requires = []
 
 [package.metadata]
-keywords = ["cncf","containerd","containers","cri","docker","hacktoberfest","kubernetes","oci"]
+keywords = ["cli","docker"]
 categories = ["Utilities"]

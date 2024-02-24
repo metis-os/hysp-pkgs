@@ -1,0 +1,26 @@
+[bin]
+name = "nnn"
+
+[package]
+architecture = "aarch64_arm64"
+name = "nnn"
+description = "n³ The unorthodox terminal file manager"
+author = "jarun"
+repo = "https://github.com/jarun/nnn"
+stars = "17888"
+version = "v4.9"
+updated = "2023-08-27T04:28:26Z"
+size = "407.62 kB"
+bsum = "ea1359f69a28bc6c82e918ed00b6f05ed61e27c821f61a97668a253a8759e94e"
+sha = "239138d00902e766b4fb62ad2c2aa9ea1cda789981748f45804ee0754d42fa16"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/nnn"
+language = "C"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["nnn"]
+requires = []
+
+[package.metadata]
+keywords = ["android","batch-rename","c","cli","command-line","developer-tools","disk-usage","file-manager","file-preview","file-search","filesystem","launcher","multi-platform","ncurses","productivity","raspberry-pi","terminal","tui","vim","wsl"]
+categories = ["Utilities"]

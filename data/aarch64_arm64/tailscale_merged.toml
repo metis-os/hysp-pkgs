@@ -1,0 +1,26 @@
+[bin]
+name = "tailscale_merged"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tailscale_merged"
+description = "The easiest, most secure way to use WireGuard and 2FA."
+author = "tailscale"
+repo = "https://github.com/tailscale/tailscale"
+stars = "15518"
+version = "v1.60.0"
+updated = "2024-02-15T21:08:21Z"
+size = "20.95 MB"
+bsum = "6cb4129dd12e33a73eb99ed622818b277e60414c3b940b25ba59f9f633ce5eb3"
+sha = "c51f7fd7e8a02957f934ef1312b24840d6164954779a74c405e2175366fc03b1"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/tailscale_merged"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["tailscale_merged"]
+requires = []
+
+[package.metadata]
+keywords = ["2fa","oauth","sso","tailscale","vpn","wireguard"]
+categories = ["Utilities"]

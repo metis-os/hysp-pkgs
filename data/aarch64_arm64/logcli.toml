@@ -1,0 +1,26 @@
+[bin]
+name = "logcli"
+
+[package]
+architecture = "aarch64_arm64"
+name = "logcli"
+description = "Like Prometheus, but for logs."
+author = "grafana"
+repo = "https://github.com/grafana/loki"
+stars = "21316"
+version = "v2.9.4"
+updated = "2024-01-24T16:20:16Z"
+size = "57.31 MB"
+bsum = "fcbe723d8a09217e9354d9c1ad76112b4732d201d3f74b08b9ad39c1de365c74"
+sha = "eb8a7ff4837261325f24ba609a087d1f54be1375e75d2c97af5917860b71b8ed"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/logcli"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["logcli"]
+requires = []
+
+[package.metadata]
+keywords = ["cloudnative","grafana","hacktoberfest","logging","loki","prometheus"]
+categories = ["Utilities"]

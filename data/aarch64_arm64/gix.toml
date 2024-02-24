@@ -1,0 +1,26 @@
+[bin]
+name = "gix"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gix"
+description = " safe pure Rust implementation of Git"
+author = "Byron"
+repo = "https://github.com/Byron/gitoxide"
+stars = "7663"
+version = "gix-lock-v13.1.0"
+updated = "2024-02-06T17:43:29Z"
+size = "18.06 MB"
+bsum = "ca868b0255421c8e06a980d41f423d5dfa64173ef3a274bdb0264405bcb1b8e2"
+sha = "cb8b7eff10ae68f846b7e1be7c14cb7a11fee2677df4e3305a3f2395535fde12"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gix"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gix"]
+requires = []
+
+[package.metadata]
+keywords = ["blazingly-fast","built-with-rust","cli","git","version-control"]
+categories = ["Utilities"]

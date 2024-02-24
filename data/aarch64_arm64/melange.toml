@@ -1,0 +1,26 @@
+[bin]
+name = "melange"
+
+[package]
+architecture = "aarch64_arm64"
+name = "melange"
+description = "build APKs from source code"
+author = "chainguard-dev"
+repo = "https://github.com/chainguard-dev/melange"
+stars = "320"
+version = "v0.6.4"
+updated = "2024-02-24T02:57:04Z"
+size = "53.13 MB"
+bsum = "e1a9cec36ea4baedb536f522860bb78645a10cd54be17ac81d874f38a68959bc"
+sha = "76cfeb47471234f96696cbcb8a0908d72db843460d0a5efb54b13000d795c321"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/melange"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["melange"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

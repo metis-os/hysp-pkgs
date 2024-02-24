@@ -1,0 +1,26 @@
+[bin]
+name = "awk"
+
+[package]
+architecture = "aarch64_arm64"
+name = "awk"
+description = "One true awk"
+author = "onetrueawk"
+repo = "https://github.com/onetrueawk/awk"
+stars = "1877"
+version = "20230909"
+updated = "2023-09-09T23:56:40Z"
+size = "737.38 kB"
+bsum = "0b6b5b21ad48deeeebc16f2e43545d189dc0bedfe2dad8da2bde7ade6d894b15"
+sha = "c23e021e70295975c94eb6f8ed51630e937a28e6d34056e517e17aa41d9ff975"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/awk"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["awk"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

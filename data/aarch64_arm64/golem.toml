@@ -1,0 +1,26 @@
+[bin]
+name = "golem"
+
+[package]
+architecture = "aarch64_arm64"
+name = "golem"
+description = "Realm is a cross platform Red Team engagement platform with a focus on automation and reliability."
+author = "spellshift"
+repo = "https://github.com/spellshift/realm"
+stars = "261"
+version = "v0.0.6"
+updated = "2024-02-08T20:14:31Z"
+size = "16.69 MB"
+bsum = "5e3c979bc9ab243fd29506bcd324003fe735673c048da204d5461536e5b14166"
+sha = "70d8648739e1ca14b7bd58b03785563bdfbd3d2eaed692a08778972c7f2b586b"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/golem"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["golem"]
+requires = []
+
+[package.metadata]
+keywords = ["agent","bot","c2","cyber","cybersecurity","golang","graphql","implant","react","redteam","redteam-tools","redteaming","rust","teamserver","typescript","webui"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "cfssl-bundle"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cfssl-bundle"
+description = "CFSSL: Cloudflare's PKI and TLS toolkit"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cfssl"
+stars = "8328"
+version = "v1.6.4"
+updated = "2023-04-10T19:07:12Z"
+size = "9.16 MB"
+bsum = "5b0c1cc8d91fb3a3cb7ffc33ec883fd803eb3cd1aa1bea1c045b20b465b1260b"
+sha = "be688a84611ad658cf145835e194c22e3ff3a2a8365ee09ec69c222696c533b1"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cfssl-bundle"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["cfssl-bundle"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

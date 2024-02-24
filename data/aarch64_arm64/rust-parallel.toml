@@ -1,0 +1,26 @@
+[bin]
+name = "rust-parallel"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rust-parallel"
+description = "Fast command line app in rust/tokio to run commands in parallel. Similar interface to GNU parallel or xargs plus useful features. Listed in Awesome Rust utilities."
+author = "aaronriekenberg"
+repo = "https://github.com/aaronriekenberg/rust-parallel"
+stars = "71"
+version = "v1.16.0"
+updated = "2024-02-16T13:08:49Z"
+size = "2.95 MB"
+bsum = "a38fd16eff79f055bc4e5e489906b22f300da9e4ff03336e7ce1994738553b11"
+sha = "c05c7128d300ad0722aa28f3d8a5703100487dd6b9bb115a37b4c23aeca713a7"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/rust-parallel"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rust-parallel"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","parallel","rust","tokio"]
+categories = ["Utilities"]

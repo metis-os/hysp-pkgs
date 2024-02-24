@@ -1,0 +1,26 @@
+[bin]
+name = "loki"
+
+[package]
+architecture = "aarch64_arm64"
+name = "loki"
+description = "Like Prometheus, but for logs."
+author = "grafana"
+repo = "https://github.com/grafana/loki"
+stars = "21316"
+version = "v2.9.4"
+updated = "2024-01-24T16:20:16Z"
+size = "64.52 MB"
+bsum = "0f1e36876bcb5c2a9574ebf3d9c5e6466eeb932e140d6e91b451badc07119e18"
+sha = "a1c67867ddb4f18e1300b3ead233183306eb3e88a188d115055c56b6620d5faf"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/loki"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["loki"]
+requires = []
+
+[package.metadata]
+keywords = ["cloudnative","grafana","hacktoberfest","logging","loki","prometheus"]
+categories = ["Utilities"]

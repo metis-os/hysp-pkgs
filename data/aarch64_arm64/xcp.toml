@@ -1,0 +1,26 @@
+[bin]
+name = "xcp"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xcp"
+description = "An extended cp"
+author = "tarka"
+repo = "https://github.com/tarka/xcp"
+stars = "635"
+version = "v0.20.4"
+updated = "2024-02-23T02:34:54Z"
+size = "3.21 MB"
+bsum = "e3542a0eed6f6afc9a6a68607ab23cc9df46f742868b6d206f2da8970b48bafe"
+sha = "5deebb259507ed9325f847c5e9ea96f6a60aaf6ceee3dd41907f02142c1127a7"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/xcp"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["xcp"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","copy-files","linux","solid-state-disks","sparse-files"]
+categories = ["Utilities"]

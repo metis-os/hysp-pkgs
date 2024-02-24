@@ -1,0 +1,26 @@
+[bin]
+name = "progress"
+
+[package]
+architecture = "aarch64_arm64"
+name = "progress"
+description = "Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)"
+author = "Xfennec"
+repo = "https://github.com/Xfennec/progress"
+stars = "8116"
+version = "v0.17"
+updated = "2023-10-13T08:45:36Z"
+size = "1.11 MB"
+bsum = "a06d0ad16bf3c4cff7cc9ec8898bbfff770a1cca933361f415abc93e628ba4ce"
+sha = "e64b1558cfedf8c3b56a7e7035c89fa2d2547702bdfdf6702ff85f89dcf755eb"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/progress"
+language = "C"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["progress"]
+requires = []
+
+[package.metadata]
+keywords = ["coreutils","linux","monitoring"]
+categories = ["Utilities"]

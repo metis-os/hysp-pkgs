@@ -1,0 +1,26 @@
+[bin]
+name = "pspy"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pspy"
+description = "Monitor linux processes without root permissions"
+author = "DominicBreuker"
+repo = "https://github.com/DominicBreuker/pspy"
+stars = "4404"
+version = "v1.2.1"
+updated = "2023-01-17T21:10:08Z"
+size = "3.52 MB"
+bsum = "91506540189d595457f040ff47cb9bc6c478e9f5c36036ebd5c255427c5e9e23"
+sha = "ca64cd313b3c033b5a21381d2d5512f193f4f53094ae2d8b16d33079aff5a04b"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/pspy"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["pspy"]
+requires = []
+
+[package.metadata]
+keywords = ["ctf","enumeration","golang","pentesting","privesc","security"]
+categories = ["Utilities"]

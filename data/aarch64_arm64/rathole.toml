@@ -1,0 +1,26 @@
+[bin]
+name = "rathole"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rathole"
+description = "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok."
+author = "rapiz1"
+repo = "https://github.com/rapiz1/rathole"
+stars = "7076"
+version = "v0.5.0"
+updated = "2023-10-01T10:14:10Z"
+size = "1.03 MB"
+bsum = "e3035261075c6f313dc40e92560e2fed54f64cae05bdba2a73e81b7d793b670b"
+sha = "c95474d2ecdc031b3bb20c495595a0d6c6440c1ff7748f594d7ecd5315d36e8f"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/rathole"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["rathole"]
+requires = []
+
+[package.metadata]
+keywords = ["firewall","frp","http","nat","network","ngrok","noise","noise-protocol","proxy","rust","tunnel"]
+categories = ["Utilities"]

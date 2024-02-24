@@ -1,0 +1,26 @@
+[bin]
+name = "taplo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "taplo"
+description = "A TOML toolkit written in Rust"
+author = "tamasfe"
+repo = "https://github.com/tamasfe/taplo"
+stars = "1075"
+version = "release-taplo-0.13.0"
+updated = "2024-02-01T14:13:44Z"
+size = "8.68 MB"
+bsum = "a9e77acd941f025783effadec643c71e4ea5d933c63c441408cd538721a145c8"
+sha = "ac32e308a9fad5d9ce04af10a1e70f7ad85f3477674b28c8f078f4101ff06a37"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/taplo"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["taplo"]
+requires = []
+
+[package.metadata]
+keywords = ["analyzer","formatter","rust","toml","toml-parser"]
+categories = ["Utilities"]

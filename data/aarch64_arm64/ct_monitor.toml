@@ -1,0 +1,26 @@
+[bin]
+name = "ct_monitor"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ct_monitor"
+description = "Certificate Transparency log monitor"
+author = "crtsh"
+repo = "https://github.com/crtsh/ct_monitor"
+stars = "285"
+version = "null"
+updated = ""
+size = "14.28 MB"
+bsum = "2cd457a7d99158b509e504298ad2036c7028834b6c0f812aa3925590c69a9e50"
+sha = "94922731563e7f66269a80e952c5a36389a5cd1d38d8e034cfcb07f891cc7fac"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ct_monitor"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["ct_monitor"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

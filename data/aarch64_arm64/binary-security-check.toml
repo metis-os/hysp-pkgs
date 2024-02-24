@@ -1,0 +1,26 @@
+[bin]
+name = "binary-security-check"
+
+[package]
+architecture = "aarch64_arm64"
+name = "binary-security-check"
+description = "Analyzer of security features in executable binaries"
+author = "koutheir"
+repo = "https://github.com/koutheir/binary-security-check"
+stars = "64"
+version = "v1.2.15"
+updated = "2024-02-10T22:05:16Z"
+size = "2.63 MB"
+bsum = "0e345e3c88d8005367456d2392b9bb79c6ebdb0b3d7bf38ec7f70b8f601c5f3b"
+sha = "6980edb1166b7997a1feed75e8395bcf179d4dc752fd0ba98d7196abea5e2a68"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/binary-security-check"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["binary-security-check"]
+requires = []
+
+[package.metadata]
+keywords = ["appcontainer","archive","aslr","control-flow-graph","dynamic-loading","elf","executable-formats","fortify-source","nx","pe32","pe32-plus","security","seh","stack-overflow"]
+categories = ["Utilities"]

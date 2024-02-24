@@ -1,0 +1,26 @@
+[bin]
+name = "tlrc"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tlrc"
+description = "A tldr client written in Rust"
+author = "tldr-pages"
+repo = "https://github.com/tldr-pages/tlrc"
+stars = "104"
+version = "v1.8.0"
+updated = "2023-11-30T19:45:36Z"
+size = "2.56 MB"
+bsum = "c362d26fa1d05aaceb2cda5e2fafa8c69206cfdd07a579a46a70886e2f07bd26"
+sha = "b0fb18fb1e3b300ac16b738ec6fcbcff2437fdf5531fd5b38bf66058cc4fa543"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/tlrc"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tlrc"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","rust","tldr","tldr-pages"]
+categories = ["Utilities"]

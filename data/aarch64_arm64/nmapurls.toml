@@ -1,0 +1,26 @@
+[bin]
+name = "nmapurls"
+
+[package]
+architecture = "aarch64_arm64"
+name = "nmapurls"
+description = "Nmapurls parses Nmap xml reports from either piped input or command line arg and outputs a list of http(s) URL's to be used in an automation pipeline."
+author = "sdcampbell"
+repo = "https://github.com/sdcampbell/nmapurls"
+stars = "35"
+version = "null"
+updated = ""
+size = "1.62 MB"
+bsum = "ac223f141f6b5f1de0b08362e9188ef9e04d56aa06aaffa7e2cf86b7eba027bd"
+sha = "61dc63cc26f86db12230cc7288dc3c8a1c016f401096f9d42b8553dfc9819eb1"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/nmapurls"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["nmapurls"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

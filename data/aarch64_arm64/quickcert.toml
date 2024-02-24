@@ -1,0 +1,26 @@
+[bin]
+name = "quickcert"
+
+[package]
+architecture = "aarch64_arm64"
+name = "quickcert"
+description = "A better way of querying certificate transparency logs"
+author = "c3l3si4n"
+repo = "https://github.com/c3l3si4n/quickcert"
+stars = "66"
+version = "v0.0.2"
+updated = "2023-10-09T20:06:23Z"
+size = "7.64 MB"
+bsum = "7a97e6c8b987ed86344d342a703537ae57490414f0d26dd6b843a76f3f99d927"
+sha = "c643cc2a7cbd76ce30b976154e471aa8b874180e146b976d306ef06c024fb388"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/quickcert"
+language = "Go"
+license = "null"
+
+[package.conditions]
+conflicts  = ["quickcert"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

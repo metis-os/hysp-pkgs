@@ -4,17 +4,17 @@ name = "getJS"
 [package]
 architecture = "aarch64_arm64"
 name = "getJS"
-description = "A tool to fastly get all javascript sources/files"
-author = "003random"
-repo = "https://github.com/003random/getJS"
-stars = "567"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
 version = "null"
 updated = ""
 size = "5.31 MB"
 bsum = "ad1062b243a7d56714528c584fa73f9a7f988f5bc5598bd0ea09996dfcf901cf"
 sha = "470bdc335730aa0b188da677c57192750b05169fa9ae56864b80a83ee8f38d30"
 source = "https://bin.ajam.dev/aarch64_arm64_Linux/getJS"
-language = "Go"
+language = "Shell"
 license = "null"
 
 [package.conditions]
@@ -22,5 +22,5 @@ conflicts  = ["getJS"]
 requires = []
 
 [package.metadata]
-keywords = ["bugbounty","extract","files","go","golang","goquery","hacking","hacktoberfest","javascript","parser","pentesting","recon","reconnaissance","urls"]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
 categories = ["Utilities"]
