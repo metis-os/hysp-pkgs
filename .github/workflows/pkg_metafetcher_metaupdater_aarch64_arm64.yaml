@@ -3,7 +3,7 @@ name: 🛍️ (aarch64 | arm64) Generate | Update ⚙️ Daily Package 📦 Meta
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/110 * * * *" #  Every 110 Mins
+    - cron: "0 1-23/2 * * *" #  Every Odd Hrs
   
 env:
   GITHUB_TOKEN: "${{ secrets.HYSP_TOKEN }}"
