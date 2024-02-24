@@ -110,6 +110,8 @@ jobs:
         continue-on-error: true
      #----------------------------#
 #------------------------------------------------------------------------------------#        
+
+#------------------------------------------------------------------------------------#        
       - name: Dos2Unix Everything
         run: |
           cd "$GITHUB_WORKSPACE/main/data/aarch64_arm64/"
@@ -214,7 +216,7 @@ jobs:
           delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/aarch64_arm64_Linux/METADATA.json" | jq -r '.[].Name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #x86_64
           echo -e "\n\n[+] x86_64\n" >> "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
-          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/aarch64_arm64_Linux/METADATA.json" | jq -r '.[].Name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/METADATA.json" | jq -r '.[].Name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #Only Missing
           #aarch64_arm64
           cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "aarch64_arm64" 2>/dev/null | awk '/x86_64/{exit} {print}' 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_aarch64_arm64.txt"
