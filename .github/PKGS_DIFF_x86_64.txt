@@ -9,7 +9,6 @@
 │ 403│-nping                            │    │
 │ 404│-nrich                            │    │
 │ 465│-rekor                            │    │
-│ 507│-scopegen                         │    │
 │ 571│-sysbox-fs                        │    │
 │ 572│-sysbox-mgr                       │    │
 │ 573│-sysbox-runc                      │    │

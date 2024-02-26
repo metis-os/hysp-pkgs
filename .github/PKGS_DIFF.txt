@@ -236,40 +236,33 @@
 │ 466│ rekor-cli                        │ 455│ rekor-cli
 │ 467│ rekor-server                     │ 456│ rekor-server
 │ 468│ relic                            │ 457│ relic
-│ 504│ sake                             │ 493│ sake
-│ 505│ sbctl                            │ 494│ sbctl
-│ 506│ scilla                           │ 495│ scilla
-│ 507│-scopegen                         │    │
-│ 508│ scopeview                        │ 496│ scopeview
-│ 509│ scp                              │ 497│ scp
-│ 510│ screenfetch                      │ 498│ screenfetch
-│ 568│ svg-hush                         │ 556│ svg-hush
-│ 569│ syncat                           │ 557│ syncat
-│ 570│ syncthing                        │ 558│ syncthing
+│ 568│ svg-hush                         │ 557│ svg-hush
+│ 569│ syncat                           │ 558│ syncat
+│ 570│ syncthing                        │ 559│ syncthing
 │ 571│-sysbox-fs                        │    │
 │ 572│-sysbox-mgr                       │    │
 │ 573│-sysbox-runc                      │    │
-│ 574│ systemctl-tui                    │ 559│ systemctl-tui
-│ 575│ systeroid                        │ 560│ systeroid
-│ 576│ t-rec                            │ 561│ t-rec
-│ 603│ try                              │ 588│ try
-│ 604│ tty2web                          │ 589│ tty2web
-│ 605│ ttyd                             │ 590│ ttyd
+│ 574│ systemctl-tui                    │ 560│ systemctl-tui
+│ 575│ systeroid                        │ 561│ systeroid
+│ 576│ t-rec                            │ 562│ t-rec
+│ 603│ try                              │ 589│ try
+│ 604│ tty2web                          │ 590│ tty2web
+│ 605│ ttyd                             │ 591│ ttyd
 │ 606│-tuiarchiver                      │    │
-│ 607│ tut                              │ 591│ tut
+│ 607│ tut                              │ 592│ tut
 │ 608│-twingate-client                  │    │
 │ 609│-twingate-connector               │    │
 │ 610│-twingate-connector-staticx       │    │
 │ 611│-twingate-connectorctl            │    │
 │ 612│-twingate-notifier                │    │
-│ 613│ txeh                             │ 592│ txeh
-│ 614│ tz                               │ 593│ tz
-│ 615│ u-root                           │ 594│ u-root
-│ 621│ upx                              │ 600│ upx
-│ 622│ usql                             │ 601│ usql
-│ 623│ v2raya                           │ 602│ v2raya
+│ 613│ txeh                             │ 593│ txeh
+│ 614│ tz                               │ 594│ tz
+│ 615│ u-root                           │ 595│ u-root
+│ 621│ upx                              │ 601│ upx
+│ 622│ usql                             │ 602│ usql
+│ 623│ v2raya                           │ 603│ v2raya
 │ 624│-v6disk                           │    │
-│ 625│ v6run                            │ 603│ v6run
-│ 626│ validtoml                        │ 604│ validtoml
-│ 627│ vegeta                           │ 605│ vegeta
+│ 625│ v6run                            │ 604│ v6run
+│ 626│ validtoml                        │ 605│ validtoml
+│ 627│ vegeta                           │ 606│ vegeta
 
