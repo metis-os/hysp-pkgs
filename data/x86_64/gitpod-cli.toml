@@ -1,0 +1,26 @@
+[bin]
+name = "gitpod-cli"
+
+[package]
+architecture = "x86_64"
+name = "gitpod-cli"
+description = "The developer platform for on-demand cloud development environments to create software faster and more securely."
+author = "gitpod-io"
+repo = "https://github.com/gitpod-io/gitpod"
+stars = "12071"
+version = "2022.11.3"
+updated = "2023-06-05T12:24:19Z"
+size = "17.27 MB"
+bsum = "63f371062b0885649f6e1a765acbfe1b32d88ffd91aac368a1258129e0a3b70f"
+sha = "dbecc6ee73e6e1db1b8befeec09d9a46888d03efc4c64fe49daf77a43a6c1f97"
+source = "https://bin.ajam.dev/x86_64_Linux/gitpod-cli"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["gitpod-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["cde","cloud","cloud-development","cloud-development-environments","cloud-ide","code-review","dev-environment","developer-environment","developer-experience","disposable","editor","ephemeral","gitpod","ide","jetbrains","prebuilds","remote-development","remote-devtools","vscode"]
+categories = ["Utilities"]
