@@ -1,0 +1,26 @@
+[bin]
+name = "meli"
+
+[package]
+architecture = "x86_64"
+name = "meli"
+description = "🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli"
+author = "meli"
+repo = "https://github.com/meli/meli"
+stars = "570"
+version = "v0.8.4"
+updated = "2023-12-02T17:35:43Z"
+size = "22.06 MB"
+bsum = "a317b87d2c9a42c4311bdc9169c7ccfb231a5eb317faf9ab6800ed6baa93c8eb"
+sha = "58f2efccc1dfdd5b16ff501a1bea4f24581acd043f5ffe02b1f1e7b30d20abaf"
+source = "https://bin.ajam.dev/x86_64_Linux/meli"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["meli"]
+requires = []
+
+[package.metadata]
+keywords = ["client","email","imap","imap-client","jmap","mail","mail-client","mbox","meli","mua","nntp","nntp-client","notmuch","rust","terminal","tui"]
+categories = ["Utilities"]
