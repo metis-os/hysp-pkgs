@@ -1,9 +1,7 @@
 │ 51 │-bombadillo                       │    │
-│ 58 │-brutespray                       │    │
 │ 73 │-certwatcher                      │    │
 │ 105│-cowsay                           │    │
 │ 106│-cowthink                         │    │
-│ 240│-gitpod-cli                       │    │
 │ 260│-gotld                            │    │
 │ 381│-ncat                             │    │
 │ 382│-ncdu                             │    │
@@ -11,6 +9,7 @@
 │ 403│-nping                            │    │
 │ 404│-nrich                            │    │
 │ 465│-rekor                            │    │
+│ 507│-scopegen                         │    │
 │ 571│-sysbox-fs                        │    │
 │ 572│-sysbox-mgr                       │    │
 │ 573│-sysbox-runc                      │    │
