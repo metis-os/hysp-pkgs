@@ -66,7 +66,7 @@
 - **Description:** dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx)
-- **Stars:** 1878
+- **Stars:** 1877
 - **Version:** v1.1.6
 - **Updated:** 2023-11-11T19:20:44Z
 - **Size:** 26.19 MB
@@ -147,8 +147,8 @@
 - **Author:** TimothyYe
 - **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
 - **Stars:** 1409
-- **Version:** v3.1.4
-- **Updated:** 2024-02-25T08:07:57Z
+- **Version:** v3.1.5
+- **Updated:** 2024-02-28T15:38:07Z
 - **Size:** 12.38 MB
 - **SHASUM:** 8fada4617c3e1cc9389e6aeb5376a29846718ac68b5702082c113684142c821e
 - **B3SUM:** ec8f29e44a31043e9c086f963323ea144b8113114b26ae435dac4a886029baf6
