@@ -1,0 +1,26 @@
+[bin]
+name = "v6run"
+
+[package]
+architecture = "x86_64"
+name = "v6run"
+description = "Old Unix programs running on modern computers."
+author = "rsc"
+repo = "https://github.com/rsc/unix"
+stars = "326"
+version = "null"
+updated = ""
+size = "6.18 MB"
+bsum = "35737a9461c1fdb637e3c71a9cf403fd470fdcf1b1e9cc55e719e1008f5bc912"
+sha = "ae944a164883f4c34e6c12c68f33add1e1a2e370fdd62d98db3000711486eaf1"
+source = "https://bin.ajam.dev/x86_64_Linux/v6run"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["v6run"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

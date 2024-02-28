@@ -1,0 +1,26 @@
+[bin]
+name = "ds"
+
+[package]
+architecture = "x86_64"
+name = "ds"
+description = "(fastest?) disk usage cli, similar to windirstat."
+author = "scullionw"
+repo = "https://github.com/scullionw/dirstat-rs"
+stars = "146"
+version = "v0.3.7"
+updated = "2021-12-31T02:09:19Z"
+size = "1.96 MB"
+bsum = "b3b1e7749732a02c301cc7ad0aa5885dcd7d01cf3055e85a60f0eb36da3ee0d6"
+sha = "6ba28fc47800bcc6d9795d66e1367ed76547b2eb59d45bf2294546a5c7eaf17a"
+source = "https://bin.ajam.dev/x86_64_Linux/ds"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ds"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

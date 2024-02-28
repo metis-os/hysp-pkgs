@@ -1,0 +1,26 @@
+[bin]
+name = "gowitness"
+
+[package]
+architecture = "x86_64"
+name = "gowitness"
+description = "🔍 gowitness - a golang, web screenshot utility using Chrome Headless"
+author = "sensepost"
+repo = "https://github.com/sensepost/gowitness"
+stars = "2605"
+version = "2.5.1"
+updated = "2023-10-29T11:11:30Z"
+size = "24.63 MB"
+bsum = "1eb05c38dc4b728ea51bb62979eaecd400d1fb0828bdf0f9d10aaca85654f059"
+sha = "8648985ac5181aa8814f1eb8c124722b0704118887ccae76ee395558c18ef6c0"
+source = "https://bin.ajam.dev/x86_64_Linux/gowitness"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["gowitness"]
+requires = []
+
+[package.metadata]
+keywords = ["chrome","chrome-headless","fingerprint","footprinting","golang","gowitness","headless","headless-chrome","reporting","screenshot","screenshots","security","technologies","web"]
+categories = ["Utilities"]

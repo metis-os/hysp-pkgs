@@ -1,0 +1,26 @@
+[bin]
+name = "cproxy"
+
+[package]
+architecture = "x86_64"
+name = "cproxy"
+description = "Easy per application transparent proxy built on cgroup."
+author = "NOBLES5E"
+repo = "https://github.com/NOBLES5E/cproxy"
+stars = "322"
+version = "v4.1.6.post1"
+updated = "2021-10-26T21:08:45Z"
+size = "2.81 MB"
+bsum = "dcb073d6aadb1cf30c2ecf783942ee734d0708aa11580f217e81457861beef5d"
+sha = "b1f2054f0e19f7a6db38f362b6b63926ad2f5bbcc067614a7b875fbab60035cf"
+source = "https://bin.ajam.dev/x86_64_Linux/cproxy"
+language = "Rust"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["cproxy"]
+requires = []
+
+[package.metadata]
+keywords = ["proxy","proxychains","shadowsocks","tproxy","transparent-proxy","v2ray"]
+categories = ["Utilities"]

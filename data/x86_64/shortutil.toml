@@ -1,0 +1,26 @@
+[bin]
+name = "shortutil"
+
+[package]
+architecture = "x86_64"
+name = "shortutil"
+description = "An IIS short filename enumeration tool"
+author = "bitquark"
+repo = "https://github.com/bitquark/shortscan"
+stars = "467"
+version = "v0.9.0"
+updated = "2024-02-28T21:03:54Z"
+size = "2.1 MB"
+bsum = "85ee464e89103867da086be467c5b842d5ba941e230ef5c835edd79270644426"
+sha = "112cc89daec4480daa0ec278758dd29ad392307a5c11173d12e0547bb9b107fb"
+source = "https://bin.ajam.dev/x86_64_Linux/shortutil"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["shortutil"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","bugbounty-tool","iis","iis-security","iis-server","pentesting","pentesting-tools","redteam","redteam-tools","security","security-audit","security-automation","security-scanner","security-tools","vulnerability-detection","vulnerability-scanners"]
+categories = ["Utilities"]

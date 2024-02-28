@@ -1,0 +1,26 @@
+[bin]
+name = "orbiton"
+
+[package]
+architecture = "x86_64"
+name = "orbiton"
+description = "Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end."
+author = "xyproto"
+repo = "https://github.com/xyproto/orbiton"
+stars = "411"
+version = "v2.65.10"
+updated = "2024-02-22T16:08:10Z"
+size = "10.46 MB"
+bsum = "2419e9f68e3976b7ccf57499268e7bdd06a6d579826e78a3487b460158c0a570"
+sha = "64c971873ad36c0204b4bd5e3def3d652285a820d1550fdbec8e0ba3358262b0"
+source = "https://bin.ajam.dev/x86_64_Linux/orbiton"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["orbiton"]
+requires = []
+
+[package.metadata]
+keywords = ["chatgpt-client","command-line","editor","freebsd","gdb","go","hare","ide","linux","man-pages","markdown","rainbow-parentheses","rust","terminal","terminal-game","text-editor","tui","unix","vt100","zig"]
+categories = ["Utilities"]

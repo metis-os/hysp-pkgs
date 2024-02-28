@@ -1,0 +1,26 @@
+[bin]
+name = "naabu_staticx"
+
+[package]
+architecture = "x86_64"
+name = "naabu_staticx"
+description = "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests"
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/naabu"
+stars = "4114"
+version = "v2.2.1"
+updated = "2024-01-20T16:16:48Z"
+size = "9.23 MB"
+bsum = "4c48576cca3b775da1d69fe94cdf851515751094466046e2eeb4575703fbf9ff"
+sha = "3e336754756a9fda7bab0c6fcc7a5c04baf3d82c5333432f306a8bed059786c6"
+source = "https://bin.ajam.dev/x86_64_Linux/naabu_staticx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["naabu_staticx"]
+requires = []
+
+[package.metadata]
+keywords = ["cdn-exclusion","hacktoberfest","nmap","port-enumeration","portscanner","scan-ports"]
+categories = ["Utilities"]

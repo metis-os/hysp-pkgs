@@ -1,0 +1,26 @@
+[bin]
+name = "dizi-server"
+
+[package]
+architecture = "x86_64"
+name = "dizi-server"
+description = "Server-client music player written in Rust"
+author = "kamiyaa"
+repo = "https://github.com/kamiyaa/dizi"
+stars = "28"
+version = "0.3.0"
+updated = "2022-09-11T01:46:56Z"
+size = "6.31 MB"
+bsum = "a506eb456def908b786f2f7e8fbab545ed1f1264fc58eac559484fa9dbc09407"
+sha = "2fcf6ba73f0df4596be4f108507c7b7309b147e03d4fbf3a9151b7aa74135ff4"
+source = "https://bin.ajam.dev/x86_64_Linux/dizi-server"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["dizi-server"]
+requires = []
+
+[package.metadata]
+keywords = ["audio","audio-player","hacktoberfest","music","music-player","rust","server-client","termion","toml","tui"]
+categories = ["Utilities"]

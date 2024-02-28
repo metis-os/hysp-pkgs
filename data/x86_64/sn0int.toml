@@ -1,0 +1,26 @@
+[bin]
+name = "sn0int"
+
+[package]
+architecture = "x86_64"
+name = "sn0int"
+description = "Semi-automatic OSINT framework and package manager"
+author = "kpcyrd"
+repo = "https://github.com/kpcyrd/sn0int"
+stars = "1791"
+version = "v0.26.0"
+updated = "2023-09-09T11:32:15Z"
+size = "18.48 MB"
+bsum = "daa47c3f85df5ba367efa07d515a934f74480ab587ac487ca89c085c33e0bf43"
+sha = "ec474fd0edc99324e2f93631c536784e24db8a0c31dd080a88d92e2ca8178724"
+source = "https://bin.ajam.dev/x86_64_Linux/sn0int"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["sn0int"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","certificate-transparency","intelligence","investigation","location","lua","osint","osint-framework","pentesting","recon","reconnaissance","rust","security","security-audit","security-scanner"]
+categories = ["Utilities"]

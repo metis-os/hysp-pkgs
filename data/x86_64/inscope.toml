@@ -1,0 +1,26 @@
+[bin]
+name = "inscope"
+
+[package]
+architecture = "x86_64"
+name = "inscope"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
+version = "null"
+updated = ""
+size = "1.73 MB"
+bsum = "22fe1a98ffad6de5d407d4bb3574ded38612e271b582522ccb61ac432123e4c6"
+sha = "99010d78089e01c42e637b5965a7b021f2dbbf361430899f0be1122c2933b746"
+source = "https://bin.ajam.dev/x86_64_Linux/inscope"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["inscope"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

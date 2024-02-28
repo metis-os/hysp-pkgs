@@ -1,0 +1,26 @@
+[bin]
+name = "tty2web"
+
+[package]
+architecture = "x86_64"
+name = "tty2web"
+description = "Share your terminal as a web application in bind/reverse mode"
+author = "kost"
+repo = "https://github.com/kost/tty2web"
+stars = "92"
+version = "v3.0.3"
+updated = "2023-11-07T06:41:26Z"
+size = "12.19 MB"
+bsum = "de963308cb0674a8548aca451233feac8052454059b3d69b6a7a1dbf454aa90a"
+sha = "f7837aee50edfc3ef0e407a41934954026c130fe30e297328ad29ac6ed312ae6"
+source = "https://bin.ajam.dev/x86_64_Linux/tty2web"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tty2web"]
+requires = []
+
+[package.metadata]
+keywords = ["gotty","hacktober","hacktoberfest","tty","web"]
+categories = ["Utilities"]

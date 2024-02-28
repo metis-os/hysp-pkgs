@@ -1,0 +1,26 @@
+[bin]
+name = "subfinder"
+
+[package]
+architecture = "x86_64"
+name = "subfinder"
+description = "Fast passive subdomain enumeration tool."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/subfinder"
+stars = "9009"
+version = "v2.6.5"
+updated = "2024-02-05T11:38:57Z"
+size = "28.79 MB"
+bsum = "37754f21f3bf42409ccad0144e1a37caa5286906bdb91336de3faa0f9704f63c"
+sha = "ee0d7fc790fab8b80316219864985ab615db4515d452bafeec21606e398d974e"
+source = "https://bin.ajam.dev/x86_64_Linux/subfinder"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["subfinder"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","hacking","osint","reconnaissance","subdomain-enumeration","subdomains"]
+categories = ["Utilities"]

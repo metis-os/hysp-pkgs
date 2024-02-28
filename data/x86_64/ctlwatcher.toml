@@ -1,0 +1,26 @@
+[bin]
+name = "ctlwatcher"
+
+[package]
+architecture = "x86_64"
+name = "ctlwatcher"
+description = "Fork: https://github.com/pathtofile/ctlwatcher"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/ctlwatcher"
+stars = "3"
+version = "null"
+updated = ""
+size = "8.03 MB"
+bsum = "ad40d0d37eea8834a6be1eff1ef60caeed11047e5a7f8bd8feefc30c95c33650"
+sha = "2f4fb100c336ab40a8495c89b7b6a64067adb2e89ba49895baff2c6eff509e9f"
+source = "https://bin.ajam.dev/x86_64_Linux/ctlwatcher"
+language = "Rust"
+license = "null"
+
+[package.conditions]
+conflicts  = ["ctlwatcher"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

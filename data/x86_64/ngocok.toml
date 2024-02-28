@@ -1,0 +1,26 @@
+[bin]
+name = "ngocok"
+
+[package]
+architecture = "x86_64"
+name = "ngocok"
+description = "ngrok Collaborator Link — yet another Burp Collaborator alternative for free with ngrok."
+author = "dwisiswant0"
+repo = "https://github.com/dwisiswant0/ngocok"
+stars = "100"
+version = "v1.0.0"
+updated = "2023-12-24T21:23:15Z"
+size = "10.03 MB"
+bsum = "b424aca62bb54a45ab6d7319424b8cdf42271b45dea982a7b5829deb98f13ab0"
+sha = "4c27d154494ce7409973f8e433f787b8e4f2db2c538058ee0952afd3e9712ea2"
+source = "https://bin.ajam.dev/x86_64_Linux/ngocok"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ngocok"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

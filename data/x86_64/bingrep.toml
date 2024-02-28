@@ -1,0 +1,26 @@
+[bin]
+name = "bingrep"
+
+[package]
+architecture = "x86_64"
+name = "bingrep"
+description = "like ~~grep~~ UBER, but for binaries"
+author = "m4b"
+repo = "https://github.com/m4b/bingrep"
+stars = "1680"
+version = "v0.11.0"
+updated = "2023-02-06T05:34:55Z"
+size = "3.62 MB"
+bsum = "f1e603c67fbcce493c370118bdf423496dbd819e9f4d0dcb1dcfdda19278fa06"
+sha = "f1737b68e72c5b066f2edda8b272052351fcfb07b9643c69fc6569ebc50b8447"
+source = "https://bin.ajam.dev/x86_64_Linux/bingrep"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["bingrep"]
+requires = []
+
+[package.metadata]
+keywords = ["binary","elf","grep","mach-o","objdump","portable-executable"]
+categories = ["Utilities"]

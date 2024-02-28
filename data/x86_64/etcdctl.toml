@@ -1,0 +1,26 @@
+[bin]
+name = "etcdctl"
+
+[package]
+architecture = "x86_64"
+name = "etcdctl"
+description = "Distributed reliable key-value store for the most critical data of a distributed system"
+author = "etcd-io"
+repo = "https://github.com/etcd-io/etcd"
+stars = "45827"
+version = "v3.5.12"
+updated = "2024-01-31T10:56:37Z"
+size = "17.74 MB"
+bsum = "91ad3e2d6e2afc864a2e31e89db86fb6c47f95857481515671418a95119c88ff"
+sha = "f95b29eb2149450c9d9c94c1e544c70b426a6c61c4b6ce959bc5fb9dc682cb71"
+source = "https://bin.ajam.dev/x86_64_Linux/etcdctl"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["etcdctl"]
+requires = []
+
+[package.metadata]
+keywords = ["cncf","consensus","database","distributed-database","distributed-systems","etcd","go","key-value","kubernetes","raft"]
+categories = ["Utilities"]

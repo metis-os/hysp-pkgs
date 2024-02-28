@@ -1,0 +1,26 @@
+[bin]
+name = "cexec"
+
+[package]
+architecture = "x86_64"
+name = "cexec"
+description = "Execute any command, cache its output and get cached output on subsequent execution"
+author = "mrusme"
+repo = "https://github.com/mrusme/cexec"
+stars = "16"
+version = "v0.3"
+updated = "2022-08-29T06:20:22Z"
+size = "2.04 MB"
+bsum = "72e8fd1d8aafda221e6e1cb7d7584d8954c8e21e3de16e72f14a78b5ae51d714"
+sha = "42f0c929c70d11440875f99542af02ce30def4f90f8e1e46ca13a6c4ffb92d9f"
+source = "https://bin.ajam.dev/x86_64_Linux/cexec"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["cexec"]
+requires = []
+
+[package.metadata]
+keywords = ["cache","cached","caching","command","command-line","command-line-tool","exec","execution","timeout"]
+categories = ["Utilities"]

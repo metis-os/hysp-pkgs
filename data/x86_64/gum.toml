@@ -1,0 +1,26 @@
+[bin]
+name = "gum"
+
+[package]
+architecture = "x86_64"
+name = "gum"
+description = "A tool for glamorous shell scripts 🎀"
+author = "charmbracelet"
+repo = "https://github.com/charmbracelet/gum"
+stars = "16040"
+version = "v0.13.0"
+updated = "2023-12-12T16:59:20Z"
+size = "25.48 MB"
+bsum = "e4870643689cee6a84661d5f2725d7cc4bd8c782983dab75a594ee446b7d13e9"
+sha = "5a54f80b756f11cbd27a4ab1888a24e837bdd89099fcdb4cbe6555dcf447b4c7"
+source = "https://bin.ajam.dev/x86_64_Linux/gum"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gum"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","shell"]
+categories = ["Utilities"]

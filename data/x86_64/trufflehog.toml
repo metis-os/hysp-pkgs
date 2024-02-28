@@ -1,0 +1,26 @@
+[bin]
+name = "trufflehog"
+
+[package]
+architecture = "x86_64"
+name = "trufflehog"
+description = "Find and verify credentials"
+author = "trufflesecurity"
+repo = "https://github.com/trufflesecurity/trufflehog"
+stars = "13527"
+version = "v3.68.3"
+updated = "2024-02-28T16:52:27Z"
+size = "93.01 MB"
+bsum = "82a2a28a2ecb9007b89817cced355ba0e3bd47860ff046fb839522350a4f01ab"
+sha = "89fa55e120250de407a06b7a606cee1a6ea39cb6385d91b95a414f202417ed3c"
+source = "https://bin.ajam.dev/x86_64_Linux/trufflehog"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["trufflehog"]
+requires = []
+
+[package.metadata]
+keywords = ["credentials","devsecops","dynamic-analysis","hacktoberfest","precommit","scanning","secret","secret-management","secrets","security","security-tools","trufflehog","verification"]
+categories = ["Utilities"]

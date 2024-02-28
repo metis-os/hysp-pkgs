@@ -1,0 +1,26 @@
+[bin]
+name = "mise"
+
+[package]
+architecture = "x86_64"
+name = "mise"
+description = "dev tools, env vars, task runner"
+author = "jdx"
+repo = "https://github.com/jdx/mise"
+stars = "5182"
+version = "v2024.2.19"
+updated = "2024-02-28T05:42:35Z"
+size = "18.06 MB"
+bsum = "96d7282c89e35322d2b5ae87c6c3c5809e03d66993bccd08274c1e2c5692b624"
+sha = "540e4dd76a270a9ad1cbc06894053e9fa07cb6b52dbbc000e6e00b78e271e830"
+source = "https://bin.ajam.dev/x86_64_Linux/mise"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mise"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

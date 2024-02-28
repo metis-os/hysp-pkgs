@@ -1,0 +1,26 @@
+[bin]
+name = "tavern"
+
+[package]
+architecture = "x86_64"
+name = "tavern"
+description = "Realm is a cross platform Red Team engagement platform with a focus on automation and reliability."
+author = "spellshift"
+repo = "https://github.com/spellshift/realm"
+stars = "262"
+version = "v0.0.7"
+updated = "2024-02-27T05:43:08Z"
+size = "48.24 MB"
+bsum = "47efefc7f91086d7c9769abb86466ef9738866b90350cbb8713d1e16ee753951"
+sha = "923275078ae7e26a5719ad661450820f4d35e047a924d27a442e7ffd6101a5cb"
+source = "https://bin.ajam.dev/x86_64_Linux/tavern"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["tavern"]
+requires = []
+
+[package.metadata]
+keywords = ["agent","bot","c2","cyber","cybersecurity","golang","graphql","implant","react","redteam","redteam-tools","redteaming","rust","teamserver","typescript","webui"]
+categories = ["Utilities"]

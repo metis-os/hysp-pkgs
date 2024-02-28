@@ -1,0 +1,26 @@
+[bin]
+name = "fwanalyzer"
+
+[package]
+architecture = "x86_64"
+name = "fwanalyzer"
+description = "a tool to analyze filesystem images for security"
+author = "cruise-automation"
+repo = "https://github.com/cruise-automation/fwanalyzer"
+stars = "481"
+version = "1.4.4"
+updated = "2022-10-24T18:49:59Z"
+size = "2.68 MB"
+bsum = "c4b9405fadbac298c2cc5fd0eb9a16e7f7fa2224ad45eae80732553f549230db"
+sha = "928ca645d40087c68801a271c44bd119c2e04e40353e1cd9ec4479f9b47c4d77"
+source = "https://bin.ajam.dev/x86_64_Linux/fwanalyzer"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["fwanalyzer"]
+requires = []
+
+[package.metadata]
+keywords = ["android","embedded-linux","filesystem","filesystem-images","filesystem-security","firmware-analysis","firmware-tools","liunx","security-audit","security-automation","security-tools"]
+categories = ["Utilities"]

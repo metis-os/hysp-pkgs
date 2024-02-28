@@ -1,0 +1,26 @@
+[bin]
+name = "jc"
+
+[package]
+architecture = "x86_64"
+name = "jc"
+description = "CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts."
+author = "kellyjonbrazil"
+repo = "https://github.com/kellyjonbrazil/jc"
+stars = "7414"
+version = "v1.25.1"
+updated = "2024-02-13T00:50:32Z"
+size = "51.35 MB"
+bsum = "9d27c63fd2ce5819e87cfce3aa6d6a99acb32fc0dd72739694d82059013cc045"
+sha = "85da6057d9503e7b602616cd74ce69c3630025a197a01a802dd96cea72262cd6"
+source = "https://bin.ajam.dev/x86_64_Linux/jc"
+language = "Python"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jc"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","bash-scripting","cli","command-line","command-line-interface","command-line-tool","convert","json","linux","parsers","python","python-library","scripting","serialize","shell-scripting","yaml"]
+categories = ["Utilities"]

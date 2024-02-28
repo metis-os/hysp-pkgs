@@ -1,0 +1,26 @@
+[bin]
+name = "gpg-tui"
+
+[package]
+architecture = "x86_64"
+name = "gpg-tui"
+description = "Manage your GnuPG keys with ease! 🔐"
+author = "orhun"
+repo = "https://github.com/orhun/gpg-tui"
+stars = "1220"
+version = "v0.10.0"
+updated = "2023-09-10T11:40:28Z"
+size = "4.64 MB"
+bsum = "01bee75254f3d1ebafd79ad3955e1cfeca9b075b3c89210b3d05c09f7dd10203"
+sha = "66a14c28856cbc3dc7b129a8038e9b187827c8d2f7218406cd79532691e4d295"
+source = "https://bin.ajam.dev/x86_64_Linux/gpg-tui"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gpg-tui"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","gnupg","gpg","gpg-configuration","gpg-key","gpg-keys","gpg-signatures","gpg-tui","hacktoberfest","key-management","linux","openpgp","rust","terminal","tui","tui-app","tui-rs"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "dura"
+
+[package]
+architecture = "x86_64"
+name = "dura"
+description = "You shouldn't ever lose your work if you're using Git"
+author = "tkellogg"
+repo = "https://github.com/tkellogg/dura"
+stars = "4239"
+version = "v0.2.0"
+updated = "2022-07-10T00:39:35Z"
+size = "9.03 MB"
+bsum = "6bcfa088cb2c357168f093c199d0074b8d2d4bb09f3bd20a44bb2aab83bc1387"
+sha = "6878e4bcd6342f0e770269baeb823f16de50d860a84c66bfa13677af1d70240b"
+source = "https://bin.ajam.dev/x86_64_Linux/dura"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["dura"]
+requires = []
+
+[package.metadata]
+keywords = ["git","rust"]
+categories = ["Utilities"]

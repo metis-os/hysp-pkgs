@@ -1,0 +1,26 @@
+[bin]
+name = "ctr"
+
+[package]
+architecture = "x86_64"
+name = "ctr"
+description = "The Docker CLI"
+author = "docker"
+repo = "https://github.com/docker/cli"
+stars = "4515"
+version = "v25.0.3"
+updated = "null"
+size = "19.25 MB"
+bsum = "39e9bb79bdf88ea2e2ce826a3d593e1b71dae10443c92a542ecb637fe493f91a"
+sha = "bbeddf1682802847a9d81678db2ac3315603ae0c03722d85491cbbf669404c6e"
+source = "https://bin.ajam.dev/x86_64_Linux/ctr"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ctr"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","docker"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "redive"
+
+[package]
+architecture = "x86_64"
+name = "redive"
+description = "Trace URL redirections in the terminal."
+author = "neelkarma"
+repo = "https://github.com/neelkarma/redive"
+stars = "27"
+version = "null"
+updated = ""
+size = "2.38 MB"
+bsum = "fda0942f576beffb8f6a680229fd47531445ec39f2d557b97b52cab27fcaceff"
+sha = "9a14f3949dbcfccbf6c839ef8974b21c0592df398f822c0d66e03d60c325b1bc"
+source = "https://bin.ajam.dev/x86_64_Linux/redive"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["redive"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

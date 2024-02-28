@@ -1,0 +1,26 @@
+[bin]
+name = "xetcmd"
+
+[package]
+architecture = "x86_64"
+name = "xetcmd"
+description = "Rust crates for XetHub"
+author = "xetdata"
+repo = "https://github.com/xetdata/xet-core"
+stars = "18"
+version = "v0.13.0"
+updated = "2024-01-25T17:53:56Z"
+size = "25.97 MB"
+bsum = "e5959cd80b2af1fb8346d8e555ae69a6f7dcdcf405727d337561eee0f164a977"
+sha = "d7868c34ce6fff94f00b24fd60a83cb96a8cea4bcda709f1ebbfbc940a42e8ce"
+source = "https://bin.ajam.dev/x86_64_Linux/xetcmd"
+language = "Rust"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["xetcmd"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","xethub"]
+categories = ["Utilities"]

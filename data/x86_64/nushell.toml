@@ -1,0 +1,26 @@
+[bin]
+name = "nushell"
+
+[package]
+architecture = "x86_64"
+name = "nushell"
+description = "A new type of shell"
+author = "nushell"
+repo = "https://github.com/nushell/nushell"
+stars = "29183"
+version = "0.90.1"
+updated = "2024-02-07T03:14:16Z"
+size = "62.56 MB"
+bsum = "682b4d7de216af95d7c98e1443d49c2612c9b07177841964f219e1bff90e662c"
+sha = "9af10e892abd5b8009f05df25f0c028302001ca49740c81d4b86d544d12b4e67"
+source = "https://bin.ajam.dev/x86_64_Linux/nushell"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["nushell"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","shell"]
+categories = ["Utilities"]

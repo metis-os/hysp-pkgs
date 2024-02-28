@@ -1,0 +1,26 @@
+[bin]
+name = "edgevpn"
+
+[package]
+architecture = "x86_64"
+name = "edgevpn"
+description = ":sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens"
+author = "mudler"
+repo = "https://github.com/mudler/edgevpn"
+stars = "475"
+version = "v0.24.5"
+updated = "2023-10-30T18:07:51Z"
+size = "32.93 MB"
+bsum = "39401b55350e9d101a6a820b523ebcb1a70cf43b01a07597cdec8258f6003837"
+sha = "5fc8d4aeae7705682a2259eda7afd0535b1dfcc8c282a7682c17e14fd0ad8f18"
+source = "https://bin.ajam.dev/x86_64_Linux/edgevpn"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["edgevpn"]
+requires = []
+
+[package.metadata]
+keywords = ["blockchain","cloudvpn","golang","golang-library","holepunch","ipfs","ipfs-blockchain","kubernetes","libp2p","mesh","mesh-networks","nat","networking","p2p","p2pvpn","tunnel","vpn"]
+categories = ["Utilities"]
