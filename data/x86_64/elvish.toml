@@ -4,7 +4,7 @@ name = "elvish"
 [package]
 architecture = "x86_64"
 name = "elvish"
-description = " powerful scripting language in one"
+description = " Versatile interactive shell"
 author = "elves"
 repo = "https://github.com/elves/elvish"
 stars = "5248"
