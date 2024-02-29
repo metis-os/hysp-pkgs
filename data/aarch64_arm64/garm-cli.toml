@@ -22,5 +22,5 @@ conflicts  = ["garm-cli"]
 requires = []
 
 [package.metadata]
-keywords = ["autoscaling","autoscaller","aws","azure","ec2","equinix","gcp","github","k8s","kubernetes","lxd","openstack","runner","self-hosted"]
+keywords = ["autoscaling","autoscaller","aws","azure","ec2","equinix","gcp","github","incus","k8s","kubernetes","lxd","openstack","runner","self-hosted"]
 categories = ["Utilities"]
