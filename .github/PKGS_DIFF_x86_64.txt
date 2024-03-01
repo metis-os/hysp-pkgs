@@ -1,4 +1,3 @@
-│ 19 │-anew-rs                          │    │
 │ 52 │-bombadillo                       │    │
 │ 74 │-certwatcher                      │    │
 │ 106│-cowsay                           │    │
@@ -10,7 +9,6 @@
 │ 404│-nping                            │    │
 │ 405│-nrich                            │    │
 │ 466│-rekor                            │    │
-│ 497│-runiq                            │    │
 │ 573│-sysbox-fs                        │    │
 │ 574│-sysbox-mgr                       │    │
 │ 575│-sysbox-runc                      │    │
