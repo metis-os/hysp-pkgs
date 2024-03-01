@@ -22,5 +22,5 @@ conflicts  = ["orbiton"]
 requires = []
 
 [package.metadata]
-keywords = ["chatgpt-client","command-line","editor","freebsd","gdb","go","hare","ide","linux","man-pages","markdown","rainbow-parentheses","rust","terminal","terminal-game","text-editor","tui","unix","vt100","zig"]
+keywords = ["command-line","configuration-free","editor","freebsd","gdb","go","hare","ide","image-viewer","linux","markdown","rainbow-parentheses","rust","terminal","text-editor","tui","unix","vt100","zig"]
 categories = ["Utilities"]
