@@ -177,92 +177,106 @@
 
 [+] x86_64
 
-│ 48 │ bleve                            │ 48 │ bleve
-│ 49 │ bluetuith                        │ 49 │ bluetuith
-│ 50 │ boltconn                         │ 50 │ boltconn
-│ 51 │-bombadillo                       │    │
-│ 52 │ bore                             │ 51 │ bore
-│ 53 │ boringtun-cli                    │ 52 │ boringtun-cli
-│ 54 │ bottom                           │ 53 │ bottom
-│ 70 │ certspotter                      │ 69 │ certspotter
-│ 71 │ certstream                       │ 70 │ certstream
-│ 72 │ certstream-server-go             │ 71 │ certstream-server-go
-│ 73 │-certwatcher                      │    │
-│ 74 │ cexec                            │ 72 │ cexec
-│ 75 │ cfssl                            │ 73 │ cfssl
-│ 76 │ cfssl-bundle                     │ 74 │ cfssl-bundle
-│ 102│ coreutils                        │ 100│ coreutils
-│ 103│ cotp                             │ 101│ cotp
-│ 104│ cowitness                        │ 102│ cowitness
-│ 105│-cowsay                           │    │
-│ 106│-cowthink                         │    │
-│ 107│ cproxy                           │ 103│ cproxy
-│ 108│ cpufetch                         │ 104│ cpufetch
-│ 109│ crawley                          │ 105│ crawley
-│ 257│ gost                             │ 253│ gost
-│ 258│ gosu                             │ 254│ gosu
-│ 259│ gotator                          │ 255│ gotator
-│ 260│-gotld                            │    │
-│ 261│ gotty                            │ 256│ gotty
-│ 262│ gowitness                        │ 257│ gowitness
-│ 263│ gpg-tui                          │ 258│ gpg-tui
-│ 378│ naabu                            │ 373│ naabu
-│ 379│ naabu_staticx                    │ 374│ naabu_staticx
-│ 380│ navi                             │ 375│ navi
-│ 381│-ncat                             │    │
-│ 382│-ncdu                             │    │
-│ 383│ neofetch                         │ 376│ neofetch
-│ 384│ nerdctl                          │ 377│ nerdctl
-│ 385│ netbird                          │ 378│ netbird
-│ 390│ nfs-stat                         │ 383│ nfs-stat
-│ 391│ nginx                            │ 384│ nginx
-│ 392│ ngocok                           │ 385│ ngocok
-│ 393│-ngrok                            │    │
-│ 394│ niltalk                          │ 386│ niltalk
-│ 395│ njs                              │ 387│ njs
-│ 396│ nmap                             │ 388│ nmap
-│ 400│ nnn                              │ 392│ nnn
-│ 401│ noir                             │ 393│ noir
-│ 402│ notify                           │ 394│ notify
-│ 403│-nping                            │    │
-│ 404│-nrich                            │    │
-│ 405│ nrp                              │ 395│ nrp
-│ 406│ nu                               │ 396│ nu
-│ 407│ nuclei                           │ 397│ nuclei
-│ 462│ recollapse_staticx               │ 452│ recollapse_staticx
-│ 463│ redguard                         │ 453│ redguard
-│ 464│ redive                           │ 454│ redive
-│ 465│-rekor                            │    │
-│ 466│ rekor-cli                        │ 455│ rekor-cli
-│ 467│ rekor-server                     │ 456│ rekor-server
-│ 468│ relic                            │ 457│ relic
-│ 568│ svg-hush                         │ 557│ svg-hush
-│ 569│ syncat                           │ 558│ syncat
-│ 570│ syncthing                        │ 559│ syncthing
-│ 571│-sysbox-fs                        │    │
-│ 572│-sysbox-mgr                       │    │
-│ 573│-sysbox-runc                      │    │
-│ 574│ systemctl-tui                    │ 560│ systemctl-tui
-│ 575│ systeroid                        │ 561│ systeroid
-│ 576│ t-rec                            │ 562│ t-rec
-│ 603│ try                              │ 589│ try
-│ 604│ tty2web                          │ 590│ tty2web
-│ 605│ ttyd                             │ 591│ ttyd
-│ 606│-tuiarchiver                      │    │
-│ 607│ tut                              │ 592│ tut
-│ 608│-twingate-client                  │    │
-│ 609│-twingate-connector               │    │
-│ 610│-twingate-connector-staticx       │    │
-│ 611│-twingate-connectorctl            │    │
-│ 612│-twingate-notifier                │    │
-│ 613│ txeh                             │ 593│ txeh
-│ 614│ tz                               │ 594│ tz
-│ 615│ u-root                           │ 595│ u-root
-│ 621│ upx                              │ 601│ upx
-│ 622│ usql                             │ 602│ usql
-│ 623│ v2raya                           │ 603│ v2raya
-│ 624│-v6disk                           │    │
-│ 625│ v6run                            │ 604│ v6run
-│ 626│ validtoml                        │ 605│ validtoml
-│ 627│ vegeta                           │ 606│ vegeta
+│ 16 │ amp                              │ 16 │ amp
+│ 17 │ analyticsrelationships           │ 17 │ analyticsrelationships
+│ 18 │ anew                             │ 18 │ anew
+│ 19 │-anew-rs                          │    │
+│ 20 │ anewer                           │ 19 │ anewer
+│ 21 │ apk.sh                           │ 20 │ apk.sh
+│ 22 │ arduino-cli                      │ 21 │ arduino-cli
+│ 49 │ bleve                            │ 48 │ bleve
+│ 50 │ bluetuith                        │ 49 │ bluetuith
+│ 51 │ boltconn                         │ 50 │ boltconn
+│ 52 │-bombadillo                       │    │
+│ 53 │ bore                             │ 51 │ bore
+│ 54 │ boringtun-cli                    │ 52 │ boringtun-cli
+│ 55 │ bottom                           │ 53 │ bottom
+│ 71 │ certspotter                      │ 69 │ certspotter
+│ 72 │ certstream                       │ 70 │ certstream
+│ 73 │ certstream-server-go             │ 71 │ certstream-server-go
+│ 74 │-certwatcher                      │    │
+│ 75 │ cexec                            │ 72 │ cexec
+│ 76 │ cfssl                            │ 73 │ cfssl
+│ 77 │ cfssl-bundle                     │ 74 │ cfssl-bundle
+│ 103│ coreutils                        │ 100│ coreutils
+│ 104│ cotp                             │ 101│ cotp
+│ 105│ cowitness                        │ 102│ cowitness
+│ 106│-cowsay                           │    │
+│ 107│-cowthink                         │    │
+│ 108│ cproxy                           │ 103│ cproxy
+│ 109│ cpufetch                         │ 104│ cpufetch
+│ 110│ crawley                          │ 105│ crawley
+│ 258│ gost                             │ 253│ gost
+│ 259│ gosu                             │ 254│ gosu
+│ 260│ gotator                          │ 255│ gotator
+│ 261│-gotld                            │    │
+│ 262│ gotty                            │ 256│ gotty
+│ 263│ gowitness                        │ 257│ gowitness
+│ 264│ gpg-tui                          │ 258│ gpg-tui
+│ 379│ naabu                            │ 373│ naabu
+│ 380│ naabu_staticx                    │ 374│ naabu_staticx
+│ 381│ navi                             │ 375│ navi
+│ 382│-ncat                             │    │
+│ 383│-ncdu                             │    │
+│ 384│ neofetch                         │ 376│ neofetch
+│ 385│ nerdctl                          │ 377│ nerdctl
+│ 386│ netbird                          │ 378│ netbird
+│ 391│ nfs-stat                         │ 383│ nfs-stat
+│ 392│ nginx                            │ 384│ nginx
+│ 393│ ngocok                           │ 385│ ngocok
+│ 394│-ngrok                            │    │
+│ 395│ niltalk                          │ 386│ niltalk
+│ 396│ njs                              │ 387│ njs
+│ 397│ nmap                             │ 388│ nmap
+│ 401│ nnn                              │ 392│ nnn
+│ 402│ noir                             │ 393│ noir
+│ 403│ notify                           │ 394│ notify
+│ 404│-nping                            │    │
+│ 405│-nrich                            │    │
+│ 406│ nrp                              │ 395│ nrp
+│ 407│ nu                               │ 396│ nu
+│ 408│ nuclei                           │ 397│ nuclei
+│ 463│ recollapse_staticx               │ 452│ recollapse_staticx
+│ 464│ redguard                         │ 453│ redguard
+│ 465│ redive                           │ 454│ redive
+│ 466│-rekor                            │    │
+│ 467│ rekor-cli                        │ 455│ rekor-cli
+│ 468│ rekor-server                     │ 456│ rekor-server
+│ 469│ relic                            │ 457│ relic
+│ 494│ rshijack                         │ 482│ rshijack
+│ 495│ ruff                             │ 483│ ruff
+│ 496│ runc                             │ 484│ runc
+│ 497│-runiq                            │    │
+│ 498│ runme                            │ 485│ runme
+│ 499│ rush                             │ 486│ rush
+│ 500│ rust-parallel                    │ 487│ rust-parallel
+│ 570│ svg-hush                         │ 557│ svg-hush
+│ 571│ syncat                           │ 558│ syncat
+│ 572│ syncthing                        │ 559│ syncthing
+│ 573│-sysbox-fs                        │    │
+│ 574│-sysbox-mgr                       │    │
+│ 575│-sysbox-runc                      │    │
+│ 576│ systemctl-tui                    │ 560│ systemctl-tui
+│ 577│ systeroid                        │ 561│ systeroid
+│ 578│ t-rec                            │ 562│ t-rec
+│ 605│ try                              │ 589│ try
+│ 606│ tty2web                          │ 590│ tty2web
+│ 607│ ttyd                             │ 591│ ttyd
+│ 608│-tuiarchiver                      │    │
+│ 609│ tut                              │ 592│ tut
+│ 610│-twingate-client                  │    │
+│ 611│-twingate-connector               │    │
+│ 612│-twingate-connector-staticx       │    │
+│ 613│-twingate-connectorctl            │    │
+│ 614│-twingate-notifier                │    │
+│ 615│ txeh                             │ 593│ txeh
+│ 616│ tz                               │ 594│ tz
+│ 617│ u-root                           │ 595│ u-root
+│ 623│ upx                              │ 601│ upx
+│ 624│ usql                             │ 602│ usql
+│ 625│ v2raya                           │ 603│ v2raya
+│ 626│-v6disk                           │    │
+│ 627│ v6run                            │ 604│ v6run
+│ 628│ validtoml                        │ 605│ validtoml
+│ 629│ vegeta                           │ 606│ vegeta
 

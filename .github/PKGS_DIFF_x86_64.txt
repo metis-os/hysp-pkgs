@@ -1,21 +1,23 @@
-│ 51 │-bombadillo                       │    │
-│ 73 │-certwatcher                      │    │
-│ 105│-cowsay                           │    │
-│ 106│-cowthink                         │    │
-│ 260│-gotld                            │    │
-│ 381│-ncat                             │    │
-│ 382│-ncdu                             │    │
-│ 393│-ngrok                            │    │
-│ 403│-nping                            │    │
-│ 404│-nrich                            │    │
-│ 465│-rekor                            │    │
-│ 571│-sysbox-fs                        │    │
-│ 572│-sysbox-mgr                       │    │
-│ 573│-sysbox-runc                      │    │
-│ 606│-tuiarchiver                      │    │
-│ 608│-twingate-client                  │    │
-│ 609│-twingate-connector               │    │
-│ 610│-twingate-connector-staticx       │    │
-│ 611│-twingate-connectorctl            │    │
-│ 612│-twingate-notifier                │    │
-│ 624│-v6disk                           │    │
+│ 19 │-anew-rs                          │    │
+│ 52 │-bombadillo                       │    │
+│ 74 │-certwatcher                      │    │
+│ 106│-cowsay                           │    │
+│ 107│-cowthink                         │    │
+│ 261│-gotld                            │    │
+│ 382│-ncat                             │    │
+│ 383│-ncdu                             │    │
+│ 394│-ngrok                            │    │
+│ 404│-nping                            │    │
+│ 405│-nrich                            │    │
+│ 466│-rekor                            │    │
+│ 497│-runiq                            │    │
+│ 573│-sysbox-fs                        │    │
+│ 574│-sysbox-mgr                       │    │
+│ 575│-sysbox-runc                      │    │
+│ 608│-tuiarchiver                      │    │
+│ 610│-twingate-client                  │    │
+│ 611│-twingate-connector               │    │
+│ 612│-twingate-connector-staticx       │    │
+│ 613│-twingate-connectorctl            │    │
+│ 614│-twingate-notifier                │    │
+│ 626│-v6disk                           │    │
