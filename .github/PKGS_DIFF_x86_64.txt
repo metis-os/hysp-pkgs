@@ -2,7 +2,6 @@
 │ 74 │-certwatcher                      │    │
 │ 106│-cowsay                           │    │
 │ 107│-cowthink                         │    │
-│ 217│-genact                           │    │
 │ 262│-gotld                            │    │
 │ 383│-ncat                             │    │
 │ 384│-ncdu                             │    │
@@ -20,4 +19,3 @@
 │ 614│-twingate-connectorctl            │    │
 │ 615│-twingate-notifier                │    │
 │ 627│-v6disk                           │    │
-│ 631│-vfox                             │    │
