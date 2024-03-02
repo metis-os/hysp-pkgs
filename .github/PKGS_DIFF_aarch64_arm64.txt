@@ -1,35 +1,39 @@
 │  2 │-TEST                             │    │
-│ 51 │-bombadillo                       │    │
-│ 71 │-certwatcher                      │    │
-│ 80 │-chameleon                        │    │
-│ 103│-cowsay                           │    │
-│ 104│-cowthink                         │    │
-│ 146│-doomxss                          │    │
-│ 165│-earh                             │    │
-│ 168│-eefjsf                           │    │
-│ 173│-elinks                           │    │
-│ 174│-elinks-lite                      │    │
-│ 215│-genscope                         │    │
-│ 305│-jira                             │    │
-│ 322│-knoxssme                         │    │
-│ 371│-ncat                             │    │
-│ 372│-ncdu                             │    │
-│ 383│-ngrok                            │    │
-│ 392│-nping                            │    │
-│ 439│-rapwp                            │    │
-│ 453│-removehost                       │    │
-│ 454│-removepro                        │    │
-│ 468│-robotstxt                        │    │
-│ 475│-rpfu                             │    │
-│ 551│-sysbox-fs                        │    │
-│ 552│-sysbox-mgr                       │    │
-│ 553│-sysbox-runc                      │    │
-│ 584│-tuiarchiver                      │    │
-│ 586│-twingate-client                  │    │
-│ 587│-twingate-connector               │    │
-│ 588│-twingate-connector-staticx       │    │
-│ 589│-twingate-connectorctl            │    │
-│ 590│-twingate-notifier                │    │
-│ 602│-v6disk                           │    │
-│ 618│-wasminspect                      │    │
-│ 626│-wireguard-rs                     │    │
+│ 20 │-anew-rs                          │    │
+│ 52 │-bombadillo                       │    │
+│ 72 │-certwatcher                      │    │
+│ 81 │-chameleon                        │    │
+│ 104│-cowsay                           │    │
+│ 105│-cowthink                         │    │
+│ 147│-doomxss                          │    │
+│ 166│-earh                             │    │
+│ 169│-eefjsf                           │    │
+│ 174│-elinks                           │    │
+│ 175│-elinks-lite                      │    │
+│ 216│-genact                           │    │
+│ 217│-genscope                         │    │
+│ 307│-jira                             │    │
+│ 324│-knoxssme                         │    │
+│ 373│-ncat                             │    │
+│ 374│-ncdu                             │    │
+│ 385│-ngrok                            │    │
+│ 394│-nping                            │    │
+│ 441│-rapwp                            │    │
+│ 455│-removehost                       │    │
+│ 456│-removepro                        │    │
+│ 470│-robotstxt                        │    │
+│ 477│-rpfu                             │    │
+│ 482│-runiq                            │    │
+│ 554│-sysbox-fs                        │    │
+│ 555│-sysbox-mgr                       │    │
+│ 556│-sysbox-runc                      │    │
+│ 587│-tuiarchiver                      │    │
+│ 589│-twingate-client                  │    │
+│ 590│-twingate-connector               │    │
+│ 591│-twingate-connector-staticx       │    │
+│ 592│-twingate-connectorctl            │    │
+│ 593│-twingate-notifier                │    │
+│ 605│-v6disk                           │    │
+│ 609│-vfox                             │    │
+│ 622│-wasminspect                      │    │
+│ 630│-wireguard-rs                     │    │
