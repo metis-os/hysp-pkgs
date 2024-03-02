@@ -216,70 +216,81 @@
 │ 108│ cproxy                           │ 104│ cproxy
 │ 109│ cpufetch                         │ 105│ cpufetch
 │ 110│ crawley                          │ 106│ crawley
-│ 258│ gost                             │ 254│ gost
-│ 259│ gosu                             │ 255│ gosu
-│ 260│ gotator                          │ 256│ gotator
-│ 261│-gotld                            │    │
-│ 262│ gotty                            │ 257│ gotty
-│ 263│ gowitness                        │ 258│ gowitness
-│ 264│ gpg-tui                          │ 259│ gpg-tui
-│ 379│ naabu                            │ 374│ naabu
-│ 380│ naabu_staticx                    │ 375│ naabu_staticx
-│ 381│ navi                             │ 376│ navi
-│ 382│-ncat                             │    │
-│ 383│-ncdu                             │    │
-│ 384│ neofetch                         │ 377│ neofetch
-│ 385│ nerdctl                          │ 378│ nerdctl
-│ 386│ netbird                          │ 379│ netbird
-│ 391│ nfs-stat                         │ 384│ nfs-stat
-│ 392│ nginx                            │ 385│ nginx
-│ 393│ ngocok                           │ 386│ ngocok
-│ 394│-ngrok                            │    │
-│ 395│ niltalk                          │ 387│ niltalk
-│ 396│ njs                              │ 388│ njs
-│ 397│ nmap                             │ 389│ nmap
-│ 401│ nnn                              │ 393│ nnn
-│ 402│ noir                             │ 394│ noir
-│ 403│ notify                           │ 395│ notify
-│ 404│-nping                            │    │
-│ 405│-nrich                            │    │
-│ 406│ nrp                              │ 396│ nrp
-│ 407│ nu                               │ 397│ nu
-│ 408│ nuclei                           │ 398│ nuclei
-│ 463│ recollapse_staticx               │ 453│ recollapse_staticx
-│ 464│ redguard                         │ 454│ redguard
-│ 465│ redive                           │ 455│ redive
-│ 466│-rekor                            │    │
-│ 467│ rekor-cli                        │ 456│ rekor-cli
-│ 468│ rekor-server                     │ 457│ rekor-server
-│ 469│ relic                            │ 458│ relic
-│ 570│ svg-hush                         │ 559│ svg-hush
-│ 571│ syncat                           │ 560│ syncat
-│ 572│ syncthing                        │ 561│ syncthing
-│ 573│-sysbox-fs                        │    │
-│ 574│-sysbox-mgr                       │    │
-│ 575│-sysbox-runc                      │    │
-│ 576│ systemctl-tui                    │ 562│ systemctl-tui
-│ 577│ systeroid                        │ 563│ systeroid
-│ 578│ t-rec                            │ 564│ t-rec
-│ 605│ try                              │ 591│ try
-│ 606│ tty2web                          │ 592│ tty2web
-│ 607│ ttyd                             │ 593│ ttyd
-│ 608│-tuiarchiver                      │    │
-│ 609│ tut                              │ 594│ tut
-│ 610│-twingate-client                  │    │
-│ 611│-twingate-connector               │    │
-│ 612│-twingate-connector-staticx       │    │
-│ 613│-twingate-connectorctl            │    │
-│ 614│-twingate-notifier                │    │
-│ 615│ txeh                             │ 595│ txeh
-│ 616│ tz                               │ 596│ tz
-│ 617│ u-root                           │ 597│ u-root
-│ 623│ upx                              │ 603│ upx
-│ 624│ usql                             │ 604│ usql
-│ 625│ v2raya                           │ 605│ v2raya
-│ 626│-v6disk                           │    │
-│ 627│ v6run                            │ 606│ v6run
-│ 628│ validtoml                        │ 607│ validtoml
-│ 629│ vegeta                           │ 608│ vegeta
+│ 214│ fzf                              │ 210│ fzf
+│ 215│ gau                              │ 211│ gau
+│ 216│ gdu                              │ 212│ gdu
+│ 217│-genact                           │    │
+│ 218│ genscope                         │ 213│ genscope
+│ 219│ getJS                            │ 214│ getJS
+│ 220│ getghrel                         │ 215│ getghrel
+│ 259│ gost                             │ 254│ gost
+│ 260│ gosu                             │ 255│ gosu
+│ 261│ gotator                          │ 256│ gotator
+│ 262│-gotld                            │    │
+│ 263│ gotty                            │ 257│ gotty
+│ 264│ gowitness                        │ 258│ gowitness
+│ 265│ gpg-tui                          │ 259│ gpg-tui
+│ 380│ naabu                            │ 374│ naabu
+│ 381│ naabu_staticx                    │ 375│ naabu_staticx
+│ 382│ navi                             │ 376│ navi
+│ 383│-ncat                             │    │
+│ 384│-ncdu                             │    │
+│ 385│ neofetch                         │ 377│ neofetch
+│ 386│ nerdctl                          │ 378│ nerdctl
+│ 387│ netbird                          │ 379│ netbird
+│ 392│ nfs-stat                         │ 384│ nfs-stat
+│ 393│ nginx                            │ 385│ nginx
+│ 394│ ngocok                           │ 386│ ngocok
+│ 395│-ngrok                            │    │
+│ 396│ niltalk                          │ 387│ niltalk
+│ 397│ njs                              │ 388│ njs
+│ 398│ nmap                             │ 389│ nmap
+│ 402│ nnn                              │ 393│ nnn
+│ 403│ noir                             │ 394│ noir
+│ 404│ notify                           │ 395│ notify
+│ 405│-nping                            │    │
+│ 406│-nrich                            │    │
+│ 407│ nrp                              │ 396│ nrp
+│ 408│ nu                               │ 397│ nu
+│ 409│ nuclei                           │ 398│ nuclei
+│ 464│ recollapse_staticx               │ 453│ recollapse_staticx
+│ 465│ redguard                         │ 454│ redguard
+│ 466│ redive                           │ 455│ redive
+│ 467│-rekor                            │    │
+│ 468│ rekor-cli                        │ 456│ rekor-cli
+│ 469│ rekor-server                     │ 457│ rekor-server
+│ 470│ relic                            │ 458│ relic
+│ 571│ svg-hush                         │ 559│ svg-hush
+│ 572│ syncat                           │ 560│ syncat
+│ 573│ syncthing                        │ 561│ syncthing
+│ 574│-sysbox-fs                        │    │
+│ 575│-sysbox-mgr                       │    │
+│ 576│-sysbox-runc                      │    │
+│ 577│ systemctl-tui                    │ 562│ systemctl-tui
+│ 578│ systeroid                        │ 563│ systeroid
+│ 579│ t-rec                            │ 564│ t-rec
+│ 606│ try                              │ 591│ try
+│ 607│ tty2web                          │ 592│ tty2web
+│ 608│ ttyd                             │ 593│ ttyd
+│ 609│-tuiarchiver                      │    │
+│ 610│ tut                              │ 594│ tut
+│ 611│-twingate-client                  │    │
+│ 612│-twingate-connector               │    │
+│ 613│-twingate-connector-staticx       │    │
+│ 614│-twingate-connectorctl            │    │
+│ 615│-twingate-notifier                │    │
+│ 616│ txeh                             │ 595│ txeh
+│ 617│ tz                               │ 596│ tz
+│ 618│ u-root                           │ 597│ u-root
+│ 624│ upx                              │ 603│ upx
+│ 625│ usql                             │ 604│ usql
+│ 626│ v2raya                           │ 605│ v2raya
+│ 627│-v6disk                           │    │
+│ 628│ v6run                            │ 606│ v6run
+│ 629│ validtoml                        │ 607│ validtoml
+│ 630│ vegeta                           │ 608│ vegeta
+│ 631│-vfox                             │    │
+│ 632│ vhs                              │ 609│ vhs
+│ 633│ viddy                            │ 610│ viddy
+│ 634│ viewgen_staticx                  │ 611│ viewgen_staticx
 
