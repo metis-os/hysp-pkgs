@@ -1,0 +1,26 @@
+[bin]
+name = "vfox"
+
+[package]
+architecture = "x86_64"
+name = "vfox"
+description = " more"
+author = "version-fox"
+repo = "https://github.com/version-fox/vfox"
+stars = "770"
+version = "v0.2.3"
+updated = "2024-02-05T14:22:31Z"
+size = "10.42 MB"
+bsum = "ca175442cd56fb5429610550edad94fddc71d2584853b20aee2bd46171aa12ae"
+sha = "3def044521db618ddfe400b57c252899dade966d765d00b80257276e16fb5fe6"
+source = "https://bin.ajam.dev/x86_64_Linux/vfox"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["vfox"]
+requires = []
+
+[package.metadata]
+keywords = ["asdf","bash","cli","cmd","cross-platform","development-tools","golang","linux","lua","macos","nodejs","plugin-manager","powershell","sdk","tools","version-manager","windows","zsh"]
+categories = ["Utilities"]
