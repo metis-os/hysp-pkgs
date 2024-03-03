@@ -67,8 +67,8 @@
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx)
 - **Stars:** 1883
-- **Version:** v1.1.6
-- **Updated:** 2023-11-11T19:20:44Z
+- **Version:** v1.2.0
+- **Updated:** 2024-03-03T22:32:14Z
 - **Size:** 26.19 MB
 - **SHASUM:** d509d9842aadbc66dee69607e74ae88a51c48ffaff0030be10c06a1bc2c596e2
 - **B3SUM:** 9c109364df219ee3aa7f1c03ff14dfd93eac739c8b81069657593bbfed39c880
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22918
+- **Stars:** 22919
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -162,7 +162,7 @@
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost
 - **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2606
+- **Stars:** 2607
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 27.22 MB
