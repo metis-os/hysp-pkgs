@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6558
+- **Stars:** 6559
 - **Version:** v1.5.0
 - **Updated:** 2024-03-01T19:42:28Z
 - **Size:** 42.14 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15618
+- **Stars:** 15619
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15618
+- **Stars:** 15619
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15618
+- **Stars:** 15619
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15618
+- **Stars:** 15619
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 21.67 MB
