@@ -1,4 +1,3 @@
-│ 22 │-archey                           │    │
 │ 53 │-bombadillo                       │    │
 │ 75 │-certwatcher                      │    │
 │ 107│-cowsay                           │    │

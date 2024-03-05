@@ -177,99 +177,92 @@
 
 [+] x86_64
 
-│ 19 │ anew-rs                          │ 19 │ anew-rs
-│ 20 │ anewer                           │ 20 │ anewer
-│ 21 │ apk.sh                           │ 21 │ apk.sh
-│ 22 │-archey                           │    │
-│ 23 │ arduino-cli                      │ 22 │ arduino-cli
-│ 24 │ aretext                          │ 23 │ aretext
-│ 25 │ aria2c                           │ 24 │ aria2c
-│ 50 │ bleve                            │ 49 │ bleve
-│ 51 │ bluetuith                        │ 50 │ bluetuith
-│ 52 │ boltconn                         │ 51 │ boltconn
+│ 50 │ bleve                            │ 50 │ bleve
+│ 51 │ bluetuith                        │ 51 │ bluetuith
+│ 52 │ boltconn                         │ 52 │ boltconn
 │ 53 │-bombadillo                       │    │
-│ 54 │ bore                             │ 52 │ bore
-│ 55 │ boringtun-cli                    │ 53 │ boringtun-cli
-│ 56 │ bottom                           │ 54 │ bottom
-│ 72 │ certspotter                      │ 70 │ certspotter
-│ 73 │ certstream                       │ 71 │ certstream
-│ 74 │ certstream-server-go             │ 72 │ certstream-server-go
+│ 54 │ bore                             │ 53 │ bore
+│ 55 │ boringtun-cli                    │ 54 │ boringtun-cli
+│ 56 │ bottom                           │ 55 │ bottom
+│ 72 │ certspotter                      │ 71 │ certspotter
+│ 73 │ certstream                       │ 72 │ certstream
+│ 74 │ certstream-server-go             │ 73 │ certstream-server-go
 │ 75 │-certwatcher                      │    │
-│ 76 │ cexec                            │ 73 │ cexec
-│ 77 │ cfssl                            │ 74 │ cfssl
-│ 78 │ cfssl-bundle                     │ 75 │ cfssl-bundle
-│ 104│ coreutils                        │ 101│ coreutils
-│ 105│ cotp                             │ 102│ cotp
-│ 106│ cowitness                        │ 103│ cowitness
+│ 76 │ cexec                            │ 74 │ cexec
+│ 77 │ cfssl                            │ 75 │ cfssl
+│ 78 │ cfssl-bundle                     │ 76 │ cfssl-bundle
+│ 104│ coreutils                        │ 102│ coreutils
+│ 105│ cotp                             │ 103│ cotp
+│ 106│ cowitness                        │ 104│ cowitness
 │ 107│-cowsay                           │    │
 │ 108│-cowthink                         │    │
-│ 109│ cproxy                           │ 104│ cproxy
-│ 110│ cpufetch                         │ 105│ cpufetch
-│ 111│ crawley                          │ 106│ crawley
-│ 260│ gost                             │ 255│ gost
-│ 261│ gosu                             │ 256│ gosu
-│ 262│ gotator                          │ 257│ gotator
+│ 109│ cproxy                           │ 105│ cproxy
+│ 110│ cpufetch                         │ 106│ cpufetch
+│ 111│ crawley                          │ 107│ crawley
+│ 260│ gost                             │ 256│ gost
+│ 261│ gosu                             │ 257│ gosu
+│ 262│ gotator                          │ 258│ gotator
 │ 263│-gotld                            │    │
-│ 264│ gotty                            │ 258│ gotty
-│ 265│ gowitness                        │ 259│ gowitness
-│ 266│ gpg-tui                          │ 260│ gpg-tui
-│ 381│ naabu                            │ 375│ naabu
-│ 382│ naabu_staticx                    │ 376│ naabu_staticx
-│ 383│ navi                             │ 377│ navi
+│ 264│ gotty                            │ 259│ gotty
+│ 265│ gowitness                        │ 260│ gowitness
+│ 266│ gpg-tui                          │ 261│ gpg-tui
+│ 381│ naabu                            │ 376│ naabu
+│ 382│ naabu_staticx                    │ 377│ naabu_staticx
+│ 383│ navi                             │ 378│ navi
 │ 384│-ncat                             │    │
 │ 385│-ncdu                             │    │
-│ 386│ neofetch                         │ 378│ neofetch
-│ 387│ nerdctl                          │ 379│ nerdctl
-│ 388│ netbird                          │ 380│ netbird
-│ 393│ nfs-stat                         │ 385│ nfs-stat
-│ 394│ nginx                            │ 386│ nginx
-│ 395│ ngocok                           │ 387│ ngocok
+│ 386│ neofetch                         │ 379│ neofetch
+│ 387│ nerdctl                          │ 380│ nerdctl
+│ 388│ netbird                          │ 381│ netbird
+│ 393│ nfs-stat                         │ 386│ nfs-stat
+│ 394│ nginx                            │ 387│ nginx
+│ 395│ ngocok                           │ 388│ ngocok
 │ 396│-ngrok                            │    │
-│ 397│ niltalk                          │ 388│ niltalk
-│ 398│ njs                              │ 389│ njs
-│ 399│ nmap                             │ 390│ nmap
-│ 403│ nnn                              │ 394│ nnn
-│ 404│ noir                             │ 395│ noir
-│ 405│ notify                           │ 396│ notify
+│ 397│ niltalk                          │ 389│ niltalk
+│ 398│ njs                              │ 390│ njs
+│ 399│ nmap                             │ 391│ nmap
+│ 403│ nnn                              │ 395│ nnn
+│ 404│ noir                             │ 396│ noir
+│ 405│ notify                           │ 397│ notify
 │ 406│-nping                            │    │
 │ 407│-nrich                            │    │
-│ 408│ nrp                              │ 397│ nrp
-│ 409│ nu                               │ 398│ nu
-│ 410│ nuclei                           │ 399│ nuclei
-│ 465│ recollapse_staticx               │ 454│ recollapse_staticx
-│ 466│ redguard                         │ 455│ redguard
-│ 467│ redive                           │ 456│ redive
+│ 408│ nrp                              │ 398│ nrp
+│ 409│ nu                               │ 399│ nu
+│ 410│ nuclei                           │ 400│ nuclei
+│ 465│ recollapse_staticx               │ 455│ recollapse_staticx
+│ 466│ redguard                         │ 456│ redguard
+│ 467│ redive                           │ 457│ redive
 │ 468│-rekor                            │    │
-│ 469│ rekor-cli                        │ 457│ rekor-cli
-│ 470│ rekor-server                     │ 458│ rekor-server
-│ 471│ relic                            │ 459│ relic
-│ 574│ svg-hush                         │ 562│ svg-hush
-│ 575│ syncat                           │ 563│ syncat
-│ 576│ syncthing                        │ 564│ syncthing
+│ 469│ rekor-cli                        │ 458│ rekor-cli
+│ 470│ rekor-server                     │ 459│ rekor-server
+│ 471│ relic                            │ 460│ relic
+│ 574│ svg-hush                         │ 563│ svg-hush
+│ 575│ syncat                           │ 564│ syncat
+│ 576│ syncthing                        │ 565│ syncthing
 │ 577│-sysbox-fs                        │    │
 │ 578│-sysbox-mgr                       │    │
 │ 579│-sysbox-runc                      │    │
-│ 580│ systemctl-tui                    │ 565│ systemctl-tui
-│ 581│ systeroid                        │ 566│ systeroid
-│ 582│ t-rec                            │ 567│ t-rec
-│ 609│ try                              │ 594│ try
-│ 610│ tty2web                          │ 595│ tty2web
-│ 611│ ttyd                             │ 596│ ttyd
+│ 580│ systemctl-tui                    │ 566│ systemctl-tui
+│ 581│ systeroid                        │ 567│ systeroid
+│ 582│ t-rec                            │ 568│ t-rec
+│ 609│ try                              │ 595│ try
+│ 610│ tty2web                          │ 596│ tty2web
+│ 611│ ttyd                             │ 597│ ttyd
 │ 612│-tuiarchiver                      │    │
-│ 613│ tut                              │ 597│ tut
+│ 613│ tut                              │ 598│ tut
 │ 614│-twingate-client                  │    │
 │ 615│-twingate-connector               │    │
 │ 616│-twingate-connector-staticx       │    │
 │ 617│-twingate-connectorctl            │    │
 │ 618│-twingate-notifier                │    │
-│ 619│ txeh                             │ 598│ txeh
-│ 620│ tz                               │ 599│ tz
-│ 621│ u-root                           │ 600│ u-root
-│ 627│ upx                              │ 606│ upx
-│ 628│ usql                             │ 607│ usql
-│ 629│ v2raya                           │ 608│ v2raya
+│ 619│ txeh                             │ 599│ txeh
+│ 620│ tz                               │ 600│ tz
+│ 621│ u-root                           │ 601│ u-root
+│ 627│ upx                              │ 607│ upx
+│ 628│ usql                             │ 608│ usql
+│ 629│ v2raya                           │ 609│ v2raya
 │ 630│-v6disk                           │    │
-│ 631│ v6run                            │ 609│ v6run
-│ 632│ validtoml                        │ 610│ validtoml
-│ 633│ vegeta                           │ 611│ vegeta
+│ 631│ v6run                            │ 610│ v6run
+│ 632│ validtoml                        │ 611│ validtoml
+│ 633│ vegeta                           │ 612│ vegeta
 
