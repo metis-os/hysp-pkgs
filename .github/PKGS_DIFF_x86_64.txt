@@ -1,21 +1,22 @@
-│ 52 │-bombadillo                       │    │
-│ 74 │-certwatcher                      │    │
-│ 106│-cowsay                           │    │
-│ 107│-cowthink                         │    │
-│ 262│-gotld                            │    │
-│ 383│-ncat                             │    │
-│ 384│-ncdu                             │    │
-│ 395│-ngrok                            │    │
-│ 405│-nping                            │    │
-│ 406│-nrich                            │    │
-│ 467│-rekor                            │    │
-│ 576│-sysbox-fs                        │    │
-│ 577│-sysbox-mgr                       │    │
-│ 578│-sysbox-runc                      │    │
-│ 611│-tuiarchiver                      │    │
-│ 613│-twingate-client                  │    │
-│ 614│-twingate-connector               │    │
-│ 615│-twingate-connector-staticx       │    │
-│ 616│-twingate-connectorctl            │    │
-│ 617│-twingate-notifier                │    │
-│ 629│-v6disk                           │    │
+│ 22 │-archey                           │    │
+│ 53 │-bombadillo                       │    │
+│ 75 │-certwatcher                      │    │
+│ 107│-cowsay                           │    │
+│ 108│-cowthink                         │    │
+│ 263│-gotld                            │    │
+│ 384│-ncat                             │    │
+│ 385│-ncdu                             │    │
+│ 396│-ngrok                            │    │
+│ 406│-nping                            │    │
+│ 407│-nrich                            │    │
+│ 468│-rekor                            │    │
+│ 577│-sysbox-fs                        │    │
+│ 578│-sysbox-mgr                       │    │
+│ 579│-sysbox-runc                      │    │
+│ 612│-tuiarchiver                      │    │
+│ 614│-twingate-client                  │    │
+│ 615│-twingate-connector               │    │
+│ 616│-twingate-connector-staticx       │    │
+│ 617│-twingate-connectorctl            │    │
+│ 618│-twingate-notifier                │    │
+│ 630│-v6disk                           │    │
