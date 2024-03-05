@@ -4,7 +4,7 @@ name = "tdl"
 [package]
 architecture = "x86_64"
 name = "tdl"
-description = "📥 A Telegram downloader/tools written in Golang"
+description = "📥 A Telegram tookit written in Golang"
 author = "iyear"
 repo = "https://github.com/iyear/tdl"
 stars = "3070"
