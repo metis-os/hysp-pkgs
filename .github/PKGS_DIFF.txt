@@ -229,48 +229,40 @@
 │ 408│ nrp                              │ 398│ nrp
 │ 409│ nu                               │ 399│ nu
 │ 410│ nuclei                           │ 400│ nuclei
-│ 433│ podman                           │ 423│ podman
-│ 434│ podsync                          │ 424│ podsync
-│ 435│ ppath                            │ 425│ ppath
-│ 436│-ppfuzz                           │    │
-│ 437│ pping                            │ 426│ pping
-│ 438│ presenterm                       │ 427│ presenterm
-│ 439│ pretender                        │ 428│ pretender
-│ 465│ recollapse_staticx               │ 454│ recollapse_staticx
-│ 466│ redguard                         │ 455│ redguard
-│ 467│ redive                           │ 456│ redive
+│ 465│ recollapse_staticx               │ 455│ recollapse_staticx
+│ 466│ redguard                         │ 456│ redguard
+│ 467│ redive                           │ 457│ redive
 │ 468│-rekor                            │    │
-│ 469│ rekor-cli                        │ 457│ rekor-cli
-│ 470│ rekor-server                     │ 458│ rekor-server
-│ 471│ relic                            │ 459│ relic
-│ 574│ svg-hush                         │ 562│ svg-hush
-│ 575│ syncat                           │ 563│ syncat
-│ 576│ syncthing                        │ 564│ syncthing
+│ 469│ rekor-cli                        │ 458│ rekor-cli
+│ 470│ rekor-server                     │ 459│ rekor-server
+│ 471│ relic                            │ 460│ relic
+│ 574│ svg-hush                         │ 563│ svg-hush
+│ 575│ syncat                           │ 564│ syncat
+│ 576│ syncthing                        │ 565│ syncthing
 │ 577│-sysbox-fs                        │    │
 │ 578│-sysbox-mgr                       │    │
 │ 579│-sysbox-runc                      │    │
-│ 580│-sysinfo-collector                │    │
-│ 581│ systemctl-tui                    │ 565│ systemctl-tui
-│ 582│ systeroid                        │ 566│ systeroid
-│ 583│ t-rec                            │ 567│ t-rec
-│ 610│ try                              │ 594│ try
-│ 611│ tty2web                          │ 595│ tty2web
-│ 612│ ttyd                             │ 596│ ttyd
+│ 580│ sysinfo-collector                │ 566│ sysinfo-collector
+│ 581│ systemctl-tui                    │ 567│ systemctl-tui
+│ 582│ systeroid                        │ 568│ systeroid
+│ 610│ try                              │ 596│ try
+│ 611│ tty2web                          │ 597│ tty2web
+│ 612│ ttyd                             │ 598│ ttyd
 │ 613│-tuiarchiver                      │    │
-│ 614│ tut                              │ 597│ tut
+│ 614│ tut                              │ 599│ tut
 │ 615│-twingate-client                  │    │
 │ 616│-twingate-connector               │    │
 │ 617│-twingate-connector-staticx       │    │
 │ 618│-twingate-connectorctl            │    │
 │ 619│-twingate-notifier                │    │
-│ 620│ txeh                             │ 598│ txeh
-│ 621│ tz                               │ 599│ tz
-│ 622│ u-root                           │ 600│ u-root
-│ 628│ upx                              │ 606│ upx
-│ 629│ usql                             │ 607│ usql
-│ 630│ v2raya                           │ 608│ v2raya
+│ 620│ txeh                             │ 600│ txeh
+│ 621│ tz                               │ 601│ tz
+│ 622│ u-root                           │ 602│ u-root
+│ 628│ upx                              │ 608│ upx
+│ 629│ usql                             │ 609│ usql
+│ 630│ v2raya                           │ 610│ v2raya
 │ 631│-v6disk                           │    │
-│ 632│ v6run                            │ 609│ v6run
-│ 633│ validtoml                        │ 610│ validtoml
-│ 634│ vegeta                           │ 611│ vegeta
+│ 632│ v6run                            │ 611│ v6run
+│ 633│ validtoml                        │ 612│ validtoml
+│ 634│ vegeta                           │ 613│ vegeta
 
