@@ -8,6 +8,7 @@
 │ 396│-ngrok                            │    │
 │ 406│-nping                            │    │
 │ 407│-nrich                            │    │
+│ 436│-ppfuzz                           │    │
 │ 468│-rekor                            │    │
 │ 577│-sysbox-fs                        │    │
 │ 578│-sysbox-mgr                       │    │
