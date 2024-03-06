@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 22961
+- **Stars:** 22964
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -294,7 +294,7 @@
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.65 MB
-- **SHASUM:** 
+- **SHASUM:** 5ff6329de00d7ac09a5e7be27c456ff0a5ffa0fd0e467c5c433943e5f8639586
 - **B3SUM:** f40145c7ad067ae4ba7ae779c52c5c38c9ad93dbcc02d300de48b48add277194
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/pspy
 - **Language:** Go
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15676
+- **Stars:** 15678
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15676
+- **Stars:** 15678
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15676
+- **Stars:** 15678
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15676
+- **Stars:** 15678
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 21.67 MB
