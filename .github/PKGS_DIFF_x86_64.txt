@@ -9,6 +9,7 @@
 │ 406│-nping                            │    │
 │ 407│-nrich                            │    │
 │ 468│-rekor                            │    │
+│ 539│-socat                            │    │
 │ 577│-sysbox-fs                        │    │
 │ 578│-sysbox-mgr                       │    │
 │ 579│-sysbox-runc                      │    │
