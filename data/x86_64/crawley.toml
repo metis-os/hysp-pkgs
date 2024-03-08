@@ -22,5 +22,5 @@ conflicts  = ["crawley"]
 requires = []
 
 [package.metadata]
-keywords = ["cli","crawler","go","golang","golang-application","pentest-tool","unix-way","web-crawler","web-scraping","web-spider"]
+keywords = ["cli","crawler","go","golang","golang-application","pentest","pentest-tool","pentesting","unix-way","web-crawler","web-scraping","web-spider"]
 categories = ["Utilities"]
