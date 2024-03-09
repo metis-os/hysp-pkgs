@@ -1,0 +1,26 @@
+[bin]
+name = "sadc"
+
+[package]
+architecture = "x86_64"
+name = "sadc"
+description = "Performance monitoring tools for Linux"
+author = "sysstat"
+repo = "https://github.com/sysstat/sysstat"
+stars = "2828"
+version = "v12.7.5"
+updated = "null"
+size = "121.46 kB"
+bsum = "30435c2c23b2e12bd5bc6604baa3dcf995c83c4e5b9da8650732c3cd2a99741e"
+sha = "5db6157261b5eb652f35bc9243dc9898b67d74cbae74e24c95b6b79b3281e9d3"
+source = "https://bin.ajam.dev/x86_64_Linux/sadc"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["sadc"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cpu","disk","iostat","linux","memory","monitoring","mpstat","performance-monitoring","pidstat","sadf","sar","system-monitoring","tapestat"]
+categories = ["Utilities"]

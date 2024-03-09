@@ -1,0 +1,26 @@
+[bin]
+name = "sysstat"
+
+[package]
+architecture = "x86_64"
+name = "sysstat"
+description = "Performance monitoring tools for Linux"
+author = "sysstat"
+repo = "https://github.com/sysstat/sysstat"
+stars = "2828"
+version = "v12.7.5"
+updated = "null"
+size = "1248 B"
+bsum = "7f11243e6317f97fa0349382ecd8fb4cb75a4bfe148090ec6f04ca358370f25f"
+sha = "bcaff25cb519d1c6edd119e6502bafd700beff2194e1a281c1ba000af6d20cae"
+source = "https://bin.ajam.dev/x86_64_Linux/sysstat"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["sysstat"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cpu","disk","iostat","linux","memory","monitoring","mpstat","performance-monitoring","pidstat","sadf","sar","system-monitoring","tapestat"]
+categories = ["Utilities"]

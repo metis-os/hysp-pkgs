@@ -1,0 +1,26 @@
+[bin]
+name = "sa2"
+
+[package]
+architecture = "x86_64"
+name = "sa2"
+description = "Performance monitoring tools for Linux"
+author = "sysstat"
+repo = "https://github.com/sysstat/sysstat"
+stars = "2828"
+version = "v12.7.5"
+updated = "null"
+size = "1600 B"
+bsum = "da68e3e809c6142dc33db5836069d0ecd297451850dc7951e012b81890cbb6c6"
+sha = "a8827ea45ff38633f38255bef7fd6194cce0c2c87a5d467416a97110d843db5f"
+source = "https://bin.ajam.dev/x86_64_Linux/sa2"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["sa2"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cpu","disk","iostat","linux","memory","monitoring","mpstat","performance-monitoring","pidstat","sadf","sar","system-monitoring","tapestat"]
+categories = ["Utilities"]

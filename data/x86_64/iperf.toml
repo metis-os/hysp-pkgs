@@ -1,0 +1,26 @@
+[bin]
+name = "iperf"
+
+[package]
+architecture = "x86_64"
+name = "iperf"
+description = "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool"
+author = "esnet"
+repo = "https://github.com/esnet/iperf"
+stars = "6195"
+version = "3.16"
+updated = "2023-12-01T19:15:52Z"
+size = "3.74 MB"
+bsum = "10048021c1f0adf965bce1da03c52a0e80339475a78f7b9f1130d551337808ca"
+sha = "c8d265656a04110c67543bddf820cd8af92a4e30a7250ad9156966d21126f3c0"
+source = "https://bin.ajam.dev/x86_64_Linux/iperf"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["iperf"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

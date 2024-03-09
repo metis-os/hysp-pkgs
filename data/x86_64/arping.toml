@@ -1,0 +1,26 @@
+[bin]
+name = "arping"
+
+[package]
+architecture = "x86_64"
+name = "arping"
+description = "The iputils package is set of small old utilities for Linux networking."
+author = "iputils"
+repo = "https://github.com/iputils/iputils"
+stars = "605"
+version = "20240117"
+updated = "2024-01-17T10:55:43Z"
+size = "104.08 kB"
+bsum = "f974a71f8e37f7b26c3c80bccb47350122f11f38b89a5695cb0433c44de87a3c"
+sha = "dca70df3c99e5a328344579ab86c22d2463a1c9b0a2a35849ae74224f3e33e67"
+source = "https://bin.ajam.dev/x86_64_Linux/arping"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["arping"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "mount.fuse3"
+
+[package]
+architecture = "x86_64"
+name = "mount.fuse3"
+description = "The reference implementation of the Linux FUSE (Filesystem in Userspace) interface"
+author = "libfuse"
+repo = "https://github.com/libfuse/libfuse"
+stars = "4906"
+version = "fuse-3.16.2"
+updated = "2023-10-10T07:40:44Z"
+size = "456.34 kB"
+bsum = "99bb92fea2ecf694724b09eb5d3edeff79d52317e9211c4413fceaf11464e4be"
+sha = "4230028aa5f5febbb654cd89c5e6575a8feefbafa677b87d6a542f70ce529986"
+source = "https://bin.ajam.dev/x86_64_Linux/mount.fuse3"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["mount.fuse3"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

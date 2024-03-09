@@ -1,0 +1,26 @@
+[bin]
+name = "ttyrec2ansi"
+
+[package]
+architecture = "x86_64"
+name = "ttyrec2ansi"
+description = "tools for logs with ANSI color"
+author = "kilobyte"
+repo = "https://github.com/kilobyte/colorized-logs"
+stars = "80"
+version = "v2.6"
+updated = "null"
+size = "18.9 kB"
+bsum = "9ef755300fdc02466a118db3f29213ed9e3393fc7cb22718d6da447ed9f18f7c"
+sha = "4672867d821a71eb49ae3ad28607a0da5a52491b329f025078209127e34c9164"
+source = "https://bin.ajam.dev/x86_64_Linux/ttyrec2ansi"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ttyrec2ansi"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

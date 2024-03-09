@@ -1,0 +1,26 @@
+[bin]
+name = "doas"
+
+[package]
+architecture = "x86_64"
+name = "doas"
+description = "A portable fork of the OpenBSD doas command"
+author = "Duncaen"
+repo = "https://github.com/Duncaen/OpenDoas"
+stars = "585"
+version = "v6.8.2"
+updated = "2022-01-26T16:13:37Z"
+size = "272.06 kB"
+bsum = "e6e7a97866153f5e6d5ff34789b69b7c2bd47ff7d331f3d2ad81778f2bb42737"
+sha = "5a059bee376502c3b5080999932bdb06544e3a4c9875df7e4b93cbec772df167"
+source = "https://bin.ajam.dev/x86_64_Linux/doas"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["doas"]
+requires = []
+
+[package.metadata]
+keywords = ["doas"]
+categories = ["Utilities"]
