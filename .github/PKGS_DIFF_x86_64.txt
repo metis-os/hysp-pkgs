@@ -2,7 +2,6 @@
 │ 79 │-certwatcher                      │    │
 │ 113│-cowsay                           │    │
 │ 114│-cowthink                         │    │
-│ 148│-dnsx                             │    │
 │ 159│-dos2unix                         │    │
 │ 213│-filan                            │    │
 │ 274│-gotld                            │    │
