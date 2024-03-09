@@ -1,0 +1,26 @@
+[bin]
+name = "rsync-ssl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rsync-ssl"
+description = "An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases."
+author = "WayneD"
+repo = "https://github.com/WayneD/rsync"
+stars = "2106"
+version = "v3.3.0pre1"
+updated = "null"
+size = "5217 B"
+bsum = "3dfba7b962fda1cde154e1e086ccc342750d0dce2f21d7572c8a2155fa0cb800"
+sha = "9072698745023ff447403aa8912f3486b051aa525affb75bca1c44bc51b17f34"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/rsync-ssl"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["rsync-ssl"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "hurl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hurl"
+description = "Hurl, run and test HTTP requests with plain text."
+author = "Orange-OpenSource"
+repo = "https://github.com/Orange-OpenSource/hurl"
+stars = "10243"
+version = "4.2.0"
+updated = "2024-01-11T15:11:35Z"
+size = "9.51 MB"
+bsum = "c8307710f8ceb508a03442df1f370d0edb6f3c07a75e58238903a953639df703"
+sha = "e6a2d4c66128004de383361f618d5439c22f14e12cffba7a2dce79e01313451d"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/hurl"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["hurl"]
+requires = []
+
+[package.metadata]
+keywords = ["api-testing","cli","curl","http","http-client","integration-testing","testing","testing-tools"]
+categories = ["Utilities"]

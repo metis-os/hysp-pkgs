@@ -1,0 +1,26 @@
+[bin]
+name = "clockdiff"
+
+[package]
+architecture = "aarch64_arm64"
+name = "clockdiff"
+description = "The iputils package is set of small old utilities for Linux networking."
+author = "iputils"
+repo = "https://github.com/iputils/iputils"
+stars = "605"
+version = "20240117"
+updated = "2024-01-17T10:55:43Z"
+size = "132.91 kB"
+bsum = "586a6fedd5b336ecc9edd7769dda8fb26488b9e6d0db4aaaea94b3eccdd79a0e"
+sha = "afe25edb56eb300ba247e8a0f76673847c6ce2fd8c8af51f905c6d539de4ef03"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/clockdiff"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["clockdiff"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
