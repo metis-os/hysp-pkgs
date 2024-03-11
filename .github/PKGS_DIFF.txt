@@ -58,135 +58,141 @@
 │ 185│ elvish                           │ 173│ elvish
 │ 186│ enc                              │ 174│ enc
 │ 187│ encode                           │ 175│ encode
-│ 225│ gau                              │ 213│ gau
-│ 226│ gdu                              │ 214│ gdu
-│ 227│ genact                           │ 215│ genact
-│ 228│-genscope                         │    │
-│ 229│ getJS                            │ 216│ getJS
-│ 230│ getghrel                         │ 217│ getghrel
-│ 231│ gf                               │ 218│ gf
-│ 319│ istioctl                         │ 306│ istioctl
-│ 320│ jaeles                           │ 307│ jaeles
-│ 321│ jaq                              │ 308│ jaq
-│ 322│-jira                             │    │
-│ 323│ jira-cli                         │ 309│ jira-cli
-│ 324│ jj                               │ 310│ jj
-│ 325│ jless_staticx                    │ 311│ jless_staticx
-│ 336│ katana_staticx                   │ 322│ katana_staticx
-│ 337│ killport                         │ 323│ killport
-│ 338│ kmon                             │ 324│ kmon
-│ 339│-knoxssme                         │    │
-│ 340│ kondo                            │ 325│ kondo
-│ 341│ kopia                            │ 326│ kopia
-│ 342│ ksubdomain_staticx               │ 327│ ksubdomain_staticx
-│ 356│ luet                             │ 341│ luet
-│ 357│ lux                              │ 342│ lux
-│ 358│ mabel                            │ 343│ mabel
-│ 359│-mac2unix                         │    │
-│ 360│ macchina                         │ 344│ macchina
-│ 361│ maddy                            │ 345│ maddy
-│ 362│ mailpit                          │ 346│ mailpit
-│ 388│ multirootca                      │ 372│ multirootca
-│ 389│ naabu_staticx                    │ 373│ naabu_staticx
-│ 390│ navi                             │ 374│ navi
-│ 391│-ncat                             │    │
-│ 392│-ncdu                             │    │
-│ 393│ neofetch                         │ 375│ neofetch
-│ 394│ nerdctl                          │ 376│ nerdctl
-│ 395│ netbird                          │ 377│ netbird
-│ 400│ nfs-stat                         │ 382│ nfs-stat
-│ 401│ nginx                            │ 383│ nginx
-│ 402│ ngocok                           │ 384│ ngocok
-│ 403│-ngrok                            │    │
-│ 404│ njs                              │ 385│ njs
-│ 405│ nmap                             │ 386│ nmap
-│ 406│ nmap-formatter                   │ 387│ nmap-formatter
-│ 409│ nnn                              │ 390│ nnn
-│ 410│ noir                             │ 391│ noir
-│ 411│ notify                           │ 392│ notify
-│ 412│-nping                            │    │
-│ 413│ nrp                              │ 393│ nrp
-│ 414│ nu                               │ 394│ nu
-│ 415│ nuclei                           │ 395│ nuclei
-│ 459│ qsreplace                        │ 439│ qsreplace
-│ 460│ qsv                              │ 440│ qsv
-│ 461│ quickcert                        │ 441│ quickcert
-│ 462│-rapwp                            │    │
-│ 463│ rate-limit-checker               │ 442│ rate-limit-checker
-│ 464│ rathole                          │ 443│ rathole
-│ 465│ rattler-build                    │ 444│ rattler-build
-│ 473│ rekor-cli                        │ 452│ rekor-cli
-│ 474│ rekor-server                     │ 453│ rekor-server
-│ 475│ relic                            │ 454│ relic
-│ 476│-removehost                       │    │
-│ 477│-removepro                        │    │
-│ 478│ reptyr                           │ 455│ reptyr
-│ 479│ rescope                          │ 456│ rescope
-│ 480│ resdns                           │ 457│ resdns
-│ 488│ ripgen                           │ 465│ ripgen
-│ 489│ ripgrep                          │ 466│ ripgrep
-│ 490│ rnr                              │ 467│ rnr
-│ 491│-robotstxt                        │    │
-│ 492│ roboxtractor                     │ 468│ roboxtractor
-│ 493│ rootlesskit                      │ 469│ rootlesskit
-│ 494│ rootlesskit-docker-proxy         │ 470│ rootlesskit-docker-proxy
-│ 495│ ropr                             │ 471│ ropr
-│ 496│ rospo                            │ 472│ rospo
-│ 497│ rpaste                           │ 473│ rpaste
-│ 498│-rpfu                             │    │
-│ 499│ rqbit                            │ 474│ rqbit
-│ 500│ rshijack                         │ 475│ rshijack
-│ 501│ rsync                            │ 476│ rsync
-│ 579│ svg-hush                         │ 554│ svg-hush
-│ 580│ syncat                           │ 555│ syncat
-│ 581│ syncthing                        │ 556│ syncthing
-│ 582│-sysbox-fs                        │    │
-│ 583│-sysbox-mgr                       │    │
-│ 584│-sysbox-runc                      │    │
-│ 585│ sysinfo-collector                │ 557│ sysinfo-collector
-│ 586│ sysstat                          │ 558│ sysstat
-│ 587│ system-info-collector            │ 559│ system-info-collector
-│ 619│ tty2web                          │ 591│ tty2web
-│ 620│ ttyd                             │ 592│ ttyd
-│ 621│ ttyrec2ansi                      │ 593│ ttyrec2ansi
-│ 622│-tuiarchiver                      │    │
-│ 623│ tut                              │ 594│ tut
-│ 624│-twingate-client                  │    │
-│ 625│-twingate-connector               │    │
-│ 626│-twingate-connector-staticx       │    │
-│ 627│-twingate-connectorctl            │    │
-│ 628│-twingate-notifier                │    │
-│ 629│ txeh                             │ 595│ txeh
-│ 630│ tz                               │ 596│ tz
-│ 631│ u-root                           │ 597│ u-root
-│ 634│ uncover                          │ 600│ uncover
-│ 635│ unf                              │ 601│ unf
-│ 636│ unfurl                           │ 602│ unfurl
-│ 637│-unix2dos                         │    │
-│ 638│-unix2mac                         │    │
-│ 639│ upx                              │ 603│ upx
-│ 640│ usql                             │ 604│ usql
-│ 641│ v2raya                           │ 605│ v2raya
-│ 642│-v6disk                           │    │
-│ 643│ v6run                            │ 606│ v6run
-│ 644│ validtoml                        │ 607│ validtoml
-│ 645│ vegeta                           │ 608│ vegeta
-│ 656│ vultr-cli                        │ 619│ vultr-cli
-│ 657│ wadl-dumper                      │ 620│ wadl-dumper
-│ 658│ walk                             │ 621│ walk
-│ 659│-wasminspect                      │    │
-│ 660│ watchexec                        │ 622│ watchexec
-│ 661│ waybackrobots                    │ 623│ waybackrobots
-│ 662│ waybackurls                      │ 624│ waybackurls
-│ 663│ web-cache-vulnerability-scanner  │ 625│ web-cache-vulnerability-scanner
-│ 664│ websocat                         │ 626│ websocat
-│ 665│ wego                             │ 627│ wego
-│ 666│-wget                             │    │
-│ 667│ wireguard-go                     │ 628│ wireguard-go
-│ 668│-wireguard-rs                     │    │
-│ 669│ wireproxy                        │ 629│ wireproxy
-│ 670│ wiretap                          │ 630│ wiretap
-│ 671│ wormhole-rs                      │ 631│ wormhole-rs
+│ 188│ enola                            │ 176│ enola
+│ 189│ enumerepo                        │ 177│ enumerepo
+│ 190│-epoch                            │    │
+│ 191│ etcd                             │ 178│ etcd
+│ 192│ etcdctl                          │ 179│ etcdctl
+│ 193│ etcdutl                          │ 180│ etcdutl
+│ 226│ gau                              │ 213│ gau
+│ 227│ gdu                              │ 214│ gdu
+│ 228│ genact                           │ 215│ genact
+│ 229│-genscope                         │    │
+│ 230│ getJS                            │ 216│ getJS
+│ 231│ getghrel                         │ 217│ getghrel
+│ 232│ gf                               │ 218│ gf
+│ 320│ istioctl                         │ 306│ istioctl
+│ 321│ jaeles                           │ 307│ jaeles
+│ 322│ jaq                              │ 308│ jaq
+│ 323│-jira                             │    │
+│ 324│ jira-cli                         │ 309│ jira-cli
+│ 325│ jj                               │ 310│ jj
+│ 326│ jless_staticx                    │ 311│ jless_staticx
+│ 337│ katana_staticx                   │ 322│ katana_staticx
+│ 338│ killport                         │ 323│ killport
+│ 339│ kmon                             │ 324│ kmon
+│ 340│-knoxssme                         │    │
+│ 341│ kondo                            │ 325│ kondo
+│ 342│ kopia                            │ 326│ kopia
+│ 343│ ksubdomain_staticx               │ 327│ ksubdomain_staticx
+│ 357│ luet                             │ 341│ luet
+│ 358│ lux                              │ 342│ lux
+│ 359│ mabel                            │ 343│ mabel
+│ 360│-mac2unix                         │    │
+│ 361│ macchina                         │ 344│ macchina
+│ 362│ maddy                            │ 345│ maddy
+│ 363│ mailpit                          │ 346│ mailpit
+│ 389│ multirootca                      │ 372│ multirootca
+│ 390│ naabu_staticx                    │ 373│ naabu_staticx
+│ 391│ navi                             │ 374│ navi
+│ 392│-ncat                             │    │
+│ 393│-ncdu                             │    │
+│ 394│ neofetch                         │ 375│ neofetch
+│ 395│ nerdctl                          │ 376│ nerdctl
+│ 396│ netbird                          │ 377│ netbird
+│ 401│ nfs-stat                         │ 382│ nfs-stat
+│ 402│ nginx                            │ 383│ nginx
+│ 403│ ngocok                           │ 384│ ngocok
+│ 404│-ngrok                            │    │
+│ 405│ njs                              │ 385│ njs
+│ 406│ nmap                             │ 386│ nmap
+│ 407│ nmap-formatter                   │ 387│ nmap-formatter
+│ 410│ nnn                              │ 390│ nnn
+│ 411│ noir                             │ 391│ noir
+│ 412│ notify                           │ 392│ notify
+│ 413│-nping                            │    │
+│ 414│ nrp                              │ 393│ nrp
+│ 415│ nu                               │ 394│ nu
+│ 416│ nuclei                           │ 395│ nuclei
+│ 460│ qsreplace                        │ 439│ qsreplace
+│ 461│ qsv                              │ 440│ qsv
+│ 462│ quickcert                        │ 441│ quickcert
+│ 463│-rapwp                            │    │
+│ 464│ rate-limit-checker               │ 442│ rate-limit-checker
+│ 465│ rathole                          │ 443│ rathole
+│ 466│ rattler-build                    │ 444│ rattler-build
+│ 474│ rekor-cli                        │ 452│ rekor-cli
+│ 475│ rekor-server                     │ 453│ rekor-server
+│ 476│ relic                            │ 454│ relic
+│ 477│-removehost                       │    │
+│ 478│-removepro                        │    │
+│ 479│ reptyr                           │ 455│ reptyr
+│ 480│ rescope                          │ 456│ rescope
+│ 481│ resdns                           │ 457│ resdns
+│ 489│ ripgen                           │ 465│ ripgen
+│ 490│ ripgrep                          │ 466│ ripgrep
+│ 491│ rnr                              │ 467│ rnr
+│ 492│-robotstxt                        │    │
+│ 493│ roboxtractor                     │ 468│ roboxtractor
+│ 494│ rootlesskit                      │ 469│ rootlesskit
+│ 495│ rootlesskit-docker-proxy         │ 470│ rootlesskit-docker-proxy
+│ 496│ ropr                             │ 471│ ropr
+│ 497│ rospo                            │ 472│ rospo
+│ 498│ rpaste                           │ 473│ rpaste
+│ 499│-rpfu                             │    │
+│ 500│ rqbit                            │ 474│ rqbit
+│ 501│ rshijack                         │ 475│ rshijack
+│ 502│ rsync                            │ 476│ rsync
+│ 580│ svg-hush                         │ 554│ svg-hush
+│ 581│ syncat                           │ 555│ syncat
+│ 582│ syncthing                        │ 556│ syncthing
+│ 583│-sysbox-fs                        │    │
+│ 584│-sysbox-mgr                       │    │
+│ 585│-sysbox-runc                      │    │
+│ 586│ sysinfo-collector                │ 557│ sysinfo-collector
+│ 587│ sysstat                          │ 558│ sysstat
+│ 588│ system-info-collector            │ 559│ system-info-collector
+│ 620│ tty2web                          │ 591│ tty2web
+│ 621│ ttyd                             │ 592│ ttyd
+│ 622│ ttyrec2ansi                      │ 593│ ttyrec2ansi
+│ 623│-tuiarchiver                      │    │
+│ 624│ tut                              │ 594│ tut
+│ 625│-twingate-client                  │    │
+│ 626│-twingate-connector               │    │
+│ 627│-twingate-connector-staticx       │    │
+│ 628│-twingate-connectorctl            │    │
+│ 629│-twingate-notifier                │    │
+│ 630│ txeh                             │ 595│ txeh
+│ 631│ tz                               │ 596│ tz
+│ 632│ u-root                           │ 597│ u-root
+│ 635│ uncover                          │ 600│ uncover
+│ 636│ unf                              │ 601│ unf
+│ 637│ unfurl                           │ 602│ unfurl
+│ 638│-unix2dos                         │    │
+│ 639│-unix2mac                         │    │
+│ 640│ upx                              │ 603│ upx
+│ 641│ usql                             │ 604│ usql
+│ 642│ v2raya                           │ 605│ v2raya
+│ 643│-v6disk                           │    │
+│ 644│ v6run                            │ 606│ v6run
+│ 645│ validtoml                        │ 607│ validtoml
+│ 646│ vegeta                           │ 608│ vegeta
+│ 657│ vultr-cli                        │ 619│ vultr-cli
+│ 658│ wadl-dumper                      │ 620│ wadl-dumper
+│ 659│ walk                             │ 621│ walk
+│ 660│-wasminspect                      │    │
+│ 661│ watchexec                        │ 622│ watchexec
+│ 662│ waybackrobots                    │ 623│ waybackrobots
+│ 663│ waybackurls                      │ 624│ waybackurls
+│ 664│ web-cache-vulnerability-scanner  │ 625│ web-cache-vulnerability-scanner
+│ 665│ websocat                         │ 626│ websocat
+│ 666│ wego                             │ 627│ wego
+│ 667│-wget                             │    │
+│ 668│ wireguard-go                     │ 628│ wireguard-go
+│ 669│-wireguard-rs                     │    │
+│ 670│ wireproxy                        │ 629│ wireproxy
+│ 671│ wiretap                          │ 630│ wiretap
+│ 672│ wormhole-rs                      │ 631│ wormhole-rs
 
 
 
@@ -221,115 +227,122 @@
 │ 160│ dotenv-linter                    │ 155│ dotenv-linter
 │ 161│ dropbear                         │ 156│ dropbear
 │ 162│ dropbearconvert                  │ 157│ dropbearconvert
-│ 210│ ffufPostprocessing               │ 205│ ffufPostprocessing
-│ 211│ ffufw                            │ 206│ ffufw
-│ 212│ fget                             │ 207│ fget
-│ 213│-filan                            │    │
-│ 214│ filebrowser                      │ 208│ filebrowser
-│ 215│ find-rs                          │ 209│ find-rs
-│ 216│ findomain                        │ 210│ findomain
-│ 271│ gost                             │ 265│ gost
-│ 272│ gosu                             │ 266│ gosu
-│ 273│ gotator                          │ 267│ gotator
-│ 274│-gotld                            │    │
-│ 275│ gotty                            │ 268│ gotty
-│ 276│ gowitness                        │ 269│ gowitness
-│ 277│ gpg-tui                          │ 270│ gpg-tui
-│ 366│ luet                             │ 359│ luet
-│ 367│ lux                              │ 360│ lux
-│ 368│ mabel                            │ 361│ mabel
-│ 369│-mac2unix                         │    │
-│ 370│ macchina                         │ 362│ macchina
-│ 371│ maddy                            │ 363│ maddy
-│ 372│ mailpit                          │ 364│ mailpit
-│ 399│ naabu                            │ 391│ naabu
-│ 400│ naabu_staticx                    │ 392│ naabu_staticx
-│ 401│ navi                             │ 393│ navi
-│ 402│-ncat                             │    │
-│ 403│-ncdu                             │    │
-│ 404│ neofetch                         │ 394│ neofetch
-│ 405│ nerdctl                          │ 395│ nerdctl
-│ 406│ netbird                          │ 396│ netbird
-│ 411│ nfs-stat                         │ 401│ nfs-stat
-│ 412│ nginx                            │ 402│ nginx
-│ 413│ ngocok                           │ 403│ ngocok
-│ 414│-ngrok                            │    │
-│ 415│ niltalk                          │ 404│ niltalk
-│ 416│ njs                              │ 405│ njs
-│ 417│ nmap                             │ 406│ nmap
-│ 421│ nnn                              │ 410│ nnn
-│ 422│ noir                             │ 411│ noir
-│ 423│ notify                           │ 412│ notify
-│ 424│-nping                            │    │
-│ 425│-nrich                            │    │
-│ 426│ nrp                              │ 413│ nrp
-│ 427│ nu                               │ 414│ nu
-│ 428│ nuclei                           │ 415│ nuclei
-│ 459│ presenterm                       │ 446│ presenterm
-│ 460│ pretender                        │ 447│ pretender
-│ 461│ prettyping                       │ 448│ prettyping
-│ 462│-procan                           │    │
-│ 463│ procs                            │ 449│ procs
-│ 464│ progress                         │ 450│ progress
-│ 465│ promtail                         │ 451│ promtail
-│ 487│ recollapse_staticx               │ 473│ recollapse_staticx
-│ 488│ redguard                         │ 474│ redguard
-│ 489│ redive                           │ 475│ redive
-│ 490│-rekor                            │    │
-│ 491│ rekor-cli                        │ 476│ rekor-cli
-│ 492│ rekor-server                     │ 477│ rekor-server
-│ 493│ relic                            │ 478│ relic
-│ 563│ smenu                            │ 548│ smenu
-│ 564│ sn0int                           │ 549│ sn0int
-│ 565│ sns                              │ 550│ sns
-│ 566│-socat                            │    │
-│ 567│ soft-serve                       │ 551│ soft-serve
-│ 568│ speedtest-go                     │ 552│ speedtest-go
-│ 569│ spk                              │ 553│ spk
-│ 601│ svg-hush                         │ 585│ svg-hush
-│ 602│ syncat                           │ 586│ syncat
-│ 603│ syncthing                        │ 587│ syncthing
-│ 604│-sysbox-fs                        │    │
-│ 605│-sysbox-mgr                       │    │
-│ 606│-sysbox-runc                      │    │
-│ 607│ sysinfo-collector                │ 588│ sysinfo-collector
-│ 608│ sysstat                          │ 589│ sysstat
-│ 609│ system-info-collector            │ 590│ system-info-collector
-│ 638│ traefik                          │ 619│ traefik
-│ 639│ trip                             │ 620│ trip
-│ 640│ trufflehog                       │ 621│ trufflehog
-│ 641│-trurl                            │    │
-│ 642│ try                              │ 622│ try
-│ 643│ tty2web                          │ 623│ tty2web
-│ 644│ ttyd                             │ 624│ ttyd
-│ 645│ ttyrec2ansi                      │ 625│ ttyrec2ansi
-│ 646│-tuiarchiver                      │    │
-│ 647│ tut                              │ 626│ tut
-│ 648│-twingate-client                  │    │
-│ 649│-twingate-connector               │    │
-│ 650│-twingate-connector-staticx       │    │
-│ 651│-twingate-connectorctl            │    │
-│ 652│-twingate-notifier                │    │
-│ 653│ txeh                             │ 627│ txeh
-│ 654│ tz                               │ 628│ tz
-│ 655│ u-root                           │ 629│ u-root
-│ 658│ uncover                          │ 632│ uncover
-│ 659│ unf                              │ 633│ unf
-│ 660│ unfurl                           │ 634│ unfurl
-│ 661│-unix2dos                         │    │
-│ 662│-unix2mac                         │    │
-│ 663│ upx                              │ 635│ upx
-│ 664│ usql                             │ 636│ usql
-│ 665│ v2raya                           │ 637│ v2raya
-│ 666│-v6disk                           │    │
-│ 667│ v6run                            │ 638│ v6run
-│ 668│ validtoml                        │ 639│ validtoml
-│ 669│ vegeta                           │ 640│ vegeta
-│ 687│ web-cache-vulnerability-scanner  │ 658│ web-cache-vulnerability-scanner
-│ 688│ websocat                         │ 659│ websocat
-│ 689│ wego                             │ 660│ wego
-│ 690│-wget                             │    │
-│ 691│ wireguard-go                     │ 661│ wireguard-go
-│ 692│ wireguard-rs                     │ 662│ wireguard-rs
-│ 693│ wireproxy                        │ 663│ wireproxy
+│ 190│ encode                           │ 185│ encode
+│ 191│ enola                            │ 186│ enola
+│ 192│ enumerepo                        │ 187│ enumerepo
+│ 193│-epoch                            │    │
+│ 194│ etcd                             │ 188│ etcd
+│ 195│ etcdctl                          │ 189│ etcdctl
+│ 196│ etcdutl                          │ 190│ etcdutl
+│ 211│ ffufPostprocessing               │ 205│ ffufPostprocessing
+│ 212│ ffufw                            │ 206│ ffufw
+│ 213│ fget                             │ 207│ fget
+│ 214│-filan                            │    │
+│ 215│ filebrowser                      │ 208│ filebrowser
+│ 216│ find-rs                          │ 209│ find-rs
+│ 217│ findomain                        │ 210│ findomain
+│ 272│ gost                             │ 265│ gost
+│ 273│ gosu                             │ 266│ gosu
+│ 274│ gotator                          │ 267│ gotator
+│ 275│-gotld                            │    │
+│ 276│ gotty                            │ 268│ gotty
+│ 277│ gowitness                        │ 269│ gowitness
+│ 278│ gpg-tui                          │ 270│ gpg-tui
+│ 367│ luet                             │ 359│ luet
+│ 368│ lux                              │ 360│ lux
+│ 369│ mabel                            │ 361│ mabel
+│ 370│-mac2unix                         │    │
+│ 371│ macchina                         │ 362│ macchina
+│ 372│ maddy                            │ 363│ maddy
+│ 373│ mailpit                          │ 364│ mailpit
+│ 400│ naabu                            │ 391│ naabu
+│ 401│ naabu_staticx                    │ 392│ naabu_staticx
+│ 402│ navi                             │ 393│ navi
+│ 403│-ncat                             │    │
+│ 404│-ncdu                             │    │
+│ 405│ neofetch                         │ 394│ neofetch
+│ 406│ nerdctl                          │ 395│ nerdctl
+│ 407│ netbird                          │ 396│ netbird
+│ 412│ nfs-stat                         │ 401│ nfs-stat
+│ 413│ nginx                            │ 402│ nginx
+│ 414│ ngocok                           │ 403│ ngocok
+│ 415│-ngrok                            │    │
+│ 416│ niltalk                          │ 404│ niltalk
+│ 417│ njs                              │ 405│ njs
+│ 418│ nmap                             │ 406│ nmap
+│ 422│ nnn                              │ 410│ nnn
+│ 423│ noir                             │ 411│ noir
+│ 424│ notify                           │ 412│ notify
+│ 425│-nping                            │    │
+│ 426│-nrich                            │    │
+│ 427│ nrp                              │ 413│ nrp
+│ 428│ nu                               │ 414│ nu
+│ 429│ nuclei                           │ 415│ nuclei
+│ 460│ presenterm                       │ 446│ presenterm
+│ 461│ pretender                        │ 447│ pretender
+│ 462│ prettyping                       │ 448│ prettyping
+│ 463│-procan                           │    │
+│ 464│ procs                            │ 449│ procs
+│ 465│ progress                         │ 450│ progress
+│ 466│ promtail                         │ 451│ promtail
+│ 488│ recollapse_staticx               │ 473│ recollapse_staticx
+│ 489│ redguard                         │ 474│ redguard
+│ 490│ redive                           │ 475│ redive
+│ 491│-rekor                            │    │
+│ 492│ rekor-cli                        │ 476│ rekor-cli
+│ 493│ rekor-server                     │ 477│ rekor-server
+│ 494│ relic                            │ 478│ relic
+│ 564│ smenu                            │ 548│ smenu
+│ 565│ sn0int                           │ 549│ sn0int
+│ 566│ sns                              │ 550│ sns
+│ 567│-socat                            │    │
+│ 568│ soft-serve                       │ 551│ soft-serve
+│ 569│ speedtest-go                     │ 552│ speedtest-go
+│ 570│ spk                              │ 553│ spk
+│ 602│ svg-hush                         │ 585│ svg-hush
+│ 603│ syncat                           │ 586│ syncat
+│ 604│ syncthing                        │ 587│ syncthing
+│ 605│-sysbox-fs                        │    │
+│ 606│-sysbox-mgr                       │    │
+│ 607│-sysbox-runc                      │    │
+│ 608│ sysinfo-collector                │ 588│ sysinfo-collector
+│ 609│ sysstat                          │ 589│ sysstat
+│ 610│ system-info-collector            │ 590│ system-info-collector
+│ 639│ traefik                          │ 619│ traefik
+│ 640│ trip                             │ 620│ trip
+│ 641│ trufflehog                       │ 621│ trufflehog
+│ 642│-trurl                            │    │
+│ 643│ try                              │ 622│ try
+│ 644│ tty2web                          │ 623│ tty2web
+│ 645│ ttyd                             │ 624│ ttyd
+│ 646│ ttyrec2ansi                      │ 625│ ttyrec2ansi
+│ 647│-tuiarchiver                      │    │
+│ 648│ tut                              │ 626│ tut
+│ 649│-twingate-client                  │    │
+│ 650│-twingate-connector               │    │
+│ 651│-twingate-connector-staticx       │    │
+│ 652│-twingate-connectorctl            │    │
+│ 653│-twingate-notifier                │    │
+│ 654│ txeh                             │ 627│ txeh
+│ 655│ tz                               │ 628│ tz
+│ 656│ u-root                           │ 629│ u-root
+│ 659│ uncover                          │ 632│ uncover
+│ 660│ unf                              │ 633│ unf
+│ 661│ unfurl                           │ 634│ unfurl
+│ 662│-unix2dos                         │    │
+│ 663│-unix2mac                         │    │
+│ 664│ upx                              │ 635│ upx
+│ 665│ usql                             │ 636│ usql
+│ 666│ v2raya                           │ 637│ v2raya
+│ 667│-v6disk                           │    │
+│ 668│ v6run                            │ 638│ v6run
+│ 669│ validtoml                        │ 639│ validtoml
+│ 670│ vegeta                           │ 640│ vegeta
+│ 688│ web-cache-vulnerability-scanner  │ 658│ web-cache-vulnerability-scanner
+│ 689│ websocat                         │ 659│ websocat
+│ 690│ wego                             │ 660│ wego
+│ 691│-wget                             │    │
+│ 692│ wireguard-go                     │ 661│ wireguard-go
+│ 693│ wireguard-rs                     │ 662│ wireguard-rs
+│ 694│ wireproxy                        │ 663│ wireproxy
 
