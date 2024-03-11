@@ -295,36 +295,41 @@
 │ 607│ sysinfo-collector                │ 588│ sysinfo-collector
 │ 608│ sysstat                          │ 589│ sysstat
 │ 609│ system-info-collector            │ 590│ system-info-collector
-│ 642│ tty2web                          │ 623│ tty2web
-│ 643│ ttyd                             │ 624│ ttyd
-│ 644│ ttyrec2ansi                      │ 625│ ttyrec2ansi
-│ 645│-tuiarchiver                      │    │
-│ 646│ tut                              │ 626│ tut
-│ 647│-twingate-client                  │    │
-│ 648│-twingate-connector               │    │
-│ 649│-twingate-connector-staticx       │    │
-│ 650│-twingate-connectorctl            │    │
-│ 651│-twingate-notifier                │    │
-│ 652│ txeh                             │ 627│ txeh
-│ 653│ tz                               │ 628│ tz
-│ 654│ u-root                           │ 629│ u-root
-│ 657│ uncover                          │ 632│ uncover
-│ 658│ unf                              │ 633│ unf
-│ 659│ unfurl                           │ 634│ unfurl
-│ 660│-unix2dos                         │    │
-│ 661│-unix2mac                         │    │
-│ 662│ upx                              │ 635│ upx
-│ 663│ usql                             │ 636│ usql
-│ 664│ v2raya                           │ 637│ v2raya
-│ 665│-v6disk                           │    │
-│ 666│ v6run                            │ 638│ v6run
-│ 667│ validtoml                        │ 639│ validtoml
-│ 668│ vegeta                           │ 640│ vegeta
-│ 686│ web-cache-vulnerability-scanner  │ 658│ web-cache-vulnerability-scanner
-│ 687│ websocat                         │ 659│ websocat
-│ 688│ wego                             │ 660│ wego
-│ 689│-wget                             │    │
-│ 690│ wireguard-go                     │ 661│ wireguard-go
-│ 691│ wireguard-rs                     │ 662│ wireguard-rs
-│ 692│ wireproxy                        │ 663│ wireproxy
+│ 638│ traefik                          │ 619│ traefik
+│ 639│ trip                             │ 620│ trip
+│ 640│ trufflehog                       │ 621│ trufflehog
+│ 641│-trurl                            │    │
+│ 642│ try                              │ 622│ try
+│ 643│ tty2web                          │ 623│ tty2web
+│ 644│ ttyd                             │ 624│ ttyd
+│ 645│ ttyrec2ansi                      │ 625│ ttyrec2ansi
+│ 646│-tuiarchiver                      │    │
+│ 647│ tut                              │ 626│ tut
+│ 648│-twingate-client                  │    │
+│ 649│-twingate-connector               │    │
+│ 650│-twingate-connector-staticx       │    │
+│ 651│-twingate-connectorctl            │    │
+│ 652│-twingate-notifier                │    │
+│ 653│ txeh                             │ 627│ txeh
+│ 654│ tz                               │ 628│ tz
+│ 655│ u-root                           │ 629│ u-root
+│ 658│ uncover                          │ 632│ uncover
+│ 659│ unf                              │ 633│ unf
+│ 660│ unfurl                           │ 634│ unfurl
+│ 661│-unix2dos                         │    │
+│ 662│-unix2mac                         │    │
+│ 663│ upx                              │ 635│ upx
+│ 664│ usql                             │ 636│ usql
+│ 665│ v2raya                           │ 637│ v2raya
+│ 666│-v6disk                           │    │
+│ 667│ v6run                            │ 638│ v6run
+│ 668│ validtoml                        │ 639│ validtoml
+│ 669│ vegeta                           │ 640│ vegeta
+│ 687│ web-cache-vulnerability-scanner  │ 658│ web-cache-vulnerability-scanner
+│ 688│ websocat                         │ 659│ websocat
+│ 689│ wego                             │ 660│ wego
+│ 690│-wget                             │    │
+│ 691│ wireguard-go                     │ 661│ wireguard-go
+│ 692│ wireguard-rs                     │ 662│ wireguard-rs
+│ 693│ wireproxy                        │ 663│ wireproxy
 
