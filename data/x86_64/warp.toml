@@ -1,0 +1,26 @@
+[bin]
+name = "warp"
+
+[package]
+architecture = "x86_64"
+name = "warp"
+description = "S3 benchmarking tool"
+author = "minio"
+repo = "https://github.com/minio/warp"
+stars = "468"
+version = "v0.8.0"
+updated = "2024-02-03T07:45:59Z"
+size = "16.7 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/warp"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["warp"]
+requires = []
+
+[package.metadata]
+keywords = ["benchmark","benchmark-runs","clocks","csv-data","request-statistics","s3-benchmarking","warp"]
+categories = ["Utilities"]
