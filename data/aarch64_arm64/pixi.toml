@@ -22,5 +22,5 @@ conflicts  = ["pixi"]
 requires = []
 
 [package.metadata]
-keywords = ["conda","conda-environment","conda-packages","hacktoberfest","package-management","package-manager","package-manager-tool","python-virtual-environment","rust","rust-lang"]
+keywords = ["conda","conda-environment","conda-packages","package-management","package-manager","package-manager-tool","python-virtual-environment","rust","rust-lang"]
 categories = ["Utilities"]
