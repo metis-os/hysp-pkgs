@@ -94,17 +94,65 @@
 
 ---
 
+### encode
+- **Description:** Script to read input from stdin and encode it
+- **Author:** Brum3ns
+- **Repository:** [https://github.com/Brum3ns/encode](https://github.com/Brum3ns/encode)
+- **Stars:** 17
+- **Version:** null
+- **Updated:** 
+- **Size:** 2.61 MB
+- **SHASUM:** 9890ed89b930ea6ff34a77cba2945c07a80ca4393bc9aa1a4ecd8204253bc6a1
+- **B3SUM:** 9db979f0968afa7fea6724e563cb67f9282483044fd82219f92b6cfb7dbd0187
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/encode
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### ffuf
+- **Description:** Fast web fuzzer written in Go
+- **Author:** ffuf
+- **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
+- **Stars:** 11142
+- **Version:** v2.1.0
+- **Updated:** 2023-09-16T12:23:19Z
+- **Size:** 8.58 MB
+- **SHASUM:** c128bb9682ee3ec77ab2d1f52b4021f9da43d3d348737b0e1721f4eb017a7900
+- **B3SUM:** 42a510f3f15990a6f28349b5273d3a50dc3aafc4c853661fb24289706e092941
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/ffuf
+- **Language:** Go
+- **License:** MIT License
+
+---
+
 ### filebrowser
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
 - **Stars:** 23051
 - **Version:** v2.27.0
-- **Updated:** null
+- **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
 - **SHASUM:** f542a2425908eb9832c6ee957c46fbdc40f4ded086cba8548ae17c614dddd7f8
 - **B3SUM:** 8072441164bb1ed3ef910693eea0add349e8723f8b8910b5e4d0ff0e5e84eaa5
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/filebrowser
+- **Language:** Go
+- **License:** Apache License 2.0
+
+---
+
+### godns
+- **Description:**  DreamHost, etc, written in Go.
+- **Author:** TimothyYe
+- **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
+- **Stars:** 1417
+- **Version:** v3.1.5
+- **Updated:** 2024-02-28T15:38:07Z
+- **Size:** 12.38 MB
+- **SHASUM:** 8fada4617c3e1cc9389e6aeb5376a29846718ac68b5702082c113684142c821e
+- **B3SUM:** ec8f29e44a31043e9c086f963323ea144b8113114b26ae435dac4a886029baf6
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/godns
 - **Language:** Go
 - **License:** Apache License 2.0
 
@@ -190,13 +238,45 @@
 
 ---
 
+### jless
+- **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- **Author:** PaulJuliusMartinez
+- **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
+- **Stars:** 4414
+- **Version:** v0.9.0
+- **Updated:** 2023-07-17T02:51:34Z
+- **Size:** 1.83 MB
+- **SHASUM:** f95b2c666fcc770a829cc241b7ad2631bc41258d8afd9a9a0f5115635279098a
+- **B3SUM:** e54b6f5027f01876c0d6cff993c6e75a0be33eec0242601e2b969536ee99a627
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/jless
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### kanha
+- **Description:** 🦚 A web-app pentesting suite written in rust .
+- **Author:** pwnwriter
+- **Repository:** [https://github.com/pwnwriter/kanha](https://github.com/pwnwriter/kanha)
+- **Stars:** 245
+- **Version:** v-v0.1.2
+- **Updated:** 2023-10-17T16:42:52Z
+- **Size:** 2.91 MB
+- **SHASUM:** e98b78edc697919a405311f1b4b317ffe0b6a6917eca32effa3c998529e29e4f
+- **B3SUM:** 16f9c9f6e31758be0255755f8066c843702e7c8a92383919b8760a116bfb5aff
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/kanha
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### mapcidr
 - **Description:** Utility program to perform multiple operations for a given subnet/CIDR ranges.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr)
 - **Stars:** 906
 - **Version:** v1.1.16
-- **Updated:** 
+- **Updated:** 2023-11-23T07:59:56Z
 - **Size:** 23.4 MB
 - **SHASUM:** ad4159ecb5bdf41929ae380266beae9092392387919baa4ff53dd47ebecab0c4
 - **B3SUM:** 4e9d319fc840b92e475eccc5ea3c06ba6c3ed131e4bb4cae7294280f85aa3a63
@@ -238,6 +318,22 @@
 
 ---
 
+### static-web-server
+- **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
+- **Author:** static-web-server
+- **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
+- **Stars:** 1072
+- **Version:** v2.28.0
+- **Updated:** 2024-03-08T23:46:33Z
+- **Size:** 6.8 MB
+- **SHASUM:** c2f88a85c97bf9547466106633feee4c79378ee18624311b72798b235fff1237
+- **B3SUM:** 10d6227ab1882bec3a376aaf5f63437a85ab1c915b5cfda7a7c55579ba8e6149
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/static-web-server
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
 ### sudo
 - **Description:** A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
 - **Author:** agnostic-apollo
@@ -258,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15747
+- **Stars:** 15748
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 10.92 MB
@@ -270,11 +366,27 @@
 
 ---
 
+### tailscale_dynamic_native
+- **Description:** The easiest, most secure way to use WireGuard and 2FA.
+- **Author:** tailscale
+- **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
+- **Stars:** 15748
+- **Version:** v1.60.1
+- **Updated:** 2024-02-29T17:17:32Z
+- **Size:** 11.28 MB
+- **SHASUM:** cce444027b42149ff524039c3ab7fd1c40b2ad0077b1d97568ab7ba58a66e83b
+- **B3SUM:** 214f05816f949e5e555ac7f03b121bb1b94d0fab34861ba374b141b3bde4a3ad
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale_dynamic_native
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
 ### tailscaled
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15747
+- **Stars:** 15748
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 20.48 MB
@@ -290,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15747
+- **Stars:** 15748
 - **Version:** v1.60.1
 - **Updated:** 2024-02-29T17:17:32Z
 - **Size:** 21.67 MB

@@ -1,0 +1,26 @@
+[bin]
+name = "ffuf"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "ffuf"
+description = "Fast web fuzzer written in Go"
+author = "ffuf"
+repo = "https://github.com/ffuf/ffuf"
+stars = "11142"
+version = "v2.1.0"
+updated = "2023-09-16T12:23:19Z"
+size = "8.58 MB"
+bsum = "42a510f3f15990a6f28349b5273d3a50dc3aafc4c853661fb24289706e092941"
+sha = "c128bb9682ee3ec77ab2d1f52b4021f9da43d3d348737b0e1721f4eb017a7900"
+source = "https://bin.ajam.dev/arm64_v8a_Android/ffuf"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ffuf"]
+requires = []
+
+[package.metadata]
+keywords = ["fuzzer","infosec","pentesting","web"]
+categories = ["Utilities"]

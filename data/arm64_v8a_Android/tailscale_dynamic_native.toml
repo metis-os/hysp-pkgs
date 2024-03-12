@@ -1,24 +1,24 @@
 [bin]
-name = "tailscale"
+name = "tailscale_dynamic_native"
 
 [package]
 architecture = "arm64_v8a_Android"
-name = "tailscale"
+name = "tailscale_dynamic_native"
 description = "The easiest, most secure way to use WireGuard and 2FA."
 author = "tailscale"
 repo = "https://github.com/tailscale/tailscale"
 stars = "15748"
 version = "v1.60.1"
 updated = "2024-02-29T17:17:32Z"
-size = "10.92 MB"
-bsum = "ef80806ae45dd0d4f2bec4c59b202a4c9bd33e5c792b240a1a238c5e4364e1f1"
-sha = "b4436d601a0a777d905590fcaf4eb55f45eb63a76e8459c513b0fa1d887b2a16"
-source = "https://bin.ajam.dev/arm64_v8a_Android/tailscale"
+size = "11.28 MB"
+bsum = "214f05816f949e5e555ac7f03b121bb1b94d0fab34861ba374b141b3bde4a3ad"
+sha = "cce444027b42149ff524039c3ab7fd1c40b2ad0077b1d97568ab7ba58a66e83b"
+source = "https://bin.ajam.dev/arm64_v8a_Android/tailscale_dynamic_native"
 language = "Go"
 license = "BSD 3-Clause New or Revised License"
 
 [package.conditions]
-conflicts  = ["tailscale"]
+conflicts  = ["tailscale_dynamic_native"]
 requires = []
 
 [package.metadata]

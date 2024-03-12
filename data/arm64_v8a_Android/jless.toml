@@ -1,0 +1,26 @@
+[bin]
+name = "jless"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "jless"
+description = "jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data."
+author = "PaulJuliusMartinez"
+repo = "https://github.com/PaulJuliusMartinez/jless"
+stars = "4414"
+version = "v0.9.0"
+updated = "2023-07-17T02:51:34Z"
+size = "1.83 MB"
+bsum = "e54b6f5027f01876c0d6cff993c6e75a0be33eec0242601e2b969536ee99a627"
+sha = "f95b2c666fcc770a829cc241b7ad2631bc41258d8afd9a9a0f5115635279098a"
+source = "https://bin.ajam.dev/arm64_v8a_Android/jless"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jless"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","json","rust"]
+categories = ["Utilities"]
