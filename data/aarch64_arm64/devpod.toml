@@ -7,7 +7,7 @@ name = "devpod"
 description = "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
 author = "loft-sh"
 repo = "https://github.com/loft-sh/devpod"
-stars = "7044"
+stars = "7048"
 version = "v0.5.4"
 updated = "2024-02-26T06:57:52Z"
 size = "23.24 MB"
@@ -22,5 +22,5 @@ conflicts  = ["devpod"]
 requires = []
 
 [package.metadata]
-keywords = ["cloud","devcontainer","devcontainers","developer-tools","development","docker","hacktoberfest","hacktoberfest2023","ide","kubernetes","remote-development","remote-development-environment","vscode"]
+keywords = ["cloud","devcontainer","devcontainers","developer-tools","development","docker","hacktoberfest","ide","kubernetes","remote-development","remote-development-environment","vscode"]
 categories = ["Utilities"]
