@@ -1,0 +1,26 @@
+[bin]
+name = "enc"
+
+[package]
+architecture = "aarch64_arm64"
+name = "enc"
+description = "🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more."
+author = "life4"
+repo = "https://github.com/life4/enc"
+stars = "467"
+version = "1.1.3"
+updated = "2024-01-09T10:25:43Z"
+size = "8.77 MB"
+bsum = "8daa22972e2da85c217dc752c70f599a16d31ac9840cd7bb1465dcd8936114d4"
+sha = "a42990c93a16d66839070dcb2ef7f8879d1c53828a9ef080f97d4d99bd155f5c"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/enc"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["enc"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","cryptography","decryption","encryption","gnupg","go","golang","gpg","keybase","pgp","rsa-cryptography","security","signature"]
+categories = ["Utilities"]

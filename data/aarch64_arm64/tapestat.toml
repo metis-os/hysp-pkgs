@@ -1,0 +1,26 @@
+[bin]
+name = "tapestat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tapestat"
+description = "Performance monitoring tools for Linux"
+author = "sysstat"
+repo = "https://github.com/sysstat/sysstat"
+stars = "2834"
+version = "v12.7.5"
+updated = "null"
+size = "112.89 kB"
+bsum = "73b33668abe7a7c4fa2f4763e029594d4eff7b6186d41cb86c0b31abf4e26b2d"
+sha = "17d1d4774f7a3eef56a8f6d5b2dbd4bd8196c3a186e3be4bfd5509ed8820a4cf"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/tapestat"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["tapestat"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cpu","disk","iostat","linux","memory","monitoring","mpstat","performance-monitoring","pidstat","sadf","sar","system-monitoring","tapestat"]
+categories = ["Utilities"]

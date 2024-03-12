@@ -1,0 +1,26 @@
+[bin]
+name = "godns"
+
+[package]
+architecture = "aarch64_arm64"
+name = "godns"
+description = " DreamHost, etc, written in Go."
+author = "TimothyYe"
+repo = "https://github.com/TimothyYe/godns"
+stars = "1417"
+version = "v3.1.5"
+updated = "2024-02-28T15:38:07Z"
+size = "14.44 MB"
+bsum = "7e37f1d2b0128c09e1ee92449955f5180b44d4f65cd609deb6b2e1823dfd38e7"
+sha = "a1c8cf78da9a30ff8d5e64368877d77f440807ee7b803830a0ff79225c7a7b6b"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/godns"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["godns"]
+requires = []
+
+[package.metadata]
+keywords = ["alidns","cloudflare","ddns","dns","dnspod","dreamhost","duckdns","dynamic-dns","dyndns","godns","googledomains-dynamic-dns"]
+categories = ["Utilities"]

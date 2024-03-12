@@ -1,0 +1,26 @@
+[bin]
+name = "git-lfs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "git-lfs"
+description = "Git extension for versioning large files"
+author = "git-lfs"
+repo = "https://github.com/git-lfs/git-lfs"
+stars = "12305"
+version = "v3.5.1"
+updated = "2024-03-07T21:03:09Z"
+size = "10.9 MB"
+bsum = "c703da53505f5613e484992fa32a30ad59286ac0617163171a69db9ad7a4c885"
+sha = "502fc8f32c0f6513fea3985adf5c074567b890d7311efebfa699df51457fd608"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/git-lfs"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["git-lfs"]
+requires = []
+
+[package.metadata]
+keywords = ["git","git-lfs","go"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "steampipe"
+
+[package]
+architecture = "aarch64_arm64"
+name = "steampipe"
+description = " more with SQL. No DB required."
+author = "turbot"
+repo = "https://github.com/turbot/steampipe"
+stars = "6291"
+version = "v0.22.0"
+updated = "2024-03-06T14:36:06Z"
+size = "50.88 MB"
+bsum = "03d26109e49bc39f24303d9ecbde285f5ff09e4e2275e51af66b47b02429c0f0"
+sha = "cd470d3d79af2732c46a8405142883a813bee78093d493a99dd3cff73d75ac76"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/steampipe"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["steampipe"]
+requires = []
+
+[package.metadata]
+keywords = ["aws","azure","cis","cloud","cnapp","cspm","devops","devsecops","etl","gcp","golang","kubernetes","postgresql","postgresql-fdw","security","sql","sqlite","steampipe","terraform","zero-etl"]
+categories = ["Utilities"]

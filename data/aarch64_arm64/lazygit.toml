@@ -1,0 +1,26 @@
+[bin]
+name = "lazygit"
+
+[package]
+architecture = "aarch64_arm64"
+name = "lazygit"
+description = "simple terminal UI for git commands"
+author = "jesseduffield"
+repo = "https://github.com/jesseduffield/lazygit"
+stars = "43660"
+version = "v0.40.2"
+updated = "2023-08-07T14:12:54Z"
+size = "15.47 MB"
+bsum = "d336487b5efdff16cc5e9a08e07870029b104b3759c4d025354f3b1f60ef5dec"
+sha = "e0d48adf2276e763cf0ddb18d7f9e8421bc2ada1cb6caf3af4e8bf397a7cab20"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/lazygit"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["lazygit"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","git","terminal"]
+categories = ["Utilities"]

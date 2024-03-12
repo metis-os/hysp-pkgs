@@ -1,0 +1,26 @@
+[bin]
+name = "gotty"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gotty"
+description = "Share your terminal as a web application"
+author = "sorenisanerd"
+repo = "https://github.com/sorenisanerd/gotty"
+stars = "2030"
+version = "v1.5.0"
+updated = "2022-09-01T07:21:41Z"
+size = "10 MB"
+bsum = "f569f9dbce152a23a3253c67b001e0a4523b5e59db0e55ca4c5b75b10868e58e"
+sha = "a9fad78df2691dea934e190404dd04524415e790c4c96acc704a5de75ea8b7db"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gotty"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gotty"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

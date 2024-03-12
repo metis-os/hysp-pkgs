@@ -1,0 +1,26 @@
+[bin]
+name = "glow"
+
+[package]
+architecture = "aarch64_arm64"
+name = "glow"
+description = "Render markdown on the CLI, with pizzazz! 💅🏻"
+author = "charmbracelet"
+repo = "https://github.com/charmbracelet/glow"
+stars = "14468"
+version = "v1.5.1"
+updated = "2023-05-09T16:16:51Z"
+size = "17.41 MB"
+bsum = "08fdb67a6b64c99203c90690d610b8eb610c517d200397bc79b00ecef87dc671"
+sha = "d2f0dac153615b5b6686d05b01b0119938e617457f3bc906c47e0c4b1a920d13"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/glow"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["glow"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","excitement","hacktoberfest","markdown"]
+categories = ["Utilities"]

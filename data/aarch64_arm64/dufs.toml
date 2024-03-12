@@ -1,0 +1,26 @@
+[bin]
+name = "dufs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dufs"
+description = "A more intuitive version of du in rust"
+author = "bootandy"
+repo = "https://github.com/bootandy/dust"
+stars = "7500"
+version = "v0.9.0"
+updated = "2024-01-09T23:07:43Z"
+size = "2.4 MB"
+bsum = "e660d36d30eafd9ce551b29ebabfbf615840bd9a29ccc081cd5202e38e505fec"
+sha = "1ab7ac7653ad23f5940a7188a59ad05ac18f8930dc5ab7137d1c4040dc0a97e6"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/dufs"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["dufs"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

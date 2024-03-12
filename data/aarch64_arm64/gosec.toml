@@ -1,0 +1,26 @@
+[bin]
+name = "gosec"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gosec"
+description = "Go security checker"
+author = "securego"
+repo = "https://github.com/securego/gosec"
+stars = "7368"
+version = "v2.19.0"
+updated = "2024-02-12T09:17:20Z"
+size = "7.85 MB"
+bsum = "15e3d96ff8fa2191bb690d5c25b30340d5e222c7f67d3ea81a609a2dc60e4f14"
+sha = "bc56b3c8f803949cf9a4b833bd4f89331bc6ce0d7a007bb2bb2616ef2c08b874"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gosec"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gosec"]
+requires = []
+
+[package.metadata]
+keywords = ["golang","security","security-automation","security-tools","static-analysis","static-code-analysis"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "subxtract"
+
+[package]
+architecture = "aarch64_arm64"
+name = "subxtract"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
+version = "null"
+updated = ""
+size = "3815 B"
+bsum = "c7631fc4f64a30d90b299aa2b253ee919babf2ffacb5b1255edcd3119689b185"
+sha = "b9d67b9d1d2575ada3bbce1d19c2a4ee371445cd1f441c95c77fdad02852009d"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/subxtract"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["subxtract"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

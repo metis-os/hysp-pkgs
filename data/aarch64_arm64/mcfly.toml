@@ -1,0 +1,26 @@
+[bin]
+name = "mcfly"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mcfly"
+description = "Fly through your shell history. Great Scott!"
+author = "cantino"
+repo = "https://github.com/cantino/mcfly"
+stars = "6480"
+version = "v0.8.4"
+updated = "2023-12-24T23:03:36Z"
+size = "3.82 MB"
+bsum = "cb1539db68c2b0889040d55d3e8b7ee42cf572ac9a1bc3732e26a9a7197e12d8"
+sha = "2676a84a8d926493cfa51f67069181624bb179d74c03cb1df1406bb512dda463"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/mcfly"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mcfly"]
+requires = []
+
+[package.metadata]
+keywords = ["history","rust","search","shell"]
+categories = ["Utilities"]

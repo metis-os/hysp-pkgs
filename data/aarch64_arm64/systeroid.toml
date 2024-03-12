@@ -1,0 +1,26 @@
+[bin]
+name = "systeroid"
+
+[package]
+architecture = "aarch64_arm64"
+name = "systeroid"
+description = "A more powerful alternative to sysctl(8) with a terminal user interface 🐧"
+author = "orhun"
+repo = "https://github.com/orhun/systeroid"
+stars = "1182"
+version = "v0.4.4"
+updated = "2023-09-19T10:15:03Z"
+size = "2 MB"
+bsum = "75eb0339953d3ddcf70b39e2918e69ac7878a69e0cfa01313cfae256b1d55db7"
+sha = "4a36b52a0dc84f39481a6e6760ac7548d2cc5ca0b4ecbf0c9bae37103a06f731"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/systeroid"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["systeroid"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","kernel-parameters","linux","linux-kernel","linux-tools","procfs","rust","sysctl","sysctl-variables","tui"]
+categories = ["Utilities"]

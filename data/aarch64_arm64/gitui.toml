@@ -1,0 +1,26 @@
+[bin]
+name = "gitui"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gitui"
+description = "Blazing 💥 fast terminal-ui for git written in rust 🦀"
+author = "extrawurst"
+repo = "https://github.com/extrawurst/gitui"
+stars = "16642"
+version = "v0.25.1"
+updated = "2024-02-23T16:55:09Z"
+size = "10.66 MB"
+bsum = "49386568741dedd750975d74a1b3be1084a74c6c6c59dbd7a877fe3edfbaea57"
+sha = "85e2ccc05b7f6de9ec144e4ebbdc508c36e8d20a4ae30ef9dd5e9267f2265b19"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gitui"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gitui"]
+requires = []
+
+[package.metadata]
+keywords = ["async","bash","command-line-interface","command-line-tool","git","hacktoberfest","rust","terminal","tui"]
+categories = ["Utilities"]

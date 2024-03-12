@@ -1,0 +1,26 @@
+[bin]
+name = "elvish"
+
+[package]
+architecture = "aarch64_arm64"
+name = "elvish"
+description = " Versatile interactive shell"
+author = "elves"
+repo = "https://github.com/elves/elvish"
+stars = "5275"
+version = "v0.20.1"
+updated = "2024-02-14T14:20:49Z"
+size = "6.69 MB"
+bsum = "54b092d9b584e430a18f4e447037d43b49469bab7a1f522cb43fca2700c8a880"
+sha = "3819b62d2aee75eff1f9489f847456f5acb043eafc376ecc9f6f339ee3b59830"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/elvish"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["elvish"]
+requires = []
+
+[package.metadata]
+keywords = ["go","programming-language","shell","unix"]
+categories = ["Utilities"]

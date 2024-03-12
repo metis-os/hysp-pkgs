@@ -1,0 +1,26 @@
+[bin]
+name = "bigdl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "bigdl"
+description = "Binary Downloader(s) || Like a package manager, but for statically linked binaries.+957 binaries currently in the repo"
+author = "xplshn"
+repo = "https://github.com/xplshn/bigdl"
+stars = "2"
+version = "1.4"
+updated = "2024-03-09T15:38:51Z"
+size = "5.42 MB"
+bsum = "4d937dba4b8f613ed85ec0ef1289898dc45a6e30ab398690eea35b5fcf0c94b5"
+sha = "ee31fc65d848889e37531527660621127ecd445b94a12d533a585ac686afa716"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/bigdl"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["bigdl"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

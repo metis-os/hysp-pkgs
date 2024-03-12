@@ -1,0 +1,26 @@
+[bin]
+name = "garm-cli"
+
+[package]
+architecture = "aarch64_arm64"
+name = "garm-cli"
+description = "GitHub Actions Runners Manager"
+author = "cloudbase"
+repo = "https://github.com/cloudbase/garm"
+stars = "82"
+version = "v0.1.4"
+updated = "2024-02-12T20:07:05Z"
+size = "12.51 MB"
+bsum = "513a84d9450ab42838e53d21e2c472a4d9477d3be3bac6bd512707b44359515a"
+sha = "2c7bc98d995f4005ccdf5badf4ed93ee965064cd7741d0ab385b15c3b994982c"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/garm-cli"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["garm-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["autoscaling","autoscaller","aws","azure","ec2","equinix","gcp","github","incus","k8s","kubernetes","lxd","openstack","runner","self-hosted"]
+categories = ["Utilities"]

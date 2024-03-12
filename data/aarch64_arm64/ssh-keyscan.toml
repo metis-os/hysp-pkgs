@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-keyscan"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ssh-keyscan"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2727"
+version = "V_9_7_P1"
+updated = "null"
+size = "4.45 MB"
+bsum = "f60d0fb6b6b9180daea458f96276a6dbcec747c306bfcb59c04d280b760a727b"
+sha = "a688dd1bb11735b5bcd1d53f53ad9719daa2b914bb38efbe883691c49b3b5b16"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ssh-keyscan"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["ssh-keyscan"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
+categories = ["Utilities"]

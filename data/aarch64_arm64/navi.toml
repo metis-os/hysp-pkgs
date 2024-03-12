@@ -1,0 +1,26 @@
+[bin]
+name = "navi"
+
+[package]
+architecture = "aarch64_arm64"
+name = "navi"
+description = "An interactive cheatsheet tool for the command-line"
+author = "denisidoro"
+repo = "https://github.com/denisidoro/navi"
+stars = "14148"
+version = "v2.23.0"
+updated = "2023-12-10T09:46:00Z"
+size = "2.45 MB"
+bsum = "68a8e68a1fa8437810bb0df383c569e7e8806b0167efd6c09247a7ffe1317948"
+sha = "169619171dee7d33ca2316fad96e68536ebf8cbd5eaacb9b69eefb0c25ab72b5"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/navi"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["navi"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","cheatsheets","cli","command-line","rust","shell","snippet","snippets","terminal"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "etcd"
+
+[package]
+architecture = "aarch64_arm64"
+name = "etcd"
+description = "Distributed reliable key-value store for the most critical data of a distributed system"
+author = "etcd-io"
+repo = "https://github.com/etcd-io/etcd"
+stars = "45916"
+version = "v3.5.12"
+updated = "2024-01-31T10:56:37Z"
+size = "22.49 MB"
+bsum = "bfe12b0d52765eeaae1a304cae43bef7cb46d728abc7f90819c9361782121dc9"
+sha = "6829b060d757a7e3549d9be77a1754eb9f727803226144036625a3fd12d64cd1"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/etcd"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["etcd"]
+requires = []
+
+[package.metadata]
+keywords = ["cncf","consensus","database","distributed-database","distributed-systems","etcd","go","key-value","kubernetes","raft"]
+categories = ["Utilities"]

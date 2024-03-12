@@ -1,0 +1,26 @@
+[bin]
+name = "gitea"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gitea"
+description = "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+author = "go-gitea"
+repo = "https://github.com/go-gitea/gitea"
+stars = "41164"
+version = "v1.21.7"
+updated = "2024-02-26T08:11:31Z"
+size = "99.5 MB"
+bsum = "6a3385ccf60394d96ba2e2231112078b1255fdd0560d5140f22f3ddb87b42b76"
+sha = "3280cfbfa0861ae1a5747da9612002de1d65ea665ab92c192745834eb72c15b0"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gitea"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gitea"]
+requires = []
+
+[package.metadata]
+keywords = ["devops","docker-registry-v2","git","git-gui","git-server","gitea","github","github-actions","gitlab","go","gogs","golang","hacktoberfest","maven-server","npm-registry","vue"]
+categories = ["Utilities"]

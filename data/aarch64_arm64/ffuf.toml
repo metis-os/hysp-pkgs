@@ -1,0 +1,26 @@
+[bin]
+name = "ffuf"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ffuf"
+description = "Fast web fuzzer written in Go"
+author = "ffuf"
+repo = "https://github.com/ffuf/ffuf"
+stars = "11142"
+version = "v2.1.0"
+updated = "2023-09-16T12:23:19Z"
+size = "7.82 MB"
+bsum = "70d53319c18b346e5044f67f9d4b7b36034c2057f7597f65762b6b26ae34d5b1"
+sha = "d4ac2e9e1ceef5802c4e180f6d2e0bfeccae70241faf1f851e7960cedd14d827"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ffuf"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ffuf"]
+requires = []
+
+[package.metadata]
+keywords = ["fuzzer","infosec","pentesting","web"]
+categories = ["Utilities"]

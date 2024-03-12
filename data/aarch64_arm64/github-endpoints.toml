@@ -1,0 +1,26 @@
+[bin]
+name = "github-endpoints"
+
+[package]
+architecture = "aarch64_arm64"
+name = "github-endpoints"
+description = "Find endpoints on GitHub."
+author = "gwen001"
+repo = "https://github.com/gwen001/github-endpoints"
+stars = "170"
+version = "v1.2.2"
+updated = "2023-02-09T13:53:35Z"
+size = "5.28 MB"
+bsum = "4f6dd7bc49eb6b47aefbded27e8a3b474791460aee7783d20bcdf1cee863d08c"
+sha = "adf4cdc8143ffc508cb14fed1380388113da762aed855124eba3ccfdbc157ab4"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/github-endpoints"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["github-endpoints"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","endpoints","github","go","golang","pentesting","security-tools","urls"]
+categories = ["Utilities"]

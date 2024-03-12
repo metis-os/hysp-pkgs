@@ -1,0 +1,26 @@
+[bin]
+name = "multirootca"
+
+[package]
+architecture = "aarch64_arm64"
+name = "multirootca"
+description = "CFSSL: Cloudflare's PKI and TLS toolkit"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cfssl"
+stars = "8367"
+version = "v1.6.5"
+updated = "2024-03-05T17:40:06Z"
+size = "11.31 MB"
+bsum = "eac6b308e389373e3e3b98cb02a5714bf60b095a53a88236f34a40822658a923"
+sha = "b3bb724f55bc624897e5d3f1b2236e8831269eb3f0034d1dcd4e29d3299671e2"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/multirootca"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["multirootca"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

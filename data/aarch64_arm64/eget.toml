@@ -1,0 +1,26 @@
+[bin]
+name = "eget"
+
+[package]
+architecture = "aarch64_arm64"
+name = "eget"
+description = "Easily install prebuilt binaries from GitHub."
+author = "zyedidia"
+repo = "https://github.com/zyedidia/eget"
+stars = "702"
+version = "v1.3.3"
+updated = "2023-02-22T05:15:46Z"
+size = "6 MB"
+bsum = "9783d523fd4883bea3398590c0b92f135c92e43e2abfa640e8aad83c9235b7b0"
+sha = "2e1086f2f45a3c0077cb7401a7baaee0038125701d76c496468e24a7b7ed1e7a"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/eget"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["eget"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line-tool","go","golang","installer","prebuilt-binaries"]
+categories = ["Utilities"]

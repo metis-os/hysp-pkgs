@@ -1,0 +1,26 @@
+[bin]
+name = "mdcat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mdcat"
+description = "cat for markdown"
+author = "swsnr"
+repo = "https://github.com/swsnr/mdcat"
+stars = "2010"
+version = "mdcat-2.1.2"
+updated = "2024-03-11T16:18:42Z"
+size = "10.15 MB"
+bsum = "e21be19716bd58f84008fc30b221cca37894add399c04a482bfd0057267f2a59"
+sha = "8ddf2f1a01164987c1637eb5ffba5125739285ddeabda3e3c183372e66ce1b97"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/mdcat"
+language = "Rust"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["mdcat"]
+requires = []
+
+[package.metadata]
+keywords = ["cat","iterm2","markdown","rust","terminal"]
+categories = ["Utilities"]

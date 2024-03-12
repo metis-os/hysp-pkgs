@@ -1,0 +1,26 @@
+[bin]
+name = "fuzzuli"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fuzzuli"
+description = "fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain."
+author = "musana"
+repo = "https://github.com/musana/fuzzuli"
+stars = "581"
+version = "v1.1.4"
+updated = "2023-07-16T20:18:46Z"
+size = "6.47 MB"
+bsum = "453456f5963938e737d6cac4db9d2262a4e9c10f5ae54fcd6f6e344154389762"
+sha = "32acb14c4ce6ead9dd885da2de4bdecabe005e040c65d10c9e5c885dc7262dbf"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/fuzzuli"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["fuzzuli"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

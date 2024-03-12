@@ -1,0 +1,26 @@
+[bin]
+name = "epoch"
+
+[package]
+architecture = "aarch64_arm64"
+name = "epoch"
+description = "🕗 Easily convert epoch timestamps to human-readable formats and vice versa."
+author = "sj14"
+repo = "https://github.com/sj14/epoch"
+stars = "20"
+version = "v0.2.0"
+updated = "2024-03-02T09:15:23Z"
+size = "1.57 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/epoch"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["epoch"]
+requires = []
+
+[package.metadata]
+keywords = ["converter","date","epoch","hacktoberfest","human-readable-formats","time","timestamp"]
+categories = ["Utilities"]

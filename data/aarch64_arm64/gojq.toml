@@ -1,0 +1,26 @@
+[bin]
+name = "gojq"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gojq"
+description = "Pure Go implementation of jq"
+author = "itchyny"
+repo = "https://github.com/itchyny/gojq"
+stars = "3014"
+version = "v0.12.14"
+updated = "2023-12-01T10:21:00Z"
+size = "3.93 MB"
+bsum = "371c6a840435ca87cd0c50896113a049f80a262ec28f9a755653a5088344efdb"
+sha = "2592d16a0600df103286152989b85bfcd66b1de47ef8881598ec421516819020"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gojq"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gojq"]
+requires = []
+
+[package.metadata]
+keywords = ["cli-tool","cli-utility","go","golang","json"]
+categories = ["Utilities"]

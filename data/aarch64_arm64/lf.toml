@@ -1,0 +1,26 @@
+[bin]
+name = "lf"
+
+[package]
+architecture = "aarch64_arm64"
+name = "lf"
+description = "Terminal file manager"
+author = "gokcehan"
+repo = "https://github.com/gokcehan/lf"
+stars = "7011"
+version = "r31"
+updated = "2023-09-17T11:55:19Z"
+size = "3.54 MB"
+bsum = "8fbe30260040c1fb3627612f3c2cfd46dcce4a117757552f6bfecad5579ac3c1"
+sha = "fd9f8930cb52ca9995d2a4999105966e5a917ed14efdb7fbe28d770935064918"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/lf"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["lf"]
+requires = []
+
+[package.metadata]
+keywords = ["file-manager","terminal"]
+categories = ["Utilities"]

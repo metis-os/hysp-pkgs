@@ -1,0 +1,26 @@
+[bin]
+name = "systemctl-tui"
+
+[package]
+architecture = "aarch64_arm64"
+name = "systemctl-tui"
+description = "A fast, simple TUI for interacting with systemd services and their logs"
+author = "rgwood"
+repo = "https://github.com/rgwood/systemctl-tui"
+stars = "54"
+version = "v0.3.3"
+updated = "2024-02-29T07:04:31Z"
+size = "6.6 MB"
+bsum = "57470928bd750efeed4efb3d67eb96e5a69b40da27abe73fa6d8ae418df00793"
+sha = "647905066e44a936ff82b7074f1a3f423079b88b04c7ac4f48aa319a05be2285"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/systemctl-tui"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["systemctl-tui"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

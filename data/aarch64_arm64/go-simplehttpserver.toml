@@ -1,0 +1,26 @@
+[bin]
+name = "go-simplehttpserver"
+
+[package]
+architecture = "aarch64_arm64"
+name = "go-simplehttpserver"
+description = "Go alternative of python SimpleHTTPServer"
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/simplehttpserver"
+stars = "447"
+version = "v0.0.6"
+updated = "2023-03-20T15:04:35Z"
+size = "6.17 MB"
+bsum = "ea5dd1430640f208bd7c91d6e1f4ad5fa3efd8b420489b5a21e43f380a220e8e"
+sha = "c7de2b7ce6d1033f083490daad39000317c465a7b4ad6cbafcf02a3e857a9ed5"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/go-simplehttpserver"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["go-simplehttpserver"]
+requires = []
+
+[package.metadata]
+keywords = ["gohttpserver","simplehttpserver"]
+categories = ["Utilities"]

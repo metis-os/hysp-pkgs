@@ -1,0 +1,26 @@
+[bin]
+name = "luet"
+
+[package]
+architecture = "aarch64_arm64"
+name = "luet"
+description = ":package: :whale: 0-dependency Container-based Package Manager using SAT solver and QLearning"
+author = "mudler"
+repo = "https://github.com/mudler/luet"
+stars = "240"
+version = "0.35.0"
+updated = "2023-08-21T09:16:41Z"
+size = "18.75 MB"
+bsum = "cbfb42f241f6dab53406bd849bf191a34cb5bb03bb138f764dcb605a78ea6da0"
+sha = "a04afbe83d1b0e73ab9a285030a6780c8658478ae99271dc3dad1c29c4176a3b"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/luet"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["luet"]
+requires = []
+
+[package.metadata]
+keywords = ["build","cloud","containers","docker","golang","kubernetes","package-manager","reinforcement-learning","sat"]
+categories = ["Utilities"]

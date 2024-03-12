@@ -1,0 +1,26 @@
+[bin]
+name = "sttr"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sttr"
+description = "cross-platform, cli app to perform various operations on string"
+author = "abhimanyu003"
+repo = "https://github.com/abhimanyu003/sttr"
+stars = "792"
+version = "v0.2.19"
+updated = "2024-02-11T11:26:03Z"
+size = "9.44 MB"
+bsum = "db68822b509872fba06b320ad9fa204844cd493fc56ff12ba284a337256b8ab5"
+sha = "d8512d660b11907e39d3491c938ea7720bd5826b51905ad8d462f587937a9ffc"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/sttr"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sttr"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","cli-app","cli-tool","cli-utilities","decoding","developer-tools","devutils","encoding","encrypt","encryption-decryption","go","json","productivity","string","termux","termux-tool","transform","tui","tui-app","zeropad"]
+categories = ["Utilities"]

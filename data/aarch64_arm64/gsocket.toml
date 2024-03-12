@@ -1,0 +1,26 @@
+[bin]
+name = "gsocket"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gsocket"
+description = "Connect like there is no firewall. Securely."
+author = "hackerschoice"
+repo = "https://github.com/hackerschoice/gsocket"
+stars = "1303"
+version = "v1.4.42dev2"
+updated = "2023-11-17T23:00:07Z"
+size = "5381 B"
+bsum = "d5de9fb1af238008a1c72fa44cec3291ef6cdcea83f7831119eba1de8970efbb"
+sha = "193efd61ae10f286d06390968537fa85e4df40995fd424d1afe426c089d172ab"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gsocket"
+language = "C"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["gsocket"]
+requires = []
+
+[package.metadata]
+keywords = ["firewall","hacking","networking","security"]
+categories = ["Utilities"]

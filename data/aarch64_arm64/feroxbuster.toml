@@ -1,0 +1,26 @@
+[bin]
+name = "feroxbuster"
+
+[package]
+architecture = "aarch64_arm64"
+name = "feroxbuster"
+description = "A fast, simple, recursive content discovery tool written in Rust."
+author = "epi052"
+repo = "https://github.com/epi052/feroxbuster"
+stars = "5145"
+version = "v2.10.2"
+updated = "2024-03-01T13:02:45Z"
+size = "11.09 MB"
+bsum = "ee57ac2ce9da6314c8913c7d8ba36383ced7dce6fb75c93419920009e1d554e6"
+sha = "0c83aa726025818f03d39143f8603039e62501cbff18a93473759cf0e16e4ff3"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/feroxbuster"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["feroxbuster"]
+requires = []
+
+[package.metadata]
+keywords = ["content-discovery","enumeration","hacktoberfest","pentest","pentesting-tool","rust","url-bruteforcer","web"]
+categories = ["Utilities"]

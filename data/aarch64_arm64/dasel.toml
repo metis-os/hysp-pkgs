@@ -1,0 +1,26 @@
+[bin]
+name = "dasel"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dasel"
+description = "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package."
+author = "TomWright"
+repo = "https://github.com/TomWright/dasel"
+stars = "4799"
+version = "v2.6.0"
+updated = "2024-02-15T18:44:39Z"
+size = "9.49 MB"
+bsum = "5f0cd1a3da657959ac1f639849fc7a18b21acdbda50358959cc5c13e4a82fa48"
+sha = "ca7c5a2cc21005744a2411c19c015b5455fc2622fd3c859bde3829b4aa66104c"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/dasel"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dasel"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","config","configuration","data-processing","data-structures","data-wrangling","devops-tools","go","golang","json","json-processing","parser","query","selector","toml","update","xml","yaml","yaml-processor"]
+categories = ["Utilities"]

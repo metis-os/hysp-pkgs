@@ -1,0 +1,26 @@
+[bin]
+name = "ffmpeg"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ffmpeg"
+description = "ffmpeg static binaries for Mac OSX and Linux and Windows"
+author = "eugeneware"
+repo = "https://github.com/eugeneware/ffmpeg-static"
+stars = "943"
+version = "b6.0"
+updated = "2023-07-07T14:24:30Z"
+size = "50.02 MB"
+bsum = "0c33e773215817865156f1e1f6196217a7429d053789d597e8ae7dd5ca97f14f"
+sha = "237800b37bb65a81ad47871c6c8b7c45c0a3ca62a5b3f9d2a7a9a2dd9a338271"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ffmpeg"
+language = "JavaScript"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["ffmpeg"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "logtimer"
+
+[package]
+architecture = "aarch64_arm64"
+name = "logtimer"
+description = "Enhance your output with a timer / date"
+author = "Eun"
+repo = "https://github.com/Eun/logtimer"
+stars = "11"
+version = "v1.0.5"
+updated = "2023-10-25T09:42:42Z"
+size = "3.11 MB"
+bsum = "7472f513021660f8303bbbd4a593c7614faabfb19e316d2322260130aa490969"
+sha = "40becd6be16816dff132a442586a7950dfbecb1571aeac7908ad05b9c9ea8b6a"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/logtimer"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["logtimer"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","cli","go","golang","hacktoberfest","log"]
+categories = ["Utilities"]

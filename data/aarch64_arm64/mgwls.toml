@@ -1,0 +1,26 @@
+[bin]
+name = "mgwls"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mgwls"
+description = "Combine words from two wordlist files and concatenate them with an optional delimiter"
+author = "trickest"
+repo = "https://github.com/trickest/mgwls"
+stars = "34"
+version = "v1.0.1"
+updated = "2022-07-25T15:25:00Z"
+size = "1.35 MB"
+bsum = "f99d098ee7e6dbc19723590e9d0a8fbe24ea349a77f9bc091a963c06099b71a5"
+sha = "63f193c103bb83f363d423a7e6d7f9aeff736626d2164ab0d712bb3b97ec7f33"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/mgwls"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mgwls"]
+requires = []
+
+[package.metadata]
+keywords = ["directory-bruteforce","enumeration","fuzzing","penetration-testing","penetration-testing-tools","pentesting","pentesting-tools","recon","reconnaissance","security","web-app-security"]
+categories = ["Utilities"]
