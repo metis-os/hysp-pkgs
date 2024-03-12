@@ -1,0 +1,26 @@
+[bin]
+name = "docker"
+
+[package]
+architecture = "x86_64"
+name = "docker"
+description = "The Docker CLI"
+author = "docker"
+repo = "https://github.com/docker/cli"
+stars = "4535"
+version = "v26.0.0-rc2"
+updated = "null"
+size = "24.08 MB"
+bsum = "27519d37ea2579d14d0c6b9c61a6f67a6046cd46cc9844232ae9029aafbfc43f"
+sha = "90696114469c3b3ff9deedfcf737fff40b68fd647827fec887f9eac6b91659ca"
+source = "https://bin.ajam.dev/x86_64_Linux/docker"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["docker"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","docker"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "dnstake"
+
+[package]
+architecture = "x86_64"
+name = "dnstake"
+description = "DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover"
+author = "pwnesia"
+repo = "https://github.com/pwnesia/dnstake"
+stars = "801"
+version = "v0.1.1"
+updated = "2022-04-15T09:40:35Z"
+size = "5.18 MB"
+bsum = "a130f1be1e71e86abfccccbc9af4540827ed3f41ce35724671fac7abd67fb732"
+sha = "6da0cedf9717a0a40a2cb404e45b2ce4181ec9c3c9996a27acb40a979d34bed7"
+source = "https://bin.ajam.dev/x86_64_Linux/dnstake"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dnstake"]
+requires = []
+
+[package.metadata]
+keywords = ["dns","go","golang","nameserver","subdomain","takeover","vulnerability"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "q"
+
+[package]
+architecture = "x86_64"
+name = "q"
+description = "A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH."
+author = "natesales"
+repo = "https://github.com/natesales/q"
+stars = "1448"
+version = "v0.19.2"
+updated = "2024-01-21T21:18:53Z"
+size = "8.77 MB"
+bsum = "b38bed1d59e9316770a6e68c14559aeceb61b1c62181efd49d4b44dd437178f6"
+sha = "aae70b61d8f09cf6c438dacbf7729c848b5346c6c506f4968e6e8de5b641604f"
+source = "https://bin.ajam.dev/x86_64_Linux/q"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["q"]
+requires = []
+
+[package.metadata]
+keywords = ["dns-client","dns-over-https","dns-over-quic","dns-over-tls","doh","oblivious-dns-over-https"]
+categories = ["Utilities"]

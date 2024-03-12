@@ -1,0 +1,26 @@
+[bin]
+name = "strace"
+
+[package]
+architecture = "x86_64"
+name = "strace"
+description = "strace is a diagnostic, debugging and instructional userspace utility for Linux"
+author = "strace"
+repo = "https://github.com/strace/strace"
+stars = "2006"
+version = "v6.7"
+updated = "2024-01-29T17:03:39Z"
+size = "1.36 MB"
+bsum = "57e74c13b0095661ddc38d9d2dd584f3f947d959ad9405d4c5aab38efb11901a"
+sha = "7b7cd673319e71956aac37752ccde36eca8b5f4071c2baea9cffb4f738e6b09f"
+source = "https://bin.ajam.dev/x86_64_Linux/strace"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["strace"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

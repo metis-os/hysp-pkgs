@@ -1,0 +1,26 @@
+[bin]
+name = "hub"
+
+[package]
+architecture = "x86_64"
+name = "hub"
+description = "A command-line tool that makes git easier to use with GitHub."
+author = "mislav"
+repo = "https://github.com/mislav/hub"
+stars = "22659"
+version = "v2.14.2"
+updated = "2020-03-05T17:55:23Z"
+size = "6.61 MB"
+bsum = "2879633705846185a77ba1a098666babd372d9fd28deb9619484b3089eb827e5"
+sha = "478c83da9a8672b01f394bad447c4c8f74d2d86e4824efa9852313b12c06f781"
+source = "https://bin.ajam.dev/x86_64_Linux/hub"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hub"]
+requires = []
+
+[package.metadata]
+keywords = ["git","github-api","go","homebrew","pull-request"]
+categories = ["Utilities"]

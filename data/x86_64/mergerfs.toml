@@ -1,0 +1,26 @@
+[bin]
+name = "mergerfs"
+
+[package]
+architecture = "x86_64"
+name = "mergerfs"
+description = "a featureful union filesystem"
+author = "trapexit"
+repo = "https://github.com/trapexit/mergerfs"
+stars = "3767"
+version = "2.40.2"
+updated = "2024-03-01T05:39:03Z"
+size = "1.93 MB"
+bsum = "7ad2efcceddf361f7211dfb495553263396d3320136b1fc037dcb08f4ad6d2da"
+sha = "dcaf6e6cb9e40d573d957bc20ca54afa52da0f16c129f31b42fd211e1a770152"
+source = "https://bin.ajam.dev/x86_64_Linux/mergerfs"
+language = "C++"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["mergerfs"]
+requires = []
+
+[package.metadata]
+keywords = ["aufs","datahoarding","filesystem","fuse","jbod","kodi","libfuse","mergerfs","mhddfs","overlayfs","plex","subsonic","unionfs","xattr"]
+categories = ["Utilities"]

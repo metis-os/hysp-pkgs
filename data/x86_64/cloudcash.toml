@@ -1,0 +1,26 @@
+[bin]
+name = "cloudcash"
+
+[package]
+architecture = "x86_64"
+name = "cloudcash"
+description = "Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
+author = "mrusme"
+repo = "https://github.com/mrusme/cloudcash"
+stars = "18"
+version = "v1.2.0"
+updated = "2022-09-04T04:40:20Z"
+size = "16.2 MB"
+bsum = "59661b4188067b320217dbd0e292fe9bee2eeb96914f19280e4f937805452540"
+sha = "2a805f66b049e76be9d0df393b16a59e5b4209cccdcfb9ae52541c3abe30a137"
+source = "https://bin.ajam.dev/x86_64_Linux/cloudcash"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["cloudcash"]
+requires = []
+
+[package.metadata]
+keywords = ["amazon-web-services","aws","cloud","cost","cost-control","digitalocean","macos","macos-menubar","vultr","waybar"]
+categories = ["Utilities"]

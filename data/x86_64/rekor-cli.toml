@@ -1,0 +1,26 @@
+[bin]
+name = "rekor-cli"
+
+[package]
+architecture = "x86_64"
+name = "rekor-cli"
+description = "Software Supply Chain Transparency Log"
+author = "sigstore"
+repo = "https://github.com/sigstore/rekor"
+stars = "821"
+version = "v1.3.5"
+updated = "2024-02-03T00:18:28Z"
+size = "19.23 MB"
+bsum = "5647bee9e0973246934841b2cd89c6b541c7f96376337094ec909cd2864b5897"
+sha = "c2d58df50576432d36218096dba6188159072c62ca8776b29bb41e4494447d21"
+source = "https://bin.ajam.dev/x86_64_Linux/rekor-cli"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["rekor-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["provenance","security","supply-chain","transparency-log"]
+categories = ["Utilities"]

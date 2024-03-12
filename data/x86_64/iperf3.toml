@@ -1,0 +1,26 @@
+[bin]
+name = "iperf3"
+
+[package]
+architecture = "x86_64"
+name = "iperf3"
+description = "A static build of iperf3 to do network testing on remote servers."
+author = "userdocs"
+repo = "https://github.com/userdocs/iperf3-static"
+stars = "66"
+version = "3.16"
+updated = "2023-12-01T19:06:37Z"
+size = "3.78 MB"
+bsum = "218c33c58de22ef25b389c70bebdff0985e85b16cc096e2e07caf3427faf48ef"
+sha = "8beca93c6b4756cb0beb83508ea001dd634cc10cd796a492d13581698e27193f"
+source = "https://bin.ajam.dev/x86_64_Linux/iperf3"
+language = "Batchfile"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["iperf3"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

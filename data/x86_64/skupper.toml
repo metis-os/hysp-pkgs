@@ -1,0 +1,26 @@
+[bin]
+name = "skupper"
+
+[package]
+architecture = "x86_64"
+name = "skupper"
+description = "Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication."
+author = "skupperproject"
+repo = "https://github.com/skupperproject/skupper"
+stars = "533"
+version = "1.6.0"
+updated = "2024-02-21T14:36:37Z"
+size = "35.27 MB"
+bsum = "ad0da36f2383f88cc30bcb92c7564803225545bb1afcca2aff0f21f509743fef"
+sha = "bde52bedf1ad8f1d753b97a7399262baa12bbb9408e916ed1520b3cbcc452ba2"
+source = "https://bin.ajam.dev/x86_64_Linux/skupper"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["skupper"]
+requires = []
+
+[package.metadata]
+keywords = ["skupper"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "fuse-overlayfs"
+
+[package]
+architecture = "x86_64"
+name = "fuse-overlayfs"
+description = "FUSE implementation for overlayfs"
+author = "containers"
+repo = "https://github.com/containers/fuse-overlayfs"
+stars = "470"
+version = "v1.13"
+updated = "2023-08-29T15:35:35Z"
+size = "1.37 MB"
+bsum = "887aa5dba2a46c13341a87c2da4976d6e0cc0561be831345f8fc6e99ddf3ef42"
+sha = "f1c774dbffbef5d82d492f55a12f7b1f924fb6263a52742e91eb7d58a5e9a53c"
+source = "https://bin.ajam.dev/x86_64_Linux/fuse-overlayfs"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["fuse-overlayfs"]
+requires = []
+
+[package.metadata]
+keywords = ["containers","fuse","overlay","rootless-containers"]
+categories = ["Utilities"]

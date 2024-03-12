@@ -1,0 +1,26 @@
+[bin]
+name = "agg"
+
+[package]
+architecture = "x86_64"
+name = "agg"
+description = "asciinema gif generator"
+author = "asciinema"
+repo = "https://github.com/asciinema/agg"
+stars = "1000"
+version = "v1.4.3"
+updated = "2023-10-02T14:05:41Z"
+size = "9.59 MB"
+bsum = "7e4ab6c253b49ccb47e73a4727e3fce44ce137961908a66e330a39e04dd1a018"
+sha = "2c75c93defd1f9b9527bd09eb84a3f5ae62dba4321f3bb7764ff087cbab16671"
+source = "https://bin.ajam.dev/x86_64_Linux/agg"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["agg"]
+requires = []
+
+[package.metadata]
+keywords = ["gif","terminal"]
+categories = ["Utilities"]

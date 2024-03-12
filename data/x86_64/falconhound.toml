@@ -1,0 +1,26 @@
+[bin]
+name = "falconhound"
+
+[package]
+architecture = "x86_64"
+name = "falconhound"
+description = "FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool."
+author = "FalconForceTeam"
+repo = "https://github.com/FalconForceTeam/FalconHound"
+stars = "640"
+version = "v1.3.0"
+updated = "2024-03-09T20:19:24Z"
+size = "13.25 MB"
+bsum = "1e04fd27e652aa567268feeb290fb3a0f27cddaacb6d3466a9c2e8900e4ee6c9"
+sha = "b4c463ac9a62bcde9902a83e0e45d22db0a7c4c4e9f6fc90b95b7f24d05a735e"
+source = "https://bin.ajam.dev/x86_64_Linux/falconhound"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["falconhound"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

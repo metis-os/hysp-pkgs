@@ -1,0 +1,26 @@
+[bin]
+name = "aws-nuke"
+
+[package]
+architecture = "x86_64"
+name = "aws-nuke"
+description = "Nuke a whole AWS account and delete all its resources."
+author = "rebuy-de"
+repo = "https://github.com/rebuy-de/aws-nuke"
+stars = "5188"
+version = "v2.25.0"
+updated = "2023-09-04T07:21:31Z"
+size = "150.31 MB"
+bsum = "0b9a8466d105b9b7c8ed2b00b052822ed7ee7e12e8f144d84d0fc80ed72eda9c"
+sha = "fe7ae3041809eed605781e75ff645e24e010d7bc88ec29cc3c62020c2540bdb9"
+source = "https://bin.ajam.dev/x86_64_Linux/aws-nuke"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["aws-nuke"]
+requires = []
+
+[package.metadata]
+keywords = ["aws","cli","golang"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "sish"
+
+[package]
+architecture = "x86_64"
+name = "sish"
+description = "HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH."
+author = "antoniomika"
+repo = "https://github.com/antoniomika/sish"
+stars = "3709"
+version = "v2.14.0"
+updated = "2024-03-08T13:57:53Z"
+size = "19.74 MB"
+bsum = "d31460653cc41608d3baf7151bf96ca9124d39a0589db5845810941c2c56e9c0"
+sha = "423f8343831db933c6193ce5c0468f80f78983fa118492a99385b76fbd0bd323"
+source = "https://bin.ajam.dev/x86_64_Linux/sish"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sish"]
+requires = []
+
+[package.metadata]
+keywords = ["http","https","ngrok","serveo","ssh","tcp","tunnel","websockets"]
+categories = ["Utilities"]

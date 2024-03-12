@@ -1,0 +1,26 @@
+[bin]
+name = "amass"
+
+[package]
+architecture = "x86_64"
+name = "amass"
+description = "In-depth attack surface mapping and asset discovery"
+author = "owasp-amass"
+repo = "https://github.com/owasp-amass/amass"
+stars = "10931"
+version = "v4.2.0"
+updated = "2023-09-10T20:52:27Z"
+size = "36.58 MB"
+bsum = "7bb3c7e7588124ff0dc65a1417439339e0b488de66dc3b40c35e8ede40017766"
+sha = "183f30fbd21ddb4c0897fa6bbe05a1946efba7175ab38bf289f28f4dafbec578"
+source = "https://bin.ajam.dev/x86_64_Linux/amass"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["amass"]
+requires = []
+
+[package.metadata]
+keywords = ["attack-surfaces","dns","enumeration","go","golang","information-gathering","maltego","network-security","osint","osint-reconnaissance","owasp","recon","subdomain"]
+categories = ["Utilities"]

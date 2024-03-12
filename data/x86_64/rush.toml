@@ -1,0 +1,26 @@
+[bin]
+name = "rush"
+
+[package]
+architecture = "x86_64"
+name = "rush"
+description = "A cross-platform command-line tool for executing jobs in parallel"
+author = "shenwei356"
+repo = "https://github.com/shenwei356/rush"
+stars = "819"
+version = "v0.5.4"
+updated = "2023-11-13T17:53:58Z"
+size = "7.26 MB"
+bsum = "1dc6ddcb166995da39ab7e201d692c95af4329db8d5562668ac5945ea0e176a4"
+sha = "76573d36a80e580a2ea1cefc37bf4a8e3c34f0c002aafa98db8da4b7e2bb1241"
+source = "https://bin.ajam.dev/x86_64_Linux/rush"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rush"]
+requires = []
+
+[package.metadata]
+keywords = ["bioinformatics","command","cross-platform","execute","golang","parallel","pipeline","shell","windows"]
+categories = ["Utilities"]

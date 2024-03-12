@@ -1,0 +1,26 @@
+[bin]
+name = "dysk"
+
+[package]
+architecture = "x86_64"
+name = "dysk"
+description = "A linux utility to get information on filesystems, like df but better"
+author = "Canop"
+repo = "https://github.com/Canop/dysk"
+stars = "775"
+version = "v2.8.2"
+updated = "2023-10-16T14:25:06Z"
+size = "3.19 MB"
+bsum = "85a1b609810eade2f02b622dd9a705f8380ffb3fb1517e0f35bca0536ef211a0"
+sha = "b10e26ec86e3bcfe8e89bb443835341cd625a6ba56fd1a896b1b9ba0f37632a8"
+source = "https://bin.ajam.dev/x86_64_Linux/dysk"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dysk"]
+requires = []
+
+[package.metadata]
+keywords = ["filesystem","hacktoberfest","linux","rust"]
+categories = ["Utilities"]

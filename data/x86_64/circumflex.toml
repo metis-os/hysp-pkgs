@@ -1,0 +1,26 @@
+[bin]
+name = "circumflex"
+
+[package]
+architecture = "x86_64"
+name = "circumflex"
+description = "🌿 It's Hacker News in your terminal"
+author = "bensadeh"
+repo = "https://github.com/bensadeh/circumflex"
+stars = "1016"
+version = "3.5"
+updated = "2023-10-17T05:27:55Z"
+size = "21.02 MB"
+bsum = "54549dfd1920ed0acc0d5da1ed96720d5f17cf7e7041c4b3fbf01981cb97a109"
+sha = "1f13d049a0661856a0eeb8be36ceb334b29a6c9a4c9ac9e16aea8cbecdfccfe1"
+source = "https://bin.ajam.dev/x86_64_Linux/circumflex"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["circumflex"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","client","command-line","console","hacker","hacker-news","hackernews","news","reader","terminal","tui","ycombinator"]
+categories = ["Utilities"]

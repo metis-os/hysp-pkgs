@@ -1,0 +1,26 @@
+[bin]
+name = "oha"
+
+[package]
+architecture = "x86_64"
+name = "oha"
+description = "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation."
+author = "hatoo"
+repo = "https://github.com/hatoo/oha"
+stars = "3562"
+version = "v1.4.0"
+updated = "2024-03-09T07:44:22Z"
+size = "2.98 MB"
+bsum = "f821826c33d86e7bf7da7efea3c2287a4fc61d4606ff6bfef81b263626d5a6df"
+sha = "c28f4e9a779057ad308f52560c879afb10a95b1486dcd52d313926783019ff35"
+source = "https://bin.ajam.dev/x86_64_Linux/oha"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["oha"]
+requires = []
+
+[package.metadata]
+keywords = ["benchmark","cli","command-line","http","http2","load-generator","load-testing","rust","tui"]
+categories = ["Utilities"]

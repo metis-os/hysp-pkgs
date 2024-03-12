@@ -1,0 +1,26 @@
+[bin]
+name = "dotenv-linter"
+
+[package]
+architecture = "x86_64"
+name = "dotenv-linter"
+description = "⚡️Lightning-fast linter for .env files. Written in Rust 🦀"
+author = "dotenv-linter"
+repo = "https://github.com/dotenv-linter/dotenv-linter"
+stars = "1729"
+version = "v3.3.0"
+updated = "2022-12-24T13:13:53Z"
+size = "2.73 MB"
+bsum = "6cfc077aa2163e4ba214216ece0b0929b1a5ba774799bc254e4f62fe3af6fd0b"
+sha = "890924cdc6f400b085edaa705e388c3c60516ab4234364f491add78f0d0b0973"
+source = "https://bin.ajam.dev/x86_64_Linux/dotenv-linter"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dotenv-linter"]
+requires = []
+
+[package.metadata]
+keywords = ["check","compare","contributor-friendly","contributors-welcome","dotenv","dotenv-linter","env","fix","hacktoberfest","linter","rust","rust-lang"]
+categories = ["Utilities"]

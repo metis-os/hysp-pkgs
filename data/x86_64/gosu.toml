@@ -1,0 +1,26 @@
+[bin]
+name = "gosu"
+
+[package]
+architecture = "x86_64"
+name = "gosu"
+description = "Simple Go-based setuid+setgid+setgroups+exec"
+author = "tianon"
+repo = "https://github.com/tianon/gosu"
+stars = "4561"
+version = "1.17"
+updated = "2023-11-02T21:46:05Z"
+size = "2.18 MB"
+bsum = "af5d32c41412c6835f24a59644bfb830826a574c0e84fcea9c81194ab4109939"
+sha = "bda493d445f1bebc2632f7455265f08cecf430ac8b4c404f56600683ed414450"
+source = "https://bin.ajam.dev/x86_64_Linux/gosu"
+language = "Shell"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gosu"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "fclones"
+
+[package]
+architecture = "x86_64"
+name = "fclones"
+description = "Efficient Duplicate File Finder"
+author = "pkolaczk"
+repo = "https://github.com/pkolaczk/fclones"
+stars = "1662"
+version = "v0.34.0"
+updated = "2023-10-29T16:56:06Z"
+size = "4.89 MB"
+bsum = "82d35025e3c0ca7f264f23213a8540a4c42aa4cbd6d2d410acea7b6310b37380"
+sha = "2634c62d01190c5cbf48e01d7fe56658c5c6db98f14c996e63151c2174cfdf3c"
+source = "https://bin.ajam.dev/x86_64_Linux/fclones"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["fclones"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

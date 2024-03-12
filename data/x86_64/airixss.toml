@@ -1,0 +1,26 @@
+[bin]
+name = "airixss"
+
+[package]
+architecture = "x86_64"
+name = "airixss"
+description = "Finding XSS during recon"
+author = "ferreiraklet"
+repo = "https://github.com/ferreiraklet/airixss"
+stars = "221"
+version = "att"
+updated = "2022-09-13T20:15:47Z"
+size = "5.11 MB"
+bsum = "a1b300ccf334eb934e35f93853dcf7b3aef7bf628de801fdcc3fca3aea9113cc"
+sha = "c4989a2c287b3e0915301b3acaedd2ffb9732e7593d22e373170b22993d711e5"
+source = "https://bin.ajam.dev/x86_64_Linux/airixss"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["airixss"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

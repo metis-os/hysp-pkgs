@@ -1,0 +1,26 @@
+[bin]
+name = "ansi2txt"
+
+[package]
+architecture = "x86_64"
+name = "ansi2txt"
+description = "tools for logs with ANSI color"
+author = "kilobyte"
+repo = "https://github.com/kilobyte/colorized-logs"
+stars = "80"
+version = "v2.6"
+updated = "null"
+size = "5896 B"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/ansi2txt"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ansi2txt"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

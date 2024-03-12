@@ -1,0 +1,26 @@
+[bin]
+name = "curl"
+
+[package]
+architecture = "x86_64"
+name = "curl"
+description = "fully static builds of curl, runs anywhere"
+author = "moparisthebest"
+repo = "https://github.com/moparisthebest/static-curl"
+stars = "473"
+version = "v8.5.0"
+updated = "2023-12-14T01:31:25Z"
+size = "7.98 MB"
+bsum = "517c8e9323786bdd033668689fe90dcef3bdb4dff5a74dc3ff24cff351689ccf"
+sha = "0adfe698393078d51b76bc63a29fea36605211a898afe474a0547bebadaabe28"
+source = "https://bin.ajam.dev/x86_64_Linux/curl"
+language = "Shell"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["curl"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

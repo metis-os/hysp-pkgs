@@ -1,0 +1,26 @@
+[bin]
+name = "duf"
+
+[package]
+architecture = "x86_64"
+name = "duf"
+description = "Disk Usage/Free Utility - a better 'df' alternative"
+author = "muesli"
+repo = "https://github.com/muesli/duf"
+stars = "12130"
+version = "v0.8.1"
+updated = "2022-02-08T06:49:51Z"
+size = "2.14 MB"
+bsum = "af2f55d52533bc8698f17a8682fbfa1aea52fd028476f700b76c93f3c9f5c13a"
+sha = "07e4c2fc6729470dd811e80ad0bd991d08102624f45a9e38f095a3f1981550c1"
+source = "https://bin.ajam.dev/x86_64_Linux/duf"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["duf"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","df","disk-space","disk-usage","filesystem","freebsd","hacktoberfest","linux","macos","openbsd","terminal","tui","user-friendly","windows"]
+categories = ["Utilities"]

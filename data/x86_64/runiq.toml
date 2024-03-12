@@ -1,0 +1,26 @@
+[bin]
+name = "runiq"
+
+[package]
+architecture = "x86_64"
+name = "runiq"
+description = "An efficient way to filter duplicate lines from input, à la uniq."
+author = "whitfin"
+repo = "https://github.com/whitfin/runiq"
+stars = "202"
+version = "v2.0.0"
+updated = "2024-01-05T21:45:01Z"
+size = "2.62 MB"
+bsum = "32782453a1d82bf2b28dccde752839f2018048b470608f78ab52449aca064468"
+sha = "1216ba500ecd3bfd72503cd19a6eadec957c0f936762a9b220999ff2fd90cfd3"
+source = "https://bin.ajam.dev/x86_64_Linux/runiq"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["runiq"]
+requires = []
+
+[package.metadata]
+keywords = ["algorithms","filtering-uniques","memory-efficiency"]
+categories = ["Utilities"]

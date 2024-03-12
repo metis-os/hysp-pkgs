@@ -1,0 +1,26 @@
+[bin]
+name = "rebuildctl"
+
+[package]
+architecture = "x86_64"
+name = "rebuildctl"
+description = "Independent verification of binary packages - reproducible builds"
+author = "kpcyrd"
+repo = "https://github.com/kpcyrd/rebuilderd"
+stars = "335"
+version = "v0.20.0"
+updated = "2023-10-18T10:14:01Z"
+size = "12.55 MB"
+bsum = "e3924f2311fc27d29a820314da1cef4a94d65488b33be5f568a708e01273d689"
+sha = "4041bdc8b7fed4e96a99e082138d8efebcc578dd67bc527cbc14f2da5a78f0b6"
+source = "https://bin.ajam.dev/x86_64_Linux/rebuildctl"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["rebuildctl"]
+requires = []
+
+[package.metadata]
+keywords = ["rebuilder","reproducible-builds","rust","security-tools","supply-chain","supply-chain-security"]
+categories = ["Utilities"]

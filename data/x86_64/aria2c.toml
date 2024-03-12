@@ -1,0 +1,26 @@
+[bin]
+name = "aria2c"
+
+[package]
+architecture = "x86_64"
+name = "aria2c"
+description = " multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink."
+author = "aria2"
+repo = "https://github.com/aria2/aria2"
+stars = "33119"
+version = "release-1.37.0"
+updated = "2023-11-15T12:07:32Z"
+size = "8.71 MB"
+bsum = "707c04369a3fe54a4ef67945e82dce68f9441a394c209d0ee8252a22c7676599"
+sha = "a2eb5007a3b30e99e3f1aa5f963be7de1622b41a8c7e55ff3f4fa1178ff2332c"
+source = "https://bin.ajam.dev/x86_64_Linux/aria2c"
+language = "C++"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["aria2c"]
+requires = []
+
+[package.metadata]
+keywords = ["bittorrent","cpp11","download","ftp","http","metalink","rpc","sftp"]
+categories = ["Utilities"]

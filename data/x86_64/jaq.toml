@@ -1,0 +1,26 @@
+[bin]
+name = "jaq"
+
+[package]
+architecture = "x86_64"
+name = "jaq"
+description = "A jq clone focussed on correctness, speed, and simplicity"
+author = "01mf02"
+repo = "https://github.com/01mf02/jaq"
+stars = "2404"
+version = "v1.3.0"
+updated = "2024-01-22T16:41:00Z"
+size = "1.79 MB"
+bsum = "3b7be9fe3ca2bfd5bed94330a39335972d754cd58f574ee5b835edfad60f4eae"
+sha = "b4f9916d625fa9dd19af41a212f9ed4aeb506d52842a57b2761664c29b9b7219"
+source = "https://bin.ajam.dev/x86_64_Linux/jaq"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jaq"]
+requires = []
+
+[package.metadata]
+keywords = ["jq","json","query","rust"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "anew"
+
+[package]
+architecture = "x86_64"
+name = "anew"
+description = "A tool for adding new lines to files, skipping duplicates"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/anew"
+stars = "1175"
+version = "v0.1.1"
+updated = "2022-03-15T22:35:31Z"
+size = "1.28 MB"
+bsum = "cd012cd5af0ace11f1a65ffeb7f240e5ef436b96f84715e76574e628514cb69d"
+sha = "7508799efc05295108cbbbb9528c6796f3764f5b351874b980be633324c1257a"
+source = "https://bin.ajam.dev/x86_64_Linux/anew"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["anew"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "orbiton"
+
+[package]
+architecture = "x86_64"
+name = "orbiton"
+description = "Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end."
+author = "xyproto"
+repo = "https://github.com/xyproto/orbiton"
+stars = "414"
+version = "v2.65.11"
+updated = "2024-02-29T17:16:09Z"
+size = "10.47 MB"
+bsum = "47e4c09c7d360538c4aaf3bced95885a1bf1ce4e8682ed88ace5977aa74106c4"
+sha = "ffb7a686734eaec1b6f40e7c8acfe5a5fca9e293397e97eea236fb13589907e4"
+source = "https://bin.ajam.dev/x86_64_Linux/orbiton"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["orbiton"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","configuration-free","editor","freebsd","gdb","go","hare","ide","image-viewer","linux","markdown","rainbow-parentheses","rust","terminal","text-editor","tui","unix","vt100","zig"]
+categories = ["Utilities"]

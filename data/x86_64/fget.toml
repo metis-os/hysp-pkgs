@@ -1,0 +1,26 @@
+[bin]
+name = "fget"
+
+[package]
+architecture = "x86_64"
+name = "fget"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
+version = "null"
+updated = ""
+size = "4.94 MB"
+bsum = "2f3ef71ccbf7a94174b8bc9796edac37beaf136599bca245d429f5ac01542a52"
+sha = "7424b466780a3887b8ee771853852494387adf502f41b701c83269007f553c29"
+source = "https://bin.ajam.dev/x86_64_Linux/fget"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["fget"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "resdns"
+
+[package]
+architecture = "x86_64"
+name = "resdns"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "15"
+version = "null"
+updated = ""
+size = "17.49 kB"
+bsum = "32b7d5ab3b9ec470ff7d1d53154f28d5fc8fbd6d8d307d3a52ead98e95967bcf"
+sha = "5c7763da58f0ec48aafce0d47efc21793286499d65411b67ae65fd64b1776d1a"
+source = "https://bin.ajam.dev/x86_64_Linux/resdns"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["resdns"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

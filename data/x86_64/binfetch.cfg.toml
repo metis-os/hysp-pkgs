@@ -1,0 +1,26 @@
+[bin]
+name = "binfetch.cfg"
+
+[package]
+architecture = "x86_64"
+name = "binfetch.cfg"
+description = "A Neofetch inspired binary analyzer"
+author = "Im-0xea"
+repo = "https://github.com/Im-0xea/binfetch"
+stars = "79"
+version = "v0.1"
+updated = "null"
+size = "257 B"
+bsum = "4e819681ecfbda95e9e594179e4c8294c5ba0d2806f0f8e57140f6abc79039a4"
+sha = "e977c3dc5e57f5f8b8d34cfe17c841116afca7d5cea1d73b2a03760b68e5db84"
+source = "https://bin.ajam.dev/x86_64_Linux/binfetch.cfg"
+language = "C"
+license = "The Unlicense"
+
+[package.conditions]
+conflicts  = ["binfetch.cfg"]
+requires = []
+
+[package.metadata]
+keywords = ["neofetch","unix"]
+categories = ["Utilities"]

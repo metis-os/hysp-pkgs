@@ -1,0 +1,26 @@
+[bin]
+name = "sj"
+
+[package]
+architecture = "x86_64"
+name = "sj"
+description = "A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files."
+author = "BishopFox"
+repo = "https://github.com/BishopFox/sj"
+stars = "248"
+version = "null"
+updated = ""
+size = "8.26 MB"
+bsum = "a702282391dc2eb8f555f5d3a9f070d7d30c175cd88e55a4cc78ffae7ea432f4"
+sha = "29edc70a11bdb25fe169ba6cfb846a6f8d5db2587d442f9d80a9593dc8998e32"
+source = "https://bin.ajam.dev/x86_64_Linux/sj"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sj"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

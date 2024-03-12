@@ -1,0 +1,26 @@
+[bin]
+name = "jq"
+
+[package]
+architecture = "x86_64"
+name = "jq"
+description = "Command-line JSON processor"
+author = "jqlang"
+repo = "https://github.com/jqlang/jq"
+stars = "28590"
+version = "jq-1.7.1"
+updated = "2023-12-13T19:56:17Z"
+size = "2.32 MB"
+bsum = "f4f456f3a1a9a0dbcd9b0c2a77e29d14bc1f8bb036db4f6ff06d8c76a99e5ef2"
+sha = "5942c9b0934e510ee61eb3e30273f1b3fe2590df93933a93d7c58b81d19c8ff5"
+source = "https://bin.ajam.dev/x86_64_Linux/jq"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["jq"]
+requires = []
+
+[package.metadata]
+keywords = ["jq"]
+categories = ["Utilities"]

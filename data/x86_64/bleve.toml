@@ -1,0 +1,26 @@
+[bin]
+name = "bleve"
+
+[package]
+architecture = "x86_64"
+name = "bleve"
+description = "A modern text indexing library for go"
+author = "blevesearch"
+repo = "https://github.com/blevesearch/bleve"
+stars = "9532"
+version = "v2.3.10"
+updated = "2023-09-15T16:40:22Z"
+size = "15.24 MB"
+bsum = "2b20447569633e7abb240aa967ee769b5b08caf012d759bf22547eb1a8dd0bf1"
+sha = "e73bf6f54856dcb0e75d51e636a040973edca2599d1491116b681d1be5455d08"
+source = "https://bin.ajam.dev/x86_64_Linux/bleve"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["bleve"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

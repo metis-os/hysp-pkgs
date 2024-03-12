@@ -1,0 +1,26 @@
+[bin]
+name = "reader"
+
+[package]
+architecture = "x86_64"
+name = "reader"
+description = "reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI."
+author = "mrusme"
+repo = "https://github.com/mrusme/reader"
+stars = "210"
+version = "v0.4.4"
+updated = "2023-09-12T14:11:33Z"
+size = "23.1 MB"
+bsum = "dcc45cca15e5f60f2da93def3043661a3c8843808dbc271df794b6f5e8bfa117"
+sha = "1f59c387118e4c31f9fec868e4268a14f9d3fc62fda817777e45c1bb778f3380"
+source = "https://bin.ajam.dev/x86_64_Linux/reader"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["reader"]
+requires = []
+
+[package.metadata]
+keywords = ["ascii","ascii-art","cli","command-line","command-line-tool","html","html-to-markdown","markdown","readability","reader","terminal","terminal-based","tui","web"]
+categories = ["Utilities"]
