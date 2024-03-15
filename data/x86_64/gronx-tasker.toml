@@ -1,0 +1,26 @@
+[bin]
+name = "gronx-tasker"
+
+[package]
+architecture = "x86_64"
+name = "gronx-tasker"
+description = "Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage. If you are bold, use it to replace crontab entirely."
+author = "adhocore"
+repo = "https://github.com/adhocore/gronx"
+stars = "359"
+version = "v1.8.1"
+updated = "2024-03-13T14:36:43Z"
+size = "2.07 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/gronx-tasker"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gronx-tasker"]
+requires = []
+
+[package.metadata]
+keywords = ["adhocore","cron","cron-expression","cron-expression-parser","cron-parser","cronjob","crontab","daemon","go","golang","job-manager","job-scheduler","parser","scheduler","task-manager","task-runner","task-scheduler"]
+categories = ["Utilities"]
