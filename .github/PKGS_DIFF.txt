@@ -340,57 +340,63 @@
 │ 573│ soft-serve                       │ 554│ soft-serve
 │ 574│ speedtest-go                     │ 555│ speedtest-go
 │ 575│ spk                              │ 556│ spk
-│ 607│ svg-hush                         │ 588│ svg-hush
-│ 608│ syncat                           │ 589│ syncat
-│ 609│ syncthing                        │ 590│ syncthing
-│ 610│-sysbox-fs                        │    │
-│ 611│-sysbox-mgr                       │    │
-│ 612│-sysbox-runc                      │    │
-│ 613│ sysinfo-collector                │ 591│ sysinfo-collector
-│ 614│ sysstat                          │ 592│ sysstat
-│ 615│ system-info-collector            │ 593│ system-info-collector
-│ 644│ traefik                          │ 622│ traefik
-│ 645│ trip                             │ 623│ trip
-│ 646│ trufflehog                       │ 624│ trufflehog
-│ 647│-trurl                            │    │
-│ 648│ try                              │ 625│ try
-│ 649│ tty2web                          │ 626│ tty2web
-│ 650│ ttyd                             │ 627│ ttyd
-│ 651│ ttyrec2ansi                      │ 628│ ttyrec2ansi
-│ 652│-tuiarchiver                      │    │
-│ 653│ tut                              │ 629│ tut
-│ 654│-twingate-client                  │    │
-│ 655│-twingate-connector               │    │
-│ 656│-twingate-connector-staticx       │    │
-│ 657│-twingate-connectorctl            │    │
-│ 658│-twingate-notifier                │    │
-│ 659│ txeh                             │ 630│ txeh
-│ 660│ tz                               │ 631│ tz
-│ 661│ u-root                           │ 632│ u-root
-│ 664│ uncover                          │ 635│ uncover
-│ 665│ unf                              │ 636│ unf
-│ 666│ unfurl                           │ 637│ unfurl
-│ 667│-unix2dos                         │    │
-│ 668│-unix2mac                         │    │
-│ 669│ upx                              │ 638│ upx
-│ 670│ usql                             │ 639│ usql
-│ 671│ v2raya                           │ 640│ v2raya
-│ 672│-v6disk                           │    │
-│ 673│ v6run                            │ 641│ v6run
-│ 674│ validtoml                        │ 642│ validtoml
-│ 675│ vegeta                           │ 643│ vegeta
-│ 682│ volta                            │ 650│ volta
-│ 683│ vopono                           │ 651│ vopono
-│ 684│ vpnkit                           │ 652│ vpnkit
-│ 685│-vproxy                           │    │
-│ 686│ vtm                              │ 653│ vtm
-│ 687│ vultr-cli                        │ 654│ vultr-cli
-│ 688│ wadl-dumper                      │ 655│ wadl-dumper
-│ 695│ web-cache-vulnerability-scanner  │ 662│ web-cache-vulnerability-scanner
-│ 696│ websocat                         │ 663│ websocat
-│ 697│ wego                             │ 664│ wego
-│ 698│-wget                             │    │
-│ 699│ wireguard-go                     │ 665│ wireguard-go
-│ 700│ wireguard-rs                     │ 666│ wireguard-rs
-│ 701│ wireproxy                        │ 667│ wireproxy
+│ 602│ subxtract                        │ 583│ subxtract
+│ 603│ sudo-rs                          │ 584│ sudo-rs
+│ 604│ sunbeam                          │ 585│ sunbeam
+│ 605│-supercronic                      │    │
+│ 606│ supervisord                      │ 586│ supervisord
+│ 607│ surf                             │ 587│ surf
+│ 608│ svg-hush                         │ 588│ svg-hush
+│ 609│ syncat                           │ 589│ syncat
+│ 610│ syncthing                        │ 590│ syncthing
+│ 611│-sysbox-fs                        │    │
+│ 612│-sysbox-mgr                       │    │
+│ 613│-sysbox-runc                      │    │
+│ 614│ sysinfo-collector                │ 591│ sysinfo-collector
+│ 615│ sysstat                          │ 592│ sysstat
+│ 616│ system-info-collector            │ 593│ system-info-collector
+│ 645│ traefik                          │ 622│ traefik
+│ 646│ trip                             │ 623│ trip
+│ 647│ trufflehog                       │ 624│ trufflehog
+│ 648│-trurl                            │    │
+│ 649│ try                              │ 625│ try
+│ 650│ tty2web                          │ 626│ tty2web
+│ 651│ ttyd                             │ 627│ ttyd
+│ 652│ ttyrec2ansi                      │ 628│ ttyrec2ansi
+│ 653│-tuiarchiver                      │    │
+│ 654│ tut                              │ 629│ tut
+│ 655│-twingate-client                  │    │
+│ 656│-twingate-connector               │    │
+│ 657│-twingate-connector-staticx       │    │
+│ 658│-twingate-connectorctl            │    │
+│ 659│-twingate-notifier                │    │
+│ 660│ txeh                             │ 630│ txeh
+│ 661│ tz                               │ 631│ tz
+│ 662│ u-root                           │ 632│ u-root
+│ 665│ uncover                          │ 635│ uncover
+│ 666│ unf                              │ 636│ unf
+│ 667│ unfurl                           │ 637│ unfurl
+│ 668│-unix2dos                         │    │
+│ 669│-unix2mac                         │    │
+│ 670│ upx                              │ 638│ upx
+│ 671│ usql                             │ 639│ usql
+│ 672│ v2raya                           │ 640│ v2raya
+│ 673│-v6disk                           │    │
+│ 674│ v6run                            │ 641│ v6run
+│ 675│ validtoml                        │ 642│ validtoml
+│ 676│ vegeta                           │ 643│ vegeta
+│ 683│ volta                            │ 650│ volta
+│ 684│ vopono                           │ 651│ vopono
+│ 685│ vpnkit                           │ 652│ vpnkit
+│ 686│-vproxy                           │    │
+│ 687│ vtm                              │ 653│ vtm
+│ 688│ vultr-cli                        │ 654│ vultr-cli
+│ 689│ wadl-dumper                      │ 655│ wadl-dumper
+│ 696│ web-cache-vulnerability-scanner  │ 662│ web-cache-vulnerability-scanner
+│ 697│ websocat                         │ 663│ websocat
+│ 698│ wego                             │ 664│ wego
+│ 699│-wget                             │    │
+│ 700│ wireguard-go                     │ 665│ wireguard-go
+│ 701│ wireguard-rs                     │ 666│ wireguard-rs
+│ 702│ wireproxy                        │ 667│ wireproxy
 
