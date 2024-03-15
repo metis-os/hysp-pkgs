@@ -1,0 +1,26 @@
+[bin]
+name = "dagu"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dagu"
+description = "Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems."
+author = "dagu-dev"
+repo = "https://github.com/dagu-dev/dagu"
+stars = "1103"
+version = "v1.12.10"
+updated = "2024-03-14T01:54:45Z"
+size = "26.87 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/dagu"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["dagu"]
+requires = []
+
+[package.metadata]
+keywords = ["automation","continuous-delivery","cron","dag-scheduling","devops-pipeline","directed-acyclic-graph","golang","scheduler","task-runner","task-scheduler","workflow","workflow-automation","workflow-engine","workflow-management","workflow-scheduler","workflow-tool"]
+categories = ["Utilities"]
