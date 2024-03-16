@@ -1,0 +1,26 @@
+[bin]
+name = "zt-encodings"
+
+[package]
+architecture = "aarch64_arm64"
+name = "zt-encodings"
+description = "z-tokens -- random tokens generation and related tools"
+author = "volution"
+repo = "https://github.com/volution/z-tokens"
+stars = "72"
+version = "v0.2.1"
+updated = "null"
+size = "492.6 kB"
+bsum = "5da84d2582a07b5119d0687e5a3bf3bb54614c0efe3430422c4f8afeb1b9a15d"
+sha = "275d146e38dfc9d0ca1bc7fe297cd185f9b6062facc42a37f69f4cf38e119dd1"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/zt-encodings"
+language = "Rust"
+license = "null"
+
+[package.conditions]
+conflicts  = ["zt-encodings"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","password","password-generator","pwgen","random","rust"]
+categories = ["Utilities"]

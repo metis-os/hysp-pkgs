@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-uchroot"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xbps-uchroot"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "732"
+version = "0.59.2"
+updated = "null"
+size = "4.55 MB"
+bsum = "e0ed4c22b6a963924bb2b233c125f112478981aefae496c19768e2a0e346918f"
+sha = "c7a80fcc77d5dd1610c2077a45f7af1de5ee4c96d7e94d2036c753b17a138afe"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/xbps-uchroot"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-uchroot"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

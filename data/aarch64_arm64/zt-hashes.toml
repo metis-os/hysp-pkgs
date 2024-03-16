@@ -1,0 +1,26 @@
+[bin]
+name = "zt-hashes"
+
+[package]
+architecture = "aarch64_arm64"
+name = "zt-hashes"
+description = "z-tokens -- random tokens generation and related tools"
+author = "volution"
+repo = "https://github.com/volution/z-tokens"
+stars = "72"
+version = "v0.2.1"
+updated = "null"
+size = "702.49 kB"
+bsum = "4ee1f5145420509d1553bef3a5376464ff722b8aebc2f3e15cc6c1351d900cdf"
+sha = "59726a8fdd3997eef3c379d1e287b232bd7502c94c1aee85bf56d4215b56f368"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/zt-hashes"
+language = "Rust"
+license = "null"
+
+[package.conditions]
+conflicts  = ["zt-hashes"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","password","password-generator","pwgen","random","rust"]
+categories = ["Utilities"]

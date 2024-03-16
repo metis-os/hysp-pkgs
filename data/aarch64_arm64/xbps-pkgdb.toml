@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-pkgdb"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xbps-pkgdb"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "732"
+version = "0.59.2"
+updated = "null"
+size = "4.55 MB"
+bsum = "8d852aef245526cf8526e163ebf72b076e15e84dcbbe5051ae8bca64373b6d88"
+sha = "e672a3cd5c5cca67e8215388909ca773e21519bca98afec962379fe4019b9355"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/xbps-pkgdb"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-pkgdb"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

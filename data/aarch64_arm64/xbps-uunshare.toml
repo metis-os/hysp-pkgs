@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-uunshare"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xbps-uunshare"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "732"
+version = "0.59.2"
+updated = "null"
+size = "4.55 MB"
+bsum = "2649a59848e29048a9d0c7e78696743d8a849cb608e0ce7ae07aed346a7133ea"
+sha = "4b6b650c85dbb76fcac5fd4b09c19ae5b00b6ed3d922bee841cb12e604647f9a"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/xbps-uunshare"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-uunshare"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

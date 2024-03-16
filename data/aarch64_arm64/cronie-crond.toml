@@ -1,0 +1,26 @@
+[bin]
+name = "cronie-crond"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cronie-crond"
+description = "Cronie cron daemon project"
+author = "cronie-crond"
+repo = "https://github.com/cronie-crond/cronie"
+stars = "436"
+version = "cronie-1.7.1"
+updated = "2024-01-12T10:46:11Z"
+size = "111.12 kB"
+bsum = "ad8f095d2133c2625f8c1c7377caab45881cd6c9607ea3787f5f2edce0021bf3"
+sha = "330b93f72b6f169f33dab2e8a7d414ab5351abb71f89042abc29ea6feca382e4"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cronie-crond"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["cronie-crond"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

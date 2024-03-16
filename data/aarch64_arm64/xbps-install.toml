@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-install"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xbps-install"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "732"
+version = "0.59.2"
+updated = "null"
+size = "4.68 MB"
+bsum = "447b546b37821545d6792ea1c30b6214523ad33c04b55f15bf3b1208cc9db987"
+sha = "373d8a515e461c981aabfeb18023d9aca72124c8473fb0df18176434b02e401a"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/xbps-install"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-install"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

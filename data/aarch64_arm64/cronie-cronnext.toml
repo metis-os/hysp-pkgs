@@ -1,0 +1,26 @@
+[bin]
+name = "cronie-cronnext"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cronie-cronnext"
+description = "Cronie cron daemon project"
+author = "cronie-crond"
+repo = "https://github.com/cronie-crond/cronie"
+stars = "436"
+version = "cronie-1.7.1"
+updated = "2024-01-12T10:46:11Z"
+size = "80.06 kB"
+bsum = "755ce94e4287b3ac5708ce17b021c80a9b50a9ad21ecdffb4bd02d62cbb05235"
+sha = "90e979d1cb8cd87ae29faff67bf1f0cc1cbe75ab7905342865ea5bff9c4194ec"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cronie-cronnext"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["cronie-cronnext"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

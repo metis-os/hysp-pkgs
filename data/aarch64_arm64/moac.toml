@@ -1,0 +1,26 @@
+[bin]
+name = "moac"
+
+[package]
+architecture = "aarch64_arm64"
+name = "moac"
+description = "Generate passwords and analyze their strength given physical limits to computation"
+author = "Seirdy"
+repo = "https://github.com/Seirdy/moac"
+stars = "19"
+version = "v2.0.2"
+updated = "2021-10-05T05:52:25Z"
+size = "1.52 MB"
+bsum = "5dea8a52fc761e4ba1b444e380847f119fb52d475b9261fd9d99e5a2291d924e"
+sha = "5442e119a55ffb6eaa82ec54ea47eea1bb6a1d60c001ff4f3e54e4580f3dd229"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/moac"
+language = "Go"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["moac"]
+requires = []
+
+[package.metadata]
+keywords = ["brute-force","entropy","password","password-generator","physics","security"]
+categories = ["Utilities"]
