@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-alternatives"
+
+[package]
+architecture = "x86_64"
+name = "xbps-alternatives"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "731"
+version = "0.59.2"
+updated = "null"
+size = "5.64 MB"
+bsum = "5f780cd7adf7116705287a70e5b0da32e054625e5aae9bbf5ad00571e27f3a9f"
+sha = "8e3f81f2a1cfd7c0c3e4cc9fb5d12d20ebbafda4a466186c9eba80437482612c"
+source = "https://bin.ajam.dev/x86_64_Linux/xbps-alternatives"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-alternatives"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

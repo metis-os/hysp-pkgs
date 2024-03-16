@@ -1,0 +1,26 @@
+[bin]
+name = "z-tokens"
+
+[package]
+architecture = "x86_64"
+name = "z-tokens"
+description = "z-tokens -- random tokens generation and related tools"
+author = "volution"
+repo = "https://github.com/volution/z-tokens"
+stars = "72"
+version = "v0.2.1"
+updated = "null"
+size = "7.11 MB"
+bsum = "2af9a93634472f517bf4a9ca685f933771f4427a9c2074be1e6fccb20cdb7b8d"
+sha = "d117bb808e4fa73d3e63d860e0597acb213f400f15693bc8aa76dd424330998c"
+source = "https://bin.ajam.dev/x86_64_Linux/z-tokens"
+language = "Rust"
+license = "null"
+
+[package.conditions]
+conflicts  = ["z-tokens"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","password","password-generator","pwgen","random","rust"]
+categories = ["Utilities"]

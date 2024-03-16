@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-query"
+
+[package]
+architecture = "x86_64"
+name = "xbps-query"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "731"
+version = "0.59.2"
+updated = "null"
+size = "5.69 MB"
+bsum = "525ea5039937f345cd4f8fa7227265f63a45f704cc7a98e12e4bee3be0f4f20b"
+sha = "21858c4fceec84371d7723edb0dd6f573e5baa0866b48898359cd5e185be14c7"
+source = "https://bin.ajam.dev/x86_64_Linux/xbps-query"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-query"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

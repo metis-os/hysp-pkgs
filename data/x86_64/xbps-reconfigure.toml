@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-reconfigure"
+
+[package]
+architecture = "x86_64"
+name = "xbps-reconfigure"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "731"
+version = "0.59.2"
+updated = "null"
+size = "5.64 MB"
+bsum = "3bffb879d4fcbf5ba7369e0ef242fcbb9bd1290483e3d023eec0df512672574f"
+sha = "0175fd16e1295684ef023179b79913d81319381c11cdd4749d9b19ec4a355a5b"
+source = "https://bin.ajam.dev/x86_64_Linux/xbps-reconfigure"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-reconfigure"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-fbulk"
+
+[package]
+architecture = "x86_64"
+name = "xbps-fbulk"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "731"
+version = "0.59.2"
+updated = "null"
+size = "5.63 MB"
+bsum = "a661195fc6f99486ba86ac1a8db835068b5c835c0fab90634fcc368cce71c257"
+sha = "5a3549478f1c3f9664c4fabd5c239de3a6a875e98eb809cea31a6564d58c6517"
+source = "https://bin.ajam.dev/x86_64_Linux/xbps-fbulk"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-fbulk"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

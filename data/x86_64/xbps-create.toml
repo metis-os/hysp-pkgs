@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-create"
+
+[package]
+architecture = "x86_64"
+name = "xbps-create"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "731"
+version = "0.59.2"
+updated = "null"
+size = "6.4 MB"
+bsum = "6f7b38f977183ffb663a94f12a9c5e7e9d7a5fbc1fe5e02e6744eee21b492702"
+sha = "c7a91393dc773321f206c2c64f06c350703f52e084617fe70c0c626d68de4466"
+source = "https://bin.ajam.dev/x86_64_Linux/xbps-create"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-create"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

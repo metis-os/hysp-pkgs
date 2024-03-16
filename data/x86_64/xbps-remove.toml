@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-remove"
+
+[package]
+architecture = "x86_64"
+name = "xbps-remove"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "731"
+version = "0.59.2"
+updated = "null"
+size = "5.78 MB"
+bsum = "f36c539e225fb5f6a9be42fd129fbea2ce0063b8afd3aacacc15cb2107a3a561"
+sha = "8063ec78af687c755534f59b8542a9907256d4d33ffbf7e246aca5660d3d408e"
+source = "https://bin.ajam.dev/x86_64_Linux/xbps-remove"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-remove"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

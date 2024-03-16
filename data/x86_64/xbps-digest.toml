@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-digest"
+
+[package]
+architecture = "x86_64"
+name = "xbps-digest"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "731"
+version = "0.59.2"
+updated = "null"
+size = "5.62 MB"
+bsum = "b6c1882c7212e40d9f80b1e4bd06ff0591c24b1c18256a0838ad89b0d5df0428"
+sha = "c89ca2b2c53f0c810c06771c478f4b49ded0cf6338f8242139c07d31ce3944dc"
+source = "https://bin.ajam.dev/x86_64_Linux/xbps-digest"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-digest"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]

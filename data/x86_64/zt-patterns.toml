@@ -1,0 +1,26 @@
+[bin]
+name = "zt-patterns"
+
+[package]
+architecture = "x86_64"
+name = "zt-patterns"
+description = "z-tokens -- random tokens generation and related tools"
+author = "volution"
+repo = "https://github.com/volution/z-tokens"
+stars = "72"
+version = "v0.2.1"
+updated = "null"
+size = "4.91 MB"
+bsum = "39f7c3337bc5a0498b3d18e5cac582d9dc0145056308f7e84b9a64bd7fb0bc39"
+sha = "c0840e2097b53fdd3b1d64fb54de6f3edf092bc91651d9a30ad913cbbbf45ebf"
+source = "https://bin.ajam.dev/x86_64_Linux/zt-patterns"
+language = "Rust"
+license = "null"
+
+[package.conditions]
+conflicts  = ["zt-patterns"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","password","password-generator","pwgen","random","rust"]
+categories = ["Utilities"]
