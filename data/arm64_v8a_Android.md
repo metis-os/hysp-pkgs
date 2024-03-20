@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 23162
+- **Stars:** 23164
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -242,7 +242,7 @@
 - **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - **Author:** PaulJuliusMartinez
 - **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
-- **Stars:** 4429
+- **Stars:** 4430
 - **Version:** v0.9.0
 - **Updated:** 2023-07-17T02:51:34Z
 - **Size:** 1.83 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15855
+- **Stars:** 15856
 - **Version:** v1.62.0
 - **Updated:** 2024-03-13T15:11:12Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15855
+- **Stars:** 15856
 - **Version:** v1.62.0
 - **Updated:** 2024-03-13T15:11:12Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15855
+- **Stars:** 15856
 - **Version:** v1.62.0
 - **Updated:** 2024-03-13T15:11:12Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15855
+- **Stars:** 15856
 - **Version:** v1.62.0
 - **Updated:** 2024-03-13T15:11:12Z
 - **Size:** 21.67 MB
