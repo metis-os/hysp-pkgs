@@ -1,0 +1,26 @@
+[bin]
+name = "darkhttpd"
+
+[package]
+architecture = "x86_64"
+name = "darkhttpd"
+description = "When you need a web server in a hurry."
+author = "emikulic"
+repo = "https://github.com/emikulic/darkhttpd"
+stars = "977"
+version = "v1.16"
+updated = "2024-02-28T22:47:14Z"
+size = "94.01 kB"
+bsum = "c2a7a43df6316285112d9f36ee69506f1c6b3cd359e1337ff3249ee209dc8bd9"
+sha = "9dcd268f495f564a33691b06797c48aadc0825fd252c8d88a6349cc7cd776f53"
+source = "https://bin.ajam.dev/x86_64_Linux/darkhttpd"
+language = "C"
+license = "ISC License"
+
+[package.conditions]
+conflicts  = ["darkhttpd"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
