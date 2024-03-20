@@ -17,6 +17,7 @@
 │ 440│-nping                            │    │
 │ 441│-nrich                            │    │
 │ 478│-procan                           │    │
+│ 483│-pspy                             │    │
 │ 506│-rekor                            │    │
 │ 582│-socat                            │    │
 │ 607│-stress-ng                        │    │
