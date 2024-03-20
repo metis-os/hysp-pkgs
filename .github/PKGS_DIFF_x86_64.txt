@@ -1,22 +1,14 @@
 │ 57 │-bombadillo                       │    │
-│ 63 │-broot                            │    │
 │ 79 │-certwatcher                      │    │
-│ 92 │-cherrybomb                       │    │
 │ 113│-cowsay                           │    │
 │ 114│-cowthink                         │    │
 │ 121│-cron                             │    │
 │ 125│-crontab                          │    │
-│ 139│-darkhttpd                        │    │
-│ 140│-dasel                            │    │
 │ 165│-dos2unix                         │    │
 │ 221│-filan                            │    │
 │ 282│-gotld                            │    │
-│ 350│-kalker                           │    │
-│ 352│-katana                           │    │
-│ 360│-ksubdomain_staticx               │    │
 │ 379│-mac2unix                         │    │
 │ 402│-mkpasswd                         │    │
-│ 414│-naabu_staticx                    │    │
 │ 417│-ncat                             │    │
 │ 418│-ncdu                             │    │
 │ 423│-netstat                          │    │
