@@ -34,7 +34,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 15
+- **Stars:** 16
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.76 MB
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6660
+- **Stars:** 6659
 - **Version:** v1.6.0
 - **Updated:** 2024-03-06T19:33:45Z
 - **Size:** 42.14 MB
@@ -306,7 +306,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 15
+- **Stars:** 16
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.61 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15888
+- **Stars:** 15889
 - **Version:** v1.62.0
 - **Updated:** 2024-03-13T15:11:12Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15888
+- **Stars:** 15889
 - **Version:** v1.62.0
 - **Updated:** 2024-03-13T15:11:12Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15888
+- **Stars:** 15889
 - **Version:** v1.62.0
 - **Updated:** 2024-03-13T15:11:12Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 15888
+- **Stars:** 15889
 - **Version:** v1.62.0
 - **Updated:** 2024-03-13T15:11:12Z
 - **Size:** 21.67 MB
