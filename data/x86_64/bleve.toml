@@ -4,7 +4,7 @@ name = "bleve"
 [package]
 architecture = "x86_64"
 name = "bleve"
-description = "A modern text indexing library for go"
+description = "A modern text/numeric/geo-spatial/vector indexing library for go"
 author = "blevesearch"
 repo = "https://github.com/blevesearch/bleve"
 stars = "9546"
