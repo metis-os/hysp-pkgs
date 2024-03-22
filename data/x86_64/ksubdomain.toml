@@ -1,0 +1,26 @@
+[bin]
+name = "ksubdomain"
+
+[package]
+architecture = "x86_64"
+name = "ksubdomain"
+description = "Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second"
+author = "boy-hack"
+repo = "https://github.com/boy-hack/ksubdomain"
+stars = "785"
+version = "v1.9.5"
+updated = "2022-03-31T05:47:14Z"
+size = "9.37 MB"
+bsum = "1e342cab16ae9874ffc2f866aa58e81d9b8232eeba495906225a967b65b874e2"
+sha = "468a74aa2ef30dc8b6cc9e222435613d7d6bf3995c9e09a771bbf8e3b4106488"
+source = "https://bin.ajam.dev/x86_64_Linux/ksubdomain"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ksubdomain"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","hacker-tools","subdomain"]
+categories = ["Utilities"]
