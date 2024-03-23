@@ -1,24 +1,24 @@
 [bin]
-name = "cfssl-bundle"
+name = "cfssl-scan"
 
 [package]
 architecture = "aarch64_arm64"
-name = "cfssl-bundle"
+name = "cfssl-scan"
 description = "CFSSL: Cloudflare's PKI and TLS toolkit"
 author = "cloudflare"
 repo = "https://github.com/cloudflare/cfssl"
 stars = "8392"
 version = "v1.6.5"
 updated = "2024-03-05T17:40:06Z"
-size = "8.26 MB"
-bsum = "662f1b269b9d2d721a06cac2a91e25b35c3bc2c81f4d57a716e9cad79235f4c8"
-sha = "3061a0cfcab3eb756375f5edc2bba8ede6cdd8c5a22a0050efdbd19e432db3ac"
-source = "https://bin.ajam.dev/aarch64_arm64_Linux/cfssl-bundle"
+size = "8.53 MB"
+bsum = "0dd9572038345dbb2d29ca57fef59b062b9d81e8497b924655bb687445483c09"
+sha = "b9a05e981a44ead4fbee5708cd0a3ded6cb566c4141b06e2cdb09822e7f2d27e"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cfssl-scan"
 language = "Go"
 license = "BSD 2-Clause Simplified License"
 
 [package.conditions]
-conflicts  = ["cfssl-bundle"]
+conflicts  = ["cfssl-scan"]
 requires = []
 
 [package.metadata]

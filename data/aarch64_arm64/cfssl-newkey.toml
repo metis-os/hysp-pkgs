@@ -1,24 +1,24 @@
 [bin]
-name = "cfssl-bundle"
+name = "cfssl-newkey"
 
 [package]
 architecture = "aarch64_arm64"
-name = "cfssl-bundle"
+name = "cfssl-newkey"
 description = "CFSSL: Cloudflare's PKI and TLS toolkit"
 author = "cloudflare"
 repo = "https://github.com/cloudflare/cfssl"
 stars = "8392"
 version = "v1.6.5"
 updated = "2024-03-05T17:40:06Z"
-size = "8.26 MB"
-bsum = "662f1b269b9d2d721a06cac2a91e25b35c3bc2c81f4d57a716e9cad79235f4c8"
-sha = "3061a0cfcab3eb756375f5edc2bba8ede6cdd8c5a22a0050efdbd19e432db3ac"
-source = "https://bin.ajam.dev/aarch64_arm64_Linux/cfssl-bundle"
+size = "9.45 MB"
+bsum = "2348c1754600deff9d159c89027d6a045ae3326e5821f86f893cb7f633fe8a92"
+sha = "4939a05b425c8caca771fe76c7fce2028d1ebfdfab8299fe68fbea2b6605e060"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cfssl-newkey"
 language = "Go"
 license = "BSD 2-Clause Simplified License"
 
 [package.conditions]
-conflicts  = ["cfssl-bundle"]
+conflicts  = ["cfssl-newkey"]
 requires = []
 
 [package.metadata]
