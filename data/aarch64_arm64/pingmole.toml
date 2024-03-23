@@ -1,0 +1,26 @@
+[bin]
+name = "pingmole"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pingmole"
+description = "CLI that helps to filter Mullvad servers and pick the closest one."
+author = "norskeld"
+repo = "https://github.com/norskeld/pingmole"
+stars = "4"
+version = "null"
+updated = ""
+size = "6.97 MB"
+bsum = "a862f465b68c9efa4e59a7f25bba38658c9c9dfa35a7e0d8233587ed55a5e528"
+sha = "8bb531fb839dbacf69d7dab51629d6ff9f8223e1d5a56c59ec75625589560285"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/pingmole"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pingmole"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","mullvad","rust"]
+categories = ["Utilities"]

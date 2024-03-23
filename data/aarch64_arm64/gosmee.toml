@@ -1,0 +1,26 @@
+[bin]
+name = "gosmee"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gosmee"
+description = "Command line server and client for webhooks deliveries (and https://smee.io)"
+author = "chmouel"
+repo = "https://github.com/chmouel/gosmee"
+stars = "28"
+version = "v0.21.0"
+updated = "2024-01-18T10:23:57Z"
+size = "10.79 MB"
+bsum = "c931aa58b937d9e5f577a9c9268dd41d79f9f6fa57b1e42c55d08826afbfc71f"
+sha = "14a9405cd2df39419d0449dd66b473a1ab1bd7ba577ab033d844acb331297191"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gosmee"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gosmee"]
+requires = []
+
+[package.metadata]
+keywords = ["developer-tools","forwarder","golang","webhooks-catcher"]
+categories = ["Utilities"]
