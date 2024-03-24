@@ -6,7 +6,6 @@
 │ 125│-crontab                          │    │
 │ 165│-dos2unix                         │    │
 │ 221│-filan                            │    │
-│ 262│-gitpod                           │    │
 │ 283│-gotld                            │    │
 │ 380│-mac2unix                         │    │
 │ 403│-mkpasswd                         │    │
