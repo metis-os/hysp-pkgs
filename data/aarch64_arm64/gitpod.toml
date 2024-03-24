@@ -1,0 +1,26 @@
+[bin]
+name = "gitpod"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gitpod"
+description = "The developer platform for on-demand cloud development environments to create software faster and more securely."
+author = "gitpod-io"
+repo = "https://github.com/gitpod-io/gitpod"
+stars = "12172"
+version = "2022.11.3"
+updated = "2023-06-05T12:24:19Z"
+size = "27.04 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gitpod"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["gitpod"]
+requires = []
+
+[package.metadata]
+keywords = ["cde","cloud","cloud-development","cloud-development-environments","cloud-ide","code-review","dev-environment","developer-environment","developer-experience","disposable","editor","ephemeral","gitpod","ide","jetbrains","prebuilds","remote-development","remote-devtools","vscode"]
+categories = ["Utilities"]
