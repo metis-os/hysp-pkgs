@@ -1,9 +1,9 @@
 [bin]
-name = "gitpod-cli"
+name = "gp"
 
 [package]
 architecture = "x86_64"
-name = "gitpod-cli"
+name = "gp"
 description = "The developer platform for on-demand cloud development environments to create software faster and more securely."
 author = "gitpod-io"
 repo = "https://github.com/gitpod-io/gitpod"
@@ -13,12 +13,12 @@ updated = "2023-06-05T12:24:19Z"
 size = "17.27 MB"
 bsum = "02479d92b2b61e99effa4ee78f176cc05eec4e4161fc395015efa54bc5f00718"
 sha = "10f35ab53020da9f1c0663112178448f2bb98cbc7879894662c6888c21c1fbf9"
-source = "https://bin.ajam.dev/x86_64_Linux/gitpod-cli"
+source = "https://bin.ajam.dev/x86_64_Linux/gp"
 language = "Go"
 license = "GNU Affero General Public License v3.0"
 
 [package.conditions]
-conflicts  = ["gitpod-cli"]
+conflicts  = ["gp"]
 requires = []
 
 [package.metadata]
