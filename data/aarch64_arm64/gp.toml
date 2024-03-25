@@ -1,24 +1,24 @@
 [bin]
-name = "gitpod"
+name = "gp"
 
 [package]
 architecture = "aarch64_arm64"
-name = "gitpod"
+name = "gp"
 description = "The developer platform for on-demand cloud development environments to create software faster and more securely."
 author = "gitpod-io"
 repo = "https://github.com/gitpod-io/gitpod"
 stars = "12178"
 version = "2022.11.3"
 updated = "2023-06-05T12:24:19Z"
-size = "18.38 MB"
-bsum = "9b69fda172aa6169a48c128295a5188fde0c3490b9007e4b8688fbdef763368e"
-sha = "070a19ebd1abc7ed6e2814a59b0b7654b94717dc2f28f02d713610b648d81ff8"
-source = "https://bin.ajam.dev/aarch64_arm64_Linux/gitpod"
+size = "16.81 MB"
+bsum = "0e332c6bc6acfc3e4e38966aa702aae3d16de9aeeeb03e4a1bcbabc9ccc1809e"
+sha = "9a862f12cb17487114168e27b7ff9ea6291ccf3cfec87c35e300781cd19a2fad"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gp"
 language = "Go"
 license = "GNU Affero General Public License v3.0"
 
 [package.conditions]
-conflicts  = ["gitpod"]
+conflicts  = ["gp"]
 requires = []
 
 [package.metadata]
