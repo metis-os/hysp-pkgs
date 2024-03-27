@@ -1,0 +1,26 @@
+[bin]
+name = "numastat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "numastat"
+description = "NUMA support for Linux"
+author = "numactl"
+repo = "https://github.com/numactl/numactl"
+stars = "376"
+version = "v2.0.18"
+updated = "2024-02-07T07:23:41Z"
+size = "133.8 kB"
+bsum = "4efae363f2b91614b1e8739efc09a86a35585d1988e5584848706480fa2cde06"
+sha = "0a38a764269bd27db98d3f3f3d146f388a5938f9a970874cf23968379a9876a8"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/numastat"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["numastat"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

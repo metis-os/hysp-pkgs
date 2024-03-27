@@ -1,0 +1,26 @@
+[bin]
+name = "numademo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "numademo"
+description = "NUMA support for Linux"
+author = "numactl"
+repo = "https://github.com/numactl/numactl"
+stars = "376"
+version = "v2.0.18"
+updated = "2024-02-07T07:23:41Z"
+size = "198.7 kB"
+bsum = "00968687990e740d27264b61a40fdf43d977082172aa99cdfc95a1e4ed642603"
+sha = "e4c806d4e1b2d5bb372b1f353267b786620e6e429853e985a7e968b7da2b5158"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/numademo"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["numademo"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

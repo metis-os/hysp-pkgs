@@ -1,0 +1,26 @@
+[bin]
+name = "daytona"
+
+[package]
+architecture = "aarch64_arm64"
+name = "daytona"
+description = "The Open Source Dev Environment Manager."
+author = "daytonaio"
+repo = "https://github.com/daytonaio/daytona"
+stars = "4861"
+version = "v0.8.2"
+updated = "2024-03-26T15:49:17Z"
+size = "76.66 MB"
+bsum = "3de152fd60cb21940b50b38a9456fbf0d8d22530eb4e97482fc8087dd63ac200"
+sha = "17105e56592af064ec07c58956d0ad73cc52c3506f151bca14260814a6803168"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/daytona"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["daytona"]
+requires = []
+
+[package.metadata]
+keywords = ["dev-env","dev-environment-setup","developer-tools","development-environment","development-environment-manager"]
+categories = ["Utilities"]

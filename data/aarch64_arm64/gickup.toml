@@ -1,0 +1,26 @@
+[bin]
+name = "gickup"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gickup"
+description = "null"
+author = "cooperspencer"
+repo = "https://github.com/cooperspencer/gickup"
+stars = "863"
+version = "v0.10.28"
+updated = "2024-02-27T08:10:09Z"
+size = "20 MB"
+bsum = "ae01ce786b02c1152e27980bd3a9c555cb2677c1b45d0b52302f3b6d96d50d33"
+sha = "e6c44bc3b5e9a972886b09f84b69f813ff6485d3739e10a598ab14545b85544a"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gickup"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gickup"]
+requires = []
+
+[package.metadata]
+keywords = ["backup","git"]
+categories = ["Utilities"]

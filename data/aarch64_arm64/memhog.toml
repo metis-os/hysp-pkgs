@@ -1,0 +1,26 @@
+[bin]
+name = "memhog"
+
+[package]
+architecture = "aarch64_arm64"
+name = "memhog"
+description = "NUMA support for Linux"
+author = "numactl"
+repo = "https://github.com/numactl/numactl"
+stars = "376"
+version = "v2.0.18"
+updated = "2024-02-07T07:23:41Z"
+size = "198.62 kB"
+bsum = "d139c600c78fdee8086b2dff9e725512891a31ef1e80e72d1647a28c920eef15"
+sha = "9276434df520552ebdc1f5d244bd44d6946c9ddfe7943c725f2668a5085ec6f7"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/memhog"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["memhog"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

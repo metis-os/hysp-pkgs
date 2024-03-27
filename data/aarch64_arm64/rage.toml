@@ -1,0 +1,26 @@
+[bin]
+name = "rage"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rage"
+description = "A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability."
+author = "str4d"
+repo = "https://github.com/str4d/rage"
+stars = "2268"
+version = "v0.10.0"
+updated = "2024-02-04T22:50:41Z"
+size = "3.18 MB"
+bsum = "1cadfa697fcbfdcc3364ddb375031fc1d8a332d8a577aa8877e36b7fb017b959"
+sha = "c919f92a887b50461f3f127874c2d9a83c417a4e537d5c0f4a1979bfce188e51"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/rage"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["rage"]
+requires = []
+
+[package.metadata]
+keywords = ["age-encryption","cli","curve25519","encryption","rust","rust-library","scrypt","secure-by-default","unix-philosophy","yubikey","zero-configuration"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "cpud"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cpud"
+description = "cpu command in Go, inspired by the Plan 9 cpu command"
+author = "u-root"
+repo = "https://github.com/u-root/cpu"
+stars = "221"
+version = "null"
+updated = ""
+size = "4.22 MB"
+bsum = "06fb95d245bc7eef3e9d66d7d10c47b05d421d4b10bfb2bf48885e93c741137c"
+sha = "7920b7dfb25990e9d97778cfabe942712517ccc413985e2f4854063331bf7534"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cpud"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["cpud"]
+requires = []
+
+[package.metadata]
+keywords = ["cpu","golang","plan9"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "migspeed"
+
+[package]
+architecture = "aarch64_arm64"
+name = "migspeed"
+description = "NUMA support for Linux"
+author = "numactl"
+repo = "https://github.com/numactl/numactl"
+stars = "376"
+version = "v2.0.18"
+updated = "2024-02-07T07:23:41Z"
+size = "198.63 kB"
+bsum = "107f93b0a7b5c6ece84bc8d6179fdbb192c6fec0ebb35a9b14500c27151448e1"
+sha = "96d4de118ba16b144e7af3a6a049d69f96ae514d5ec0d878e6c0867cdd4c0917"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/migspeed"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["migspeed"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

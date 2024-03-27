@@ -1,0 +1,26 @@
+[bin]
+name = "xq"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xq"
+description = "Command-line XML and HTML beautifier and content extractor"
+author = "sibprogrammer"
+repo = "https://github.com/sibprogrammer/xq"
+stars = "740"
+version = "v1.2.4"
+updated = "2024-01-18T15:54:32Z"
+size = "7.61 MB"
+bsum = "c3c0ba7449580771a67a0596b5f9cfcd736e2a87fc554904d16e2925a583c5ff"
+sha = "d2c435088b95b7872e18a19c39ec1cf79bd3e5c918c6d6f0b95e308a1ae2aabe"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/xq"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["xq"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","formatter","golang","html","syntax-highlighting","terminal","xml","xpath"]
+categories = ["Utilities"]

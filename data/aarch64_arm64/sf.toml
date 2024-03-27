@@ -1,0 +1,26 @@
+[bin]
+name = "sf"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sf"
+description = "signature-based file format identification"
+author = "richardlehane"
+repo = "https://github.com/richardlehane/siegfried"
+stars = "206"
+version = "v1.11.0"
+updated = "2023-12-17T15:08:11Z"
+size = "6.86 MB"
+bsum = "e24fce801bae75cc21aa1a426bdb2679b7c61e9f7f68fae4bf9ce4636aeae728"
+sha = "5ced3a3fa7314fd173f8f65ccc0b455857f53ba8ab8b5e744ca5e6d8741baa79"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/sf"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["sf"]
+requires = []
+
+[package.metadata]
+keywords = ["code4lib","digital-preservation","format-identification","pronom"]
+categories = ["Utilities"]

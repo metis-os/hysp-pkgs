@@ -1,0 +1,26 @@
+[bin]
+name = "diffutils-rs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "diffutils-rs"
+description = "Dropped in replacement of diffutils in Rust"
+author = "uutils"
+repo = "https://github.com/uutils/diffutils"
+stars = "19"
+version = "v0.3.0"
+updated = "2024-01-26T16:25:19Z"
+size = "433.13 kB"
+bsum = "4d6a8b4009a44059f32a8e5b933e03b171c95a4b04fb3fb1bdcc61738475544e"
+sha = "a2bb0277153375c43400ece36856abfde0f0d2d004f2f69cae091e893a97ee6e"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/diffutils-rs"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["diffutils-rs"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

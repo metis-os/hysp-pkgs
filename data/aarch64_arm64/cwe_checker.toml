@@ -1,0 +1,26 @@
+[bin]
+name = "cwe_checker"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cwe_checker"
+description = "cwe_checker finds vulnerable patterns in binary executables"
+author = "fkie-cad"
+repo = "https://github.com/fkie-cad/cwe_checker"
+stars = "1040"
+version = "v0.8"
+updated = "2024-02-22T11:54:29Z"
+size = "4.52 MB"
+bsum = "f938ab636a55ed96008e64f9d16263462881d80547ba5e621abf432f4772f625"
+sha = "0fbbea8b5ad3b9b7dff0ecf75920d24927794f995d2b9f9bef0f3ccd249473b8"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cwe_checker"
+language = "Rust"
+license = "GNU Lesser General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["cwe_checker"]
+requires = []
+
+[package.metadata]
+keywords = ["binary-analysis","cwe","cwe-checker","ghidra","program-analysis","reverse-engineering","security","security-scanner","static-analyzer","vulnerability-scanner"]
+categories = ["Utilities"]

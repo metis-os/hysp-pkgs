@@ -1,0 +1,26 @@
+[bin]
+name = "openapi-tui"
+
+[package]
+architecture = "aarch64_arm64"
+name = "openapi-tui"
+description = "Terminal UI to list, browse and run APIs defined with openapi spec."
+author = "zaghaghi"
+repo = "https://github.com/zaghaghi/openapi-tui"
+stars = "444"
+version = "0.6.1"
+updated = "2024-03-16T20:55:54Z"
+size = "11.39 MB"
+bsum = "85816c50a83f6b778757e97f607b0142346da12cadb55c7a3e6be85d4b07a93f"
+sha = "fd630eeb4ee3572f1e4832e09df74109a236d1fbf7483a013ea625ae9478e80b"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/openapi-tui"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["openapi-tui"]
+requires = []
+
+[package.metadata]
+keywords = ["openapi3","openapi31","ratatui-rs","rust-lang","tui"]
+categories = ["Utilities"]

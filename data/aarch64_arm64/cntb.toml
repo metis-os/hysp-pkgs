@@ -1,0 +1,26 @@
+[bin]
+name = "cntb"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cntb"
+description = "Contabo Command Line Interface"
+author = "contabo"
+repo = "https://github.com/contabo/cntb"
+stars = "157"
+version = "v1.4.10"
+updated = "2024-03-26T12:50:16Z"
+size = "12.55 MB"
+bsum = "d2b8154c374ce6f46d868ed4a966c7a1a0124962bc32716e61c082ce9b5ee03f"
+sha = "4cf44ea97a71aed41e6bdaa7a9b530f27ce37fbb3acc39b2d50602322e06c8ba"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cntb"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["cntb"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","cloud","command-line","command-line-interface","command-line-tool","commandline","contabo","contabo-cloud"]
+categories = ["Utilities"]

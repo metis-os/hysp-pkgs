@@ -1,0 +1,26 @@
+[bin]
+name = "headtail"
+
+[package]
+architecture = "aarch64_arm64"
+name = "headtail"
+description = "head and tail simultaneously"
+author = "CleanCut"
+repo = "https://github.com/CleanCut/headtail"
+stars = "42"
+version = "v0.3.2"
+updated = "2022-09-22T20:35:32Z"
+size = "1.8 MB"
+bsum = "a16f07168692851acb7fce4aadfcaca2a232a34c16cc71de85710b29f540b640"
+sha = "1bbe22e35dda5f8cf3dcf5d735f36e1fa56c2b8f5aa6e25230b3486bbd4d386e"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/headtail"
+language = "Rust"
+license = "null"
+
+[package.conditions]
+conflicts  = ["headtail"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

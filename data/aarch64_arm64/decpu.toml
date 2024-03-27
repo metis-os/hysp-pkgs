@@ -1,0 +1,26 @@
+[bin]
+name = "decpu"
+
+[package]
+architecture = "aarch64_arm64"
+name = "decpu"
+description = "cpu command in Go, inspired by the Plan 9 cpu command"
+author = "u-root"
+repo = "https://github.com/u-root/cpu"
+stars = "221"
+version = "null"
+updated = ""
+size = "5.32 MB"
+bsum = "9a9f61594ad066673e2c9741b3f2fc5ac3c7e19d8ad3b2db9918847eb9756279"
+sha = "44a6c8f4196521d7f25911e30b07a7d22de3584272b9b057c2b4da08914513f7"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/decpu"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["decpu"]
+requires = []
+
+[package.metadata]
+keywords = ["cpu","golang","plan9"]
+categories = ["Utilities"]

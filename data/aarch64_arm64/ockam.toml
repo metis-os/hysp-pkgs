@@ -1,0 +1,26 @@
+[bin]
+name = "ockam"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ockam"
+description = "Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale."
+author = "build-trust"
+repo = "https://github.com/build-trust/ockam"
+stars = "4324"
+version = "ockam_v0.118.0"
+updated = "2024-03-19T14:02:36Z"
+size = "46.91 MB"
+bsum = "7679124a274093f90b0320eac18338024d0d8c10cfd560dd03fe6d0e86f4014b"
+sha = "6a11627f6abc6a42714c8f4f7683970cf2aa11e7820803e98d48b1ba0b076807"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ockam"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ockam"]
+requires = []
+
+[package.metadata]
+keywords = ["authentication","authorization","credentials","distributed-systems","e2ee","encrypted-connections","encrypted-messages","encryption","end-to-end-encryption","identity","kafka","key-management","messaging","rust","security","snowflake","trust","zero-trust"]
+categories = ["Utilities"]
