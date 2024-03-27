@@ -1,0 +1,26 @@
+[bin]
+name = "numactl"
+
+[package]
+architecture = "x86_64"
+name = "numactl"
+description = "NUMA support for Linux"
+author = "numactl"
+repo = "https://github.com/numactl/numactl"
+stars = "376"
+version = "v2.0.18"
+updated = "2024-02-07T07:23:41Z"
+size = "170.97 kB"
+bsum = "61a54ba88fcc1c3093e982052f44616e86af4c843f77301b3344cdd9b6d9f7f3"
+sha = "4c4c320db0b2113871de4afce757172e6849a283e9e5f956343dad0d52eec351"
+source = "https://bin.ajam.dev/x86_64_Linux/numactl"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["numactl"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

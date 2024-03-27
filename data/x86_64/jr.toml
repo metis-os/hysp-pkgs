@@ -1,0 +1,26 @@
+[bin]
+name = "jr"
+
+[package]
+architecture = "x86_64"
+name = "jr"
+description = "JR: streaming quality random data from the command line"
+author = "ugol"
+repo = "https://github.com/ugol/jr"
+stars = "113"
+version = "v0.3.7"
+updated = "2024-02-15T15:51:18Z"
+size = "60.48 MB"
+bsum = "a78086f0445d437ad4ee4560030cc3b38a73bd70b7474e07f396202147650537"
+sha = "6f61ef390f7182d5ff8970c84286b2208d718c095e6f35e8471c66081fa6b0c7"
+source = "https://bin.ajam.dev/x86_64_Linux/jr"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jr"]
+requires = []
+
+[package.metadata]
+keywords = ["avro","datagen","json-schema","kafka","kafka-producer","mongodb","protobuf","random-generation","redis","schema-registry","template"]
+categories = ["Utilities"]

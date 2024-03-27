@@ -1,0 +1,26 @@
+[bin]
+name = "botsay"
+
+[package]
+architecture = "x86_64"
+name = "botsay"
+description = ":robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows"
+author = "xyproto"
+repo = "https://github.com/xyproto/botsay"
+stars = "26"
+version = "v1.3.0"
+updated = "2024-03-14T09:39:36Z"
+size = "1.55 MB"
+bsum = "501265d41193d2060073d067157ceea8739bf53fa42b41471e8dd9c4ca224d95"
+sha = "a3df32de62d9f9858f31d7d8729dec6dbdfba9084678a88e2880a38a2aadff3e"
+source = "https://bin.ajam.dev/x86_64_Linux/botsay"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["botsay"]
+requires = []
+
+[package.metadata]
+keywords = ["ascii-art","ci","command-line","cowsay","devops","devops-tools","rainbow","synthwave","terminal","utility"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ghfetch"
+
+[package]
+architecture = "x86_64"
+name = "ghfetch"
+description = ":octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch."
+author = "orangekame3"
+repo = "https://github.com/orangekame3/ghfetch"
+stars = "36"
+version = "v0.0.19"
+updated = "2023-10-10T10:20:17Z"
+size = "9.52 MB"
+bsum = "aea5b900425d45c1269300ad5e0bb37384f051c3092173a0f6341ed201db8d28"
+sha = "04f6cc2c81450f09cec89f3174d30d8ea1b6fbb19c783754b241b5426a213510"
+source = "https://bin.ajam.dev/x86_64_Linux/ghfetch"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ghfetch"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","github","github-profile","readme"]
+categories = ["Utilities"]

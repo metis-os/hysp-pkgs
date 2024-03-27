@@ -1,0 +1,26 @@
+[bin]
+name = "goodls"
+
+[package]
+architecture = "x86_64"
+name = "goodls"
+description = "This is a CLI tool to download shared files and folders from Google Drive."
+author = "tanaikech"
+repo = "https://github.com/tanaikech/goodls"
+stars = "428"
+version = "v2.0.5"
+updated = "2024-03-10T08:12:58Z"
+size = "13.28 MB"
+bsum = "5203f04c1461495af22d378d71c61781fba15a6c267b603b865ff404958b0c7d"
+sha = "2e469ccab1348a17a2544e0b4db09b2d3147f28ffac97bfb4b36e1858cc6061a"
+source = "https://bin.ajam.dev/x86_64_Linux/goodls"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["goodls"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","downloader","golang","google-drive","shared-file","shared-folders","terminal"]
+categories = ["Utilities"]

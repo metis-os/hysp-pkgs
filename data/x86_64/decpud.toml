@@ -1,0 +1,26 @@
+[bin]
+name = "decpud"
+
+[package]
+architecture = "x86_64"
+name = "decpud"
+description = "cpu command in Go, inspired by the Plan 9 cpu command"
+author = "u-root"
+repo = "https://github.com/u-root/cpu"
+stars = "221"
+version = "null"
+updated = ""
+size = "5.21 MB"
+bsum = "0b89dcd850fecb7049c73af145a50b45ecefe42a2c3e7ce054d5100f80208883"
+sha = "e17257ac65f2aa8b2bd9b34f31eac4805be4f6f5ec9eef7eccf47ab121a5bae1"
+source = "https://bin.ajam.dev/x86_64_Linux/decpud"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["decpud"]
+requires = []
+
+[package.metadata]
+keywords = ["cpu","golang","plan9"]
+categories = ["Utilities"]
