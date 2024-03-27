@@ -1,0 +1,26 @@
+[bin]
+name = "golinkfinder"
+
+[package]
+architecture = "x86_64"
+name = "golinkfinder"
+description = "A fast and minimal JS endpoint extractor"
+author = "0xsha"
+repo = "https://github.com/0xsha/GoLinkFinder"
+stars = "240"
+version = "null"
+updated = ""
+size = "5.49 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/golinkfinder"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["golinkfinder"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","endpoint-discovery","linkextractor","pentest-tool","pentesting","pentesting-tools"]
+categories = ["Utilities"]
