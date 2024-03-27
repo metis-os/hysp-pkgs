@@ -335,103 +335,89 @@
 │ 467│ nrp                              │ 449│ nrp
 │ 468│ nu                               │ 450│ nu
 │ 469│ nuclei                           │ 451│ nuclei
-│ 483│ ov                               │ 465│ ov
-│ 484│ overmind                         │ 466│ overmind
-│ 485│ p9cpu                            │ 467│ p9cpu
-│ 486│-p9cpud                           │    │
-│ 487│ passdetective                    │ 468│ passdetective
-│ 488│ pathbuster                       │ 469│ pathbuster
-│ 489│ pdfcpu                           │ 470│ pdfcpu
-│ 508│ presenterm                       │ 489│ presenterm
-│ 509│ pretender                        │ 490│ pretender
-│ 510│ prettyping                       │ 491│ prettyping
+│ 508│ presenterm                       │ 490│ presenterm
+│ 509│ pretender                        │ 491│ pretender
+│ 510│ prettyping                       │ 492│ prettyping
 │ 511│-procan                           │    │
-│ 512│ procs                            │ 492│ procs
-│ 513│ progress                         │ 493│ progress
-│ 514│ promtail                         │ 494│ promtail
-│ 538│ recollapse_staticx               │ 518│ recollapse_staticx
-│ 539│ redguard                         │ 519│ redguard
-│ 540│ redive                           │ 520│ redive
+│ 512│ procs                            │ 493│ procs
+│ 513│ progress                         │ 494│ progress
+│ 514│ promtail                         │ 495│ promtail
+│ 538│ recollapse_staticx               │ 519│ recollapse_staticx
+│ 539│ redguard                         │ 520│ redguard
+│ 540│ redive                           │ 521│ redive
 │ 541│-rekor                            │    │
-│ 542│ rekor-cli                        │ 521│ rekor-cli
-│ 543│ rekor-server                     │ 522│ rekor-server
-│ 544│ relic                            │ 523│ relic
-│ 615│ smenu                            │ 594│ smenu
-│ 616│ sn0int                           │ 595│ sn0int
-│ 617│ sns                              │ 596│ sns
+│ 542│ rekor-cli                        │ 522│ rekor-cli
+│ 543│ rekor-server                     │ 523│ rekor-server
+│ 544│ relic                            │ 524│ relic
+│ 615│ smenu                            │ 595│ smenu
+│ 616│ sn0int                           │ 596│ sn0int
+│ 617│ sns                              │ 597│ sns
 │ 618│-socat                            │    │
-│ 619│ soft-serve                       │ 597│ soft-serve
-│ 620│ sourcemapper                     │ 598│ sourcemapper
-│ 621│ speedtest-go                     │ 599│ speedtest-go
-│ 642│ stew                             │ 620│ stew
-│ 643│ strace                           │ 621│ strace
-│ 644│ stree                            │ 622│ stree
+│ 619│ soft-serve                       │ 598│ soft-serve
+│ 620│ sourcemapper                     │ 599│ sourcemapper
+│ 621│ speedtest-go                     │ 600│ speedtest-go
+│ 642│ stew                             │ 621│ stew
+│ 643│ strace                           │ 622│ strace
+│ 644│ stree                            │ 623│ stree
 │ 645│-stress-ng                        │    │
-│ 646│ sttr                             │ 623│ sttr
-│ 647│ stuffbin                         │ 624│ stuffbin
-│ 648│ su-rs                            │ 625│ su-rs
-│ 657│ svg-hush                         │ 634│ svg-hush
-│ 658│ syncat                           │ 635│ syncat
-│ 659│ syncthing                        │ 636│ syncthing
+│ 646│ sttr                             │ 624│ sttr
+│ 647│ stuffbin                         │ 625│ stuffbin
+│ 648│ su-rs                            │ 626│ su-rs
+│ 657│ svg-hush                         │ 635│ svg-hush
+│ 658│ syncat                           │ 636│ syncat
+│ 659│ syncthing                        │ 637│ syncthing
 │ 660│-sysbox-fs                        │    │
 │ 661│-sysbox-mgr                       │    │
 │ 662│-sysbox-runc                      │    │
-│ 663│ sysinfo-collector                │ 637│ sysinfo-collector
-│ 664│ sysstat                          │ 638│ sysstat
-│ 665│ system-info-collector            │ 639│ system-info-collector
-│ 694│ traefik                          │ 668│ traefik
-│ 695│ trip                             │ 669│ trip
-│ 696│ trufflehog                       │ 670│ trufflehog
+│ 663│ sysinfo-collector                │ 638│ sysinfo-collector
+│ 664│ sysstat                          │ 639│ sysstat
+│ 665│ system-info-collector            │ 640│ system-info-collector
+│ 694│ traefik                          │ 669│ traefik
+│ 695│ trip                             │ 670│ trip
+│ 696│ trufflehog                       │ 671│ trufflehog
 │ 697│-trurl                            │    │
-│ 698│ try                              │ 671│ try
-│ 699│ tty2web                          │ 672│ tty2web
-│ 700│ ttyd                             │ 673│ ttyd
-│ 701│ ttyrec2ansi                      │ 674│ ttyrec2ansi
+│ 698│ try                              │ 672│ try
+│ 699│ tty2web                          │ 673│ tty2web
+│ 700│ ttyd                             │ 674│ ttyd
+│ 701│ ttyrec2ansi                      │ 675│ ttyrec2ansi
 │ 702│-tuiarchiver                      │    │
-│ 703│ tut                              │ 675│ tut
+│ 703│ tut                              │ 676│ tut
 │ 704│-twingate-client                  │    │
 │ 705│-twingate-connector               │    │
 │ 706│-twingate-connector-staticx       │    │
 │ 707│-twingate-connectorctl            │    │
 │ 708│-twingate-notifier                │    │
-│ 709│ txeh                             │ 676│ txeh
-│ 710│ tz                               │ 677│ tz
-│ 711│ u-root                           │ 678│ u-root
-│ 714│ uncover                          │ 681│ uncover
-│ 715│ unf                              │ 682│ unf
-│ 716│ unfurl                           │ 683│ unfurl
+│ 709│ txeh                             │ 677│ txeh
+│ 710│ tz                               │ 678│ tz
+│ 711│ u-root                           │ 679│ u-root
+│ 714│ uncover                          │ 682│ uncover
+│ 715│ unf                              │ 683│ unf
+│ 716│ unfurl                           │ 684│ unfurl
 │ 717│-unix2dos                         │    │
 │ 718│-unix2mac                         │    │
-│ 719│ upx                              │ 684│ upx
-│ 720│ usql                             │ 685│ usql
-│ 721│ v2raya                           │ 686│ v2raya
+│ 719│ upx                              │ 685│ upx
+│ 720│ usql                             │ 686│ usql
+│ 721│ v2raya                           │ 687│ v2raya
 │ 722│-v6disk                           │    │
-│ 723│ v6run                            │ 687│ v6run
-│ 724│ validtoml                        │ 688│ validtoml
-│ 725│ vegeta                           │ 689│ vegeta
-│ 738│ wadl-dumper                      │ 702│ wadl-dumper
-│ 739│ walk                             │ 703│ walk
-│ 740│ warp                             │ 704│ warp
+│ 723│ v6run                            │ 688│ v6run
+│ 724│ validtoml                        │ 689│ validtoml
+│ 725│ vegeta                           │ 690│ vegeta
+│ 738│ wadl-dumper                      │ 703│ wadl-dumper
+│ 739│ walk                             │ 704│ walk
+│ 740│ warp                             │ 705│ warp
 │ 741│-warp-cli                         │    │
 │ 742│-warp-dex                         │    │
 │ 743│-warp-diag                        │    │
 │ 744│-warp-svc                         │    │
-│ 745│ wasminspect                      │ 705│ wasminspect
-│ 746│ watchexec                        │ 706│ watchexec
-│ 747│ waybackrobots                    │ 707│ waybackrobots
-│ 749│ web-cache-vulnerability-scanner  │ 709│ web-cache-vulnerability-scanner
-│ 750│ websocat                         │ 710│ websocat
-│ 751│ wego                             │ 711│ wego
+│ 745│ wasminspect                      │ 706│ wasminspect
+│ 746│ watchexec                        │ 707│ watchexec
+│ 747│ waybackrobots                    │ 708│ waybackrobots
+│ 749│ web-cache-vulnerability-scanner  │ 710│ web-cache-vulnerability-scanner
+│ 750│ websocat                         │ 711│ websocat
+│ 751│ wego                             │ 712│ wego
 │ 752│-wget                             │    │
 │ 753│-whois                            │    │
-│ 754│ wireguard-go                     │ 712│ wireguard-go
-│ 755│ wireguard-rs                     │ 713│ wireguard-rs
-│ 756│ wireproxy                        │ 714│ wireproxy
-│ 782│ xet_staticx                      │ 740│ xet_staticx
-│ 783│ xetcmd                           │ 741│ xetcmd
-│ 784│ xetmnt                           │ 742│ xetmnt
-│ 785│-xh                               │    │
-│ 786│ xplr                             │ 743│ xplr
-│ 787│ xq                               │ 744│ xq
-│ 788│ xurls                            │ 745│ xurls
+│ 754│ wireguard-go                     │ 713│ wireguard-go
+│ 755│ wireguard-rs                     │ 714│ wireguard-rs
+│ 756│ wireproxy                        │ 715│ wireproxy
 
