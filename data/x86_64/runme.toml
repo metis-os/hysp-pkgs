@@ -4,7 +4,7 @@ name = "runme"
 [package]
 architecture = "x86_64"
 name = "runme"
-description = "Execute your runbooks, docs, and READMEs."
+description = "DevOps Workflows Built with Markdown"
 author = "stateful"
 repo = "https://github.com/stateful/runme"
 stars = "763"
