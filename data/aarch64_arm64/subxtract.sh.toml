@@ -1,24 +1,24 @@
 [bin]
-name = "subxtract"
+name = "subxtract.sh"
 
 [package]
 architecture = "aarch64_arm64"
-name = "subxtract"
+name = "subxtract.sh"
 description = " Bug Bounties"
 author = "Azathothas"
 repo = "https://github.com/Azathothas/Arsenal"
 stars = "16"
 version = "null"
 updated = ""
-size = "7.34 MB"
-bsum = "c7631fc4f64a30d90b299aa2b253ee919babf2ffacb5b1255edcd3119689b185"
-sha = "b9d67b9d1d2575ada3bbce1d19c2a4ee371445cd1f441c95c77fdad02852009d"
-source = "https://bin.ajam.dev/aarch64_arm64_Linux/subxtract"
+size = "3814 B"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/subxtract.sh"
 language = "Shell"
 license = "null"
 
 [package.conditions]
-conflicts  = ["subxtract"]
+conflicts  = ["subxtract.sh"]
 requires = []
 
 [package.metadata]
