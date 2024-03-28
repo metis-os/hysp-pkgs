@@ -20,7 +20,6 @@
 │ 541│-rekor                            │    │
 │ 618│-socat                            │    │
 │ 645│-stress-ng                        │    │
-│ 652│-subxtract.sh                     │    │
 │ 661│-sysbox-fs                        │    │
 │ 662│-sysbox-mgr                       │    │
 │ 663│-sysbox-runc                      │    │
