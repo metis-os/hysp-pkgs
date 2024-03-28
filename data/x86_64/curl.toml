@@ -4,12 +4,12 @@ name = "curl"
 [package]
 architecture = "x86_64"
 name = "curl"
-description = "fully static builds of curl, runs anywhere"
-author = "moparisthebest"
-repo = "https://github.com/moparisthebest/static-curl"
-stars = "477"
-version = "v8.6.0"
-updated = "2024-03-27T09:11:49Z"
+description = "fully static builds cURL with HTTP3"
+author = "stunnel"
+repo = "https://github.com/stunnel/static-curl"
+stars = "113"
+version = "8.7.1"
+updated = "2024-03-27T12:20:22Z"
 size = "7.98 MB"
 bsum = "517c8e9323786bdd033668689fe90dcef3bdb4dff5a74dc3ff24cff351689ccf"
 sha = "0adfe698393078d51b76bc63a29fea36605211a898afe474a0547bebadaabe28"
@@ -22,5 +22,5 @@ conflicts  = ["curl"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = ["curl","http-client","http3","http3-client"]
 categories = ["Utilities"]
