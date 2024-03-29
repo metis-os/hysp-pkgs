@@ -34,7 +34,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 31
+- **Stars:** 32
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.76 MB
@@ -146,7 +146,7 @@
 - **Description:**  DreamHost, etc, written in Go.
 - **Author:** TimothyYe
 - **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
-- **Stars:** 1421
+- **Stars:** 1422
 - **Version:** v3.1.5
 - **Updated:** 2024-02-28T15:38:07Z
 - **Size:** 12.38 MB
@@ -306,7 +306,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 31
+- **Stars:** 32
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.61 MB
