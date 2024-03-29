@@ -34,7 +34,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 16
+- **Stars:** 23
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.76 MB
@@ -306,7 +306,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 16
+- **Stars:** 24
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.61 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16053
+- **Stars:** 16054
 - **Version:** v1.62.1
 - **Updated:** 2024-03-26T20:24:01Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16053
+- **Stars:** 16054
 - **Version:** v1.62.1
 - **Updated:** 2024-03-26T20:24:01Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16053
+- **Stars:** 16054
 - **Version:** v1.62.1
 - **Updated:** 2024-03-26T20:24:01Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16053
+- **Stars:** 16054
 - **Version:** v1.62.1
 - **Updated:** 2024-03-26T20:24:01Z
 - **Size:** 21.67 MB
