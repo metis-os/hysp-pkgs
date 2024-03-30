@@ -1,0 +1,26 @@
+[bin]
+name = "rg.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "rg.exe"
+description = "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+author = "BurntSushi"
+repo = "https://github.com/BurntSushi/ripgrep"
+stars = "44318"
+version = "14.1.0"
+updated = "2024-01-06T19:41:59Z"
+size = "5.33 MB"
+bsum = "d39af47423b477b86b738896cb331783170be6cce4d47a6e76136e688d6f093e"
+sha = "987dd8a04782cf6fb3e77216578b1b6ffbe722229f7149ce08210d0b05c72392"
+source = "https://bin.ajam.dev/x64_Windows/rg.exe"
+language = "Rust"
+license = "The Unlicense"
+
+[package.conditions]
+conflicts  = ["rg.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","gitignore","grep","recursively-search","regex","ripgrep","rust","search"]
+categories = ["Utilities"]

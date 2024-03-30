@@ -1,0 +1,26 @@
+[bin]
+name = "hyperfine.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "hyperfine.exe"
+description = "A command-line benchmarking tool"
+author = "sharkdp"
+repo = "https://github.com/sharkdp/hyperfine"
+stars = "19617"
+version = "v1.18.0"
+updated = "2023-10-05T08:07:11Z"
+size = "1.33 MB"
+bsum = "ff1deec6b9df1c5af6c55df14042dcd174b9b75d647a812a98bd5f5a96cb1981"
+sha = "e7a469e441e11c636270a2599a8d99ff224bd45a2e50c491a2220fe1bb51a8aa"
+source = "https://bin.ajam.dev/x64_Windows/hyperfine.exe"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["hyperfine.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["benchmark","cli","command-line","hacktoberfest","rust","terminal","tool"]
+categories = ["Utilities"]

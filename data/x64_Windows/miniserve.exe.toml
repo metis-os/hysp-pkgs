@@ -1,0 +1,26 @@
+[bin]
+name = "miniserve.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "miniserve.exe"
+description = "🌟 For when you really just want to serve some files over HTTP right now!"
+author = "svenstaro"
+repo = "https://github.com/svenstaro/miniserve"
+stars = "5539"
+version = "v0.27.1"
+updated = "2024-03-16T11:45:56Z"
+size = "1.9 MB"
+bsum = "cd7cd96ee8095de0a0b6f83fee48c32bf8c2695ad5deb922177a5f1775aab676"
+sha = "060705db94b7ea673486db72ffc54fbd5e3c898758f9a16575d636c78e95dffb"
+source = "https://bin.ajam.dev/x64_Windows/miniserve.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["miniserve.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","http-server","serve","server","static-files"]
+categories = ["Utilities"]

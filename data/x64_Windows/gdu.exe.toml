@@ -1,0 +1,26 @@
+[bin]
+name = "gdu.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "gdu.exe"
+description = "Fast disk usage analyzer with console interface written in Go"
+author = "dundee"
+repo = "https://github.com/dundee/gdu"
+stars = "3197"
+version = "v5.27.0"
+updated = "2024-02-18T13:28:17Z"
+size = "14.06 MB"
+bsum = "2cde6ffa57bf439535745677df2d2a7676cd48ab456c5363fae767178c0bbd9e"
+sha = "185701be33427ad46bd10f3b73f03f70891cf4a4beb8d02e90e1c1c9c526fb89"
+source = "https://bin.ajam.dev/x64_Windows/gdu.exe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gdu.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","disk-usage","filesystem","golang","hacktoberfest"]
+categories = ["Utilities"]

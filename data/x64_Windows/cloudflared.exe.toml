@@ -1,0 +1,26 @@
+[bin]
+name = "cloudflared.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "cloudflared.exe"
+description = "Cloudflare Tunnel client (formerly Argo Tunnel)"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cloudflared"
+stars = "7739"
+version = "2024.3.0"
+updated = "2024-03-20T10:11:33Z"
+size = "26.46 MB"
+bsum = "c6e255867cf9771059fa20905b35f350a2d1d2d0b19d5994b360ec34cc3f60f6"
+sha = "001aba2724e10cd6a44bdf0f3d567350b6700a192a2329764f868da1e7ecf267"
+source = "https://bin.ajam.dev/x64_Windows/cloudflared.exe"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["cloudflared.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["argo-tunnel","cloudflare","cloudflare-tunnel","reverse-proxy","zero-trust-network-access"]
+categories = ["Utilities"]

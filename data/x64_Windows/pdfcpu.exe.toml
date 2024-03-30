@@ -1,0 +1,26 @@
+[bin]
+name = "pdfcpu.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "pdfcpu.exe"
+description = "A PDF processor written in Go."
+author = "pdfcpu"
+repo = "https://github.com/pdfcpu/pdfcpu"
+stars = "6139"
+version = "v0.7.0"
+updated = "2024-03-05T01:16:51Z"
+size = "11.18 MB"
+bsum = "acec82931f15808ec29561a32c8efb53226c57a0a09ba8168f9e4b8b23e7ebb7"
+sha = "9722c581a63c142d54e83e479f97c554e960cfc5acff4f383d862c0fc36ff9f9"
+source = "https://bin.ajam.dev/x64_Windows/pdfcpu.exe"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["pdfcpu.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["go","golang","golang-library","pdf","pdf-files","pdf-lib","pdf-processor","pdflib","processor"]
+categories = ["Utilities"]

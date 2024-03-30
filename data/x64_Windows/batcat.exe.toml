@@ -1,0 +1,26 @@
+[bin]
+name = "batcat.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "batcat.exe"
+description = "A cat(1) clone with wings."
+author = "sharkdp"
+repo = "https://github.com/sharkdp/bat"
+stars = "46003"
+version = "v0.24.0"
+updated = "2023-10-11T18:20:46Z"
+size = "6.32 MB"
+bsum = "bee33637724e23742e0d69d41efdeb39b4073cf01fa4a7934dc438035b7eec35"
+sha = "a85621ae030d6aae7c0eb6ece18a2f6f15d1239760239b5282c9da1a498e2741"
+source = "https://bin.ajam.dev/x64_Windows/batcat.exe"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["batcat.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","git","hacktoberfest","rust","syntax-highlighting","terminal","tool"]
+categories = ["Utilities"]

@@ -5,7 +5,7 @@
 - **Stars:** 
 - **Version:** 24.03
 - **Updated:** beta
-- **Size:** 
+- **Size:** 1.32 MB
 - **SHA256SUM:** d8a0c595e35f80b647c49c161e5fd808cbd762597f1ff92519a67e9abad6e656
 - **B3SUM:** df7d8ffc35937ff477e2bee78f2d43c1aae233471d7fde95222d8acdfb1a031a
 - **Source:** https://bin.ajam.dev/x64_Windows/7z
@@ -174,6 +174,38 @@
 
 ---
 
+### bat.exe
+- **Description:** A cat(1) clone with wings.
+- **Author:** sharkdp
+- **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
+- **Stars:** 46003
+- **Version:** v0.24.0
+- **Updated:** 2023-10-11T18:20:46Z
+- **Size:** 6.32 MB
+- **SHA256SUM:** 036875418f322e8a5a31c22b5208212702dae0597da4af16a9aa5d0a5286167c
+- **B3SUM:** 736d81a8641541648aad27e6f1a724d55852d01739d32fff4b5686c6fc406924
+- **Source:** https://bin.ajam.dev/x64_Windows/bat.exe
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
+### batcat.exe
+- **Description:** A cat(1) clone with wings.
+- **Author:** sharkdp
+- **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
+- **Stars:** 46003
+- **Version:** v0.24.0
+- **Updated:** 2023-10-11T18:20:46Z
+- **Size:** 6.32 MB
+- **SHA256SUM:** a85621ae030d6aae7c0eb6ece18a2f6f15d1239760239b5282c9da1a498e2741
+- **B3SUM:** bee33637724e23742e0d69d41efdeb39b4073cf01fa4a7934dc438035b7eec35
+- **Source:** https://bin.ajam.dev/x64_Windows/batcat.exe
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
 ### botsay.exe
 - **Description:** :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows
 - **Author:** xyproto
@@ -206,6 +238,22 @@
 
 ---
 
+### cheat.exe
+- **Description:** cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+- **Author:** cheat
+- **Repository:** [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
+- **Stars:** 11835
+- **Version:** 4.4.2
+- **Updated:** 2023-12-15T17:55:49Z
+- **Size:** 11.57 MB
+- **SHA256SUM:** 9575ee76db75a78b4482a8ed1a573f686a322a6b43a7d5d00fa690a4f71fe3c0
+- **B3SUM:** e60564103411c70fea2420f1687c0acdac6baea622135c072140118e4fc492f9
+- **Source:** https://bin.ajam.dev/x64_Windows/cheat.exe
+- **Language:** Go
+- **License:** MIT License
+
+---
+
 ### cksum.exe
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
@@ -219,6 +267,22 @@
 - **Source:** https://bin.ajam.dev/x64_Windows/cksum.exe
 - **Language:** Rust
 - **License:** MIT License
+
+---
+
+### cloudflared.exe
+- **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
+- **Author:** cloudflare
+- **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
+- **Stars:** 7739
+- **Version:** 2024.3.0
+- **Updated:** 2024-03-20T10:11:33Z
+- **Size:** 26.46 MB
+- **SHA256SUM:** 001aba2724e10cd6a44bdf0f3d567350b6700a192a2329764f868da1e7ecf267
+- **B3SUM:** c6e255867cf9771059fa20905b35f350a2d1d2d0b19d5994b360ec34cc3f60f6
+- **Source:** https://bin.ajam.dev/x64_Windows/cloudflared.exe
+- **Language:** Go
+- **License:** Apache License 2.0
 
 ---
 
@@ -446,6 +510,22 @@
 
 ---
 
+### dua.exe
+- **Description:** View disk space usage and delete unwanted data, fast.
+- **Author:** Byron
+- **Repository:** [https://github.com/Byron/dua-cli](https://github.com/Byron/dua-cli)
+- **Stars:** 3425
+- **Version:** v2.29.0
+- **Updated:** 2024-03-10T07:28:39Z
+- **Size:** 1.56 MB
+- **SHA256SUM:** a83d409fae94901cee8e15f61097b5c008df9b148cbd6e35f65550d59e364f7c
+- **B3SUM:** 9219bac008a763253a2d2a4ad59080a17fd3d5f180f9d01dd37e6a3bd6ab6aaf
+- **Source:** https://bin.ajam.dev/x64_Windows/dua.exe
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### echo.exe
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
@@ -455,7 +535,7 @@
 - **Updated:** 2024-03-23T20:56:02Z
 - **Size:** 827.9 kB
 - **SHA256SUM:** fbeae2defc30a001a4657740d40ea14ccdc37558830b33247389d1ea4411ed4b
-- **B3SUM:** 126e9e9332bde4f5b62457722e8c7c002abd69eb1ff79a7d808859e31ddd5fc8
+- **B3SUM:** 
 - **Source:** https://bin.ajam.dev/x64_Windows/echo.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -542,6 +622,22 @@
 
 ---
 
+### fastfetch.exe
+- **Description:** Like neofetch, but much faster because written mostly in C.
+- **Author:** fastfetch-cli
+- **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- **Stars:** 1974
+- **Version:** 2.8.10
+- **Updated:** 2024-03-25T06:38:52Z
+- **Size:** 1.33 MB
+- **SHA256SUM:** 5c847df1f911e7226310bb9a615e1752df9951865804bd6beec0fb7739f074a1
+- **B3SUM:** 9f2ee5b2754ec315b55e49dc848c6308b758c4d05e620cc4d047c2e9b072fbf0
+- **Source:** https://bin.ajam.dev/x64_Windows/fastfetch.exe
+- **Language:** C
+- **License:** MIT License
+
+---
+
 ### find-rs.exe
 - **Description:** Rust implementation of findutils
 - **Author:** uutils
@@ -574,6 +670,22 @@
 
 ---
 
+### flashfetch.exe
+- **Description:** Like neofetch, but much faster because written mostly in C.
+- **Author:** fastfetch-cli
+- **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- **Stars:** 1974
+- **Version:** 2.8.10
+- **Updated:** 2024-03-25T06:38:52Z
+- **Size:** 1.18 MB
+- **SHA256SUM:** c2d102cc9e47d6bfe5bfb455eb163e5a968389d07c582dbd27b3f65e35cf9c70
+- **B3SUM:** d7f277eac157580d1c5604a37d33b9f43f33cc223a0d232309b81c0aec29294f
+- **Source:** https://bin.ajam.dev/x64_Windows/flashfetch.exe
+- **Language:** C
+- **License:** MIT License
+
+---
+
 ### fmt.exe
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
@@ -602,6 +714,22 @@
 - **B3SUM:** d8e9d55f680751fe4fa2bede59d8846c5fd4c7a446a1ac9cd2faa0aa6133ed52
 - **Source:** https://bin.ajam.dev/x64_Windows/fold.exe
 - **Language:** Rust
+- **License:** MIT License
+
+---
+
+### gdu.exe
+- **Description:** Fast disk usage analyzer with console interface written in Go
+- **Author:** dundee
+- **Repository:** [https://github.com/dundee/gdu](https://github.com/dundee/gdu)
+- **Stars:** 3197
+- **Version:** v5.27.0
+- **Updated:** 2024-02-18T13:28:17Z
+- **Size:** 14.06 MB
+- **SHA256SUM:** 185701be33427ad46bd10f3b73f03f70891cf4a4beb8d02e90e1c1c9c526fb89
+- **B3SUM:** 2cde6ffa57bf439535745677df2d2a7676cd48ab456c5363fae767178c0bbd9e
+- **Source:** https://bin.ajam.dev/x64_Windows/gdu.exe
+- **Language:** Go
 - **License:** MIT License
 
 ---
@@ -654,6 +782,22 @@
 
 ---
 
+### hyperfine.exe
+- **Description:** A command-line benchmarking tool
+- **Author:** sharkdp
+- **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+- **Stars:** 19617
+- **Version:** v1.18.0
+- **Updated:** 2023-10-05T08:07:11Z
+- **Size:** 1.33 MB
+- **SHA256SUM:** e7a469e441e11c636270a2599a8d99ff224bd45a2e50c491a2220fe1bb51a8aa
+- **B3SUM:** ff1deec6b9df1c5af6c55df14042dcd174b9b75d647a812a98bd5f5a96cb1981
+- **Source:** https://bin.ajam.dev/x64_Windows/hyperfine.exe
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
 ### join.exe
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
@@ -667,6 +811,22 @@
 - **Source:** https://bin.ajam.dev/x64_Windows/join.exe
 - **Language:** Rust
 - **License:** MIT License
+
+---
+
+### jq.exe
+- **Description:** Command-line JSON processor
+- **Author:** jqlang
+- **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
+- **Stars:** 28825
+- **Version:** jq-1.7.1
+- **Updated:** 2023-12-13T19:56:17Z
+- **Size:** 985.09 kB
+- **SHA256SUM:** 2ad4dbd29a279fbb0e31f58e7dac012d3006dda63527528c10d31b76b9cfb06a
+- **B3SUM:** 6076319f78c186cebb993ca9807cf77f193cacff473f854b26a0a50c1fe26226
+- **Source:** https://bin.ajam.dev/x64_Windows/jq.exe
+- **Language:** C
+- **License:** Other
 
 ---
 
@@ -718,6 +878,38 @@
 
 ---
 
+### micro.exe
+- **Description:** A modern and intuitive terminal-based text editor
+- **Author:** zyedidia
+- **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
+- **Stars:** 23749
+- **Version:** v2.0.13
+- **Updated:** 2023-10-21T22:38:29Z
+- **Size:** 11.88 MB
+- **SHA256SUM:** 689ad490bbcbac221bff343ba3ffccac0cff7ce37d9a7373f6c7235c50a34168
+- **B3SUM:** d62c5e8101e1182d216f2762ce1a85db3953ae7ef2c022c84d4673f5a0018cdf
+- **Source:** https://bin.ajam.dev/x64_Windows/micro.exe
+- **Language:** Go
+- **License:** MIT License
+
+---
+
+### miniserve.exe
+- **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
+- **Author:** svenstaro
+- **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
+- **Stars:** 5539
+- **Version:** v0.27.1
+- **Updated:** 2024-03-16T11:45:56Z
+- **Size:** 1.9 MB
+- **SHA256SUM:** 060705db94b7ea673486db72ffc54fbd5e3c898758f9a16575d636c78e95dffb
+- **B3SUM:** cd7cd96ee8095de0a0b6f83fee48c32bf8c2695ad5deb922177a5f1775aab676
+- **Source:** https://bin.ajam.dev/x64_Windows/miniserve.exe
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
 ### mkdir.exe
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
@@ -741,7 +933,7 @@
 - **Stars:** 16722
 - **Version:** 0.0.25
 - **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 946.69 kB
+- **Size:** 947.2 kB
 - **SHA256SUM:** 05659cdf2faf488719733be386bfb70059364048fabd32997e6ee5866ee21c27
 - **B3SUM:** c3614e8223bbf41fe9ab11ac894e7d6fcbaf168435193d3f0efebc46aeeecf29
 - **Source:** https://bin.ajam.dev/x64_Windows/mktemp.exe
@@ -846,6 +1038,22 @@
 
 ---
 
+### pandoc.exe
+- **Description:** Universal markup converter
+- **Author:** jgm
+- **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
+- **Stars:** 32086
+- **Version:** 3.1.12.3
+- **Updated:** 2024-03-18T05:28:18Z
+- **Size:** 158.7 MB
+- **SHA256SUM:** d06e2997b12ef42f64368dc490cc490fd5d2215e2dd6ff0803360404cf0b38f9
+- **B3SUM:** 32be601480e935293a69ec41a739358712b0ed90ff91659164f70ff807bcb60b
+- **Source:** https://bin.ajam.dev/x64_Windows/pandoc.exe
+- **Language:** Haskell
+- **License:** Other
+
+---
+
 ### paste.exe
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
@@ -859,6 +1067,22 @@
 - **Source:** https://bin.ajam.dev/x64_Windows/paste.exe
 - **Language:** Rust
 - **License:** MIT License
+
+---
+
+### pdfcpu.exe
+- **Description:** A PDF processor written in Go.
+- **Author:** pdfcpu
+- **Repository:** [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
+- **Stars:** 6139
+- **Version:** v0.7.0
+- **Updated:** 2024-03-05T01:16:51Z
+- **Size:** 11.18 MB
+- **SHA256SUM:** 9722c581a63c142d54e83e479f97c554e960cfc5acff4f383d862c0fc36ff9f9
+- **B3SUM:** acec82931f15808ec29561a32c8efb53226c57a0a09ba8168f9e4b8b23e7ebb7
+- **Source:** https://bin.ajam.dev/x64_Windows/pdfcpu.exe
+- **Language:** Go
+- **License:** Apache License 2.0
 
 ---
 
@@ -971,6 +1195,22 @@
 - **Source:** https://bin.ajam.dev/x64_Windows/realpath.exe
 - **Language:** Rust
 - **License:** MIT License
+
+---
+
+### rg.exe
+- **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- **Author:** BurntSushi
+- **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+- **Stars:** 44318
+- **Version:** 14.1.0
+- **Updated:** 2024-01-06T19:41:59Z
+- **Size:** 5.33 MB
+- **SHA256SUM:** 987dd8a04782cf6fb3e77216578b1b6ffbe722229f7149ce08210d0b05c72392
+- **B3SUM:** d39af47423b477b86b738896cb331783170be6cce4d47a6e76136e688d6f093e
+- **Source:** https://bin.ajam.dev/x64_Windows/rg.exe
+- **Language:** Rust
+- **License:** The Unlicense
 
 ---
 
@@ -1467,6 +1707,22 @@
 - **Source:** https://bin.ajam.dev/x64_Windows/yes.exe
 - **Language:** Rust
 - **License:** MIT License
+
+---
+
+### yt-dlp.exe
+- **Description:** A feature-rich command-line audio/video downloader
+- **Author:** yt-dlp
+- **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- **Stars:** 68933
+- **Version:** 2024.03.10
+- **Updated:** 2024-03-10T19:47:18Z
+- **Size:** 173.06 kB
+- **SHA256SUM:** 43c29277304bdb2c2a27d0d8a88c465fa6256b4e084b764284d0275f067d1185
+- **B3SUM:** 016e0156aafba2d6988fcf55e9c79d7fcb4d0a01760144042ed4112c7bb85d47
+- **Source:** https://bin.ajam.dev/x64_Windows/yt-dlp.exe
+- **Language:** Python
+- **License:** The Unlicense
 
 ---
 
