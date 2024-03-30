@@ -1,0 +1,26 @@
+[bin]
+name = "nomore403"
+
+[package]
+architecture = "aarch64_arm64"
+name = "nomore403"
+description = "Tool to bypass 403/40X response codes."
+author = "devploit"
+repo = "https://github.com/devploit/nomore403"
+stars = "921"
+version = "1.0.1"
+updated = "2024-03-19T14:49:37Z"
+size = "7.95 MB"
+bsum = "c55a5219ee746acc8e98de69166fe6519bdc2c37b7bbf6591d9cbed79df7e356"
+sha = "368cfcf709c8dd51f34c3be85df10b2d71dedfa295524b83acbf176494453fc8"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/nomore403"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["nomore403"]
+requires = []
+
+[package.metadata]
+keywords = ["403","403-bypass","bugbounty","bypass","ctf","pentesting","waf-bypass","websec"]
+categories = ["Utilities"]
