@@ -1,0 +1,26 @@
+[bin]
+name = "$BIN"
+
+[package]
+architecture = "x64_Windows"
+name = "$BIN"
+description = "$DESCRIPTION"
+author = "$AUTHOR"
+repo = "$REPO_URL"
+stars = "${STARS}"
+version = "$PKG_VERSION"
+updated = "$PKG_RELEASED"
+size = "$SIZE"
+bsum = "$BSUM"
+sha = "$SHA"
+source = "$SOURCE_URL"
+language = "$LANGUAGE"
+license = "$LICENSE"
+
+[package.conditions]
+conflicts  = ["$BIN"]
+requires = []
+
+[package.metadata]
+keywords = $TOPICS
+categories = ["Utilities"]
