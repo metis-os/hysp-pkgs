@@ -421,3 +421,39 @@
 │ 756│ wireguard-rs                     │ 715│ wireguard-rs
 │ 757│ wireproxy                        │ 716│ wireproxy
 
+
+
+[+] x64_Windows
+
+│    │                                  │  1 │+7z
+│  1 │ actionlint.exe                   │  2 │ actionlint.exe
+│  2 │ anew-rs.exe                      │  3 │ anew-rs.exe
+│  3 │ anew.exe                         │  4 │ anew.exe
+│ 14 │ coreutils-rs.exe                 │ 15 │ coreutils-rs.exe
+│ 15 │ coreutils.exe                    │ 16 │ coreutils.exe
+│ 16 │ cp.exe                           │ 17 │ cp.exe
+│ 17 │-croc.exe                         │    │
+│ 18 │ csplit.exe                       │ 18 │ csplit.exe
+│ 19 │ curl.exe                         │ 19 │ curl.exe
+│ 20 │ cut.exe                          │ 20 │ cut.exe
+│ 25 │ dircolors.exe                    │ 25 │ dircolors.exe
+│ 26 │ dirname.exe                      │ 26 │ dirname.exe
+│ 27 │ du.exe                           │ 27 │ du.exe
+│ 28 │-dust.exe                         │    │
+│ 29 │ echo.exe                         │ 28 │ echo.exe
+│ 30 │-eget.exe                         │    │
+│ 31 │ env.exe                          │ 29 │ env.exe
+│ 32 │ expand.exe                       │ 30 │ expand.exe
+│ 33 │ expr.exe                         │ 31 │ expr.exe
+│ 84 │ unexpand.exe                     │ 82 │ unexpand.exe
+│ 85 │ uniq.exe                         │ 83 │ uniq.exe
+│ 86 │ unlink.exe                       │ 84 │ unlink.exe
+│ 87 │-upx.exe                          │    │
+│ 88 │ vdir.exe                         │ 85 │ vdir.exe
+│ 89 │ wc.exe                           │ 86 │ wc.exe
+│ 90 │ wget2.exe                        │ 87 │ wget2.exe
+│ 92 │ xargs-rs.exe                     │ 89 │ xargs-rs.exe
+│ 93 │ xargs.exe                        │ 90 │ xargs.exe
+│ 94 │ yes.exe                          │ 91 │ yes.exe
+
+│ 95 │-yq.exe                           │    │

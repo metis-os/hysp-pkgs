@@ -39,3 +39,8 @@
 │ 745│-warp-svc                         │    │
 │ 753│-wget                             │    │
 │ 754│-whois                            │    │
+│ 17 │-croc.exe                         │    │
+│ 28 │-dust.exe                         │    │
+│ 30 │-eget.exe                         │    │
+│ 87 │-upx.exe                          │    │
+│ 95 │-yq.exe                           │    │
