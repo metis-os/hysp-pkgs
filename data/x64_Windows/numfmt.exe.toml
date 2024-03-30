@@ -1,0 +1,26 @@
+[bin]
+name = "numfmt.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "numfmt.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "966.14 kB"
+bsum = "064d0623ac8b22174c82e4f77331a09c05baa3a3a85f84ff4158e46d5a530849"
+sha = "04d7a1d64ba6a0d1369bf05828b8f07c4c888aeefea7b3682d0568e6613186ea"
+source = "https://bin.ajam.dev/x64_Windows/numfmt.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["numfmt.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

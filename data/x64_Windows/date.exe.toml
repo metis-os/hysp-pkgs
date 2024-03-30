@@ -1,0 +1,26 @@
+[bin]
+name = "date.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "date.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "2.47 MB"
+bsum = "19d622b3b23f721834431a55654c620b10fc26090b79d39111f4cc122ea9eedc"
+sha = "db8347f3bc2c603ad6ce8e76b78fbe64bf057057382aeb86b1aa2176f8809142"
+source = "https://bin.ajam.dev/x64_Windows/date.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["date.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "cksum.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "cksum.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "1.03 MB"
+bsum = "5fa15907fb3bc0c0677452be29d81aef939b1bdd6238ed206ec4f31fbb1d2b63"
+sha = "c689bcc490d2ef1e824e59fce80f22e0e699684a7669c187e2a5e89245c29630"
+source = "https://bin.ajam.dev/x64_Windows/cksum.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cksum.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

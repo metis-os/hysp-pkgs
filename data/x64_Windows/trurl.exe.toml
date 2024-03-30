@@ -1,0 +1,26 @@
+[bin]
+name = "trurl.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "trurl.exe"
+description = "fully static builds cURL with HTTP3"
+author = "stunnel"
+repo = "https://github.com/stunnel/static-curl"
+stars = "115"
+version = "8.7.1"
+updated = "2024-03-27T12:20:22Z"
+size = "7.04 MB"
+bsum = "8bfe29a0ce5608be16e2efeff994aeb7c63e4bf91bceb1113fcda7fb4dc5083b"
+sha = "ba91df313defd1342f8e3dddff47fa7f6976488950770ba0596cffb16b517057"
+source = "https://bin.ajam.dev/x64_Windows/trurl.exe"
+language = "Shell"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["trurl.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["curl","http-client","http3","http3-client"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "shred.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "shred.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "913.92 kB"
+bsum = "790909f624eb25309bb4f5eae5f0447f3a86721a67b40f0dd02e159485e3347c"
+sha = "e45a75aaaf2b767256b2ac05a4e2341594ff1c9d221171bdf193f84d07388aaa"
+source = "https://bin.ajam.dev/x64_Windows/shred.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["shred.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

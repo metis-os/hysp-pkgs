@@ -1,0 +1,26 @@
+[bin]
+name = "comm.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "comm.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "852.48 kB"
+bsum = "5a3935d1ff8c8395bf5af6c5140e864a20a80b670edf8997482309919604bcc4"
+sha = "e929360996157b8001a662fa5caf7a006c16fc4ecf0f36faefc8a479b595df70"
+source = "https://bin.ajam.dev/x64_Windows/comm.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["comm.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

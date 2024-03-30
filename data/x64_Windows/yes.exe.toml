@@ -1,0 +1,26 @@
+[bin]
+name = "yes.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "yes.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "820.22 kB"
+bsum = "773cbb6c081b848660db4ed9d0499dc893c484f81f73b4d1aeaf67e5433a3052"
+sha = "d732c5a9f8e6ae93a0fbd1fff928cb31eb624aa4bde8d8132b8e06f9fed59557"
+source = "https://bin.ajam.dev/x64_Windows/yes.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["yes.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "truncate.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "truncate.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "860.16 kB"
+bsum = "ca20f6c3d4933fe3577accfb52d0cbb2ff8526c059757b16ba052ede18d0853d"
+sha = "d81395bd31a7b615df02f54bd80be8a99f37bce6e60fa87153ee4ac922edb3d3"
+source = "https://bin.ajam.dev/x64_Windows/truncate.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["truncate.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

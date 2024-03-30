@@ -1,0 +1,26 @@
+[bin]
+name = "factor.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "factor.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "899.07 kB"
+bsum = "965cf7d92384b68a774f29b1e2a2361ead15b28496b61dc7152c7d0f9fe2c126"
+sha = "1054c6dc813ce378fdc09733e10bd3f0af3d14307e74ccffc6d0e852d101fac5"
+source = "https://bin.ajam.dev/x64_Windows/factor.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["factor.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

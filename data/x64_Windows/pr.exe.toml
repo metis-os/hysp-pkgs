@@ -1,0 +1,26 @@
+[bin]
+name = "pr.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "pr.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "2.51 MB"
+bsum = "de839aa3962eae8daad027a11f86da294ea14f1c527d67660533e9e1d99eb9eb"
+sha = "e83dda32649868b0a3a35022b933e16d84f3dda394722bc96f20a21c061bc84b"
+source = "https://bin.ajam.dev/x64_Windows/pr.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pr.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

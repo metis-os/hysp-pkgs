@@ -1,0 +1,26 @@
+[bin]
+name = "curl.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "curl.exe"
+description = "fully static builds cURL with HTTP3"
+author = "stunnel"
+repo = "https://github.com/stunnel/static-curl"
+stars = "115"
+version = "8.7.1"
+updated = "2024-03-27T12:20:22Z"
+size = "7.46 MB"
+bsum = "30682984d0fc68134bacba9515fdab3ba48fe0055ba15840aad2d158f26a8cac"
+sha = "0fefef0c69193f19b82d332a20d8c7bec4e4fbf7f23474026c2a32d2e7446b78"
+source = "https://bin.ajam.dev/x64_Windows/curl.exe"
+language = "Shell"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["curl.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["curl","http-client","http3","http3-client"]
+categories = ["Utilities"]

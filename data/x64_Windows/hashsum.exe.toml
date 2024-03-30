@@ -1,0 +1,26 @@
+[bin]
+name = "hashsum.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "hashsum.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "2.58 MB"
+bsum = "9d6295ad2cbfa6dd659ea111fc141337e7e9f3933bb015a072d6b4defbc09c83"
+sha = "f3fcb04bc0055572ab8b2593c4c8983250f043da35e8a5d8ce9c44d3a45e4798"
+source = "https://bin.ajam.dev/x64_Windows/hashsum.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hashsum.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

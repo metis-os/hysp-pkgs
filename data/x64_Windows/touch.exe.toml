@@ -1,0 +1,26 @@
+[bin]
+name = "touch.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "touch.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "2.46 MB"
+bsum = "42071f1b7643a1e797472e94d28938089405daf113f0f8eda4accdebe67f7ac7"
+sha = "4aa89f5c23f01591528ba9050baa95e9bd53a0be1fa7c0db72ebeccabe2c0cda"
+source = "https://bin.ajam.dev/x64_Windows/touch.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["touch.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "mktemp.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "mktemp.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "946.69 kB"
+bsum = "31712e2a6535bbfe967c8f83887cfc0a3ed2d398c2d69c812389aa8eda77b581"
+sha = "6ff2b964aa2ad52ceb77140285a21bacebe6e45fa921fdb0e51b54a07ea71d13"
+source = "https://bin.ajam.dev/x64_Windows/mktemp.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mktemp.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

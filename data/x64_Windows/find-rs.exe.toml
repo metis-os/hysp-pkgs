@@ -1,0 +1,26 @@
+[bin]
+name = "find-rs.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "find-rs.exe"
+description = "Rust implementation of findutils"
+author = "uutils"
+repo = "https://github.com/uutils/findutils"
+stars = "258"
+version = "0.4.2"
+updated = "2023-07-23T17:18:51Z"
+size = "2.08 MB"
+bsum = "f4cfcbba5e8979c61469b41d7df5cc058af3f24819f99a45ed2f96b03bdabc49"
+sha = "6db04c5c651affa0dee9b32fd19193bae7a9ca3ce42af6d287e0accac3c931aa"
+source = "https://bin.ajam.dev/x64_Windows/find-rs.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["find-rs.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["cross-platform","findutils","rust"]
+categories = ["Utilities"]

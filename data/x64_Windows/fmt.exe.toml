@@ -1,0 +1,26 @@
+[bin]
+name = "fmt.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "fmt.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "930.82 kB"
+bsum = "9da5267ca93e48df6d6360f80bc3c96e9ba7c432c1f376b1951569dd94839ba8"
+sha = "82587d40f0016e7885050ff0523333c2d70a18069ab4879e547e7638b7a08c50"
+source = "https://bin.ajam.dev/x64_Windows/fmt.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["fmt.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

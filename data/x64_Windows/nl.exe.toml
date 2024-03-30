@@ -1,0 +1,26 @@
+[bin]
+name = "nl.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "nl.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "2.38 MB"
+bsum = "839fa07f5c407ba8c71534ae0c70ea978f15ca2b54171e6ad92cc7e754785d2a"
+sha = "94c2bb5a0e625230014711aa432d43b5bfa8a2f35de7ec20833327745c2f9828"
+source = "https://bin.ajam.dev/x64_Windows/nl.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["nl.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

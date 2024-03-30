@@ -1,0 +1,26 @@
+[bin]
+name = "base64.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "base64.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "954.88 kB"
+bsum = "e18e2871cfee69958b5e0bf42b3123263b9b8229a0d4f7fbdc688566f48c6909"
+sha = "65135a3925ae55f63a913532309d2ebe89941e687bea64c22faf90ef60be3155"
+source = "https://bin.ajam.dev/x64_Windows/base64.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["base64.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

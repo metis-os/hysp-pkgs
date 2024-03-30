@@ -1,0 +1,26 @@
+[bin]
+name = "uniq.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "uniq.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "926.21 kB"
+bsum = "180f0a0c0e52dc660934349bd954ef54f0470a943adc6d34b98cb3932b263b8b"
+sha = "5e02e35c62c7ab74a13b6c9cc363a9d7e15768c203ba2ce465a1007af74412f6"
+source = "https://bin.ajam.dev/x64_Windows/uniq.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["uniq.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

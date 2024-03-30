@@ -1,0 +1,26 @@
+[bin]
+name = "rm.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "rm.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "931.33 kB"
+bsum = "6bacd30c862193c984dfda7343afd104e1ea1b5f512d0bf3837b81e3370fda73"
+sha = "6c23ffdf0c25b47b342cba3764539ff46d86702f560c7c63a70cf72fa2fc2759"
+source = "https://bin.ajam.dev/x64_Windows/rm.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rm.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

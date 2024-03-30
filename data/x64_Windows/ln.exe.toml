@@ -1,0 +1,26 @@
+[bin]
+name = "ln.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "ln.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "949.25 kB"
+bsum = "5f31e69028a330af87408845e7dcc8a52a4dfebeeac37d723dcc3a003f0122a4"
+sha = "e281251be58ce5f07737da8e55fcaafff7a63479143c2444566290b05525c3a3"
+source = "https://bin.ajam.dev/x64_Windows/ln.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ln.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

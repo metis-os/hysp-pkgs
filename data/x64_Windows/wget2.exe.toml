@@ -1,0 +1,26 @@
+[bin]
+name = "wget2.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "wget2.exe"
+description = "The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍"
+author = "rockdaboot"
+repo = "https://github.com/rockdaboot/wget2"
+stars = "482"
+version = "v2.1.0"
+updated = "2023-08-31T14:11:58Z"
+size = "4.61 MB"
+bsum = "a8eeb6b05019e1849323a4cf66d3da342299f221eef1edab00559f7091a56a0a"
+sha = "02a7b9d81b1b28606985d718d19cb68cb4491af319b9636ea99cc75daa54be7f"
+source = "https://bin.ajam.dev/x64_Windows/wget2.exe"
+language = "C"
+license = "GNU Lesser General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["wget2.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest"]
+categories = ["Utilities"]

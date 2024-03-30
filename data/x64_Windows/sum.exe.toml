@@ -1,0 +1,26 @@
+[bin]
+name = "sum.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "sum.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "869.38 kB"
+bsum = "c656748d900eed257262f3316721bc8ef2352ea766dd9d3d1b5196da15505f60"
+sha = "ac32d43ccfb2720b23f2c9d5fc2ba70d4bc60a0dcb25548351e18e1d40657020"
+source = "https://bin.ajam.dev/x64_Windows/sum.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sum.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

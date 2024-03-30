@@ -1,0 +1,26 @@
+[bin]
+name = "tr.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "tr.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "911.36 kB"
+bsum = "584e793ec2c5e6f5a2d8580366f29ec5c18ad8c795a5ceb1156a051f520966be"
+sha = "d7c2d90ac1b27fc41e9167a51868edbd26fe9733b19efaa59c39107e2e233c64"
+source = "https://bin.ajam.dev/x64_Windows/tr.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tr.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

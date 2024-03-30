@@ -1,0 +1,26 @@
+[bin]
+name = "pwd.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "pwd.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "830.98 kB"
+bsum = "ee94a856c1616bfbf90e703d5e452a1a7dd824bde08c44a57dfe3e2ffebead18"
+sha = "3ea4829e692616a42b1f2f45b708e8bb624dc19e34a304b95f201e25175160b9"
+source = "https://bin.ajam.dev/x64_Windows/pwd.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pwd.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "sleep.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "sleep.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "846.34 kB"
+bsum = "98fcc47c0e8f720478fe94b2f4973b2df4751f03450098f01fe11d9bbbb382cc"
+sha = "06ceefe57a4ec6370935b910c6d845c67f2ba492e4461d552c873a8d2b112645"
+source = "https://bin.ajam.dev/x64_Windows/sleep.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sleep.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

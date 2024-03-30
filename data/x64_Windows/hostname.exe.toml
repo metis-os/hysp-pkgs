@@ -1,0 +1,26 @@
+[bin]
+name = "hostname.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "hostname.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "861.18 kB"
+bsum = "df6397d1ac291030ca9e9304dab3b216d1132e04a3ec6efb4285f9c606fafc40"
+sha = "b6db7fd7b6546ebc07885d818d931517f1e79b11b42815918153dca15f986dc7"
+source = "https://bin.ajam.dev/x64_Windows/hostname.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hostname.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

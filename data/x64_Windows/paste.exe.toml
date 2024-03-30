@@ -1,0 +1,26 @@
+[bin]
+name = "paste.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "paste.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "849.92 kB"
+bsum = "bf1578b2c1c8c7bf19a733369d40918c24af5dd04ebd494181e77be69e6112a3"
+sha = "675ebf3dcfd9e3f693d52d5d3abe489916f758daa23bc5c67fb12d4e868db50a"
+source = "https://bin.ajam.dev/x64_Windows/paste.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["paste.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

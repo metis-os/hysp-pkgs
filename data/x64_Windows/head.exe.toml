@@ -1,0 +1,26 @@
+[bin]
+name = "head.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "head.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "916.99 kB"
+bsum = "f02dd01f87d7501d062587260cc77ac5bb994abe7d5822dda8a1365f9d16991b"
+sha = "8a5685dbd4da147bc442274daa99109387ac9253bf0cd5e8c7ebe0a202653186"
+source = "https://bin.ajam.dev/x64_Windows/head.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["head.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

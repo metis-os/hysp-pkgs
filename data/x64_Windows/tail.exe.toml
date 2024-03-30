@@ -1,0 +1,26 @@
+[bin]
+name = "tail.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "tail.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "1.36 MB"
+bsum = "1022ff09f3f9db7dd6597089ff9c23de7fba583d138d818a870e7330947970c5"
+sha = "8368c22f5484f9a2220b88b5623f545cfe4958d4c186e5cc29fc61068caf3c88"
+source = "https://bin.ajam.dev/x64_Windows/tail.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tail.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

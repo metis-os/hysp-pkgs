@@ -1,0 +1,26 @@
+[bin]
+name = "shuf.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "shuf.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "929.79 kB"
+bsum = "3e9a13b6e947581c372af091259018d7622cc977ef2c27fce9d8d96866c0aaf9"
+sha = "aebfcf01444cbfa33507b96f0faf48bac16d96ae69f5683a795c17c7e15634b8"
+source = "https://bin.ajam.dev/x64_Windows/shuf.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["shuf.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

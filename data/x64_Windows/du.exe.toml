@@ -1,0 +1,26 @@
+[bin]
+name = "du.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "du.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "1.16 MB"
+bsum = "8dea3bf6c14d063c7aa35e1177dbc65f113affa5ec0a9f7f677bda673f7d1e87"
+sha = "4d131d0b60e908ee899a244c6c47ca649e169082b81c21cdcb7584e445d0cd48"
+source = "https://bin.ajam.dev/x64_Windows/du.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["du.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

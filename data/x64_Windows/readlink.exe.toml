@@ -1,0 +1,26 @@
+[bin]
+name = "readlink.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "readlink.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "891.39 kB"
+bsum = "330ebf62f8827543d1b963bd977b91c77a351f486ba7f0545e0caeaaf5f0c5d6"
+sha = "2ffe53f36ac8685aef1b7337c3ed2fb89a7f4df85cd32a1701d02637e90521a1"
+source = "https://bin.ajam.dev/x64_Windows/readlink.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["readlink.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

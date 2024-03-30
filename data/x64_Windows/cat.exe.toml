@@ -1,0 +1,26 @@
+[bin]
+name = "cat.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "cat.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "873.47 kB"
+bsum = "289f438c53d99e31b3459dcc8c7dab2c6068af8d5f4b758fe62901c3509d3f30"
+sha = "8f0ae29a46f3621997303c403d278f36a3b6f462577c4f43c8f201c805eadf0d"
+source = "https://bin.ajam.dev/x64_Windows/cat.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cat.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

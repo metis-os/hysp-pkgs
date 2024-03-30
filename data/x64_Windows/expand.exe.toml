@@ -1,0 +1,26 @@
+[bin]
+name = "expand.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "expand.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "886.78 kB"
+bsum = "528ec099993058f4e45a850250ec10cf890b9e82667873cf10e52103b9a0bb22"
+sha = "a97e75d3532e1aa10cfb1ebcbae7348c04d1e97776dc4fa578dd0c02eef41474"
+source = "https://bin.ajam.dev/x64_Windows/expand.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["expand.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "seq.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "seq.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "1.06 MB"
+bsum = "713ef4f02f2cec0bd5361d7e6287a6515313dc02df514ecc2a02267441395b47"
+sha = "8ac0846c49d449675a887c2d93f32594fb3ea5174cf3e5cb000fb062409db2e9"
+source = "https://bin.ajam.dev/x64_Windows/seq.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["seq.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

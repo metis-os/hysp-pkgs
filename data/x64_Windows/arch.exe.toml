@@ -1,0 +1,26 @@
+[bin]
+name = "arch.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "arch.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "839.17 kB"
+bsum = "be00d052b57a56d527d75f00d26572ac0630729ffab913c224001c46694b4942"
+sha = "7e79f343156961d6aedce589104377a9bce13b5067ef0f658dbf64341ff78538"
+source = "https://bin.ajam.dev/x64_Windows/arch.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["arch.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

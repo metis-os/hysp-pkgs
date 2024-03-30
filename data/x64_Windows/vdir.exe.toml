@@ -1,0 +1,26 @@
+[bin]
+name = "vdir.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "vdir.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "1.3 MB"
+bsum = "52f4876eba226541269f9aca8cfce201cd9defc44cb132b82c59486e9f9d653c"
+sha = "b101ccc51aa0a31a13eea6dae7326876a4a7d95277ffc781955d16e49e3da3a4"
+source = "https://bin.ajam.dev/x64_Windows/vdir.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["vdir.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

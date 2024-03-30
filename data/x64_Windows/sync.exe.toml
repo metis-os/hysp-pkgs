@@ -1,0 +1,26 @@
+[bin]
+name = "sync.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "sync.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "848.38 kB"
+bsum = "d4aa9f98854c0822243e64120df261f9d7c0ddea29d5e0d4fc3bfc4043fec999"
+sha = "bd1d5452b8bc75781d3902e25970b5e9027707fbbebd93fb8bac108cdfc169db"
+source = "https://bin.ajam.dev/x64_Windows/sync.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sync.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "xargs-rs.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "xargs-rs.exe"
+description = "Rust implementation of findutils"
+author = "uutils"
+repo = "https://github.com/uutils/findutils"
+stars = "258"
+version = "0.4.2"
+updated = "2023-07-23T17:18:51Z"
+size = "894.46 kB"
+bsum = "4d3d6e4ea7c4d94d8e83ae55e4ed3426b09bbae0b859d2e16f29b0ab488ac48b"
+sha = "2d16b5dd52a3741bcc493c257bd69bc660429ac6bf4bf981dffed6e5832e9c55"
+source = "https://bin.ajam.dev/x64_Windows/xargs-rs.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["xargs-rs.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["cross-platform","findutils","rust"]
+categories = ["Utilities"]

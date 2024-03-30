@@ -1,0 +1,26 @@
+[bin]
+name = "botsay.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "botsay.exe"
+description = ":robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows"
+author = "xyproto"
+repo = "https://github.com/xyproto/botsay"
+stars = "26"
+version = "v1.3.0"
+updated = "2024-03-14T09:39:36Z"
+size = "1.7 MB"
+bsum = "59103d2bda461e87d532dbbe140e64efb0383aa85abf62c141ed3988c9341bf3"
+sha = "c0a30a00f8d45e5488b69804b6f1496208e24ccde833d323eb271bafeda92bb0"
+source = "https://bin.ajam.dev/x64_Windows/botsay.exe"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["botsay.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["ascii-art","ci","command-line","cowsay","devops","devops-tools","rainbow","synthwave","terminal","utility"]
+categories = ["Utilities"]

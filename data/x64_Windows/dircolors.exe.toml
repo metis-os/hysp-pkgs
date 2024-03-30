@@ -1,0 +1,26 @@
+[bin]
+name = "dircolors.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "dircolors.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "915.97 kB"
+bsum = "33f4c6514caabaf86175146fe00295f1af6923e13147f9d0321fb6be6658c5c3"
+sha = "8d76e3c9cc02bdf062a52669ba31aebb780a9c2e6327d09e25a6f76fc16e22d5"
+source = "https://bin.ajam.dev/x64_Windows/dircolors.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dircolors.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]

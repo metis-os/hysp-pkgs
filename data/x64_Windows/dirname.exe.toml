@@ -1,0 +1,26 @@
+[bin]
+name = "dirname.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "dirname.exe"
+description = "Cross-platform Rust rewrite of the GNU coreutils"
+author = "uutils"
+repo = "https://github.com/uutils/coreutils"
+stars = "16722"
+version = "0.0.25"
+updated = "2024-03-23T20:56:02Z"
+size = "827.9 kB"
+bsum = "b1f5598ea97ed6fc3d9ee4f882dda07b2f2331aa2352d3ac1303926ba72d91a1"
+sha = "d77f246e6dc0cbc2d6b33babb36979942f4e74b21b0e076d5782e147af928b06"
+source = "https://bin.ajam.dev/x64_Windows/dirname.exe"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dirname.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["busybox","command-line-tool","coreutils","cross-platform","gnu-coreutils","rust"]
+categories = ["Utilities"]
