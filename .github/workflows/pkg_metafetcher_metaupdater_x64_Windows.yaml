@@ -69,7 +69,7 @@ jobs:
           #Get Json
           curl -qfsSL "https://bin.ajam.dev/x64_Windows/METADATA.json" -o "/tmp/METADATA.json"
           #Sanity Check
-          if [ -s "/tmp/METADATA.json" ] && jq -e '.[].Repo' "/tmp/METADATA.json" >/dev/null 2>&1; then
+          if [ -s "/tmp/METADATA.json" ] && jq '.[].Repo // empty | if length == 0 then . / 0 else . end' "/tmp/METADATA.json" >/dev/null 2>&1; then
             # #This is unreliable
             # jq -c '.[] | select(.Name | test("\\.7z$|BLAKE3SUM|\\.txt$|\\.json$|\\.log$|\\.md$|SHA256SUM") | not) | select(has("Repo")) | select(.Repo != null) | select(.Repo | test("^https://github.com"))' "/tmp/METADATA.json" | while IFS= read -r obj; do
             #Instead use readarray (Bash Builtin) & a for loop
