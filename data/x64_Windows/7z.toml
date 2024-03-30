@@ -1,0 +1,26 @@
+[bin]
+name = "7z"
+
+[package]
+architecture = "x64_Windows"
+name = "7z"
+description = "7-Zip is a file archiver with a high compression ratio."
+author = "Igor Pavlov"
+repo = "https://sourceforge.net/projects/sevenzip/"
+stars = ""
+version = "24.03"
+updated = "beta"
+size = ""
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x64_Windows/7z"
+language = "C++"
+license = "LGPL-2.1-or-later"
+
+[package.conditions]
+conflicts  = ["7z"]
+requires = []
+
+[package.metadata]
+keywords = ["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]
+categories = ["Utilities"]
