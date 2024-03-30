@@ -3,7 +3,7 @@ name: 🛍️ (AMD64-Windows) Generate | Update ⚙️ Daily Package 📦 Metada
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1-23/2 * * *" #  Every Odd Hrs
+    - cron: "*/95 * * * *" #  Every 95 Mins
   
 env:
   GITHUB_TOKEN: "${{ secrets.HYSP_TOKEN }}"
@@ -97,7 +97,7 @@ jobs:
           #--------------#
           #Generate Basic Meta
           export SOURCE_BIN="https://bin.ajam.dev/x64_Windows"
-          export BIN="7z" ; export DESCRIPTION="7-Zip is a file archiver with a high compression ratio." ;  export AUTHOR="Igor Pavlov" ; export REPO_URL="https://sourceforge.net/projects/sevenzip/" ; export STARS="" ; export SOURCE_URL="https://bin.ajam.dev/x64_Windows/7z" ; export LANGUAGE="C++" ; export LICENSE="LGPL-2.1-or-later" ; export TOPICS='["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]'
+          export BIN="7z.exe" ; export DESCRIPTION="7-Zip is a file archiver with a high compression ratio." ;  export AUTHOR="Igor Pavlov" ; export REPO_URL="https://sourceforge.net/projects/sevenzip/" ; export STARS="" ; export SOURCE_URL="https://bin.ajam.dev/x64_Windows/7z" ; export LANGUAGE="C++" ; export LICENSE="LGPL-2.1-or-later" ; export TOPICS='["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]'
           PKG_METADATA="$(curl -qfsSL "$SOURCE_BIN/METADATA.json" 2>/dev/null | jq --arg bin "$BIN" '.[] | select(.Name == $bin)')" && export PKG_METADATA="$PKG_METADATA" 
           #Generate Dynamic Meta
           BSUM="$(curl -qfsSL "$SOURCE_BIN/BLAKE3SUM.txt" 2>/dev/null | grep -i "\b$BIN\b" | awk '{print $1}' | sort  -u | head -n 1 | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export BSUM="$BSUM"
