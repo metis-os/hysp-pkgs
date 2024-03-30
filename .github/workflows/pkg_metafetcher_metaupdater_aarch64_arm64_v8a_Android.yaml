@@ -332,6 +332,8 @@ jobs:
            awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/aarch64_arm64/*.toml | tee -a "$GITHUB_WORKSPACE/main/data/metadata.toml"
            ##x86_64
            awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x86_64/*.toml | tee -a "$GITHUB_WORKSPACE/main/data/metadata.toml"
+           ##x64_Windows
+           awk '/^\[package\]/ {print "[[packages]]"; in_package = 1; next} /^\[package\.conditions\]/ {in_package = 0; next} in_package {print $0}' $GITHUB_WORKSPACE/main/data/x64_Windows/*.toml | tee -a "$GITHUB_WORKSPACE/main/data/metadata.toml"           
            #Update $GITHUB_WORKSPACE/main/data/metadata.json
            cat "$GITHUB_WORKSPACE/main/data/metadata.toml" | yj -tj | jq . | tee "$GITHUB_WORKSPACE/main/data/metadata.json"
         continue-on-error: true
@@ -372,6 +374,10 @@ jobs:
            unset TOTAL_PACKAGES
            TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
            sed "s/PLACEHOLDER_X86_64/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
+           #x64_Windows
+           unset TOTAL_PACKAGES
+           export TOTAL_PACKAGES="$(cat "$GITHUB_WORKSPACE/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x64_Windows")' | jq -r '.name' | sort -u | wc -l)" && export TOTAL_PACKAGES="$TOTAL_PACKAGES"
+           sed "s/PLACEHOLDER_x64_Windows/$TOTAL_PACKAGES/g" -i "$GITHUB_WORKSPACE/main/README.md"
         continue-on-error: true
         
       - name: Generate Diff (Delta)
@@ -391,6 +397,8 @@ jobs:
           cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "aarch64_arm64" 2>/dev/null | awk '/x86_64/{exit} {print}' 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_aarch64_arm64.txt"
           #x86_64
           cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "x86_64" 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_x86_64.txt"
+          #x64_Windows
+          cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "x64_Windows" 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_x64_Windows.txt"
         continue-on-error: true
 
       - name: Get DateTime
