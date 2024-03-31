@@ -136,97 +136,100 @@
 │ 455│ nrp                              │ 430│ nrp
 │ 456│ nu                               │ 431│ nu
 │ 457│ nuclei                           │ 432│ nuclei
+│ 509│ qsreplace                        │ 484│ qsreplace
+│ 510│ qsv                              │ 485│ qsv
 │ 511│ quickcert                        │ 486│ quickcert
-│ 512│ rage                             │ 487│ rage
-│ 513│ rage-keygen                      │ 488│ rage-keygen
-│ 514│-rapwp                            │    │
-│ 515│ rate-limit-checker               │ 489│ rate-limit-checker
-│ 516│ rathole                          │ 490│ rathole
-│ 517│ rattler-build                    │ 491│ rattler-build
-│ 525│ rekor-cli                        │ 499│ rekor-cli
-│ 526│ rekor-server                     │ 500│ rekor-server
-│ 527│ relic                            │ 501│ relic
-│ 528│-removehost                       │    │
-│ 529│-removepro                        │    │
-│ 530│ reptyr                           │ 502│ reptyr
-│ 531│ rescope                          │ 503│ rescope
-│ 532│ resdns                           │ 504│ resdns
-│ 540│ ripgen                           │ 512│ ripgen
-│ 541│ ripgrep                          │ 513│ ripgrep
-│ 542│ rnr                              │ 514│ rnr
-│ 543│-robotstxt                        │    │
-│ 544│ roboxtractor                     │ 515│ roboxtractor
-│ 545│ rootlesskit                      │ 516│ rootlesskit
-│ 546│ rootlesskit-docker-proxy         │ 517│ rootlesskit-docker-proxy
-│ 547│ ropr                             │ 518│ ropr
-│ 548│ rospo                            │ 519│ rospo
-│ 549│ rpaste                           │ 520│ rpaste
-│ 550│-rpfu                             │    │
-│ 551│ rqbit                            │ 521│ rqbit
-│ 552│ rshijack                         │ 522│ rshijack
-│ 553│ rsync                            │ 523│ rsync
-│ 621│ stew                             │ 591│ stew
-│ 622│ strace                           │ 592│ strace
-│ 623│ stree                            │ 593│ stree
-│ 624│-stress-ng                        │    │
-│ 625│ sttr                             │ 594│ sttr
-│ 626│ stuffbin                         │ 595│ stuffbin
-│ 627│ su-rs                            │ 596│ su-rs
-│ 637│ svg-hush                         │ 606│ svg-hush
-│ 638│ syncat                           │ 607│ syncat
-│ 639│ syncthing                        │ 608│ syncthing
-│ 640│-sysbox-fs                        │    │
-│ 641│-sysbox-mgr                       │    │
-│ 642│-sysbox-runc                      │    │
-│ 643│ sysinfo-collector                │ 609│ sysinfo-collector
-│ 644│ sysstat                          │ 610│ sysstat
-│ 645│ system-info-collector            │ 611│ system-info-collector
-│ 677│ tty2web                          │ 643│ tty2web
-│ 678│ ttyd                             │ 644│ ttyd
-│ 679│ ttyrec2ansi                      │ 645│ ttyrec2ansi
-│ 680│-tuiarchiver                      │    │
-│ 681│ tut                              │ 646│ tut
-│ 682│-twingate-client                  │    │
-│ 683│-twingate-connector               │    │
-│ 684│-twingate-connector-staticx       │    │
-│ 685│-twingate-connectorctl            │    │
-│ 686│-twingate-notifier                │    │
-│ 687│ txeh                             │ 647│ txeh
-│ 688│ tz                               │ 648│ tz
-│ 689│ u-root                           │ 649│ u-root
-│ 692│ uncover                          │ 652│ uncover
-│ 693│ unf                              │ 653│ unf
-│ 694│ unfurl                           │ 654│ unfurl
-│ 695│-unix2dos                         │    │
-│ 696│-unix2mac                         │    │
-│ 697│ upx                              │ 655│ upx
-│ 698│ usql                             │ 656│ usql
-│ 699│ v2raya                           │ 657│ v2raya
-│ 700│-v6disk                           │    │
-│ 701│ v6run                            │ 658│ v6run
-│ 702│ validtoml                        │ 659│ validtoml
-│ 703│ vegeta                           │ 660│ vegeta
-│ 716│ wadl-dumper                      │ 673│ wadl-dumper
-│ 717│ walk                             │ 674│ walk
-│ 718│ warp                             │ 675│ warp
-│ 719│-warp-cli                         │    │
-│ 720│-warp-dex                         │    │
-│ 721│-warp-diag                        │    │
-│ 722│-warp-svc                         │    │
-│ 723│-wasminspect                      │    │
-│ 724│ watchexec                        │ 676│ watchexec
-│ 725│ waybackrobots                    │ 677│ waybackrobots
-│ 726│ waybackurls                      │ 678│ waybackurls
-│ 727│ web-cache-vulnerability-scanner  │ 679│ web-cache-vulnerability-scanner
-│ 728│ websocat                         │ 680│ websocat
-│ 729│ wego                             │ 681│ wego
-│ 730│-wget                             │    │
-│ 731│-whois                            │    │
-│ 732│ wireguard-go                     │ 682│ wireguard-go
-│ 733│-wireguard-rs                     │    │
-│ 734│ wireproxy                        │ 683│ wireproxy
-│ 735│ wiretap                          │ 684│ wiretap
-│ 736│ wormhole-rs                      │ 685│ wormhole-rs
+│ 512│-quotes-escaper                   │    │
+│ 513│ rage                             │ 487│ rage
+│ 514│ rage-keygen                      │ 488│ rage-keygen
+│ 515│-rapwp                            │    │
+│ 516│ rate-limit-checker               │ 489│ rate-limit-checker
+│ 517│ rathole                          │ 490│ rathole
+│ 518│ rattler-build                    │ 491│ rattler-build
+│ 526│ rekor-cli                        │ 499│ rekor-cli
+│ 527│ rekor-server                     │ 500│ rekor-server
+│ 528│ relic                            │ 501│ relic
+│ 529│-removehost                       │    │
+│ 530│-removepro                        │    │
+│ 531│ reptyr                           │ 502│ reptyr
+│ 532│ rescope                          │ 503│ rescope
+│ 533│ resdns                           │ 504│ resdns
+│ 541│ ripgen                           │ 512│ ripgen
+│ 542│ ripgrep                          │ 513│ ripgrep
+│ 543│ rnr                              │ 514│ rnr
+│ 544│-robotstxt                        │    │
+│ 545│ roboxtractor                     │ 515│ roboxtractor
+│ 546│ rootlesskit                      │ 516│ rootlesskit
+│ 547│ rootlesskit-docker-proxy         │ 517│ rootlesskit-docker-proxy
+│ 548│ ropr                             │ 518│ ropr
+│ 549│ rospo                            │ 519│ rospo
+│ 550│ rpaste                           │ 520│ rpaste
+│ 551│-rpfu                             │    │
+│ 552│ rqbit                            │ 521│ rqbit
+│ 553│ rshijack                         │ 522│ rshijack
+│ 554│ rsync                            │ 523│ rsync
+│ 622│ stew                             │ 591│ stew
+│ 623│ strace                           │ 592│ strace
+│ 624│ stree                            │ 593│ stree
+│ 625│-stress-ng                        │    │
+│ 626│ sttr                             │ 594│ sttr
+│ 627│ stuffbin                         │ 595│ stuffbin
+│ 628│ su-rs                            │ 596│ su-rs
+│ 638│ svg-hush                         │ 606│ svg-hush
+│ 639│ syncat                           │ 607│ syncat
+│ 640│ syncthing                        │ 608│ syncthing
+│ 641│-sysbox-fs                        │    │
+│ 642│-sysbox-mgr                       │    │
+│ 643│-sysbox-runc                      │    │
+│ 644│ sysinfo-collector                │ 609│ sysinfo-collector
+│ 645│ sysstat                          │ 610│ sysstat
+│ 646│ system-info-collector            │ 611│ system-info-collector
+│ 678│ tty2web                          │ 643│ tty2web
+│ 679│ ttyd                             │ 644│ ttyd
+│ 680│ ttyrec2ansi                      │ 645│ ttyrec2ansi
+│ 681│-tuiarchiver                      │    │
+│ 682│ tut                              │ 646│ tut
+│ 683│-twingate-client                  │    │
+│ 684│-twingate-connector               │    │
+│ 685│-twingate-connector-staticx       │    │
+│ 686│-twingate-connectorctl            │    │
+│ 687│-twingate-notifier                │    │
+│ 688│ txeh                             │ 647│ txeh
+│ 689│ tz                               │ 648│ tz
+│ 690│ u-root                           │ 649│ u-root
+│ 693│ uncover                          │ 652│ uncover
+│ 694│ unf                              │ 653│ unf
+│ 695│ unfurl                           │ 654│ unfurl
+│ 696│-unix2dos                         │    │
+│ 697│-unix2mac                         │    │
+│ 698│ upx                              │ 655│ upx
+│ 699│ usql                             │ 656│ usql
+│ 700│ v2raya                           │ 657│ v2raya
+│ 701│-v6disk                           │    │
+│ 702│ v6run                            │ 658│ v6run
+│ 703│ validtoml                        │ 659│ validtoml
+│ 704│ vegeta                           │ 660│ vegeta
+│ 717│ wadl-dumper                      │ 673│ wadl-dumper
+│ 718│ walk                             │ 674│ walk
+│ 719│ warp                             │ 675│ warp
+│ 720│-warp-cli                         │    │
+│ 721│-warp-dex                         │    │
+│ 722│-warp-diag                        │    │
+│ 723│-warp-svc                         │    │
+│ 724│-wasminspect                      │    │
+│ 725│ watchexec                        │ 676│ watchexec
+│ 726│ waybackrobots                    │ 677│ waybackrobots
+│ 727│ waybackurls                      │ 678│ waybackurls
+│ 728│ web-cache-vulnerability-scanner  │ 679│ web-cache-vulnerability-scanner
+│ 729│ websocat                         │ 680│ websocat
+│ 730│ wego                             │ 681│ wego
+│ 731│-wget                             │    │
+│ 732│-whois                            │    │
+│ 733│ wireguard-go                     │ 682│ wireguard-go
+│ 734│-wireguard-rs                     │    │
+│ 735│ wireproxy                        │ 683│ wireproxy
+│ 736│ wiretap                          │ 684│ wiretap
+│ 737│ wormhole-rs                      │ 685│ wormhole-rs
 
 
 
@@ -421,100 +424,3 @@
 │ 756│ wireguard-rs                     │ 715│ wireguard-rs
 │ 757│ wireproxy                        │ 716│ wireproxy
 
-
-
-[+] x64_Windows
-
-│    │                                  │  1 │+7z
-│  1 │ 7z.exe                           │  2 │ 7z.exe
-│  2 │ actionlint.exe                   │  3 │ actionlint.exe
-│  3 │ anew-rs.exe                      │  4 │ anew-rs.exe
-│ 11 │ bat.exe                          │ 12 │ bat.exe
-│ 12 │ batcat.exe                       │ 13 │ batcat.exe
-│ 13 │ botsay.exe                       │ 14 │ botsay.exe
-│ 14 │-busybox-unicode.exe              │    │
-│ 15 │-busybox.exe                      │    │
-│ 16 │ cat.exe                          │ 15 │ cat.exe
-│ 17 │ cheat.exe                        │ 16 │ cheat.exe
-│ 18 │ cksum.exe                        │ 17 │ cksum.exe
-│ 21 │ coreutils-rs.exe                 │ 20 │ coreutils-rs.exe
-│ 22 │ coreutils.exe                    │ 21 │ coreutils.exe
-│ 23 │ cp.exe                           │ 22 │ cp.exe
-│ 24 │-croc.exe                         │    │
-│ 25 │ csplit.exe                       │ 23 │ csplit.exe
-│ 26 │ curl.exe                         │ 24 │ curl.exe
-│ 27 │ cut.exe                          │ 25 │ cut.exe
-│ 33 │ dirname.exe                      │ 31 │ dirname.exe
-│ 34 │ du.exe                           │ 32 │ du.exe
-│ 35 │ dua.exe                          │ 33 │ dua.exe
-│ 36 │-dust.exe                         │    │
-│ 37 │ echo.exe                         │ 34 │ echo.exe
-│ 38 │-eget.exe                         │    │
-│ 39 │-ein.exe                          │    │
-│ 40 │ env.exe                          │ 35 │ env.exe
-│ 41 │-err.exe                          │    │
-│ 42 │ expand.exe                       │ 36 │ expand.exe
-│ 43 │ expr.exe                         │ 37 │ expr.exe
-│ 44 │ factor.exe                       │ 38 │ factor.exe
-│ 45 │ false.exe                        │ 39 │ false.exe
-│ 46 │ fastfetch.exe                    │ 40 │ fastfetch.exe
-│ 47 │-ffmpeg.exe                       │    │
-│ 48 │-ffplay.exe                       │    │
-│ 49 │-ffprobe.exe                      │    │
-│ 50 │ find-rs.exe                      │ 41 │ find-rs.exe
-│ 51 │ find.exe                         │ 42 │ find.exe
-│ 52 │ flashfetch.exe                   │ 43 │ flashfetch.exe
-│ 53 │ fmt.exe                          │ 44 │ fmt.exe
-│ 54 │ fold.exe                         │ 45 │ fold.exe
-│ 55 │ gdu.exe                          │ 46 │ gdu.exe
-│ 56 │-gix.exe                          │    │
-│ 57 │ hashsum.exe                      │ 47 │ hashsum.exe
-│ 58 │ head.exe                         │ 48 │ head.exe
-│ 59 │ hostname.exe                     │ 49 │ hostname.exe
-│ 60 │ hyperfine.exe                    │ 50 │ hyperfine.exe
-│ 61 │-inscope.exe                      │    │
-│ 62 │-iperf3.exe                       │    │
-│ 63 │ join.exe                         │ 51 │ join.exe
-│ 64 │ jq.exe                           │ 52 │ jq.exe
-│ 65 │ link.exe                         │ 53 │ link.exe
-│ 71 │ mktemp.exe                       │ 59 │ mktemp.exe
-│ 72 │ more.exe                         │ 60 │ more.exe
-│ 73 │ mv.exe                           │ 61 │ mv.exe
-│ 74 │-ngrok.exe                        │    │
-│ 75 │ nl.exe                           │ 62 │ nl.exe
-│ 76 │ nproc.exe                        │ 63 │ nproc.exe
-│ 77 │ numfmt.exe                       │ 64 │ numfmt.exe
-│ 79 │ pandoc.exe                       │ 66 │ pandoc.exe
-│ 80 │ paste.exe                        │ 67 │ paste.exe
-│ 81 │ pdfcpu.exe                       │ 68 │ pdfcpu.exe
-│ 82 │-pdfdetach.exe                    │    │
-│ 83 │-pdffonts.exe                     │    │
-│ 84 │-pdfimages.exe                    │    │
-│ 85 │-pdfinfo.exe                      │    │
-│ 86 │-pdftopng.exe                     │    │
-│ 87 │-pdftoppm.exe                     │    │
-│ 88 │-pdftops.exe                      │    │
-│ 89 │-pdftotext.exe                    │    │
-│ 90 │ pr.exe                           │ 69 │ pr.exe
-│ 91 │ printenv.exe                     │ 70 │ printenv.exe
-│ 92 │ printf.exe                       │ 71 │ printf.exe
-│ 103│ sleep.exe                        │ 82 │ sleep.exe
-│ 104│ sort.exe                         │ 83 │ sort.exe
-│ 105│ split.exe                        │ 84 │ split.exe
-│ 106│-stP1kAlM                         │    │
-│ 107│-stiG2Kb7                         │    │
-│ 108│ sum.exe                          │ 85 │ sum.exe
-│ 109│ sync.exe                         │ 86 │ sync.exe
-│ 110│ tac.exe                          │ 87 │ tac.exe
-│ 121│ unexpand.exe                     │ 98 │ unexpand.exe
-│ 122│ uniq.exe                         │ 99 │ uniq.exe
-│ 123│ unlink.exe                       │ 100│ unlink.exe
-│ 124│-upx.exe                          │    │
-│ 125│ vdir.exe                         │ 101│ vdir.exe
-│ 126│ wc.exe                           │ 102│ wc.exe
-│ 127│ wget2.exe                        │ 103│ wget2.exe
-│ 129│ xargs-rs.exe                     │ 105│ xargs-rs.exe
-│ 130│ xargs.exe                        │ 106│ xargs.exe
-│ 131│ yes.exe                          │ 107│ yes.exe
-
-│ 132│-yq.exe                           │ 108│+yt-dlp.exe
