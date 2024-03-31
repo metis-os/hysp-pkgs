@@ -338,7 +338,7 @@
 - **Description:** A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
 - **Author:** agnostic-apollo
 - **Repository:** [https://github.com/agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo)
-- **Stars:** 70
+- **Stars:** 71
 - **Version:** v0.2.0
 - **Updated:** 2021-04-10T21:03:11Z
 - **Size:** 250.38 kB
