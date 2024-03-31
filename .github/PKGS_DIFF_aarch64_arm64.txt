@@ -23,7 +23,6 @@
 │ 437│-netstat                          │    │
 │ 444│-ngrok                            │    │
 │ 454│-nping                            │    │
-│ 512│-quotes-escaper                   │    │
 │ 515│-rapwp                            │    │
 │ 529│-removehost                       │    │
 │ 530│-removepro                        │    │
