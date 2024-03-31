@@ -34,7 +34,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 38
+- **Stars:** 39
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.76 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 23289
+- **Stars:** 23290
 - **Version:** v2.27.0
 - **Updated:** 2024-01-02T14:38:37Z
 - **Size:** 13.94 MB
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6695
+- **Stars:** 6696
 - **Version:** v1.6.0
 - **Updated:** 2024-03-06T19:33:45Z
 - **Size:** 42.14 MB
@@ -306,7 +306,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 38
+- **Stars:** 39
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.61 MB
