@@ -39,3 +39,28 @@
 │ 745│-warp-svc                         │    │
 │ 753│-wget                             │    │
 │ 754│-whois                            │    │
+│ 14 │-busybox-unicode.exe              │    │
+│ 15 │-busybox.exe                      │    │
+│ 24 │-croc.exe                         │    │
+│ 36 │-dust.exe                         │    │
+│ 38 │-eget.exe                         │    │
+│ 39 │-ein.exe                          │    │
+│ 41 │-err.exe                          │    │
+│ 47 │-ffmpeg.exe                       │    │
+│ 48 │-ffplay.exe                       │    │
+│ 49 │-ffprobe.exe                      │    │
+│ 56 │-gix.exe                          │    │
+│ 61 │-inscope.exe                      │    │
+│ 62 │-iperf3.exe                       │    │
+│ 74 │-ngrok.exe                        │    │
+│ 82 │-pdfdetach.exe                    │    │
+│ 83 │-pdffonts.exe                     │    │
+│ 84 │-pdfimages.exe                    │    │
+│ 85 │-pdfinfo.exe                      │    │
+│ 86 │-pdftopng.exe                     │    │
+│ 87 │-pdftoppm.exe                     │    │
+│ 88 │-pdftops.exe                      │    │
+│ 89 │-pdftotext.exe                    │    │
+│ 106│-stP1kAlM                         │    │
+│ 107│-stiG2Kb7                         │    │
+│ 124│-upx.exe                          │    │
