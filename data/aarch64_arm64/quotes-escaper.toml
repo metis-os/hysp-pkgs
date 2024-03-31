@@ -1,0 +1,26 @@
+[bin]
+name = "quotes-escaper"
+
+[package]
+architecture = "aarch64_arm64"
+name = "quotes-escaper"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "40"
+version = "null"
+updated = ""
+size = "1.51 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/quotes-escaper"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["quotes-escaper"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]
