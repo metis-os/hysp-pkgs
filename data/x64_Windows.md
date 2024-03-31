@@ -626,7 +626,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 1981
+- **Stars:** 1982
 - **Version:** 2.8.10
 - **Updated:** 2024-03-25T06:38:52Z
 - **Size:** 1.33 MB
@@ -674,7 +674,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 1981
+- **Stars:** 1982
 - **Version:** 2.8.10
 - **Updated:** 2024-03-25T06:38:52Z
 - **Size:** 1.18 MB
