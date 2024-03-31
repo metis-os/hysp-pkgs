@@ -17,7 +17,6 @@
 │ 465│-nping                            │    │
 │ 466│-nrich                            │    │
 │ 511│-procan                           │    │
-│ 526│-quotes-escaper                   │    │
 │ 542│-rekor                            │    │
 │ 619│-socat                            │    │
 │ 646│-stress-ng                        │    │
