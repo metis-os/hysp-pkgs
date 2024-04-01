@@ -7,7 +7,7 @@ name = "yazi"
 description = "💥 Blazing fast terminal file manager written in Rust, based on async I/O."
 author = "sxyazi"
 repo = "https://github.com/sxyazi/yazi"
-stars = "7530"
+stars = "7531"
 version = "v0.2.4"
 updated = "2024-03-09T13:14:28Z"
 size = "15.88 MB"
@@ -22,5 +22,5 @@ conflicts  = ["yazi"]
 requires = []
 
 [package.metadata]
-keywords = ["android","asyncio","cli","concurrency","file-explorer","file-manager","linux","macos","productivity","rust","terminal","tui","vim","windows","yazi"]
+keywords = ["android","asyncio","cli","concurrency","file-explorer","file-manager","helix","linux","macos","neovim","productivity","rust","terminal","tui","vim","windows","yazi"]
 categories = ["Utilities"]
