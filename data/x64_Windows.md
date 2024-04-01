@@ -242,7 +242,7 @@
 - **Description:** cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - **Author:** cheat
 - **Repository:** [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
-- **Stars:** 11845
+- **Stars:** 11846
 - **Version:** 4.4.2
 - **Updated:** 2023-12-15T17:55:49Z
 - **Size:** 11.57 MB
@@ -274,7 +274,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 7749
+- **Stars:** 7750
 - **Version:** 2024.3.0
 - **Updated:** 2024-03-20T10:11:33Z
 - **Size:** 26.46 MB
@@ -626,7 +626,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 1984
+- **Stars:** 1985
 - **Version:** 2.8.10
 - **Updated:** 2024-03-25T06:38:52Z
 - **Size:** 1.33 MB
@@ -674,7 +674,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 1984
+- **Stars:** 1985
 - **Version:** 2.8.10
 - **Updated:** 2024-03-25T06:38:52Z
 - **Size:** 1.18 MB
@@ -757,7 +757,7 @@
 - **Stars:** 16727
 - **Version:** 0.0.25
 - **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 916.99 kB
+- **Size:** 916.48 kB
 - **SHA256SUM:** 085a49ef76cf3171b0dffd087833ba5c84ad0de90c21472274f0fa2950eea8e1
 - **B3SUM:** 7ac6e1609ffc57c7c2652e615ee1c5e182bb92b1786cc04ec79566b3c7f339a8
 - **Source:** https://bin.ajam.dev/x64_Windows/head.exe
@@ -786,7 +786,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 19626
+- **Stars:** 19629
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -882,7 +882,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23761
+- **Stars:** 23763
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.88 MB
@@ -1125,7 +1125,7 @@
 - **Stars:** 16727
 - **Version:** 0.0.25
 - **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 925.18 kB
+- **Size:** 924.67 kB
 - **SHA256SUM:** 4173f0b50d402405f7b0799a858a5b132733c593b014e943eaa9b5167ef1a941
 - **B3SUM:** c94192016646f970efe71da5fb78dd1141501a51f03699a21f1091c02e838294
 - **Source:** https://bin.ajam.dev/x64_Windows/printf.exe
@@ -1202,7 +1202,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 44343
+- **Stars:** 44344
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1714,12 +1714,12 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 68951
+- **Stars:** 69019
 - **Version:** 2024.03.10
 - **Updated:** 2024-03-10T19:47:18Z
 - **Size:** 173.06 kB
-- **SHA256SUM:** 43c29277304bdb2c2a27d0d8a88c465fa6256b4e084b764284d0275f067d1185
-- **B3SUM:** 016e0156aafba2d6988fcf55e9c79d7fcb4d0a01760144042ed4112c7bb85d47
+- **SHA256SUM:** a8e4c4e99dc2efe4e59999db476bae880a536a82229fb0b224f91776d579539e
+- **B3SUM:** bdaa0cc946c9b906044d1b6ae42905467d05f573f8935059cde8bf45b75ab2b1
 - **Source:** https://bin.ajam.dev/x64_Windows/yt-dlp.exe
 - **Language:** Python
 - **License:** The Unlicense
