@@ -292,7 +292,7 @@
 - **Repository:** [https://github.com/DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)
 - **Stars:** 4485
 - **Version:** v1.2.1
-- **Updated:** 2023-01-17T21:10:08Z
+- **Updated:** 2023-01-17T20:48:02Z
 - **Size:** 3.65 MB
 - **SHASUM:** 5ff6329de00d7ac09a5e7be27c456ff0a5ffa0fd0e467c5c433943e5f8639586
 - **B3SUM:** f40145c7ad067ae4ba7ae779c52c5c38c9ad93dbcc02d300de48b48add277194
@@ -322,7 +322,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1132
+- **Stars:** 1133
 - **Version:** v2.28.0
 - **Updated:** 2024-03-08T23:46:33Z
 - **Size:** 6.8 MB
