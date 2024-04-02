@@ -1,19 +1,3 @@
-### anew
-- **Description:** A tool for adding new lines to files, skipping duplicates
-- **Author:** tomnomnom
-- **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1191
-- **Version:** v0.1.1
-- **Updated:** 2022-03-15T22:35:31Z
-- **Size:** 1.48 MB
-- **SHASUM:** a22d40cb1fccf69941e047a8703817557f72cf9a12ab9355f69bb60c402188cd
-- **B3SUM:** 3b3cc422b7678ad6e2b2ec07a85a771efde21ab72c485e7b35abad229a9d0334
-- **Source:** https://bin.ajam.dev/arm64_v8a_Android/anew
-- **Language:** Go
-- **License:** MIT License
-
----
-
 ### btm
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
@@ -114,7 +98,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11288
+- **Stars:** 11289
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
@@ -130,7 +114,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 23309
+- **Stars:** 23311
 - **Version:** v2.28.0
 - **Updated:** 2024-04-01T14:30:24Z
 - **Size:** 13.94 MB
@@ -290,7 +274,7 @@
 - **Description:** Monitor linux processes without root permissions
 - **Author:** DominicBreuker
 - **Repository:** [https://github.com/DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)
-- **Stars:** 4486
+- **Stars:** 4487
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.65 MB
