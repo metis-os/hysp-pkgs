@@ -1,3 +1,19 @@
+### anew
+- **Description:** A tool for adding new lines to files, skipping duplicates
+- **Author:** tomnomnom
+- **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
+- **Stars:** 1192
+- **Version:** v0.1.1
+- **Updated:** 2022-03-15T22:35:31Z
+- **Size:** 1.48 MB
+- **SHASUM:** a22d40cb1fccf69941e047a8703817557f72cf9a12ab9355f69bb60c402188cd
+- **B3SUM:** 3b3cc422b7678ad6e2b2ec07a85a771efde21ab72c485e7b35abad229a9d0334
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/anew
+- **Language:** Go
+- **License:** MIT License
+
+---
+
 ### btm
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
