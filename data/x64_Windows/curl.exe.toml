@@ -4,7 +4,7 @@ name = "curl.exe"
 [package]
 architecture = "x64_Windows"
 name = "curl.exe"
-description = "fully static builds cURL with HTTP3"
+description = "static builds cURL with HTTP3"
 author = "stunnel"
 repo = "https://github.com/stunnel/static-curl"
 stars = "118"
