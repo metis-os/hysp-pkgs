@@ -7,62 +7,43 @@
 │ 147│-daytona                          │    │
 │ 174│-dos2unix                         │    │
 │ 230│-filan                            │    │
-│ 297│-gotld                            │    │
-│ 400│-mac2unix                         │    │
-│ 426│-mkpasswd                         │    │
-│ 441│-ncat                             │    │
-│ 442│-ncdu                             │    │
-│ 447│-netstat                          │    │
-│ 454│-ngrok                            │    │
-│ 465│-nping                            │    │
-│ 466│-nrich                            │    │
-│ 511│-procan                           │    │
-│ 542│-rekor                            │    │
-│ 619│-socat                            │    │
-│ 646│-stress-ng                        │    │
-│ 662│-sysbox-fs                        │    │
-│ 663│-sysbox-mgr                       │    │
-│ 664│-sysbox-runc                      │    │
-│ 699│-trurl                            │    │
-│ 704│-tuiarchiver                      │    │
-│ 706│-twingate-client                  │    │
-│ 707│-twingate-connector               │    │
-│ 708│-twingate-connector-staticx       │    │
-│ 709│-twingate-connectorctl            │    │
-│ 710│-twingate-notifier                │    │
-│ 719│-unix2dos                         │    │
-│ 720│-unix2mac                         │    │
-│ 724│-v6disk                           │    │
-│ 743│-warp-cli                         │    │
-│ 744│-warp-dex                         │    │
-│ 745│-warp-diag                        │    │
-│ 746│-warp-svc                         │    │
-│ 754│-wget                             │    │
-│ 755│-whois                            │    │
-│ 14 │-busybox-unicode.exe              │    │
-│ 15 │-busybox.exe                      │    │
-│ 24 │-croc.exe                         │    │
-│ 36 │-dust.exe                         │    │
-│ 38 │-eget.exe                         │    │
-│ 39 │-ein.exe                          │    │
-│ 41 │-err.exe                          │    │
-│ 47 │-ffmpeg.exe                       │    │
-│ 48 │-ffplay.exe                       │    │
-│ 49 │-ffprobe.exe                      │    │
-│ 56 │-gix.exe                          │    │
-│ 61 │-inscope.exe                      │    │
-│ 62 │-iperf3.exe                       │    │
-│ 74 │-ngrok.exe                        │    │
-│ 82 │-pdfdetach.exe                    │    │
-│ 83 │-pdffonts.exe                     │    │
-│ 84 │-pdfimages.exe                    │    │
-│ 85 │-pdfinfo.exe                      │    │
-│ 86 │-pdftopng.exe                     │    │
-│ 87 │-pdftoppm.exe                     │    │
-│ 88 │-pdftops.exe                      │    │
-│ 89 │-pdftotext.exe                    │    │
-│ 95 │-quotes-escaper.exe               │    │
-│ 107│-stP1kAlM                         │    │
-│ 108│-stiG2Kb7                         │    │
-│ 125│-upx.exe                          │    │
-│ 133│-yq.exe                           │    │
+│ 247│-gencmddeps                       │    │
+│ 281│-goanywhere                       │    │
+│ 284│-gobusybox                        │    │
+│ 300│-gotld                            │    │
+│ 403│-mac2unix                         │    │
+│ 407│-makebb                           │    │
+│ 408│-makebbmain                       │    │
+│ 431│-mkpasswd                         │    │
+│ 446│-ncat                             │    │
+│ 447│-ncdu                             │    │
+│ 452│-netstat                          │    │
+│ 459│-ngrok                            │    │
+│ 470│-nping                            │    │
+│ 471│-nrich                            │    │
+│ 516│-procan                           │    │
+│ 547│-rekor                            │    │
+│ 561│-rewritepkg                       │    │
+│ 625│-socat                            │    │
+│ 652│-stress-ng                        │    │
+│ 668│-sysbox-fs                        │    │
+│ 669│-sysbox-mgr                       │    │
+│ 670│-sysbox-runc                      │    │
+│ 705│-trurl                            │    │
+│ 710│-tuiarchiver                      │    │
+│ 712│-twingate-client                  │    │
+│ 713│-twingate-connector               │    │
+│ 714│-twingate-connector-staticx       │    │
+│ 715│-twingate-connectorctl            │    │
+│ 716│-twingate-notifier                │    │
+│ 720│-u-root-busybox                   │    │
+│ 726│-unix2dos                         │    │
+│ 727│-unix2mac                         │    │
+│ 729│-uroot-busybox                    │    │
+│ 732│-v6disk                           │    │
+│ 751│-warp-cli                         │    │
+│ 752│-warp-dex                         │    │
+│ 753│-warp-diag                        │    │
+│ 754│-warp-svc                         │    │
+│ 762│-wget                             │    │
+│ 763│-whois                            │    │
