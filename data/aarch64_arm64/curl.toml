@@ -4,7 +4,7 @@ name = "curl"
 [package]
 architecture = "aarch64_arm64"
 name = "curl"
-description = "fully static builds cURL with HTTP3"
+description = "static builds cURL with HTTP3"
 author = "stunnel"
 repo = "https://github.com/stunnel/static-curl"
 stars = "118"
