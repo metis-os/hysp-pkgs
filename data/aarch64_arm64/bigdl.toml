@@ -4,7 +4,7 @@ name = "bigdl"
 [package]
 architecture = "aarch64_arm64"
 name = "bigdl"
-description = "Binary Downloader(s) || Like a package manager, but for statically linked binaries.+957 binaries currently in the repo"
+description = "Statically Linked Binary Manager || Like a package manager, but for statically linked binaries.+1100 binaries currently in the repo"
 author = "xplshn"
 repo = "https://github.com/xplshn/bigdl"
 stars = "2"
@@ -15,7 +15,7 @@ bsum = "311ee8c446496d87faf31cd5d0ad4bc83c9647b5d543167e8d15a31d670965c8"
 sha = "9ab242b1aeb067484bd2f3bf04664d51756f41ac07ee09dc943586ca5a790802"
 source = "https://bin.ajam.dev/aarch64_arm64_Linux/bigdl"
 language = "Go"
-license = "BSD 3-Clause New or Revised License"
+license = "Other"
 
 [package.conditions]
 conflicts  = ["bigdl"]
