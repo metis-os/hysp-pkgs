@@ -98,7 +98,7 @@
 - **Description:** the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - **Author:** BLAKE3-team
 - **Repository:** [https://github.com/BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-- **Stars:** 4545
+- **Stars:** 4546
 - **Version:** 1.5.1
 - **Updated:** 2024-03-12T07:55:27Z
 - **Size:** 1.06 MB
@@ -178,7 +178,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46054
+- **Stars:** 46055
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -194,7 +194,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46054
+- **Stars:** 46055
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -882,7 +882,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23773
+- **Stars:** 23774
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.88 MB
@@ -1042,7 +1042,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32135
+- **Stars:** 32138
 - **Version:** 3.1.12.3
 - **Updated:** 2024-03-18T05:28:18Z
 - **Size:** 158.7 MB
@@ -1714,7 +1714,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69188
+- **Stars:** 69193
 - **Version:** 2024.03.10
 - **Updated:** 2024-03-10T19:47:18Z
 - **Size:** 173.06 kB
