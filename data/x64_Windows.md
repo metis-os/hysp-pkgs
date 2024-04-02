@@ -1042,7 +1042,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32122
+- **Stars:** 32123
 - **Version:** 3.1.12.3
 - **Updated:** 2024-03-18T05:28:18Z
 - **Size:** 158.7 MB
@@ -1714,7 +1714,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69123
+- **Stars:** 69128
 - **Version:** 2024.03.10
 - **Updated:** 2024-03-10T19:47:18Z
 - **Size:** 173.06 kB
