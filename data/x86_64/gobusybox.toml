@@ -1,0 +1,26 @@
+[bin]
+name = "gobusybox"
+
+[package]
+architecture = "x86_64"
+name = "gobusybox"
+description = "Tools for compiling many Go commands into one binary to save space. Builds are supported for vendor-based Go and module-based Go"
+author = "u-root"
+repo = "https://github.com/u-root/gobusybox"
+stars = "124"
+version = "v0.2.0"
+updated = "2024-02-24T23:49:50Z"
+size = "16.98 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/gobusybox"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["gobusybox"]
+requires = []
+
+[package.metadata]
+keywords = ["bazel","busybox","embedded","golang","starlark"]
+categories = ["Utilities"]
