@@ -181,58 +181,53 @@
 │ 650│ sysinfo-collector                │ 616│ sysinfo-collector
 │ 651│ sysstat                          │ 617│ sysstat
 │ 652│ system-info-collector            │ 618│ system-info-collector
-│ 680│ traefik                          │ 646│ traefik
-│ 681│ trip                             │ 647│ trip
-│ 682│ trufflehog                       │ 648│ trufflehog
-│ 683│-trurl                            │    │
-│ 684│ try                              │ 649│ try
-│ 685│ tty2web                          │ 650│ tty2web
-│ 686│ ttyd                             │ 651│ ttyd
-│ 687│ ttyrec2ansi                      │ 652│ ttyrec2ansi
+│ 685│ tty2web                          │ 651│ tty2web
+│ 686│ ttyd                             │ 652│ ttyd
+│ 687│ ttyrec2ansi                      │ 653│ ttyrec2ansi
 │ 688│-tuiarchiver                      │    │
-│ 689│ tut                              │ 653│ tut
+│ 689│ tut                              │ 654│ tut
 │ 690│-twingate-client                  │    │
 │ 691│-twingate-connector               │    │
 │ 692│-twingate-connector-staticx       │    │
 │ 693│-twingate-connectorctl            │    │
 │ 694│-twingate-notifier                │    │
-│ 695│ txeh                             │ 654│ txeh
-│ 696│ tz                               │ 655│ tz
-│ 697│ u-root                           │ 656│ u-root
-│ 701│ uncover                          │ 660│ uncover
-│ 702│ unf                              │ 661│ unf
-│ 703│ unfurl                           │ 662│ unfurl
+│ 695│ txeh                             │ 655│ txeh
+│ 696│ tz                               │ 656│ tz
+│ 697│ u-root                           │ 657│ u-root
+│ 701│ uncover                          │ 661│ uncover
+│ 702│ unf                              │ 662│ unf
+│ 703│ unfurl                           │ 663│ unfurl
 │ 704│-unix2dos                         │    │
 │ 705│-unix2mac                         │    │
-│ 706│ upx                              │ 663│ upx
-│ 707│ uroot-busybox                    │ 664│ uroot-busybox
-│ 708│ usql                             │ 665│ usql
-│ 709│ v2raya                           │ 666│ v2raya
+│ 706│ upx                              │ 664│ upx
+│ 707│ uroot-busybox                    │ 665│ uroot-busybox
+│ 708│ usql                             │ 666│ usql
+│ 709│ v2raya                           │ 667│ v2raya
 │ 710│-v6disk                           │    │
-│ 711│ v6run                            │ 667│ v6run
-│ 712│ validtoml                        │ 668│ validtoml
-│ 713│ vegeta                           │ 669│ vegeta
-│ 726│ wadl-dumper                      │ 682│ wadl-dumper
-│ 727│ walk                             │ 683│ walk
-│ 728│ warp                             │ 684│ warp
+│ 711│ v6run                            │ 668│ v6run
+│ 712│ validtoml                        │ 669│ validtoml
+│ 713│ vegeta                           │ 670│ vegeta
+│ 726│ wadl-dumper                      │ 683│ wadl-dumper
+│ 727│ walk                             │ 684│ walk
+│ 728│ warp                             │ 685│ warp
 │ 729│-warp-cli                         │    │
 │ 730│-warp-dex                         │    │
 │ 731│-warp-diag                        │    │
 │ 732│-warp-svc                         │    │
 │ 733│-wasminspect                      │    │
-│ 734│ watchexec                        │ 685│ watchexec
-│ 735│ waybackrobots                    │ 686│ waybackrobots
-│ 736│ waybackurls                      │ 687│ waybackurls
-│ 737│ web-cache-vulnerability-scanner  │ 688│ web-cache-vulnerability-scanner
-│ 738│ websocat                         │ 689│ websocat
-│ 739│ wego                             │ 690│ wego
+│ 734│ watchexec                        │ 686│ watchexec
+│ 735│ waybackrobots                    │ 687│ waybackrobots
+│ 736│ waybackurls                      │ 688│ waybackurls
+│ 737│ web-cache-vulnerability-scanner  │ 689│ web-cache-vulnerability-scanner
+│ 738│ websocat                         │ 690│ websocat
+│ 739│ wego                             │ 691│ wego
 │ 740│-wget                             │    │
 │ 741│-whois                            │    │
-│ 742│ wireguard-go                     │ 691│ wireguard-go
+│ 742│ wireguard-go                     │ 692│ wireguard-go
 │ 743│-wireguard-rs                     │    │
-│ 744│ wireproxy                        │ 692│ wireproxy
-│ 745│ wiretap                          │ 693│ wiretap
-│ 746│ wormhole-rs                      │ 694│ wormhole-rs
+│ 744│ wireproxy                        │ 693│ wireproxy
+│ 745│ wiretap                          │ 694│ wiretap
+│ 746│ wormhole-rs                      │ 695│ wormhole-rs
 
 
 
