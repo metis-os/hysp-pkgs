@@ -23,7 +23,6 @@
 │ 668│-sysbox-fs                        │    │
 │ 669│-sysbox-mgr                       │    │
 │ 670│-sysbox-runc                      │    │
-│ 705│-trurl                            │    │
 │ 710│-tuiarchiver                      │    │
 │ 712│-twingate-client                  │    │
 │ 713│-twingate-connector               │    │
