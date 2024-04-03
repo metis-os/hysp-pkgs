@@ -1,0 +1,26 @@
+[bin]
+name = "deprun.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "deprun.exe"
+description = "ldd for Windows - and more!"
+author = "marcoesposito1988"
+repo = "https://github.com/marcoesposito1988/dependency_runner"
+stars = "22"
+version = "v1.2.4"
+updated = "2023-08-10T08:51:33Z"
+size = "3.13 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x64_Windows/deprun.exe"
+language = "Rust"
+license = "GNU Lesser General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["deprun.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["dependencies","dependencies-checking","dll","ldd","windows"]
+categories = ["Utilities"]
