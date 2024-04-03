@@ -114,7 +114,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11293
+- **Stars:** 11294
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
@@ -322,7 +322,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1134
+- **Stars:** 1135
 - **Version:** v2.28.0
 - **Updated:** 2024-03-08T23:46:33Z
 - **Size:** 6.8 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16144
+- **Stars:** 16145
 - **Version:** v1.62.1
 - **Updated:** 2024-03-26T20:24:01Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16144
+- **Stars:** 16145
 - **Version:** v1.62.1
 - **Updated:** 2024-03-26T20:24:01Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16144
+- **Stars:** 16145
 - **Version:** v1.62.1
 - **Updated:** 2024-03-26T20:24:01Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16144
+- **Stars:** 16145
 - **Version:** v1.62.1
 - **Updated:** 2024-03-26T20:24:01Z
 - **Size:** 21.67 MB
