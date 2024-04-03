@@ -4,7 +4,7 @@ name = "gocurl"
 [package]
 architecture = "x86_64"
 name = "gocurl"
-description = "Simplified version of curl written in pure Go"
+description = "Simplified version of curl written in pure Go with additional features"
 author = "ameshkov"
 repo = "https://github.com/ameshkov/gocurl"
 stars = "21"
