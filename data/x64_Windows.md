@@ -178,7 +178,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46083
+- **Stars:** 46084
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -194,7 +194,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46083
+- **Stars:** 46084
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -659,8 +659,8 @@
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
 - **Stars:** 259
-- **Version:** 0.4.2
-- **Updated:** 2023-07-23T17:18:51Z
+- **Version:** 0.5.0
+- **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 2.08 MB
 - **SHA256SUM:** ecac56ba63876706286ce9621c88b514a9e5e6d94ca88aedcea894fd6bfa3e96
 - **B3SUM:** 75df21af5afc37707d7b00854134e86061b18d960d2ddb34eb3fa2bf13d57c4c
@@ -675,8 +675,8 @@
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
 - **Stars:** 259
-- **Version:** 0.4.2
-- **Updated:** 2023-07-23T17:18:51Z
+- **Version:** 0.5.0
+- **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 2.08 MB
 - **SHA256SUM:** e8abf27b48a66fa77bbc8954b729c4c289f78012af51c69cb74d24948d996818
 - **B3SUM:** 567a7db49fe7264712161c348ad86b50c78ac8bc8522e8c864d9c9c9c003d7e1
@@ -802,7 +802,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 19671
+- **Stars:** 19672
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1090,7 +1090,7 @@
 - **Description:** A PDF processor written in Go.
 - **Author:** pdfcpu
 - **Repository:** [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
-- **Stars:** 6154
+- **Stars:** 6155
 - **Version:** v0.7.0
 - **Updated:** 2024-03-05T01:16:51Z
 - **Size:** 11.18 MB
@@ -1218,7 +1218,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 44414
+- **Stars:** 44415
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1699,8 +1699,8 @@
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
 - **Stars:** 259
-- **Version:** 0.4.2
-- **Updated:** 2023-07-23T17:18:51Z
+- **Version:** 0.5.0
+- **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 894.46 kB
 - **SHA256SUM:** 500dd435e4dbfcb410689c424b3de6f91a336f0fd165ee020c78018ffc5f24d4
 - **B3SUM:** f7914551dbdacb254e9e873ae7723c9f148524b0c95adb2dff12361c660a8462
@@ -1715,8 +1715,8 @@
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
 - **Stars:** 259
-- **Version:** 0.4.2
-- **Updated:** 2023-07-23T17:18:51Z
+- **Version:** 0.5.0
+- **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 894.46 kB
 - **SHA256SUM:** cd6f9c7597984372d19216fb0d9628493bb476ed23f825aa3f1508c9d3af5954
 - **B3SUM:** f917dd51c4d52a5004df088a40c86a9775656c4a6fe014c7ff4a2d16494548ef
@@ -1746,7 +1746,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69256
+- **Stars:** 69261
 - **Version:** 2024.03.10
 - **Updated:** 2024-03-10T19:47:18Z
 - **Size:** 173.06 kB
