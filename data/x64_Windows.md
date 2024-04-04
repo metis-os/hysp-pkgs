@@ -834,7 +834,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 28865
+- **Stars:** 28867
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 985.09 kB
@@ -843,6 +843,22 @@
 - **Source:** https://bin.ajam.dev/x64_Windows/jq.exe
 - **Language:** C
 - **License:** Other
+
+---
+
+### jwt-cracker.exe
+- **Description:** Fork: https://github.com/elvisgraho/jwt-cracker-go
+- **Author:** Azathothas
+- **Repository:** [https://github.com/Azathothas/jwt-cracker](https://github.com/Azathothas/jwt-cracker)
+- **Stars:** 0
+- **Version:** null
+- **Updated:** 
+- **Size:** 1.89 MB
+- **SHA256SUM:** 
+- **B3SUM:** 
+- **Source:** https://bin.ajam.dev/x64_Windows/jwt-cracker.exe
+- **Language:** null
+- **License:** null
 
 ---
 
@@ -898,7 +914,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23780
+- **Stars:** 23781
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.88 MB
@@ -1218,7 +1234,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 44431
+- **Stars:** 44433
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1746,7 +1762,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69290
+- **Stars:** 69291
 - **Version:** 2024.03.10
 - **Updated:** 2024-03-10T19:47:18Z
 - **Size:** 173.06 kB
