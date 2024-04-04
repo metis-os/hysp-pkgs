@@ -178,7 +178,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46095
+- **Stars:** 46096
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -194,7 +194,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46095
+- **Stars:** 46096
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -738,7 +738,7 @@
 - **Description:** Fast disk usage analyzer with console interface written in Go
 - **Author:** dundee
 - **Repository:** [https://github.com/dundee/gdu](https://github.com/dundee/gdu)
-- **Stars:** 3218
+- **Stars:** 3219
 - **Version:** v5.27.0
 - **Updated:** 2024-02-18T13:28:17Z
 - **Size:** 14.06 MB
@@ -802,7 +802,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 19677
+- **Stars:** 19678
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1058,7 +1058,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32153
+- **Stars:** 32154
 - **Version:** 3.1.12.3
 - **Updated:** 2024-03-18T05:28:18Z
 - **Size:** 158.7 MB
@@ -1218,7 +1218,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 44428
+- **Stars:** 44429
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1746,7 +1746,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69284
+- **Stars:** 69285
 - **Version:** 2024.03.10
 - **Updated:** 2024-03-10T19:47:18Z
 - **Size:** 173.06 kB
