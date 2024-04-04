@@ -4,7 +4,7 @@ name = "diffutils-rs"
 [package]
 architecture = "aarch64_arm64"
 name = "diffutils-rs"
-description = "Drop-in in replacement of diffutils in Rust"
+description = "Drop-in replacement of diffutils in Rust"
 author = "uutils"
 repo = "https://github.com/uutils/diffutils"
 stars = "19"

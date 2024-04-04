@@ -22,5 +22,5 @@ conflicts  = ["osmedeus"]
 requires = []
 
 [package.metadata]
-keywords = ["attack-surfaces","bug-bounty","bugbounty","go","golang","hacking","hacking-tool","information-gathering","osint","penetration-testing","pentest-tool","pentesting","reconnaissance","scanning","security","security-tools"]
+keywords = ["attack-surface","attack-surface-management","bug-bounty","bugbounty","go","golang","hacking","hacking-tool","information-gathering","osint","penetration-testing","pentest-tool","pentesting","reconnaissance","scanning","security","security-tools"]
 categories = ["Utilities"]
