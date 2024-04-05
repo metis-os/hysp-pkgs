@@ -1,24 +1,24 @@
 [bin]
-name = "yes.exe"
+name = "tee.exe"
 
 [package]
 architecture = "x64_Windows"
-name = "yes.exe"
+name = "tee.exe"
 description = "Cross-platform Rust rewrite of the GNU coreutils"
 author = "uutils"
 repo = "https://github.com/uutils/coreutils"
 stars = "16749"
 version = "0.0.25"
 updated = "2024-03-23T20:56:02Z"
-size = "820.22 kB"
-bsum = "f8d456cbf67b3e3852b55100741f73605866e3f89a064572fad0f15275d240bb"
-sha = "1496ab78dc76fef9922ce5c900170bfcaeaef739b5863c0fd54d58e4c1536461"
-source = "https://bin.ajam.dev/x64_Windows/yes.exe"
+size = "886.78 kB"
+bsum = "a2c35c308f49e5a376e3312bf94f8182cdc10e06849fcb460df9b0517e1bb3ec"
+sha = "5e60470d18b9b4b90308e091da1dd8a18b3dbf904dcbee1084e58fa23e8cc8dc"
+source = "https://bin.ajam.dev/x64_Windows/tee.exe"
 language = "Rust"
 license = "MIT License"
 
 [package.conditions]
-conflicts  = ["yes.exe"]
+conflicts  = ["tee.exe"]
 requires = []
 
 [package.metadata]

@@ -1,9 +1,9 @@
 [bin]
-name = "xargs-rs.exe"
+name = "xargs.exe"
 
 [package]
 architecture = "x64_Windows"
-name = "xargs-rs.exe"
+name = "xargs.exe"
 description = "Rust implementation of findutils"
 author = "uutils"
 repo = "https://github.com/uutils/findutils"
@@ -11,14 +11,14 @@ stars = "259"
 version = "0.5.0"
 updated = "2024-04-03T22:29:23Z"
 size = "894.46 kB"
-bsum = "f7914551dbdacb254e9e873ae7723c9f148524b0c95adb2dff12361c660a8462"
-sha = "500dd435e4dbfcb410689c424b3de6f91a336f0fd165ee020c78018ffc5f24d4"
-source = "https://bin.ajam.dev/x64_Windows/xargs-rs.exe"
+bsum = "f917dd51c4d52a5004df088a40c86a9775656c4a6fe014c7ff4a2d16494548ef"
+sha = "cd6f9c7597984372d19216fb0d9628493bb476ed23f825aa3f1508c9d3af5954"
+source = "https://bin.ajam.dev/x64_Windows/xargs.exe"
 language = "Rust"
 license = "MIT License"
 
 [package.conditions]
-conflicts  = ["xargs-rs.exe"]
+conflicts  = ["xargs.exe"]
 requires = []
 
 [package.metadata]
