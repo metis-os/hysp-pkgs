@@ -18,7 +18,6 @@
 │ 394│-mac2unix                         │    │
 │ 422│-mkpasswd                         │    │
 │ 432│-mullvad-cli                      │    │
-│ 436│-navi                             │    │
 │ 437│-ncat                             │    │
 │ 438│-ncdu                             │    │
 │ 443│-netstat                          │    │
