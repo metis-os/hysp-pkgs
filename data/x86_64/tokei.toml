@@ -1,0 +1,26 @@
+[bin]
+name = "tokei"
+
+[package]
+architecture = "x86_64"
+name = "tokei"
+description = "Count your code, quickly."
+author = "XAMPPRocky"
+repo = "https://github.com/XAMPPRocky/tokei"
+stars = "9847"
+version = "v13.0.0-alpha.1"
+updated = "2024-03-04T08:18:07Z"
+size = "4.24 MB"
+bsum = "01a49666cd73e87ddb6e6299dd97712cd1d44c353f57a25ea7047a90e5fbf217"
+sha = "65387d346d7469b4d225be887b44ee301627d2e96591004965bf8cd0d22bff0f"
+source = "https://bin.ajam.dev/x86_64_Linux/tokei"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["tokei"]
+requires = []
+
+[package.metadata]
+keywords = ["badge","cli","cloc","code","command-line-tool","linux","macos","rust","sloc","statistics","tokei","windows"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "gost"
+
+[package]
+architecture = "x86_64"
+name = "gost"
+description = "GO Simple Tunnel - a simple tunnel written in golang"
+author = "ginuerzh"
+repo = "https://github.com/ginuerzh/gost"
+stars = "14976"
+version = "v2.11.5"
+updated = "2023-01-20T06:46:05Z"
+size = "13.58 MB"
+bsum = "962a420b6b04be465f238d3037ae485c658d3f6e0154ae7c20318a69035c3ee2"
+sha = "54247cfd5ca164811805063bdf36fbc48301117ff874f4a06cda4ba55bd6cd43"
+source = "https://bin.ajam.dev/x86_64_Linux/gost"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gost"]
+requires = []
+
+[package.metadata]
+keywords = ["dns","go","golang","http2","kcp","obfs4","quic","shadowsocks","sni","socks5","ssh","tls","tunnel","tuntap","udp"]
+categories = ["Utilities"]

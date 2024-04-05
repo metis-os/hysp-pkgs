@@ -1,0 +1,26 @@
+[bin]
+name = "restic"
+
+[package]
+architecture = "x86_64"
+name = "restic"
+description = "Fast, secure, efficient backup program"
+author = "restic"
+repo = "https://github.com/restic/restic"
+stars = "23541"
+version = "v0.16.4"
+updated = "2024-02-04T19:18:43Z"
+size = "24.54 MB"
+bsum = "980eb771f0178f929a1d8d4048004bcb4b3702aff14767f5d067859cb0dd268f"
+sha = "839bfe20d20dc48f7abf1ac3c371cb5829e79ff20359151008c6f56b4405b2a3"
+source = "https://bin.ajam.dev/x86_64_Linux/restic"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["restic"]
+requires = []
+
+[package.metadata]
+keywords = ["backup","dedupe","deduplication","go","restic","secure-by-default"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "lazydocker"
+
+[package]
+architecture = "x86_64"
+name = "lazydocker"
+description = "The lazier way to manage everything docker"
+author = "jesseduffield"
+repo = "https://github.com/jesseduffield/lazydocker"
+stars = "33020"
+version = "v0.23.1"
+updated = "2023-10-13T07:45:11Z"
+size = "11.56 MB"
+bsum = "376938d2d8f0abf74d292fc693eae1e951bf7d88174d9f64899e58c4e5b7bb19"
+sha = "4a263990b693d7457a1f0cfcb2aa315060e3435993f6398b9bde8cbd2dbefb41"
+source = "https://bin.ajam.dev/x86_64_Linux/lazydocker"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["lazydocker"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

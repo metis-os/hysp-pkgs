@@ -1,0 +1,26 @@
+[bin]
+name = "toybox"
+
+[package]
+architecture = "x86_64"
+name = "toybox"
+description = "toybox"
+author = "landley"
+repo = "https://github.com/landley/toybox"
+stars = "2217"
+version = "0.8.10"
+updated = "2023-07-30T09:41:04Z"
+size = "755.86 kB"
+bsum = "aabbe338450094e36c485d0e4b1200d3c877ac3c39518f094e484b5ce8b5fa5c"
+sha = "69171b03ca3f221012fac692618ae74952f5892727f459c0370c64b61c0780d4"
+source = "https://bin.ajam.dev/x86_64_Linux/toybox"
+language = "C"
+license = "BSD Zero Clause License"
+
+[package.conditions]
+conflicts  = ["toybox"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

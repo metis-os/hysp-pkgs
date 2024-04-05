@@ -1,0 +1,26 @@
+[bin]
+name = "litefs"
+
+[package]
+architecture = "x86_64"
+name = "litefs"
+description = "FUSE-based file system for replicating SQLite databases across a cluster of machines"
+author = "superfly"
+repo = "https://github.com/superfly/litefs"
+stars = "3567"
+version = "v0.5.11"
+updated = "2024-01-24T19:41:33Z"
+size = "12.66 MB"
+bsum = "803990f2d4c501224901f199aa4de53a0172d19e81e1af303676a60edf7ee56b"
+sha = "33c83381d9dd0e1d9632a5f31274bdfc54543aa160ee679ec9fbd3222ef3dac8"
+source = "https://bin.ajam.dev/x86_64_Linux/litefs"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["litefs"]
+requires = []
+
+[package.metadata]
+keywords = ["sqlite"]
+categories = ["Utilities"]
