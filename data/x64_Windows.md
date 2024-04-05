@@ -404,7 +404,7 @@
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
 - **Stars:** 16749
 - **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
+- **Updated:** 2024-03-23T21:18:05Z
 - **Size:** 2.47 MB
 - **SHA256SUM:** 84ffcc325d6056b71b01d245e3f627442c16e3df2360e9ebfa52346325d5366b
 - **B3SUM:** 315cda3d31c4458f8001e165080d168e08e48ce9237d088c54ec948f99dbe9ca
@@ -642,7 +642,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 2008
+- **Stars:** 2009
 - **Version:** 2.9.0
 - **Updated:** 2024-04-04T04:41:28Z
 - **Size:** 1.33 MB
@@ -690,7 +690,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 2008
+- **Stars:** 2009
 - **Version:** 2.9.0
 - **Updated:** 2024-04-04T04:41:28Z
 - **Size:** 1.18 MB
@@ -802,7 +802,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 19689
+- **Stars:** 19690
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1342,22 +1342,6 @@
 
 ---
 
-### sort.exe
-- **Description:** Cross-platform Rust rewrite of the GNU coreutils
-- **Author:** uutils
-- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16749
-- **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 1.69 MB
-- **SHA256SUM:** a7ad8bd9a3ef38c8a72454ea5e524aeb866ce91cadae99486a612f7a96262cc1
-- **B3SUM:** 4d5392b50acd7934a1545a935b4b289319bceb6076da098c41b76beae3c92885
-- **Source:** https://bin.ajam.dev/x64_Windows/sort.exe
-- **Language:** Rust
-- **License:** MIT License
-
----
-
 ### split.exe
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
@@ -1369,54 +1353,6 @@
 - **SHA256SUM:** 5266d27c7e94a75f9406cf4ea3dff494f4e0f2d266679c8117e08c12d855ede4
 - **B3SUM:** 59b0ebf5979fdd806985154c321dc4f8fe41b3e4ed3cd72322c1cee7f3e8ba54
 - **Source:** https://bin.ajam.dev/x64_Windows/split.exe
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### sum.exe
-- **Description:** Cross-platform Rust rewrite of the GNU coreutils
-- **Author:** uutils
-- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16749
-- **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 869.38 kB
-- **SHA256SUM:** 82d21ffadea1406ff2b4b008848c5fa855e8085cc448247b259272224e5ccc85
-- **B3SUM:** 9c4e3cef3588c8e25b7d487f82ffc86baf72e52318b1b7c2484697cc4df522d1
-- **Source:** https://bin.ajam.dev/x64_Windows/sum.exe
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### sync.exe
-- **Description:** Cross-platform Rust rewrite of the GNU coreutils
-- **Author:** uutils
-- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16749
-- **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 848.38 kB
-- **SHA256SUM:** 1da4103265039869c27cd4a0c032c40a268556fc2b3d65f29fc2000c67b24e3c
-- **B3SUM:** a9d09f5939636d34b74e1ed95039343a8342fc8af90370c5dc094b4f57091615
-- **Source:** https://bin.ajam.dev/x64_Windows/sync.exe
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### tac.exe
-- **Description:** Cross-platform Rust rewrite of the GNU coreutils
-- **Author:** uutils
-- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16749
-- **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 2.34 MB
-- **SHA256SUM:** 70e54e64a4f580c36dab158136c34eb186fbe2a35914def0b0f4dbf1738da760
-- **B3SUM:** 04b0984c85b0aa10d484fd7c022eaef4d98fe19dc997d2eede9eea1b3e79e234
-- **Source:** https://bin.ajam.dev/x64_Windows/tac.exe
 - **Language:** Rust
 - **License:** MIT License
 
@@ -1438,49 +1374,17 @@
 
 ---
 
-### tee.exe
-- **Description:** Cross-platform Rust rewrite of the GNU coreutils
-- **Author:** uutils
-- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16749
-- **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 886.78 kB
-- **SHA256SUM:** 5e60470d18b9b4b90308e091da1dd8a18b3dbf904dcbee1084e58fa23e8cc8dc
-- **B3SUM:** a2c35c308f49e5a376e3312bf94f8182cdc10e06849fcb460df9b0517e1bb3ec
-- **Source:** https://bin.ajam.dev/x64_Windows/tee.exe
-- **Language:** Rust
-- **License:** MIT License
-
----
-
 ### test.exe
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
 - **Stars:** 16749
-- **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
+- **Version:** 
+- **Updated:** 
 - **Size:** 857.6 kB
 - **SHA256SUM:** 810060b257c7b535292450a5d008a6bf7a0868b447f72a85fa38c7b6683526e5
 - **B3SUM:** 4e008b9552be5402197338f872e3562b40c7acfbf78ab0e2472cb36c5ea4d950
 - **Source:** https://bin.ajam.dev/x64_Windows/test.exe
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### touch.exe
-- **Description:** Cross-platform Rust rewrite of the GNU coreutils
-- **Author:** uutils
-- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16749
-- **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
-- **Size:** 2.46 MB
-- **SHA256SUM:** 675313d162dd21fb5571d33ea437769fac57cd613fac22d044558bc5c698e467
-- **B3SUM:** 97e824118087f435ad79892a14444ca1100dd2581b2247adeedeb6e197615ade
-- **Source:** https://bin.ajam.dev/x64_Windows/touch.exe
 - **Language:** Rust
 - **License:** MIT License
 
@@ -1715,28 +1619,12 @@
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
 - **Stars:** 259
-- **Version:** 0.5.0
-- **Updated:** 2024-04-03T22:29:23Z
+- **Version:** 
+- **Updated:** 
 - **Size:** 894.46 kB
 - **SHA256SUM:** 500dd435e4dbfcb410689c424b3de6f91a336f0fd165ee020c78018ffc5f24d4
 - **B3SUM:** f7914551dbdacb254e9e873ae7723c9f148524b0c95adb2dff12361c660a8462
 - **Source:** https://bin.ajam.dev/x64_Windows/xargs-rs.exe
-- **Language:** Rust
-- **License:** MIT License
-
----
-
-### xargs.exe
-- **Description:** Rust implementation of findutils
-- **Author:** uutils
-- **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
-- **Stars:** 259
-- **Version:** 0.5.0
-- **Updated:** 2024-04-03T22:29:23Z
-- **Size:** 894.46 kB
-- **SHA256SUM:** cd6f9c7597984372d19216fb0d9628493bb476ed23f825aa3f1508c9d3af5954
-- **B3SUM:** f917dd51c4d52a5004df088a40c86a9775656c4a6fe014c7ff4a2d16494548ef
-- **Source:** https://bin.ajam.dev/x64_Windows/xargs.exe
 - **Language:** Rust
 - **License:** MIT License
 
@@ -1748,29 +1636,13 @@
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
 - **Stars:** 16749
 - **Version:** 0.0.25
-- **Updated:** 2024-03-23T20:56:02Z
+- **Updated:** 
 - **Size:** 820.22 kB
 - **SHA256SUM:** 1496ab78dc76fef9922ce5c900170bfcaeaef739b5863c0fd54d58e4c1536461
 - **B3SUM:** f8d456cbf67b3e3852b55100741f73605866e3f89a064572fad0f15275d240bb
 - **Source:** https://bin.ajam.dev/x64_Windows/yes.exe
 - **Language:** Rust
 - **License:** MIT License
-
----
-
-### yt-dlp.exe
-- **Description:** A feature-rich command-line audio/video downloader
-- **Author:** yt-dlp
-- **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69331
-- **Version:** 2024.03.10
-- **Updated:** 2024-03-10T19:47:18Z
-- **Size:** 173.06 kB
-- **SHA256SUM:** 80b9427182f012b5aac590bcf72c398f0e470a0ff246bec5e27a25be178091ba
-- **B3SUM:** e8594cabae157b56682b714074f5d42659363e09e2f587fcabb9e012c3e8f429
-- **Source:** https://bin.ajam.dev/x64_Windows/yt-dlp.exe
-- **Language:** Python
-- **License:** The Unlicense
 
 ---
 
