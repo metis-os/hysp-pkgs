@@ -1,0 +1,26 @@
+[bin]
+name = "apkeep"
+
+[package]
+architecture = "x86_64"
+name = "apkeep"
+description = "null"
+author = "EFForg"
+repo = "https://github.com/EFForg/apkeep"
+stars = "697"
+version = "0.16.0"
+updated = "2024-04-04T21:28:58Z"
+size = "14.03 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/apkeep"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["apkeep"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

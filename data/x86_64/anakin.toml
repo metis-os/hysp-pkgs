@@ -1,0 +1,26 @@
+[bin]
+name = "anakin"
+
+[package]
+architecture = "x86_64"
+name = "anakin"
+description = "Kill orphan processes"
+author = "Timmmm"
+repo = "https://github.com/Timmmm/anakin"
+stars = "94"
+version = "null"
+updated = ""
+size = "1.95 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/anakin"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["anakin"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
