@@ -1,5 +1,3 @@
-│ 17 │-anakin                           │    │
-│ 25 │-apkeep                           │    │
 │ 59 │-bombadillo                       │    │
 │ 82 │-certwatcher                      │    │
 │ 117│-cowsay                           │    │
