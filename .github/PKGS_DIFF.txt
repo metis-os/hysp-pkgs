@@ -454,3 +454,126 @@
 │ 775│ wireguard-rs                     │ 729│ wireguard-rs
 │ 776│ wireproxy                        │ 730│ wireproxy
 
+
+
+[+] x64_Windows
+
+│    │                                  │  1 │+7z
+│  1 │ 7z.exe                           │  2 │ 7z.exe
+│  2 │ actionlint.exe                   │  3 │ actionlint.exe
+│  3 │ anew-rs.exe                      │  4 │ anew-rs.exe
+│ 12 │ batcat.exe                       │ 13 │ batcat.exe
+│ 13 │ botsay.exe                       │ 14 │ botsay.exe
+│ 14 │ brutespray.exe                   │ 15 │ brutespray.exe
+│ 15 │-busybox-unicode.exe              │    │
+│ 16 │-busybox.exe                      │    │
+│ 17 │ cat.exe                          │ 16 │ cat.exe
+│ 18 │ cheat.exe                        │ 17 │ cheat.exe
+│ 19 │ cksum.exe                        │ 18 │ cksum.exe
+│ 22 │ coreutils-rs.exe                 │ 21 │ coreutils-rs.exe
+│ 23 │ coreutils.exe                    │ 22 │ coreutils.exe
+│ 24 │ cp.exe                           │ 23 │ cp.exe
+│ 25 │-croc.exe                         │    │
+│ 26 │ csplit.exe                       │ 24 │ csplit.exe
+│ 27 │ curl.exe                         │ 25 │ curl.exe
+│ 28 │ cut.exe                          │ 26 │ cut.exe
+│ 36 │ du.exe                           │ 34 │ du.exe
+│ 37 │ dua.exe                          │ 35 │ dua.exe
+│ 38 │ dufs.exe                         │ 36 │ dufs.exe
+│ 39 │-dust.exe                         │    │
+│ 40 │ echo.exe                         │ 37 │ echo.exe
+│ 41 │-eget.exe                         │    │
+│ 42 │-ein.exe                          │    │
+│ 43 │ env.exe                          │ 38 │ env.exe
+│ 44 │-err.exe                          │    │
+│ 45 │ expand.exe                       │ 39 │ expand.exe
+│ 46 │ expr.exe                         │ 40 │ expr.exe
+│ 47 │ factor.exe                       │ 41 │ factor.exe
+│ 48 │ false.exe                        │ 42 │ false.exe
+│ 49 │ fastfetch.exe                    │ 43 │ fastfetch.exe
+│ 50 │-ffmpeg.exe                       │    │
+│ 51 │-ffplay.exe                       │    │
+│ 52 │-ffprobe.exe                      │    │
+│ 53 │ find-rs.exe                      │ 44 │ find-rs.exe
+│ 54 │ find.exe                         │ 45 │ find.exe
+│ 55 │ flashfetch.exe                   │ 46 │ flashfetch.exe
+│ 56 │ fmt.exe                          │ 47 │ fmt.exe
+│ 57 │ fold.exe                         │ 48 │ fold.exe
+│ 58 │ gdu.exe                          │ 49 │ gdu.exe
+│ 59 │-gix.exe                          │    │
+│ 60 │ hashsum.exe                      │ 50 │ hashsum.exe
+│ 61 │ head.exe                         │ 51 │ head.exe
+│ 62 │ hostname.exe                     │ 52 │ hostname.exe
+│ 63 │ hyperfine.exe                    │ 53 │ hyperfine.exe
+│ 64 │-inscope.exe                      │    │
+│ 65 │-iperf3.exe                       │    │
+│ 66 │ join.exe                         │ 54 │ join.exe
+│ 67 │ jq.exe                           │ 55 │ jq.exe
+│ 68 │ jwt-cracker.exe                  │ 56 │ jwt-cracker.exe
+│ 77 │ monolith.exe                     │ 65 │ monolith.exe
+│ 78 │ more.exe                         │ 66 │ more.exe
+│ 79 │ mv.exe                           │ 67 │ mv.exe
+│ 80 │-ngrok.exe                        │    │
+│ 81 │ nl.exe                           │ 68 │ nl.exe
+│ 82 │ nproc.exe                        │ 69 │ nproc.exe
+│ 83 │ numfmt.exe                       │ 70 │ numfmt.exe
+│ 85 │ pandoc.exe                       │ 72 │ pandoc.exe
+│ 86 │ paste.exe                        │ 73 │ paste.exe
+│ 87 │ pdfcpu.exe                       │ 74 │ pdfcpu.exe
+│ 88 │-pdfdetach.exe                    │    │
+│ 89 │-pdffonts.exe                     │    │
+│ 90 │-pdfimages.exe                    │    │
+│ 91 │-pdfinfo.exe                      │    │
+│ 92 │-pdftopng.exe                     │    │
+│ 93 │-pdftoppm.exe                     │    │
+│ 94 │-pdftops.exe                      │    │
+│ 95 │-pdftotext.exe                    │    │
+│ 96 │ pgrok.exe                        │ 75 │ pgrok.exe
+│ 97 │ pgrokd.exe                       │ 76 │ pgrokd.exe
+│ 98 │ pingmole.exe                     │ 77 │ pingmole.exe
+│ 101│ printf.exe                       │ 80 │ printf.exe
+│ 102│ ptx.exe                          │ 81 │ ptx.exe
+│ 103│ pwd.exe                          │ 82 │ pwd.exe
+│ 104│-quotes-escaper.exe               │    │
+│ 105│ readlink.exe                     │ 83 │ readlink.exe
+│ 106│ realpath.exe                     │ 84 │ realpath.exe
+│ 107│ rg.exe                           │ 85 │ rg.exe
+│ 108│ rm.exe                           │ 86 │ rm.exe
+│ 109│ rmdir.exe                        │ 87 │ rmdir.exe
+│ 110│-scp.exe                          │    │
+│ 111│ seq.exe                          │ 88 │ seq.exe
+│ 112│-sftp-server.exe                  │    │
+│ 113│ shred.exe                        │ 89 │ shred.exe
+│ 114│ shuf.exe                         │ 90 │ shuf.exe
+│ 115│ sish.exe                         │ 91 │ sish.exe
+│ 116│ sleep.exe                        │ 92 │ sleep.exe
+│ 117│ sort.exe                         │ 93 │ sort.exe
+│ 118│ split.exe                        │ 94 │ split.exe
+│ 119│-ssh-add.exe                      │    │
+│ 120│-ssh-agent.exe                    │    │
+│ 121│-ssh-keygen.exe                   │    │
+│ 122│-ssh-keyscan.exe                  │    │
+│ 123│-ssh-pkcs11-helper.exe            │    │
+│ 124│-ssh-shellhost.exe                │    │
+│ 125│-ssh-sk-helper.exe                │    │
+│ 126│-ssh.exe                          │    │
+│ 127│-sshd.exe                         │    │
+│ 128│-stP1kAlM                         │    │
+│ 129│ step.exe                         │ 95 │ step.exe
+│ 130│-stiG2Kb7                         │    │
+│ 131│ sum.exe                          │ 96 │ sum.exe
+│ 132│ sync.exe                         │ 97 │ sync.exe
+│ 133│ tac.exe                          │ 98 │ tac.exe
+│ 145│ unexpand.exe                     │ 110│ unexpand.exe
+│ 146│ uniq.exe                         │ 111│ uniq.exe
+│ 147│ unlink.exe                       │ 112│ unlink.exe
+│ 148│-upx.exe                          │    │
+│ 149│ vdir.exe                         │ 113│ vdir.exe
+│ 150│ wc.exe                           │ 114│ wc.exe
+│ 151│ wget2.exe                        │ 115│ wget2.exe
+│ 154│ xargs-rs.exe                     │ 118│ xargs-rs.exe
+│ 155│ xargs.exe                        │ 119│ xargs.exe
+│ 156│ yes.exe                          │ 120│ yes.exe
+│ 157│-yq.exe                           │    │
+│ 158│ yt-dlp.exe                       │ 121│ yt-dlp.exe
+
