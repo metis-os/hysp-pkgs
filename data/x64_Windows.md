@@ -98,7 +98,7 @@
 - **Description:** the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - **Author:** BLAKE3-team
 - **Repository:** [https://github.com/BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-- **Stars:** 4547
+- **Stars:** 4548
 - **Version:** 1.5.1
 - **Updated:** 2024-03-12T07:55:27Z
 - **Size:** 1.06 MB
@@ -178,7 +178,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46127
+- **Stars:** 46129
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -194,7 +194,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46127
+- **Stars:** 46129
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -258,7 +258,7 @@
 - **Description:** cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - **Author:** cheat
 - **Repository:** [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
-- **Stars:** 11878
+- **Stars:** 11879
 - **Version:** 4.4.2
 - **Updated:** 2023-12-15T17:55:49Z
 - **Size:** 11.57 MB
@@ -546,7 +546,7 @@
 - **Description:** View disk space usage and delete unwanted data, fast.
 - **Author:** Byron
 - **Repository:** [https://github.com/Byron/dua-cli](https://github.com/Byron/dua-cli)
-- **Stars:** 3438
+- **Stars:** 3439
 - **Version:** v2.29.0
 - **Updated:** 2024-03-10T07:28:39Z
 - **Size:** 1.56 MB
@@ -834,7 +834,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 19704
+- **Stars:** 19705
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1026,7 +1026,7 @@
 - **Description:** ⬛️ CLI tool for saving complete web pages as a single HTML file
 - **Author:** Y2Z
 - **Repository:** [https://github.com/Y2Z/monolith](https://github.com/Y2Z/monolith)
-- **Stars:** 9599
+- **Stars:** 9602
 - **Version:** v2.8.1
 - **Updated:** 2024-01-14T02:04:26Z
 - **Size:** 5.37 MB
@@ -1922,7 +1922,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69393
+- **Stars:** 69394
 - **Version:** 2024.03.10
 - **Updated:** 2024-03-10T19:47:18Z
 - **Size:** 173.06 kB
