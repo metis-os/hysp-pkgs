@@ -1,0 +1,26 @@
+[bin]
+name = "dufs.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "dufs.exe"
+description = "A file server that supports static serving, uploading, searching, accessing control, webdav..."
+author = "sigoden"
+repo = "https://github.com/sigoden/dufs"
+stars = "4563"
+version = "v0.40.0"
+updated = "2024-02-13T04:15:03Z"
+size = "3.68 MB"
+bsum = "218d1c130c9f0e26246f99431e25db44795dd130d1db4ce60bf665c9b86caeeb"
+sha = "3de9c4954134979b6c193d322d1c6775427dcbf331f6e2088cc7567ce4d8dc48"
+source = "https://bin.ajam.dev/x64_Windows/dufs.exe"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["dufs.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["cloud-disk","command-line","file-sharing","file-upload-server","rust","static-server","webdav","webdav-server"]
+categories = ["Utilities"]

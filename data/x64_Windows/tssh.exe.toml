@@ -1,0 +1,26 @@
+[bin]
+name = "tssh.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "tssh.exe"
+description = "trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc."
+author = "trzsz"
+repo = "https://github.com/trzsz/trzsz-ssh"
+stars = "1299"
+version = "v0.1.19"
+updated = "2024-03-16T13:45:31Z"
+size = "10.84 MB"
+bsum = "b328944b7ef57ac54354abbe2a5ea81887484705e5feb5e4ae7750b196989549"
+sha = "ead68d091b9f81e8e050e9f2c8a77d16b58f2a6fdad20bb3e491dff65afd6f55"
+source = "https://bin.ajam.dev/x64_Windows/tssh.exe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tssh.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["openssh","openssh-client","rz","ssh","ssh-client","sz","tmux","trz","trzsz","tsz","zmodem"]
+categories = ["Utilities"]

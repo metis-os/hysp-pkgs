@@ -1,0 +1,26 @@
+[bin]
+name = "brutespray.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "brutespray.exe"
+description = "Bruteforcing from various scanner output - Automatically attempts default creds on found services."
+author = "x90skysn3k"
+repo = "https://github.com/x90skysn3k/brutespray"
+stars = "1911"
+version = "v2.2.2"
+updated = "2024-03-03T21:42:49Z"
+size = "25.75 MB"
+bsum = "71b7808c21c1e9291e6cf7d2e13b3d14deae43cbfc0f1288d5c36487bd2754b7"
+sha = "37a4ce798a66955c3b0182d5d25830337ec175f4de4f0a179339900d31c981d5"
+source = "https://bin.ajam.dev/x64_Windows/brutespray.exe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["brutespray.exe"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

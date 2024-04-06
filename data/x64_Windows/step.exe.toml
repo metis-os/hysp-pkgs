@@ -1,0 +1,26 @@
+[bin]
+name = "step.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "step.exe"
+description = "🧰 A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc."
+author = "smallstep"
+repo = "https://github.com/smallstep/cli"
+stars = "3462"
+version = "v0.26.0"
+updated = "2024-03-29T02:24:43Z"
+size = "37.1 MB"
+bsum = "aa422bbe4dcc5dc7b57cec4cd7044b839d8efccc1e65c2ae2295f2729f5f28a4"
+sha = "04566488638ffbd8b802a60a7fa19b34ac50ac51ee83e25dea007350a4a6b512"
+source = "https://bin.ajam.dev/x64_Windows/step.exe"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["step.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["certificate","cryptography","encryption","jose","jwe","jws","jwt","mfa","oath","oauth","security","security-tools","ssh","sso","tls","totp","x509"]
+categories = ["Utilities"]

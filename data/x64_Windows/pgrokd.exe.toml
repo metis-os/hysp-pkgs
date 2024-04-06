@@ -1,0 +1,26 @@
+[bin]
+name = "pgrokd.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "pgrokd.exe"
+description = "Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding"
+author = "pgrok"
+repo = "https://github.com/pgrok/pgrok"
+stars = "3040"
+version = "v1.4.1"
+updated = "2023-11-20T16:13:53Z"
+size = "15.67 MB"
+bsum = "1ba3a50bc89bdc716707c7b2d24abccae93eef1e13e67014051174ff664ee3ff"
+sha = "58eb4c0dcf4100f27df5c1e5e9bf13db8548b6be81a5ca5dcac2361aeea04963"
+source = "https://bin.ajam.dev/x64_Windows/pgrokd.exe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pgrokd.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["go","http","lsif-enabled","ngrok-alternative","oidc","pgrok","reverse-tunnel","ssh-tunnel","sso","tcp"]
+categories = ["Utilities"]
