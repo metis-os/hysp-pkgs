@@ -1,0 +1,26 @@
+[bin]
+name = "pgrok"
+
+[package]
+architecture = "x86_64"
+name = "pgrok"
+description = "Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding"
+author = "pgrok"
+repo = "https://github.com/pgrok/pgrok"
+stars = "3040"
+version = "v1.4.1"
+updated = "2023-11-20T16:13:53Z"
+size = "9.79 MB"
+bsum = "d2ae065a6ac38a9acad6a83b81cdeeb32936800a53f7d7f115b1b7a0a58311da"
+sha = "d665684fe100154987799bc39873b2cb47901fd452962d309dbfebd5100faeb3"
+source = "https://bin.ajam.dev/x86_64_Linux/pgrok"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pgrok"]
+requires = []
+
+[package.metadata]
+keywords = ["go","http","lsif-enabled","ngrok-alternative","oidc","pgrok","reverse-tunnel","ssh-tunnel","sso","tcp"]
+categories = ["Utilities"]

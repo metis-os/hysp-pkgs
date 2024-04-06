@@ -1,0 +1,26 @@
+[bin]
+name = "monolith"
+
+[package]
+architecture = "x86_64"
+name = "monolith"
+description = "⬛️ CLI tool for saving complete web pages as a single HTML file"
+author = "Y2Z"
+repo = "https://github.com/Y2Z/monolith"
+stars = "9600"
+version = "v2.8.1"
+updated = "2024-01-14T02:04:26Z"
+size = "10.07 MB"
+bsum = "4ce72d87e720edee544d8d4b1e892d1bca352d408d77aa692909d8ecc45ad780"
+sha = "dacf1d2fb75b47e4c3427088f78d75b7cfe42e8a82c2c30705991aac3ceff5cd"
+source = "https://bin.ajam.dev/x86_64_Linux/monolith"
+language = "Rust"
+license = "Creative Commons Zero v1.0 Universal"
+
+[package.conditions]
+conflicts  = ["monolith"]
+requires = []
+
+[package.metadata]
+keywords = ["come-and-take-it","e-hoarding","its-mine","make-the-internet-great-again","no-more-404","procrastination","save-the-internet","tab-rehab"]
+categories = ["Utilities"]
