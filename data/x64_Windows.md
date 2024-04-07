@@ -178,7 +178,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46144
+- **Stars:** 46145
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -194,7 +194,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46144
+- **Stars:** 46145
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -290,7 +290,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 7792
+- **Stars:** 7793
 - **Version:** 2024.3.0
 - **Updated:** 2024-03-20T10:11:33Z
 - **Size:** 26.46 MB
@@ -674,7 +674,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 2022
+- **Stars:** 2023
 - **Version:** 2.9.0
 - **Updated:** 2024-04-04T04:41:28Z
 - **Size:** 1.33 MB
@@ -722,7 +722,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 2022
+- **Stars:** 2023
 - **Version:** 2.9.0
 - **Updated:** 2024-04-04T04:41:28Z
 - **Size:** 1.18 MB
@@ -866,7 +866,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 28888
+- **Stars:** 28889
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 985.09 kB
@@ -1783,7 +1783,7 @@
 - **Updated:** 2024-03-23T20:56:02Z
 - **Size:** 839.68 kB
 - **SHA256SUM:** 6a45fcb69eade63139cc09941a2f8362175012eebbc35328b568a89a7cb2e301
-- **B3SUM:** 423c0bb360e092394db5ecb7ab7babe2ea6faee60aa8f0fb83e2ba050f4956cb
+- **B3SUM:** 
 - **Source:** https://bin.ajam.dev/x64_Windows/unlink.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1922,7 +1922,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69439
+- **Stars:** 69441
 - **Version:** 2024.03.10
 - **Updated:** 2024-03-10T19:47:18Z
 - **Size:** 173.06 kB
