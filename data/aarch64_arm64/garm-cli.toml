@@ -4,7 +4,7 @@ name = "garm-cli"
 [package]
 architecture = "aarch64_arm64"
 name = "garm-cli"
-description = "GitHub Actions Runners Manager"
+description = "GitHub Actions Runner Manager"
 author = "cloudbase"
 repo = "https://github.com/cloudbase/garm"
 stars = "90"
