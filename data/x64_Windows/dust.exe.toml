@@ -1,0 +1,26 @@
+[bin]
+name = "dust.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "dust.exe"
+description = "A more intuitive version of du in rust"
+author = "bootandy"
+repo = "https://github.com/bootandy/dust"
+stars = "7693"
+version = "v1.0.0"
+updated = "2024-03-25T22:44:47Z"
+size = "2.55 MB"
+bsum = "5e6a3201221067bd8240a40f9e733df49af9cd2ff8ac6a4a4a934f102301c1c4"
+sha = "9a93ad351eaf042a2ffeda825fc0a65146edefc8e8e7644123882bb1e37edc8d"
+source = "https://bin.ajam.dev/x64_Windows/dust.exe"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["dust.exe"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

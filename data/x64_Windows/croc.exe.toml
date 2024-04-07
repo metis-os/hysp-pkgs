@@ -1,0 +1,26 @@
+[bin]
+name = "croc.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "croc.exe"
+description = "Easily and securely send things from one computer to another :crocodile: :package:"
+author = "schollz"
+repo = "https://github.com/schollz/croc"
+stars = "26191"
+version = "v9.6.15"
+updated = "2024-04-06T16:44:27Z"
+size = "11.57 MB"
+bsum = "a6551027924cf6aaf61dec12961f1612a9700f231bfa180fc8bd476ed28d16a3"
+sha = "dc314f0083849f28859ae2603937d5753e6c06281cc55b9e4059b8262b7add71"
+source = "https://bin.ajam.dev/x64_Windows/croc.exe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["croc.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["data-transfer","file-sharing","golang","pake","peer-to-peer","tcp","transfer"]
+categories = ["Utilities"]
