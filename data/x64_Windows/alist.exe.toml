@@ -1,0 +1,26 @@
+[bin]
+name = "alist.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "alist.exe"
+description = "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。"
+author = "alist-org"
+repo = "https://github.com/alist-org/alist"
+stars = "36731"
+version = "v3.33.0"
+updated = "2024-03-25T15:21:46Z"
+size = "66.78 MB"
+bsum = "0883cda60b520f94f2fde7fb929f2a0d2e02e5dc2163cfb741cc1a7fa6c3df87"
+sha = "291b6342c90f4661efca5654e629294b8d97c39c133fa3948a5f01f4f0f224ea"
+source = "https://bin.ajam.dev/x64_Windows/alist.exe"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["alist.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["file-server","gin","golang","onedrive","solidjs","webdav"]
+categories = ["Utilities"]

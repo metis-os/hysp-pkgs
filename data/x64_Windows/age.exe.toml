@@ -1,0 +1,26 @@
+[bin]
+name = "age.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "age.exe"
+description = "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+author = "FiloSottile"
+repo = "https://github.com/FiloSottile/age"
+stars = "15199"
+version = "v1.1.1"
+updated = "2022-12-26T20:39:07Z"
+size = "3.88 MB"
+bsum = "d0a4be0565bd029e808b5c31e89c73a3473c830dbca8050aa3ae435f9d84a534"
+sha = "7a4b95bc49074e01b385f444a70def97d64a17888bd9bf3284c1ef0ee1e210fd"
+source = "https://bin.ajam.dev/x64_Windows/age.exe"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["age.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["age-encryption","built-at-rc"]
+categories = ["Utilities"]
