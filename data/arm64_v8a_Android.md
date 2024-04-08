@@ -34,7 +34,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 49
+- **Stars:** 50
 - **Version:** null
 - **Updated:** 
 - **Size:** 4.76 MB
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6742
+- **Stars:** 6743
 - **Version:** v1.6.0
 - **Updated:** 2024-03-06T19:33:45Z
 - **Size:** 42.14 MB
@@ -306,7 +306,7 @@
 - **Description:**  Bug Bounties
 - **Author:** Azathothas
 - **Repository:** [https://github.com/Azathothas/Arsenal](https://github.com/Azathothas/Arsenal)
-- **Stars:** 49
+- **Stars:** 50
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.61 MB
@@ -322,7 +322,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1139
+- **Stars:** 1140
 - **Version:** v2.28.0
 - **Updated:** 2024-03-08T23:46:33Z
 - **Size:** 6.8 MB
