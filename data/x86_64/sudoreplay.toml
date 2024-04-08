@@ -1,0 +1,26 @@
+[bin]
+name = "sudoreplay"
+
+[package]
+architecture = "x86_64"
+name = "sudoreplay"
+description = "Utility to execute a command as another user"
+author = "sudo-project"
+repo = "https://github.com/sudo-project/sudo"
+stars = "1080"
+version = "SUDO_1_9_15p5"
+updated = "2023-12-30T18:17:14Z"
+size = "360.61 kB"
+bsum = "42880039d027d223be9298e6f7a217c8125eff832087e07b8817c2b9986ee378"
+sha = "940d989a78d82758673d4dfa0011289bd62cec89e015998567b2c12863d3cd11"
+source = "https://bin.ajam.dev/x86_64_Linux/sudoreplay"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sudoreplay"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

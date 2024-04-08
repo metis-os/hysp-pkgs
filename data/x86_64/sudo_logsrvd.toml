@@ -1,0 +1,26 @@
+[bin]
+name = "sudo_logsrvd"
+
+[package]
+architecture = "x86_64"
+name = "sudo_logsrvd"
+description = "Utility to execute a command as another user"
+author = "sudo-project"
+repo = "https://github.com/sudo-project/sudo"
+stars = "1080"
+version = "SUDO_1_9_15p5"
+updated = "2023-12-30T18:17:14Z"
+size = "603.07 kB"
+bsum = "7aa6d2eba4531d1a8115bf2c9680ccf7c0030f566797e0bbf98d34814dc5d3da"
+sha = "603ede28874b72134cf4a4f78c98200af406f8a48972ae5d829e7f9d04328ecd"
+source = "https://bin.ajam.dev/x86_64_Linux/sudo_logsrvd"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sudo_logsrvd"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

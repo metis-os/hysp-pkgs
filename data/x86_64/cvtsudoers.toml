@@ -1,0 +1,26 @@
+[bin]
+name = "cvtsudoers"
+
+[package]
+architecture = "x86_64"
+name = "cvtsudoers"
+description = "Utility to execute a command as another user"
+author = "sudo-project"
+repo = "https://github.com/sudo-project/sudo"
+stars = "1080"
+version = "SUDO_1_9_15p5"
+updated = "2023-12-30T18:17:14Z"
+size = "579.42 kB"
+bsum = "e57016566e1824b6e32dabef3bee650f389257e3844ae1b3e992aba69e2114f0"
+sha = "4a5a7dcbad686810590a480d2e7dc8492e3cce0f05cf4770ba4050d280c1a70b"
+source = "https://bin.ajam.dev/x86_64_Linux/cvtsudoers"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["cvtsudoers"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

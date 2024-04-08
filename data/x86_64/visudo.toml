@@ -1,0 +1,26 @@
+[bin]
+name = "visudo"
+
+[package]
+architecture = "x86_64"
+name = "visudo"
+description = "Utility to execute a command as another user"
+author = "sudo-project"
+repo = "https://github.com/sudo-project/sudo"
+stars = "1080"
+version = "SUDO_1_9_15p5"
+updated = "2023-12-30T18:17:14Z"
+size = "484.54 kB"
+bsum = "6854444e754f9b93ec5b923a9b1017976b7ef4f1d4d36ba5863e911e4807bcea"
+sha = "427925015b318a1e5a0583c4916225d7c6cc78cb53966441746b93beebcb8269"
+source = "https://bin.ajam.dev/x86_64_Linux/visudo"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["visudo"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
