@@ -1,0 +1,26 @@
+[bin]
+name = "gobuster"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gobuster"
+description = "Directory/File, DNS and VHost busting tool written in Go"
+author = "OJ"
+repo = "https://github.com/OJ/gobuster"
+stars = "8959"
+version = "v3.6.0"
+updated = "2023-08-14T08:30:05Z"
+size = "7.75 MB"
+bsum = "666ed38aa6dd5dca5662e03ae2c622257b0d2345d85b4789cef118a69c059b22"
+sha = "bfed775b33fa24441656abfa1172b80ed5917624f3c563dc3804b7ac3cabff75"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/gobuster"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["gobuster"]
+requires = []
+
+[package.metadata]
+keywords = ["dns","go","pentesting","tool","web"]
+categories = ["Utilities"]
