@@ -41,3 +41,38 @@
 │ 781│-wget                             │    │
 │ 782│-whois                            │    │
 │ 793│-xargs                            │    │
+│ 18 │-busybox-unicode.exe              │    │
+│ 19 │-busybox.exe                      │    │
+│ 45 │-ein.exe                          │    │
+│ 47 │-err.exe                          │    │
+│ 53 │-ffmpeg.exe                       │    │
+│ 54 │-ffplay.exe                       │    │
+│ 55 │-ffprobe.exe                      │    │
+│ 62 │-gix.exe                          │    │
+│ 67 │-inscope.exe                      │    │
+│ 68 │-iperf3.exe                       │    │
+│ 83 │-ngrok.exe                        │    │
+│ 91 │-pdfdetach.exe                    │    │
+│ 92 │-pdffonts.exe                     │    │
+│ 93 │-pdfimages.exe                    │    │
+│ 94 │-pdfinfo.exe                      │    │
+│ 95 │-pdftopng.exe                     │    │
+│ 96 │-pdftoppm.exe                     │    │
+│ 97 │-pdftops.exe                      │    │
+│ 98 │-pdftotext.exe                    │    │
+│ 107│-quotes-escaper.exe               │    │
+│ 113│-scp.exe                          │    │
+│ 115│-sftp-server.exe                  │    │
+│ 122│-ssh-add.exe                      │    │
+│ 123│-ssh-agent.exe                    │    │
+│ 124│-ssh-keygen.exe                   │    │
+│ 125│-ssh-keyscan.exe                  │    │
+│ 126│-ssh-pkcs11-helper.exe            │    │
+│ 127│-ssh-shellhost.exe                │    │
+│ 128│-ssh-sk-helper.exe                │    │
+│ 129│-ssh.exe                          │    │
+│ 130│-sshd.exe                         │    │
+│ 131│-stP1kAlM                         │    │
+│ 133│-stiG2Kb7                         │    │
+│ 151│-upx.exe                          │    │
+│ 160│-yq.exe                           │    │
