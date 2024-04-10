@@ -82,7 +82,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 36817
+- **Stars:** 36816
 - **Version:** v3.33.0
 - **Updated:** 2024-03-25T15:21:46Z
 - **Size:** 66.78 MB
@@ -338,7 +338,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 7817
+- **Stars:** 7819
 - **Version:** 2024.4.0
 - **Updated:** 2024-04-10T11:38:32Z
 - **Size:** 26.46 MB
@@ -626,7 +626,7 @@
 - **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
 - **Author:** sigoden
 - **Repository:** [https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-- **Stars:** 4585
+- **Stars:** 4586
 - **Version:** v0.40.0
 - **Updated:** 2024-02-13T04:15:03Z
 - **Size:** 3.68 MB
@@ -1161,6 +1161,22 @@
 - **SHA256SUM:** bba57756080bd81edf72078ce6cbcbbad7cb697e1c91b4df7b8e865c8d8caef8
 - **B3SUM:** c52ed53df5fafc50c56a1b6813029ce57a340886de5f159ee0aec78c9f0a7b7a
 - **Source:** https://bin.ajam.dev/x64_Windows/mv.exe
+- **Language:** Rust
+- **License:** MIT License
+
+---
+
+### nl.exe
+- **Description:** Cross-platform Rust rewrite of the GNU coreutils
+- **Author:** uutils
+- **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
+- **Stars:** 16790
+- **Version:** 0.0.25
+- **Updated:** 2024-03-23T20:56:02Z
+- **Size:** 2.38 MB
+- **SHA256SUM:** 998277c11103a4d31215406cb1f492cbf565c91fd4ff9080612e4c15e24ad37d
+- **B3SUM:** 940560ba6e6f1cd743cb43df853b408bdf56d2b3cf83a4ecee106f13e05c143c
+- **Source:** https://bin.ajam.dev/x64_Windows/nl.exe
 - **Language:** Rust
 - **License:** MIT License
 
@@ -1794,7 +1810,7 @@
 - **Description:** trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.
 - **Author:** trzsz
 - **Repository:** [https://github.com/trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh)
-- **Stars:** 1310
+- **Stars:** 1311
 - **Version:** v0.1.19
 - **Updated:** 2024-03-16T13:45:31Z
 - **Size:** 10.84 MB
@@ -2002,7 +2018,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 69661
+- **Stars:** 69664
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
