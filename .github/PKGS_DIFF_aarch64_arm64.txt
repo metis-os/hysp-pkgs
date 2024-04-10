@@ -8,7 +8,6 @@
 │ 126│-crontab                          │    │
 │ 170│-doomxss                          │    │
 │ 171│-dos2unix                         │    │
-│ 178│-dropbearscp                      │    │
 │ 191│-earh                             │    │
 │ 194│-eefjsf                           │    │
 │ 199│-elinks                           │    │
