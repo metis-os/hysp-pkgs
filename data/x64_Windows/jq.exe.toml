@@ -1,0 +1,26 @@
+[bin]
+name = "jq.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "jq.exe"
+description = "Command-line JSON processor"
+author = "jqlang"
+repo = "https://github.com/jqlang/jq"
+stars = "28922"
+version = "jq-1.7.1"
+updated = "2023-12-13T19:56:17Z"
+size = "985.09 kB"
+bsum = "4f5d31cbaea1e1595ee0fa1f1c6d8b6579913ee8bfa8465183ced90cb8b520a8"
+sha = "aa7b560a69d5594239cbc9220cede6511881642b88b6d8135351c5e38ee5e895"
+source = "https://bin.ajam.dev/x64_Windows/jq.exe"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["jq.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["jq"]
+categories = ["Utilities"]
