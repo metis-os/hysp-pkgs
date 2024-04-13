@@ -130,11 +130,11 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 23486
+- **Stars:** 23487
 - **Version:** v2.28.0
 - **Updated:** 2024-04-01T14:30:24Z
 - **Size:** 13.94 MB
-- **SHASUM:** f542a2425908eb9832c6ee957c46fbdc40f4ded086cba8548ae17c614dddd7f8
+- **SHASUM:** 
 - **B3SUM:** 8072441164bb1ed3ef910693eea0add349e8723f8b8910b5e4d0ff0e5e84eaa5
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/filebrowser
 - **Language:** Go
