@@ -4,7 +4,7 @@ name = "bigdl"
 [package]
 architecture = "aarch64_arm64"
 name = "bigdl"
-description = "Statically Linked Binary Manager || Like a package manager, but for statically linked binaries.+1100 binaries currently in the repo"
+description = "Statically Linked Binary Manager || Like a package manager, but for statically linked binaries. +1380 binaries currently in the repos"
 author = "xplshn"
 repo = "https://github.com/xplshn/bigdl"
 stars = "3"
