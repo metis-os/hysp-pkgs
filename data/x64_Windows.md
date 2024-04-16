@@ -82,7 +82,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 36954
+- **Stars:** 36956
 - **Version:** v3.33.0
 - **Updated:** 2024-03-25T15:21:46Z
 - **Size:** 66.78 MB
@@ -514,7 +514,7 @@
 - **Description:** ldd for Windows - and more!
 - **Author:** marcoesposito1988
 - **Repository:** [https://github.com/marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner)
-- **Stars:** 23
+- **Stars:** 24
 - **Version:** v1.2.4
 - **Updated:** 2023-08-10T08:51:33Z
 - **Size:** 3.16 MB
@@ -1442,7 +1442,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 44686
+- **Stars:** 44688
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1954,7 +1954,7 @@
 - **Description:** ldd for Windows - and more!
 - **Author:** marcoesposito1988
 - **Repository:** [https://github.com/marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner)
-- **Stars:** 23
+- **Stars:** 24
 - **Version:** v1.2.4
 - **Updated:** 2023-08-10T08:51:33Z
 - **Size:** 1.27 MB
