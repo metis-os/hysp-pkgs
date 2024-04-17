@@ -1,6 +1,5 @@
 │ 59 │-bombadillo                       │    │
 │ 82 │-certwatcher                      │    │
-│ 97 │-cifsiostat                       │    │
 │ 117│-cowsay                           │    │
 │ 118│-cowthink                         │    │
 │ 127│-cron                             │    │
