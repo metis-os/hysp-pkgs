@@ -8,7 +8,6 @@
 │ 177│-dos2unix                         │    │
 │ 233│-filan                            │    │
 │ 235│-find                             │    │
-│ 239│-fio                              │    │
 │ 305│-gotld                            │    │
 │ 311│-grep                             │    │
 │ 410│-mac2unix                         │    │
