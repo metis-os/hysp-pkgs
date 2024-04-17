@@ -8,72 +8,40 @@
 │ 177│-dos2unix                         │    │
 │ 233│-filan                            │    │
 │ 235│-find                             │    │
-│ 304│-gotld                            │    │
-│ 310│-grep                             │    │
-│ 409│-mac2unix                         │    │
-│ 437│-mkpasswd                         │    │
-│ 453│-ncat                             │    │
-│ 454│-ncdu                             │    │
-│ 459│-netstat                          │    │
-│ 466│-ngrok                            │    │
-│ 477│-nping                            │    │
-│ 478│-nrich                            │    │
-│ 525│-procan                           │    │
-│ 556│-rekor                            │    │
-│ 634│-socat                            │    │
-│ 652│-sshpass                          │    │
-│ 663│-stress-ng                        │    │
-│ 684│-sysbox-fs                        │    │
-│ 685│-sysbox-mgr                       │    │
-│ 686│-sysbox-runc                      │    │
-│ 727│-tuiarchiver                      │    │
-│ 729│-twingate-client                  │    │
-│ 730│-twingate-connector               │    │
-│ 731│-twingate-connector-staticx       │    │
-│ 732│-twingate-connectorctl            │    │
-│ 733│-twingate-notifier                │    │
-│ 744│-unix2dos                         │    │
-│ 745│-unix2mac                         │    │
-│ 751│-v6disk                           │    │
-│ 771│-warp-cli                         │    │
-│ 772│-warp-dex                         │    │
-│ 773│-warp-diag                        │    │
-│ 774│-warp-svc                         │    │
-│ 782│-wget                             │    │
-│ 783│-whois                            │    │
-│ 794│-xargs                            │    │
-│ 18 │-busybox-unicode.exe              │    │
-│ 19 │-busybox.exe                      │    │
-│ 45 │-ein.exe                          │    │
-│ 47 │-err.exe                          │    │
-│ 53 │-ffmpeg.exe                       │    │
-│ 54 │-ffplay.exe                       │    │
-│ 55 │-ffprobe.exe                      │    │
-│ 62 │-gix.exe                          │    │
-│ 67 │-inscope.exe                      │    │
-│ 68 │-iperf3.exe                       │    │
-│ 83 │-ngrok.exe                        │    │
-│ 91 │-pdfdetach.exe                    │    │
-│ 92 │-pdffonts.exe                     │    │
-│ 93 │-pdfimages.exe                    │    │
-│ 94 │-pdfinfo.exe                      │    │
-│ 95 │-pdftopng.exe                     │    │
-│ 96 │-pdftoppm.exe                     │    │
-│ 97 │-pdftops.exe                      │    │
-│ 98 │-pdftotext.exe                    │    │
-│ 107│-quotes-escaper.exe               │    │
-│ 113│-scp.exe                          │    │
-│ 115│-sftp-server.exe                  │    │
-│ 122│-ssh-add.exe                      │    │
-│ 123│-ssh-agent.exe                    │    │
-│ 124│-ssh-keygen.exe                   │    │
-│ 125│-ssh-keyscan.exe                  │    │
-│ 126│-ssh-pkcs11-helper.exe            │    │
-│ 127│-ssh-shellhost.exe                │    │
-│ 128│-ssh-sk-helper.exe                │    │
-│ 129│-ssh.exe                          │    │
-│ 130│-sshd.exe                         │    │
-│ 131│-stP1kAlM                         │    │
-│ 133│-stiG2Kb7                         │    │
-│ 151│-upx.exe                          │    │
-│ 160│-yq.exe                           │    │
+│ 239│-fio                              │    │
+│ 305│-gotld                            │    │
+│ 311│-grep                             │    │
+│ 410│-mac2unix                         │    │
+│ 438│-mkpasswd                         │    │
+│ 454│-ncat                             │    │
+│ 455│-ncdu                             │    │
+│ 460│-netstat                          │    │
+│ 467│-ngrok                            │    │
+│ 478│-nping                            │    │
+│ 479│-nrich                            │    │
+│ 526│-procan                           │    │
+│ 557│-rekor                            │    │
+│ 606│-sbase-box                        │    │
+│ 636│-socat                            │    │
+│ 654│-sshpass                          │    │
+│ 665│-stress-ng                        │    │
+│ 686│-sysbox-fs                        │    │
+│ 687│-sysbox-mgr                       │    │
+│ 688│-sysbox-runc                      │    │
+│ 729│-tuiarchiver                      │    │
+│ 731│-twingate-client                  │    │
+│ 732│-twingate-connector               │    │
+│ 733│-twingate-connector-staticx       │    │
+│ 734│-twingate-connectorctl            │    │
+│ 735│-twingate-notifier                │    │
+│ 740│-ubase-box                        │    │
+│ 747│-unix2dos                         │    │
+│ 748│-unix2mac                         │    │
+│ 754│-v6disk                           │    │
+│ 774│-warp-cli                         │    │
+│ 775│-warp-dex                         │    │
+│ 776│-warp-diag                        │    │
+│ 777│-warp-svc                         │    │
+│ 785│-wget                             │    │
+│ 786│-whois                            │    │
+│ 797│-xargs                            │    │
