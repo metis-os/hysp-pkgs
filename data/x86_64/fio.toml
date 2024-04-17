@@ -1,0 +1,26 @@
+[bin]
+name = "fio"
+
+[package]
+architecture = "x86_64"
+name = "fio"
+description = "Flexible I/O Tester"
+author = "axboe"
+repo = "https://github.com/axboe/fio"
+stars = "4850"
+version = "fio-3.37"
+updated = "2024-03-26T21:16:56Z"
+size = "1.75 MB"
+bsum = "321d04e50a597ac63e588fce4fad79d9addde950abab6c09e2e02767c390b0fa"
+sha = "3b0cbebef30f7a3c73c282a9b04799b482d7ad91d140602c5e42ad380b3b6588"
+source = "https://bin.ajam.dev/x86_64_Linux/fio"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["fio"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
