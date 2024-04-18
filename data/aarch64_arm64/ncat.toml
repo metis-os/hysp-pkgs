@@ -1,24 +1,24 @@
 [bin]
-name = "nmap"
+name = "ncat"
 
 [package]
 architecture = "aarch64_arm64"
-name = "nmap"
+name = "ncat"
 description = "Nmap - the Network Mapper. Github mirror of official SVN repository."
 author = "nmap"
 repo = "https://github.com/nmap/nmap"
 stars = "9221"
 version = "null"
 updated = ""
-size = "7.27 MB"
-bsum = "9972e7f17d4ad1a821d23a1e966c4ec6493e358bee67ed69bb212d73ef6661b6"
-sha = "bc112aa66b3cb87230ae26334d08090003597a5740c5dddd92f50037440859f6"
-source = "https://bin.ajam.dev/aarch64_arm64_Linux/nmap"
+size = "2.82 MB"
+bsum = "5271abc5f023eaf267b8441d72ce686e2f1fd8a3c49c666b21fb10f7ba254052"
+sha = "6c16da5902fbcef7eb374ba3b31f258ea5077423a4c7eabfe9e44c6dcd8bbc86"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/ncat"
 language = "C"
 license = "Other"
 
 [package.conditions]
-conflicts  = ["nmap"]
+conflicts  = ["ncat"]
 requires = []
 
 [package.metadata]

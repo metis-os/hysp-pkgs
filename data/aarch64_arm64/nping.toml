@@ -1,24 +1,24 @@
 [bin]
-name = "nmap"
+name = "nping"
 
 [package]
 architecture = "aarch64_arm64"
-name = "nmap"
+name = "nping"
 description = "Nmap - the Network Mapper. Github mirror of official SVN repository."
 author = "nmap"
 repo = "https://github.com/nmap/nmap"
 stars = "9221"
 version = "null"
 updated = ""
-size = "7.27 MB"
-bsum = "9972e7f17d4ad1a821d23a1e966c4ec6493e358bee67ed69bb212d73ef6661b6"
-sha = "bc112aa66b3cb87230ae26334d08090003597a5740c5dddd92f50037440859f6"
-source = "https://bin.ajam.dev/aarch64_arm64_Linux/nmap"
+size = "2.92 MB"
+bsum = "40608b89af61213441a16e39d3a946c967b6b846455922e28de8c8b10efac6e7"
+sha = "a62c11159c6695fb7d897c8541f71737d2b47dd725016da1c81ba29d29a65924"
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/nping"
 language = "C"
 license = "Other"
 
 [package.conditions]
-conflicts  = ["nmap"]
+conflicts  = ["nping"]
 requires = []
 
 [package.metadata]
