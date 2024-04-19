@@ -4,7 +4,7 @@ name = "vproxy"
 [package]
 architecture = "x86_64"
 name = "vproxy"
-description = "IPv6 Subnet-based Proxy for Generating Random IP Requests"
+description = "Random IPv6 request proxy"
 author = "gngpp"
 repo = "https://github.com/gngpp/vproxy"
 stars = "56"
