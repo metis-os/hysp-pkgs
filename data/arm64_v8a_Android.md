@@ -2,7 +2,7 @@
 - **Description:** A tool for adding new lines to files, skipping duplicates
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1208
+- **Stars:** 1209
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.48 MB
@@ -66,7 +66,7 @@
 - **Description:** dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx)
-- **Stars:** 1974
+- **Stars:** 1975
 - **Version:** v1.2.1
 - **Updated:** 2024-03-04T08:26:22Z
 - **Size:** 26.19 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 23607
+- **Stars:** 23609
 - **Version:** v2.28.0
 - **Updated:** 2024-04-01T14:30:24Z
 - **Size:** 13.94 MB
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6788
+- **Stars:** 6789
 - **Version:** v1.6.0
 - **Updated:** 2024-03-06T19:33:45Z
 - **Size:** 42.14 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16414
+- **Stars:** 16415
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16414
+- **Stars:** 16415
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16414
+- **Stars:** 16415
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16414
+- **Stars:** 16415
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 21.67 MB
