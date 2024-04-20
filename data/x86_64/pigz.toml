@@ -1,0 +1,26 @@
+[bin]
+name = "pigz"
+
+[package]
+architecture = "x86_64"
+name = "pigz"
+description = "A parallel implementation of gzip for modern multi-processor, multi-core machines."
+author = "madler"
+repo = "https://github.com/madler/pigz"
+stars = "2547"
+version = "v2.8"
+updated = "null"
+size = "264.2 kB"
+bsum = "d09d665cbd059b9418d165dba17a9b693f361497be597dfb8b2ee937f180c699"
+sha = "f0e91bab375d0a5dec27e4e59de984dc4987d39e0e915bc1f78d4c2b8344ba78"
+source = "https://bin.ajam.dev/x86_64_Linux/pigz"
+language = "C"
+license = "null"
+
+[package.conditions]
+conflicts  = ["pigz"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

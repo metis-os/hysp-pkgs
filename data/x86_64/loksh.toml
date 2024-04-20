@@ -1,0 +1,26 @@
+[bin]
+name = "loksh"
+
+[package]
+architecture = "x86_64"
+name = "loksh"
+description = "A Linux port of OpenBSD's ksh"
+author = "dimkr"
+repo = "https://github.com/dimkr/loksh"
+stars = "116"
+version = "7.5"
+updated = "2024-04-06T08:11:38Z"
+size = "442.21 kB"
+bsum = "9884274bcbe9c76b3af0c48d3e5d792bcfbb859bf2a3af2eeebed7ba326d0868"
+sha = "df358fcd426c8f7a5b3e796e3b8e3cf33df0882da14e190760a0595069027c4e"
+source = "https://bin.ajam.dev/x86_64_Linux/loksh"
+language = "C"
+license = "null"
+
+[package.conditions]
+conflicts  = ["loksh"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","c","interactive","linux","openbsd","portable","shell","system"]
+categories = ["Utilities"]
