@@ -18,7 +18,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 50045
+- **Stars:** 50048
 - **Version:** v0.2.61
 - **Updated:** 2024-04-01T02:20:07Z
 - **Size:** 15.36 MB
@@ -610,7 +610,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46379
+- **Stars:** 46381
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.43 MB
@@ -626,7 +626,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46379
+- **Stars:** 46381
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.43 MB
@@ -690,7 +690,7 @@
 - **Description:** Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - **Author:** Bearer
 - **Repository:** [https://github.com/Bearer/bearer](https://github.com/Bearer/bearer)
-- **Stars:** 1726
+- **Stars:** 1727
 - **Version:** v1.43.2
 - **Updated:** 2024-04-09T15:50:33Z
 - **Size:** 50.02 MB
@@ -994,7 +994,7 @@
 - **Description:** A monitor of resources
 - **Author:** aristocratos
 - **Repository:** [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop)
-- **Stars:** 16167
+- **Stars:** 16170
 - **Version:** v1.3.2
 - **Updated:** 2024-02-12T15:30:15Z
 - **Size:** 2.28 MB
@@ -1058,7 +1058,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 53590
+- **Stars:** 53591
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 39.5 MB
@@ -1394,7 +1394,7 @@
 - **Description:** A fast TCP/UDP tunnel over HTTP
 - **Author:** jpillora
 - **Repository:** [https://github.com/jpillora/chisel](https://github.com/jpillora/chisel)
-- **Stars:** 12020
+- **Stars:** 12022
 - **Version:** v1.9.1
 - **Updated:** 2023-08-23T10:26:18Z
 - **Size:** 8.31 MB
@@ -1618,7 +1618,7 @@
 - **Description:** The Conventional Commits toolbox
 - **Author:** cocogitto
 - **Repository:** [https://github.com/cocogitto/cocogitto](https://github.com/cocogitto/cocogitto)
-- **Stars:** 602
+- **Stars:** 603
 - **Version:** 6.1.0
 - **Updated:** 2024-03-14T09:24:02Z
 - **Size:** 7.13 MB
@@ -1826,7 +1826,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 26284
+- **Stars:** 26285
 - **Version:** v9.6.15
 - **Updated:** 2024-04-06T16:44:27Z
 - **Size:** 7.43 MB
@@ -2082,7 +2082,7 @@
 - **Description:** Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - **Author:** dagu-dev
 - **Repository:** [https://github.com/dagu-dev/dagu](https://github.com/dagu-dev/dagu)
-- **Stars:** 1164
+- **Stars:** 1166
 - **Version:** v1.12.11
 - **Updated:** 2024-03-19T10:36:54Z
 - **Size:** 26.84 MB
@@ -2162,7 +2162,7 @@
 - **Description:** The Open Source Dev Environment Manager.
 - **Author:** daytonaio
 - **Repository:** [https://github.com/daytonaio/daytona](https://github.com/daytonaio/daytona)
-- **Stars:** 5311
+- **Stars:** 5312
 - **Version:** v0.12.1
 - **Updated:** 2024-04-19T09:51:41Z
 - **Size:** 76.66 MB
@@ -2178,7 +2178,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1541
+- **Stars:** 1540
 - **Version:** DROPBEAR_2024.84
 - **Updated:** 2024-04-04T11:58:42Z
 - **Size:** 1.13 MB
@@ -2194,7 +2194,7 @@
 - **Description:** Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - **Author:** jeessy2
 - **Repository:** [https://github.com/jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)
-- **Stars:** 9066
+- **Stars:** 9068
 - **Version:** v6.3.2
 - **Updated:** 2024-04-08T14:32:41Z
 - **Size:** 8.65 MB
@@ -2242,7 +2242,7 @@
 - **Description:** A syntax-highlighting pager for git, diff, and grep output
 - **Author:** dandavison
 - **Repository:** [https://github.com/dandavison/delta](https://github.com/dandavison/delta)
-- **Stars:** 20624
+- **Stars:** 20626
 - **Version:** 0.17.0
 - **Updated:** 2024-03-16T14:28:32Z
 - **Size:** 5.56 MB
@@ -2594,7 +2594,7 @@
 - **Description:** Drive performance measurement tool
 - **Author:** minio
 - **Repository:** [https://github.com/minio/dperf](https://github.com/minio/dperf)
-- **Stars:** 50
+- **Stars:** 51
 - **Version:** v0.5.2
 - **Updated:** 2023-11-05T09:14:45Z
 - **Size:** 5.89 MB
@@ -2610,7 +2610,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1541
+- **Stars:** 1540
 - **Version:** DROPBEAR_2024.84
 - **Updated:** 2024-04-04T11:58:42Z
 - **Size:** 1.32 MB
@@ -2626,7 +2626,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1541
+- **Stars:** 1540
 - **Version:** DROPBEAR_2024.84
 - **Updated:** 2024-04-04T11:58:42Z
 - **Size:** 928.25 kB
@@ -2642,7 +2642,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1541
+- **Stars:** 1540
 - **Version:** DROPBEAR_2024.84
 - **Updated:** 2024-04-04T11:58:42Z
 - **Size:** 928.25 kB
@@ -2658,7 +2658,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1541
+- **Stars:** 1540
 - **Version:** DROPBEAR_2024.84
 - **Updated:** 2024-04-04T11:58:42Z
 - **Size:** 1.39 MB
@@ -2674,7 +2674,7 @@
 - **Description:** Dropbear SSH
 - **Author:** mkj
 - **Repository:** [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
-- **Stars:** 1541
+- **Stars:** 1540
 - **Version:** DROPBEAR_2024.84
 - **Updated:** 2024-04-04T11:58:42Z
 - **Size:** 600.14 kB
@@ -3074,7 +3074,7 @@
 - **Description:** Distributed reliable key-value store for the most critical data of a distributed system
 - **Author:** etcd-io
 - **Repository:** [https://github.com/etcd-io/etcd](https://github.com/etcd-io/etcd)
-- **Stars:** 46311
+- **Stars:** 46312
 - **Version:** v3.5.13
 - **Updated:** 2024-03-29T18:48:23Z
 - **Size:** 22.29 MB
@@ -3090,7 +3090,7 @@
 - **Description:** Distributed reliable key-value store for the most critical data of a distributed system
 - **Author:** etcd-io
 - **Repository:** [https://github.com/etcd-io/etcd](https://github.com/etcd-io/etcd)
-- **Stars:** 46311
+- **Stars:** 46312
 - **Version:** v3.5.13
 - **Updated:** 2024-03-29T18:48:23Z
 - **Size:** 16.93 MB
@@ -3106,7 +3106,7 @@
 - **Description:** Distributed reliable key-value store for the most critical data of a distributed system
 - **Author:** etcd-io
 - **Repository:** [https://github.com/etcd-io/etcd](https://github.com/etcd-io/etcd)
-- **Stars:** 46311
+- **Stars:** 46312
 - **Version:** v3.5.13
 - **Updated:** 2024-03-29T18:48:23Z
 - **Size:** 14.15 MB
@@ -3138,7 +3138,7 @@
 - **Description:** A modern, maintained replacement for ls
 - **Author:** eza-community
 - **Repository:** [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
-- **Stars:** 7078
+- **Stars:** 7079
 - **Version:** v0.18.11
 - **Updated:** 2024-04-19T05:06:11Z
 - **Size:** 1.88 MB
@@ -3234,7 +3234,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 31512
+- **Stars:** 31514
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 3.45 MB
@@ -3250,7 +3250,7 @@
 - **Description:** A simple, fast and user-friendly alternative to 'find'
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
-- **Stars:** 31512
+- **Stars:** 31514
 - **Version:** v9.0.0
 - **Updated:** 2023-12-19T10:31:32Z
 - **Size:** 3.45 MB
@@ -3266,7 +3266,7 @@
 - **Description:** FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - **Author:** adrianlopezroche
 - **Repository:** [https://github.com/adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes)
-- **Stars:** 2349
+- **Stars:** 2350
 - **Version:** v2.3.0
 - **Updated:** 2024-01-27T21:08:47Z
 - **Size:** 725.14 kB
@@ -3330,7 +3330,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11389
+- **Stars:** 11390
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 7.82 MB
@@ -3458,7 +3458,7 @@
 - **Description:** 🚀 Fast and simple Node.js version manager, built in Rust
 - **Author:** Schniz
 - **Repository:** [https://github.com/Schniz/fnm](https://github.com/Schniz/fnm)
-- **Stars:** 15328
+- **Stars:** 15330
 - **Version:** v1.35.1
 - **Updated:** 2023-08-16T06:13:47Z
 - **Size:** 6.16 MB
@@ -3474,7 +3474,7 @@
 - **Description:** jq for binary formats - tool, language and decoders for working with binary and text formats
 - **Author:** wader
 - **Repository:** [https://github.com/wader/fq](https://github.com/wader/fq)
-- **Stars:** 9357
+- **Stars:** 9358
 - **Version:** v0.11.0
 - **Updated:** 2024-04-14T10:55:57Z
 - **Size:** 11.92 MB
@@ -3490,7 +3490,7 @@
 - **Description:** 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - **Author:** shadow1ng
 - **Repository:** [https://github.com/shadow1ng/fscan](https://github.com/shadow1ng/fscan)
-- **Stars:** 7894
+- **Stars:** 7895
 - **Version:** 1.8.3
 - **Updated:** 2023-11-13T04:43:05Z
 - **Size:** 23.55 MB
@@ -3522,7 +3522,7 @@
 - **Description:** The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - **Author:** libfuse
 - **Repository:** [https://github.com/libfuse/libfuse](https://github.com/libfuse/libfuse)
-- **Stars:** 4964
+- **Stars:** 4965
 - **Version:** fuse-3.16.2
 - **Updated:** 2023-10-10T07:40:44Z
 - **Size:** 132.62 kB
@@ -3586,7 +3586,7 @@
 - **Description:** :cherry_blossom: A command-line fuzzy finder
 - **Author:** junegunn
 - **Repository:** [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-- **Stars:** 59511
+- **Stars:** 59513
 - **Version:** 0.50.0
 - **Updated:** 2024-04-14T15:06:31Z
 - **Size:** 3.51 MB
@@ -3666,7 +3666,7 @@
 - **Description:** 🌀 A nonsense activity generator
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/genact](https://github.com/svenstaro/genact)
-- **Stars:** 8781
+- **Stars:** 8780
 - **Version:** v1.4.2
 - **Updated:** 2024-02-17T22:15:39Z
 - **Size:** 1.29 MB
@@ -3858,7 +3858,7 @@
 - **Description:** A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - **Author:** orhun
 - **Repository:** [https://github.com/orhun/git-cliff](https://github.com/orhun/git-cliff)
-- **Stars:** 7541
+- **Stars:** 7542
 - **Version:** v2.2.1
 - **Updated:** 2024-04-10T22:34:29Z
 - **Size:** 10.21 MB
@@ -3890,7 +3890,7 @@
 - **Description:** Git extension for versioning large files
 - **Author:** git-lfs
 - **Repository:** [https://github.com/git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
-- **Stars:** 12439
+- **Stars:** 12440
 - **Version:** v3.5.1
 - **Updated:** 2024-03-07T21:03:09Z
 - **Size:** 10.9 MB
@@ -4002,7 +4002,7 @@
 - **Description:** Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - **Author:** go-gitea
 - **Repository:** [https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)
-- **Stars:** 41800
+- **Stars:** 41802
 - **Version:** v1.21.11
 - **Updated:** 2024-04-16T03:46:17Z
 - **Size:** 99.72 MB
@@ -4082,7 +4082,7 @@
 - **Description:** Protect and discover secrets using Gitleaks 🔑
 - **Author:** gitleaks
 - **Repository:** [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-- **Stars:** 15208
+- **Stars:** 15209
 - **Version:** v8.18.2
 - **Updated:** 2024-02-01T17:08:03Z
 - **Size:** 6.57 MB
@@ -4146,7 +4146,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 16965
+- **Stars:** 16966
 - **Version:** v0.26.1
 - **Updated:** 2024-04-14T20:18:02Z
 - **Size:** 11.16 MB
@@ -4178,7 +4178,7 @@
 - **Description:** Render markdown on the CLI, with pizzazz! 💅🏻
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
-- **Stars:** 14715
+- **Stars:** 14718
 - **Version:** v1.5.1
 - **Updated:** 2023-05-09T16:16:51Z
 - **Size:** 17.41 MB
@@ -4242,7 +4242,7 @@
 - **Description:** Directory/File, DNS and VHost busting tool written in Go
 - **Author:** OJ
 - **Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
-- **Stars:** 8996
+- **Stars:** 8997
 - **Version:** v3.6.0
 - **Updated:** 2023-08-14T08:30:05Z
 - **Size:** 7.75 MB
@@ -4466,7 +4466,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 15082
+- **Stars:** 15084
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.65 MB
@@ -4530,7 +4530,7 @@
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost
 - **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2686
+- **Stars:** 2687
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 28.66 MB
@@ -5026,7 +5026,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6790
+- **Stars:** 6791
 - **Version:** v1.6.0
 - **Updated:** 2024-03-06T19:33:45Z
 - **Size:** 38.67 MB
@@ -5138,7 +5138,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 19881
+- **Stars:** 19882
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.2 MB
@@ -5330,7 +5330,7 @@
 - **Description:** Connect, secure, control, and observe services.
 - **Author:** istio
 - **Repository:** [https://github.com/istio/istio](https://github.com/istio/istio)
-- **Stars:** 34944
+- **Stars:** 34946
 - **Version:** 1.21.1
 - **Updated:** 2024-04-08T18:20:17Z
 - **Size:** 84.9 MB
@@ -5458,7 +5458,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 29000
+- **Stars:** 29001
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 1.71 MB
@@ -5538,7 +5538,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 16996
+- **Stars:** 16997
 - **Version:** 1.25.2
 - **Updated:** 2024-03-11T00:22:39Z
 - **Size:** 2.9 MB
@@ -5730,7 +5730,7 @@
 - **Description:**  Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - **Author:** kopia
 - **Repository:** [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
-- **Stars:** 6259
+- **Stars:** 6260
 - **Version:** v0.17.0
 - **Updated:** 2024-04-16T03:46:40Z
 - **Size:** 34.96 MB
@@ -5810,7 +5810,7 @@
 - **Description:** simple terminal UI for git commands
 - **Author:** jesseduffield
 - **Repository:** [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **Stars:** 45375
+- **Stars:** 45377
 - **Version:** v0.41.0
 - **Updated:** 2024-03-23T09:14:14Z
 - **Size:** 16.97 MB
@@ -5826,7 +5826,7 @@
 - **Description:** Terminal file manager
 - **Author:** gokcehan
 - **Repository:** [https://github.com/gokcehan/lf](https://github.com/gokcehan/lf)
-- **Stars:** 7173
+- **Stars:** 7174
 - **Version:** r32
 - **Updated:** 2024-03-31T20:04:41Z
 - **Size:** 3.54 MB
@@ -5890,7 +5890,7 @@
 - **Description:** Like Prometheus, but for logs.
 - **Author:** grafana
 - **Repository:** [https://github.com/grafana/loki](https://github.com/grafana/loki)
-- **Stars:** 22140
+- **Stars:** 22142
 - **Version:** v3.0.0
 - **Updated:** 2024-04-08T19:19:53Z
 - **Size:** 57.38 MB
@@ -5922,7 +5922,7 @@
 - **Description:** Like Prometheus, but for logs.
 - **Author:** grafana
 - **Repository:** [https://github.com/grafana/loki](https://github.com/grafana/loki)
-- **Stars:** 22140
+- **Stars:** 22142
 - **Version:** v3.0.0
 - **Updated:** 2024-04-08T19:19:53Z
 - **Size:** 28.27 MB
@@ -5938,7 +5938,7 @@
 - **Description:** Like Prometheus, but for logs.
 - **Author:** grafana
 - **Repository:** [https://github.com/grafana/loki](https://github.com/grafana/loki)
-- **Stars:** 22140
+- **Stars:** 22142
 - **Version:** v3.0.0
 - **Updated:** 2024-04-08T19:19:53Z
 - **Size:** 64.59 MB
@@ -5954,7 +5954,7 @@
 - **Description:** The next gen ls command
 - **Author:** lsd-rs
 - **Repository:** [https://github.com/lsd-rs/lsd](https://github.com/lsd-rs/lsd)
-- **Stars:** 12279
+- **Stars:** 12280
 - **Version:** v1.1.2
 - **Updated:** 2024-03-25T16:34:26Z
 - **Size:** 3.06 MB
@@ -6114,7 +6114,7 @@
 - **Description:** 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - **Author:** MrEmpy
 - **Repository:** [https://github.com/MrEmpy/mantra](https://github.com/MrEmpy/mantra)
-- **Stars:** 472
+- **Stars:** 473
 - **Version:** v2.0
 - **Updated:** 2024-04-01T17:59:09Z
 - **Size:** 4.97 MB
@@ -6178,7 +6178,7 @@
 - **Description:** Simple | Fast tool to manage MinIO clusters :cloud:
 - **Author:** minio
 - **Repository:** [https://github.com/minio/mc](https://github.com/minio/mc)
-- **Stars:** 2688
+- **Stars:** 2689
 - **Version:** RELEASE.2024-04-18T16-45-29Z
 - **Updated:** 2024-04-18T21:40:01Z
 - **Size:** 26.27 MB
@@ -6322,7 +6322,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23866
+- **Stars:** 23867
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.35 MB
@@ -6386,7 +6386,7 @@
 - **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-- **Stars:** 5575
+- **Stars:** 5576
 - **Version:** v0.27.1
 - **Updated:** 2024-03-16T11:45:56Z
 - **Size:** 1.87 MB
@@ -6418,7 +6418,7 @@
 - **Description:** dev tools, env vars, task runner
 - **Author:** jdx
 - **Repository:** [https://github.com/jdx/mise](https://github.com/jdx/mise)
-- **Stars:** 5982
+- **Stars:** 5984
 - **Version:** v2024.4.5
 - **Updated:** 2024-04-15T23:12:51Z
 - **Size:** 14.73 MB
@@ -6530,7 +6530,7 @@
 - **Description:** The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - **Author:** libfuse
 - **Repository:** [https://github.com/libfuse/libfuse](https://github.com/libfuse/libfuse)
-- **Stars:** 4964
+- **Stars:** 4965
 - **Version:** fuse-3.16.2
 - **Updated:** 2023-10-10T07:40:44Z
 - **Size:** 526.02 kB
@@ -6610,7 +6610,7 @@
 - **Description:** A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/naabu](https://github.com/projectdiscovery/naabu)
-- **Stars:** 4238
+- **Stars:** 4239
 - **Version:** v2.3.0
 - **Updated:** 2024-03-13T08:35:20Z
 - **Size:** 9.46 MB
@@ -7010,7 +7010,7 @@
 - **Description:** A new type of shell
 - **Author:** nushell
 - **Repository:** [https://github.com/nushell/nushell](https://github.com/nushell/nushell)
-- **Stars:** 29869
+- **Stars:** 29870
 - **Version:** 0.92.2
 - **Updated:** 2024-04-10T21:56:54Z
 - **Size:** 31.02 MB
@@ -7090,7 +7090,7 @@
 - **Description:** A new type of shell
 - **Author:** nushell
 - **Repository:** [https://github.com/nushell/nushell](https://github.com/nushell/nushell)
-- **Stars:** 29869
+- **Stars:** 29870
 - **Version:** 0.92.2
 - **Updated:** 2024-04-10T21:56:54Z
 - **Size:** 31.02 MB
@@ -7122,7 +7122,7 @@
 - **Description:** Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - **Author:** hatoo
 - **Repository:** [https://github.com/hatoo/oha](https://github.com/hatoo/oha)
-- **Stars:** 3873
+- **Stars:** 3874
 - **Version:** v1.4.3
 - **Updated:** 2024-04-06T14:00:11Z
 - **Size:** 7.59 MB
@@ -7330,7 +7330,7 @@
 - **Description:** A PDF processor written in Go.
 - **Author:** pdfcpu
 - **Repository:** [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
-- **Stars:** 6206
+- **Stars:** 6207
 - **Version:** v0.7.0
 - **Updated:** 2024-03-05T01:16:51Z
 - **Size:** 10.35 MB
@@ -7506,7 +7506,7 @@
 - **Description:** Package management made easy
 - **Author:** prefix-dev
 - **Repository:** [https://github.com/prefix-dev/pixi](https://github.com/prefix-dev/pixi)
-- **Stars:** 1862
+- **Stars:** 1863
 - **Version:** v0.20.0
 - **Updated:** 2024-04-19T19:06:05Z
 - **Size:** 26.01 MB
@@ -7554,7 +7554,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 21625
+- **Stars:** 21627
 - **Version:** v5.0.2
 - **Updated:** 2024-04-17T19:12:37Z
 - **Size:** 28.89 MB
@@ -7570,7 +7570,7 @@
 - **Description:** Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - **Author:** mxpv
 - **Repository:** [https://github.com/mxpv/podsync](https://github.com/mxpv/podsync)
-- **Stars:** 1364
+- **Stars:** 1365
 - **Version:** v2.7.0
 - **Updated:** 2024-04-01T01:26:39Z
 - **Size:** 20.14 MB
@@ -7714,7 +7714,7 @@
 - **Description:** Like Prometheus, but for logs.
 - **Author:** grafana
 - **Repository:** [https://github.com/grafana/loki](https://github.com/grafana/loki)
-- **Stars:** 22140
+- **Stars:** 22142
 - **Version:** v3.0.0
 - **Updated:** 2024-04-08T19:19:53Z
 - **Size:** 91.44 MB
@@ -8002,7 +8002,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 43708
+- **Stars:** 43712
 - **Version:** v1.66.0
 - **Updated:** 2024-03-10T12:13:14Z
 - **Size:** 58.52 MB
@@ -8482,7 +8482,7 @@
 - **Description:** A bittorrent client in Rust
 - **Author:** ikatson
 - **Repository:** [https://github.com/ikatson/rqbit](https://github.com/ikatson/rqbit)
-- **Stars:** 548
+- **Stars:** 549
 - **Version:** v5.6.0
 - **Updated:** 2024-04-07T10:02:06Z
 - **Size:** 14.3 MB
@@ -8546,7 +8546,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 26312
+- **Stars:** 26313
 - **Version:** v0.4.1
 - **Updated:** 2024-04-19T12:32:43Z
 - **Size:** 19.83 MB
@@ -8818,7 +8818,7 @@
 - **Description:** :computer: :lock: :key: Secure Boot key manager
 - **Author:** Foxboron
 - **Repository:** [https://github.com/Foxboron/sbctl](https://github.com/Foxboron/sbctl)
-- **Stars:** 1292
+- **Stars:** 1293
 - **Version:** 0.13
 - **Updated:** 2023-12-25T21:16:33Z
 - **Size:** 5.68 MB
@@ -9138,7 +9138,7 @@
 - **Description:** Fuzzy Finder in rust!
 - **Author:** lotabout
 - **Repository:** [https://github.com/lotabout/skim](https://github.com/lotabout/skim)
-- **Stars:** 4812
+- **Stars:** 4813
 - **Version:** v0.10.4
 - **Updated:** 2023-03-02T13:08:20Z
 - **Size:** 7342 B
@@ -9154,7 +9154,7 @@
 - **Description:** Fuzzy Finder in rust!
 - **Author:** lotabout
 - **Repository:** [https://github.com/lotabout/skim](https://github.com/lotabout/skim)
-- **Stars:** 4812
+- **Stars:** 4813
 - **Version:** v0.10.4
 - **Updated:** 2023-03-02T13:08:20Z
 - **Size:** 2.68 MB
@@ -9522,7 +9522,7 @@
 - **Description:** Fast, collaborative live terminal sharing over the web
 - **Author:** ekzhang
 - **Repository:** [https://github.com/ekzhang/sshx](https://github.com/ekzhang/sshx)
-- **Stars:** 5236
+- **Stars:** 5237
 - **Version:** v0.2.3
 - **Updated:** 2024-04-06T21:17:53Z
 - **Size:** 7.99 MB
@@ -9538,7 +9538,7 @@
 - **Description:** Fast, collaborative live terminal sharing over the web
 - **Author:** ekzhang
 - **Repository:** [https://github.com/ekzhang/sshx](https://github.com/ekzhang/sshx)
-- **Stars:** 5236
+- **Stars:** 5237
 - **Version:** v0.2.3
 - **Updated:** 2024-04-06T21:17:53Z
 - **Size:** 6.05 MB
@@ -9570,7 +9570,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 40665
+- **Stars:** 40666
 - **Version:** v1.18.2
 - **Updated:** 2024-03-29T15:42:16Z
 - **Size:** 8.28 MB
@@ -9874,7 +9874,7 @@
 - **Description:** Open Source Continuous File Synchronization
 - **Author:** syncthing
 - **Repository:** [https://github.com/syncthing/syncthing](https://github.com/syncthing/syncthing)
-- **Stars:** 59391
+- **Stars:** 59393
 - **Version:** v1.27.6
 - **Updated:** 2024-04-09T09:04:48Z
 - **Size:** 23.06 MB
@@ -10258,7 +10258,7 @@
 - **Description:** A tldr client written in Rust
 - **Author:** tldr-pages
 - **Repository:** [https://github.com/tldr-pages/tlrc](https://github.com/tldr-pages/tlrc)
-- **Stars:** 153
+- **Stars:** 154
 - **Version:** v1.9.1
 - **Updated:** 2024-03-28T20:35:03Z
 - **Size:** 2.77 MB
@@ -10290,7 +10290,7 @@
 - **Description:** Instant Terminal Sharing
 - **Author:** tmate-io
 - **Repository:** [https://github.com/tmate-io/tmate](https://github.com/tmate-io/tmate)
-- **Stars:** 5509
+- **Stars:** 5510
 - **Version:** 2.4.0
 - **Updated:** 2019-11-16T22:14:17Z
 - **Size:** 2.97 MB
@@ -10566,7 +10566,7 @@
 - **Version:** v0.14.0
 - **Updated:** 2024-02-27T18:11:49Z
 - **Size:** 6.24 MB
-- **SHA256SUM:** b935299591fc7a5a488bc9ae59255b407633aa86a8c466856025cf69de82a5e3
+- **SHA256SUM:** 
 - **B3SUM:** 97d810b1882ffce27aad92d3c5971ce764c112423d22df603a95c437c13cfe08
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/u-root
 - **Language:** Go
@@ -10802,7 +10802,7 @@
 - **Description:** Your CLI home video recorder 📼
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- **Stars:** 13728
+- **Stars:** 13732
 - **Version:** v0.7.2
 - **Updated:** 2024-04-15T15:12:30Z
 - **Size:** 24.27 MB
@@ -11010,7 +11010,7 @@
 - **Description:** S3 benchmarking tool
 - **Author:** minio
 - **Repository:** [https://github.com/minio/warp](https://github.com/minio/warp)
-- **Stars:** 484
+- **Stars:** 485
 - **Version:** v0.9.0
 - **Updated:** 2024-03-15T23:06:01Z
 - **Size:** 15.91 MB
@@ -11698,7 +11698,7 @@
 - **Description:** 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - **Author:** sxyazi
 - **Repository:** [https://github.com/sxyazi/yazi](https://github.com/sxyazi/yazi)
-- **Stars:** 7837
+- **Stars:** 7838
 - **Version:** v0.2.4
 - **Updated:** 2024-03-09T13:14:28Z
 - **Size:** 13.35 MB
@@ -11810,7 +11810,7 @@
 - **Description:** A terminal workspace with batteries included
 - **Author:** zellij-org
 - **Repository:** [https://github.com/zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Stars:** 17332
+- **Stars:** 17333
 - **Version:** v0.40.0
 - **Updated:** 2024-04-16T07:29:08Z
 - **Size:** 25.26 MB
