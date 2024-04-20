@@ -146,7 +146,7 @@
 - **Description:**  DreamHost, etc, written in Go.
 - **Author:** TimothyYe
 - **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
-- **Stars:** 1431
+- **Stars:** 1432
 - **Version:** v3.1.5
 - **Updated:** 2024-02-28T15:38:07Z
 - **Size:** 12.38 MB
