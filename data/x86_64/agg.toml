@@ -22,5 +22,5 @@ conflicts  = ["agg"]
 requires = []
 
 [package.metadata]
-keywords = ["gif","terminal"]
+keywords = ["asciinema","gif","rust","terminal"]
 categories = ["Utilities"]
