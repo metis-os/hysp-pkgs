@@ -14,7 +14,7 @@ size = "17.37 MB"
 bsum = "c545bc90052d95481e7ff9ea9f1de1ac2d5d9fbcfdb1e7734fd02bbc7b688670"
 sha = "4d7af895d8000aa268a20005400d47fb6ba219d309f26683c297ff3d543e312e"
 source = "https://bin.ajam.dev/x86_64_Linux/gp"
-language = "Go"
+language = "TypeScript"
 license = "GNU Affero General Public License v3.0"
 
 [package.conditions]
