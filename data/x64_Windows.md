@@ -82,7 +82,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 37149
+- **Stars:** 37150
 - **Version:** v3.33.0
 - **Updated:** 2024-03-25T15:21:46Z
 - **Size:** 66.78 MB
@@ -146,7 +146,7 @@
 - **Description:** the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - **Author:** BLAKE3-team
 - **Repository:** [https://github.com/BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-- **Stars:** 4569
+- **Stars:** 4570
 - **Version:** 1.5.1
 - **Updated:** 2024-03-12T07:55:27Z
 - **Size:** 1.06 MB
@@ -770,9 +770,9 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 2159
-- **Version:** 2.9.2
-- **Updated:** 2024-04-16T03:02:38Z
+- **Stars:** 2160
+- **Version:** 2.10.0
+- **Updated:** 2024-04-22T14:51:21Z
 - **Size:** 1.33 MB
 - **SHA256SUM:** ec316fbdec460a2f7e1beb8a2bb4dade140d70e0ea1b64ccda6b10145bf078ce
 - **B3SUM:** 1c20ef4bfd59bcb9091b15a431d3b38e7f5e0736933624de2910a1ce484fe845
@@ -818,9 +818,9 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 2159
-- **Version:** 2.9.2
-- **Updated:** 2024-04-16T03:02:38Z
+- **Stars:** 2160
+- **Version:** 2.10.0
+- **Updated:** 2024-04-22T14:51:21Z
 - **Size:** 1.18 MB
 - **SHA256SUM:** d6d1afd817cbd022e253d5a6eba3f626119a2983d315a74f6ec607bcab185e2f
 - **B3SUM:** 09dbbc1cf4c3a9cb48cf3640f38b10a54a00d5352c7c7dba04bfa8354c869312
@@ -866,7 +866,7 @@
 - **Description:** Fast disk usage analyzer with console interface written in Go
 - **Author:** dundee
 - **Repository:** [https://github.com/dundee/gdu](https://github.com/dundee/gdu)
-- **Stars:** 3252
+- **Stars:** 3253
 - **Version:** v5.28.0
 - **Updated:** 2024-04-21T10:13:08Z
 - **Size:** 14.23 MB
@@ -1234,7 +1234,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32358
+- **Stars:** 32359
 - **Version:** 3.1.13
 - **Updated:** 2024-04-07T15:51:55Z
 - **Size:** 158.98 MB
@@ -1442,7 +1442,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 44835
+- **Stars:** 44837
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
