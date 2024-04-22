@@ -14,7 +14,7 @@ size = "18.42 MB"
 bsum = "c1e6c3227e589ebcc37d94a40ca571f810b14ba92f2d816def744a0fc29033df"
 sha = "cc3928a1dce49bb535afb7599cb41cc02f60e29eaff79d24cabacd3b5531a516"
 source = "https://bin.ajam.dev/aarch64_arm64_Linux/gitpod"
-language = "Go"
+language = "TypeScript"
 license = "GNU Affero General Public License v3.0"
 
 [package.conditions]
