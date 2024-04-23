@@ -4,7 +4,7 @@ name = "trufflehog"
 [package]
 architecture = "aarch64_arm64"
 name = "trufflehog"
-description = "Find and verify credentials"
+description = "Find and verify secrets"
 author = "trufflesecurity"
 repo = "https://github.com/trufflesecurity/trufflehog"
 stars = "13864"
