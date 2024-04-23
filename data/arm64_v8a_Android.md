@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8849
+- **Stars:** 8850
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -55,7 +55,7 @@
 - **Updated:** 2022-03-08T21:41:54Z
 - **Size:** 4.85 MB
 - **SHASUM:** 51eb756859cf9bb56ea96bcbb7b6a610ccd4f09f9692d8b22a57555a7508f574
-- **B3SUM:** 3b42771dc6cea047d4f75caef10c99914af1cd00f46e5a794af38d872f78846c
+- **B3SUM:** 
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/crt
 - **Language:** Go
 - **License:** Apache License 2.0
