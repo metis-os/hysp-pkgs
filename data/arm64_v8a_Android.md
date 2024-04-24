@@ -6,7 +6,7 @@
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.48 MB
-- **SHASUM:** 
+- **SHASUM:** a22d40cb1fccf69941e047a8703817557f72cf9a12ab9355f69bb60c402188cd
 - **B3SUM:** 3b3cc422b7678ad6e2b2ec07a85a771efde21ab72c485e7b35abad229a9d0334
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/anew
 - **Language:** Go
@@ -39,10 +39,26 @@
 - **Updated:** 
 - **Size:** 4.76 MB
 - **SHASUM:** 3483041867b574b927d00c87901cbb3ccdfa727418259d4a242376892fa46ac7
-- **B3SUM:** 
+- **B3SUM:** 2bdc4787d17066b35b46370d6dc02e7c5371dee10d563d2134bd11f26c0c1922
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/certstream
 - **Language:** Shell
 - **License:** null
+
+---
+
+### crt
+- **Description:** A CLI tool to check Certificate Transparency logs of a domain name.
+- **Author:** cemulus
+- **Repository:** [https://github.com/cemulus/crt](https://github.com/cemulus/crt)
+- **Stars:** 65
+- **Version:** v0.1.0
+- **Updated:** 2022-03-08T21:41:54Z
+- **Size:** 4.85 MB
+- **SHASUM:** 51eb756859cf9bb56ea96bcbb7b6a610ccd4f09f9692d8b22a57555a7508f574
+- **B3SUM:** 3b42771dc6cea047d4f75caef10c99914af1cd00f46e5a794af38d872f78846c
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/crt
+- **Language:** Go
+- **License:** Apache License 2.0
 
 ---
 
@@ -114,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 23676
+- **Stars:** 23677
 - **Version:** v2.28.0
 - **Updated:** 2024-04-01T14:30:24Z
 - **Size:** 13.94 MB
@@ -182,7 +198,7 @@
 - **Version:** v0.1.10
 - **Updated:** 2024-01-09T15:11:15Z
 - **Size:** 6.23 MB
-- **SHASUM:** 
+- **SHASUM:** 15f618f43cbb860db336c28f86f3e6f20518113830e1eab7f1611c48f63b2a94
 - **B3SUM:** e639765fe79480fd4eea64406d5c694a2a8d2ae802214f00d62850483a934893
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/hxn
 - **Language:** Rust
@@ -262,7 +278,7 @@
 - **Version:** v1.1.34
 - **Updated:** 2024-04-02T08:35:07Z
 - **Size:** 23.4 MB
-- **SHASUM:** 
+- **SHASUM:** ad4159ecb5bdf41929ae380266beae9092392387919baa4ff53dd47ebecab0c4
 - **B3SUM:** 4e9d319fc840b92e475eccc5ea3c06ba6c3ed131e4bb4cae7294280f85aa3a63
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/mapcidr
 - **Language:** Go
@@ -326,7 +342,7 @@
 - **Version:** v0.2.0
 - **Updated:** 2021-04-10T21:03:11Z
 - **Size:** 250.38 kB
-- **SHASUM:** 
+- **SHASUM:** 9e56787b3ca489a9eb9e3a64f54944aa92c728d18576972ef7ef6bb10ca6462c
 - **B3SUM:** 261a7ec6cf5ed2fbc82f8128f2583eda7faeb8939b9e08143046f0b046e504ae
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/sudo
 - **Language:** Shell
@@ -390,7 +406,7 @@
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 21.67 MB
-- **SHASUM:** 
+- **SHASUM:** 8a046ad1985824e55fbec58a4e01bf02e2eb91e8cfd38ab78a8cafcd65704fd5
 - **B3SUM:** c5658e0cfdd86e33e1db225f3e8f4bafe47dddae1221ae2246e2e035a60bdc40
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscaled_dynamic_native
 - **Language:** Go
