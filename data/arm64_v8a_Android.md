@@ -2,7 +2,7 @@
 - **Description:** A tool for adding new lines to files, skipping duplicates
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1219
+- **Stars:** 1220
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.48 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 23670
+- **Stars:** 23671
 - **Version:** v2.28.0
 - **Updated:** 2024-04-01T14:30:24Z
 - **Size:** 13.94 MB
@@ -334,27 +334,11 @@
 
 ---
 
-### sudo
-- **Description:** A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
-- **Author:** agnostic-apollo
-- **Repository:** [https://github.com/agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo)
-- **Stars:** 73
-- **Version:** v0.2.0
-- **Updated:** 2021-04-10T21:03:11Z
-- **Size:** 250.38 kB
-- **SHASUM:** 9e56787b3ca489a9eb9e3a64f54944aa92c728d18576972ef7ef6bb10ca6462c
-- **B3SUM:** 261a7ec6cf5ed2fbc82f8128f2583eda7faeb8939b9e08143046f0b046e504ae
-- **Source:** https://bin.ajam.dev/arm64_v8a_Android/sudo
-- **Language:** Shell
-- **License:** MIT License
-
----
-
 ### tailscale
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16494
+- **Stars:** 16495
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 10.92 MB
@@ -370,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16494
+- **Stars:** 16495
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 11.28 MB
@@ -386,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16494
+- **Stars:** 16495
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 20.48 MB
@@ -402,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16494
+- **Stars:** 16495
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 21.67 MB
