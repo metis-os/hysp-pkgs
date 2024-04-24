@@ -50,7 +50,7 @@
 - **Description:** A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - **Author:** FiloSottile
 - **Repository:** [https://github.com/FiloSottile/age](https://github.com/FiloSottile/age)
-- **Stars:** 15288
+- **Stars:** 15289
 - **Version:** v1.1.1
 - **Updated:** 2022-12-26T20:39:07Z
 - **Size:** 3.88 MB
@@ -626,7 +626,7 @@
 - **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
 - **Author:** sigoden
 - **Repository:** [https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-- **Stars:** 4677
+- **Stars:** 4678
 - **Version:** v0.40.0
 - **Updated:** 2024-02-13T04:15:03Z
 - **Size:** 3.68 MB
@@ -674,7 +674,7 @@
 - **Description:** Easily install prebuilt binaries from GitHub.
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 744
+- **Stars:** 745
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.94 MB
@@ -930,7 +930,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 19925
+- **Stars:** 19926
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1234,7 +1234,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32380
+- **Stars:** 32381
 - **Version:** 3.1.13
 - **Updated:** 2024-04-07T15:51:55Z
 - **Size:** 158.98 MB
@@ -2018,7 +2018,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 70507
+- **Stars:** 70509
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
