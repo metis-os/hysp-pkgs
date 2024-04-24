@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8856
+- **Stars:** 8857
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -331,6 +331,22 @@
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/static-web-server
 - **Language:** Rust
 - **License:** Apache License 2.0
+
+---
+
+### sudo
+- **Description:** A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
+- **Author:** agnostic-apollo
+- **Repository:** [https://github.com/agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo)
+- **Stars:** 73
+- **Version:** v0.2.0
+- **Updated:** 2021-04-10T21:03:11Z
+- **Size:** 250.38 kB
+- **SHASUM:** 9e56787b3ca489a9eb9e3a64f54944aa92c728d18576972ef7ef6bb10ca6462c
+- **B3SUM:** 261a7ec6cf5ed2fbc82f8128f2583eda7faeb8939b9e08143046f0b046e504ae
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/sudo
+- **Language:** Shell
+- **License:** MIT License
 
 ---
 
