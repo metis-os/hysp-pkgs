@@ -382,6 +382,22 @@
 
 ---
 
+### tailscaled
+- **Description:** The easiest, most secure way to use WireGuard and 2FA.
+- **Author:** tailscale
+- **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
+- **Stars:** 16496
+- **Version:** v1.64.2
+- **Updated:** 2024-04-17T17:45:27Z
+- **Size:** 20.48 MB
+- **SHASUM:** 5504897030b405888ef389c97a4079d2b3fa869f6ed97132d62c5229a6f126f9
+- **B3SUM:** 08d5aab8a7e544017f5581a5850eb34c6286fc6eba67f60382ea5b70fc261afc
+- **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscaled
+- **Language:** Go
+- **License:** BSD 3-Clause New or Revised License
+
+---
+
 ### tailscaled_dynamic_native
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale

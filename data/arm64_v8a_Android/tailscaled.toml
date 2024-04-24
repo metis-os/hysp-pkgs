@@ -1,0 +1,26 @@
+[bin]
+name = "tailscaled"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "tailscaled"
+description = "The easiest, most secure way to use WireGuard and 2FA."
+author = "tailscale"
+repo = "https://github.com/tailscale/tailscale"
+stars = "16496"
+version = "v1.64.2"
+updated = "2024-04-17T17:45:27Z"
+size = "20.48 MB"
+bsum = "08d5aab8a7e544017f5581a5850eb34c6286fc6eba67f60382ea5b70fc261afc"
+sha = "5504897030b405888ef389c97a4079d2b3fa869f6ed97132d62c5229a6f126f9"
+source = "https://bin.ajam.dev/arm64_v8a_Android/tailscaled"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["tailscaled"]
+requires = []
+
+[package.metadata]
+keywords = ["2fa","oauth","sso","tailscale","vpn","wireguard"]
+categories = ["Utilities"]
