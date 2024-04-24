@@ -1,0 +1,26 @@
+[bin]
+name = "xbps-fetch"
+
+[package]
+architecture = "x86_64"
+name = "xbps-fetch"
+description = "The X Binary Package System (XBPS)"
+author = "void-linux"
+repo = "https://github.com/void-linux/xbps"
+stars = "750"
+version = "0.59.2"
+updated = "null"
+size = "5.64 MB"
+bsum = "2b30bb26759c741831a7879cc81a3545f01b762c0dbe7e5aee0101d092d7327e"
+sha = "48a07d20db0126eef84f545f75abcc1b51d6c78f40536e637103f8ebaa1479e2"
+source = "https://bin.ajam.dev/x86_64_Linux/xbps-fetch"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["xbps-fetch"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","voidlinux"]
+categories = ["Utilities"]
