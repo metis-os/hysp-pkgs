@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 23671
+- **Stars:** 23672
 - **Version:** v2.28.0
 - **Updated:** 2024-04-01T14:30:24Z
 - **Size:** 13.94 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16495
+- **Stars:** 16496
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16495
+- **Stars:** 16496
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 11.28 MB
@@ -382,27 +382,11 @@
 
 ---
 
-### tailscaled
-- **Description:** The easiest, most secure way to use WireGuard and 2FA.
-- **Author:** tailscale
-- **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16495
-- **Version:** v1.64.2
-- **Updated:** 2024-04-17T17:45:27Z
-- **Size:** 20.48 MB
-- **SHASUM:** 5504897030b405888ef389c97a4079d2b3fa869f6ed97132d62c5229a6f126f9
-- **B3SUM:** 08d5aab8a7e544017f5581a5850eb34c6286fc6eba67f60382ea5b70fc261afc
-- **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscaled
-- **Language:** Go
-- **License:** BSD 3-Clause New or Revised License
-
----
-
 ### tailscaled_dynamic_native
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16495
+- **Stars:** 16496
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 21.67 MB
