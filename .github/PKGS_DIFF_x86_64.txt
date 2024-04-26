@@ -11,6 +11,7 @@
 │ 236│-find                             │    │
 │ 307│-gotld                            │    │
 │ 313│-grep                             │    │
+│ 337│-hrekt                            │    │
 │ 413│-mac2unix                         │    │
 │ 441│-mkpasswd                         │    │
 │ 458│-ncdu                             │    │
