@@ -4,7 +4,7 @@ name = "vproxy"
 [package]
 architecture = "aarch64_arm64"
 name = "vproxy"
-description = "Random IPv6 request proxy"
+description = "An easy and powerful Rust HTTP Proxy (Random IPv6)"
 author = "gngpp"
 repo = "https://github.com/gngpp/vproxy"
 stars = "60"
