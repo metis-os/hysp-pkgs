@@ -306,7 +306,7 @@
 - **Description:** cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - **Author:** cheat
 - **Repository:** [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
-- **Stars:** 11957
+- **Stars:** 11958
 - **Version:** 4.4.2
 - **Updated:** 2023-12-15T17:55:49Z
 - **Size:** 11.57 MB
@@ -338,7 +338,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 7927
+- **Stars:** 7928
 - **Version:** 2024.4.1
 - **Updated:** 2024-04-23T14:28:02Z
 - **Size:** 26.47 MB
@@ -418,7 +418,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 26306
+- **Stars:** 26305
 - **Version:** v9.6.15
 - **Updated:** 2024-04-06T16:44:27Z
 - **Size:** 8.63 MB
@@ -626,7 +626,7 @@
 - **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
 - **Author:** sigoden
 - **Repository:** [https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-- **Stars:** 4695
+- **Stars:** 4696
 - **Version:** v0.40.0
 - **Updated:** 2024-02-13T04:15:03Z
 - **Size:** 3.68 MB
@@ -674,7 +674,7 @@
 - **Description:** Easily install prebuilt binaries from GitHub.
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 747
+- **Stars:** 748
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.94 MB
@@ -786,7 +786,7 @@
 - **Description:** Rust implementation of findutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
-- **Stars:** 264
+- **Stars:** 265
 - **Version:** 0.5.0
 - **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 2.13 MB
@@ -802,7 +802,7 @@
 - **Description:** Rust implementation of findutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
-- **Stars:** 264
+- **Stars:** 265
 - **Version:** 0.5.0
 - **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 2.13 MB
@@ -1122,7 +1122,7 @@
 - **Description:** ⬛️ CLI tool for saving complete web pages as a single HTML file
 - **Author:** Y2Z
 - **Repository:** [https://github.com/Y2Z/monolith](https://github.com/Y2Z/monolith)
-- **Stars:** 9917
+- **Stars:** 9916
 - **Version:** v2.8.1
 - **Updated:** 2024-01-14T02:04:26Z
 - **Size:** 5.37 MB
@@ -1234,7 +1234,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32418
+- **Stars:** 32419
 - **Version:** 3.1.13
 - **Updated:** 2024-04-07T15:51:55Z
 - **Size:** 158.98 MB
@@ -1970,7 +1970,7 @@
 - **Description:** Rust implementation of findutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
-- **Stars:** 264
+- **Stars:** 265
 - **Version:** 0.5.0
 - **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 906.24 kB
@@ -1986,7 +1986,7 @@
 - **Description:** Rust implementation of findutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/findutils](https://github.com/uutils/findutils)
-- **Stars:** 264
+- **Stars:** 265
 - **Version:** 0.5.0
 - **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 906.24 kB
@@ -2018,7 +2018,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 70781
+- **Stars:** 70782
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
