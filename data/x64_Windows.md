@@ -50,7 +50,7 @@
 - **Description:** A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - **Author:** FiloSottile
 - **Repository:** [https://github.com/FiloSottile/age](https://github.com/FiloSottile/age)
-- **Stars:** 15327
+- **Stars:** 15328
 - **Version:** v1.1.1
 - **Updated:** 2022-12-26T20:39:07Z
 - **Size:** 3.88 MB
@@ -626,7 +626,7 @@
 - **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
 - **Author:** sigoden
 - **Repository:** [https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-- **Stars:** 4700
+- **Stars:** 4701
 - **Version:** v0.40.0
 - **Updated:** 2024-02-13T04:15:03Z
 - **Size:** 3.68 MB
@@ -770,7 +770,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 2314
+- **Stars:** 2321
 - **Version:** 2.11.0
 - **Updated:** 2024-04-30T14:00:32Z
 - **Size:** 1.33 MB
@@ -818,7 +818,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 2314
+- **Stars:** 2321
 - **Version:** 2.11.0
 - **Updated:** 2024-04-30T14:00:32Z
 - **Size:** 1.18 MB
@@ -1058,7 +1058,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 23917
+- **Stars:** 23918
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.88 MB
@@ -1234,7 +1234,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32444
+- **Stars:** 32445
 - **Version:** 3.1.13
 - **Updated:** 2024-04-07T15:51:55Z
 - **Size:** 158.98 MB
@@ -1266,7 +1266,7 @@
 - **Description:** A PDF processor written in Go.
 - **Author:** pdfcpu
 - **Repository:** [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
-- **Stars:** 6264
+- **Stars:** 6267
 - **Version:** v0.8.0
 - **Updated:** 2024-04-24T22:27:50Z
 - **Size:** 11.18 MB
@@ -1442,7 +1442,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45009
+- **Stars:** 45010
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1602,7 +1602,7 @@
 - **Description:** 🧰 A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - **Author:** smallstep
 - **Repository:** [https://github.com/smallstep/cli](https://github.com/smallstep/cli)
-- **Stars:** 3485
+- **Stars:** 3486
 - **Version:** v0.26.1
 - **Updated:** 2024-04-23T00:07:41Z
 - **Size:** 37.1 MB
@@ -2018,7 +2018,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 70984
+- **Stars:** 70985
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
