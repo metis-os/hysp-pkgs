@@ -47,3 +47,4 @@
 │ 735│-wget                             │    │
 │ 736│-whois                            │    │
 │ 738│-wireguard-rs                     │    │
+│ 767│-xetmnt                           │    │

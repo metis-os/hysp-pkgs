@@ -234,6 +234,13 @@
 │ 739│ wireproxy                        │ 697│ wireproxy
 │ 740│ wiretap                          │ 698│ wiretap
 │ 741│ wormhole-rs                      │ 699│ wormhole-rs
+│ 764│ xcp                              │ 722│ xcp
+│ 765│ xet_staticx                      │ 723│ xet_staticx
+│ 766│ xetcmd                           │ 724│ xetcmd
+│ 767│-xetmnt                           │    │
+│ 768│ xh                               │ 725│ xh
+│ 769│ xplr                             │ 726│ xplr
+│ 770│ xq                               │ 727│ xq
 
 
 
