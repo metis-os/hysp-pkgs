@@ -4,12 +4,12 @@ name = "vproxy"
 [package]
 architecture = "aarch64_arm64"
 name = "vproxy"
-description = "An easy and powerful Rust HTTP / Socks5 Proxy"
+description = "An easy and powerful Rust HTTP/Socks5 Proxy"
 author = "gngpp"
 repo = "https://github.com/gngpp/vproxy"
-stars = "72"
-version = "v0.1.7"
-updated = "2024-04-26T03:40:43Z"
+stars = "73"
+version = "v0.2.0"
+updated = "2024-05-03T12:52:36Z"
 size = "7.31 MB"
 bsum = "d7898adcbef31dccba5d5ffd449fbdc3e436a24d3908ba5b15f9a42179527b85"
 sha = "0c7051ed1e83a66bbe47de91f216f022a112b9b729269c803249b74b0a34b2c5"
@@ -22,5 +22,5 @@ conflicts  = ["vproxy"]
 requires = []
 
 [package.metadata]
-keywords = ["http","hyper","ipv4","ipv6","ipv6-proxy","network","proxy","rust"]
+keywords = ["http","http-server","hyper","ipv4","ipv6","network","proxy","rust","socks","socks5","socks5-server"]
 categories = ["Utilities"]
