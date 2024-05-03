@@ -15,7 +15,7 @@ bsum = "d7898adcbef31dccba5d5ffd449fbdc3e436a24d3908ba5b15f9a42179527b85"
 sha = "0c7051ed1e83a66bbe47de91f216f022a112b9b729269c803249b74b0a34b2c5"
 source = "https://bin.ajam.dev/aarch64_arm64_Linux/vproxy"
 language = "Rust"
-license = "MIT License"
+license = "GNU General Public License v3.0"
 
 [package.conditions]
 conflicts  = ["vproxy"]
