@@ -19,7 +19,6 @@
 │ 482│-nrich                            │    │
 │ 532│-procan                           │    │
 │ 563│-rekor                            │    │
-│ 611│-sar                              │    │
 │ 612│-sbase-box                        │    │
 │ 642│-socat                            │    │
 │ 660│-sshpass                          │    │
