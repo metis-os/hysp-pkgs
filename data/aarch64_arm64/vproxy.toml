@@ -22,5 +22,5 @@ conflicts  = ["vproxy"]
 requires = []
 
 [package.metadata]
-keywords = ["http","http-server","hyper","ipv4","ipv6","network","proxy","rust","socks","socks5","socks5-server"]
+keywords = ["cidr","cidr-subnet","http","http-server","hyper","ipv4","ipv6","network","proxy","rust","server","socks5","socks5-server"]
 categories = ["Utilities"]
