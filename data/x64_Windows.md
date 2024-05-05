@@ -642,7 +642,7 @@
 - **Description:** A more intuitive version of du in rust
 - **Author:** bootandy
 - **Repository:** [https://github.com/bootandy/dust](https://github.com/bootandy/dust)
-- **Stars:** 7830
+- **Stars:** 7831
 - **Version:** v1.0.0
 - **Updated:** 2024-03-25T22:44:47Z
 - **Size:** 2.79 MB
@@ -770,7 +770,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 4355
+- **Stars:** 4373
 - **Version:** 2.11.3
 - **Updated:** 2024-05-04T13:15:27Z
 - **Size:** 1.33 MB
@@ -818,7 +818,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 4355
+- **Stars:** 4373
 - **Version:** 2.11.3
 - **Updated:** 2024-05-04T13:15:27Z
 - **Size:** 1.18 MB
@@ -2018,7 +2018,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 71192
+- **Stars:** 71193
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
