@@ -1,0 +1,26 @@
+[bin]
+name = "sing-box.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "sing-box.exe"
+description = "The universal proxy platform"
+author = "SagerNet"
+repo = "https://github.com/SagerNet/sing-box"
+stars = "13922"
+version = "v1.8.13"
+updated = "2024-05-03T10:30:15Z"
+size = "30.45 MB"
+bsum = "ea8ce2b222cecea98784183b869632e051648adb5e475974567b1a5517048e94"
+sha = "c58504b24c8cb351f83d12e2bfdcba47e5022d063a80a2b069f3836fe98f8aa7"
+source = "https://bin.ajam.dev/x64_Windows/sing-box.exe"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sing-box.exe"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]
