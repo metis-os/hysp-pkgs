@@ -371,112 +371,153 @@
 │ 539│ procs                            │ 519│ procs
 │ 540│ progress                         │ 520│ progress
 │ 541│ promtail                         │ 521│ promtail
-│ 566│ recollapse_staticx               │ 546│ recollapse_staticx
-│ 567│ redguard                         │ 547│ redguard
-│ 568│ redive                           │ 548│ redive
-│ 569│-rekor                            │    │
-│ 570│ rekor-cli                        │ 549│ rekor-cli
-│ 571│ rekor-server                     │ 550│ rekor-server
-│ 572│ relic                            │ 551│ relic
-│ 615│ sadf                             │ 594│ sadf
-│ 616│ sake                             │ 595│ sake
-│ 617│ sar                              │ 596│ sar
-│ 618│-sbase-box                        │    │
-│ 619│ sbctl                            │ 597│ sbctl
-│ 620│ scilla                           │ 598│ scilla
-│ 621│ scopegen                         │ 599│ scopegen
-│ 645│ smenu                            │ 623│ smenu
-│ 646│ sn0int                           │ 624│ sn0int
-│ 647│ sns                              │ 625│ sns
-│ 648│-socat                            │    │
-│ 649│ soft-serve                       │ 626│ soft-serve
-│ 650│ sourcemapper                     │ 627│ sourcemapper
-│ 651│ speedtest-go                     │ 628│ speedtest-go
-│ 663│ sshd_config                      │ 640│ sshd_config
-│ 664│ sshesame                         │ 641│ sshesame
-│ 665│ sshkeys                          │ 642│ sshkeys
-│ 666│-sshpass                          │    │
-│ 667│ sshportal                        │ 643│ sshportal
-│ 668│ sshx                             │ 644│ sshx
-│ 669│ sshx-server                      │ 645│ sshx-server
-│ 674│ stew                             │ 650│ stew
-│ 675│ strace                           │ 651│ strace
-│ 676│ stree                            │ 652│ stree
-│ 677│-stress-ng                        │    │
-│ 678│ strip-ansi-escapes               │ 653│ strip-ansi-escapes
-│ 679│ sttr                             │ 654│ sttr
-│ 680│ stuffbin                         │ 655│ stuffbin
-│ 697│ sync-color-schemes               │ 672│ sync-color-schemes
-│ 698│ syncat                           │ 673│ syncat
-│ 699│ syncthing                        │ 674│ syncthing
-│ 700│-sysbox-fs                        │    │
-│ 701│-sysbox-mgr                       │    │
-│ 702│-sysbox-runc                      │    │
-│ 703│ sysinfo-collector                │ 675│ sysinfo-collector
-│ 704│ sysstat                          │ 676│ sysstat
-│ 705│ system-info-collector            │ 677│ system-info-collector
-│ 740│ tty2web                          │ 712│ tty2web
-│ 741│ ttyd                             │ 713│ ttyd
-│ 742│ ttyrec2ansi                      │ 714│ ttyrec2ansi
-│ 743│-tuiarchiver                      │    │
-│ 744│ tut                              │ 715│ tut
-│ 745│-twingate-client                  │    │
-│ 746│-twingate-connector               │    │
-│ 747│-twingate-connector-staticx       │    │
-│ 748│-twingate-connectorctl            │    │
-│ 749│-twingate-notifier                │    │
-│ 750│ txeh                             │ 716│ txeh
-│ 751│ tz                               │ 717│ tz
-│ 752│ u-root                           │ 718│ u-root
-│ 753│ u-root-busybox                   │ 719│ u-root-busybox
-│ 754│-ubase-box                        │    │
-│ 755│ udpx                             │ 720│ udpx
-│ 756│ uip                              │ 721│ uip
-│ 757│ uncover                          │ 722│ uncover
-│ 758│ unf                              │ 723│ unf
-│ 759│ unfurl                           │ 724│ unfurl
-│ 760│ unifetch                         │ 725│ unifetch
-│ 761│-unix2dos                         │    │
-│ 762│-unix2mac                         │    │
-│ 763│ upx                              │ 726│ upx
-│ 764│ uroot                            │ 727│ uroot
-│ 765│ uroot-busybox                    │ 728│ uroot-busybox
-│ 766│ usql                             │ 729│ usql
-│ 767│ v2raya                           │ 730│ v2raya
-│ 768│-v6disk                           │    │
-│ 769│ v6run                            │ 731│ v6run
-│ 770│ validtoml                        │ 732│ validtoml
-│ 771│ vegeta                           │ 733│ vegeta
-│ 785│ wadl-dumper                      │ 747│ wadl-dumper
-│ 786│ walk                             │ 748│ walk
-│ 787│ warp                             │ 749│ warp
-│ 788│-warp-cli                         │    │
-│ 789│-warp-dex                         │    │
-│ 790│-warp-diag                        │    │
-│ 791│-warp-svc                         │    │
-│ 792│ wasminspect                      │ 750│ wasminspect
-│ 793│ watchexec                        │ 751│ watchexec
-│ 794│ waybackrobots                    │ 752│ waybackrobots
-│ 798│ wego                             │ 756│ wego
-│ 799│ wezterm                          │ 757│ wezterm
-│ 800│ wezterm-mux-server               │ 758│ wezterm-mux-server
-│ 801│-wget                             │    │
-│ 802│-whois                            │    │
-│ 803│ wireguard-go                     │ 759│ wireguard-go
-│ 804│ wireguard-rs                     │ 760│ wireguard-rs
-│ 805│ wireproxy                        │ 761│ wireproxy
-│ 810│ wtfutil                          │ 766│ wtfutil
-│ 811│ wth                              │ 767│ wth
-│ 812│ x8                               │ 768│ x8
-│ 813│-xargs                            │    │
-│ 814│ xargs-rs                         │ 769│ xargs-rs
-│ 815│ xbps-alternatives                │ 770│ xbps-alternatives
-│ 816│ xbps-checkvers                   │ 771│ xbps-checkvers
-│ 852│ zfxtop                           │ 807│ zfxtop
-│ 853│ zgrab2                           │ 808│ zgrab2
-│ 854│ zoxide                           │ 809│ zoxide
-│ 855│-zsh                              │    │
-│ 856│ zstd                             │ 810│ zstd
-│ 857│ zt-encodings                     │ 811│ zt-encodings
-│ 858│ zt-exchange                      │ 812│ zt-exchange
+│ 547│ pwninit                          │ 527│ pwninit
+│ 548│ q                                │ 528│ q
+│ 549│ qbittorrent-nox                  │ 529│ qbittorrent-nox
+│ 550│-qemu-aarch64-static              │    │
+│ 551│-qemu-aarch64_be-static           │    │
+│ 552│-qemu-alpha-static                │    │
+│ 553│-qemu-arm-static                  │    │
+│ 554│-qemu-armeb-static                │    │
+│ 555│-qemu-cris-static                 │    │
+│ 556│-qemu-hexagon-static              │    │
+│ 557│-qemu-hppa-static                 │    │
+│ 558│-qemu-i386-static                 │    │
+│ 559│-qemu-loongarch64-static          │    │
+│ 560│-qemu-m68k-static                 │    │
+│ 561│-qemu-microblaze-static           │    │
+│ 562│-qemu-microblazeel-static         │    │
+│ 563│-qemu-mips-static                 │    │
+│ 564│-qemu-mips64-static               │    │
+│ 565│-qemu-mips64el-static             │    │
+│ 566│-qemu-mipsel-static               │    │
+│ 567│-qemu-mipsn32-static              │    │
+│ 568│-qemu-mipsn32el-static            │    │
+│ 569│-qemu-nios2-static                │    │
+│ 570│-qemu-or1k-static                 │    │
+│ 571│-qemu-ppc-static                  │    │
+│ 572│-qemu-ppc64-static                │    │
+│ 573│-qemu-ppc64le-static              │    │
+│ 574│-qemu-riscv32-static              │    │
+│ 575│-qemu-riscv64-static              │    │
+│ 576│-qemu-s390x-static                │    │
+│ 577│-qemu-sh4-static                  │    │
+│ 578│-qemu-sh4eb-static                │    │
+│ 579│-qemu-sparc-static                │    │
+│ 580│-qemu-sparc32plus-static          │    │
+│ 581│-qemu-sparc64-static              │    │
+│ 582│-qemu-x86_64-static               │    │
+│ 583│-qemu-xtensa-static               │    │
+│ 584│-qemu-xtensaeb-static             │    │
+│ 585│ qsreplace                        │ 530│ qsreplace
+│ 586│ qsv                              │ 531│ qsv
+│ 587│ quickcert                        │ 532│ quickcert
+│ 601│ recollapse_staticx               │ 546│ recollapse_staticx
+│ 602│ redguard                         │ 547│ redguard
+│ 603│ redive                           │ 548│ redive
+│ 604│-rekor                            │    │
+│ 605│ rekor-cli                        │ 549│ rekor-cli
+│ 606│ rekor-server                     │ 550│ rekor-server
+│ 607│ relic                            │ 551│ relic
+│ 650│ sadf                             │ 594│ sadf
+│ 651│ sake                             │ 595│ sake
+│ 652│ sar                              │ 596│ sar
+│ 653│-sbase-box                        │    │
+│ 654│ sbctl                            │ 597│ sbctl
+│ 655│ scilla                           │ 598│ scilla
+│ 656│ scopegen                         │ 599│ scopegen
+│ 680│ smenu                            │ 623│ smenu
+│ 681│ sn0int                           │ 624│ sn0int
+│ 682│ sns                              │ 625│ sns
+│ 683│-socat                            │    │
+│ 684│ soft-serve                       │ 626│ soft-serve
+│ 685│ sourcemapper                     │ 627│ sourcemapper
+│ 686│ speedtest-go                     │ 628│ speedtest-go
+│ 698│ sshd_config                      │ 640│ sshd_config
+│ 699│ sshesame                         │ 641│ sshesame
+│ 700│ sshkeys                          │ 642│ sshkeys
+│ 701│-sshpass                          │    │
+│ 702│ sshportal                        │ 643│ sshportal
+│ 703│ sshx                             │ 644│ sshx
+│ 704│ sshx-server                      │ 645│ sshx-server
+│ 709│ stew                             │ 650│ stew
+│ 710│ strace                           │ 651│ strace
+│ 711│ stree                            │ 652│ stree
+│ 712│-stress-ng                        │    │
+│ 713│ strip-ansi-escapes               │ 653│ strip-ansi-escapes
+│ 714│ sttr                             │ 654│ sttr
+│ 715│ stuffbin                         │ 655│ stuffbin
+│ 732│ sync-color-schemes               │ 672│ sync-color-schemes
+│ 733│ syncat                           │ 673│ syncat
+│ 734│ syncthing                        │ 674│ syncthing
+│ 735│-sysbox-fs                        │    │
+│ 736│-sysbox-mgr                       │    │
+│ 737│-sysbox-runc                      │    │
+│ 738│ sysinfo-collector                │ 675│ sysinfo-collector
+│ 739│ sysstat                          │ 676│ sysstat
+│ 740│ system-info-collector            │ 677│ system-info-collector
+│ 775│ tty2web                          │ 712│ tty2web
+│ 776│ ttyd                             │ 713│ ttyd
+│ 777│ ttyrec2ansi                      │ 714│ ttyrec2ansi
+│ 778│-tuiarchiver                      │    │
+│ 779│ tut                              │ 715│ tut
+│ 780│-twingate-client                  │    │
+│ 781│-twingate-connector               │    │
+│ 782│-twingate-connector-staticx       │    │
+│ 783│-twingate-connectorctl            │    │
+│ 784│-twingate-notifier                │    │
+│ 785│ txeh                             │ 716│ txeh
+│ 786│ tz                               │ 717│ tz
+│ 787│ u-root                           │ 718│ u-root
+│ 788│ u-root-busybox                   │ 719│ u-root-busybox
+│ 789│-ubase-box                        │    │
+│ 790│ udpx                             │ 720│ udpx
+│ 791│ uip                              │ 721│ uip
+│ 792│ uncover                          │ 722│ uncover
+│ 793│ unf                              │ 723│ unf
+│ 794│ unfurl                           │ 724│ unfurl
+│ 795│ unifetch                         │ 725│ unifetch
+│ 796│-unix2dos                         │    │
+│ 797│-unix2mac                         │    │
+│ 798│ upx                              │ 726│ upx
+│ 799│ uroot                            │ 727│ uroot
+│ 800│ uroot-busybox                    │ 728│ uroot-busybox
+│ 801│ usql                             │ 729│ usql
+│ 802│ v2raya                           │ 730│ v2raya
+│ 803│-v6disk                           │    │
+│ 804│ v6run                            │ 731│ v6run
+│ 805│ validtoml                        │ 732│ validtoml
+│ 806│ vegeta                           │ 733│ vegeta
+│ 820│ wadl-dumper                      │ 747│ wadl-dumper
+│ 821│ walk                             │ 748│ walk
+│ 822│ warp                             │ 749│ warp
+│ 823│-warp-cli                         │    │
+│ 824│-warp-dex                         │    │
+│ 825│-warp-diag                        │    │
+│ 826│-warp-svc                         │    │
+│ 827│ wasminspect                      │ 750│ wasminspect
+│ 828│ watchexec                        │ 751│ watchexec
+│ 829│ waybackrobots                    │ 752│ waybackrobots
+│ 833│ wego                             │ 756│ wego
+│ 834│ wezterm                          │ 757│ wezterm
+│ 835│ wezterm-mux-server               │ 758│ wezterm-mux-server
+│ 836│-wget                             │    │
+│ 837│-whois                            │    │
+│ 838│ wireguard-go                     │ 759│ wireguard-go
+│ 839│ wireguard-rs                     │ 760│ wireguard-rs
+│ 840│ wireproxy                        │ 761│ wireproxy
+│ 845│ wtfutil                          │ 766│ wtfutil
+│ 846│ wth                              │ 767│ wth
+│ 847│ x8                               │ 768│ x8
+│ 848│-xargs                            │    │
+│ 849│ xargs-rs                         │ 769│ xargs-rs
+│ 850│ xbps-alternatives                │ 770│ xbps-alternatives
+│ 851│ xbps-checkvers                   │ 771│ xbps-checkvers
+│ 887│ zfxtop                           │ 807│ zfxtop
+│ 888│ zgrab2                           │ 808│ zgrab2
+│ 889│ zoxide                           │ 809│ zoxide
+│ 890│-zsh                              │    │
+│ 891│ zstd                             │ 810│ zstd
+│ 892│ zt-encodings                     │ 811│ zt-encodings
+│ 893│ zt-exchange                      │ 812│ zt-exchange
 
