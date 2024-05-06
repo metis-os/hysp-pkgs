@@ -1,24 +1,24 @@
 [bin]
-name = "certstream"
+name = "cutlines"
 
 [package]
 architecture = "aarch64_arm64"
-name = "certstream"
+name = "cutlines"
 description = " Bug Bounties"
 author = "Azathothas"
 repo = "https://github.com/Azathothas/Arsenal"
 stars = "53"
 version = "null"
 updated = ""
-size = "4.59 MB"
-bsum = "ba032a45f33a16b25faed187dc4245b9efbfa1984623df38389a316d4e2bedde"
-sha = "29ba3fbe87e1b6dcbde5c67833335307286535855511b3f898cc83d8b8d4b8a4"
-source = "https://bin.ajam.dev/aarch64_arm64_Linux/certstream"
+size = "1.9 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/aarch64_arm64_Linux/cutlines"
 language = "Shell"
 license = "null"
 
 [package.conditions]
-conflicts  = ["certstream"]
+conflicts  = ["cutlines"]
 requires = []
 
 [package.metadata]
