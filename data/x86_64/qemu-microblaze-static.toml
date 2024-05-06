@@ -1,0 +1,26 @@
+[bin]
+name = "qemu-microblaze-static"
+
+[package]
+architecture = "x86_64"
+name = "qemu-microblaze-static"
+description = "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
+author = "qemu"
+repo = "https://github.com/qemu/qemu"
+stars = "9334"
+version = "v9.0.0"
+updated = "null"
+size = "2.34 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/qemu-microblaze-static"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["qemu-microblaze-static"]
+requires = []
+
+[package.metadata]
+keywords = ["emulation","qemu","virtualization"]
+categories = ["Utilities"]
