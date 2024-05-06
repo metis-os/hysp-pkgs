@@ -1,0 +1,26 @@
+[bin]
+name = "strip-ansi-escapes"
+
+[package]
+architecture = "x86_64"
+name = "strip-ansi-escapes"
+description = "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust"
+author = "wez"
+repo = "https://github.com/wez/wezterm"
+stars = "13864"
+version = "20240203-110809-5046fc22"
+updated = "2024-02-03T18:32:26Z"
+size = "1.24 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/strip-ansi-escapes"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["strip-ansi-escapes"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","serial","serial-port","terminal","terminal-emulator","terminal-emulators"]
+categories = ["Utilities"]

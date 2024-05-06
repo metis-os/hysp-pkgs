@@ -1,0 +1,26 @@
+[bin]
+name = "noseyparker"
+
+[package]
+architecture = "x86_64"
+name = "noseyparker"
+description = "Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history."
+author = "praetorian-inc"
+repo = "https://github.com/praetorian-inc/noseyparker"
+stars = "1516"
+version = "v0.17.0"
+updated = "2024-03-05T15:00:06Z"
+size = "24.38 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/noseyparker"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["noseyparker"]
+requires = []
+
+[package.metadata]
+keywords = ["credentials","devsecops","penetration-testing","rust","scanner","secrets","secrets-detection","security","security-tools"]
+categories = ["Utilities"]

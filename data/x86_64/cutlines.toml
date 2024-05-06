@@ -1,0 +1,26 @@
+[bin]
+name = "cutlines"
+
+[package]
+architecture = "x86_64"
+name = "cutlines"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "53"
+version = "null"
+updated = ""
+size = "1.84 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/cutlines"
+language = "Shell"
+license = "null"
+
+[package.conditions]
+conflicts  = ["cutlines"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

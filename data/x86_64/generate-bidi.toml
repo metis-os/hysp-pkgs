@@ -1,0 +1,26 @@
+[bin]
+name = "generate-bidi"
+
+[package]
+architecture = "x86_64"
+name = "generate-bidi"
+description = "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust"
+author = "wez"
+repo = "https://github.com/wez/wezterm"
+stars = "13864"
+version = "20240203-110809-5046fc22"
+updated = "2024-02-03T18:32:26Z"
+size = "491.47 kB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/generate-bidi"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["generate-bidi"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","serial","serial-port","terminal","terminal-emulator","terminal-emulators"]
+categories = ["Utilities"]

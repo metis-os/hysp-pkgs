@@ -1,0 +1,26 @@
+[bin]
+name = "sync-color-schemes"
+
+[package]
+architecture = "x86_64"
+name = "sync-color-schemes"
+description = "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust"
+author = "wez"
+repo = "https://github.com/wez/wezterm"
+stars = "13864"
+version = "20240203-110809-5046fc22"
+updated = "2024-02-03T18:32:26Z"
+size = "12.68 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/sync-color-schemes"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sync-color-schemes"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","serial","serial-port","terminal","terminal-emulator","terminal-emulators"]
+categories = ["Utilities"]
