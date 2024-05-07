@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6869
+- **Stars:** 6870
 - **Version:** v1.6.0
 - **Updated:** 2024-03-06T19:33:45Z
 - **Size:** 42.14 MB
@@ -294,8 +294,8 @@
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.65 MB
-- **SHASUM:** 5ff6329de00d7ac09a5e7be27c456ff0a5ffa0fd0e467c5c433943e5f8639586
-- **B3SUM:** f40145c7ad067ae4ba7ae779c52c5c38c9ad93dbcc02d300de48b48add277194
+- **SHASUM:** d2cf1368d0fa9d15bf13417e9318779202dc34e6fd296db3ccfc7d215378ca0e
+- **B3SUM:** c621f5acfc2a159c0a2ebe36f8f6ba753f1f786158097575d9655a9cf1164a56
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/pspy
 - **Language:** Go
 - **License:** GNU General Public License v3.0
