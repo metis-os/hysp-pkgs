@@ -4,12 +4,12 @@ name = "runc"
 [package]
 architecture = "x86_64"
 name = "runc"
-description = "The Docker CLI"
-author = "docker"
-repo = "https://github.com/docker/cli"
-stars = "4634"
-version = "v26.1.1"
-updated = "null"
+description = "CLI tool for spawning and running containers according to the OCI specification"
+author = "opencontainers"
+repo = "https://github.com/opencontainers/runc"
+stars = "11444"
+version = "v1.1.12"
+updated = "2024-01-31T20:06:08Z"
 size = "10.71 MB"
 bsum = "db17b51b4202d743915b29a7403a9c8e0ce0fbaf4ad0db8fcdfbdbd3270a4543"
 sha = "aadeef400b8f05645768c1476d1023f7875b78f52c7ff1967a6dbce236b8cbd8"
@@ -22,5 +22,5 @@ conflicts  = ["runc"]
 requires = []
 
 [package.metadata]
-keywords = ["cli","docker"]
+keywords = ["containers","docker","oci"]
 categories = ["Utilities"]
