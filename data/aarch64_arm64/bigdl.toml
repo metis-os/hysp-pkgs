@@ -22,5 +22,5 @@ conflicts  = ["bigdl"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = ["binary-manager","cli","dependency-checker","fast","go","golang","package-manager","runner","static","static-binaries","static-binary"]
 categories = ["Utilities"]
