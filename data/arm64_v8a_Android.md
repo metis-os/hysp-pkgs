@@ -293,7 +293,7 @@
 - **Stars:** 4557
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
-- **Size:** 3.65 MB
+- **Size:** 3.76 MB
 - **SHASUM:** d2cf1368d0fa9d15bf13417e9318779202dc34e6fd296db3ccfc7d215378ca0e
 - **B3SUM:** c621f5acfc2a159c0a2ebe36f8f6ba753f1f786158097575d9655a9cf1164a56
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/pspy
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16698
+- **Stars:** 16699
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16698
+- **Stars:** 16699
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16698
+- **Stars:** 16699
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16698
+- **Stars:** 16699
 - **Version:** v1.64.2
 - **Updated:** 2024-04-17T17:45:27Z
 - **Size:** 21.67 MB
