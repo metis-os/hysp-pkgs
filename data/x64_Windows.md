@@ -226,7 +226,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46703
+- **Stars:** 46704
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -242,7 +242,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46703
+- **Stars:** 46704
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -610,7 +610,7 @@
 - **Description:** View disk space usage and delete unwanted data, fast.
 - **Author:** Byron
 - **Repository:** [https://github.com/Byron/dua-cli](https://github.com/Byron/dua-cli)
-- **Stars:** 3519
+- **Stars:** 3520
 - **Version:** v2.29.0
 - **Updated:** 2024-03-10T07:28:39Z
 - **Size:** 1.56 MB
@@ -770,7 +770,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 5449
+- **Stars:** 5455
 - **Version:** 2.11.5
 - **Updated:** 2024-05-06T16:59:04Z
 - **Size:** 1.33 MB
@@ -818,7 +818,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 5449
+- **Stars:** 5455
 - **Version:** 2.11.5
 - **Updated:** 2024-05-06T16:59:04Z
 - **Size:** 1.18 MB
@@ -930,7 +930,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 20068
+- **Stars:** 20069
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1442,7 +1442,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45124
+- **Stars:** 45126
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -2034,7 +2034,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 71432
+- **Stars:** 71436
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
