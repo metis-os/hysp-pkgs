@@ -294,8 +294,8 @@
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.76 MB
-- **SHASUM:** d2cf1368d0fa9d15bf13417e9318779202dc34e6fd296db3ccfc7d215378ca0e
-- **B3SUM:** c621f5acfc2a159c0a2ebe36f8f6ba753f1f786158097575d9655a9cf1164a56
+- **SHASUM:** 5f5ddba1f77cdbd9b8af2bf99cf078588ae25b976551bd1a9217ab09ce16e13a
+- **B3SUM:** e23755dedb7a40a8e921b6c90250dea176d091167fca1bd76ca3964f1999eac3
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/pspy
 - **Language:** Go
 - **License:** GNU General Public License v3.0
