@@ -114,7 +114,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11469
+- **Stars:** 11470
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
@@ -162,7 +162,7 @@
 - **Description:** 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - **Author:** sensepost
 - **Repository:** [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
-- **Stars:** 2708
+- **Stars:** 2709
 - **Version:** 2.5.1
 - **Updated:** 2023-10-29T11:11:30Z
 - **Size:** 27.22 MB
