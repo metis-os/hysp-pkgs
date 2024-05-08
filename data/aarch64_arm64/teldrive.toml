@@ -4,7 +4,7 @@ name = "teldrive"
 [package]
 architecture = "aarch64_arm64"
 name = "teldrive"
-description = "Telegram Drive Storage"
+description = "Telegram Drive"
 author = "divyam234"
 repo = "https://github.com/divyam234/teldrive"
 stars = "1470"
