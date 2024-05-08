@@ -226,7 +226,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 2056
+- **Stars:** 2057
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
