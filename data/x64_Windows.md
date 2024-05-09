@@ -50,7 +50,7 @@
 - **Description:** A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - **Author:** FiloSottile
 - **Repository:** [https://github.com/FiloSottile/age](https://github.com/FiloSottile/age)
-- **Stars:** 15389
+- **Stars:** 15390
 - **Version:** v1.1.1
 - **Updated:** 2022-12-26T20:39:07Z
 - **Size:** 3.88 MB
@@ -306,7 +306,7 @@
 - **Description:** cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - **Author:** cheat
 - **Repository:** [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
-- **Stars:** 11988
+- **Stars:** 11989
 - **Version:** 4.4.2
 - **Updated:** 2023-12-15T17:55:49Z
 - **Size:** 11.57 MB
@@ -674,7 +674,7 @@
 - **Description:** Easily install prebuilt binaries from GitHub.
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 757
+- **Stars:** 758
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.94 MB
@@ -770,7 +770,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 5721
+- **Stars:** 5726
 - **Version:** 2.11.5
 - **Updated:** 2024-05-06T16:59:04Z
 - **Size:** 1.33 MB
@@ -818,7 +818,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 5721
+- **Stars:** 5726
 - **Version:** 2.11.5
 - **Updated:** 2024-05-06T16:59:04Z
 - **Size:** 1.18 MB
@@ -930,7 +930,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 20105
+- **Stars:** 20107
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1122,7 +1122,7 @@
 - **Description:** ⬛️ CLI tool for saving complete web pages as a single HTML file
 - **Author:** Y2Z
 - **Repository:** [https://github.com/Y2Z/monolith](https://github.com/Y2Z/monolith)
-- **Stars:** 9979
+- **Stars:** 9980
 - **Version:** v2.8.1
 - **Updated:** 2024-01-14T02:04:26Z
 - **Size:** 5.3 MB
@@ -1266,7 +1266,7 @@
 - **Description:** A PDF processor written in Go.
 - **Author:** pdfcpu
 - **Repository:** [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
-- **Stars:** 6336
+- **Stars:** 6337
 - **Version:** v0.8.0
 - **Updated:** 2024-04-24T22:27:50Z
 - **Size:** 11.55 MB
@@ -2034,7 +2034,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 71558
+- **Stars:** 71559
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
