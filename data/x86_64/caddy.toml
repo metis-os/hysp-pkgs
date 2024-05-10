@@ -7,7 +7,7 @@ name = "caddy"
 description = "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
 author = "caddyserver"
 repo = "https://github.com/caddyserver/caddy"
-stars = "54091"
+stars = "54092"
 version = "v2.7.6"
 updated = "2023-12-08T01:03:36Z"
 size = "41.03 MB"
@@ -22,5 +22,5 @@ conflicts  = ["caddy"]
 requires = []
 
 [package.metadata]
-keywords = ["acme","automatic-https","caddy","caddyfile","go","golang","hacktoberfest","http","http-server","http3","https","privacy","reverse-proxy","security","tls","web-server"]
+keywords = ["acme","automatic-https","caddy","caddyfile","go","golang","http","http-server","http3","https","privacy","reverse-proxy","security","tls","web-server"]
 categories = ["Utilities"]
