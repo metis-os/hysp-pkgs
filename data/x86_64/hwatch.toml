@@ -1,0 +1,26 @@
+[bin]
+name = "hwatch"
+
+[package]
+architecture = "x86_64"
+name = "hwatch"
+description = "A modern alternative to the watch command, records the differences in execution results and can check this differences at after."
+author = "blacknon"
+repo = "https://github.com/blacknon/hwatch"
+stars = "681"
+version = "0.3.13"
+updated = "2024-05-06T05:56:32Z"
+size = "3.61 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/hwatch"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hwatch"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","monitoring","rust","terminal-ui","tui","watch"]
+categories = ["Utilities"]

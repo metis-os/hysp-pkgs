@@ -1,0 +1,26 @@
+[bin]
+name = "joker"
+
+[package]
+architecture = "x86_64"
+name = "joker"
+description = "Joker can turn process into daemon. Zero-Configuration"
+author = "txthinking"
+repo = "https://github.com/txthinking/joker"
+stars = "187"
+version = "v20231110"
+updated = "2023-11-10T06:21:18Z"
+size = "56.95 kB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/joker"
+language = "C"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["joker"]
+requires = []
+
+[package.metadata]
+keywords = ["background","c","command","daemon","golang","joker","linux","process","zero-configuration"]
+categories = ["Utilities"]

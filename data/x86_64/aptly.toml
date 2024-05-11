@@ -1,0 +1,26 @@
+[bin]
+name = "aptly"
+
+[package]
+architecture = "x86_64"
+name = "aptly"
+description = "aptly - Debian repository management tool"
+author = "aptly-dev"
+repo = "https://github.com/aptly-dev/aptly"
+stars = "2517"
+version = "v1.5.0"
+updated = "2022-06-28T15:01:10Z"
+size = "29.96 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/aptly"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["aptly"]
+requires = []
+
+[package.metadata]
+keywords = ["apt","debian","go","packaging","ubuntu"]
+categories = ["Utilities"]

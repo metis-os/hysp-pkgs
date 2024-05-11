@@ -1,0 +1,26 @@
+[bin]
+name = "dnspyre"
+
+[package]
+architecture = "x86_64"
+name = "dnspyre"
+description = "CLI tool for a high QPS DNS benchmark"
+author = "Tantalor93"
+repo = "https://github.com/Tantalor93/dnspyre"
+stars = "76"
+version = "v3.2.0"
+updated = "2024-05-01T19:48:49Z"
+size = "22.73 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/dnspyre"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dnspyre"]
+requires = []
+
+[package.metadata]
+keywords = ["benchmark","cli","concurrency","dns","dns-over-https","dns-over-tcp","dns-over-tls","dns-over-udp","doh","doq","go","plotting"]
+categories = ["Utilities"]

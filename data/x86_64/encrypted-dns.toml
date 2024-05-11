@@ -1,0 +1,26 @@
+[bin]
+name = "encrypted-dns"
+
+[package]
+architecture = "x86_64"
+name = "encrypted-dns"
+description = "An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server."
+author = "DNSCrypt"
+repo = "https://github.com/DNSCrypt/encrypted-dns-server"
+stars = "903"
+version = "0.9.15"
+updated = "2024-03-17T20:30:16Z"
+size = "3.06 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/encrypted-dns"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["encrypted-dns"]
+requires = []
+
+[package.metadata]
+keywords = ["anonymized","dns","dnscrypt","doh","privacy","proxy","server"]
+categories = ["Utilities"]
