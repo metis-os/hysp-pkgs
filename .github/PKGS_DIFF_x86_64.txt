@@ -1,4 +1,3 @@
-│ 26 │-aptly                            │    │
 │ 42 │-bash                             │    │
 │ 61 │-bombadillo                       │    │
 │ 84 │-certwatcher                      │    │
@@ -7,16 +6,11 @@
 │ 129│-cron                             │    │
 │ 133│-crontab                          │    │
 │ 153│-daytona                          │    │
-│ 168│-dnspyre                          │    │
 │ 181│-dos2unix                         │    │
-│ 214│-encrypted-dns                    │    │
 │ 239│-filan                            │    │
 │ 241│-find                             │    │
 │ 315│-gotld                            │    │
 │ 321│-grep                             │    │
-│ 354│-hwatch                           │    │
-│ 381│-jobs                             │    │
-│ 382│-joker                            │    │
 │ 424│-mac2unix                         │    │
 │ 452│-mkpasswd                         │    │
 │ 469│-ncdu                             │    │
@@ -32,7 +26,6 @@
 │ 741│-sysbox-fs                        │    │
 │ 742│-sysbox-mgr                       │    │
 │ 743│-sysbox-runc                      │    │
-│ 775│-tracexec                         │    │
 │ 785│-tuiarchiver                      │    │
 │ 787│-twingate-client                  │    │
 │ 788│-twingate-connector               │    │
