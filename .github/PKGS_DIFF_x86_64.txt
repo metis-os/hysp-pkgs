@@ -51,3 +51,46 @@
 │ 844│-whois                            │    │
 │ 855│-xargs                            │    │
 │ 897│-zsh                              │    │
+│ 17 │-brook_windows_amd64.exe          │    │
+│ 19 │-busybox-unicode.exe              │    │
+│ 20 │-busybox.exe                      │    │
+│ 22 │-certstream.exe                   │    │
+│ 34 │-cutlines.exe                     │    │
+│ 48 │-ein.exe                          │    │
+│ 50 │-err.exe                          │    │
+│ 56 │-ffmpeg.exe                       │    │
+│ 57 │-ffplay.exe                       │    │
+│ 58 │-ffprobe.exe                      │    │
+│ 65 │-geodns.exe                       │    │
+│ 66 │-geoping.exe                      │    │
+│ 67 │-gix.exe                          │    │
+│ 72 │-inscope.exe                      │    │
+│ 73 │-iperf3.exe                       │    │
+│ 80 │-localxpose.exe                   │    │
+│ 81 │-loclx.exe                        │    │
+│ 90 │-ngrok.exe                        │    │
+│ 98 │-pdfdetach.exe                    │    │
+│ 99 │-pdffonts.exe                     │    │
+│ 100│-pdfimages.exe                    │    │
+│ 101│-pdfinfo.exe                      │    │
+│ 102│-pdftopng.exe                     │    │
+│ 103│-pdftoppm.exe                     │    │
+│ 104│-pdftops.exe                      │    │
+│ 105│-pdftotext.exe                    │    │
+│ 114│-quotes-escaper.exe               │    │
+│ 120│-scp.exe                          │    │
+│ 122│-sftp-server.exe                  │    │
+│ 128│-smartdns.exe                     │    │
+│ 131│-ssh-add.exe                      │    │
+│ 132│-ssh-agent.exe                    │    │
+│ 133│-ssh-keygen.exe                   │    │
+│ 134│-ssh-keyscan.exe                  │    │
+│ 135│-ssh-pkcs11-helper.exe            │    │
+│ 136│-ssh-shellhost.exe                │    │
+│ 137│-ssh-sk-helper.exe                │    │
+│ 138│-ssh.exe                          │    │
+│ 139│-sshd.exe                         │    │
+│ 140│-stP1kAlM                         │    │
+│ 142│-stiG2Kb7                         │    │
+│ 160│-upx.exe                          │    │
+│ 169│-yq.exe                           │    │
