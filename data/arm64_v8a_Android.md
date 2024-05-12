@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16766
+- **Stars:** 16767
 - **Version:** v1.66.1
 - **Updated:** 2024-05-09T20:26:33Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16766
+- **Stars:** 16767
 - **Version:** v1.66.1
 - **Updated:** 2024-05-09T20:26:33Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16766
+- **Stars:** 16767
 - **Version:** v1.66.1
 - **Updated:** 2024-05-09T20:26:33Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16766
+- **Stars:** 16767
 - **Version:** v1.66.1
 - **Updated:** 2024-05-09T20:26:33Z
 - **Size:** 21.67 MB
