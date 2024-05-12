@@ -9,6 +9,7 @@
 │ 181│-dos2unix                         │    │
 │ 239│-filan                            │    │
 │ 241│-find                             │    │
+│ 297│-goawk                            │    │
 │ 315│-gotld                            │    │
 │ 321│-grep                             │    │
 │ 424│-mac2unix                         │    │
