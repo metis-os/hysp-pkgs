@@ -1,0 +1,26 @@
+[bin]
+name = "ddns-go.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "ddns-go.exe"
+description = "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo..."
+author = "jeessy2"
+repo = "https://github.com/jeessy2/ddns-go"
+stars = "9726"
+version = "v6.5.0"
+updated = "2024-04-27T02:42:16Z"
+size = "9.47 MB"
+bsum = "fa96362f50560f50a1be32f608a1d89579364cd012d654168f20e27ea56a4273"
+sha = "8e0be4e70aa5aad31fbb5e4b21f47930281a27ac0fdea3655481a04eed15ac0e"
+source = "https://bin.ajam.dev/x64_Windows/ddns-go.exe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ddns-go.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["alidns","baiduyun","cloudflare","ddns","ddns-go","dnspod","godaddy-ddns","google-domains","porkbun"]
+categories = ["Utilities"]

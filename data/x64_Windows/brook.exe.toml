@@ -1,0 +1,26 @@
+[bin]
+name = "brook.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "brook.exe"
+description = "A cross-platform programmable network tool"
+author = "txthinking"
+repo = "https://github.com/txthinking/brook"
+stars = "14286"
+version = "v20240606"
+updated = "2024-05-10T09:51:53Z"
+size = "20.63 MB"
+bsum = "0c350cb3776b147402a7562badd83e728124300a6a76f5fcaa9a1f05e0002f56"
+sha = "f064d1e6b1579cc937ea0ab74a227c09492ef89b8877ebee982a9d9ef353b475"
+source = "https://bin.ajam.dev/x64_Windows/brook.exe"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["brook.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["android","cross-platform","decryption","encryption","ios","linux","macos","mitm","network-analysis","network-monitoring","network-programming","network-security","openwrt","packet-capture","proxy","socks5","tls","vpn","windows","zero-configuration"]
+categories = ["Utilities"]
