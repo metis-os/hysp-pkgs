@@ -4,7 +4,7 @@ name = "awk"
 [package]
 architecture = "x86_64"
 name = "awk"
-description = "One true awk"
+description = "One true awk - But with --help added (integrated manpage)"
 author = "xplshn"
 repo = "https://github.com/xplshn/awk"
 stars = "1"
