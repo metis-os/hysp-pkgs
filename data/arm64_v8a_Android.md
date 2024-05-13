@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8970
+- **Stars:** 8969
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -66,7 +66,7 @@
 - **Description:** dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx)
-- **Stars:** 1998
+- **Stars:** 1997
 - **Version:** v1.2.1
 - **Updated:** 2024-03-04T08:26:22Z
 - **Size:** 26.19 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 24013
+- **Stars:** 24012
 - **Version:** v2.29.0
 - **Updated:** 2024-04-30T12:50:03Z
 - **Size:** 13.94 MB
@@ -146,7 +146,7 @@
 - **Description:**  DreamHost, etc, written in Go.
 - **Author:** TimothyYe
 - **Repository:** [https://github.com/TimothyYe/godns](https://github.com/TimothyYe/godns)
-- **Stars:** 1446
+- **Stars:** 1445
 - **Version:** v3.1.6
 - **Updated:** 2024-05-02T09:56:44Z
 - **Size:** 12.38 MB
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6906
+- **Stars:** 6904
 - **Version:** v1.6.0
 - **Updated:** 2024-03-06T19:33:45Z
 - **Size:** 42.14 MB
@@ -322,7 +322,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1207
+- **Stars:** 1206
 - **Version:** v2.30.0
 - **Updated:** 2024-04-28T22:57:18Z
 - **Size:** 6.8 MB
