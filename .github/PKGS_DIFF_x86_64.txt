@@ -1,6 +1,5 @@
 │ 42 │-bash                             │    │
 │ 61 │-bombadillo                       │    │
-│ 68 │-brook                            │    │
 │ 85 │-certwatcher                      │    │
 │ 120│-cowsay                           │    │
 │ 121│-cowthink                         │    │
