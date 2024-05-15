@@ -1,0 +1,26 @@
+[bin]
+name = "smartdns-rs"
+
+[package]
+architecture = "x86_64"
+name = "smartdns-rs"
+description = "A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3."
+author = "mokeyish"
+repo = "https://github.com/mokeyish/smartdns-rs"
+stars = "472"
+version = "0.7.2"
+updated = "2024-01-10T12:05:53Z"
+size = "9.19 MB"
+bsum = "18bee5aaecda604044b5ec9eb5d5fa629fd5b706be4e4804805d0ec8c43a9f86"
+sha = "29d8326ace801044e8674c24af485425e1c0c7b920c9cdf87ca32cef205c38a3"
+source = "https://bin.ajam.dev/x86_64_Linux/smartdns-rs"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["smartdns-rs"]
+requires = []
+
+[package.metadata]
+keywords = ["dns","dns-over-h3","dns-over-https","dns-over-quic","dns-over-tls","dns-server","dnsmasq","doh","dot","linux","macos","pi-hole","rust","smartdns","smartdns-rs","trust-dns","trustdns","windows"]
+categories = ["Utilities"]

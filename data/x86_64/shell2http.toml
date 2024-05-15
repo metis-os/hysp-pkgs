@@ -1,0 +1,26 @@
+[bin]
+name = "shell2http"
+
+[package]
+architecture = "x86_64"
+name = "shell2http"
+description = "Executing shell commands via HTTP server"
+author = "msoap"
+repo = "https://github.com/msoap/shell2http"
+stars = "1277"
+version = "v1.17.0"
+updated = "2024-03-23T20:51:16Z"
+size = "5.48 MB"
+bsum = "02c2d2ddf9296ab9bd94c597f1cc36f53a40e570de1f02cf3919c8bffe1547c9"
+sha = "b57de46e148ec90f262f77698c7779113dfcfcf43e92c8f111a357840e4baa2e"
+source = "https://bin.ajam.dev/x86_64_Linux/shell2http"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["shell2http"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","cli","docker","golang","http","proxy","server","shell"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "smartdns"
+
+[package]
+architecture = "x86_64"
+name = "smartdns"
+description = "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。"
+author = "pymumu"
+repo = "https://github.com/pymumu/smartdns"
+stars = "7797"
+version = "Release45"
+updated = "2024-02-08T07:39:32Z"
+size = "3.21 MB"
+bsum = "832c15a06508eea35ba09323cf7323622c9d5a41ec5c6c30350eb034144cf2ae"
+sha = "aa519d6bf44628a0c2666e7192739bf04cc30c0dcd51910338340a7b02444282"
+source = "https://bin.ajam.dev/x86_64_Linux/smartdns"
+language = "C"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["smartdns"]
+requires = []
+
+[package.metadata]
+keywords = ["c","dns","dns-over-https","dns-over-tls","dns-server","dns64","doh","dot","nftables","nftables-sets","openwrt","openwrt-package","smartdns","stubby"]
+categories = ["Utilities"]

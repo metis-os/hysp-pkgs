@@ -1,0 +1,26 @@
+[bin]
+name = "zigup"
+
+[package]
+architecture = "x86_64"
+name = "zigup"
+description = "Download and manage zig compilers."
+author = "marler8997"
+repo = "https://github.com/marler8997/zigup"
+stars = "565"
+version = "v2024_05_05"
+updated = "2024-05-05T15:01:40Z"
+size = "6.3 MB"
+bsum = "d9c988260c82e2a6cfeea3277b2aeab539f8e6e001cfc801dfd9d47292f4c962"
+sha = "12dbc3327b9b3f2e94f3723a82b4867e69cd86e0211729aeb98687fd4725026c"
+source = "https://bin.ajam.dev/x86_64_Linux/zigup"
+language = "Zig"
+license = "MIT No Attribution"
+
+[package.conditions]
+conflicts  = ["zigup"]
+requires = []
+
+[package.metadata]
+keywords = ["zig","zig-compilers"]
+categories = ["Utilities"]

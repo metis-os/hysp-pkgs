@@ -1,0 +1,26 @@
+[bin]
+name = "pingtunnel"
+
+[package]
+architecture = "x86_64"
+name = "pingtunnel"
+description = "Pingtunnel is a tool that send TCP/UDP traffic over ICMP"
+author = "esrrhs"
+repo = "https://github.com/esrrhs/pingtunnel"
+stars = "2915"
+version = "2.8"
+updated = "2023-11-29T03:52:00Z"
+size = "8.63 MB"
+bsum = "44095e2e717b9479fe0b7fe9b48900411964dd7ad408cd5b425bc95ca00a9ec2"
+sha = "9eda6be6deca82fdd0915cbb1aea24de785283f2a9fe68d13d4f7db94a67fbdb"
+source = "https://bin.ajam.dev/x86_64_Linux/pingtunnel"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pingtunnel"]
+requires = []
+
+[package.metadata]
+keywords = ["bypass","docker","icmp","icmp-traffic","ping","pingtunnel","socks5","tcp","tcp-pingtunnel","traffic","tunnel","udp","udp-traffic","wifi"]
+categories = ["Utilities"]

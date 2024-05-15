@@ -1,0 +1,26 @@
+[bin]
+name = "hcxdumptool"
+
+[package]
+architecture = "x86_64"
+name = "hcxdumptool"
+description = "Small tool to capture packets from wlan devices."
+author = "ZerBea"
+repo = "https://github.com/ZerBea/hcxdumptool"
+stars = "1731"
+version = "6.3.4"
+updated = "2024-02-25T15:12:58Z"
+size = "178.11 kB"
+bsum = "064f24d616708533f14574903dda33908af379cd1f9eb1ddc36b6ffc490aa45a"
+sha = "d4ede26b2adf54da9d15fa922aac576f72c1523078e7807225e112b244c699ec"
+source = "https://bin.ajam.dev/x86_64_Linux/hcxdumptool"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hcxdumptool"]
+requires = []
+
+[package.metadata]
+keywords = ["hashcat","john-the-ripper","pcap","pcapng","penetration-testing-framework","raspberry-pi","wifi","wifi-security"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "dnsperf"
+
+[package]
+architecture = "x86_64"
+name = "dnsperf"
+description = "DNS Performance Testing Tools"
+author = "DNS-OARC"
+repo = "https://github.com/DNS-OARC/dnsperf"
+stars = "377"
+version = "v2.14.0"
+updated = "2024-01-18T12:45:00Z"
+size = "4.68 MB"
+bsum = "37e7d6ccda83360b75b672ade049c3f71418df003cf54b99b493d49f590dfd85"
+sha = "f6e58e2198c4587ca8d7157d2af0756860ff57fee872e8801f8b77bcacd5e1be"
+source = "https://bin.ajam.dev/x86_64_Linux/dnsperf"
+language = "C"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["dnsperf"]
+requires = []
+
+[package.metadata]
+keywords = ["dns","performance"]
+categories = ["Utilities"]

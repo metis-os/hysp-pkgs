@@ -1,0 +1,26 @@
+[bin]
+name = "cloak-client"
+
+[package]
+architecture = "x86_64"
+name = "cloak-client"
+description = "A censorship circumvention tool to evade detection by authoritarian state adversaries"
+author = "cbeuw"
+repo = "https://github.com/cbeuw/Cloak"
+stars = "3104"
+version = "v2.9.0"
+updated = "2024-04-14T19:12:47Z"
+size = "7.09 MB"
+bsum = "107537229c046833d92dcb9795f53b5f3c4a095b3b76d0cd3942eea5c648feb4"
+sha = "411b16d06d6d44cb14e34be69c99f79cf0cc590649a85f4207fc047a7114de4b"
+source = "https://bin.ajam.dev/x86_64_Linux/cloak-client"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["cloak-client"]
+requires = []
+
+[package.metadata]
+keywords = ["censorship","censorship-circumvention","gfw","openvpn","pluggable-transports","proxy","shadowsocks","tor","vpn"]
+categories = ["Utilities"]

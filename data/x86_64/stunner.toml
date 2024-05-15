@@ -1,0 +1,26 @@
+[bin]
+name = "stunner"
+
+[package]
+architecture = "x86_64"
+name = "stunner"
+description = "Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers."
+author = "firefart"
+repo = "https://github.com/firefart/stunner"
+stars = "713"
+version = "v0.5.8"
+updated = "2024-03-21T08:27:36Z"
+size = "7.15 MB"
+bsum = "0af28d1e8c820c949354ee17315f1dd928ce1a0f2a80335ec1454677fb079363"
+sha = "47f7b2ebc8ff432eadd5591ae52ee8ae58c5d1b057780c997bad659a69348da9"
+source = "https://bin.ajam.dev/x86_64_Linux/stunner"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["stunner"]
+requires = []
+
+[package.metadata]
+keywords = ["exploit","misconfiguration","security","stun","testing","tool","turn","webrtc"]
+categories = ["Utilities"]

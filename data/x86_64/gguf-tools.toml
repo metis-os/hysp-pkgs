@@ -1,0 +1,26 @@
+[bin]
+name = "gguf-tools"
+
+[package]
+architecture = "x86_64"
+name = "gguf-tools"
+description = "GGUF implementation in C as a library and a tools CLI program"
+author = "antirez"
+repo = "https://github.com/antirez/gguf-tools"
+stars = "206"
+version = "null"
+updated = ""
+size = "53.3 kB"
+bsum = "4876262192f5b9ae419c592229fc01dbc49f0dc45ad2207f714449c22f66abb2"
+sha = "703150af35224c4c05637c7c7d1206de01542bc03f4aaae53d1dddc892d54dff"
+source = "https://bin.ajam.dev/x86_64_Linux/gguf-tools"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gguf-tools"]
+requires = []
+
+[package.metadata]
+keywords = ["ai","gguf","llm","ml"]
+categories = ["Utilities"]

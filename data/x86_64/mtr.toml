@@ -1,0 +1,26 @@
+[bin]
+name = "mtr"
+
+[package]
+architecture = "x86_64"
+name = "mtr"
+description = "Official repository for mtr, a network diagnostic tool"
+author = "traviscross"
+repo = "https://github.com/traviscross/mtr"
+stars = "2545"
+version = "v0.95"
+updated = "null"
+size = "492.51 kB"
+bsum = "706cba2f4962b0195f93ead6b9ffb84af2173df7b36f046b342e63db4551bd72"
+sha = "3ae1df1ab97bff936418f824bbbe0d9ea554fb92e482619d986e3af934d4f9b3"
+source = "https://bin.ajam.dev/x86_64_Linux/mtr"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["mtr"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "mosh-server"
+
+[package]
+architecture = "x86_64"
+name = "mosh-server"
+description = "Mobile Shell"
+author = "mobile-shell"
+repo = "https://github.com/mobile-shell/mosh"
+stars = "12241"
+version = "mosh-1.4.0"
+updated = "2022-10-27T02:00:42Z"
+size = "3.35 MB"
+bsum = "c1a2f7a7f723a686182c9dbc99bfe7f44bef5dd12181591dde45580b1a29bca6"
+sha = "ae54a5913b8ed001e61b8e28c00e5b9a9e8ae5c23d5a4fdafef6a59f78f675d7"
+source = "https://bin.ajam.dev/x86_64_Linux/mosh-server"
+language = "C++"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["mosh-server"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

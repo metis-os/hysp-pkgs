@@ -1,0 +1,26 @@
+[bin]
+name = "tio"
+
+[package]
+architecture = "x86_64"
+name = "tio"
+description = "A serial device I/O tool"
+author = "tio"
+repo = "https://github.com/tio/tio"
+stars = "1740"
+version = "v3.3"
+updated = "2024-05-15T06:39:50Z"
+size = "416.96 kB"
+bsum = "377f8c347adaa74005317167788636e8bbd5652642367f369bda11e904ea2614"
+sha = "27d5d9aa9f4ec501a8414b9f6647d88fb579ba85c11b7faf0a7e9317f850c706"
+source = "https://bin.ajam.dev/x86_64_Linux/tio"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["tio"]
+requires = []
+
+[package.metadata]
+keywords = ["automation","cli","command-line","developers","embedded","hackers","linux","lua","macos","open-source","rs-232","rs-485","script","serial","serial-port","terminal","tty","uart","xmodem","ymodem"]
+categories = ["Utilities"]
