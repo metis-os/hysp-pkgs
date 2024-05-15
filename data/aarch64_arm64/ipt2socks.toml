@@ -22,5 +22,5 @@ conflicts  = ["ipt2socks"]
 requires = []
 
 [package.metadata]
-keywords = ["iptables","linux","nftables","proxy","redirect","redsocks","relay","socks5","ss-tproxy","tproxy","transparent-proxy"]
+keywords = ["iptables","linux","nftables","proxy","redirect","redsocks","relay","socks4","socks5","ss-tproxy","tproxy","transparent-proxy"]
 categories = ["Utilities"]
