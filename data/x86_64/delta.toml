@@ -4,7 +4,7 @@ name = "delta"
 [package]
 architecture = "x86_64"
 name = "delta"
-description = "A syntax-highlighting pager for git, diff, and grep output"
+description = "A syntax-highlighting pager for git, diff, grep, and blame output"
 author = "dandavison"
 repo = "https://github.com/dandavison/delta"
 stars = "20898"
