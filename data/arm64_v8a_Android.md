@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 24073
+- **Stars:** 24072
 - **Version:** v2.29.0
 - **Updated:** 2024-04-30T12:50:03Z
 - **Size:** 13.94 MB
@@ -354,7 +354,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16814
+- **Stars:** 16815
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
 - **Size:** 10.92 MB
@@ -370,7 +370,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16814
+- **Stars:** 16815
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
 - **Size:** 11.28 MB
@@ -386,7 +386,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16814
+- **Stars:** 16815
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
 - **Size:** 20.48 MB
@@ -402,7 +402,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16814
+- **Stars:** 16815
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
 - **Size:** 21.67 MB
