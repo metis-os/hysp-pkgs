@@ -818,7 +818,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6331
+- **Stars:** 6337
 - **Version:** 2.12.0
 - **Updated:** 2024-05-14T08:11:05Z
 - **Size:** 1.35 MB
@@ -866,7 +866,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6331
+- **Stars:** 6337
 - **Version:** 2.12.0
 - **Updated:** 2024-05-14T08:11:05Z
 - **Size:** 1.19 MB
@@ -1010,7 +1010,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 29212
+- **Stars:** 29214
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 985.09 kB
@@ -1506,7 +1506,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45300
+- **Stars:** 45302
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1554,7 +1554,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.04 MB
@@ -1586,7 +1586,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 897.54 kB
@@ -1602,7 +1602,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 911.87 kB
@@ -1618,7 +1618,7 @@
 - **Description:** The universal proxy platform
 - **Author:** SagerNet
 - **Repository:** [https://github.com/SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-- **Stars:** 14210
+- **Stars:** 14212
 - **Version:** v1.8.13
 - **Updated:** 2024-05-03T10:30:15Z
 - **Size:** 30.45 MB
@@ -1650,7 +1650,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 839.17 kB
@@ -1682,7 +1682,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.67 MB
@@ -1698,7 +1698,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 966.14 kB
@@ -1746,7 +1746,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 849.41 kB
@@ -1762,7 +1762,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 835.58 kB
@@ -1778,7 +1778,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.25 MB
@@ -1794,7 +1794,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.33 MB
@@ -1810,7 +1810,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 874.5 kB
@@ -1826,7 +1826,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 846.34 kB
@@ -1842,7 +1842,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.36 MB
@@ -1858,7 +1858,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 902.14 kB
@@ -1874,7 +1874,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 758.78 kB
@@ -1890,7 +1890,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 844.29 kB
@@ -1922,7 +1922,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 879.1 kB
@@ -1954,7 +1954,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 847.36 kB
@@ -1970,7 +1970,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 870.91 kB
@@ -1986,7 +1986,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 906.75 kB
@@ -2002,7 +2002,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 828.42 kB
@@ -2018,7 +2018,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.25 MB
@@ -2034,7 +2034,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 922.62 kB
@@ -2066,7 +2066,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 810.5 kB
@@ -2130,7 +2130,7 @@
 - **Description:** Cross-platform Rust rewrite of the GNU coreutils
 - **Author:** uutils
 - **Repository:** [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
-- **Stars:** 16929
+- **Stars:** 16930
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 807.42 kB
@@ -2146,7 +2146,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 72064
+- **Stars:** 72066
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
