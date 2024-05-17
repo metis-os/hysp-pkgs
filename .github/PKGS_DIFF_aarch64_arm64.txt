@@ -14,7 +14,6 @@
 │ 201│-elinks                           │    │
 │ 202│-elinks-lite                      │    │
 │ 248│-genscope                         │    │
-│ 259│-git-cliff                        │    │
 │ 355│-jira                             │    │
 │ 376│-knoxssme                         │    │
 │ 396│-mac2unix                         │    │
