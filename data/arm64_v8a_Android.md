@@ -114,7 +114,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11540
+- **Stars:** 11539
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 8.58 MB
@@ -245,7 +245,7 @@
 - **Stars:** 4530
 - **Version:** v0.9.0
 - **Updated:** 2023-07-17T02:51:34Z
-- **Size:** 1.83 MB
+- **Size:** 2.01 MB
 - **SHASUM:** 3150df8f9f1f0bb21c1ac3db02d318033866e6dfb10cdda01b15ea9ad2a2cebd
 - **B3SUM:** ee77424b4371425f3cb896d517ddb534dfc3b74a03d1876c27b0a41209651a8d
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/jless
@@ -357,7 +357,7 @@
 - **Stars:** 16838
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
-- **Size:** 10.92 MB
+- **Size:** 11.46 MB
 - **SHASUM:** 04256bc30a68c4e278253d715477582bdc0cb67f54610ac08bd2322448b1164a
 - **B3SUM:** d8443d649348c8048530abb124516d59d58fb0679c9961aebf9f9032d170e1f3
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale
@@ -389,7 +389,7 @@
 - **Stars:** 16838
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
-- **Size:** 20.48 MB
+- **Size:** 23.54 MB
 - **SHASUM:** 4c0e85666bfbda37ea8b8ac226098d9607aaf1e9627e154f126073c07ee697e4
 - **B3SUM:** d9d37fbdfa01973e69b9e8aea42e17010a30b53631f17eb626bf9fee21d46520
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscaled
