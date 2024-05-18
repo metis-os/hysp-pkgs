@@ -1,6 +1,5 @@
 │  2 │-Baseutils                        │    │
 │ 43 │-bash                             │    │
-│ 51 │-bench.sh                         │    │
 │ 63 │-bombadillo                       │    │
 │ 87 │-certwatcher                      │    │
 │ 125│-cowsay                           │    │
@@ -64,5 +63,4 @@
 │ 885│-whoismac                         │    │
 │ 890│-wlancap2wpasec                   │    │
 │ 897│-xargs                            │    │
-│ 923│-yabs.sh                          │    │
 │ 941│-zsh                              │    │
