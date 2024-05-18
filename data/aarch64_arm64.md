@@ -178,7 +178,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 37936
+- **Stars:** 37938
 - **Version:** v3.34.0
 - **Updated:** 2024-05-02T16:27:29Z
 - **Size:** 63.77 MB
@@ -562,7 +562,7 @@
 - **Description:** Lightweight CLI download accelerator
 - **Author:** axel-download-accelerator
 - **Repository:** [https://github.com/axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel)
-- **Stars:** 2839
+- **Stars:** 2840
 - **Version:** v2.17.14
 - **Updated:** 2024-04-07T23:40:58Z
 - **Size:** 3.63 MB
@@ -610,7 +610,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46867
+- **Stars:** 46868
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.43 MB
@@ -626,7 +626,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46867
+- **Stars:** 46868
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 5.43 MB
@@ -642,7 +642,7 @@
 - **Description:**  Hacking Tools⚔️
 - **Author:** edoardottt
 - **Repository:** [https://github.com/edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools)
-- **Stars:** 307
+- **Stars:** 308
 - **Version:** v1.3.5
 - **Updated:** 2023-07-15T13:50:08Z
 - **Size:** 1.88 MB
@@ -1058,7 +1058,7 @@
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Author:** caddyserver
 - **Repository:** [https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
-- **Stars:** 54298
+- **Stars:** 54299
 - **Version:** v2.7.6
 - **Updated:** 2023-12-08T01:03:36Z
 - **Size:** 39.5 MB
@@ -1938,7 +1938,7 @@
 - **Description:** A cross-platform, efficient and practical CSV/TSV toolkit in Golang
 - **Author:** shenwei356
 - **Repository:** [https://github.com/shenwei356/csvtk](https://github.com/shenwei356/csvtk)
-- **Stars:** 962
+- **Stars:** 963
 - **Version:** v0.30.0
 - **Updated:** 2024-03-15T08:10:54Z
 - **Size:** 20.64 MB
@@ -2146,7 +2146,7 @@
 - **Description:** Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - **Author:** TomWright
 - **Repository:** [https://github.com/TomWright/dasel](https://github.com/TomWright/dasel)
-- **Stars:** 4894
+- **Stars:** 4895
 - **Version:** v2.7.0
 - **Updated:** 2024-03-14T15:12:59Z
 - **Size:** 9.49 MB
@@ -2178,7 +2178,7 @@
 - **Description:** The Open Source Dev Environment Manager.
 - **Author:** daytonaio
 - **Repository:** [https://github.com/daytonaio/daytona](https://github.com/daytonaio/daytona)
-- **Stars:** 5486
+- **Stars:** 5487
 - **Version:** v0.16.0
 - **Updated:** 2024-05-17T10:16:38Z
 - **Size:** 76.66 MB
@@ -3186,7 +3186,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6367
+- **Stars:** 6371
 - **Version:** 2.12.0
 - **Updated:** 2024-05-14T08:11:05Z
 - **Size:** 10.54 kB
@@ -3346,7 +3346,7 @@
 - **Description:** Fast web fuzzer written in Go
 - **Author:** ffuf
 - **Repository:** [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
-- **Stars:** 11539
+- **Stars:** 11540
 - **Version:** v2.1.0
 - **Updated:** 2023-09-16T12:23:19Z
 - **Size:** 7.82 MB
@@ -3410,7 +3410,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 24111
+- **Stars:** 24112
 - **Version:** v2.29.0
 - **Updated:** 2024-04-30T12:50:03Z
 - **Size:** 14.58 MB
@@ -3474,7 +3474,7 @@
 - **Description:** 🚀 Fast and simple Node.js version manager, built in Rust
 - **Author:** Schniz
 - **Repository:** [https://github.com/Schniz/fnm](https://github.com/Schniz/fnm)
-- **Stars:** 15710
+- **Stars:** 15713
 - **Version:** v1.35.1
 - **Updated:** 2023-08-16T06:13:47Z
 - **Size:** 6.16 MB
@@ -3506,7 +3506,7 @@
 - **Description:** 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - **Author:** shadow1ng
 - **Repository:** [https://github.com/shadow1ng/fscan](https://github.com/shadow1ng/fscan)
-- **Stars:** 8120
+- **Stars:** 8121
 - **Version:** 1.8.4
 - **Updated:** 2024-05-11T08:51:48Z
 - **Size:** 23.55 MB
@@ -3682,7 +3682,7 @@
 - **Description:** 🌀 A nonsense activity generator
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/genact](https://github.com/svenstaro/genact)
-- **Stars:** 9068
+- **Stars:** 9069
 - **Version:** v1.4.2
 - **Updated:** 2024-02-17T22:15:39Z
 - **Size:** 1.29 MB
@@ -3794,7 +3794,7 @@
 - **Description:** GitHub’s official command line tool
 - **Author:** cli
 - **Repository:** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **Stars:** 35594
+- **Stars:** 35595
 - **Version:** v2.49.2
 - **Updated:** 2024-05-13T17:34:30Z
 - **Size:** 43.35 MB
@@ -3858,7 +3858,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5534
+- **Stars:** 5535
 - **Version:** v5.12.0
 - **Updated:** 2024-03-31T12:27:02Z
 - **Size:** 6.98 MB
@@ -3890,7 +3890,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5534
+- **Stars:** 5535
 - **Version:** v5.12.0
 - **Updated:** 2024-03-31T12:27:02Z
 - **Size:** 6.98 MB
@@ -3922,7 +3922,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5534
+- **Stars:** 5535
 - **Version:** v5.12.0
 - **Updated:** 2024-03-31T12:27:02Z
 - **Size:** 7.11 MB
@@ -3938,7 +3938,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5534
+- **Stars:** 5535
 - **Version:** v5.12.0
 - **Updated:** 2024-03-31T12:27:02Z
 - **Size:** 6.98 MB
@@ -3970,7 +3970,7 @@
 - **Description:** A highly extensible Git implementation in pure Go.
 - **Author:** go-git
 - **Repository:** [https://github.com/go-git/go-git](https://github.com/go-git/go-git)
-- **Stars:** 5534
+- **Stars:** 5535
 - **Version:** v5.12.0
 - **Updated:** 2024-03-31T12:27:02Z
 - **Size:** 5.06 MB
@@ -4018,7 +4018,7 @@
 - **Description:** Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - **Author:** go-gitea
 - **Repository:** [https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)
-- **Stars:** 42316
+- **Stars:** 42317
 - **Version:** v1.21.11
 - **Updated:** 2024-04-16T03:46:17Z
 - **Size:** 99.72 MB
@@ -4114,7 +4114,7 @@
 - **Description:** The developer platform for on-demand cloud development environments to create software faster and more securely.
 - **Author:** gitpod-io
 - **Repository:** [https://github.com/gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-- **Stars:** 12362
+- **Stars:** 12363
 - **Version:** 2022.11.3
 - **Updated:** 2023-06-05T12:24:19Z
 - **Size:** 16.89 MB
@@ -4130,7 +4130,7 @@
 - **Description:** The developer platform for on-demand cloud development environments to create software faster and more securely.
 - **Author:** gitpod-io
 - **Repository:** [https://github.com/gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-- **Stars:** 12362
+- **Stars:** 12363
 - **Version:** 2022.11.3
 - **Updated:** 2023-06-05T12:24:19Z
 - **Size:** 18.42 MB
@@ -4162,7 +4162,7 @@
 - **Description:** Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Author:** extrawurst
 - **Repository:** [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-- **Stars:** 17203
+- **Stars:** 17206
 - **Version:** v0.26.1
 - **Updated:** 2024-04-14T20:18:02Z
 - **Size:** 11.16 MB
@@ -4482,7 +4482,7 @@
 - **Description:** GO Simple Tunnel - a simple tunnel written in golang
 - **Author:** ginuerzh
 - **Repository:** [https://github.com/ginuerzh/gost](https://github.com/ginuerzh/gost)
-- **Stars:** 15230
+- **Stars:** 15229
 - **Version:** v2.11.5
 - **Updated:** 2023-01-20T06:46:05Z
 - **Size:** 12.65 MB
@@ -4562,7 +4562,7 @@
 - **Description:** The developer platform for on-demand cloud development environments to create software faster and more securely.
 - **Author:** gitpod-io
 - **Repository:** [https://github.com/gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-- **Stars:** 12362
+- **Stars:** 12363
 - **Version:** 2022.11.3
 - **Updated:** 2023-06-05T12:24:19Z
 - **Size:** 16.89 MB
@@ -5090,7 +5090,7 @@
 - **Description:** Hurl, run and test HTTP requests with plain text.
 - **Author:** Orange-OpenSource
 - **Repository:** [https://github.com/Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
-- **Stars:** 11831
+- **Stars:** 11832
 - **Version:** 4.3.0
 - **Updated:** 2024-04-24T08:03:59Z
 - **Size:** 9.49 MB
@@ -5106,7 +5106,7 @@
 - **Description:** Hurl, run and test HTTP requests with plain text.
 - **Author:** Orange-OpenSource
 - **Repository:** [https://github.com/Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
-- **Stars:** 11831
+- **Stars:** 11832
 - **Version:** 4.3.0
 - **Updated:** 2024-04-24T08:03:59Z
 - **Size:** 3.68 MB
@@ -5378,7 +5378,7 @@
 - **Description:** A jq clone focussed on correctness, speed, and simplicity
 - **Author:** 01mf02
 - **Repository:** [https://github.com/01mf02/jaq](https://github.com/01mf02/jaq)
-- **Stars:** 2507
+- **Stars:** 2508
 - **Version:** v1.3.0
 - **Updated:** 2024-01-22T16:41:00Z
 - **Size:** 1.58 MB
@@ -5458,7 +5458,7 @@
 - **Description:** interactive JSON filter using jq
 - **Author:** ynqa
 - **Repository:** [https://github.com/ynqa/jnv](https://github.com/ynqa/jnv)
-- **Stars:** 4382
+- **Stars:** 4383
 - **Version:** v0.2.2
 - **Updated:** 2024-04-21T11:18:04Z
 - **Size:** 1.88 MB
@@ -5554,7 +5554,7 @@
 - **Description:** 🤖 Just a command runner
 - **Author:** casey
 - **Repository:** [https://github.com/casey/just](https://github.com/casey/just)
-- **Stars:** 17671
+- **Stars:** 17673
 - **Version:** 1.26.0
 - **Updated:** 2024-05-14T03:49:39Z
 - **Size:** 2.9 MB
@@ -6034,7 +6034,7 @@
 - **Description:** A system information frontend with an emphasis on performance.
 - **Author:** Macchina-CLI
 - **Repository:** [https://github.com/Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
-- **Stars:** 1136
+- **Stars:** 1137
 - **Version:** v6.1.8
 - **Updated:** 2023-01-09T15:11:08Z
 - **Size:** 4.72 MB
@@ -6402,7 +6402,7 @@
 - **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-- **Stars:** 5647
+- **Stars:** 5649
 - **Version:** v0.27.1
 - **Updated:** 2024-03-16T11:45:56Z
 - **Size:** 1.87 MB
@@ -6434,7 +6434,7 @@
 - **Description:** dev tools, env vars, task runner
 - **Author:** jdx
 - **Repository:** [https://github.com/jdx/mise](https://github.com/jdx/mise)
-- **Stars:** 6940
+- **Stars:** 6941
 - **Version:** v2024.5.16
 - **Updated:** 2024-05-15T04:28:43Z
 - **Size:** 14.73 MB
@@ -6690,7 +6690,7 @@
 - **Description:** 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - **Author:** hykilpikonna
 - **Repository:** [https://github.com/hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch)
-- **Stars:** 1006
+- **Stars:** 1007
 - **Version:** 1.4.11
 - **Updated:** 2023-12-02T00:32:28Z
 - **Size:** 550.87 kB
@@ -7026,7 +7026,7 @@
 - **Description:** A new type of shell
 - **Author:** nushell
 - **Repository:** [https://github.com/nushell/nushell](https://github.com/nushell/nushell)
-- **Stars:** 30335
+- **Stars:** 30336
 - **Version:** 0.93.0
 - **Updated:** 2024-04-30T23:31:27Z
 - **Size:** 31.02 MB
@@ -7106,7 +7106,7 @@
 - **Description:** A new type of shell
 - **Author:** nushell
 - **Repository:** [https://github.com/nushell/nushell](https://github.com/nushell/nushell)
-- **Stars:** 30335
+- **Stars:** 30336
 - **Version:** 0.93.0
 - **Updated:** 2024-04-30T23:31:27Z
 - **Size:** 31.02 MB
@@ -7570,7 +7570,7 @@
 - **Description:** Podman: A tool for managing OCI containers and pods.
 - **Author:** containers
 - **Repository:** [https://github.com/containers/podman](https://github.com/containers/podman)
-- **Stars:** 21931
+- **Stars:** 21933
 - **Version:** v5.0.3
 - **Updated:** 2024-05-10T17:57:35Z
 - **Size:** 28.89 MB
@@ -8018,7 +8018,7 @@
 - **Description:**  - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 44181
+- **Stars:** 44183
 - **Version:** v1.66.0
 - **Updated:** 2024-03-10T12:13:14Z
 - **Size:** 58.52 MB
@@ -8226,7 +8226,7 @@
 - **Description:** Fast, secure, efficient backup program
 - **Author:** restic
 - **Repository:** [https://github.com/restic/restic](https://github.com/restic/restic)
-- **Stars:** 23971
+- **Stars:** 23972
 - **Version:** v0.16.4
 - **Updated:** 2024-02-04T19:18:43Z
 - **Size:** 23.36 MB
@@ -8322,7 +8322,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45314
+- **Stars:** 45315
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 4.12 MB
@@ -8370,7 +8370,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45314
+- **Stars:** 45315
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 4.12 MB
@@ -8530,7 +8530,7 @@
 - **Description:** An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - **Author:** RsyncProject
 - **Repository:** [https://github.com/RsyncProject/rsync](https://github.com/RsyncProject/rsync)
-- **Stars:** 2371
+- **Stars:** 2372
 - **Version:** v3.3.0
 - **Updated:** null
 - **Size:** 5217 B
@@ -8546,7 +8546,7 @@
 - **Description:** An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - **Author:** RsyncProject
 - **Repository:** [https://github.com/RsyncProject/rsync](https://github.com/RsyncProject/rsync)
-- **Stars:** 2371
+- **Stars:** 2372
 - **Version:** v3.3.0
 - **Updated:** null
 - **Size:** 4.55 MB
@@ -8562,7 +8562,7 @@
 - **Description:** An extremely fast Python linter and code formatter, written in Rust.
 - **Author:** astral-sh
 - **Repository:** [https://github.com/astral-sh/ruff](https://github.com/astral-sh/ruff)
-- **Stars:** 27134
+- **Stars:** 27135
 - **Version:** v0.4.4
 - **Updated:** 2024-05-09T17:24:16Z
 - **Size:** 19.83 MB
@@ -8658,7 +8658,7 @@
 - **Description:** 🤖 The Modern Port Scanner 🤖
 - **Author:** RustScan
 - **Repository:** [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)
-- **Stars:** 12731
+- **Stars:** 12730
 - **Version:** 2.2.3
 - **Updated:** 2024-05-01T14:50:19Z
 - **Size:** 4.81 MB
@@ -9250,7 +9250,7 @@
 - **Description:** The mighty, self-hostable Git server for the command line🍦
 - **Author:** charmbracelet
 - **Repository:** [https://github.com/charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- **Stars:** 4873
+- **Stars:** 4874
 - **Version:** v0.7.4
 - **Updated:** 2023-12-07T14:59:58Z
 - **Size:** 28.44 MB
@@ -9490,7 +9490,7 @@
 - **Description:** An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 - **Author:** jaksi
 - **Repository:** [https://github.com/jaksi/sshesame](https://github.com/jaksi/sshesame)
-- **Stars:** 1427
+- **Stars:** 1428
 - **Version:** v0.0.27
 - **Updated:** 2023-01-18T09:25:26Z
 - **Size:** 9.42 MB
@@ -9586,7 +9586,7 @@
 - **Description:** ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - **Author:** starship
 - **Repository:** [https://github.com/starship/starship](https://github.com/starship/starship)
-- **Stars:** 41201
+- **Stars:** 41202
 - **Version:** v1.19.0
 - **Updated:** 2024-05-15T17:06:36Z
 - **Size:** 8.28 MB
@@ -10114,7 +10114,7 @@
 - **Description:** 📥 A Telegram tookit written in Golang
 - **Author:** iyear
 - **Repository:** [https://github.com/iyear/tdl](https://github.com/iyear/tdl)
-- **Stars:** 3409
+- **Stars:** 3410
 - **Version:** v0.17.0
 - **Updated:** 2024-04-21T16:34:05Z
 - **Size:** 35.4 MB
@@ -10306,7 +10306,7 @@
 - **Description:** Count your code, quickly.
 - **Author:** XAMPPRocky
 - **Repository:** [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
-- **Stars:** 10260
+- **Stars:** 10261
 - **Version:** v13.0.0-alpha.1
 - **Updated:** 2024-03-04T08:18:07Z
 - **Size:** 3.86 MB
@@ -10450,7 +10450,7 @@
 - **Description:** Share your terminal over the web
 - **Author:** tsl0922
 - **Repository:** [https://github.com/tsl0922/ttyd](https://github.com/tsl0922/ttyd)
-- **Stars:** 7402
+- **Stars:** 7403
 - **Version:** 1.7.7
 - **Updated:** 2024-03-30T03:18:34Z
 - **Size:** 1.37 MB
