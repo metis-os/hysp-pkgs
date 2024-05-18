@@ -1,0 +1,26 @@
+[bin]
+name = "yabs.sh"
+
+[package]
+architecture = "x86_64"
+name = "yabs.sh"
+description = " Geekbench"
+author = "masonr"
+repo = "https://github.com/masonr/yet-another-bench-script"
+stars = "3796"
+version = "null"
+updated = ""
+size = "45.17 kB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/yabs.sh"
+language = "Shell"
+license = "Do What The F*ck You Want To Public License"
+
+[package.conditions]
+conflicts  = ["yabs.sh"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","bench-script","benchmark","benchmark-scripts","disk-performance","fio","geekbench","iperf3","linux","performance","speedtest"]
+categories = ["Utilities"]
