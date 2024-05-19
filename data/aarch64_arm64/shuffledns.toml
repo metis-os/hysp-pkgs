@@ -4,7 +4,7 @@ name = "shuffledns"
 [package]
 architecture = "aarch64_arm64"
 name = "shuffledns"
-description = "MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support."
+description = "MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support."
 author = "projectdiscovery"
 repo = "https://github.com/projectdiscovery/shuffledns"
 stars = "1220"
