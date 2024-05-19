@@ -1,0 +1,26 @@
+[bin]
+name = "gocryptfs-xray"
+
+[package]
+architecture = "x86_64"
+name = "gocryptfs-xray"
+description = "Encrypted overlay filesystem written in Go"
+author = "rfjakob"
+repo = "https://github.com/rfjakob/gocryptfs"
+stars = "3321"
+version = "v2.4.0"
+updated = "2023-06-10T14:37:08Z"
+size = "7.53 MB"
+bsum = "2fe90d3296e209754c64f6af4bc4a634a247661c02146e9add58fb40135682cb"
+sha = "f2448907acc15084f1328721121b970f51e348c7456f28d411ebf3c72428203d"
+source = "https://bin.ajam.dev/x86_64_Linux/gocryptfs-xray"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gocryptfs-xray"]
+requires = []
+
+[package.metadata]
+keywords = ["encryption","filesystem","fuse","gcm","golang"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "go-audit"
+
+[package]
+architecture = "x86_64"
+name = "go-audit"
+description = "go-audit is an alternative to the auditd daemon that ships with many distros"
+author = "slackhq"
+repo = "https://github.com/slackhq/go-audit"
+stars = "1555"
+version = "v1.2.0"
+updated = "2023-04-07T14:52:14Z"
+size = "20.58 MB"
+bsum = "8f7554e1725b92c410d9dd8ac9ca320bd85865ce116531c3790833de0ac3b1b5"
+sha = "669af4e627c9b59e657ebd0303f463d5524da03f211fed8b6ef73f0ea729df9e"
+source = "https://bin.ajam.dev/x86_64_Linux/go-audit"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["go-audit"]
+requires = []
+
+[package.metadata]
+keywords = []
+categories = ["Utilities"]

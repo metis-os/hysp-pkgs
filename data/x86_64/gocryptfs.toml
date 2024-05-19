@@ -1,0 +1,26 @@
+[bin]
+name = "gocryptfs"
+
+[package]
+architecture = "x86_64"
+name = "gocryptfs"
+description = "Encrypted overlay filesystem written in Go"
+author = "rfjakob"
+repo = "https://github.com/rfjakob/gocryptfs"
+stars = "3321"
+version = "v2.4.0"
+updated = "2023-06-10T14:37:08Z"
+size = "9.15 MB"
+bsum = "1c7428d1eaae7888abfa9c7ddcb2657dfc1cf8d5f1d26d185ad25cd142195f5f"
+sha = "981cc5c1a8860ea95ceea5377995eef2bb631d6865464993f2da51a4af4bf36e"
+source = "https://bin.ajam.dev/x86_64_Linux/gocryptfs"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gocryptfs"]
+requires = []
+
+[package.metadata]
+keywords = ["encryption","filesystem","fuse","gcm","golang"]
+categories = ["Utilities"]

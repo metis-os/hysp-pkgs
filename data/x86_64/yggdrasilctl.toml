@@ -1,0 +1,26 @@
+[bin]
+name = "yggdrasilctl"
+
+[package]
+architecture = "x86_64"
+name = "yggdrasilctl"
+description = "An experiment in scalable routing as an encrypted IPv6 overlay network"
+author = "yggdrasil-network"
+repo = "https://github.com/yggdrasil-network/yggdrasil-go"
+stars = "3356"
+version = "v0.5.5"
+updated = "2024-01-27T23:02:27Z"
+size = "6.88 MB"
+bsum = "f178250a9729420ac7070e8827c38b5a52f3b63436a673c7ff0ea7c5177266f4"
+sha = "41f8b2af3b90ea7300296ccd1682a60f3eff866c8ccf80f5ac35ffacc5d6d9f4"
+source = "https://bin.ajam.dev/x86_64_Linux/yggdrasilctl"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["yggdrasilctl"]
+requires = []
+
+[package.metadata]
+keywords = ["decentralized","e2e-encryption","ipv6","mesh","mesh-networks","routing-algorithm","routing-mesh","spanning-tree"]
+categories = ["Utilities"]

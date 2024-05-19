@@ -1,0 +1,26 @@
+[bin]
+name = "mirrorbits"
+
+[package]
+architecture = "x86_64"
+name = "mirrorbits"
+description = "Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors."
+author = "etix"
+repo = "https://github.com/etix/mirrorbits"
+stars = "488"
+version = "v0.5.1"
+updated = "2018-11-23T12:25:27Z"
+size = "12.56 MB"
+bsum = "5989af5c1d89eb70a24d3d02954199f2ba14dcb78efad3f5d4a063d3a147cb18"
+sha = "7c2c9b22d5058be7580e4600f0aa86e035784fb63e72e34c05add7868c9545ec"
+source = "https://bin.ajam.dev/x86_64_Linux/mirrorbits"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mirrorbits"]
+requires = []
+
+[package.metadata]
+keywords = ["cdn","checksum","cli","distribution","dockerfile","ftp","go","http","https","ipv6","mirror","open-source","realtime","rsync"]
+categories = ["Utilities"]

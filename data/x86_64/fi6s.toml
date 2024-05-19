@@ -1,0 +1,26 @@
+[bin]
+name = "fi6s"
+
+[package]
+architecture = "x86_64"
+name = "fi6s"
+description = "IPv6 network scanner designed to be fast"
+author = "sfan5"
+repo = "https://github.com/sfan5/fi6s"
+stars = "154"
+version = "null"
+updated = ""
+size = "350.54 kB"
+bsum = "ade09c04781a39307dcfe10e313657f1ab4fbbbc9a009c932b9be0c89fca3738"
+sha = "a8f74773fc65142acf61836d25721a3703c00d35a04119beb9841bec7630b289"
+source = "https://bin.ajam.dev/x86_64_Linux/fi6s"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["fi6s"]
+requires = []
+
+[package.metadata]
+keywords = ["ipv6","network","scanner","tcp","udp"]
+categories = ["Utilities"]
