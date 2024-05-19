@@ -246,8 +246,8 @@
 - **Version:** v0.9.0
 - **Updated:** 2023-07-17T02:51:34Z
 - **Size:** 2.01 MB
-- **SHASUM:** 3150df8f9f1f0bb21c1ac3db02d318033866e6dfb10cdda01b15ea9ad2a2cebd
-- **B3SUM:** ee77424b4371425f3cb896d517ddb534dfc3b74a03d1876c27b0a41209651a8d
+- **SHASUM:** a72e165e8b6c2d977f7f0ca42318077a8b32370edc1a23ff3344515bbd4ecb14
+- **B3SUM:** cca84bc9f905d85f4888a1c2d2dca5d92249716d9cda73e2e26ffc4c38ff713d
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/jless
 - **Language:** Rust
 - **License:** MIT License
@@ -322,7 +322,7 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1214
+- **Stars:** 1215
 - **Version:** v2.31.0
 - **Updated:** 2024-05-19T20:46:38Z
 - **Size:** 6.8 MB
@@ -358,8 +358,8 @@
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
 - **Size:** 11.46 MB
-- **SHASUM:** 04256bc30a68c4e278253d715477582bdc0cb67f54610ac08bd2322448b1164a
-- **B3SUM:** d8443d649348c8048530abb124516d59d58fb0679c9961aebf9f9032d170e1f3
+- **SHASUM:** 24a1b4266200c45b397db03d70a6a01df79cd1547f735290cd0740d7517e6571
+- **B3SUM:** 38099f42eabc0882deccdd5c510b13af8c19ca9477a0d822396931f0feca9c75
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -390,8 +390,8 @@
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
 - **Size:** 23.54 MB
-- **SHASUM:** 4c0e85666bfbda37ea8b8ac226098d9607aaf1e9627e154f126073c07ee697e4
-- **B3SUM:** d9d37fbdfa01973e69b9e8aea42e17010a30b53631f17eb626bf9fee21d46520
+- **SHASUM:** aa7042451443ce4d6302b37000267bf3f86083c5802865c24e298a2aef928140
+- **B3SUM:** cad167ba397c9ed9edbaf213dd4a8e999ba4978374a228ff342d4e3c83dd82e0
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscaled
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
