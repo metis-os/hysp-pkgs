@@ -82,7 +82,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 37984
+- **Stars:** 37986
 - **Version:** v3.34.0
 - **Updated:** 2024-05-02T16:27:29Z
 - **Size:** 66.83 MB
@@ -274,7 +274,7 @@
 - **Description:** A cross-platform programmable network tool
 - **Author:** txthinking
 - **Repository:** [https://github.com/txthinking/brook](https://github.com/txthinking/brook)
-- **Stars:** 14294
+- **Stars:** 14295
 - **Version:** v20240606
 - **Updated:** 2024-05-10T09:51:53Z
 - **Size:** 20.63 MB
@@ -818,7 +818,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6451
+- **Stars:** 6455
 - **Version:** 2.12.0
 - **Updated:** 2024-05-14T08:11:05Z
 - **Size:** 1.35 MB
@@ -866,7 +866,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6451
+- **Stars:** 6455
 - **Version:** 2.12.0
 - **Updated:** 2024-05-14T08:11:05Z
 - **Size:** 1.19 MB
@@ -1170,7 +1170,7 @@
 - **Description:** ⬛️ CLI tool for saving complete web pages as a single HTML file
 - **Author:** Y2Z
 - **Repository:** [https://github.com/Y2Z/monolith](https://github.com/Y2Z/monolith)
-- **Stars:** 10077
+- **Stars:** 10078
 - **Version:** v2.8.1
 - **Updated:** 2024-01-14T02:04:26Z
 - **Size:** 5.21 MB
@@ -1282,7 +1282,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32642
+- **Stars:** 32644
 - **Version:** 3.2
 - **Updated:** 2024-05-11T21:11:19Z
 - **Size:** 159.3 MB
@@ -1314,7 +1314,7 @@
 - **Description:** A PDF processor written in Go.
 - **Author:** pdfcpu
 - **Repository:** [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
-- **Stars:** 6364
+- **Stars:** 6365
 - **Version:** v0.8.0
 - **Updated:** 2024-04-24T22:27:50Z
 - **Size:** 11.55 MB
@@ -1618,7 +1618,7 @@
 - **Description:** The universal proxy platform
 - **Author:** SagerNet
 - **Repository:** [https://github.com/SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-- **Stars:** 14240
+- **Stars:** 14241
 - **Version:** v1.8.14
 - **Updated:** 2024-05-19T15:04:07Z
 - **Size:** 30.45 MB
@@ -2146,7 +2146,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 72241
+- **Stars:** 72252
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
