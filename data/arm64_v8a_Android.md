@@ -131,8 +131,8 @@
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
 - **Stars:** 24126
-- **Version:** v2.29.0
-- **Updated:** 2024-04-30T12:50:03Z
+- **Version:** v2.30.0
+- **Updated:** 2024-05-19T10:16:02Z
 - **Size:** 13.94 MB
 - **SHASUM:** f542a2425908eb9832c6ee957c46fbdc40f4ded086cba8548ae17c614dddd7f8
 - **B3SUM:** 8072441164bb1ed3ef910693eea0add349e8723f8b8910b5e4d0ff0e5e84eaa5
