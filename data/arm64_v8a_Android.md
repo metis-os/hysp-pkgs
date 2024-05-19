@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8996
+- **Stars:** 8995
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -179,8 +179,8 @@
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
 - **Stars:** 6937
-- **Version:** v1.6.0
-- **Updated:** 2024-03-06T19:33:45Z
+- **Version:** v1.6.1
+- **Updated:** 2024-05-19T17:51:33Z
 - **Size:** 42.14 MB
 - **SHASUM:** 879d336d3cae235efab2a0d678d70bb0fa662bb4075b49e0924089d4dafd6c73
 - **B3SUM:** 6314f8359f10ed6e57a9338f563b965e6dfcd7c54760e9d6081c7a1aadb14a9b
