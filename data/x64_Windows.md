@@ -6,8 +6,8 @@
 - **Version:** 23.01
 - **Updated:** (2023-06-20)
 - **Size:** 1.32 MB
-- **SHA256SUM:** 95c35740e203d433302244a200fb9308e45b361cc347cb0c2873f1b0b8533dc0
-- **B3SUM:** c606faf717b53d3ea062d9d2d809ad17c734e7d14166f0cf8e27d557719fea7f
+- **SHA256SUM:** 1f13c7e1817f2f58a60dc14e757a24a20a080c9110f1d8d8eef0960987c25a45
+- **B3SUM:** 1d34a55e2eb1b25bf1ff8c2888310d00577485369d4f0e2b2ba82e992655d0b4
 - **Source:** https://bin.ajam.dev/x64_Windows/7z
 - **Language:** C++
 - **License:** LGPL-2.1-or-later
@@ -34,12 +34,12 @@
 - **Description:** :octocat: Static checker for GitHub Actions workflow files
 - **Author:** rhysd
 - **Repository:** [https://github.com/rhysd/actionlint](https://github.com/rhysd/actionlint)
-- **Stars:** 2453
+- **Stars:** 2454
 - **Version:** v1.7.0
 - **Updated:** 2024-05-08T16:40:31Z
 - **Size:** 5.41 MB
-- **SHA256SUM:** ac1ec71870af5dee3ab67fc5a9b4d810e6c59726967cc4823c872bfab96e0faf
-- **B3SUM:** 1852116ea9b90c0bb4b3e6f84d7d25a6006b17dd67259f30842d6dad93b7cae7
+- **SHA256SUM:** 3c74ad2991a3d415888d40d4aed3afdc46d63da0fe5f58908c308216ae8dc7c2
+- **B3SUM:** 9e88d16522173d96d33ee25b2d1679d2662d2047f58623fc00fb10783231eff6
 - **Source:** https://bin.ajam.dev/x64_Windows/actionlint.exe
 - **Language:** Go
 - **License:** MIT License
@@ -50,12 +50,12 @@
 - **Description:** A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - **Author:** FiloSottile
 - **Repository:** [https://github.com/FiloSottile/age](https://github.com/FiloSottile/age)
-- **Stars:** 15440
+- **Stars:** 15441
 - **Version:** v1.1.1
 - **Updated:** 2022-12-26T20:39:07Z
 - **Size:** 3.88 MB
-- **SHA256SUM:** 27ecf8aef045a20553e6e61bb75adb080e4926e58f3da0b295597496851f644f
-- **B3SUM:** 3fdf7f55ce5df9aa9b9fed8f4e4bbadfc946d049b5208b667f07a469015092cb
+- **SHA256SUM:** 646d25f13bdac0dd66aa54c6c69fc0c610b6213f8a795f0b48fff219f6023ba2
+- **B3SUM:** d513e70fd948ef59f3194453f936e92f74ac659883d56a201fa18dd97f496acc
 - **Source:** https://bin.ajam.dev/x64_Windows/age.exe
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -70,8 +70,8 @@
 - **Version:** v1.16.0
 - **Updated:** 2024-02-22T15:11:42Z
 - **Size:** 26.77 MB
-- **SHA256SUM:** 87e683d10d1214b07b71c85e558027ca00baa577807f9ca9ab6db86660e29975
-- **B3SUM:** c3d9c76ad999cadcfce89cfb5cc264f395f331523ccc22ee4089b6cd8df329e0
+- **SHA256SUM:** 64cc668f0f3afb92854d42b9fa8abcd30895114bf13c60515bdd191665ece443
+- **B3SUM:** b6d855474b67cd9007619fb433c1142b78891143a2384175e9ef8f24260f1460
 - **Source:** https://bin.ajam.dev/x64_Windows/algernon.exe
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -82,12 +82,12 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 37990
+- **Stars:** 37992
 - **Version:** v3.34.0
 - **Updated:** 2024-05-02T16:27:29Z
 - **Size:** 66.83 MB
-- **SHA256SUM:** e7d1b34f41b264632c56a9eff8c0322787b7a625cb9ecfa7d8bcdeaa2ccb81f9
-- **B3SUM:** ea62fcf800b87116969b9b270b587d52fc2178ae5dd5cd545491bf6598c43453
+- **SHA256SUM:** 8e6831e9bb6893af597bb6fac5fce9f170ebf525f18273a3268e0f461b1e1031
+- **B3SUM:** 415040db95226de8fdeda70caa99e80f8a19aa9aceb595248835d017b52cc960
 - **Source:** https://bin.ajam.dev/x64_Windows/alist.exe
 - **Language:** Go
 - **License:** GNU Affero General Public License v3.0
@@ -102,8 +102,8 @@
 - **Version:** v0.1.0
 - **Updated:** 2023-11-23T16:11:10Z
 - **Size:** 787.46 kB
-- **SHA256SUM:** 175717a6eb8f80abf58ee404defbf024dd288cf162433adc8dd167d12baea385
-- **B3SUM:** 0d05f0c4c4864e3c2bf10f5532228f0ec2b8f0319d576600f883897715707d28
+- **SHA256SUM:** e393c6d517cd48d922544d01662b3936fe0ec3a1ab55a368f889744bf7a6f396
+- **B3SUM:** f500fadcd2881ba0aa14b5381a404d36166488ce7366add688bab2420abcaf56
 - **Source:** https://bin.ajam.dev/x64_Windows/anew-rs.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -118,8 +118,8 @@
 - **Version:** v0.1.0
 - **Updated:** 2023-11-23T16:11:10Z
 - **Size:** 787.46 kB
-- **SHA256SUM:** 111fe61660d060080597f51d4b5ca370bf17a8a10c8ed719b5a4be179eae74d8
-- **B3SUM:** eb298dbbcc5cce30e589a84c2b93d38c99f41967922da1745cf956c785c5478d
+- **SHA256SUM:** 9ad0b63a81364ab87c8a509e95c9b6e56a77f78c861d71d90f62404f2b6cad3a
+- **B3SUM:** 7feb98705713e06811cca5a3c309a5f3f88f9c1ab98f97561868bca2caff7242
 - **Source:** https://bin.ajam.dev/x64_Windows/anew.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -134,8 +134,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 826.37 kB
-- **SHA256SUM:** 801d5f782570116f6b52ec45e2df092081b821ff27d32e09f31861cba476a400
-- **B3SUM:** 5d5e4cbcd20c9ce0c5ce9997a0f9c1bb1582bcba547e347f205885fc915ec11a
+- **SHA256SUM:** ea190c2a4c67d574c108c8a24f5f8bc45589f357fd9c4132878bfc8fee922635
+- **B3SUM:** 5cc587115174420c9d67d1d9a007ccaed4c17a682eab4e16f1b0e506eff73c10
 - **Source:** https://bin.ajam.dev/x64_Windows/arch.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -150,8 +150,8 @@
 - **Version:** 1.5.1
 - **Updated:** 2024-03-12T07:55:27Z
 - **Size:** 1.06 MB
-- **SHA256SUM:** 08fb019997b9b9db5a0c71361243f647d6a99e56994cb86da645c597f514cce9
-- **B3SUM:** cba1d061218f74ac88fae7794defed0d6592ccdf09304b72af0cb1280ef51a58
+- **SHA256SUM:** 033c5496433c5f7acb5727888a45addc20b5e9fad28adb9955fd261c642aa55b
+- **B3SUM:** c1efad22f8567c3664cba9888ff1c35297d92d52b80087c8a52e7dd0c14f94bd
 - **Source:** https://bin.ajam.dev/x64_Windows/b3sum.exe
 - **Language:** Assembly
 - **License:** Other
@@ -166,8 +166,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 944.13 kB
-- **SHA256SUM:** b9379204015e4f6d6fb2e77208719608c175d5a3027d2004d31ea0d4d308f78d
-- **B3SUM:** 5b6a5ea7335a239fe8a1dcdb695d7fca5341c039aed28f658d0fc036d119c123
+- **SHA256SUM:** 1a94066c0bb15ddc165163d83447814694533afa8ff0206b754f4ae95d450885
+- **B3SUM:** fb4a7867985b82093eeb14b0cf9ed8f4d6dc9d32e888529a81fd7f609c8f8522
 - **Source:** https://bin.ajam.dev/x64_Windows/base32.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -182,8 +182,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 944.64 kB
-- **SHA256SUM:** 048b168a4f165b1ac534472a99a76c868295cfe4e5f3d56734a3a72c9e50fb6b
-- **B3SUM:** c61aad16410871372155e91814214daf9bfb209b31d0ae16fe7c5e7ceaca4843
+- **SHA256SUM:** 37493b1dd03b12d9cd258158ba426e014ad7f62a678e5e83815bc356baa3bbd3
+- **B3SUM:** a4361b5f50bf69733865158e719a6f53f39c8528d46d64eab6b54286319e110c
 - **Source:** https://bin.ajam.dev/x64_Windows/base64.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -198,8 +198,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 840.19 kB
-- **SHA256SUM:** 2615ac16505501f74921c3bb38eb025f2a735c69720aea909f34610bb20692fb
-- **B3SUM:** 97aa47f9491b433657c1b0512c4f54a4b0407affec4f7b99d28b6b3d82ef57e5
+- **SHA256SUM:** 172dff9762c1c7e9757cf10803e954b70e0dd82b3f8245160dd4cef938a9386f
+- **B3SUM:** 66764c6322a0b6da89b0f9619acdb28046ce011d6b7f724c78418a948d7f3b3c
 - **Source:** https://bin.ajam.dev/x64_Windows/basename.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -213,9 +213,9 @@
 - **Stars:** 16940
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
-- **Size:** 968.7 kB
-- **SHA256SUM:** 754f43f5738855b38516cb88bd0b311bc631c4021348356ae3d4f31c2fc5be26
-- **B3SUM:** bd215ccb6c3ce81d5d716b19e27226549a89f26af575acd739502185803e9172
+- **Size:** 968.19 kB
+- **SHA256SUM:** c5fac003257a8837e6c5404cea22671501d15c62ff8e770b4bd3bad84d36c2fe
+- **B3SUM:** bf05487f0613ceaf639a278eeb2c0003c4fcbccf8702f06001f31a5477055724
 - **Source:** https://bin.ajam.dev/x64_Windows/basenc.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -226,12 +226,12 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46893
+- **Stars:** 46894
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
-- **SHA256SUM:** 5a4130f0c09a8b96dc6c64e9643cbff6779abae9d9b93e557aef6bc517bdc589
-- **B3SUM:** 7de5a4fec58987dcebbfff873590e93970f394b546e8afcf193a7828a652976c
+- **SHA256SUM:** 808ac62ad621edfb978e4c38e56bc294e0ebc462c0642cb7e62bc72660856435
+- **B3SUM:** 811314ce79c7ad7e12afa9a0d4454c4ed3b1eabaf24ce9df43d3efccd6266a62
 - **Source:** https://bin.ajam.dev/x64_Windows/bat.exe
 - **Language:** Rust
 - **License:** Apache License 2.0
@@ -242,12 +242,12 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 46893
+- **Stars:** 46894
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
-- **SHA256SUM:** 71301ebe7945c231a8778730fd0d21633925d949475a7247e57154ec65a6c7a4
-- **B3SUM:** ffc7ddf867f641ab9d8646e863e3883e280d0c8c8821aa21894fcd14695a27ce
+- **SHA256SUM:** 7975d6dd587f51aa527334c821c78bca0bc7ce4d72a5622c6879ce7a5b2a31bc
+- **B3SUM:** 6a7800838fa6918875d2652ce725c8f3f8b3cf6ecb7a1a3f5c3e0f4dfef24943
 - **Source:** https://bin.ajam.dev/x64_Windows/batcat.exe
 - **Language:** Rust
 - **License:** Apache License 2.0
@@ -262,8 +262,8 @@
 - **Version:** v1.3.0
 - **Updated:** 2024-03-14T09:39:36Z
 - **Size:** 1.7 MB
-- **SHA256SUM:** faa7830a32abe68f48b5bc9035fbec23e84799161120db6e452be42953d9e3a0
-- **B3SUM:** 387aba6264960be05d175315a940ab8256c945d915dc92440b8ec90b60a1e4e1
+- **SHA256SUM:** 55358dad2616c2414880ff72b5bd609f0a991f981d8637ac995d38c3da7fbaeb
+- **B3SUM:** d0321cd490b41c0e52e530b1bda2e0a5184fb16ec07e5ff0cde3aacdac990ee0
 - **Source:** https://bin.ajam.dev/x64_Windows/botsay.exe
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -278,8 +278,8 @@
 - **Version:** v20240606
 - **Updated:** 2024-05-10T09:51:53Z
 - **Size:** 20.63 MB
-- **SHA256SUM:** d3e91f53c0a2b36884bfe88a940ebeaece256cab6c61fa4de230b76843cfbab4
-- **B3SUM:** 75793398b19c4a52c923a0baeeee9cc57b3ac7d86633abf0cbdb9bdb4379810e
+- **SHA256SUM:** 8bd5acb624d9828564da3bd9d55151104c9cb15665ff101e067bd134c7ce1c98
+- **B3SUM:** f67e34d8b0c494800b3c5913be4674d747f4b044a695ddea485444bd34aa6d1b
 - **Source:** https://bin.ajam.dev/x64_Windows/brook.exe
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -294,8 +294,8 @@
 - **Version:** v2.2.2
 - **Updated:** 2024-03-03T21:42:49Z
 - **Size:** 25.75 MB
-- **SHA256SUM:** f82ffc3f6f12db9c05c558c71f75b2bc0f75926f0ec6920598a93e274b05e54a
-- **B3SUM:** da63a0561ca867036869ffb808ed77df910736e070a8a6326ace1daa753ae04b
+- **SHA256SUM:** 3be702fe17df6d493584618bda08692048ff656f0f1291b30da54c4c067eef38
+- **B3SUM:** 9eb0ed7fbb8d13f4397f3aefa41205e398dd676a16f338785117448350f7accf
 - **Source:** https://bin.ajam.dev/x64_Windows/brutespray.exe
 - **Language:** Go
 - **License:** MIT License
@@ -310,8 +310,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 861.7 kB
-- **SHA256SUM:** 2268c4d54d0899069f644a182c16b28d572666512e77e83a6bf5f9e7561bd3c5
-- **B3SUM:** 4bbb278d30d4aa5dde29cf867b9593b5725551bec9d43b73eca5067482174e48
+- **SHA256SUM:** 076e43f74c0b236d72274e58689511a6175e3af1d4b582c69a3e33adc18b0ca9
+- **B3SUM:** d80a747e6ab784a88c47561bfaf29f6acf6268c933d046247025c4555066ac4f
 - **Source:** https://bin.ajam.dev/x64_Windows/cat.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -322,12 +322,12 @@
 - **Description:** cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - **Author:** cheat
 - **Repository:** [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
-- **Stars:** 12008
+- **Stars:** 12009
 - **Version:** 4.4.2
 - **Updated:** 2023-12-15T17:55:49Z
 - **Size:** 11.57 MB
-- **SHA256SUM:** f0a57278486d9388cef0fae4c147bf85b989c87588385f488753032a89646785
-- **B3SUM:** 1ad722f9d271cbd73f6f60d889090cff41684d38fecdda9d1edd327ded0c18d7
+- **SHA256SUM:** c1ae86a8aabf5d05720dcc8897d6570393e001e898acadfcf1a4601b1260a689
+- **B3SUM:** 3c0fc6cc29d49339774845bdaf67f60964f795a4b0ec356481dcdc165aba8ea7
 - **Source:** https://bin.ajam.dev/x64_Windows/cheat.exe
 - **Language:** Go
 - **License:** MIT License
@@ -341,9 +341,9 @@
 - **Stars:** 16940
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
-- **Size:** 1.03 MB
-- **SHA256SUM:** 2b5760d2186c26e92716b827416381d104a2b5a2fd7b91d33f00714f16df80fa
-- **B3SUM:** 73b19048c9d8285d5d397ddfc10421ce5aebbd42373f1827a89081e73e0c387e
+- **Size:** 2.48 MB
+- **SHA256SUM:** 034a4808e0d0dee924cdced200966626845c7db90015e413386ecd46ea2e7bd3
+- **B3SUM:** e8eb059b666a509e1c3397434abd60b97eb4526c197de4c7d3c88b35c59efe58
 - **Source:** https://bin.ajam.dev/x64_Windows/cksum.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -354,12 +354,12 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 8103
+- **Stars:** 8104
 - **Version:** 2024.5.0
 - **Updated:** 2024-05-16T16:21:18Z
 - **Size:** 27.01 MB
-- **SHA256SUM:** e80137b5a1250680f154c51fc70e6c212e721a9be14616a15a3d295bc2c20970
-- **B3SUM:** 81f1f5a241b5ad6bb7af31b53c4884185ed1817c202462020e475d2cad095a3d
+- **SHA256SUM:** bdb3d5999e96a3d75ce592bbfe9aba7c1d77dd5e5cebff44fb530ccdd304778f
+- **B3SUM:** c15ced1aa9a96047cdde88d34b6c2be3fe70ff16f5f40d24908770d70efd2030
 - **Source:** https://bin.ajam.dev/x64_Windows/cloudflared.exe
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -374,8 +374,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 842.75 kB
-- **SHA256SUM:** 91a1f94733884cacdce4023abbe89a59908e8ed78496f9b23cc5d38d3277cd4a
-- **B3SUM:** 17fa60ff7b2375c55f6650a85282d81381dbdd900364c1bf358da711197b9b34
+- **SHA256SUM:** 2312e5f40509ff3e839b9aa8dfd3caeec734db3a4fffab9ce5301af46b299788
+- **B3SUM:** 2e240cc5e21c592c57b4be2b1a9ab9fbeb9adb3e28c04e2ce5546960e51f6e4d
 - **Source:** https://bin.ajam.dev/x64_Windows/comm.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -389,9 +389,9 @@
 - **Stars:** 16940
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
-- **Size:** 9.62 MB
-- **SHA256SUM:** b0fe5a5267b78fce7ddd89d98a4afcda62ff8159788768fc25aac072ba13a9fe
-- **B3SUM:** 51a549131826197e59f7bd76cac2bf6be194e63fc6c328e1e9d985f1e42a1b46
+- **Size:** 9.66 MB
+- **SHA256SUM:** 2782b4cb8f1632681aa8eb4f4508d258743117ca6f7570ab0f4c560de0a21e2c
+- **B3SUM:** 3a07a1969423f39364d64e019c7dd89dd46ef50e97fbd269d852ebc820e4b5bd
 - **Source:** https://bin.ajam.dev/x64_Windows/coreutils-rs.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -405,9 +405,9 @@
 - **Stars:** 16940
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
-- **Size:** 9.62 MB
-- **SHA256SUM:** eb0f89ed17776efcc6e9e6b2762fee408c32883c1d8b28aff5f2c6e403e7a4c8
-- **B3SUM:** 223380afa6d18f2dbb0ea7259cd068f7fda33a6af138cb7d377bc7873f12abd5
+- **Size:** 9.66 MB
+- **SHA256SUM:** 2d3c4525a5967b3ce0a97a5fdc57ecd85d33f5f8eefe7d68c7c35c106110eed5
+- **B3SUM:** 251e970c1e5dc820e640602435ee06165e60966c71e6f9856dad14a1917fcc02
 - **Source:** https://bin.ajam.dev/x64_Windows/coreutils.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -421,9 +421,9 @@
 - **Stars:** 16940
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
-- **Size:** 1.29 MB
-- **SHA256SUM:** 9c40c808690fcf5ff8750f0d2904134399510541922aadb235fe042fdc89af25
-- **B3SUM:** 560ab9f9137cc698a19388c9b83aafdc34b20761fc3ec912221a12f654f277c4
+- **Size:** 1.3 MB
+- **SHA256SUM:** db3864d22b2e0f2da2edc29704ae378a4f4dfcc68cfc2324c4acc5bb95f48ffe
+- **B3SUM:** e35e585d2520c89459306db883f4d75a0185a990842ae63f79b04ecaf5268040
 - **Source:** https://bin.ajam.dev/x64_Windows/cp.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -438,8 +438,8 @@
 - **Version:** v9.6.15
 - **Updated:** 2024-04-06T16:44:27Z
 - **Size:** 8.63 MB
-- **SHA256SUM:** 5589ff866ea02952a06e0645dd5bbe39777a65c607f9e19debd10d02b49b845b
-- **B3SUM:** fa7ce66c49d75cde4bbe825b6e7618ac76204c5bdce94d4e5ce4b444ac1ea904
+- **SHA256SUM:** cfdd978669760ac31bf02cc3e3f52548d8dfd6557247f56eab3e39fe393bf7df
+- **B3SUM:** 52e95530868f2bacc2f972f930c2b49d38927ee1aacffec4748492225d6aa7bb
 - **Source:** https://bin.ajam.dev/x64_Windows/croc.exe
 - **Language:** Go
 - **License:** MIT License
@@ -454,8 +454,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.32 MB
-- **SHA256SUM:** 48865d07014f6266f196e0dee54face1eacb3d684d517f2f0b87d0739c86dda0
-- **B3SUM:** 7114f0c6a485d821c2c3c9db12a743caec57ae30f4f11a5ebe49d6db4af74552
+- **SHA256SUM:** 00fb340e244e77ced3e0d4e2608a3e59744df12dc88b80772b580ce47deb9eb6
+- **B3SUM:** 6046db06405fce2a011e8440dd44afb6a3224a2732b49b98348bbe166ccb1ceb
 - **Source:** https://bin.ajam.dev/x64_Windows/csplit.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -470,8 +470,8 @@
 - **Version:** 8.7.1
 - **Updated:** 2024-03-27T12:20:22Z
 - **Size:** 7.46 MB
-- **SHA256SUM:** 9b4410d866d3ed6db9815dc47e5f6930dc8356ce55f637a0117fa9adcff6bdf6
-- **B3SUM:** 0edca09c1870e65b70043a84d3be9afcfbb9962ad750233b592d115fbcb2c1d6
+- **SHA256SUM:** 3a0c470808a203c32d82d8bb09e6ce52cfc4ac49e061bb99c2ae9a6ddee9d1de
+- **B3SUM:** b0dc1314c5197b33eabc819a6c364dc5f0abd6e751ac132e94b7b4c6ecfa833c
 - **Source:** https://bin.ajam.dev/x64_Windows/curl.exe
 - **Language:** Shell
 - **License:** MIT License
@@ -485,9 +485,9 @@
 - **Stars:** 16940
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
-- **Size:** 909.82 kB
-- **SHA256SUM:** e67504effc9dc82057e8cdac4646ac5ea5db6933b71d7f41585e32baf6c4f605
-- **B3SUM:** 887ebcbdea41c40c2735f63f42721efa9dccfb68ead382b8ead607ec9bf51417
+- **Size:** 910.34 kB
+- **SHA256SUM:** ddf2740672bbb09fbe7388173bbdd6c1b7673be28e2d4265ca6864eb409745ed
+- **B3SUM:** 091c2e7df6e7e67f860eecc9575ef0117f6b6f08d1830dd534602aecdddf1be5
 - **Source:** https://bin.ajam.dev/x64_Windows/cut.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -502,8 +502,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.38 MB
-- **SHA256SUM:** 6127beb32f1799537aab9c2dc992a3c367f4470f1af59e4abf8aa0da855203ae
-- **B3SUM:** bcb445cc10d75f08a8c559d87f85352f3610c55e0aa40f3a315ee17e5cd971e1
+- **SHA256SUM:** 3dbc55be94dbf8bf6425aad82edb5527e367c13bc9afe590517ff390056beffb
+- **B3SUM:** a6e954463424d29b4546fe38be84bb500b8c00f3b495b4a23b90b79b9bbe2d4c
 - **Source:** https://bin.ajam.dev/x64_Windows/date.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -518,8 +518,8 @@
 - **Version:** v0.6.11
 - **Updated:** 2024-03-27T10:33:57Z
 - **Size:** 30 MB
-- **SHA256SUM:** aee35148a019ad70a144e6174ffd7b953bb5c516c5983d446f9bbd0f141f35f7
-- **B3SUM:** c4ce0d53a74ec062e012d5cda7aa94531de1f1d921d2b1a003d1468cd6db3395
+- **SHA256SUM:** e43edcccec5fa81853dcdeb3d41248bd3e9fd4e084e57e4c86679a7bbcb5c240
+- **B3SUM:** 0c237713372c29cea742fbdb44022b07bb90d1464ecd871b5c2b6e8c5242eceb
 - **Source:** https://bin.ajam.dev/x64_Windows/dbbench.exe
 - **Language:** Go
 - **License:** MIT License
@@ -534,8 +534,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.02 MB
-- **SHA256SUM:** 46c72e828e6b0b8bf725b115bd8218a635f89817866f49309d0a71eee599c6a2
-- **B3SUM:** 6c2122bb2e3e05132447acd79ce60188eabfba7544222e548c659591cd52e1a0
+- **SHA256SUM:** adf56a076fbf8a0b45b0174e74bf209f5b669d95069ac12b0b0c9f3ed552b42f
+- **B3SUM:** 93d2266cb26b151a94a8a013f159888c09a5afb205067b5d77d112c0052a04d3
 - **Source:** https://bin.ajam.dev/x64_Windows/dd.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -549,9 +549,9 @@
 - **Stars:** 9822
 - **Version:** v6.6.0
 - **Updated:** 2024-05-19T12:03:59Z
-- **Size:** 9.47 MB
-- **SHA256SUM:** 7e97705e0ce91abaaef24458169f86df6028c0fc2463ac9900fb82ef54f3fbd7
-- **B3SUM:** 7105ac6e9af42956f54477e51ea1d92d9b099fdd8823e48803bb147eba1c6854
+- **Size:** 9.5 MB
+- **SHA256SUM:** c71ff39a3564801d457662d3a8987273b60ba949f05840baf9573fcf15d587ec
+- **B3SUM:** 0387268f1fdac85124a34cc321410aa1c5d4c3d78204cc509dc887021f810f78
 - **Source:** https://bin.ajam.dev/x64_Windows/ddns-go.exe
 - **Language:** Go
 - **License:** MIT License
@@ -566,8 +566,8 @@
 - **Version:** v1.2.4
 - **Updated:** 2023-08-10T08:51:33Z
 - **Size:** 3.06 MB
-- **SHA256SUM:** c7607b48f304cb2ffae61151021af20921f4d450485440ceec025a90c9ebcee5
-- **B3SUM:** 936138d8ad1a63a76610626b2752513a5a3fa0be4bbdd2378c8f26f61d4bcabd
+- **SHA256SUM:** 84875d8d56783ce25b29ad4db93fcabd7d281853961b150c106dc69613ee068c
+- **B3SUM:** 29647bfb04039180c14178ba0a345cf88e391c24ddb6d88b5b4c8ccf7917e0f6
 - **Source:** https://bin.ajam.dev/x64_Windows/deprun.exe
 - **Language:** Rust
 - **License:** GNU Lesser General Public License v3.0
@@ -582,8 +582,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 962.56 kB
-- **SHA256SUM:** 9afd07e105d0313dcd7a587447658e059f5a0797a964d5b9331aff1fda8eb30f
-- **B3SUM:** 556def5d373bab2acca0aaae4439861d6d385f936bdebb4c1d4be01d2d7cb11a
+- **SHA256SUM:** 9a9351b18b0fa3c5053e8a17704a4d0b26642852e030e2f3b6fba74e9069f3c5
+- **B3SUM:** d7018b13c927775ef27ea00772393db3988cfd3db768e5d74ab7c9227a1fc527
 - **Source:** https://bin.ajam.dev/x64_Windows/df.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -598,8 +598,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.25 MB
-- **SHA256SUM:** cfa9bcbd3b64653ba6dd7300c5af59ecbef4ef580d4bf1d25d4be79d58a12877
-- **B3SUM:** 4914ac37fec23050411a1edae9181b5590ddde8f2e32ac2cb51eabb1caad8647
+- **SHA256SUM:** 65b93dc5572db8da015ed2e104710bd6f48ddf203924e75f4667a93b1ad8592c
+- **B3SUM:** c14c5e0b659a461f8c71d6ba620904c4c5d8fe3126bc8bce0d55726fcf13f5a9
 - **Source:** https://bin.ajam.dev/x64_Windows/dir.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -614,8 +614,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 901.12 kB
-- **SHA256SUM:** e908c3e5e7b863b1fba837647f00427bbeba9fc6ae451f70b18837eb3dd1fb87
-- **B3SUM:** 492911d8f36ea4d10c89786799cdc6a974cd262d02e456228e47d552afbeb315
+- **SHA256SUM:** a968c065d14c1569e29194f1becac271e08a154aec538a556d1b9078695ac8af
+- **B3SUM:** 2b0a0eedcc6ab5df041caa3690b1cbf59a2d4e21aac6f383330205f5888037c8
 - **Source:** https://bin.ajam.dev/x64_Windows/dircolors.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -630,8 +630,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 816.64 kB
-- **SHA256SUM:** 868ab489339436dad28a2a232e33562ebf492a8c695d5c212a5f2a74efb414be
-- **B3SUM:** 3dc4c846238b6db8c69b050badcc7a101b9ee38bd9ff5e31ffacae09281d7b5f
+- **SHA256SUM:** 15c64119dc49bf1c3285ff7872b43ee22cd1dd615ddb8a0d3bd6788cf81b978b
+- **B3SUM:** df34569a7fd8470cd208c1f1a6a6329e731ec42627488c617199ca243731a8a6
 - **Source:** https://bin.ajam.dev/x64_Windows/dirname.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -646,8 +646,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.12 MB
-- **SHA256SUM:** 078c053072634a2a733aaa4f423c78b9b967aad7e0a63faaffda5b22d347793e
-- **B3SUM:** d49fd4a16e72269ec0aa398c072fd1db4499635a9264144bcb46535a37283e51
+- **SHA256SUM:** ef03b9bc38246d90f0b8c17a9dc0e3b7da6e5ad82311d1102d96a9000ed5f912
+- **B3SUM:** 9f53bb9d3d2998278688559772d19c115263f72afc55d3bbcf4d3380c0b30157
 - **Source:** https://bin.ajam.dev/x64_Windows/du.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -662,8 +662,8 @@
 - **Version:** v2.29.0
 - **Updated:** 2024-03-10T07:28:39Z
 - **Size:** 1.56 MB
-- **SHA256SUM:** 684afc040ae9fc839c807214ccefdace79d8b50b0bc8dd7df024a927c2b4e5ce
-- **B3SUM:** ab445eb08386c601ed61cf5db24c2cab6e13775f00d29c0c3a77f0da5274cbaf
+- **SHA256SUM:** 6bf14dfebec886727bdf5ef9d19ca9734fff43a50252618955928429f349d29b
+- **B3SUM:** 15c16b1f5d91bc206084828cdecc4f943ee407e5c050d6c2fd9da541b2ed40bd
 - **Source:** https://bin.ajam.dev/x64_Windows/dua.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -674,12 +674,12 @@
 - **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
 - **Author:** sigoden
 - **Repository:** [https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-- **Stars:** 4949
+- **Stars:** 4950
 - **Version:** v0.40.0
 - **Updated:** 2024-02-13T04:15:03Z
 - **Size:** 3.68 MB
-- **SHA256SUM:** 4de96119e0868d31343919f055e618a5eae8f7da0bc875b1e37c4e285a68b2b9
-- **B3SUM:** 52a11fc2ba7e232eb43f14ee32ce9b25a457bd5c88b4d3ba11005d01f5ab655a
+- **SHA256SUM:** 4d3bf54e2596948d5588d7cec456836f605e4f0f4364425a08b004c1a875c44c
+- **B3SUM:** 9ee6cd4e73f6305b036362cb10d56061be728abe32dd34dcd46395035b26232a
 - **Source:** https://bin.ajam.dev/x64_Windows/dufs.exe
 - **Language:** Rust
 - **License:** Other
@@ -694,8 +694,8 @@
 - **Version:** v1.0.0
 - **Updated:** 2024-03-25T22:44:47Z
 - **Size:** 2.79 MB
-- **SHA256SUM:** c9decd787e2c411a48df2126d0c516db1679912f71f9bace10536692e6a4596d
-- **B3SUM:** 2440f314758216e55ae342f9ad35abd425ee1fc9e8ddf8f8eb03621dda1af264
+- **SHA256SUM:** 0613fba4b8206417fb3fe5da9aad7481e7dc584df1e7efa4fb1181a239375918
+- **B3SUM:** 6da760ab59cd8440b94d6c43394bb83eb3d3bc0f5fb9ba4a36122dfaba6aef5c
 - **Source:** https://bin.ajam.dev/x64_Windows/dust.exe
 - **Language:** Rust
 - **License:** Apache License 2.0
@@ -710,8 +710,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 815.1 kB
-- **SHA256SUM:** 631c93e1b73836131ac0eb7722ecfe04b9e6d7673648f34c187bec73538a46e9
-- **B3SUM:** 6329bf7898ccb177a242acb05fea2538494a92425b8f4c18f35e3bc28f8dafeb
+- **SHA256SUM:** cf0f2b40b4b09285fe711f3aa2c1b347262bc5c3f002e6a239d8a3a8ce3283d8
+- **B3SUM:** feefea6437935381e697d2e38b5da22836fcbb33a890eb534aa717e9785f01e9
 - **Source:** https://bin.ajam.dev/x64_Windows/echo.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -726,8 +726,8 @@
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.94 MB
-- **SHA256SUM:** 269012a88f4beee737fe220579d4b11ede572fdf2b96331989a4c41b38c35d61
-- **B3SUM:** 25eb53d3a21c9955bce08be7ab4a8d086d6dd69d428a6d399df0b005e09838d9
+- **SHA256SUM:** 955316e775cbad6ab84cb113b40320d06ca7e32cf377023a0183e58748b86fcb
+- **B3SUM:** 490ea4745f54f66d7a55a4f1e925bf5f3330089f97ff69ce13c9831cb6c722b3
 - **Source:** https://bin.ajam.dev/x64_Windows/eget.exe
 - **Language:** Go
 - **License:** MIT License
@@ -742,8 +742,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.02 MB
-- **SHA256SUM:** c3aa7579a27f41e0b1f6d5b219687e8d699c243a159950a52a6e981ff2a5b820
-- **B3SUM:** 6990e7b03fbcd0081e5042aa46f42acff30d6d4261fe41e466c39779778d70d4
+- **SHA256SUM:** 338cb6e45b102d050959afb524b4cc73c15814a423307aa3237d0da29b0f225e
+- **B3SUM:** 2a138d6bc21e8c50c69cd8581bb0b03c54d6b4bf0993be3feeda1525b34daf54
 - **Source:** https://bin.ajam.dev/x64_Windows/env.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -758,8 +758,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 872.96 kB
-- **SHA256SUM:** 48f4f012d6fc3dba35e161724eefcc758f5a0f09204ce34519d9873cebbfacfd
-- **B3SUM:** b28928893f656590ee187deb22ab0673aac7db1edeadc040e93e5e4f3ef781c3
+- **SHA256SUM:** ddf2d3d021e5649d7741c8714c7b4a63ad67e9decca8a230ee637976b6e41062
+- **B3SUM:** 2e67019be4ac446ff0802a012f60042d32f0453da43a8402292807a03287b99f
 - **Source:** https://bin.ajam.dev/x64_Windows/expand.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -774,8 +774,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.43 MB
-- **SHA256SUM:** 0390f85edc2bbe574b8c0d1efbc1db9d7ec156fb96659261431217e4b772000d
-- **B3SUM:** 987e5fa4fb889ef4dd600aef7c963e60c7ddeb5bc0cd191e5468b21725333544
+- **SHA256SUM:** f62ce4c86ab98587f97bf68575f05f645023b90434c3647ff12908c04584581d
+- **B3SUM:** 8cebbd74de704b8cf422e26b54e083b553eec8d39528b1edc081c8bcc25681ba
 - **Source:** https://bin.ajam.dev/x64_Windows/expr.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -790,8 +790,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.23 MB
-- **SHA256SUM:** bd9d9f9b222ab41531dfabe1aa0ee79c9d416c08327a1972b4b59907d170443b
-- **B3SUM:** 9293b131f3583172e1035f051582d23feffb78af4899ac7a4369c86b8968b92b
+- **SHA256SUM:** 41a5ff12e921536982fa948ea16d8839540840e89b2b2c0d50154beab318f81d
+- **B3SUM:** ade5144e909cce3618ef749fbda2e05f7f88090d6308406784b3a2020db2d507
 - **Source:** https://bin.ajam.dev/x64_Windows/factor.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -806,8 +806,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 758.27 kB
-- **SHA256SUM:** f3f4c9a761bce50aa708a48dbe082a6e2c143f3f62b8d4c511ec6079fe66839a
-- **B3SUM:** 400e102defd7b61a5285822587810ad4e95d19ec66ce428abe365909a346d7da
+- **SHA256SUM:** 76d3377a834a9967d4fcfc008a8241aa79f5ce6c9c5c36497ac9b938b8722de9
+- **B3SUM:** 3f9da061c8b32d623baa52191bc4bcef957a19ae969d11a9e3f1f18e16550bfc
 - **Source:** https://bin.ajam.dev/x64_Windows/false.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -818,12 +818,12 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6475
+- **Stars:** 6477
 - **Version:** 2.12.0
 - **Updated:** 2024-05-14T08:11:05Z
 - **Size:** 1.35 MB
-- **SHA256SUM:** e0c89c392fc747241aa3f52d973444e3d4d8436a311aadcef7d9ca3ea4aea26d
-- **B3SUM:** f946569e69407c6f3db3f7402b595ca20298e214312615b728428d0d622252eb
+- **SHA256SUM:** 57728cf249507d249f06c3d64d9de60501fa41b323372c332af8973692ed9f52
+- **B3SUM:** b8fc00d36557d3e2f0e93de5ae3764f129415c3137694c4e96d1e8a033cb4352
 - **Source:** https://bin.ajam.dev/x64_Windows/fastfetch.exe
 - **Language:** C
 - **License:** MIT License
@@ -838,8 +838,8 @@
 - **Version:** 0.5.0
 - **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 2.13 MB
-- **SHA256SUM:** d249b0f02bc0254aab40561406d756d76451daea1365b77000ec352e49c30b61
-- **B3SUM:** ef3a4414ab6978627b58b29d748b0933f44fbab6f8c1aceff588fd9b743ee60d
+- **SHA256SUM:** e10c8217e029c58cdf04dab184051eceeb31fbe8fefb2c97da579fc5ecca134e
+- **B3SUM:** c5874ae5a8d72888824bc234c8c8f1ad0f8fb96692f6cb14462f700582dce463
 - **Source:** https://bin.ajam.dev/x64_Windows/find-rs.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -854,8 +854,8 @@
 - **Version:** 0.5.0
 - **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 2.13 MB
-- **SHA256SUM:** a6fb3cd11e6ab67130865e12c8ba9f2fbcc1228acb09d5251b5268a51fb1fbd7
-- **B3SUM:** 14cefef73348cd397452def944190b79ee1eb9edcdfc75ac9d1d2e930df81d12
+- **SHA256SUM:** cad029a28b1d39c023e843b9536b63ebf23ce6da23d3798bceb1baf82e2ec79e
+- **B3SUM:** 67cfe15801eec4bb1788fd43c514a2a4ce0c38dd57e3ef3eb243da260c03a3dd
 - **Source:** https://bin.ajam.dev/x64_Windows/find.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -866,12 +866,12 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6475
+- **Stars:** 6477
 - **Version:** 2.12.0
 - **Updated:** 2024-05-14T08:11:05Z
 - **Size:** 1.19 MB
-- **SHA256SUM:** 90febdf643186214becb3c72f79063ea72a2dafde865ed81819be2763354147a
-- **B3SUM:** 67f916e0595ea57d83ab10494a1f470c317d74215b2f3e5b7a5f23d25cc08c0f
+- **SHA256SUM:** 1a8fd2e24fdda4592ae06fac1b0fef5a5913a33f7b0657973a9e0c7fdb79634c
+- **B3SUM:** 21210567b481ed0ab27a9e259ec17c90bd7cc3afad8284a6c8b36c541274058a
 - **Source:** https://bin.ajam.dev/x64_Windows/flashfetch.exe
 - **Language:** C
 - **License:** MIT License
@@ -886,8 +886,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 903.68 kB
-- **SHA256SUM:** 5a3eb6db9d36060f9815a67b8ead5d3a755201eacc6da5b416bc6a0f8f20e72c
-- **B3SUM:** 9c8e322af0c87b041a7cd6b17a4917b0d4e13eddb39349344b2ab57e3ef1db7a
+- **SHA256SUM:** 5df325f270bcdde1aa86beb6e3bd1b9e60c5ed523906cdabf71bd2b819d642d1
+- **B3SUM:** b225e614dde2b799da2641eb600eac021a9d13b4212b64fdd64662e7a0ecec2a
 - **Source:** https://bin.ajam.dev/x64_Windows/fmt.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -902,8 +902,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 859.65 kB
-- **SHA256SUM:** 88e414b7ea4aca4926ead684d5169f068623b7bf50cc8dfd8350f87c3737eeb9
-- **B3SUM:** fb4934edd6c00305aede85d82ea146efb672785cb711a8fca8d241aac6664904
+- **SHA256SUM:** 77fc7be0c3bfcab81b6dd0733bccb30afc1728ac36bbcd54dc744009d9a96999
+- **B3SUM:** de956d0582913f837b6e2a191e1b23d6c50a0ce3a69f79b9e1e736edc027b4b2
 - **Source:** https://bin.ajam.dev/x64_Windows/fold.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -918,8 +918,8 @@
 - **Version:** v5.28.0
 - **Updated:** 2024-04-21T10:13:08Z
 - **Size:** 14.23 MB
-- **SHA256SUM:** 950acd94e6f4825dbf585cf93c745b52256b6e10ce17c1d729eb6afa64db3d3f
-- **B3SUM:** f4fc3b8896eeb26256b251b6445965117df3154e78b75796edf9df3d897fe0d5
+- **SHA256SUM:** 0a4fa011288d155932559e776ab07249c557dc41dadeb4d620584ae7c6bb759e
+- **B3SUM:** 12838774e651591af8ff3b7169c4885673f3dfb96382be661adeaa59bdca6ba9
 - **Source:** https://bin.ajam.dev/x64_Windows/gdu.exe
 - **Language:** Go
 - **License:** MIT License
@@ -934,8 +934,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.48 MB
-- **SHA256SUM:** 029eedb6933ca236b93d5985df5bb8b54b62bd1ab8e4a938a5003079e68759fd
-- **B3SUM:** afc89305f22ab734222ce0b2679166c11e5a2da2ecc745653d5f3887b554fa80
+- **SHA256SUM:** 25d28c155f2c438f914782e96e69eb9c11aa645423079507f00c8984d755b656
+- **B3SUM:** bdc3ff0cb9041fa6edd15acbe35aa83f6ca71b160fa0ca2c1e7be696445995af
 - **Source:** https://bin.ajam.dev/x64_Windows/hashsum.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -950,8 +950,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 899.07 kB
-- **SHA256SUM:** 84e7300ed2a7af438e8c4b9ec9ac882fcba427a83d93e2cc5245e42e639cfa0a
-- **B3SUM:** b89e840249167414b467832d520c448ef3757235a44b7dcb90fc38de1a20f3e3
+- **SHA256SUM:** 131272461e86b98ef1b3e8aa0a136ea2003151bc8670ec06035dabe3bca1a793
+- **B3SUM:** f67744d37c53102f961e9ad0d0a392a9cb13bd6a9752ec45595bb6e823dfdcdf
 - **Source:** https://bin.ajam.dev/x64_Windows/head.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -966,8 +966,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 844.29 kB
-- **SHA256SUM:** 4ca70146be02a41f6e35df3ed91300674921ef8f5277ceba9b84546e237cc958
-- **B3SUM:** ad53b5ca6311f41bb7955f9792077e4f107398532e6e4346396587861db24e92
+- **SHA256SUM:** bc2f3a72803cc1c6bc97633445ee480ba421d3aae8f002d45518c2d331138a2d
+- **B3SUM:** 06bedf2f09c28b635ec75d139661716a5a95ed476f6a2a2cbefbf521aa924f15
 - **Source:** https://bin.ajam.dev/x64_Windows/hostname.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -982,8 +982,8 @@
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
-- **SHA256SUM:** ed5c9379c3457e49e6711612ca7e30335683d68d47cb7e1d18d39a56d6a7981d
-- **B3SUM:** 77dbb2ac3be30c9fa59582162de4b7ee204b75853bcbb9c61f11106d3833dfb0
+- **SHA256SUM:** 5df27804e3eb4e57e588a20711e4cefe87bbfb4733dd84321b66795bfc6184f5
+- **B3SUM:** 279cb44245751b7e78994e1c26443b5c90273f137c1d65822b0d33ae655b2fa8
 - **Source:** https://bin.ajam.dev/x64_Windows/hyperfine.exe
 - **Language:** Rust
 - **License:** Apache License 2.0
@@ -998,8 +998,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 913.92 kB
-- **SHA256SUM:** e9bc6cba932bda8d4cffc35b90e8f8f20db0b0f283bd207040d5ade817097069
-- **B3SUM:** 6ad6569965cba780d8f2b48f0edd3d0a0995be0ddb6811f6aa045d2e2b4f5c5b
+- **SHA256SUM:** a9081b249f47480581d7ae5f007e965e93607c74ee367ccc72ef3e58d88804ec
+- **B3SUM:** 2733af5bc3b0f8073b90615b4adf56b8b4968815bdd95f10284fed6a31f8f91e
 - **Source:** https://bin.ajam.dev/x64_Windows/join.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1014,8 +1014,8 @@
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 985.09 kB
-- **SHA256SUM:** 7f978c6bf1ee8d5f1225b38a990487d3d0e1403247fbf87ad2a73b7457ef44fb
-- **B3SUM:** 8de06b612581de9f8d704516e8f2fe0470bcab6ad589c0782dd1679726b78866
+- **SHA256SUM:** 3b904536f6d36808b821bfbe5642dfbb2ace2ed714589f1900b1a843c31fa9a2
+- **B3SUM:** 02b635ab93888d9066641eee20c70155b96afdb072e42407ae8a90f4aee8b133
 - **Source:** https://bin.ajam.dev/x64_Windows/jq.exe
 - **Language:** C
 - **License:** Other
@@ -1030,8 +1030,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.91 MB
-- **SHA256SUM:** c732f0d2e12b6fe71d4ab2f737f0f2ec275ecc4533feeb2d3ea836ff76c17858
-- **B3SUM:** ce1a018e9df3305fa22d82c8ce3627600e8d7eb9a22fe28e1b15a7c6ac4cd2f5
+- **SHA256SUM:** 34adf886707af1a1540a88fafaf3664ceaf88115bd0ab14c640f2d2b7ada56f8
+- **B3SUM:** 93208c75298db71ceb33f086dc282e99c21a6c7c82867b9dc94991d97b76453f
 - **Source:** https://bin.ajam.dev/x64_Windows/jwt-cracker.exe
 - **Language:** null
 - **License:** null
@@ -1046,8 +1046,8 @@
 - **Version:** v0.8.0
 - **Updated:** 2024-01-30T11:48:39Z
 - **Size:** 22.23 MB
-- **SHA256SUM:** 1a20b5e031e94d33448e5bb56bc49910518e16692550c1fef357112a877f48ef
-- **B3SUM:** 5f4d0d93084c9fc0af5b7042f62ae5d66d0e43aef710f239db0a1195af6ea552
+- **SHA256SUM:** 34ecebb300abf00341bf35e6d3ae5845702436689162dc976351bd76dbf4be86
+- **B3SUM:** 7626c4f0411a7ba9ec217a5282bdd00defde12229507239d94474d0c519cc164
 - **Source:** https://bin.ajam.dev/x64_Windows/legba.exe
 - **Language:** Rust
 - **License:** Other
@@ -1062,8 +1062,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 829.95 kB
-- **SHA256SUM:** 29549a74e1c048fa32c693716d056e1be509404da55849b46e6f4008dfa005c6
-- **B3SUM:** d7e8b656375297f1ebfe1d9ecd5a33514fbb1af9987d2ce19ca5ee46436cff10
+- **SHA256SUM:** 43e94a2b00e60c591fda4ac7301c24e00b9a9e799d7b05d4de7bc2ef4aee536e
+- **B3SUM:** cf53df3baa172b4d6eed15b4bb620f33f48b0a969e188175e276d1c9693fc851
 - **Source:** https://bin.ajam.dev/x64_Windows/link.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1078,8 +1078,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 929.79 kB
-- **SHA256SUM:** 9ddfbc96f83ea67585699ffe10463d1ea0ba7412e6d846ab0deec7cc35802587
-- **B3SUM:** f5f2fbb4a33ab6d22bb007199fc041be9411608a0a93d07ba3df2e4dda1157ef
+- **SHA256SUM:** 5f05ee4fc92c73491bde99d17aeed3ffb95cbb8558b2cbe6e22e2e1721c02a4b
+- **B3SUM:** 023a8b3ad643f476b476c33a59e97baa0b89bef09d603fb77ac549cdf80e2dee
 - **Source:** https://bin.ajam.dev/x64_Windows/ln.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1094,8 +1094,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.27 MB
-- **SHA256SUM:** 58570675364319a85ca47fd408e016ed0eb529d7bba0ade5223d8a236ac87a0a
-- **B3SUM:** 104f6416d69157a7804728391e2276a08d3a8fe14abb9c0d76b7667bce8b02c3
+- **SHA256SUM:** 57138888af456a2ccf61a87e95e341abac749d0a478f545e5fd4a86d33694a24
+- **B3SUM:** e000d82bac385267e65347e39e6d4309dffd743a8c552cc90339cfa244e733be
 - **Source:** https://bin.ajam.dev/x64_Windows/ls.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1110,8 +1110,8 @@
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.88 MB
-- **SHA256SUM:** 4f9af640af9114622f886161191a6c4346ad46cbbe98064ed4d8d6cd1c060b66
-- **B3SUM:** e16f701af908bd052108c3fef9d80360753522f6f2c6ea818994274da4e91254
+- **SHA256SUM:** e27069158f168b83fd6a99bbb404214650cee6cc7bc496d3766502ea7ce71b84
+- **B3SUM:** 7cc16187cf4e08b16dba69709d931937390ef8e4c382ab6ba1697e7bed9f7eee
 - **Source:** https://bin.ajam.dev/x64_Windows/micro.exe
 - **Language:** Go
 - **License:** MIT License
@@ -1142,8 +1142,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 839.68 kB
-- **SHA256SUM:** 1db22ae84d46ab851f81cabed1d5732c0d7aec0ac971e98b11924ce8683c2dc7
-- **B3SUM:** b3b995aac7e4da1c20c9412bd9370dd5ff147f690d95885fcc87820d37e4335c
+- **SHA256SUM:** 327c7d8bce5baff15b12425c47acb2c8431f0e497e9e8a09a57654b0e2073fff
+- **B3SUM:** 13a8b6e492965556abf7ae5d59275c0537a259b3c9faac9c6f2a41fc0b7d2906
 - **Source:** https://bin.ajam.dev/x64_Windows/mkdir.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1158,8 +1158,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 933.89 kB
-- **SHA256SUM:** 24cac75ec4851755204af776efa3a1adaa7f40687f34f7f25689cbca60dcb73b
-- **B3SUM:** 7accb65e9f24263a59cfef560b695f6f926e8c5f90c1721a29041499b50ddb10
+- **SHA256SUM:** f928044a800b7071d643a458f1ffe728a59d9168a3639f2b5c29d1eb293dc1ea
+- **B3SUM:** 55c9a5dab2543ae4d8f1813460cd261b824677821e6bcd400dc3ac9748cbeec7
 - **Source:** https://bin.ajam.dev/x64_Windows/mktemp.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1174,8 +1174,8 @@
 - **Version:** v2.8.1
 - **Updated:** 2024-01-14T02:04:26Z
 - **Size:** 5.21 MB
-- **SHA256SUM:** 897d529cd1a4b9129035e22cf1b3e7e4f2ae65aec2816dcb5946b67ac0f7d64d
-- **B3SUM:** af3a8c4ee68e1e0848a2225f37e6cbe49b9ef7f1e6fbae79e32418df9721f961
+- **SHA256SUM:** c31adb1f982d91c3ada9d02c40935b3ddc75fb410936c6337dc2e28b23b712ac
+- **B3SUM:** 40ac2d7d0f0396afbacbded4a21ec11c7469eb32018b0c426fa150d4e544a4e4
 - **Source:** https://bin.ajam.dev/x64_Windows/monolith.exe
 - **Language:** Rust
 - **License:** Creative Commons Zero v1.0 Universal
@@ -1190,8 +1190,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 988.16 kB
-- **SHA256SUM:** 78d777cec9535738277e2b14ba3267800f0e452ca6fa7f8113a313f2c2c1262b
-- **B3SUM:** 9d3c41117c51eb31b89c3946a735666befc0e7040eadfaa05a954fc7d0802822
+- **SHA256SUM:** e37905613654733c5064166fd24654083db3497e512b89152b9e9b86a6138be2
+- **B3SUM:** 0d3748b982d5ac6f4fdba8bd383d8109614b8c1a0dad8ac02c0ecccb8734838e
 - **Source:** https://bin.ajam.dev/x64_Windows/more.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1206,8 +1206,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.17 MB
-- **SHA256SUM:** 3c4e1268a121aa49562a839e19f542c11b43990b8ee407886ee7b4e7c17ff0bd
-- **B3SUM:** fea202e549ac83551913d191b7d0f769526f3092c270546cabe1b969b2ae5306
+- **SHA256SUM:** e08e833d372088aca2c8539788c1268c66345ca383b89aa1d36f722e4142bfdd
+- **B3SUM:** ac7a0a9f760e45ee804b7bb60d540cab5982a95a06f6bbbc31e3f89f5c84b5f0
 - **Source:** https://bin.ajam.dev/x64_Windows/mv.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1222,8 +1222,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.28 MB
-- **SHA256SUM:** d48c66ab84d9538babefbf6162c61e9f3fe3491d91fe25eb1c8923b4f465974f
-- **B3SUM:** 34f39a4444008169d35a978c1d285e33e52092b55df7b9f8cf3bb97e13ab21ca
+- **SHA256SUM:** fd4146c2afc59b8def4496fe84269fa5458b8b84408c5d37a22d123668f0b838
+- **B3SUM:** 92e3defa50e226df2506612b6fb0008526b0c303972c42ea470f2ebee5500e81
 - **Source:** https://bin.ajam.dev/x64_Windows/nl.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1238,8 +1238,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 828.93 kB
-- **SHA256SUM:** e663026f132bfeaf229b687d929ece91c6ce94b9513431a231aa6ef33b8c09cf
-- **B3SUM:** 7e6b17606902a31402ce87d603438088df72bb2bcf5e4c3988165516a1121d7c
+- **SHA256SUM:** ccc17df0780592cbd51e7ed81107c331ef9949e8c3c915a229abfbaa8e403d46
+- **B3SUM:** 5909af739e427eed3ab9afac7325c95dbac2aedadec4013611486695b2215f7b
 - **Source:** https://bin.ajam.dev/x64_Windows/nproc.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1254,8 +1254,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 955.9 kB
-- **SHA256SUM:** fdab8c569c4ebcc8aded08ab31d46ed91ecc52b2724dfafe79bc6df243367f53
-- **B3SUM:** e95e9e12049c1ab516a3a883557aae7c7e0f190b71473b7c1cb2e4714b074395
+- **SHA256SUM:** 73b5b0f967b5cecfacc178539d62c8ef3de0166f2b215b041c50f10c7e5ddf25
+- **B3SUM:** ed7433751856694c494c8b845519822a1090adc6a7e9ba031c29e90dab2d7dde
 - **Source:** https://bin.ajam.dev/x64_Windows/numfmt.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1270,8 +1270,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1 MB
-- **SHA256SUM:** a8d61941e7ee1e653a959c6d3d42827beea42ac7af0f663f73fde67854840eaf
-- **B3SUM:** eec40a0aef3e31c660471e2722ec68603f100d16b004035a0f5453945ae8be87
+- **SHA256SUM:** 0411892ca7d16df9ab1d29368a4dfb6b7a1fc2e240ffa7f91f83186c2234d91d
+- **B3SUM:** 7e5b8cc5285bfe15a1abea736e6cdd31783ab436a33459411bf0f2781e5d78e3
 - **Source:** https://bin.ajam.dev/x64_Windows/od.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1282,12 +1282,12 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32647
+- **Stars:** 32648
 - **Version:** 3.2
 - **Updated:** 2024-05-11T21:11:19Z
 - **Size:** 159.3 MB
-- **SHA256SUM:** e9389a6eb3cf83b1e438297f168c94ede7a2bbe870c77938b919a49bf182f4db
-- **B3SUM:** b3bdb281cc8ce7862557073bad29b95b6ae548b5602451ce122751e0966745ee
+- **SHA256SUM:** d0d69e0d4964b7398e04910f8387e596aef75e1d86ad563125d6a74a555d2036
+- **B3SUM:** 8322f6f0adb83d59ec529b07cc9c3aae59a212b58d2e4d43359f2866e5c7b3f9
 - **Source:** https://bin.ajam.dev/x64_Windows/pandoc.exe
 - **Language:** Haskell
 - **License:** Other
@@ -1302,8 +1302,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 835.07 kB
-- **SHA256SUM:** 3757354a050efc553f5a25b5704ee5af902f1558c4ad9bd30553e762baa55436
-- **B3SUM:** 5ff6cecbe1df5351126bb9c6c2cd18dbbd228afe4ea81230edc7d456b2f19b3c
+- **SHA256SUM:** 975a1590d74de91626cb6e0b27eb7ffa135db690724326e846d75d296410c6cb
+- **B3SUM:** 2ae80d9f7656b91aa62c67df8bed7fcbff050196ed3df8f8846601876b0a4639
 - **Source:** https://bin.ajam.dev/x64_Windows/paste.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1318,8 +1318,8 @@
 - **Version:** v0.8.0
 - **Updated:** 2024-04-24T22:27:50Z
 - **Size:** 11.55 MB
-- **SHA256SUM:** 6de4f30c8b1fd2663128ecff49b15d2506d3d5bf477b05f2e62db79bedc4cd50
-- **B3SUM:** d4251a3e4a61700543b8994b8d39d5f42ef9f408da73b25d853d1cf2b2198ac8
+- **SHA256SUM:** 149d453ac9fd7c6cd4e112d7f81c4c166b013705bfc216bc02f26c185f74a549
+- **B3SUM:** 5885893ab875c116cd86c57a836116e0917b5f68bf5621924a3789e7638e11be
 - **Source:** https://bin.ajam.dev/x64_Windows/pdfcpu.exe
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -1334,8 +1334,8 @@
 - **Version:** v1.4.1
 - **Updated:** 2023-11-20T16:13:53Z
 - **Size:** 10.17 MB
-- **SHA256SUM:** 92b46983ffec05ec1fb35e2509019f6cd56186b8c5c77090021f6f7855cc5503
-- **B3SUM:** 32f954ee7c7ae9885aca98cb390d2872efd8fc63308152fc21bf2043e509ee02
+- **SHA256SUM:** cec7e847a7892e8fbe9d7082f8595afd1056067809ac723ea5203e557e864da9
+- **B3SUM:** 29cd08bb9b40d7fd5fc11eb6b209727d735f97b07aeb1ec1f432c4b58a5d3660
 - **Source:** https://bin.ajam.dev/x64_Windows/pgrok.exe
 - **Language:** Go
 - **License:** MIT License
@@ -1350,8 +1350,8 @@
 - **Version:** v1.4.1
 - **Updated:** 2023-11-20T16:13:53Z
 - **Size:** 15.67 MB
-- **SHA256SUM:** 7e4d3688c508d67c845a8dd171c7634eb50c2d99b4832e33a6de0dddf44a5532
-- **B3SUM:** 10433b7af88457ee96e77dcfbd7a1c2c2195e9f99d488e0bd7aa2533eef82cf7
+- **SHA256SUM:** c9d748d54ed35331b48890134b484ab253fea1131dfe9e2b4f4791908619b4fc
+- **B3SUM:** 304f2c3c86e23c08e472933a6f1a5ea5970a833f60e636132b7315d98571b615
 - **Source:** https://bin.ajam.dev/x64_Windows/pgrokd.exe
 - **Language:** Go
 - **License:** MIT License
@@ -1366,8 +1366,8 @@
 - **Version:** null
 - **Updated:** 
 - **Size:** 3.8 MB
-- **SHA256SUM:** 7f216c8c37ce44bc7f7b0150ef000b6e8ab2d7e30414bbc47d6c47c307665308
-- **B3SUM:** 907f1ea6948570ee22f755b50237ff8700be937a3d9308be62136eff23226d41
+- **SHA256SUM:** 961fa83c924704721d2698f7c3315bc082fe88d8899887ec3602fa63afe8e780
+- **B3SUM:** e2d91debe127de47aaf394b1b90f596fa7e44652570d88d7a2f00638279d2fed
 - **Source:** https://bin.ajam.dev/x64_Windows/pingmole.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1382,8 +1382,8 @@
 - **Version:** 2.8
 - **Updated:** 2023-11-29T03:52:00Z
 - **Size:** 8.98 MB
-- **SHA256SUM:** dfe9eb57b168a1fad143cec0f780d48e3f84619012244141df9dad6e16353a47
-- **B3SUM:** 6a35dab1d1f7b3a5064dd2f89ba5ecf327c2963c845bc75ab505531350587ba0
+- **SHA256SUM:** 038b15bdb53eb6aa0a2db471bc99d47951a410a3eb6fd2fa3d91569b3e0b7d51
+- **B3SUM:** 0be6d2b0481b77575e99e89e4123456d34b01c7ec9896b86aec05c81c52095a0
 - **Source:** https://bin.ajam.dev/x64_Windows/pingtunnel.exe
 - **Language:** Go
 - **License:** MIT License
@@ -1398,8 +1398,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.4 MB
-- **SHA256SUM:** 351ac530e9fdc04e809868ff18dd134566fbb22e35a685e3acbf458fa42a5a46
-- **B3SUM:** c447e926ed11cacbf39f425d297418aadf7069ffce120878165deb3d8075b0e9
+- **SHA256SUM:** 5a67f9b96ae184c5bed9eb399da560870547a81eb9b9f9ebac4618f0f68aa6b9
+- **B3SUM:** 96fabf5d50742ad24aba6e32918d6dcaa268a4afb13d1f30e2cc35c2d09857a5
 - **Source:** https://bin.ajam.dev/x64_Windows/pr.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1414,8 +1414,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 803.84 kB
-- **SHA256SUM:** da56c2a5ce845f0cff4517d50210b96be95b370cead3fb4b88844103b85e251e
-- **B3SUM:** 6dbd2bf15dbe4003e95d3b1a9b304c2f5b1c727ee2457a3289848243bb8cbed8
+- **SHA256SUM:** d4d9bdff3ddb459e730d56dc0b4012faa89833004fff0abec0652b5b05e47164
+- **B3SUM:** 8f3c7ea3f6fc30efecfd91e7bdaefca8546509593527de9fcb5f17480b158898
 - **Source:** https://bin.ajam.dev/x64_Windows/printenv.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1430,8 +1430,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 914.94 kB
-- **SHA256SUM:** a115e1e2a37f47e8c51d79af3dd983d52add2447f41d4924b8eacd623ae1dd93
-- **B3SUM:** e956e277bc592b63218a65e502f5d88b0272445b7d93db4209ec54ae5d4229cc
+- **SHA256SUM:** c756ed612839103f0b0cf268fb8b3334be072ae02e67b1eed56169e35d607482
+- **B3SUM:** 6e0b2b9ef39ec7a4e92c9dab2c91ed5de61327aff03a676556d27cb62a109831
 - **Source:** https://bin.ajam.dev/x64_Windows/printf.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1446,8 +1446,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.37 MB
-- **SHA256SUM:** 765bd5cfeabef86247731aa6237848ed6ae2aa08309e3e228fa9c84b4f1de6e1
-- **B3SUM:** f2b7e5abaf32326dba7efc376d6be138bfc9803ab53d62fab63bab23c3554969
+- **SHA256SUM:** 311273cc2b34c2496a2408cb46c6ea3da299c5c74ca67a2b3bfd6523c08fbcba
+- **B3SUM:** 4c2a8a01280ee343bec744a5f89062d0c1685fec8c980ea69e1513ebd757157e
 - **Source:** https://bin.ajam.dev/x64_Windows/ptx.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1462,8 +1462,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 820.74 kB
-- **SHA256SUM:** 7a46e9e8a6052278c3f6e288d40b575bad5ad89015c8fbc0d9121b5be79c539f
-- **B3SUM:** a27f8b5f7a70580d73c14a6f8b3eab2c6eac5688cef9cbf48f0b638612df6819
+- **SHA256SUM:** 5b5ae05e46c057bd513dd88fa824e12b57b06fb337531e4b85580e4a2215a632
+- **B3SUM:** 175b06a32f35e4deba22dc5b8867ee7980dba87717f54db01c39a8c2adb5a3a9
 - **Source:** https://bin.ajam.dev/x64_Windows/pwd.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1478,8 +1478,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 880.64 kB
-- **SHA256SUM:** f4612770ede9324ed1f1a8d8a2efc2ae3afd9e7c0d2e0237a20b299f72abc2f0
-- **B3SUM:** bbeab07ac04b6b098a9d7674d25b7b036bfbf01e544e827c7042ec8d43af3fa0
+- **SHA256SUM:** 706ec861df1d9412bc740a3d810f8783a3181d402eed190d5969c7f743a058ee
+- **B3SUM:** 3f7aa8d6b55f4c339bbf2364b657b8430a6e7b8f2429cd076486a75cc4e0e5e9
 - **Source:** https://bin.ajam.dev/x64_Windows/readlink.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1494,8 +1494,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 884.22 kB
-- **SHA256SUM:** d26450a7d67b49657228bf0c08186b5ccaaa562c9fc6c73f6cc99f1deb599db8
-- **B3SUM:** ae810c4aae5fe1cfa7f689835595ccccfa2e61ff124f1284700bb90b7ad754f9
+- **SHA256SUM:** b0730f30af462596f6f5f3150dc45530222cb62df591f8d31e6648dfe4048605
+- **B3SUM:** 9635a3d61403491c8f4038c2ee4a71a683b1123c9f57d597a85ea4db5511bdf7
 - **Source:** https://bin.ajam.dev/x64_Windows/realpath.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1506,12 +1506,12 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45340
+- **Stars:** 45341
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
-- **SHA256SUM:** 9a8bdc1c2fd37e2042e22b18b7af26a0703454be207a3aca1025fc61a1ac2cca
-- **B3SUM:** 8fbdd5429a69a838a3328a4fa4acab8fb6021306998dc8003b3777ac2ed07204
+- **SHA256SUM:** 4e7d52b3c7cd42d5b19cc9255dcb5f765a09b73da18b61e63ba504d6bfffea31
+- **B3SUM:** bde23b7ff9bad587d358a24c7d312ebfd775d964126d60806ae5bba5b743d671
 - **Source:** https://bin.ajam.dev/x64_Windows/rg.exe
 - **Language:** Rust
 - **License:** The Unlicense
@@ -1526,8 +1526,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 909.82 kB
-- **SHA256SUM:** 821aa58f99c0794068e4c94e8a0e139c3ac537a7ff9d8aaa3f56b8aff81704ca
-- **B3SUM:** 63c43ca28461978d4b4c3702f2ccbad928087dc53076cf13a0ed0f998e5bd187
+- **SHA256SUM:** 8513d7fc6cae113c5bc8d24b8c693df6d1ec6dae74237dda0d32bc3468c9f19e
+- **B3SUM:** b44e256f444509a97d9286cd4d85e0c262057dea948b7fdd16a37ddea622cdd6
 - **Source:** https://bin.ajam.dev/x64_Windows/rm.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1542,8 +1542,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 835.07 kB
-- **SHA256SUM:** 22aadae40371c6de81a86ce4d315e15c960e03b0f00f426cf849dba8482a5680
-- **B3SUM:** f7f5773514029c1d1f0d936b56fc3dca0be966e8944918664bdde27c0903339f
+- **SHA256SUM:** 0c31f3e428cb82c38efb2dee960de6ff46e26f1a0da15d292b7c3548bf62f88b
+- **B3SUM:** 07cc12811d9e3b67fd2f67b074573609a6034cde9c62dca9b39f7f2f3f1daaea
 - **Source:** https://bin.ajam.dev/x64_Windows/rmdir.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1558,8 +1558,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.04 MB
-- **SHA256SUM:** 0ad7f69339a2204c706cb5bcf68d291a5c6d6cc78902541ecca3e134dbb1bf21
-- **B3SUM:** 1c015e8ab7aceef7bad0d2ea88132844c2864b14647a10bd1b266b431373b75a
+- **SHA256SUM:** 3bde47c53ca30d84c3ae67b4e3060b819c0512a8694d888539cf4ad3543e09c9
+- **B3SUM:** 8193f605f3aa8c622d92b216a12dc06049c559fa4f58f5d0416e49f58a1d5701
 - **Source:** https://bin.ajam.dev/x64_Windows/seq.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1574,8 +1574,8 @@
 - **Version:** v1.17.0
 - **Updated:** 2024-03-23T20:51:16Z
 - **Size:** 5.67 MB
-- **SHA256SUM:** 3e69a5f8c0f5b8dc2a8352183a84b414fc72728c454f223786c431b656664ebc
-- **B3SUM:** 3e511206edf15b0cfe6715e10a91e63c59e68af17b5e654f0521884f4560957b
+- **SHA256SUM:** d167870cb9781d82cb4570851d3fe9e1ebe5ed121797c0b06c08221297c8c591
+- **B3SUM:** 7cc50d5f6474efc0da447e9d4de3285218202601354a95132d925eaf784a56e0
 - **Source:** https://bin.ajam.dev/x64_Windows/shell2http.exe
 - **Language:** Go
 - **License:** MIT License
@@ -1590,8 +1590,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 897.54 kB
-- **SHA256SUM:** 099a53fac1244a573d2da25b598ed9dbbc36785a6d7e5fa8f2ca5b0166c3cf76
-- **B3SUM:** 31b1702abbbae28e89a2bb168f50e8d49271eb1ddf9b450092a73a07a7a699ad
+- **SHA256SUM:** 683ea34be85acc0ea3b1d6d3a788ca4cd55860ec0b1c9f3491856b665c9fc85a
+- **B3SUM:** 6d210f0249f5e2fb366e17979088e7c4e349b7d99799d03a3f51eaba99e47353
 - **Source:** https://bin.ajam.dev/x64_Windows/shred.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1605,9 +1605,9 @@
 - **Stars:** 16940
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
-- **Size:** 911.36 kB
-- **SHA256SUM:** f1fc0794327a96dc5dba53a2400cc4ff64e04354e66b16b7c56f52f107f0dc86
-- **B3SUM:** 695e1098e04406cac2a42117323abec198a0fafab35787e7a07aa61a5fcfc2b8
+- **Size:** 911.87 kB
+- **SHA256SUM:** fdd426d994ed5891a3e4b82665c829e53f885cbb1a717615dfb062354247a7d5
+- **B3SUM:** 684e8527716ba6d8d15932c60259d71596c8a64b4bfed75650a4b517f9bf9d52
 - **Source:** https://bin.ajam.dev/x64_Windows/shuf.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1618,12 +1618,12 @@
 - **Description:** The universal proxy platform
 - **Author:** SagerNet
 - **Repository:** [https://github.com/SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-- **Stars:** 14244
+- **Stars:** 14245
 - **Version:** v1.8.14
 - **Updated:** 2024-05-19T15:04:07Z
 - **Size:** 30.45 MB
-- **SHA256SUM:** 713f81a1184a6e116bd62e9aaaf1e0454e9cfbabdb2da8f750ebb270d3552e77
-- **B3SUM:** d42f474be1120694bbac63f15de1c90c01e43718e2c4d53cf4be39c988d68820
+- **SHA256SUM:** 879a4dd7bf66f318cb08de8fad2b0037f06c31f65406b81f028fd0b65fcec9e7
+- **B3SUM:** 41e8fccc0908fb65737fb0148634f989b7468ce2b46dce95a7a1e1b56fb6167d
 - **Source:** https://bin.ajam.dev/x64_Windows/sing-box.exe
 - **Language:** Go
 - **License:** Other
@@ -1638,8 +1638,8 @@
 - **Version:** v2.15.0
 - **Updated:** 2024-04-30T20:52:46Z
 - **Size:** 20.42 MB
-- **SHA256SUM:** e1b49502eaaa29426e2a49a6281efca2673ea6c2fb96de3c0f86b37a2a1dd0c5
-- **B3SUM:** 1f17792db5f4901e94d1506de0f61a6953483581d4b6fc381caf8dab52de9587
+- **SHA256SUM:** f4a96f5f75fadcf41ef2c2548a11be9787470e64bb736891562894bc89d43c36
+- **B3SUM:** d6a0ea8ae17d9640696f38b90975a46f039834b1438340d49811c90602fc4b2f
 - **Source:** https://bin.ajam.dev/x64_Windows/sish.exe
 - **Language:** Go
 - **License:** MIT License
@@ -1654,8 +1654,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 839.17 kB
-- **SHA256SUM:** 67aac72001e62c81d369ec99518feef01a08b32decc21073e9c0a8830d264e85
-- **B3SUM:** 184fa44a97320988927576b570a2ea09bf91bea384aefd8cc4901b53947d07cc
+- **SHA256SUM:** e9d1f26ca78a754148782d42da529c49a44573d22d01856ce19b1525801929b5
+- **B3SUM:** ff04d3da95735850b3bc45f0bd1103913822895d253d1dcad6d8f4c42823c102
 - **Source:** https://bin.ajam.dev/x64_Windows/sleep.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1670,8 +1670,8 @@
 - **Version:** 0.7.2
 - **Updated:** 2024-01-10T12:05:53Z
 - **Size:** 9.36 MB
-- **SHA256SUM:** cf6e5015ae2a281f8929d9d90405c08407690013191b640ed25666a75750eb93
-- **B3SUM:** a0982d93cf138a313100cb25fb4f5d1fa7c699c0dc5c32277dc985a4b393daf0
+- **SHA256SUM:** 766c6ca4f6a8801131564a8e00fd3da5123fb58cccc2ecfbe7427baa0879f573
+- **B3SUM:** 840727d740118ec3c50403958d2eaf242360b099a6dcaf9f6eddcba9b8ca2608
 - **Source:** https://bin.ajam.dev/x64_Windows/smartdns-rs.exe
 - **Language:** Rust
 - **License:** GNU General Public License v3.0
@@ -1686,8 +1686,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.67 MB
-- **SHA256SUM:** 46e8d07385ca751bd9d502a72db6d35ec21e11863b3746996e69c84a0354e724
-- **B3SUM:** f9131e158e4d5fb852ff8139aa396d7abb86bc491350caab802795753f046e40
+- **SHA256SUM:** 18eab9ff9770c0d0112f857177dfdfc9869d89ca1be8095ae993db2799143f11
+- **B3SUM:** b93a8be8e051abfa0a61c0a4b95bdbb8d5e9e9d9d182b66d6b91e216cb0f1f86
 - **Source:** https://bin.ajam.dev/x64_Windows/sort.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1702,8 +1702,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 966.14 kB
-- **SHA256SUM:** edf81a4767ed06fb46dfb75a10462528697f25ba2ee7424f8414b550d0ffde6c
-- **B3SUM:** 5bc66046168410f90ea48a9828c2efdbf1e58d50e46be682f7bd0de96eee0449
+- **SHA256SUM:** 67435f9ca7c96f2ba6b9e743eede016ea14afd742c561dbaed1ed34bc9d88125
+- **B3SUM:** 5b784daca9da9530ae8e4daa8b3d4c91f412e8da7513e34401f75bdd2f2c8b56
 - **Source:** https://bin.ajam.dev/x64_Windows/split.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1718,8 +1718,8 @@
 - **Version:** v0.26.1
 - **Updated:** 2024-04-23T00:07:41Z
 - **Size:** 37.12 MB
-- **SHA256SUM:** 803d6186c5518f8113e1b726ddc608c9fd0da24d39083429b9b3503db0b40a8c
-- **B3SUM:** 6b76a673799d1c239b7199106393bfd4e1fb88d49376582500d33ad6c9f84c51
+- **SHA256SUM:** d354c59452ee5ea943eb76e3edd384856c53ef93f353fdafd61f6afd62a95044
+- **B3SUM:** c11c5d33bcf9943f6534a4b3cf6063955f2e9bfdd9299587960ceb412e7811de
 - **Source:** https://bin.ajam.dev/x64_Windows/step.exe
 - **Language:** Go
 - **License:** Apache License 2.0
@@ -1734,8 +1734,8 @@
 - **Version:** v0.5.8
 - **Updated:** 2024-03-21T08:27:36Z
 - **Size:** 7.46 MB
-- **SHA256SUM:** 6e0efd4f3014b435403a5e45bc722b5735d98a3252c8d8c35003a3a806dc15cd
-- **B3SUM:** 7fdba2c7803c7ee7f6b4cfe4fcea7fbb96b1a9dfe909bc71f7c1fbd07f033b53
+- **SHA256SUM:** ac8f389625e82401e4a5410532838fb962974c452f462b9668bae3bbbf5910e6
+- **B3SUM:** 6e299d46c571c8c82928f6fac47e41ab9a0dded2658cdd3fa648cae785ccf00d
 - **Source:** https://bin.ajam.dev/x64_Windows/stunner.exe
 - **Language:** Go
 - **License:** Other
@@ -1750,8 +1750,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 849.41 kB
-- **SHA256SUM:** e5688bbbb077e7a7e6506c963d2c1aab9c77124ed3bd40325a1412a1aa2780fd
-- **B3SUM:** 05c56e37735ab79731a5589d41f46d5f6bd9e01db6844426845cc8e4c97e1839
+- **SHA256SUM:** f8fc43855427d42f87c8d69d7338211c55bf6af32e28d57b3179f37f2a01e768
+- **B3SUM:** 1d4d688b09b4d897770e11f24d50d511ffe4fb869dcb1a61726d4db517834ba0
 - **Source:** https://bin.ajam.dev/x64_Windows/sum.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1766,8 +1766,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 835.58 kB
-- **SHA256SUM:** 3c4f527efe29265a77799bdefec0e2100a5a332138c9c28737916ee9b6ce3d83
-- **B3SUM:** 840d646333552811eb76acac86d541bda2fa58bef8d3b1eb869146fd761d2131
+- **SHA256SUM:** b45a7530dca7da7e78d3b8d1ba21474603b8f6523d5eb0320de89aa100d06191
+- **B3SUM:** 5826a2c4a206de5d0435b5c3dc15d680cdb081bddf768ef2bd9869673fe92951
 - **Source:** https://bin.ajam.dev/x64_Windows/sync.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1782,8 +1782,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.25 MB
-- **SHA256SUM:** 7163458b3f37f284f4f1a384aab09cf6b6c68494d233ac0569175b5d17a000d4
-- **B3SUM:** cd6f805a395f4da256b8b3154703171c8ac8ff18e727e15fb5976f6a4274fddd
+- **SHA256SUM:** 46c8f46ada1bbeb69a5ec18d026879ed48a90ab92ed6e204ebf3d9c02db30200
+- **B3SUM:** 077321954166228fa2d875d675da55fbb6230a53fba2b80ded0026f61f49542e
 - **Source:** https://bin.ajam.dev/x64_Windows/tac.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1798,8 +1798,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.33 MB
-- **SHA256SUM:** 65731efeef57292c1e4d344e39d87155ac80b11b1ab1097ac39cf885c3b34754
-- **B3SUM:** a463b977d71d30889759b3dfbe2ff1683a51994cca9193b46f96a54fbaabcccc
+- **SHA256SUM:** eb41e68f996a91ea4d325a0953c6a271575003ffc558e669c548faefc7fcbfa8
+- **B3SUM:** cb8a817449bf691810a3db9f3ed8c6d6071c554d7513e2a88ba3150c166b37ee
 - **Source:** https://bin.ajam.dev/x64_Windows/tail.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1814,8 +1814,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 874.5 kB
-- **SHA256SUM:** b858cb23e10ee75b59182ea79b7ac6bd0ae9633aa180fb92c775ef3b2176c28a
-- **B3SUM:** 4517987e756aab4be468aa172d5e3b86b61fa2ab26ce5327cd729b497b584316
+- **SHA256SUM:** d378d0e8b4f68ace616eabfdbc733139df4f33f2edcac8876eadadb2ca968543
+- **B3SUM:** 472e0e1e8530a2311f7534872442b3f4c5cb3e41d999053a5715dc6af29479eb
 - **Source:** https://bin.ajam.dev/x64_Windows/tee.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1830,8 +1830,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 846.34 kB
-- **SHA256SUM:** 97296ec6a29f274ddc70b49a4ea15f9c12813a68cdacbe33e1d04a25ebe11b88
-- **B3SUM:** 2f6d8ea12b18e7bb16d10f5c8ba506bd297e2de0ff29596eb4c6956dceb3312c
+- **SHA256SUM:** 8cbe9271db436c1201acdb76a367b37d3d17701d5e0294be84669d137ddbebe1
+- **B3SUM:** 4b31e0d35146364bb07162e41f73ece58ec8374c6c48b90ffa07cfe99124820b
 - **Source:** https://bin.ajam.dev/x64_Windows/test.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1846,8 +1846,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 2.36 MB
-- **SHA256SUM:** 09f8b1bb29a9277f6c3154b5635ec4358ae40b389e52d84a5e6458d5069bc07f
-- **B3SUM:** 8a9a15efc2638a42ffc75401dc49b06bacf1377caab150484ccbece6bfd0439b
+- **SHA256SUM:** a11944dd86eae924a7ae07da58c34041aff36fa32ad11bf4be289fecf9eefaeb
+- **B3SUM:** be61349448fae72ee85aa1facfbd0f872c7943fde9b7a04d35afc7d7b34c117f
 - **Source:** https://bin.ajam.dev/x64_Windows/touch.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1862,8 +1862,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 902.14 kB
-- **SHA256SUM:** d45a5af9874f6cfe84c6a105f333ed56d5fb0c48431d8b04b2775f064e759786
-- **B3SUM:** db8257e30cea1b8ccd279f190f6c29b20c133307dbaf91bb7d99d5daac3fb59d
+- **SHA256SUM:** a29b5ffe7b9c1780ced8c2ffd3aac29173ee6c0df6e6d4ecb50b3ccc42a533cd
+- **B3SUM:** 913c38f6272489bd272884c33f7747cc0e23a84175ca8ec169362de25f1eed9a
 - **Source:** https://bin.ajam.dev/x64_Windows/tr.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1878,8 +1878,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 758.78 kB
-- **SHA256SUM:** 1b366e0d321a78d9c84a57a745637f58a98a99ccb7287cc28ff8a8d284397683
-- **B3SUM:** 518c2272bdfea2f9e4368b9aab4f310f660e3a276cc0c2ed7b66b34264150122
+- **SHA256SUM:** c25bff82689921e9f3e7feb995021d9753a2619c03cd1533fd8e77007b60675a
+- **B3SUM:** 3cbb76ed91eedb49c8bbaf28fc706881f18ceb82e44167405de45ff7954d73c4
 - **Source:** https://bin.ajam.dev/x64_Windows/true.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1893,9 +1893,9 @@
 - **Stars:** 16940
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
-- **Size:** 844.29 kB
-- **SHA256SUM:** 3e8ae4f6cc6633febc3bb00480cb18285f02c7a3684f753f2dc8c93cd9c6a5cb
-- **B3SUM:** 9d7e82c3e7a28615ececd8335c1d4dcbdf33dfa350e541c81c92a7b628bfaf71
+- **Size:** 843.78 kB
+- **SHA256SUM:** fc34ad434158589d67438ff8edf9ff2726d572b356c3b1183188cf5002fb1ae0
+- **B3SUM:** 67d34aac032412c55dac58a15b88b9cc06584044526c32a6a2a345584035c860
 - **Source:** https://bin.ajam.dev/x64_Windows/truncate.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1910,8 +1910,8 @@
 - **Version:** 8.7.1
 - **Updated:** 2024-03-27T12:20:22Z
 - **Size:** 7.04 MB
-- **SHA256SUM:** 05bed28dc57fe6fa2c09db8ef1e2c7494040787d08b8176a47ce6137b3cc0f3c
-- **B3SUM:** a905829cd293f77c0f3e5bebd326f0569eb8cf0371b812234f13fa734bb0ba49
+- **SHA256SUM:** ec764b4760a55a52fe765719f33c77dae7cf62bde5ec83cebd5c9b36b1cc159e
+- **B3SUM:** 00e3fe8c636b3a5b5ac98a116cf16478badc79862ed53319bcab0b41629e7cb2
 - **Source:** https://bin.ajam.dev/x64_Windows/trurl.exe
 - **Language:** Shell
 - **License:** MIT License
@@ -1926,8 +1926,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 879.1 kB
-- **SHA256SUM:** 83547b9fc8749cf2165653433bbe096d28c4c6309db4fc9b20f374e3b98e7f38
-- **B3SUM:** ed12f614bbbbcb3fccf0414559190f9ecbfd5190346c17907be845a2efbf76ec
+- **SHA256SUM:** efe4a70213ea27ad454bbeef67eead25164412105571d58a667f565e5f7c2691
+- **B3SUM:** cf6132e53c3cb2c6b1ddf75bf9bc82e1e0a6a141a23b72a2bb0419eddbcb7ed4
 - **Source:** https://bin.ajam.dev/x64_Windows/tsort.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1942,8 +1942,8 @@
 - **Version:** v0.1.19
 - **Updated:** 2024-03-16T13:45:31Z
 - **Size:** 10.84 MB
-- **SHA256SUM:** edf4a83e70d54d97d8819b014bb04376e40daa97333c71d8575e0ae852263403
-- **B3SUM:** 90c220a1a1f6f8967253222815166bd5642eed3ec207c209a9b0d8c8d77e9d1e
+- **SHA256SUM:** 351c6a008c360f559482a9e0382dc325e98f4c8d3cacfb3ddd05f674c2f844cb
+- **B3SUM:** 10fb944c23c00f0dfd93b603d698220043c787fcb72b0a5d2440540ed5804795
 - **Source:** https://bin.ajam.dev/x64_Windows/tssh.exe
 - **Language:** Go
 - **License:** MIT License
@@ -1958,8 +1958,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 847.36 kB
-- **SHA256SUM:** 716225b159ddead3cf91446031c3f6ca0d3877bd7a3101a9674999a6b69bd1d6
-- **B3SUM:** 6e67f31a59875df98b68b5194e6246ea48eda911f6c0233d939262a60901e6dc
+- **SHA256SUM:** 4d6d7ed1ab26f02763a09e9af9b4ac7f1a01e7b7ad7d0217425c84bbddef0077
+- **B3SUM:** 3a1efebdb2c9f145718ac3c6baec43e7b343b04f8a02160e6052e602accb4d7e
 - **Source:** https://bin.ajam.dev/x64_Windows/uname.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1974,8 +1974,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 870.91 kB
-- **SHA256SUM:** 0306ad822fd61545f59e171d5b856044f0154c17c27521c40621b79703dc3701
-- **B3SUM:** 1aa260fc73f20ecdf37ddf603af75ca31b3dc73b9f9e0e0827233414e9535219
+- **SHA256SUM:** b04b77a987be373314623f9b9d3758bb2c1a3106c77675578e543b006d42000c
+- **B3SUM:** 77fe265b19b4eefaa8c72dca2fecf6385ac9bee585a8c619e611e58935db3d2c
 - **Source:** https://bin.ajam.dev/x64_Windows/unexpand.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -1990,8 +1990,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 906.75 kB
-- **SHA256SUM:** d89343a282d87dd76467a942d1d5ef50cfed6e95ce1b7f7a298f3ac93a3ddf94
-- **B3SUM:** 022f66fd2c4b04d07430c2b31c837b847bed9d0ecad8476a12570b6b68c65a1a
+- **SHA256SUM:** 4effc0646bea3986b1399a5235116b66d80d56960ac9c8bff8fbbebe3c620a8e
+- **B3SUM:** 261384ae403c81ca6fa957e724e6367b8f85f840de1a3781d1a655b115525e01
 - **Source:** https://bin.ajam.dev/x64_Windows/uniq.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -2006,8 +2006,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 828.42 kB
-- **SHA256SUM:** 47b3e91d8ef38cf2fcf8e10870fe677702c6ff1c7f89dd3adb881444c408a11a
-- **B3SUM:** e7ea66753a38eb22e32ea3772fb77f7c69d02ec2a9b4adcac7bba01bf575bba2
+- **SHA256SUM:** 673550eb713bce2a2612bf3a6c850180eee3a5add440766c60e3506b109d2778
+- **B3SUM:** e5f9bcb1653a3a9719e3e5a6c8c92edfacbc8c91dd5d5d0f2f12aa2d3c8f782d
 - **Source:** https://bin.ajam.dev/x64_Windows/unlink.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -2022,8 +2022,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 1.25 MB
-- **SHA256SUM:** a4b90bfc1baa731531124f539ec29b959c13fd67440c2173e2688f849e5eec61
-- **B3SUM:** 12fa4d35b1630bfd220a2e95d51c44ccf910e2548cc2f142c32d215bf23217ed
+- **SHA256SUM:** 05343ee3f86eb00ecafb737ff32ecabcc56ed0bc80df459a3bd3d87f16cb551e
+- **B3SUM:** 0923be365285426fb2b2464d679c371e1c3459aa1c45e09e9a8c44b262c71fb8
 - **Source:** https://bin.ajam.dev/x64_Windows/vdir.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -2038,8 +2038,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 922.62 kB
-- **SHA256SUM:** 0a14a0b43086e3fb5a5d03738bb972d7d6bd809f177123123edf291b65fb1c49
-- **B3SUM:** be0fda103e37b5cf9905e0e5ec602958e5deebc58ee96193a43bdb59c4b296ef
+- **SHA256SUM:** 4e8598c4baeb325e3bbabe204a2802acb86b2f8c279a7000afe0f2b12907ec50
+- **B3SUM:** 396adfff29850a936ffec7ff8b618b61cef2a1a5ca2af750d8b6cad0d32fee09
 - **Source:** https://bin.ajam.dev/x64_Windows/wc.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -2054,8 +2054,8 @@
 - **Version:** v2.1.0
 - **Updated:** 2023-08-31T14:11:58Z
 - **Size:** 4.61 MB
-- **SHA256SUM:** b1bb5e9163d5b6d31d33e6d5ac01a5e8eeded07ab1a7a332d93f945b81841e50
-- **B3SUM:** 8f8970761328e8a24ad818933e19f91a825e86a20227777bcc7205af18e1a085
+- **SHA256SUM:** 8bd3b7d5f24ba98f268c1f4002155eedd93b32376ba77108e7abd8be5cca4ff3
+- **B3SUM:** df7d64e6c0601ffe349fa790e79424b76a8f842c199f313f003b085d259a4d20
 - **Source:** https://bin.ajam.dev/x64_Windows/wget2.exe
 - **Language:** C
 - **License:** GNU Lesser General Public License v3.0
@@ -2070,8 +2070,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 810.5 kB
-- **SHA256SUM:** 9ef89b8cfa37e992bc690cbd21dcd43885bf53f4dd2738a20e78b5c54be8d7f5
-- **B3SUM:** 400631a917f652f3d8b019848f314e9cf918088b8ff3263816aa56053b86ce91
+- **SHA256SUM:** 656116125b6859063e15741cbd0de984d29578f131e3bd54ed9950d43a4c5e40
+- **B3SUM:** 07ee4802b54aba696d173d8d614001d263dad99a6895cc7ef81f49429fdcbd3f
 - **Source:** https://bin.ajam.dev/x64_Windows/whoami.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -2086,8 +2086,8 @@
 - **Version:** v1.2.4
 - **Updated:** 2023-08-10T08:51:33Z
 - **Size:** 1.24 MB
-- **SHA256SUM:** 6e8bd822ecf09752c8c8f0806935d706ed753b7330e47751a99fdb5cf8ae1bc9
-- **B3SUM:** 43ed1bb8170ba6b35f043d21525fd5c766a4d56c62d36d8e5c6da92b07c1f35f
+- **SHA256SUM:** 4354ec876db82d4b0ae14dd9075c390b56b36adfa45f5d8d9f0cb1749e506f00
+- **B3SUM:** c722169ffc241c0f731f34f06559912495c4d9f3bab1dd1840c60c1a80464831
 - **Source:** https://bin.ajam.dev/x64_Windows/wldd.exe
 - **Language:** Rust
 - **License:** GNU Lesser General Public License v3.0
@@ -2102,8 +2102,8 @@
 - **Version:** 0.5.0
 - **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 884.22 kB
-- **SHA256SUM:** 007ebd585bc034b65bd12bb9fa2fdb2432f54c92b780475b6ea21529e2690881
-- **B3SUM:** 917578a3f9006cfa3e32edd607e4dc998166f397a513370a532951e34ed84ec1
+- **SHA256SUM:** 644967b2437886969495139b36ef31139dccfc635abdcefd92cf45b5f40e0715
+- **B3SUM:** 86a717624350babbc2039257f2721e48ee949083f88a0858aa4798b167a3a25c
 - **Source:** https://bin.ajam.dev/x64_Windows/xargs-rs.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -2118,8 +2118,8 @@
 - **Version:** 0.5.0
 - **Updated:** 2024-04-03T22:29:23Z
 - **Size:** 884.22 kB
-- **SHA256SUM:** 62e9ff212136fdb9f2768d97a1bb2e176abd9450ee5f6e72d7846fba63c5bd2b
-- **B3SUM:** 0f6e2a61dc049325e6954759c2054e78810c39606aabb5bb8e5d8f237dadbde2
+- **SHA256SUM:** e0e58d6bb30b0b54a65c4719a0d99b1c2d47568bbcbc4f19a29264138582bcd6
+- **B3SUM:** 528d2d832bd8f9a57c33a220b81046ad6af826e05069c0af2048eaebd09db290
 - **Source:** https://bin.ajam.dev/x64_Windows/xargs.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -2134,8 +2134,8 @@
 - **Version:** 0.0.26
 - **Updated:** 2024-04-26T21:47:48Z
 - **Size:** 807.42 kB
-- **SHA256SUM:** f56b1e249734003329e5da445418aa31904b976b2b60ab1663416b028c694005
-- **B3SUM:** 26ad3bf51520820d22b552358c5be59ee176e7a7f737c4763b2b7a4f7cea0d4e
+- **SHA256SUM:** 9c288176df03665020e248c0d2f5a7f0b1406e28b02155b2368cd01b4468abcf
+- **B3SUM:** 6ed6ecea3e6b24ed20660654ea2e58db4bda6362e94f55da0856c31ed1fdc64f
 - **Source:** https://bin.ajam.dev/x64_Windows/yes.exe
 - **Language:** Rust
 - **License:** MIT License
@@ -2146,12 +2146,12 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 72317
+- **Stars:** 72330
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
-- **SHA256SUM:** 44597a609b4e758a882823462f425cdc32bafe7603b2849e5592a8fc00aa73d0
-- **B3SUM:** 82851436ef53bb07b9e4a42b1d19db8be25d46c11c963acda3371eee3f358996
+- **SHA256SUM:** fff8515b0158a6d15ed0717071ba5310ab72f92e8d8c4ad4daca90f68e34fd04
+- **B3SUM:** aeffbdb43741bba7289608a494166f493564627daea4f4429c4585bd2ad218ec
 - **Source:** https://bin.ajam.dev/x64_Windows/yt-dlp.exe
 - **Language:** Python
 - **License:** The Unlicense
