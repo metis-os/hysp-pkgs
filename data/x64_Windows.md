@@ -50,7 +50,7 @@
 - **Description:** A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - **Author:** FiloSottile
 - **Repository:** [https://github.com/FiloSottile/age](https://github.com/FiloSottile/age)
-- **Stars:** 15441
+- **Stars:** 15442
 - **Version:** v1.1.1
 - **Updated:** 2022-12-26T20:39:07Z
 - **Size:** 3.88 MB
@@ -82,7 +82,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 38015
+- **Stars:** 38014
 - **Version:** v3.34.0
 - **Updated:** 2024-05-02T16:27:29Z
 - **Size:** 66.83 MB
@@ -354,7 +354,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 8115
+- **Stars:** 8116
 - **Version:** 2024.5.0
 - **Updated:** 2024-05-16T16:21:18Z
 - **Size:** 27.01 MB
@@ -434,9 +434,9 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 26458
-- **Version:** v9.6.15
-- **Updated:** 2024-04-06T16:44:27Z
+- **Stars:** 26460
+- **Version:** v9.6.16
+- **Updated:** 2024-05-20T17:19:46Z
 - **Size:** 8.63 MB
 - **SHA256SUM:** cfdd978669760ac31bf02cc3e3f52548d8dfd6557247f56eab3e39fe393bf7df
 - **B3SUM:** 52e95530868f2bacc2f972f930c2b49d38927ee1aacffec4748492225d6aa7bb
@@ -674,7 +674,7 @@
 - **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
 - **Author:** sigoden
 - **Repository:** [https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-- **Stars:** 4961
+- **Stars:** 4962
 - **Version:** v0.40.0
 - **Updated:** 2024-02-13T04:15:03Z
 - **Size:** 3.68 MB
@@ -722,7 +722,7 @@
 - **Description:** Easily install prebuilt binaries from GitHub.
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/eget](https://github.com/zyedidia/eget)
-- **Stars:** 768
+- **Stars:** 769
 - **Version:** v1.3.3
 - **Updated:** 2023-02-22T05:15:46Z
 - **Size:** 6.94 MB
@@ -818,7 +818,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6514
+- **Stars:** 6515
 - **Version:** 2.13.0
 - **Updated:** 2024-05-20T14:07:48Z
 - **Size:** 1.35 MB
@@ -866,7 +866,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6514
+- **Stars:** 6515
 - **Version:** 2.13.0
 - **Updated:** 2024-05-20T14:07:48Z
 - **Size:** 1.19 MB
@@ -1010,7 +1010,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 29230
+- **Stars:** 29231
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 985.09 kB
@@ -1506,7 +1506,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45355
+- **Stars:** 45356
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -2146,7 +2146,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 72486
+- **Stars:** 72490
 - **Version:** 2024.04.09
 - **Updated:** 2024-04-09T17:10:38Z
 - **Size:** 173.06 kB
