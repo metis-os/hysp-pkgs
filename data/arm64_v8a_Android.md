@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 24157
+- **Stars:** 24158
 - **Version:** v2.30.0
 - **Updated:** 2024-05-19T10:16:02Z
 - **Size:** 13.94 MB
@@ -322,9 +322,9 @@
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - **Author:** static-web-server
 - **Repository:** [https://github.com/static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
-- **Stars:** 1217
-- **Version:** v2.31.0
-- **Updated:** 2024-05-19T20:46:38Z
+- **Stars:** 1218
+- **Version:** v2.31.1
+- **Updated:** 2024-05-20T23:16:42Z
 - **Size:** 6.8 MB
 - **SHASUM:** c2f88a85c97bf9547466106633feee4c79378ee18624311b72798b235fff1237
 - **B3SUM:** 10d6227ab1882bec3a376aaf5f63437a85ab1c915b5cfda7a7c55579ba8e6149
