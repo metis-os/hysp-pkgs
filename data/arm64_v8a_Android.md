@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 8996
+- **Stars:** 8997
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 24136
+- **Stars:** 24138
 - **Version:** v2.30.0
 - **Updated:** 2024-05-19T10:16:02Z
 - **Size:** 13.94 MB
@@ -357,7 +357,7 @@
 - **Stars:** 16874
 - **Version:** v1.66.2
 - **Updated:** 2024-05-14T21:23:24Z
-- **Size:** 11.46 MB
+- **Size:** 11.47 MB
 - **SHASUM:** 24a1b4266200c45b397db03d70a6a01df79cd1547f735290cd0740d7517e6571
 - **B3SUM:** 38099f42eabc0882deccdd5c510b13af8c19ca9477a0d822396931f0feca9c75
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale
