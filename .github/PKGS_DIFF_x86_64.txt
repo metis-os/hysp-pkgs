@@ -10,7 +10,6 @@
 │ 189│-dos2unix                         │    │
 │ 248│-filan                            │    │
 │ 250│-find                             │    │
-│ 256│-flawz                            │    │
 │ 273│-geodns                           │    │
 │ 274│-geoping                          │    │
 │ 331│-gotld                            │    │
