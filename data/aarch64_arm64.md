@@ -5,7 +5,7 @@
 - **Stars:** 
 - **Version:** 23.01
 - **Updated:** (2023-06-20)
-- **Size:** 3.08 MB
+- **Size:** 
 - **SHA256SUM:** d174396658d06e6d2676cc05222edd2ea28944901d84bf8723ed8e044ca65282
 - **B3SUM:** aeab7b08d95d8426e1b5fec5f4397435c02f5cae49e9dbed1c987710d6fd18fb
 - **Source:** https://bin.ajam.dev/aarch64_arm64_Linux/7z
