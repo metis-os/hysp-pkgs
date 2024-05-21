@@ -1,111 +1,69 @@
-│  2 │-METADATA.json.tmp                │    │
-│ 43 │-bash                             │    │
-│ 63 │-bombadillo                       │    │
-│ 87 │-certwatcher                      │    │
-│ 125│-cowsay                           │    │
-│ 126│-cowthink                         │    │
-│ 135│-cron                             │    │
-│ 139│-crontab                          │    │
-│ 159│-daytona                          │    │
-│ 189│-dos2unix                         │    │
-│ 248│-filan                            │    │
-│ 250│-find                             │    │
-│ 273│-geodns                           │    │
-│ 274│-geoping                          │    │
-│ 331│-gotld                            │    │
-│ 337│-grep                             │    │
-│ 356│-hcxeiutool                       │    │
-│ 357│-hcxhash2cap                      │    │
-│ 358│-hcxhashtool                      │    │
-│ 359│-hcxpcapngtool                    │    │
-│ 360│-hcxpmktool                       │    │
-│ 361│-hcxpsktool                       │    │
-│ 362│-hcxwltool                        │    │
-│ 384│-ifrename                         │    │
-│ 396│-iwconfig                         │    │
-│ 397│-iwevent                          │    │
-│ 398│-iwgetid                          │    │
-│ 399│-iwlist                           │    │
-│ 400│-iwpriv                           │    │
-│ 401│-iwspy                            │    │
-│ 447│-localxpose                       │    │
-│ 448│-loclx                            │    │
-│ 458│-mac2unix                         │    │
-│ 487│-mkpasswd                         │    │
-│ 508│-ncdu                             │    │
-│ 513│-netstat                          │    │
-│ 520│-ngrok                            │    │
-│ 533│-nrich                            │    │
-│ 584│-procan                           │    │
-│ 650│-rekor                            │    │
-│ 701│-sbase-box                        │    │
-│ 735│-socat                            │    │
-│ 753│-sshpass                          │    │
-│ 764│-stress-ng                        │    │
-│ 788│-sysbox-fs                        │    │
-│ 789│-sysbox-mgr                       │    │
-│ 790│-sysbox-runc                      │    │
-│ 799│-tailscale_bb                     │    │
-│ 835│-tuiarchiver                      │    │
-│ 837│-twingate-client                  │    │
-│ 838│-twingate-connector               │    │
-│ 839│-twingate-connector-staticx       │    │
-│ 840│-twingate-connectorctl            │    │
-│ 841│-twingate-notifier                │    │
-│ 846│-ubase-box                        │    │
-│ 853│-unix2dos                         │    │
-│ 854│-unix2mac                         │    │
-│ 860│-v6disk                           │    │
-│ 880│-warp-cli                         │    │
-│ 881│-warp-dex                         │    │
-│ 882│-warp-diag                        │    │
-│ 883│-warp-svc                         │    │
-│ 893│-wg                               │    │
-│ 894│-wg-quick                         │    │
-│ 895│-wget                             │    │
-│ 896│-whois                            │    │
-│ 897│-whoismac                         │    │
-│ 902│-wlancap2wpasec                   │    │
-│ 909│-xargs                            │    │
-│ 955│-zsh                              │    │
-│ 18 │-brook_windows_amd64.exe          │    │
-│ 20 │-busybox-unicode.exe              │    │
-│ 21 │-busybox.exe                      │    │
-│ 23 │-certstream.exe                   │    │
-│ 35 │-cutlines.exe                     │    │
-│ 51 │-ein.exe                          │    │
-│ 53 │-err.exe                          │    │
-│ 59 │-ffmpeg.exe                       │    │
-│ 60 │-ffplay.exe                       │    │
-│ 61 │-ffprobe.exe                      │    │
-│ 68 │-geodns.exe                       │    │
-│ 69 │-geoping.exe                      │    │
-│ 70 │-gix.exe                          │    │
-│ 75 │-inscope.exe                      │    │
-│ 76 │-iperf3.exe                       │    │
-│ 83 │-localxpose.exe                   │    │
-│ 84 │-loclx.exe                        │    │
-│ 93 │-ngrok.exe                        │    │
-│ 101│-pdfdetach.exe                    │    │
-│ 102│-pdffonts.exe                     │    │
-│ 103│-pdfimages.exe                    │    │
-│ 104│-pdfinfo.exe                      │    │
-│ 105│-pdftopng.exe                     │    │
-│ 106│-pdftoppm.exe                     │    │
-│ 107│-pdftops.exe                      │    │
-│ 108│-pdftotext.exe                    │    │
-│ 118│-quotes-escaper.exe               │    │
-│ 124│-scp.exe                          │    │
-│ 126│-sftp-server.exe                  │    │
-│ 134│-smartdns.exe                     │    │
-│ 137│-ssh-add.exe                      │    │
-│ 138│-ssh-agent.exe                    │    │
-│ 139│-ssh-keygen.exe                   │    │
-│ 140│-ssh-keyscan.exe                  │    │
-│ 141│-ssh-pkcs11-helper.exe            │    │
-│ 142│-ssh-shellhost.exe                │    │
-│ 143│-ssh-sk-helper.exe                │    │
-│ 144│-ssh.exe                          │    │
-│ 145│-sshd.exe                         │    │
-│ 165│-upx.exe                          │    │
-│ 174│-yq.exe                           │    │
+│ 42 │-bash                             │    │
+│ 62 │-bombadillo                       │    │
+│ 86 │-certwatcher                      │    │
+│ 124│-cowsay                           │    │
+│ 125│-cowthink                         │    │
+│ 134│-cron                             │    │
+│ 138│-crontab                          │    │
+│ 158│-daytona                          │    │
+│ 188│-dos2unix                         │    │
+│ 247│-filan                            │    │
+│ 249│-find                             │    │
+│ 272│-geodns                           │    │
+│ 273│-geoping                          │    │
+│ 330│-gotld                            │    │
+│ 336│-grep                             │    │
+│ 355│-hcxeiutool                       │    │
+│ 356│-hcxhash2cap                      │    │
+│ 357│-hcxhashtool                      │    │
+│ 358│-hcxpcapngtool                    │    │
+│ 359│-hcxpmktool                       │    │
+│ 360│-hcxpsktool                       │    │
+│ 361│-hcxwltool                        │    │
+│ 383│-ifrename                         │    │
+│ 395│-iwconfig                         │    │
+│ 396│-iwevent                          │    │
+│ 397│-iwgetid                          │    │
+│ 398│-iwlist                           │    │
+│ 399│-iwpriv                           │    │
+│ 400│-iwspy                            │    │
+│ 446│-localxpose                       │    │
+│ 447│-loclx                            │    │
+│ 457│-mac2unix                         │    │
+│ 486│-mkpasswd                         │    │
+│ 507│-ncdu                             │    │
+│ 512│-netstat                          │    │
+│ 519│-ngrok                            │    │
+│ 532│-nrich                            │    │
+│ 583│-procan                           │    │
+│ 649│-rekor                            │    │
+│ 700│-sbase-box                        │    │
+│ 734│-socat                            │    │
+│ 752│-sshpass                          │    │
+│ 763│-stress-ng                        │    │
+│ 787│-sysbox-fs                        │    │
+│ 788│-sysbox-mgr                       │    │
+│ 789│-sysbox-runc                      │    │
+│ 798│-tailscale_bb                     │    │
+│ 834│-tuiarchiver                      │    │
+│ 836│-twingate-client                  │    │
+│ 837│-twingate-connector               │    │
+│ 838│-twingate-connector-staticx       │    │
+│ 839│-twingate-connectorctl            │    │
+│ 840│-twingate-notifier                │    │
+│ 845│-ubase-box                        │    │
+│ 852│-unix2dos                         │    │
+│ 853│-unix2mac                         │    │
+│ 859│-v6disk                           │    │
+│ 879│-warp-cli                         │    │
+│ 880│-warp-dex                         │    │
+│ 881│-warp-diag                        │    │
+│ 882│-warp-svc                         │    │
+│ 892│-wg                               │    │
+│ 893│-wg-quick                         │    │
+│ 894│-wget                             │    │
+│ 895│-whois                            │    │
+│ 896│-whoismac                         │    │
+│ 901│-wlancap2wpasec                   │    │
+│ 908│-xargs                            │    │
+│ 954│-zsh                              │    │
