@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 24175
+- **Stars:** 24177
 - **Version:** v2.30.0
 - **Updated:** 2024-05-19T10:16:02Z
 - **Size:** 13.94 MB
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6943
+- **Stars:** 6945
 - **Version:** v1.6.1
 - **Updated:** 2024-05-19T17:51:33Z
 - **Size:** 42.14 MB
@@ -226,7 +226,7 @@
 - **Description:** A collection of hacks and one-off scripts
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/hacks](https://github.com/tomnomnom/hacks)
-- **Stars:** 2068
+- **Stars:** 2069
 - **Version:** null
 - **Updated:** 
 - **Size:** 1.87 MB
