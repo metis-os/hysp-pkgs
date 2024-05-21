@@ -2,7 +2,7 @@
 - **Description:** A tool for adding new lines to files, skipping duplicates
 - **Author:** tomnomnom
 - **Repository:** [https://github.com/tomnomnom/anew](https://github.com/tomnomnom/anew)
-- **Stars:** 1238
+- **Stars:** 1239
 - **Version:** v0.1.1
 - **Updated:** 2022-03-15T22:35:31Z
 - **Size:** 1.48 MB
@@ -18,7 +18,7 @@
 - **Description:** Yet another cross-platform graphical process/system monitor.
 - **Author:** ClementTsang
 - **Repository:** [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-- **Stars:** 9002
+- **Stars:** 9003
 - **Version:** 0.9.6
 - **Updated:** 2023-08-27T01:43:44Z
 - **Size:** 3.25 MB
@@ -130,7 +130,7 @@
 - **Description:** 📂 Web File Browser
 - **Author:** filebrowser
 - **Repository:** [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Stars:** 24158
+- **Stars:** 24160
 - **Version:** v2.30.0
 - **Updated:** 2024-05-19T10:16:02Z
 - **Size:** 13.94 MB
@@ -178,7 +178,7 @@
 - **Description:** httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - **Author:** projectdiscovery
 - **Repository:** [https://github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-- **Stars:** 6939
+- **Stars:** 6940
 - **Version:** v1.6.1
 - **Updated:** 2024-05-19T17:51:33Z
 - **Size:** 42.14 MB
@@ -355,8 +355,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 16890
-- **Version:** v1.66.2
-- **Updated:** 2024-05-14T21:23:24Z
+- **Version:** v1.66.4
+- **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 11.47 MB
 - **SHASUM:** 24a1b4266200c45b397db03d70a6a01df79cd1547f735290cd0740d7517e6571
 - **B3SUM:** 38099f42eabc0882deccdd5c510b13af8c19ca9477a0d822396931f0feca9c75
@@ -371,8 +371,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 16890
-- **Version:** v1.66.2
-- **Updated:** 2024-05-14T21:23:24Z
+- **Version:** v1.66.4
+- **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 11.28 MB
 - **SHASUM:** cce444027b42149ff524039c3ab7fd1c40b2ad0077b1d97568ab7ba58a66e83b
 - **B3SUM:** 214f05816f949e5e555ac7f03b121bb1b94d0fab34861ba374b141b3bde4a3ad
@@ -387,8 +387,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 16890
-- **Version:** v1.66.2
-- **Updated:** 2024-05-14T21:23:24Z
+- **Version:** v1.66.4
+- **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 23.54 MB
 - **SHASUM:** aa7042451443ce4d6302b37000267bf3f86083c5802865c24e298a2aef928140
 - **B3SUM:** cad167ba397c9ed9edbaf213dd4a8e999ba4978374a228ff342d4e3c83dd82e0
@@ -403,8 +403,8 @@
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Stars:** 16890
-- **Version:** v1.66.2
-- **Updated:** 2024-05-14T21:23:24Z
+- **Version:** v1.66.4
+- **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 21.67 MB
 - **SHASUM:** 8a046ad1985824e55fbec58a4e01bf02e2eb91e8cfd38ab78a8cafcd65704fd5
 - **B3SUM:** c5658e0cfdd86e33e1db225f3e8f4bafe47dddae1221ae2246e2e035a60bdc40
