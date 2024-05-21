@@ -5,7 +5,7 @@
 - **Stars:** 
 - **Version:** 23.01
 - **Updated:** (2023-06-20)
-- **Size:** 1.32 MB
+- **Size:** 
 - **SHA256SUM:** 1f13c7e1817f2f58a60dc14e757a24a20a080c9110f1d8d8eef0960987c25a45
 - **B3SUM:** 1d34a55e2eb1b25bf1ff8c2888310d00577485369d4f0e2b2ba82e992655d0b4
 - **Source:** https://bin.ajam.dev/x64_Windows/7z
