@@ -1,0 +1,26 @@
+[bin]
+name = "twingate-notifier"
+
+[package]
+architecture = "x86_64"
+name = "twingate-notifier"
+description = "programmatically deploy and maintain a zero trust approach to infrastructures"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "4.05 MB"
+bsum = "4fb96644717f1295cbbfa4ee7aeddf30aed1147ec2d871eeb1cf75b7eb44ef0c"
+sha = "1cfcb0837f2520cbb9a7b2c10dee5b58f552d4d35ee2d33d0966de0799f9b7e8"
+source = "https://bin.ajam.dev/x86_64_Linux/twingate-notifier"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["twingate-notifier"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

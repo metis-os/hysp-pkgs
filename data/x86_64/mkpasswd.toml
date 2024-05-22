@@ -1,0 +1,26 @@
+[bin]
+name = "mkpasswd"
+
+[package]
+architecture = "x86_64"
+name = "mkpasswd"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "149.1 kB"
+bsum = "34a0c052a7cfd0258abd3b69ee04d96c3049bbeb2bf0de5b524f6a1a47d82cd6"
+sha = "9ccbfb0821b2cf8f465b85840488ea198d0f4cc1719655b7fd3ae4e5e8058b1a"
+source = "https://bin.ajam.dev/x86_64_Linux/mkpasswd"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["mkpasswd"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

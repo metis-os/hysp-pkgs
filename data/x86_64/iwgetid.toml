@@ -1,0 +1,26 @@
+[bin]
+name = "iwgetid"
+
+[package]
+architecture = "x86_64"
+name = "iwgetid"
+description = "Wireless tools for Linux"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "112.24 kB"
+bsum = "6356be8e9b5921a580aa2073076cd7b85a907e30abd7dc00c2c079cb735628f1"
+sha = "df301d72f261207380c0afd7902e8ba58fdc1201f98dc5c0a5cc73ce4c5dd5bd"
+source = "https://bin.ajam.dev/x86_64_Linux/iwgetid"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["iwgetid"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "wg"
+
+[package]
+architecture = "x86_64"
+name = "wg"
+description = "tools for configuring WireGuard"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "133.54 kB"
+bsum = "4cea219444b207694d60edf02b53249e947632cb52142d3826976784764eb69b"
+sha = "22416b2c4f1af7158fef27f9f626b2b9b4a5a61ad7046dbaea9f73c63e54d4a0"
+source = "https://bin.ajam.dev/x86_64_Linux/wg"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["wg"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

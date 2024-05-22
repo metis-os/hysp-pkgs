@@ -1,0 +1,26 @@
+[bin]
+name = "stress-ng"
+
+[package]
+architecture = "x86_64"
+name = "stress-ng"
+description = "stress test a computer system in various selectable ways"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "5.17 MB"
+bsum = "4d39c30b48026724182d72a17da6c2a391cf0e5fe3d183e6bbe483e8e6c722de"
+sha = "0489db93f5660dfa486bb92996d5f7995f64ae87cbe3217df6151a6923319faf"
+source = "https://bin.ajam.dev/x86_64_Linux/stress-ng"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["stress-ng"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

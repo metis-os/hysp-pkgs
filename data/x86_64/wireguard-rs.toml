@@ -1,0 +1,26 @@
+[bin]
+name = "wireguard-rs"
+
+[package]
+architecture = "x86_64"
+name = "wireguard-rs"
+description = "Rust Implementation of WireGuard"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "2.99 MB"
+bsum = "29b81ed1244f2c0479766884fa00fb8f0f302d79b5e9568930339561ac5129a6"
+sha = "385a570b14d86ae1704eeca48b5ea28a09c3cc0db0631cbec2b99ef77dd4fd04"
+source = "https://bin.ajam.dev/x86_64_Linux/wireguard-rs"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["wireguard-rs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

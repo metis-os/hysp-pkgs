@@ -1,0 +1,26 @@
+[bin]
+name = "bash"
+
+[package]
+architecture = "x86_64"
+name = "bash"
+description = "GNU Bourne-Again Shell, the de facto standard shell on Linux"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "1.04 MB"
+bsum = "34051d0f98a13bf59ce4be7b12c73293ced756c028dd4522b4fefee7557b103d"
+sha = "c9129ab0aee363f9a6ea888b04184e4948e7d18de4f0043c2511eb9df1b9f188"
+source = "https://bin.ajam.dev/x86_64_Linux/bash"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["bash"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "iwconfig"
+
+[package]
+architecture = "x86_64"
+name = "iwconfig"
+description = "Wireless tools for Linux"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "116.34 kB"
+bsum = "087b4388d2ce132a4ea71bbbd830ea1cb82e4d10243f39bcdcf5887e5b30a147"
+sha = "67dba695be4c8fb121a98bd2a7fb506c5a3421bad195b0e097da78070dfb4ea8"
+source = "https://bin.ajam.dev/x86_64_Linux/iwconfig"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["iwconfig"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

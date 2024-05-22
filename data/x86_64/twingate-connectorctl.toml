@@ -1,0 +1,26 @@
+[bin]
+name = "twingate-connectorctl"
+
+[package]
+architecture = "x86_64"
+name = "twingate-connectorctl"
+description = "programmatically deploy and maintain a zero trust approach to infrastructures"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "4.55 MB"
+bsum = "90af251b7776fa36fed68676a376a8d412f691071d3ddf97a9a82f45fe58a368"
+sha = "a36e0b4b746d4ecde2a425bd2c80f3418f0d677dcba9403deefdce600c70a391"
+source = "https://bin.ajam.dev/x86_64_Linux/twingate-connectorctl"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["twingate-connectorctl"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

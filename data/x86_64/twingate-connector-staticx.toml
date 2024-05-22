@@ -1,0 +1,26 @@
+[bin]
+name = "twingate-connector-staticx"
+
+[package]
+architecture = "x86_64"
+name = "twingate-connector-staticx"
+description = "programmatically deploy and maintain a zero trust approach to infrastructures"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "7.33 MB"
+bsum = "d7e96639aca1fc6f6c49b09bfc6cd4fe911b73a4d576d49b02fba1a3bd20d769"
+sha = "11a822fdb875a1b6ed0e59b255381d90f3ea60effe0248610d02869f1ece7bdc"
+source = "https://bin.ajam.dev/x86_64_Linux/twingate-connector-staticx"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["twingate-connector-staticx"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

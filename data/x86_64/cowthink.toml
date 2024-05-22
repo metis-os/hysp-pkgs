@@ -1,0 +1,26 @@
+[bin]
+name = "cowthink"
+
+[package]
+architecture = "x86_64"
+name = "cowthink"
+description = "complete rewrite of cowsay in Go"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "2.86 MB"
+bsum = "45163aa001bd75959ce01e5c72951dbafa53dec60672a3d6f01e4e6411dedb4b"
+sha = "7b1d48cad275d9487989a52d23aa0a154d3aaebf30968883a425f6ec88ed582d"
+source = "https://bin.ajam.dev/x86_64_Linux/cowthink"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["cowthink"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

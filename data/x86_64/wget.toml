@@ -1,0 +1,26 @@
+[bin]
+name = "wget"
+
+[package]
+architecture = "x86_64"
+name = "wget"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "5.69 MB"
+bsum = "da4795533338d44b2ad30e34351e96fa2089b3a5362941caeb118e1b50cae706"
+sha = "a8e1f9928af1a28a06781211f0a00c2fe08ad5436302e667414fc542e4c1feff"
+source = "https://bin.ajam.dev/x86_64_Linux/wget"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["wget"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "sshpass"
+
+[package]
+architecture = "x86_64"
+name = "sshpass"
+description = "Standalone, Minimal HTTP Server"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "34.75 kB"
+bsum = "cc0343feb5e8ca961bcf36a65ba4fd3cd7006c36cadb28facd1395c72fb4b1e7"
+sha = "6b1555afc35021bce26c91d74e586ea1a7df558752dc7e6f87aa2535748301b4"
+source = "https://bin.ajam.dev/x86_64_Linux/sshpass"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["sshpass"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

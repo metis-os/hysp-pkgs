@@ -1,0 +1,26 @@
+[bin]
+name = "iwlist"
+
+[package]
+architecture = "x86_64"
+name = "iwlist"
+description = "Wireless tools for Linux"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "124.69 kB"
+bsum = "e01f0e890f015848ee9478fc4fa3311d8d39cb12a2750c5e917dc6398b9b215f"
+sha = "bd3e831f570ae2cb18978c4f156574552b111b780011b57d58b9639fdbdebaea"
+source = "https://bin.ajam.dev/x86_64_Linux/iwlist"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["iwlist"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

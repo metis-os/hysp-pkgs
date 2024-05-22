@@ -1,0 +1,26 @@
+[bin]
+name = "twingate-client"
+
+[package]
+architecture = "x86_64"
+name = "twingate-client"
+description = "programmatically deploy and maintain a zero trust approach to infrastructures"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "3.64 MB"
+bsum = "f3c889866ea68e9d1e78dd9febb144d9120e0b0836631b9e0ebf70c60235999b"
+sha = "c16fa990295bdaad4e3f8b7d74efe9a1c542d46b6da0695b604328aeb3ce2f82"
+source = "https://bin.ajam.dev/x86_64_Linux/twingate-client"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["twingate-client"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

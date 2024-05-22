@@ -1,0 +1,26 @@
+[bin]
+name = "ncdu"
+
+[package]
+architecture = "x86_64"
+name = "ncdu"
+description = "disk usage analyzer"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "596.46 kB"
+bsum = "5decfa473168ee0fa5d149e6017cfc323b3f59f704e366e575ff9e113d521a2d"
+sha = "e3a0f1e83f2bb859629a9769b62bc8697e1ad28d78da5bbf1b566d5602b5639d"
+source = "https://bin.ajam.dev/x86_64_Linux/ncdu"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ncdu"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

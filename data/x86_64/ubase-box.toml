@@ -1,0 +1,26 @@
+[bin]
+name = "ubase-box"
+
+[package]
+architecture = "x86_64"
+name = "ubase-box"
+description = "a collection of unportable tools, similar in spirit to util-linux but much simpler."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "1.37 MB"
+bsum = "1a499d57dceb1d602bf7e8291ade923a238f2ef95dcd564470deb70d52df75bc"
+sha = "5d09902fd1b8133086ecb6a0951cf89a0d6f03da71c76c1309b11a9fce5f1a16"
+source = "https://bin.ajam.dev/x86_64_Linux/ubase-box"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ubase-box"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

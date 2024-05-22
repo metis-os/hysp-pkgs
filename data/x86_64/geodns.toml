@@ -1,0 +1,26 @@
+[bin]
+name = "geodns"
+
+[package]
+architecture = "x86_64"
+name = "geodns"
+description = "Network tools that run from multiple geographic locations using the GeoNet API."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "2.57 MB"
+bsum = "9e07f5356639cc38968e735f099b6dd203939484d2b88931dd0a285af392bb7d"
+sha = "db4f976502f1d12c17dbdf016bae11244d359121a2a18119212f965ee3d6c42d"
+source = "https://bin.ajam.dev/x86_64_Linux/geodns"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["geodns"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

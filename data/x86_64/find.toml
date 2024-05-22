@@ -1,0 +1,26 @@
+[bin]
+name = "find"
+
+[package]
+architecture = "x86_64"
+name = "find"
+description = "GNU Find Utilities, the basic directory searching utilities of the GNU operating system"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "371.87 kB"
+bsum = "74093921ebbf54c12c1c4cfffe0a4dcff157b1dfbcec53e2aae95f88f0ac89d5"
+sha = "76795107e5b3735df625f4f15f9fa9ac667f5506349508ba466a26c59138024f"
+source = "https://bin.ajam.dev/x86_64_Linux/find"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["find"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

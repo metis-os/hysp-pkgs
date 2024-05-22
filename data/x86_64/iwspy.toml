@@ -1,0 +1,26 @@
+[bin]
+name = "iwspy"
+
+[package]
+architecture = "x86_64"
+name = "iwspy"
+description = "Wireless tools for Linux"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "104.05 kB"
+bsum = "ca7251def14b65568133351d88ecd1fd328bcd4f4eee779b4221cb9b92a87a09"
+sha = "9e020b1a277d851e0d3386dfb5d2691e04bc0aac85eb1a6a596eb2c4e70656d3"
+source = "https://bin.ajam.dev/x86_64_Linux/iwspy"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["iwspy"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

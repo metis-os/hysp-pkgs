@@ -1,0 +1,26 @@
+[bin]
+name = "grep"
+
+[package]
+architecture = "x86_64"
+name = "grep"
+description = "Search one or more input files for lines containing a match to a specified pattern."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "993.62 kB"
+bsum = "0bf41c08ee5cb5a17c3e74a3e5622a358a4a7480280dfd1280d8f2f5e82e7769"
+sha = "42cef1024c914a76b647ef92ab518295b6821d8b58c5fe39f12d44da78199be1"
+source = "https://bin.ajam.dev/x86_64_Linux/grep"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["grep"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

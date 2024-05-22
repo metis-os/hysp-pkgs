@@ -1,0 +1,26 @@
+[bin]
+name = "wireguard-go"
+
+[package]
+architecture = "x86_64"
+name = "wireguard-go"
+description = "Go Implementation of WireGuard"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "2.84 MB"
+bsum = "65121ccf0424bc3f013f47827d2c457e48241760c22d5cf448a572cbb7e7b74b"
+sha = "1f4754478089fa12a4d5607e03c04d7ec4c3ab609cb3d35fb95984941777d229"
+source = "https://bin.ajam.dev/x86_64_Linux/wireguard-go"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["wireguard-go"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

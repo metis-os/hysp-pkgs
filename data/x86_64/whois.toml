@@ -1,0 +1,26 @@
+[bin]
+name = "whois"
+
+[package]
+architecture = "x86_64"
+name = "whois"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "616.82 kB"
+bsum = "4e471abf54d95867c834f63eaa33f067344f5ed46373cfc9c9fbd5fc6346d349"
+sha = "4e989cbbe7b8f5f2824a73c492c9e02a33796cb87c2638d3c4c550b2ca43c28b"
+source = "https://bin.ajam.dev/x86_64_Linux/whois"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["whois"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

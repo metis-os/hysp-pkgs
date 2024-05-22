@@ -1,0 +1,26 @@
+[bin]
+name = "zsh"
+
+[package]
+architecture = "x86_64"
+name = "zsh"
+description = "The Z shell"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "1.56 MB"
+bsum = "4455ed55f1c1eb10ccd5279bcebed585989286a674a68a6ebe02614c285f0953"
+sha = "8254bd8f792f714fe244ebca369c5824627a6fcf4eddb2860ec2a69219c6f664"
+source = "https://bin.ajam.dev/x86_64_Linux/zsh"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["zsh"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

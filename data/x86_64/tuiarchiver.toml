@@ -1,0 +1,26 @@
+[bin]
+name = "tuiarchiver"
+
+[package]
+architecture = "x86_64"
+name = "tuiarchiver"
+description = "terminal application to list / manage archives"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "22.34 MB"
+bsum = "178ed42ea6d1379cb812591e1e54319ed75e7955bab7c86a54f8f39067697143"
+sha = "e22e323a7816a05711d5ee584a777c3568601617a47752f09b8100c3f601d55c"
+source = "https://bin.ajam.dev/x86_64_Linux/tuiarchiver"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["tuiarchiver"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

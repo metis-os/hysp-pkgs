@@ -1,0 +1,26 @@
+[bin]
+name = "ifrename"
+
+[package]
+architecture = "x86_64"
+name = "ifrename"
+description = "Wireless tools for Linux"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "141.17 kB"
+bsum = "2e9d6df9d4f2b04334132b2b69e97d7046fa61682a34d22521f5df1f0de33785"
+sha = "a729d0be962453c03afaf126cd5189850a3a6fedc8e637121e4e2cf2b2be1851"
+source = "https://bin.ajam.dev/x86_64_Linux/ifrename"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ifrename"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

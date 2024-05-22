@@ -1,0 +1,26 @@
+[bin]
+name = "wg-quick"
+
+[package]
+architecture = "x86_64"
+name = "wg-quick"
+description = "tools for configuring WireGuard"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "13.46 kB"
+bsum = "6ef6d820c6a71b2f1177009079fd1b4340cc6cb085edc4ec28bcddd6a53ed5a9"
+sha = "81e10908b7c6917b18e4579053a9859a79c74a328ca7633b62c02e3202fc7e00"
+source = "https://bin.ajam.dev/x86_64_Linux/wg-quick"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["wg-quick"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

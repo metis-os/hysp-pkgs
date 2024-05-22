@@ -1,0 +1,26 @@
+[bin]
+name = "xargs"
+
+[package]
+architecture = "x86_64"
+name = "xargs"
+description = "GNU Find Utilities, the basic directory searching utilities of the GNU operating system"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "124.94 kB"
+bsum = "af763661aa0234f46398d26f938c6a30e660676ac0538498769e79fc26b81310"
+sha = "985e419ecf73c42ba8408876da58729474e28e53606207d56aab550d917ee760"
+source = "https://bin.ajam.dev/x86_64_Linux/xargs"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["xargs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

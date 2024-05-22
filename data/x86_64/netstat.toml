@@ -1,0 +1,26 @@
+[bin]
+name = "netstat"
+
+[package]
+architecture = "x86_64"
+name = "netstat"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "193.68 kB"
+bsum = "f5f5c7a8a3ca6122215b8503195a583fdc240b188b73b710ec55198aaa701551"
+sha = "5d2ef7f0668ce75ee1d796e0c541605c91ddb8636931be0cc6b11083118181f3"
+source = "https://bin.ajam.dev/x86_64_Linux/netstat"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["netstat"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

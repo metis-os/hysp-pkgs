@@ -1,0 +1,26 @@
+[bin]
+name = "nrich"
+
+[package]
+architecture = "x86_64"
+name = "nrich"
+description = "A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "1.3 MB"
+bsum = "16cb65aaac369717300859e594ba831fcc71614844ec01a29d87db5b04d9f311"
+sha = "6d28a23be5c787fa1e99a8fa9c9af56480da62a8fba06a009f6ac00b7cd3e62d"
+source = "https://bin.ajam.dev/x86_64_Linux/nrich"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["nrich"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

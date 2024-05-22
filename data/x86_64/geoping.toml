@@ -1,0 +1,26 @@
+[bin]
+name = "geoping"
+
+[package]
+architecture = "x86_64"
+name = "geoping"
+description = "Network tools that run from multiple geographic locations using the GeoNet API."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "2.56 MB"
+bsum = "71ec07bae7c9b9e2605d2604494c2da9857536ea1f9f327fdefbf4b1d3afbfd6"
+sha = "3bdd8143caff51df19af7937e3117d4d784a8a545ad4e773164e83012ba7c34e"
+source = "https://bin.ajam.dev/x86_64_Linux/geoping"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["geoping"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

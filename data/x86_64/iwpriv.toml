@@ -1,0 +1,26 @@
+[bin]
+name = "iwpriv"
+
+[package]
+architecture = "x86_64"
+name = "iwpriv"
+description = "Wireless tools for Linux"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "104.05 kB"
+bsum = "d1c4d3c0b5c1277b70e7e54e80c5912cc542eed92a97c1386d8d3fc81dee0646"
+sha = "a92a72db39f8813415bd14f2037caea1353b6e6c878d316a5ecdafee60cb387e"
+source = "https://bin.ajam.dev/x86_64_Linux/iwpriv"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["iwpriv"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "iwevent"
+
+[package]
+architecture = "x86_64"
+name = "iwevent"
+description = "Wireless tools for Linux"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "112.24 kB"
+bsum = "0a98fcecb37304cdf4e45d7118929446f828cae58c570813f2d37b1b6123f84a"
+sha = "d6e0008339777e58273b644260862fd7f157c29388f518cbf36dfd81fb4b54b3"
+source = "https://bin.ajam.dev/x86_64_Linux/iwevent"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["iwevent"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

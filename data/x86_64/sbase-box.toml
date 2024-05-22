@@ -1,0 +1,26 @@
+[bin]
+name = "sbase-box"
+
+[package]
+architecture = "x86_64"
+name = "sbase-box"
+description = "a collection of unix tools that are portable across unix-systems."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "452.6 kB"
+bsum = "847fe714ec8e79366c9c740e7ea1d0e11dba405438112ba02a076904bac025c3"
+sha = "72f9af418daba2508da001a3eca8fba52ee266c36f54949b92834abb928079d1"
+source = "https://bin.ajam.dev/x86_64_Linux/sbase-box"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["sbase-box"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]
