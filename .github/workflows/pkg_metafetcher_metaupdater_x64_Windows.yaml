@@ -59,8 +59,6 @@ jobs:
           mkdir -p "$GITHUB_WORKSPACE/main/data/x64_Windows"
         continue-on-error: true
 #------------------------------------------------------------------------------------#
-     #----------------------------#
-     #For every Github Repo from https://bin.ajam.dev/x64_Windows/METADATA.json
       - name: Generate Meta ("bin.ajam.dev/x64_Windows/METADATA.json")
         run: |
           #Presets
@@ -69,46 +67,22 @@ jobs:
           #Get Json
           curl -qfsSL "https://bin.ajam.dev/x64_Windows/METADATA.json" -o "/tmp/METADATA.json"
           #Sanity Check
-          if [ -s "/tmp/METADATA.json" ] && jq '.[].Repo // empty | if length == 0 then . / 0 else . end' "/tmp/METADATA.json" >/dev/null 2>&1; then
-            # #This is unreliable
-            # jq -c '.[] | select(.Name | test("\\.7z$|BLAKE3SUM|\\.txt$|\\.json$|\\.log$|\\.md$|SHA256SUM") | not) | select(has("Repo")) | select(.Repo != null) | select(.Repo | test("^https://github.com"))' "/tmp/METADATA.json" | while IFS= read -r obj; do
-            #Instead use readarray (Bash Builtin) & a for loop
-            readarray -t objs < <(jq -c '.[] | select(.Name | test("\\.7z$|BLAKE3SUM|\\.txt$|\\.json$|\\.log$|\\.md$|SHA256SUM") | not) | select(has("Repo")) | select(.Repo != null) | select(.Repo | test("^https://github.com"))' "/tmp/METADATA.json")
+          if [ -s "/tmp/METADATA.json" ] && jq -e 'map(select(.repo_url != null and .repo_url != "" or .web_url != null and .web_url != "")) | length > 0' "/tmp/METADATA.json" >/dev/null 2>&1; then
+          #Get All Bins
+            readarray -t objs < <(jq 'map(select(.repo_url != null and .repo_url != "" or .web_url != null and .web_url != ""))' /tmp/METADATA.json | jq -c '.[]')
             for obj in "${objs[@]}"; do
                 #Extract the Name and Repo from the JSON object
-                bin="$(jq -r '.Name' <<< "$obj" | sed 's/\s//g' | tr -d '[:space:]')" && export bin="$bin"
-                repo="$(jq -r '.Repo' <<< "$obj" | sed 's|^https://github.com/||' | sed 's/\s//g' | tr -d '[:space:]')" && export repo="$repo"
+                bin="$(jq -r '.name' <<< "$obj" | sed 's/\s//g' | tr -d '[:space:]')" && export bin="$bin"
+                repo="$(jq -r '.repo_url' <<< "$obj" | tr -d '[:space:]')" && export repo="$repo"
+                web="$(jq -r '.web_url' <<< "$obj" | tr -d '[:space:]')" && export web="$web"
                 # Set up the environment variables and execute the one-liner
-                echo -e "\n\n[+] Generating Meta for $bin ($repo)\n"
-                BIN="$bin" REPO="$repo" SOURCE_BIN="https://bin.ajam.dev/x64_Windows" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x64_Windows_bin.ajam.dev.sh")
+                echo -e "\n\n[+] Generating Meta for $bin ($repo || $web)\n"
+                BIN="$bin" REPO_URL="$repo" WEB_URL="$web" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x64_Windows_bin.ajam.dev.sh")
                 #unset vars
-                unset bin repo
+                unset bin repo web
             done
           fi
         continue-on-error: true
-#----------------------------#
-#For non github-repos
-     #----------------------------#
-     #7z : A file archiver with a high compression ratio
-      - name: Generate Meta (7z)
-        run: |
-          #Presets
-          set +x ; set +e
-          #--------------#
-          #Generate Basic Meta
-          export SOURCE_BIN="https://bin.ajam.dev/x64_Windows"
-          export BIN="7z.exe" ; export DESCRIPTION="7-Zip is a file archiver with a high compression ratio." ;  export AUTHOR="Igor Pavlov" ; export REPO_URL="https://sourceforge.net/projects/sevenzip/" ; export STARS="" ; export SOURCE_URL="https://bin.ajam.dev/x64_Windows/7z" ; export LANGUAGE="C++" ; export LICENSE="LGPL-2.1-or-later" ; export TOPICS='["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]'
-          PKG_METADATA="$(curl -qfsSL "$SOURCE_BIN/METADATA.json" 2>/dev/null | jq --arg bin "$BIN" '.[] | select(.Name == $bin)')" && export PKG_METADATA="$PKG_METADATA" 
-          #Generate Dynamic Meta
-          BSUM="$(curl -qfsSL "$SOURCE_BIN/BLAKE3SUM.txt" 2>/dev/null | grep -i "\b$BIN\b" | awk '{print $1}' | sort  -u | head -n 1 | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export BSUM="$BSUM"
-          SHA="$(curl -qfsSL "$SOURCE_BIN/SHA256SUM.txt" 2>/dev/null | grep -i "\b$BIN\b" | awk '{print $1}' | sort  -u | head -n 1 | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SHA="$SHA"
-          SIZE="$(echo $PKG_METADATA | jq -r '.Size' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export SIZE="$SIZE"
-          PKG_VERSION="$(curl -qfsSL "https://www.7-zip.org/download.html" | grep -oP '<B>Download 7-Zip \K[^<]*' | grep -iv 'windows' | sort -u | tail -n 1 |  awk '{print $1}')" && export PKG_VERSION="$PKG_VERSION" 
-          PKG_RELEASED="$(curl -qfsSL "https://www.7-zip.org/download.html" | grep -oP '<B>Download 7-Zip \K[^<]*' | grep -iv 'windows' | sort -u | tail -n 1 |  awk '{print $2}')" && export PKG_RELEASED="$PKG_RELEASED" 
-          #Update
-          bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metaupdater_x64_Windows.sh")
-        continue-on-error: true
-     #----------------------------#
 #------------------------------------------------------------------------------------#        
 
 #------------------------------------------------------------------------------------#        
@@ -219,13 +193,13 @@ jobs:
           cd "$GITHUB_WORKSPACE/main"          
           #aarch64_arm64
           echo -e "[+] aarch64_arm64\n" > "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
-          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/aarch64_arm64_Linux/METADATA.json" | jq -r '.[].Name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/aarch64_arm64_Linux/METADATA.json" | jq -r '.[].name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #x86_64
           echo -e "\n\n[+] x86_64\n" >> "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
-          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/METADATA.json" | jq -r '.[].Name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/METADATA.json" | jq -r '.[].name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #x64_Windows
           echo -e "\n\n[+] x64_Windows\n" >> "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
-          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/x64_Windows/METADATA.json" | jq -r '.[].Name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x64_Windows")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/x64_Windows/METADATA.json" | jq -r '.[].name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x64_Windows")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #Only Missing
           #aarch64_arm64
           cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "aarch64_arm64" 2>/dev/null | awk '/x86_64/{exit} {print}' 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_aarch64_arm64.txt"
