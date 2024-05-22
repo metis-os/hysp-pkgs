@@ -61,224 +61,29 @@ jobs:
           mkdir -p "$GITHUB_WORKSPACE/main/data/arm64_v8a_Android"
         continue-on-error: true
 #------------------------------------------------------------------------------------#
-     #----------------------------#
-     #anew : A tool for adding new lines to files, skipping duplicates 
-      - name: Generate Meta (anew)
+      - name: Generate Meta ("bin.ajam.dev/arm64_v8a_Android/METADATA.json")
         run: |
           #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
+          set +x ; set +e
           #--------------#
-          BIN="anew" REPO="tomnomnom/anew" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#        
-     #bottom : htop clone | graphical process/system monitor
-      - name: Generate Meta (bottom)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="btm" REPO="ClementTsang/bottom" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------# 
-     #certstream : Cli for calidog's certstream
-      - name: Generate Meta (certstream )
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="certstream" REPO="Azathothas/Arsenal" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #crt : A CLI tool to check Certificate Transparency logs of a domain name
-      - name: Generate Meta (crt)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="crt" REPO="cemulus/crt" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #dnsx : Multi-purpose DNS toolkit allow to run multiple DNS queries
-      - name: Generate Meta (dnsx)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="dnsx" REPO="projectdiscovery/dnsx" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#   
-     #eget : Easily install prebuilt binaries from GitHub
-      - name: Generate Meta (eget)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="eget" REPO="zyedidia/eget" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #encode : Encode|Decode input from stdin
-      - name: Generate Meta (encode)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="encode" REPO="Brum3ns/encode" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #ffuf : Fast web fuzzer written in Go 
-      - name: Generate Meta (ffuf)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="ffuf" REPO="ffuf/ffuf" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #filebrowser : 📂 Web File Browser
-      - name: Generate Meta (filebrowser)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="filebrowser" REPO="filebrowser/filebrowser" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #godns : A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc
-      - name: Generate Meta (godns)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="godns" REPO="TimothyYe/godns" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #gost : GO Simple Tunnel - a simple tunnel written in golang
-      - name: Generate Meta (gost)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="gost" REPO="ginuerzh/gost" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #gowitness : 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
-      - name: Generate Meta (gowitness)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="gowitness" REPO="sensepost/gowitness" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #httpx : httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes
-      - name: Generate Meta (httpx)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="httpx" REPO="projectdiscovery/httpx" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------# 
-     #hxn : ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal
-      - name: Generate Meta (hxn)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="hxn" REPO="pwnwriter/haylxon" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------# 
-     #hysp : 📦 An independent package manager that every hacker deserves.
-      - name: Generate Meta (hysp)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="hysp" REPO="pwnwriter/hysp" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #inscope : filtering URLs and domains supplied on stdin to make sure they meet one of a set of regular expressions
-      - name: Generate Meta (inscope)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="inscope" REPO="tomnomnom/hacks" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true  
-     #----------------------------#
-     #jless : jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data
-      - name: Generate Meta (jless)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="jless" REPO="PaulJuliusMartinez/jless" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #kanha : 🦚 A web-app pentesting suite written in rust
-      - name: Generate Meta (hxn)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="kanha" REPO="pwnwriter/kanha" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #mapcidr : Utility program to perform multiple operations for a given subnet/CIDR ranges
-      - name: Generate Meta (mapcidr)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="mapcidr" REPO="projectdiscovery/mapcidr" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #pspy : Monitor linux processes without root permissions 
-      - name: Generate Meta (pspy)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="pspy" REPO="DominicBreuker/pspy" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #scopegen : Generates .scope compatible format for ScopeView (based on TomNomNom's Inscope)
-      - name: Generate Meta (scopegen)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="scopegen" REPO="Azathothas/Arsenal" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #static-web-server : A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
-      - name: Generate Meta (static-web-server)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="static-web-server" REPO="static-web-server/static-web-server" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #sudo : A wrapper script to drop to the supported shells or execute shell script files with superuser (root) context in termux
-      - name: Generate Meta (sudo)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="sudo" REPO="agnostic-apollo/sudo" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-        continue-on-error: true
-     #----------------------------#
-     #tailscale : The easiest, most secure way to use WireGuard and 2FA
-      - name: Generate Meta (tailscale)
-        run: |
-          #Presets
-          set -x ; set +e ; ulimit -S -s unlimited
-          #--------------#
-          BIN="tailscale" REPO="tailscale/tailscale" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-          BIN="tailscaled" REPO="tailscale/tailscale" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-          BIN="tailscale_dynamic_native" REPO="tailscale/tailscale" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
-          BIN="tailscaled_dynamic_native" REPO="tailscale/tailscale" SOURCE_BIN="https://bin.ajam.dev/arm64_v8a_Android" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
+          #Get Json
+          curl -qfsSL "https://bin.ajam.dev/arm64_v8a_Android/METADATA.json" -o "/tmp/METADATA.json"
+          #Sanity Check
+          if [ -s "/tmp/METADATA.json" ] && jq -e 'map(select(.repo_url != null and .repo_url != "" or .web_url != null and .web_url != "")) | length > 0' "/tmp/METADATA.json" >/dev/null 2>&1; then
+          #Get All Bins
+            readarray -t objs < <(jq 'map(select(.repo_url != null and .repo_url != "" or .web_url != null and .web_url != ""))' /tmp/METADATA.json | jq -c '.[]')
+            for obj in "${objs[@]}"; do
+                #Extract the Name and Repo from the JSON object
+                bin="$(jq -r '.name' <<< "$obj" | sed 's/\s//g' | tr -d '[:space:]')" && export bin="$bin"
+                repo="$(jq -r '.repo_url' <<< "$obj" | tr -d '[:space:]')" && export repo="$repo"
+                web="$(jq -r '.web_url' <<< "$obj" | tr -d '[:space:]')" && export web="$web"
+                # Set up the environment variables and execute the one-liner
+                echo -e "\n\n[+] Generating Meta for $bin ($repo || $web)\n"
+                BIN="$bin" REPO_URL="$repo" WEB_URL="$web" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_v8a_Android_bin.ajam.dev.sh")
+                #unset vars
+                unset bin repo web
+            done
+          fi
         continue-on-error: true
 #------------------------------------------------------------------------------------#        
       - name: Dos2Unix Everything
@@ -388,10 +193,10 @@ jobs:
           cd "$GITHUB_WORKSPACE/main"          
           #aarch64_arm64
           echo -e "[+] aarch64_arm64\n" > "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
-          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/aarch64_arm64_Linux/METADATA.json" | jq -r '.[].Name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/aarch64_arm64_Linux/METADATA.json" | jq -r '.[].name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "aarch64_arm64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #x86_64
           echo -e "\n\n[+] x86_64\n" >> "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
-          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/METADATA.json" | jq -r '.[].Name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
+          delta -s --raw <(curl -qfsSL "https://bin.ajam.dev/x86_64_Linux/METADATA.json" | jq -r '.[].name' | grep -v "\.7z$\|\.bz2$\|\.json$\|\.gz$\|\.md$\|\.txt$\|\.tar$\|\.zip$" | sort -u) <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/data/metadata.json" | jq -r '.packages[] | select(.architecture == "x86_64")' | jq -r '.name' | sort -u) | ansi2txt | grep -iv "^/proc" | grep '\|' | grep -iv '@\|BLAKE3SUM\|README.md\|SHA256SUM' | grep -iv '/dev/fd' | tee -a "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt"
           #Only Missing
           #aarch64_arm64
           cat "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF.txt" | grep -A 9999999999999 "aarch64_arm64" 2>/dev/null | awk '/x86_64/{exit} {print}' 2>/dev/null | grep -E "^\s*\│.*│\s*$" | awk -F'│' '{if($2 ~ /^ *$/ || $4 ~ /^ *$/) print}' | tee "$GITHUB_WORKSPACE/main/.github/PKGS_DIFF_aarch64_arm64.txt"
