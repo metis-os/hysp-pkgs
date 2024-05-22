@@ -1,0 +1,26 @@
+[bin]
+name = "geodns.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "geodns.exe"
+description = "Network tools that run from multiple geographic locations using the GeoNet API."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "2.37 MB"
+bsum = "cab1b90fc8b25375c60500bafb07f0939bd7e51b07fe62725e2672feeadb5f33"
+sha = "5086bd7e0c006e591375258a9fc8e141324d04416be4935729920d3e82d68bcc"
+source = "https://bin.ajam.dev/x64_Windows/geodns.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["geodns.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

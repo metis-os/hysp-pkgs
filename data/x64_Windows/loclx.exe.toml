@@ -1,0 +1,26 @@
+[bin]
+name = "loclx.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "loclx.exe"
+description = "reverse proxy that enables you to expose your localhost to the internet."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "23.85 MB"
+bsum = "b69cefa69c63d79d6d74d355eb888b13bf7122bc716a8af4556df868ca3539c3"
+sha = "74820cecca456cccbe53890e95dc7daa7321ec1ce8ee11752fdb8b2fbe8c8f0f"
+source = "https://bin.ajam.dev/x64_Windows/loclx.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["loclx.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ffmpeg.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "ffmpeg.exe"
+description = "A complete, cross-platform solution to record, convert and stream audio and video."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "141.66 MB"
+bsum = "f09bc3c7b11add8e1346716d38f078ad51d6d098c8c914237d466201388dec43"
+sha = "7e444db4a1cacdf540c837b005f6f5f3f9d9c91df106025462f8226cfb8632d8"
+source = "https://bin.ajam.dev/x64_Windows/ffmpeg.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ffmpeg.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

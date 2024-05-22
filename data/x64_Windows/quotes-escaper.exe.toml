@@ -1,0 +1,26 @@
+[bin]
+name = "quotes-escaper.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "quotes-escaper.exe"
+description = "Escape Single | Double Quotes"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "1.56 MB"
+bsum = "c009ee6011df9d8644a4e3e9940016b4155d3a38b6465a6ef7cf83d89669c210"
+sha = "11e6d12c7f971187d3e326bf7486cab416024fe984c7e56863ca600704994781"
+source = "https://bin.ajam.dev/x64_Windows/quotes-escaper.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["quotes-escaper.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

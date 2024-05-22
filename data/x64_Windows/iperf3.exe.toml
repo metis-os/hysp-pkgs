@@ -1,0 +1,26 @@
+[bin]
+name = "iperf3.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "iperf3.exe"
+description = ""
+author = ""
+repo = "https://github.com/userdocs/iperf3-statichttps://github.com/userdocs/iperf3-static"
+stars = ""
+version = ""
+updated = ""
+size = "141.82 kB"
+bsum = "a3f5eb49d9a61d3c316b2c84baf0fbb0a5e03ddd8ae273fea2a4b8a61b15c417"
+sha = "37cfe14a1c1a9928b2ba143365c54dbb870b7f637187b760fc72d49ab19a6e90"
+source = "https://bin.ajam.dev/x64_Windows/iperf3.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["iperf3.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -11,8 +11,8 @@ stars = "11"
 version = "v0.1.0"
 updated = "2023-11-23T16:11:10Z"
 size = "787.46 kB"
-bsum = "7feb98705713e06811cca5a3c309a5f3f88f9c1ab98f97561868bca2caff7242"
-sha = "9ad0b63a81364ab87c8a509e95c9b6e56a77f78c861d71d90f62404f2b6cad3a"
+bsum = "ee100b300ae9672f95aa70ef208d40da878796c3fc61dbff2575df0f5f238cd2"
+sha = "562d7fa4aa382ad3988938a3e5585f68035564b59e6f5058c0268c0ee864ef10"
 source = "https://bin.ajam.dev/x64_Windows/anew.exe"
 language = "Rust"
 license = "MIT License"
@@ -22,5 +22,5 @@ conflicts  = ["anew.exe"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = [""]
 categories = ["Utilities"]

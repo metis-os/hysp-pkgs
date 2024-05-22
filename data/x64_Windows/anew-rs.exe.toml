@@ -11,8 +11,8 @@ stars = "11"
 version = "v0.1.0"
 updated = "2023-11-23T16:11:10Z"
 size = "787.46 kB"
-bsum = "f500fadcd2881ba0aa14b5381a404d36166488ce7366add688bab2420abcaf56"
-sha = "e393c6d517cd48d922544d01662b3936fe0ec3a1ab55a368f889744bf7a6f396"
+bsum = "c1d63624e723bb272ff491fcd20894ffad49310e5b135da9ed2169323195cb29"
+sha = "da74954168b6ec09a133ddc1c80fcbbea6cdccee75c4070f2b5323b4893e06dc"
 source = "https://bin.ajam.dev/x64_Windows/anew-rs.exe"
 language = "Rust"
 license = "MIT License"
@@ -22,5 +22,5 @@ conflicts  = ["anew-rs.exe"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = [""]
 categories = ["Utilities"]

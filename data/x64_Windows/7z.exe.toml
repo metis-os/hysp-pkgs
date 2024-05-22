@@ -4,23 +4,23 @@ name = "7z.exe"
 [package]
 architecture = "x64_Windows"
 name = "7z.exe"
-description = "7-Zip is a file archiver with a high compression ratio."
-author = "Igor Pavlov"
-repo = "https://sourceforge.net/projects/sevenzip/"
-stars = ""
-version = "23.01"
-updated = "(2023-06-20)"
-size = ""
+description = "7-Zip"
+author = "ip7z"
+repo = "https://github.com/ip7z/7zip"
+stars = "279"
+version = "24.05"
+updated = "2024-05-15T19:12:58Z"
+size = "1.32 MB"
 bsum = "de60aeab51f0b445eb58f684fc58c42730434de1985e7a8cd0d572960d6d7fe4"
 sha = "15f5b21f80e080e7349e53e476c86094b798e6cd08a7e5ca0742604cae6a4262"
-source = "https://bin.ajam.dev/x64_Windows/7z"
+source = "https://bin.ajam.dev/x64_Windows/7z.exe"
 language = "C++"
-license = "LGPL-2.1-or-later"
+license = ""
 
 [package.conditions]
 conflicts  = ["7z.exe"]
 requires = []
 
 [package.metadata]
-keywords = ["File archiver", "Compression", "tar gz 7z zip rar xz bzip2"]
+keywords = [""]
 categories = ["Utilities"]

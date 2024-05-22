@@ -1,0 +1,26 @@
+[bin]
+name = "busybox-unicode.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "busybox-unicode.exe"
+description = "single binary that contains many common Unix tools"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "666.11 kB"
+bsum = "b28b38c19c7df4b811900e72b554afdbaf3cf25ebb2eb19cee5c34c4a63ebb05"
+sha = "d612f06a4506dd2b3f65126ca94f03812b52c6e0c25583c4be8c829446b4ede7"
+source = "https://bin.ajam.dev/x64_Windows/busybox-unicode.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["busybox-unicode.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

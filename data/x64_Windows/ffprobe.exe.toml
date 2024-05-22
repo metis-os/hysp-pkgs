@@ -1,0 +1,26 @@
+[bin]
+name = "ffprobe.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "ffprobe.exe"
+description = "A complete, cross-platform solution to record, convert and stream audio and video."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "141.5 MB"
+bsum = "4c9e30ce3ab38b896a6087fdce7980b331d35d4b2805c7a98aa7e4a487f370d7"
+sha = "072e214347b87901ca547c0e9912b87a232ab088f19e6c554752121873ad7636"
+source = "https://bin.ajam.dev/x64_Windows/ffprobe.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ffprobe.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ngrok.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "ngrok.exe"
+description = "External Tunnel to Internal Assets"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "29.52 MB"
+bsum = "f050e1bd75e64c42b8a4eba078ba7b68e87f2ae2e94c2ef8ce1673ad85b5df81"
+sha = "32cde3d979a29027ad5fb42b0f05d517b0af324219359757361bfa4421f9de31"
+source = "https://bin.ajam.dev/x64_Windows/ngrok.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ngrok.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

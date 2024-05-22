@@ -1,0 +1,26 @@
+[bin]
+name = "ein.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "ein.exe"
+description = " safe pure Rust implementation of Git"
+author = "Byron"
+repo = "https://github.com/Byron/gitoxide"
+stars = "7981"
+version = "v0.36.0"
+updated = "2024-05-22T11:54:12Z"
+size = "9.17 MB"
+bsum = "7947e8c64ccfc22d754de55370d900e10cf35948a93af0cac53ae3101f2da9c6"
+sha = "06348aac8c42c14e262bdee7f23d05fc4524f14fdf2cc8d1fd28228cedc655d6"
+source = "https://bin.ajam.dev/x64_Windows/ein.exe"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ein.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["blazingly-fast","built-with-rust","cli","git","version-control"]
+categories = ["Utilities"]

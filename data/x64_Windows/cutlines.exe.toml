@@ -1,0 +1,26 @@
+[bin]
+name = "cutlines.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "cutlines.exe"
+description = " Paste Lines (from|to) file without  even if another process is writing to it"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "1.96 MB"
+bsum = "ebd6a8dd402e8bdd4188bcb656d199a0b9d8928bae1347c4599981e43adc38da"
+sha = "d44a8062e5863706e0583592317f9bc916cfe4eabe1c267ee4479086a8825ebf"
+source = "https://bin.ajam.dev/x64_Windows/cutlines.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["cutlines.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

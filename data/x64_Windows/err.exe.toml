@@ -1,0 +1,26 @@
+[bin]
+name = "err.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "err.exe"
+description = "The Error Lookup Tool, also known as ERR, is a command-line tool to decode many Microsoft error codes. It does not require elevation and is very easy to use."
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "2.29 MB"
+bsum = "083b983cde888bf1a325daf00673c182b05f6f7273f3edf5735ee451a8c0d14a"
+sha = "8e130a58032d78a21e802df23ba99ffba715644f2dbed6975c74718e0f157c62"
+source = "https://bin.ajam.dev/x64_Windows/err.exe"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["err.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

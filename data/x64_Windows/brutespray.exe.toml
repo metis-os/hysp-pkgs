@@ -11,8 +11,8 @@ stars = "1933"
 version = "v2.2.2"
 updated = "2024-03-03T21:42:49Z"
 size = "25.75 MB"
-bsum = "9eb0ed7fbb8d13f4397f3aefa41205e398dd676a16f338785117448350f7accf"
-sha = "3be702fe17df6d493584618bda08692048ff656f0f1291b30da54c4c067eef38"
+bsum = "bf3ecb615b1ef74c22957f11c306051ef87d2a52895511810fde728f91d4c2e1"
+sha = "a1692828c241e07e3382b897691fe80d33e0de77b064cfb0f3b2a5bf8970b6e0"
 source = "https://bin.ajam.dev/x64_Windows/brutespray.exe"
 language = "Go"
 license = "MIT License"
@@ -22,5 +22,5 @@ conflicts  = ["brutespray.exe"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = [""]
 categories = ["Utilities"]

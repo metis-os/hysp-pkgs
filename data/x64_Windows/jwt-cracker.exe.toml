@@ -8,19 +8,19 @@ description = "Fork: https://github.com/elvisgraho/jwt-cracker-go"
 author = "Azathothas"
 repo = "https://github.com/Azathothas/jwt-cracker"
 stars = "0"
-version = "null"
+version = ""
 updated = ""
 size = "1.91 MB"
-bsum = "93208c75298db71ceb33f086dc282e99c21a6c7c82867b9dc94991d97b76453f"
-sha = "34adf886707af1a1540a88fafaf3664ceaf88115bd0ab14c640f2d2b7ada56f8"
+bsum = "804420f5b9c7925ebbe3cde4107ba2212f85cdbd2386e449164a6fa5af7bec9a"
+sha = "780edc73101f62acc34361dbfc9e495ab0abe2d330cac2de25477667756f65b2"
 source = "https://bin.ajam.dev/x64_Windows/jwt-cracker.exe"
-language = "null"
-license = "null"
+language = ""
+license = ""
 
 [package.conditions]
 conflicts  = ["jwt-cracker.exe"]
 requires = []
 
 [package.metadata]
-keywords = []
+keywords = [""]
 categories = ["Utilities"]
