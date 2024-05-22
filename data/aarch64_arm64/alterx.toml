@@ -1,0 +1,26 @@
+[bin]
+name = "alterx"
+
+[package]
+architecture = "aarch64_arm64"
+name = "alterx"
+description = "Fast and customizable subdomain wordlist generator using DSL"
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/alterx"
+stars = "622"
+version = "v0.0.4"
+updated = "2024-01-15T09:13:56Z"
+size = "21.07 MB"
+bsum = "1b42b5d1f8d75150d5878e30de6eef365a071208f331d7b53b9da2ae4bd8ccba"
+sha = "96871edab352ba52d1dc1c3e40447a674c0774c00c8d5e517f9eb63c85d00c97"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/alterx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["alterx"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

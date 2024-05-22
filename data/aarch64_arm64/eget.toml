@@ -1,0 +1,26 @@
+[bin]
+name = "eget"
+
+[package]
+architecture = "aarch64_arm64"
+name = "eget"
+description = ""
+author = ""
+repo = "https://github.com/zyedidia/eget"
+stars = ""
+version = ""
+updated = ""
+size = "6 MB"
+bsum = "9783d523fd4883bea3398590c0b92f135c92e43e2abfa640e8aad83c9235b7b0"
+sha = "2e1086f2f45a3c0077cb7401a7baaee0038125701d76c496468e24a7b7ed1e7a"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/eget"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["eget"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

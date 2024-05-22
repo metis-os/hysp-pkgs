@@ -1,0 +1,26 @@
+[bin]
+name = "cron"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cron"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "133.59 kB"
+bsum = "f2ceddb2650d84e93039d0da139c4698e3f624448287b65e441975c2813e240c"
+sha = "735ce1e0b2b77701fa3fbec6896d05c6e2507bf659aa8577cdfd262124709c9f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/cron"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["cron"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

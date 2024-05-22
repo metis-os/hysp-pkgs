@@ -1,0 +1,26 @@
+[bin]
+name = "warp-dex"
+
+[package]
+architecture = "aarch64_arm64"
+name = "warp-dex"
+description = "cloudflare warp"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "4.73 MB"
+bsum = "239e9969c77e691108c9c34092db322d78b850dc3ed444d19a964356ec08faf8"
+sha = "366db84664266bae1f9465b6f1132791d70779e12ab9786d46dc4597803922b3"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/warp-dex"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["warp-dex"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

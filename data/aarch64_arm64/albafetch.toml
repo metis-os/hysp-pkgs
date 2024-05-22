@@ -1,0 +1,26 @@
+[bin]
+name = "albafetch"
+
+[package]
+architecture = "aarch64_arm64"
+name = "albafetch"
+description = "Faster neofetch alternative, written in C. Still improving :)"
+author = "alba4k"
+repo = "https://github.com/alba4k/albafetch"
+stars = "49"
+version = "v4.1"
+updated = "2023-11-21T15:55:56Z"
+size = "5.35 MB"
+bsum = "c67803617113e7168c917bfc6adaeab33063a3acd0c73991a64061f333c5f306"
+sha = "358a27aaa391dc714a24188181d20765e2ed57181e48a49ccf833e6d232a5547"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/albafetch"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["albafetch"]
+requires = []
+
+[package.metadata]
+keywords = ["archlinux","fetch","fetcher","linux","neofetch"]
+categories = ["Utilities"]

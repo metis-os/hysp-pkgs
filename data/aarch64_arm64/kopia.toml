@@ -1,0 +1,26 @@
+[bin]
+name = "kopia"
+
+[package]
+architecture = "aarch64_arm64"
+name = "kopia"
+description = " Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included."
+author = "kopia"
+repo = "https://github.com/kopia/kopia"
+stars = "6439"
+version = "v0.17.0"
+updated = "2024-04-16T03:46:40Z"
+size = "34.96 MB"
+bsum = "f82ad1742861e20084e16c2f6a7cbe4ee89638ce0fbf117edffe057aedd13496"
+sha = "868243ca56d23e5b610fc01351a0e572c2a70c6af9dc48c365646b7863f37960"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/kopia"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["kopia"]
+requires = []
+
+[package.metadata]
+keywords = ["backup","cloud","deduplication","encryption","google-cloud-storage","hacktoberfest"]
+categories = ["Utilities"]

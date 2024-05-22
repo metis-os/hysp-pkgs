@@ -1,0 +1,26 @@
+[bin]
+name = "tidy-viewer"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tidy-viewer"
+description = "📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment."
+author = "alexhallam"
+repo = "https://github.com/alexhallam/tv"
+stars = "2030"
+version = "1.5.2"
+updated = "2023-07-04T17:52:15Z"
+size = "1.76 MB"
+bsum = "38700e0dd5c46d8adda0e13695f9c84b7a908e778199bcc920541a7741eba9b7"
+sha = "72544e195d5269403ae7095e2bcf3b08965ddc563abaa9e72727b0548faca389"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/tidy-viewer"
+language = "Rust"
+license = "The Unlicense"
+
+[package.conditions]
+conflicts  = ["tidy-viewer"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","column","command-line","command-line-tool","csv","csv-cat","csv-column","csv-pretty-print","csv-viewer","csv-visualization","data-science","dataframe","datatable","pretty-print","pretty-printer","rust","tabular-data","terminal","tibble"]
+categories = ["Utilities"]

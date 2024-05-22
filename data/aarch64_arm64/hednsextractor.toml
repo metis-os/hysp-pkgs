@@ -1,0 +1,26 @@
+[bin]
+name = "hednsextractor"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hednsextractor"
+description = "A suite for hunting suspicious targets, expose domains and phishing discovery"
+author = "HuntDownProject"
+repo = "https://github.com/HuntDownProject/HEDnsExtractor"
+stars = "282"
+version = "v1.0.7"
+updated = "2024-05-16T14:06:09Z"
+size = "14.67 MB"
+bsum = "121ce8d4c9a7cbcefa65be97b90284a27957d7f70e4abf6234870d23261546b7"
+sha = "817ce21334ebd0062519069c30ee4a235b42f193c3687a6fea7da7220e5ec8df"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/hednsextractor"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["hednsextractor"]
+requires = []
+
+[package.metadata]
+keywords = ["adversarial-attacks","malware-analysis","phishing-detection","threat-hunting","threat-intelligence","threatintel"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "grex"
+
+[package]
+architecture = "aarch64_arm64"
+name = "grex"
+description = "A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases"
+author = "pemistahl"
+repo = "https://github.com/pemistahl/grex"
+stars = "6870"
+version = "v1.4.5"
+updated = "2024-03-06T10:49:19Z"
+size = "2.21 MB"
+bsum = "36bf9bc602aa8834de0e997958a201bae0bfc3b78efc6e9d4f31311c59fbf749"
+sha = "5a276b4c4f9bed18cbb715e80c88f56a31e01d32c25bf4b401aac886631a5a31"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/grex"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["grex"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line-tool","python","python-library","regex","regex-pattern","regexp","regular-expression","regular-expressions","rust","rust-cli","rust-crate","rust-library","terminal","tool"]
+categories = ["Utilities"]

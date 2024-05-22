@@ -1,0 +1,26 @@
+[bin]
+name = "bombadillo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "bombadillo"
+description = "Browser for gopher | gemini | finger | local (a users file system)"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "5.31 MB"
+bsum = "519a75ff1883e357350edc409604118ca61e86524472aafc314bc8bf562839f8"
+sha = "ad50d327c0eb6574e11b8626f6369bd6c990bcbf04aea04dfed4cdefa63be030"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/bombadillo"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["bombadillo"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

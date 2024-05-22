@@ -1,0 +1,26 @@
+[bin]
+name = "catatonit"
+
+[package]
+architecture = "aarch64_arm64"
+name = "catatonit"
+description = "A container init that is so simple its effectively brain-dead."
+author = "openSUSE"
+repo = "https://github.com/openSUSE/catatonit"
+stars = "158"
+version = "v0.2.0"
+updated = "2023-10-02T05:46:49Z"
+size = "50.77 kB"
+bsum = "20625a25fcabd5c83e86c1f34db1a58313c1db48783861a734176dc57fc0df82"
+sha = "32fa8afe8b26b0cab3b14b4dacc5dc1dba2f2f4e9bd85ab794fa3aabb09ccfa8"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/catatonit"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["catatonit"]
+requires = []
+
+[package.metadata]
+keywords = ["containers","docker"]
+categories = ["Utilities"]

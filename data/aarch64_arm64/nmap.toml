@@ -1,0 +1,26 @@
+[bin]
+name = "nmap"
+
+[package]
+architecture = "aarch64_arm64"
+name = "nmap"
+description = "Nmap - the Network Mapper. Github mirror of official SVN repository."
+author = "nmap"
+repo = "https://github.com/nmap/nmap"
+stars = "9382"
+version = ""
+updated = ""
+size = "7.27 MB"
+bsum = "9972e7f17d4ad1a821d23a1e966c4ec6493e358bee67ed69bb212d73ef6661b6"
+sha = "3ce49cafe5d93b0e1c891bf8d68501da40a9e2f5279ea2a2e8fb66e6ee0f81a4"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/nmap"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["nmap"]
+requires = []
+
+[package.metadata]
+keywords = ["asynchronous","c-plus-plus","libpcap","linux","lua","machine-learning","netcat","network-discovery","nmap","osx","pcre","ping","port-scanner","security","service-discovery","socket","windows"]
+categories = ["Utilities"]

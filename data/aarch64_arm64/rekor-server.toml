@@ -1,0 +1,26 @@
+[bin]
+name = "rekor-server"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rekor-server"
+description = "Software Supply Chain Transparency Log"
+author = "sigstore"
+repo = "https://github.com/sigstore/rekor"
+stars = "838"
+version = "v1.3.6"
+updated = "2024-04-02T04:42:00Z"
+size = "46.85 MB"
+bsum = "afcff211ad25f0dde39e818805d9231219d42c7e40da1121472df6814dd5981f"
+sha = "68e1f48f39991629736cd3845d5755b2ba8a63f5a624bbff23f8e951fe731033"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/rekor-server"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["rekor-server"]
+requires = []
+
+[package.metadata]
+keywords = ["provenance","security","supply-chain","transparency-log"]
+categories = ["Utilities"]

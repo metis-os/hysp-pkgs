@@ -1,0 +1,26 @@
+[bin]
+name = "glow"
+
+[package]
+architecture = "aarch64_arm64"
+name = "glow"
+description = ""
+author = ""
+repo = "https://github.com/charmbracelet/glow"
+stars = ""
+version = ""
+updated = ""
+size = "17.41 MB"
+bsum = "08fdb67a6b64c99203c90690d610b8eb610c517d200397bc79b00ecef87dc671"
+sha = "d2f0dac153615b5b6686d05b01b0119938e617457f3bc906c47e0c4b1a920d13"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/glow"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["glow"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

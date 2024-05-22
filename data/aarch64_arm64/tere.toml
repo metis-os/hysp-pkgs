@@ -1,0 +1,26 @@
+[bin]
+name = "tere"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tere"
+description = "Terminal file explorer"
+author = "mgunyho"
+repo = "https://github.com/mgunyho/tere"
+stars = "1636"
+version = "v1.5.1"
+updated = "2023-08-24T18:54:12Z"
+size = "2.26 MB"
+bsum = "083900c81523a7fa5dc687ab6a2c5bc2a72713b96576ae40e3102b52ba04dce6"
+sha = "6eeec6c304a50dfc4f3f9049ba92d9b0d381696077a28b747e3ae0d4599dc5d2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/tere"
+language = "Rust"
+license = "European Union Public License 1.2"
+
+[package.conditions]
+conflicts  = ["tere"]
+requires = []
+
+[package.metadata]
+keywords = ["file-explorer","rust","terminal","tui"]
+categories = ["Utilities"]

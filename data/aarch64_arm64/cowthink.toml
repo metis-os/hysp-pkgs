@@ -1,0 +1,26 @@
+[bin]
+name = "cowthink"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cowthink"
+description = "cpu command in Go, inspired by the Plan 9 cpu command"
+author = "u-root"
+repo = "https://github.com/u-root/cpu"
+stars = "226"
+version = ""
+updated = ""
+size = "2.87 MB"
+bsum = "72fc730feecb1b4ce3bdfeee81983e196d100bad943f6fd558bf708cc7ea94ba"
+sha = "ee416a79d8136a102c64b77cb1f6e8f5f134225c1a5b367bb8002f105a374780"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/cowthink"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["cowthink"]
+requires = []
+
+[package.metadata]
+keywords = ["cpu","golang","plan9"]
+categories = ["Utilities"]

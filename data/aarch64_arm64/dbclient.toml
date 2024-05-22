@@ -1,0 +1,26 @@
+[bin]
+name = "dbclient"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dbclient"
+description = ""
+author = ""
+repo = "https://github.com/mkj/dropbear"
+stars = ""
+version = ""
+updated = ""
+size = "1.13 MB"
+bsum = "1702af6e62313e46d537a55b08b2b02d41ccf30e9117ad26f9ce28c7e1e4873e"
+sha = "a70389bc45260efae605ba059a63575625eb0a07252d0f9cfb6ad9d1ef707a7f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dbclient"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dbclient"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

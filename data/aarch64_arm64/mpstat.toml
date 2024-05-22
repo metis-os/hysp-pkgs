@@ -1,0 +1,26 @@
+[bin]
+name = "mpstat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mpstat"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "94.06 kB"
+bsum = "1d0d605051c80b14aacb9123616a0d5be4ce6eea0416b146826a0cf612674a53"
+sha = "d81e2417f51b79bf6dc7001c4ac60051ce4ee2aeb1ea613c37ebd81c6a58706d"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/mpstat"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mpstat"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

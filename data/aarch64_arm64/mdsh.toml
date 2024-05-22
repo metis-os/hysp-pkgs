@@ -1,0 +1,26 @@
+[bin]
+name = "mdsh"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mdsh"
+description = "$ mdsh # a markdown shell pre-processor"
+author = "zimbatm"
+repo = "https://github.com/zimbatm/mdsh"
+stars = "100"
+version = "v0.8.0"
+updated = "2024-02-27T10:49:41Z"
+size = "1.92 MB"
+bsum = "c10e2887d7daa6d78bcec1153242502be83c65798cabf74ee1c307db41b41358"
+sha = "ab9ad37a41ecacc19e005ed634fab93601de567dc66a6b48ef2fe627a8a544f2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/mdsh"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["mdsh"]
+requires = []
+
+[package.metadata]
+keywords = ["markdown","pre-commit-hook","pre-processing","shell"]
+categories = ["Utilities"]

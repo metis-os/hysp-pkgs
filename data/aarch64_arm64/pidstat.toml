@@ -1,0 +1,26 @@
+[bin]
+name = "pidstat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pidstat"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "140.71 kB"
+bsum = "93f69f2c522fb83fbf18d0dbdfee25c33a99f4358cd9065d772c618ae50b923e"
+sha = "8ad312282805478c5285f73f48100ca831982a149a745618a2603b53c87262bf"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/pidstat"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pidstat"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

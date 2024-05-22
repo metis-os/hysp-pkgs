@@ -1,0 +1,26 @@
+[bin]
+name = "twingate-connector"
+
+[package]
+architecture = "aarch64_arm64"
+name = "twingate-connector"
+description = "programmatically deploy and maintain a zero trust approach to infrastructures"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "244.1 kB"
+bsum = "3c6b6c51d29fbe27b25e5fdfbaae98c96ac7312a45c34c4d80fced89eb9f48ce"
+sha = "0b65cd841b094de602b4d0e3920e529022bcddff50b53aad1b481479e7361fd4"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/twingate-connector"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["twingate-connector"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

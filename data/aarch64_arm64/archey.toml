@@ -1,0 +1,26 @@
+[bin]
+name = "archey"
+
+[package]
+architecture = "aarch64_arm64"
+name = "archey"
+description = ":computer: Maintained fork of the original Archey (Linux) system tool"
+author = "HorlogeSkynet"
+repo = "https://github.com/HorlogeSkynet/archey4"
+stars = "277"
+version = "v4.14.3.0"
+updated = "2024-04-06T08:00:16Z"
+size = "8.24 MB"
+bsum = "f2ada4ba70cb86c3aa189309788645387cc7154d5f44f90adbc4c91c82598206"
+sha = "a675302b2584ead85cd0fe0ba1558b135880ddad64ecf0752714dc4e528fb52a"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/archey"
+language = "Python"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["archey"]
+requires = []
+
+[package.metadata]
+keywords = ["archey","bsd","linux","monitoring","neofetch","python3","screenfetch","screenshot","system-information"]
+categories = ["Utilities"]

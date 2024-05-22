@@ -1,0 +1,26 @@
+[bin]
+name = "ffufw"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ffufw"
+description = ""
+author = ""
+repo = "https://github.com/puzzlepeaches/ffufw"
+stars = ""
+version = ""
+updated = ""
+size = "12.74 MB"
+bsum = "0f72d77dfc0dfb6365380d8afa6fc10e6bc3d4bac34ea8a12f7ced78be7a226f"
+sha = "238b281131cf80b65e4f5143242d37aa2f389f1045d3e0f1e1854a5b4d7fa05b"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/ffufw"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ffufw"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

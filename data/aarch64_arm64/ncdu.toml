@@ -1,0 +1,26 @@
+[bin]
+name = "ncdu"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ncdu"
+description = "disk usage analyzer"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "566.92 kB"
+bsum = "de085a17b0dd824a5f2ed19ef7e3309210a588608ad5ec862d4796703504a790"
+sha = "bc14830775d3050ce5a44125cab654a11a708eb26db2a6d8c1c6c6cff1917a15"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/ncdu"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ncdu"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "nping"
+
+[package]
+architecture = "aarch64_arm64"
+name = "nping"
+description = "Nmap - the Network Mapper. Github mirror of official SVN repository."
+author = "nmap"
+repo = "https://github.com/nmap/nmap"
+stars = "9382"
+version = ""
+updated = ""
+size = "2.92 MB"
+bsum = "40608b89af61213441a16e39d3a946c967b6b846455922e28de8c8b10efac6e7"
+sha = "a62c11159c6695fb7d897c8541f71737d2b47dd725016da1c81ba29d29a65924"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/nping"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["nping"]
+requires = []
+
+[package.metadata]
+keywords = ["asynchronous","c-plus-plus","libpcap","linux","lua","machine-learning","netcat","network-discovery","nmap","osx","pcre","ping","port-scanner","security","service-discovery","socket","windows"]
+categories = ["Utilities"]

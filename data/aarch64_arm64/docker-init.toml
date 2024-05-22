@@ -1,0 +1,26 @@
+[bin]
+name = "docker-init"
+
+[package]
+architecture = "aarch64_arm64"
+name = "docker-init"
+description = ""
+author = ""
+repo = "https://github.com/docker/cli"
+stars = ""
+version = ""
+updated = ""
+size = "601.27 kB"
+bsum = "660cb1153a4686d71535948b86f17c4dfb552747b5bb90b1ccb3d2da824f6e0e"
+sha = "28e2bbb28d55b61ed5bd73df1641c8c011b3b298dc6ef697950e803fb7895630"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/docker-init"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["docker-init"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

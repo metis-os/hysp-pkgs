@@ -1,0 +1,26 @@
+[bin]
+name = "curl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "curl"
+description = "static builds cURL with HTTP3"
+author = "stunnel"
+repo = "https://github.com/stunnel/static-curl"
+stars = "141"
+version = "8.7.1"
+updated = "2024-03-27T12:20:22Z"
+size = "7.38 MB"
+bsum = "8264864647c54fd3ecb439b1fc79347a4777633f98f720136fb0cd1e6de848e7"
+sha = "a30064826de2eb50af25c4ad4f91f3b9f780b26e3eb5dd46d365e6a727a6ebfb"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/curl"
+language = "Shell"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["curl"]
+requires = []
+
+[package.metadata]
+keywords = ["curl","http-client","http3","http3-client"]
+categories = ["Utilities"]

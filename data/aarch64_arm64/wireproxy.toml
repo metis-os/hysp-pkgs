@@ -1,0 +1,26 @@
+[bin]
+name = "wireproxy"
+
+[package]
+architecture = "aarch64_arm64"
+name = "wireproxy"
+description = "Wireguard client that exposes itself as a socks5 proxy"
+author = "pufferffish"
+repo = "https://github.com/pufferffish/wireproxy"
+stars = "4004"
+version = "v1.0.9"
+updated = "2024-04-19T14:40:52Z"
+size = "6.39 MB"
+bsum = "834e8e864ba916cdb6e14a078d2e6b0fb94e10dd9481a5522ff0b2c80d2d2437"
+sha = "7921028779c4de39c3cc96a999b647381c1d77e51d18fba916dd937cbed2b893"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/wireproxy"
+language = "Go"
+license = "ISC License"
+
+[package.conditions]
+conflicts  = ["wireproxy"]
+requires = []
+
+[package.metadata]
+keywords = ["golang","network","proxy","socks5","socks5-proxy","vpn","wireguard","wireguard-tunnel"]
+categories = ["Utilities"]

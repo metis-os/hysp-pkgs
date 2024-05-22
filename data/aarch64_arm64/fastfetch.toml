@@ -1,0 +1,26 @@
+[bin]
+name = "fastfetch"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fastfetch"
+description = ""
+author = ""
+repo = "https://github.com/fastfetch-cli/fastfetch"
+stars = ""
+version = ""
+updated = ""
+size = "10.54 kB"
+bsum = "356d46d6b60d4755fa142666afd3126ade92d36252d228ada72526dc07757a45"
+sha = "0951e9263e808a09bfa140a36b4060da95563b21bbc4d7f3d99aad37fe35e9ba"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/fastfetch"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["fastfetch"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

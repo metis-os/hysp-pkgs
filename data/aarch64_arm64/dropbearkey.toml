@@ -1,0 +1,26 @@
+[bin]
+name = "dropbearkey"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dropbearkey"
+description = ""
+author = ""
+repo = "https://github.com/mkj/dropbear"
+stars = ""
+version = ""
+updated = ""
+size = "928.25 kB"
+bsum = "21072a869bdd64baeee2f5b4d12f0a44883437f40783f6192836fd697fe55dfa"
+sha = "03a1c5f8d48a1df855b2575a2073430e314ffce0fddde956eb354a3c7540b5a4"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dropbearkey"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dropbearkey"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

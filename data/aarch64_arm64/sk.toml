@@ -1,0 +1,26 @@
+[bin]
+name = "sk"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sk"
+description = "Fuzzy Finder in rust!"
+author = "lotabout"
+repo = "https://github.com/lotabout/skim"
+stars = "4879"
+version = "v0.10.4"
+updated = "2023-03-02T13:08:20Z"
+size = "2.68 MB"
+bsum = "bd45ff59ad3d44a824d19b4ed2c031c4c6620594fd230109c76f87983e23e42e"
+sha = "47bda042cc5562752a09818aef30bf07ac6461c10be916a32f78678b0acdf3fd"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/sk"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sk"]
+requires = []
+
+[package.metadata]
+keywords = ["fuzzyfinder","rust","skim"]
+categories = ["Utilities"]

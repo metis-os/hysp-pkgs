@@ -1,0 +1,26 @@
+[bin]
+name = "netmaker"
+
+[package]
+architecture = "aarch64_arm64"
+name = "netmaker"
+description = "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks."
+author = "gravitl"
+repo = "https://github.com/gravitl/netmaker"
+stars = "9029"
+version = "v0.24.1"
+updated = "2024-05-15T14:15:21Z"
+size = "14.15 MB"
+bsum = "2dc77ebf36a3cb47b8f166424215e7a1e033c739728bc807c4ee7a0113186ce1"
+sha = "f27af02b6ca5e28bc1502c7fbfc7543055cd5bd88eb0098b14c2a4c3a0324e74"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/netmaker"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["netmaker"]
+requires = []
+
+[package.metadata]
+keywords = ["cloud","devsecops","k8s","kubernetes","mesh","network","networking","security","self-hosted","virtual-network","virtual-networking","vpn","vpn-server","wg-quick","wireguard","wireguard-ui","wireguard-vpn","zero-trust"]
+categories = ["Utilities"]

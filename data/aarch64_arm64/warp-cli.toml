@@ -1,0 +1,26 @@
+[bin]
+name = "warp-cli"
+
+[package]
+architecture = "aarch64_arm64"
+name = "warp-cli"
+description = "cloudflare warp"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "4.05 MB"
+bsum = "e002c89b950f020c94871e8bbdaba82eb2a8fd3405045ed74bba49a78120c276"
+sha = "64e66464d5fff99fc0a5f9c14b26e47501adefe7a1906f6891ef452ceb42e1d8"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/warp-cli"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["warp-cli"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

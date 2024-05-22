@@ -1,0 +1,26 @@
+[bin]
+name = "numastat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "numastat"
+description = "A new type of shell"
+author = "nushell"
+repo = "https://github.com/nushell/nushell"
+stars = "30365"
+version = "0.93.0"
+updated = "2024-04-30T23:31:27Z"
+size = "133.8 kB"
+bsum = "4efae363f2b91614b1e8739efc09a86a35585d1988e5584848706480fa2cde06"
+sha = "0a38a764269bd27db98d3f3f3d146f388a5938f9a970874cf23968379a9876a8"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/numastat"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["numastat"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","shell"]
+categories = ["Utilities"]

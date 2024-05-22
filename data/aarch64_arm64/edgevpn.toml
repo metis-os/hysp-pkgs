@@ -1,0 +1,26 @@
+[bin]
+name = "edgevpn"
+
+[package]
+architecture = "aarch64_arm64"
+name = "edgevpn"
+description = ""
+author = ""
+repo = "https://github.com/mudler/edgevpn"
+stars = ""
+version = ""
+updated = ""
+size = "31.88 MB"
+bsum = "ae33b39142b70e7fca983c0212b6659a7b6c1220235acfa38cf3ef9552b8c008"
+sha = "2844bf597fb00a575805bc70ce7ec7a077acebf76876e7a1a1ffdb9e332ef9e0"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/edgevpn"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["edgevpn"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

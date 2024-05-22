@@ -1,0 +1,26 @@
+[bin]
+name = "daytona"
+
+[package]
+architecture = "aarch64_arm64"
+name = "daytona"
+description = ""
+author = ""
+repo = "https://github.com/daytonaio/daytona"
+stars = ""
+version = ""
+updated = ""
+size = "76.66 MB"
+bsum = "d8c760cbedd2074efcf9711789d020401b8f9838387d3b7946ab4b3f8c3b710a"
+sha = "24aa403bc1902e4f2e9edc8f854c799a1fc6a3a569216c7e0dc6accde5bf5ab2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/daytona"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["daytona"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

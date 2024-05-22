@@ -1,0 +1,26 @@
+[bin]
+name = "falconhound"
+
+[package]
+architecture = "aarch64_arm64"
+name = "falconhound"
+description = ""
+author = ""
+repo = "https://github.com/FalconForceTeam/FalconHound"
+stars = ""
+version = ""
+updated = ""
+size = "75.78 MB"
+bsum = "a6d5f1966787d664a361dc175756471182e871692c709070f209d3afaca7f2c4"
+sha = "2ff18bc80d9757baefed558010d9b22dcbd6923f3d334cef74d1f2932996ec4f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/falconhound"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["falconhound"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ngrok"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ngrok"
+description = "External Tunnel to Internal Assets"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "23.91 MB"
+bsum = "7e76a9dd8708880874449093285bc237ea03b7cdcc7c12a0406a6c2bd65b6044"
+sha = "9cdb5e4fe4308ccc59518d12fe42cce9e1d3bceeedd7711ba0d1adcb5b5bd03d"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/ngrok"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ngrok"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

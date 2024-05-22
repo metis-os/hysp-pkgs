@@ -1,0 +1,26 @@
+[bin]
+name = "migspeed"
+
+[package]
+architecture = "aarch64_arm64"
+name = "migspeed"
+description = "A new type of shell"
+author = "nushell"
+repo = "https://github.com/nushell/nushell"
+stars = "30365"
+version = "0.93.0"
+updated = "2024-04-30T23:31:27Z"
+size = "198.63 kB"
+bsum = "107f93b0a7b5c6ece84bc8d6179fdbb192c6fec0ebb35a9b14500c27151448e1"
+sha = "96d4de118ba16b144e7af3a6a049d69f96ae514d5ec0d878e6c0867cdd4c0917"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/migspeed"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["migspeed"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","shell"]
+categories = ["Utilities"]

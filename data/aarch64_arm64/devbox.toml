@@ -1,0 +1,26 @@
+[bin]
+name = "devbox"
+
+[package]
+architecture = "aarch64_arm64"
+name = "devbox"
+description = ""
+author = ""
+repo = "https://github.com/jetpack-io/devbox"
+stars = ""
+version = ""
+updated = ""
+size = "25.49 MB"
+bsum = "d21115e5487590e3ea8f0b0d92d2f3b6842458790d85f88ce5a1e77f5c358476"
+sha = "dcb73b32d1fabddc9a0a0f5d7d8fd69236eab3e10d5753fb4ced2378a35b554d"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/devbox"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["devbox"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

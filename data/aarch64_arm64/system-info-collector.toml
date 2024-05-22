@@ -1,0 +1,26 @@
+[bin]
+name = "system-info-collector"
+
+[package]
+architecture = "aarch64_arm64"
+name = "system-info-collector"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "6.88 MB"
+bsum = "b805000d935be45a50684e60c227d377c76b6dc2f17b66b53048953cf9ee1719"
+sha = "888eec0058dd3a4eda9fef46cac62bda7bf380ecfe560a2b9ba976264bf19500"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/system-info-collector"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["system-info-collector"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

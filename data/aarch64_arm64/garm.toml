@@ -1,0 +1,26 @@
+[bin]
+name = "garm"
+
+[package]
+architecture = "aarch64_arm64"
+name = "garm"
+description = ""
+author = ""
+repo = "https://github.com/cloudbase/garm"
+stars = ""
+version = ""
+updated = ""
+size = "17.57 MB"
+bsum = "513a84d9450ab42838e53d21e2c472a4d9477d3be3bac6bd512707b44359515a"
+sha = "078028b09ae91d01167c2c9d004a5e6f8f4be1754bcdf64fdb18b3b1879f7dcd"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/garm"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["garm"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "encode"
+
+[package]
+architecture = "aarch64_arm64"
+name = "encode"
+description = ""
+author = ""
+repo = "https://github.com/Brum3ns/encode"
+stars = ""
+version = ""
+updated = ""
+size = "2.48 MB"
+bsum = "b1fb6718dfab4050ef0101ce92a65184c67f8fcf216fcf793ae94a89bd4d475d"
+sha = "70c9af8fb402b7107b35582e83e12a3ca31b583ed762e43276a1fd96705d2cf2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/encode"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["encode"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

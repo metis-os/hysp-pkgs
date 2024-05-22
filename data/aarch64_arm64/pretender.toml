@@ -1,0 +1,26 @@
+[bin]
+name = "pretender"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pretender"
+description = "Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing."
+author = "RedTeamPentesting"
+repo = "https://github.com/RedTeamPentesting/pretender"
+stars = "910"
+version = "v1.2.0"
+updated = "2023-10-24T10:32:29Z"
+size = "7.54 MB"
+bsum = "101642aa7fc62b692d4b6db441c8863259684583a4722b2496a5dd9c62008ee4"
+sha = "9e7afd20763000e33a8c8c90c5085289759b2c4287af9d8c0e3643e5f66d13bf"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/pretender"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pretender"]
+requires = []
+
+[package.metadata]
+keywords = ["dhcpv6","dns","go","llmnr","mdns","netbios","pentesting","pretender","relaying","security","spoofer"]
+categories = ["Utilities"]

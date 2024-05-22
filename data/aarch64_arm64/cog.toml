@@ -1,0 +1,26 @@
+[bin]
+name = "cog"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cog"
+description = "The Conventional Commits toolbox"
+author = "cocogitto"
+repo = "https://github.com/cocogitto/cocogitto"
+stars = "620"
+version = "6.1.0"
+updated = "2024-03-14T09:24:02Z"
+size = "7.13 MB"
+bsum = "cc66e637c6f364e96c58a9864a14ef13e1689297be1b92b02e801dc09091c569"
+sha = "1297a6a7eae56af44a6c7854a40dca330ec7b24852a77c3651c15e01517b0c25"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/cog"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cog"]
+requires = []
+
+[package.metadata]
+keywords = ["changelog","cli","cli-app","conventional-changelog","conventional-commits","git","hacktoberfest","rust","rust-cli","semver","semver-convention","semver-release"]
+categories = ["Utilities"]

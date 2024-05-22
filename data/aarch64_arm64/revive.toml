@@ -1,0 +1,26 @@
+[bin]
+name = "revive"
+
+[package]
+architecture = "aarch64_arm64"
+name = "revive"
+description = "🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint"
+author = "mgechev"
+repo = "https://github.com/mgechev/revive"
+stars = "4639"
+version = "v1.3.7"
+updated = "2024-02-07T17:05:38Z"
+size = "7.41 MB"
+bsum = "8cf6d00d5593ca953092dca69ade59e965f24b46b411047b61c020e05b419c79"
+sha = "a127db00ed1cdcd6d470acd94f6333ac209fa99454187089fa03682d6f92ac7f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/revive"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["revive"]
+requires = []
+
+[package.metadata]
+keywords = ["go","golang","golint","hacktoberfest","linter","static-analysis","static-code-analysis"]
+categories = ["Utilities"]

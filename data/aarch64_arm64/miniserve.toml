@@ -1,0 +1,26 @@
+[bin]
+name = "miniserve"
+
+[package]
+architecture = "aarch64_arm64"
+name = "miniserve"
+description = "🌟 For when you really just want to serve some files over HTTP right now!"
+author = "svenstaro"
+repo = "https://github.com/svenstaro/miniserve"
+stars = "5665"
+version = "v0.27.1"
+updated = "2024-03-16T11:45:56Z"
+size = "1.87 MB"
+bsum = "cebe7753e47dd19a958e93eb8cc93b79888494105f42617cfb0de1a8be5b4a6d"
+sha = "a7cc227e400d070e109de085d0a0955dba0af90a1db129fa70cdeab3f5b5524f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/miniserve"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["miniserve"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","http-server","serve","server","static-files"]
+categories = ["Utilities"]

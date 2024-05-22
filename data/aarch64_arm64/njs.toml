@@ -1,0 +1,26 @@
+[bin]
+name = "njs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "njs"
+description = "Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux."
+author = "jirutka"
+repo = "https://github.com/jirutka/nginx-binaries"
+stars = "35"
+version = "v0.7.0"
+updated = ""
+size = "3.99 MB"
+bsum = "9b856716e1e2678610789ba6de7a62b0587f307bb63e34f42ce61d6610533282"
+sha = "4a4b552c6b80d4bb3bab62b9a84ac668460f0c45269b2a0e4e23b557e7df1329"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/njs"
+language = "TypeScript"
+license = ""
+
+[package.conditions]
+conflicts  = ["njs"]
+requires = []
+
+[package.metadata]
+keywords = ["binaries","javascript","nginx","nginx-linux","nginx-macos","nginx-windows","njs","static-binaries"]
+categories = ["Utilities"]

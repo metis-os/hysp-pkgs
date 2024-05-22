@@ -1,0 +1,26 @@
+[bin]
+name = "gitlab-subdomains"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gitlab-subdomains"
+description = ""
+author = ""
+repo = "https://github.com/gwen001/gitlab-subdomains"
+stars = ""
+version = ""
+updated = ""
+size = "5.21 MB"
+bsum = "3b4c14b2351de481ece17f60611976e6af4f3b0fc9b2d2ef850475a2209f04c5"
+sha = "11910729629ac09fcc7a8d4b66e274458058fa4b00e8dd1b5084f67811074158"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gitlab-subdomains"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gitlab-subdomains"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

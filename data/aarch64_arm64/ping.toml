@@ -1,0 +1,26 @@
+[bin]
+name = "ping"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ping"
+description = "The iputils package is set of small old utilities for Linux networking."
+author = "iputils"
+repo = "https://github.com/iputils/iputils"
+stars = "616"
+version = "20240117"
+updated = "2024-01-17T10:55:43Z"
+size = "212.14 kB"
+bsum = "8742148d9459b71e1a8d211825a8ea434e726bbc5703b3419aa4f2ba531c5101"
+sha = "dfc786498561ec65cd001d33cb6daa3c35419e9be8a24c2424ff36dc003b8ebf"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/ping"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["ping"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

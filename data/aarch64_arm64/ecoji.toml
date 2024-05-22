@@ -1,0 +1,26 @@
+[bin]
+name = "ecoji"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ecoji"
+description = ""
+author = ""
+repo = "https://github.com/keith-turner/ecoji"
+stars = ""
+version = ""
+updated = ""
+size = "1.56 MB"
+bsum = "fe567080bc89d91929e053724edce134fee467d4da7048009a7060c9477a4fbc"
+sha = "6a877be664bf21c4d009e8cecf33782b25754fc1edf7eb9cb57cf520b96af79f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/ecoji"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ecoji"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

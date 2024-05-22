@@ -1,0 +1,26 @@
+[bin]
+name = "dockerd"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dockerd"
+description = ""
+author = ""
+repo = "https://github.com/docker/cli"
+stars = ""
+version = ""
+updated = ""
+size = "59.49 MB"
+bsum = "5d145b4b47351c5d70feb32549122c63920168349a3868f108c04400ea1f2f23"
+sha = "507c402e7a3c83b3aecc9acd67f4b173fea5a8529c794dc9ff9496dae80c461c"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dockerd"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dockerd"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

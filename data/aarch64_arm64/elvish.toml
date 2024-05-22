@@ -1,0 +1,26 @@
+[bin]
+name = "elvish"
+
+[package]
+architecture = "aarch64_arm64"
+name = "elvish"
+description = ""
+author = ""
+repo = "https://github.com/elves/elvish"
+stars = ""
+version = ""
+updated = ""
+size = "6.76 MB"
+bsum = "bc5c2efb456c8ffe06e61b0d96ebc1c66bf4c18f2e1c416b9be3602743eb0bc2"
+sha = "b12811416f7e5cd8690f50aaa29747dab1542856d52f0c6dce6a7d42a6207d2c"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/elvish"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["elvish"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

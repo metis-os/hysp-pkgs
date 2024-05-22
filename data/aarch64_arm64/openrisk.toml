@@ -1,0 +1,26 @@
+[bin]
+name = "openrisk"
+
+[package]
+architecture = "aarch64_arm64"
+name = "openrisk"
+description = "openrisk is a tool that generates a risk score based on the results of a Nuclei scan."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/openrisk"
+stars = "156"
+version = "v0.0.1"
+updated = "2022-12-23T14:50:22Z"
+size = "8.55 MB"
+bsum = "ca524c788f919da8e75dd56a1a4f27f1964eb18d7c609e7b6be9e479e588bbd7"
+sha = "5f151b3dd2a6cea946e76cafa078d34733372fd8a948a5d808f453d3e8e742e5"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/openrisk"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["openrisk"]
+requires = []
+
+[package.metadata]
+keywords = ["ai","gpt-3","nuclei","openai","risk-score"]
+categories = ["Utilities"]

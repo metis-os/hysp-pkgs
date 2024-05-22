@@ -1,0 +1,26 @@
+[bin]
+name = "agrind"
+
+[package]
+architecture = "aarch64_arm64"
+name = "agrind"
+description = "Slice and dice logs on the command line"
+author = "rcoh"
+repo = "https://github.com/rcoh/angle-grinder"
+stars = "3389"
+version = "v0.19.2"
+updated = "2023-05-21T00:37:55Z"
+size = "3.72 MB"
+bsum = "d6f21b4841958f4eaa2ec0e5c9231d9f53905850a480a377b7910b471ec7977d"
+sha = "eca56c4a6e8a96a537554a1fbdb99b88dfa45dffc6757f55ba69b9901da7bca2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/agrind"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["agrind"]
+requires = []
+
+[package.metadata]
+keywords = ["analytics","cli-app","logging","rust"]
+categories = ["Utilities"]

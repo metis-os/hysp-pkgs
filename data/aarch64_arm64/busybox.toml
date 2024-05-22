@@ -1,0 +1,26 @@
+[bin]
+name = "busybox"
+
+[package]
+architecture = "aarch64_arm64"
+name = "busybox"
+description = "a software suite that provides several Unix utilities in a single executable file"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "1.24 MB"
+bsum = "1bce6b30d4e16edc4519fcfb854aa6ba19196bf544632d0ee0ba588682e055cc"
+sha = "89e8e12b6933d966fab05b3935223f085b4de055e35f775aacc4b795e0445865"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/busybox"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["busybox"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

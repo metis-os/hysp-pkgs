@@ -1,0 +1,26 @@
+[bin]
+name = "crontab"
+
+[package]
+architecture = "aarch64_arm64"
+name = "crontab"
+description = ""
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "133.9 kB"
+bsum = "ae1eb267cd09f9db604d7ccb91a967a813a7695306215e7da44f587cee2ce241"
+sha = "3802e769643025809d6404341085bfcac8a1694d3db119586c4e4d27dcafcca2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/crontab"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["crontab"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "massdns"
+
+[package]
+architecture = "aarch64_arm64"
+name = "massdns"
+description = "A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)"
+author = "blechschmidt"
+repo = "https://github.com/blechschmidt/massdns"
+stars = "2982"
+version = "v1.1.0"
+updated = "2024-03-09T00:39:02Z"
+size = "149.86 kB"
+bsum = "d51149020dffde8affadb07b92459f120ea9c129d8c54053c40e339b29dd7d61"
+sha = "e99579778473cd77f895e803e6706318c7b9b170a6e2daab91a3ea10b0c6cf2a"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/massdns"
+language = "C"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["massdns"]
+requires = []
+
+[package.metadata]
+keywords = ["bulk-dns","dns","dns-bruteforcer","dns-client","dns-lookup","dns-resolution","dns-resolver","massdns","reconnaissance","subbrute","subdomain"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "docker-proxy"
+
+[package]
+architecture = "aarch64_arm64"
+name = "docker-proxy"
+description = ""
+author = ""
+repo = "https://github.com/docker/cli"
+stars = ""
+version = ""
+updated = ""
+size = "1.88 MB"
+bsum = "a87901617f07699bfaeb7870a4dc452a20f583895ead81df819f43eeeee799ae"
+sha = "b1179cbe600550ed9d9ab6f129bf0c746828fdb4d9c00bf3988cdf6bc378c2b2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/docker-proxy"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["docker-proxy"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

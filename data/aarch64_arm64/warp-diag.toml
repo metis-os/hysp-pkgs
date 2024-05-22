@@ -1,0 +1,26 @@
+[bin]
+name = "warp-diag"
+
+[package]
+architecture = "aarch64_arm64"
+name = "warp-diag"
+description = "cloudflare warp"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "5.89 MB"
+bsum = "2b4642233ab97fdc975295f91370f8c29d24fb06f2d5ced2aa0615c3ec46aff4"
+sha = "d12e95df72be1f78bdba23112ddc7581d4a58c95129e3a6c6707294b80e322e0"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/warp-diag"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["warp-diag"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "containerd"
+
+[package]
+architecture = "aarch64_arm64"
+name = "containerd"
+description = ""
+author = ""
+repo = "https://github.com/docker/cli"
+stars = ""
+version = ""
+updated = ""
+size = "37.66 MB"
+bsum = "26b6b99e6d55a6b2c6f5e5f39459b1b01830fd0baa1f9427b54b36de6b2b9e28"
+sha = "7cafc5cbfe570edfca8b92cf6a61c1dbd9d378865395b31abf99dfa9f5d4f631"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/containerd"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["containerd"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

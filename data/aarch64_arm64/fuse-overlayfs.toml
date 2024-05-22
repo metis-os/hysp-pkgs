@@ -1,0 +1,26 @@
+[bin]
+name = "fuse-overlayfs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fuse-overlayfs"
+description = ""
+author = ""
+repo = "https://github.com/containers/fuse-overlayfs"
+stars = ""
+version = ""
+updated = ""
+size = "984.14 kB"
+bsum = "0912bf872f1a6856c8daa520d8aa93cbd23489ff2bd8d28b4801d71ef2410586"
+sha = "9f513366300b19fbf9c77b9965f10750bdc191906edf7b5e9e0672eb3b4ee0b9"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/fuse-overlayfs"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["fuse-overlayfs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

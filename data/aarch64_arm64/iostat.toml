@@ -1,0 +1,26 @@
+[bin]
+name = "iostat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "iostat"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "102.89 kB"
+bsum = "13fe79aaaa71f3abee9d8384e9812b0309f4c8f2417b969645c181fd8797959b"
+sha = "bc512fca1d4711a60cf8379691974ceec1bc99d139f671fb381fc708843b8964"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/iostat"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["iostat"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

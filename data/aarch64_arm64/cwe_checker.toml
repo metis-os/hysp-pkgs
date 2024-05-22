@@ -1,0 +1,26 @@
+[bin]
+name = "cwe_checker"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cwe_checker"
+description = ""
+author = ""
+repo = "https://github.com/fkie-cad/cwe_checker"
+stars = ""
+version = ""
+updated = ""
+size = "4.52 MB"
+bsum = "e1d3b6cfb6e86827d03311f106a001d44d26b5a995a62eb0de620120a9b4f4c9"
+sha = "ae700404750522e627555f4e6ad5533028efec33297d2d7029472da09de61836"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/cwe_checker"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["cwe_checker"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

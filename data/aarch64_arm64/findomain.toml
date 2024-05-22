@@ -1,0 +1,26 @@
+[bin]
+name = "findomain"
+
+[package]
+architecture = "aarch64_arm64"
+name = "findomain"
+description = ""
+author = ""
+repo = "https://github.com/Findomain/Findomain"
+stars = ""
+version = ""
+updated = ""
+size = "16.85 MB"
+bsum = "0a114e171e8daf39001ba38e7d0eae4e2c421a672909601c1acacc373d901345"
+sha = "e13722d6fc849f3eb0bd87d7e6ba7cd6520046f209d1dc30c88796733f11c0c3"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/findomain"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["findomain"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

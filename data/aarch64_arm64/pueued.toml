@@ -1,0 +1,26 @@
+[bin]
+name = "pueued"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pueued"
+description = ":stars: Manage your shell commands."
+author = "Nukesor"
+repo = "https://github.com/Nukesor/pueue"
+stars = "4599"
+version = "v3.4.0"
+updated = "2024-03-22T00:57:38Z"
+size = "2.52 MB"
+bsum = "a9382c87055cb3a4b3fcce044c93ff640c193071510cd494feabe351adcfc0f9"
+sha = "b393e11f602d0f8a87ff4b290292d94d766ab3c80d05cdb6ca89cd1f6b64438f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/pueued"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pueued"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","command-line-tool","daemon","hacktoberfest","queue-manager","queue-tasks","rust","shell-queue"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "fzf"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fzf"
+description = ""
+author = ""
+repo = "https://github.com/junegunn/fzf"
+stars = ""
+version = ""
+updated = ""
+size = "3.51 MB"
+bsum = "e50fdbe0a9bbf913671adb843679b49b805b3594005150acb9e89b7fa2b10515"
+sha = "6364bee2d1a5834531a7998b523cce6608a9bff9ae0cf621811900250ef8392f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/fzf"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["fzf"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

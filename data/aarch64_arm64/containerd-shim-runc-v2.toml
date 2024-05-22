@@ -1,0 +1,26 @@
+[bin]
+name = "containerd-shim-runc-v2"
+
+[package]
+architecture = "aarch64_arm64"
+name = "containerd-shim-runc-v2"
+description = ""
+author = ""
+repo = "https://github.com/docker/cli"
+stars = ""
+version = ""
+updated = ""
+size = "12.03 MB"
+bsum = "f08d5f7fec2d80defbc709f4957ac1e0b295aecd59a4a797817693dec6967dc5"
+sha = "946582086e1a4815d6c84f78de7b68d9bb23e01e65966718a9ae994d687b3853"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/containerd-shim-runc-v2"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["containerd-shim-runc-v2"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "dnslookup"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dnslookup"
+description = ""
+author = ""
+repo = "https://github.com/ameshkov/dnslookup"
+stars = ""
+version = ""
+updated = ""
+size = "6.96 MB"
+bsum = "b1355c8dca13c15d06e19f2f58ffcd4aa041aa4d438379fea3581317db2439b6"
+sha = "a9331257cda8173e2328eaba6ab74ce9aeadaeb1490919fadbcfdfc89272c09b"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dnslookup"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dnslookup"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

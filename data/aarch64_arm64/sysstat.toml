@@ -1,0 +1,26 @@
+[bin]
+name = "sysstat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sysstat"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "1246 B"
+bsum = "910289d8991e0639616c79e318be1906997cd8270e7a6f71f5172b69e1d61158"
+sha = "4edf0e156d229a7b20e63f9d6387f1967e732ec207c9d2450b62d829b380636b"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/sysstat"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sysstat"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

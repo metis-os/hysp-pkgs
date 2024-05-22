@@ -1,0 +1,26 @@
+[bin]
+name = "github-subdomains"
+
+[package]
+architecture = "aarch64_arm64"
+name = "github-subdomains"
+description = ""
+author = ""
+repo = "https://github.com/gwen001/github-subdomains"
+stars = ""
+version = ""
+updated = ""
+size = "5.28 MB"
+bsum = "9c349307d6a0796cbd36a95fe3699a8862041c6bad01ca3aa3afba97231d76a6"
+sha = "7c90df616366e082eb27ef7d40a2cf73facf0c3223a754c4363e314d2a892b1f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/github-subdomains"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["github-subdomains"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

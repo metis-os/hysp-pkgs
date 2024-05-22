@@ -1,0 +1,26 @@
+[bin]
+name = "gh"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gh"
+description = ""
+author = ""
+repo = "https://github.com/cli/cli"
+stars = ""
+version = ""
+updated = ""
+size = "43.35 MB"
+bsum = "58b8214a3b2248a30302cd580717d4ee626eb33f239edb37c7c42a515f304cfe"
+sha = "27ca398a38f0ed95586deab4f307f07b8ef17bace68b1830dcd2aa856f3e9ed0"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gh"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gh"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

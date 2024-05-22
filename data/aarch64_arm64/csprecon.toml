@@ -1,0 +1,26 @@
+[bin]
+name = "csprecon"
+
+[package]
+architecture = "aarch64_arm64"
+name = "csprecon"
+description = "Discover new target domains using Content Security Policy"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/csprecon"
+stars = "323"
+version = "v0.2.0"
+updated = "2024-05-12T10:52:50Z"
+size = "9.22 MB"
+bsum = "f9946bfb924c94d64d23998dbdf327b16ec3be5d6331b59c5f25d8cbb3dd8be8"
+sha = "792d6c685f6cfc8b7e7dcbcdffec1964dd62c063d89f1f55bff0ee8addf87aab"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/csprecon"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["csprecon"]
+requires = []
+
+[package.metadata]
+keywords = ["bounty-hunting","bugbounty","bugbounty-tool","content-security-policy","csp","golang","hacking","hacktoberfest","information-retrieval","offensive-security","offensivesecurity","recon","recon-tool","reconnaissance","security","security-tools"]
+categories = ["Utilities"]

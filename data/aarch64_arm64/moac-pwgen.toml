@@ -1,0 +1,26 @@
+[bin]
+name = "moac-pwgen"
+
+[package]
+architecture = "aarch64_arm64"
+name = "moac-pwgen"
+description = "⬛️ CLI tool for saving complete web pages as a single HTML file"
+author = "Y2Z"
+repo = "https://github.com/Y2Z/monolith"
+stars = "10113"
+version = "v2.8.1"
+updated = "2024-01-14T02:04:26Z"
+size = "1.67 MB"
+bsum = "e801726d8f927cd5f54182805e9dd9cb12110b1a9992d28671234de76877a2e2"
+sha = "df42af5b096b7d948e476d3b9bf842a054430e5936e59613dc2c5bdaac8ed985"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/moac-pwgen"
+language = "Rust"
+license = "Creative Commons Zero v1.0 Universal"
+
+[package.conditions]
+conflicts  = ["moac-pwgen"]
+requires = []
+
+[package.metadata]
+keywords = ["come-and-take-it","e-hoarding","its-mine","make-the-internet-great-again","no-more-404","procrastination","save-the-internet","tab-rehab"]
+categories = ["Utilities"]

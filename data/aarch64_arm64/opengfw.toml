@@ -1,0 +1,26 @@
+[bin]
+name = "opengfw"
+
+[package]
+architecture = "aarch64_arm64"
+name = "opengfw"
+description = "OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux"
+author = "apernet"
+repo = "https://github.com/apernet/OpenGFW"
+stars = "9027"
+version = "v0.4.0"
+updated = "2024-05-09T00:51:50Z"
+size = "12.9 MB"
+bsum = "824cb1435bb29c93f04c79afbb9fe22d69d5a3a0a4caa9015016cd9d10791c47"
+sha = "0d429d13ec0d67a3dd4cb5c147558eeca5ce32d73e7073b3379fc200969ab136"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/opengfw"
+language = "Go"
+license = "Mozilla Public License 2.0"
+
+[package.conditions]
+conflicts  = ["opengfw"]
+requires = []
+
+[package.metadata]
+keywords = ["censorship","dpi","filtering","firewall","gfw","ips","networking"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "try"
+
+[package]
+architecture = "aarch64_arm64"
+name = "try"
+description = "Inspect a commands effects before modifying your live system"
+author = "binpash"
+repo = "https://github.com/binpash/try"
+stars = "5137"
+version = "v0.2.0"
+updated = "2023-07-24T20:24:15Z"
+size = "21.56 kB"
+bsum = "f791b9dd7b1356851eafc683247094f93bbd94b769edf3ec123e16acde25ab00"
+sha = "5e782b86649a627377989204056794762bd6f82880f418f04a5b002c69a931c7"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/try"
+language = "Shell"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["try"]
+requires = []
+
+[package.metadata]
+keywords = ["administration","containers","shell","tools","virtualization"]
+categories = ["Utilities"]

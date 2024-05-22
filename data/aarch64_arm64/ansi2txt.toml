@@ -1,0 +1,26 @@
+[bin]
+name = "ansi2txt"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ansi2txt"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "54"
+version = ""
+updated = ""
+size = "7120 B"
+bsum = ""
+sha = ""
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/ansi2txt"
+language = "Shell"
+license = ""
+
+[package.conditions]
+conflicts  = ["ansi2txt"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

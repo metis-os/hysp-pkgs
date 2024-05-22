@@ -1,0 +1,26 @@
+[bin]
+name = "sadf"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sadf"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "408.97 kB"
+bsum = "2af78553b6c03e6da1fa7846ee27261e3a15b14b4a6e2b3593486a5b9095034f"
+sha = "7d33d9e8b035e29b910fa00562cd65fb4e1fc5fb6396dc6d644ceeb0e0ec14a1"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/sadf"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sadf"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

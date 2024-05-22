@@ -1,0 +1,26 @@
+[bin]
+name = "sa1"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sa1"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "1730 B"
+bsum = "83957ec54428c27dd032036c319db5831b14e49318df946862fba63620a47763"
+sha = "17d478bcd37a1342eb0c5dd0b0338a6b013129ee9ee4c4ee4ae39f08c758a303"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/sa1"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sa1"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "gitea"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gitea"
+description = ""
+author = ""
+repo = "https://github.com/go-gitea/gitea"
+stars = ""
+version = ""
+updated = ""
+size = "99.72 MB"
+bsum = "d10ac78b72a8b4f25138976e3a4f75422200f2958e1ee5eefaa49a676a68e3ba"
+sha = "e21ef7ca900befceb8cdbe9f3bb68a68deff0c0166adb3db5f88ff861be358a5"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gitea"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gitea"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "crlfuzz"
+
+[package]
+architecture = "aarch64_arm64"
+name = "crlfuzz"
+description = "A fast tool to scan CRLF vulnerability written in Go"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "4.66 MB"
+bsum = "407975343b9875b92b1420b7da4bbe2118704acb91b79fcd4e24522eec3642da"
+sha = "e5202893bcc49d438e536320bd8c1ab91887f95addbdbfd970b8e85445ff28c2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/crlfuzz"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["crlfuzz"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

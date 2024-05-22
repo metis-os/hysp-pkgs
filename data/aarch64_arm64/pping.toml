@@ -1,0 +1,26 @@
+[bin]
+name = "pping"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pping"
+description = "tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping."
+author = "wzv5"
+repo = "https://github.com/wzv5/pping"
+stars = "28"
+version = "v0.8.4"
+updated = "2024-03-19T14:45:13Z"
+size = "9.19 MB"
+bsum = "727b3e4d7ef9d3f126990c0668f4d99277574a1049aed284b6271798d893f393"
+sha = "f8a09edab0cf495e59b77f87c667b7cd699ff5945e2e63e2aa2997ed3ecbc827"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/pping"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pping"]
+requires = []
+
+[package.metadata]
+keywords = ["dns-ping","go","http-ping","icmp-ping","ping","quic-ping","tcp-ping","tls-ping"]
+categories = ["Utilities"]

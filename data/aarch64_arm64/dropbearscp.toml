@@ -1,0 +1,26 @@
+[bin]
+name = "dropbearscp"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dropbearscp"
+description = ""
+author = ""
+repo = "https://github.com/mkj/dropbear"
+stars = ""
+version = ""
+updated = ""
+size = "600.14 kB"
+bsum = "5634278b81ff6da3d304f511f138a044fa55c4ff942605d40bbd607b5d82a9ce"
+sha = "76bf36a69331ccdc51166e03a7e1f143415405cd51d4d51980fb8d84032eb00f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dropbearscp"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dropbearscp"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

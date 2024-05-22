@@ -1,0 +1,26 @@
+[bin]
+name = "xargs-rs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "xargs-rs"
+description = ""
+author = ""
+repo = "https://github.com/uutils/findutils"
+stars = ""
+version = ""
+updated = ""
+size = "1.33 MB"
+bsum = "ee1481e3df680855c7cbe851fe4ba04e80083d2d67e25ae9e9a2eb2d71a6d3af"
+sha = "fb53a64c337918e2b042d648aac97f6be575559e337715a75a5d8cc10d106a3f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/xargs-rs"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["xargs-rs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

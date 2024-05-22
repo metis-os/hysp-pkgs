@@ -1,0 +1,26 @@
+[bin]
+name = "warp-svc"
+
+[package]
+architecture = "aarch64_arm64"
+name = "warp-svc"
+description = "cloudflare warp"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "8.29 MB"
+bsum = "109919ecbe90c328561708d9580c2f63a1b5aceb40f7e2af5f437c491d65c55a"
+sha = "ed23aa1ffa0a199cc36092a12a9f47692d6d045154db5aaf41642a3ca7526e33"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/warp-svc"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["warp-svc"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

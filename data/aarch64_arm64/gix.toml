@@ -1,0 +1,26 @@
+[bin]
+name = "gix"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gix"
+description = ""
+author = ""
+repo = "https://github.com/gitpod-io/gitpod"
+stars = ""
+version = ""
+updated = ""
+size = "18.64 MB"
+bsum = "fcc1f802a450a447a7c3bff8a15e8be62721d1be75ace5da78f9ffdf80ab05dd"
+sha = "3f745b545e59b850224928438680c8bc0566cc63f33dca6cf19f2dc6c866d10a"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gix"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gix"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

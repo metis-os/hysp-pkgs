@@ -1,0 +1,26 @@
+[bin]
+name = "etcdutl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "etcdutl"
+description = ""
+author = ""
+repo = "https://github.com/etcd-io/etcd"
+stars = ""
+version = ""
+updated = ""
+size = "14.15 MB"
+bsum = "b3a70d0e5d4afcb1dd92516ebef4276b86c8954ce99cef2f95367a435c29c97c"
+sha = "38c67a7e764da799147771459bc2e6e33bf56e4527316b9523b572b96edcda6b"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/etcdutl"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["etcdutl"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

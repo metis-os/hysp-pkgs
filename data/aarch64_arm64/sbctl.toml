@@ -1,0 +1,26 @@
+[bin]
+name = "sbctl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sbctl"
+description = ":computer: :lock: :key: Secure Boot key manager"
+author = "Foxboron"
+repo = "https://github.com/Foxboron/sbctl"
+stars = "1315"
+version = "0.14"
+updated = "2024-05-08T21:01:57Z"
+size = "5.68 MB"
+bsum = "19d9cf1eae0b8d12d809509296fbee05a0b96db6aabf8477af956535bf6fa298"
+sha = "85f0a1a128626134dca15950027beda85a71e707df79a242bdbdcdf56082dc0f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/sbctl"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sbctl"]
+requires = []
+
+[package.metadata]
+keywords = ["efi","efi-stub","go","golang","linux","secureboot","signatures","uefi","uefi-secureboot"]
+categories = ["Utilities"]

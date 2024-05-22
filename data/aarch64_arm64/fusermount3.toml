@@ -1,0 +1,26 @@
+[bin]
+name = "fusermount3"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fusermount3"
+description = ""
+author = ""
+repo = "https://github.com/libfuse/libfuse"
+stars = ""
+version = ""
+updated = ""
+size = "132.62 kB"
+bsum = "2c23d483f7ac5c90df0e3072b71e1b00642a229f2f1abbcff1a0114886c62ffc"
+sha = "03080222867268a4e0fccd23db4dd8790052c0318b3527fa1ee8f268a40af29b"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/fusermount3"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["fusermount3"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

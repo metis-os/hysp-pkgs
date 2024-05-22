@@ -1,0 +1,26 @@
+[bin]
+name = "tz"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tz"
+description = "🌐 A time zone helper"
+author = "oz"
+repo = "https://github.com/oz/tz"
+stars = "795"
+version = "v0.7.0"
+updated = "2024-01-10T00:36:19Z"
+size = "2.54 MB"
+bsum = "dc9aaee88b98ba5d7923bbd26c416ffd54cca003c8020da354b1b6fe3ebfe332"
+sha = "9628584117ed49eea788b95cc135402b8b0a0bbb5e9f9be37b643001676e049e"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/tz"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["tz"]
+requires = []
+
+[package.metadata]
+keywords = ["timezone","tzdata","zone-helper"]
+categories = ["Utilities"]

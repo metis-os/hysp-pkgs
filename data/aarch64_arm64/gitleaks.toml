@@ -1,0 +1,26 @@
+[bin]
+name = "gitleaks"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gitleaks"
+description = ""
+author = ""
+repo = "https://github.com/gitleaks/gitleaks"
+stars = ""
+version = ""
+updated = ""
+size = "6.57 MB"
+bsum = "f73f6a65059faca19d6be0cf6657525c274334c7c40a91b98711a8ca26231749"
+sha = "a6da87e139aaaceeba92d03199ecb6fa6c99e4d8a1319b2fe1e00d8dd3e84282"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gitleaks"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gitleaks"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "delta"
+
+[package]
+architecture = "aarch64_arm64"
+name = "delta"
+description = ""
+author = ""
+repo = "https://github.com/dandavison/delta"
+stars = ""
+version = ""
+updated = ""
+size = "5.56 MB"
+bsum = "6ba1b97422959f9bbb17eb069b0d61ae1a4e6e01e0cc9f5e50ea12ea97d927e1"
+sha = "19c395fe1dfdc585ca2091d316a23a04fd2514a667eb03c9013c6242ef1ad4a2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/delta"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["delta"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "systeroid-tui"
+
+[package]
+architecture = "aarch64_arm64"
+name = "systeroid-tui"
+description = ""
+author = ""
+repo = "https://github.com/tailscale/tailscalehttps://github.com/tailscale/tailscale"
+stars = ""
+version = ""
+updated = ""
+size = "2.27 MB"
+bsum = "1ff886ff37e6b884420bc4f8f1c63ca3455a5ecacfa8834dd6da66322e4738f0"
+sha = "79a9e0c657407cf36ebe75aaf6f5a0a2b13cc21cac28cc4bdb2a3fd4e6e2db04"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/systeroid-tui"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["systeroid-tui"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

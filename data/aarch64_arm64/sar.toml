@@ -1,0 +1,26 @@
+[bin]
+name = "sar"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sar"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "209.9 kB"
+bsum = "264b9b4e29f00e8694d6d49cfb07d3262f54ce30936f7941913c8d5edff78063"
+sha = "33f2979acb3b7bb67d4ba8127c7f43c75e2fcd1134c11b373706702b04d404c1"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/sar"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sar"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

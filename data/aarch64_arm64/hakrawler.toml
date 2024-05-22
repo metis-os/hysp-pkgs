@@ -1,0 +1,26 @@
+[bin]
+name = "hakrawler"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hakrawler"
+description = "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application"
+author = "hakluke"
+repo = "https://github.com/hakluke/hakrawler"
+stars = "4256"
+version = "2.1"
+updated = "2022-05-23T08:28:59Z"
+size = "10.84 MB"
+bsum = "ee4f8a5899ee404a360933baf5f5db252526aedc578c295d6049ac9ff028c661"
+sha = "737a90807db2aba259483afac10240e9ff0e7dc4225d8e9543de6a0577fd1865"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/hakrawler"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["hakrawler"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","crawling","hacking","osint","pentesting","recon","reconnaissance"]
+categories = ["Utilities"]

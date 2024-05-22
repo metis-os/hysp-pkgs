@@ -1,0 +1,26 @@
+[bin]
+name = "procs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "procs"
+description = "A modern replacement for ps written in Rust"
+author = "dalance"
+repo = "https://github.com/dalance/procs"
+stars = "4825"
+version = "v0.14.5"
+updated = "2024-03-07T00:39:14Z"
+size = "4.89 MB"
+bsum = "1103a1088d40ed5d22c8bec2cab967a79a4106e4f3c4502b778a9995a8de4b5d"
+sha = "7c61a71fceb15851258019382e1c2bd5b044da0f9ab916a209aeb36701df15c5"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/procs"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["procs"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","process","rust"]
+categories = ["Utilities"]

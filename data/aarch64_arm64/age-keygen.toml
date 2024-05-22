@@ -1,0 +1,26 @@
+[bin]
+name = "age-keygen"
+
+[package]
+architecture = "aarch64_arm64"
+name = "age-keygen"
+description = "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+author = "FiloSottile"
+repo = "https://github.com/FiloSottile/age"
+stars = "15449"
+version = "v1.1.1"
+updated = "2022-12-26T20:39:07Z"
+size = "1.88 MB"
+bsum = "2f8b60d22a6ef537ea7c09a57aaa87fc3a5773b64020d5e3cdb2fd2465bb10fb"
+sha = "c1641df397481f4ed384befb8c37d03f5aa8d5cef9fd93475eb383db34de9710"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/age-keygen"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["age-keygen"]
+requires = []
+
+[package.metadata]
+keywords = ["age-encryption","built-at-rc"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "tapestat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "tapestat"
+description = "App to collect ram/cpu usage from OS and show it in pretty graphs"
+author = "qarmin"
+repo = "https://github.com/qarmin/system-info-collector"
+stars = "10"
+version = "0.2.0"
+updated = "2023-07-09T20:40:21Z"
+size = "112.89 kB"
+bsum = "73b33668abe7a7c4fa2f4763e029594d4eff7b6186d41cb86c0b31abf4e26b2d"
+sha = "17d1d4774f7a3eef56a8f6d5b2dbd4bd8196c3a186e3be4bfd5509ed8820a4cf"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/tapestat"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tapestat"]
+requires = []
+
+[package.metadata]
+keywords = ["data","data-collection","system"]
+categories = ["Utilities"]

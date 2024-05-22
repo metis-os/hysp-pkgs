@@ -1,0 +1,26 @@
+[bin]
+name = "mac2unix"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mac2unix"
+description = "Convert Line Endings"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "141.05 kB"
+bsum = "ed9419fd0421998d53d48bb0cd3f4678d4e4846956208df5c53cdbc786e4b73b"
+sha = "78348c7456e382253786f74ba9e4856563598eacc87a32b2a8dabc73a4ad666d"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/mac2unix"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["mac2unix"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

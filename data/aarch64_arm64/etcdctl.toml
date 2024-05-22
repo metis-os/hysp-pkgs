@@ -1,0 +1,26 @@
+[bin]
+name = "etcdctl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "etcdctl"
+description = ""
+author = ""
+repo = "https://github.com/etcd-io/etcd"
+stars = ""
+version = ""
+updated = ""
+size = "16.93 MB"
+bsum = "135860c1efc08de642538e5f307856ad30cf3d224c1c92afd88cf8eec5e19a8f"
+sha = "92c574dabab15529cf345770d884d2ed6bc2b2dcf3c0476ad86710ab8f7c1afc"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/etcdctl"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["etcdctl"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

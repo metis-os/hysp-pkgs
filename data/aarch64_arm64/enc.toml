@@ -1,0 +1,26 @@
+[bin]
+name = "enc"
+
+[package]
+architecture = "aarch64_arm64"
+name = "enc"
+description = ""
+author = ""
+repo = "https://github.com/life4/enc"
+stars = ""
+version = ""
+updated = ""
+size = "8.77 MB"
+bsum = "8daa22972e2da85c217dc752c70f599a16d31ac9840cd7bb1465dcd8936114d4"
+sha = "a42990c93a16d66839070dcb2ef7f8879d1c53828a9ef080f97d4d99bd155f5c"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/enc"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["enc"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

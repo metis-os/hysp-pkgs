@@ -1,0 +1,26 @@
+[bin]
+name = "fnm"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fnm"
+description = ""
+author = ""
+repo = "https://github.com/Schniz/fnm"
+stars = ""
+version = ""
+updated = ""
+size = "6.16 MB"
+bsum = "b8caccd304bc95eec585b0ca11b44fd2a277979f94724b4d99476352fea1337f"
+sha = "9330fb6c0f482aae4fa3aa5ad0b3d5249645ae9b457cd252a052bd886e97bfe1"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/fnm"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["fnm"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

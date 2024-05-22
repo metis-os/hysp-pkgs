@@ -1,0 +1,26 @@
+[bin]
+name = "viu"
+
+[package]
+architecture = "aarch64_arm64"
+name = "viu"
+description = "Terminal image viewer with native support for iTerm and Kitty"
+author = "atanunq"
+repo = "https://github.com/atanunq/viu"
+stars = "2397"
+version = "v1.5.0"
+updated = "2023-11-21T18:52:29Z"
+size = "3.25 MB"
+bsum = "dd08d3d13eae55f3e1045c71ab81f3a63577f951a0dd6863e64c5b3e3b7607e3"
+sha = "62199a5d2907a127eebd6f15d3471eeb7973ac51e6a494291aebd71470e3247b"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/viu"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["viu"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","image-viewer","rust","terminal"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "clipcat-notify"
+
+[package]
+architecture = "aarch64_arm64"
+name = "clipcat-notify"
+description = "A clipboard manager written in Rust Programming Language."
+author = "xrelkd"
+repo = "https://github.com/xrelkd/clipcat"
+stars = "317"
+version = "v0.17.0"
+updated = "2024-04-21T09:47:18Z"
+size = "4.94 MB"
+bsum = "608b9023f4b556fb24f46d1df8e2c8ffe84399c235c434c2741f044488dae8e6"
+sha = "ea07d186e32ce8c20907af78dd4eee8d6412bb95c0dd4c429c84fa5e36f1db45"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/clipcat-notify"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["clipcat-notify"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

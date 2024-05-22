@@ -1,0 +1,26 @@
+[bin]
+name = "ttyd"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ttyd"
+description = "Share your terminal over the web"
+author = "tsl0922"
+repo = "https://github.com/tsl0922/ttyd"
+stars = "7421"
+version = "1.7.7"
+updated = "2024-03-30T03:18:34Z"
+size = "1.37 MB"
+bsum = "be6cfb6eb175c0c4042b1f9e1f4d119caed99ddb1442aa1f171bd06612e83892"
+sha = "1619baaa83c4edd3e63f53cc4539ffdb6ac86631ce763dff6c21bf9bd9d0c383"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/ttyd"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ttyd"]
+requires = []
+
+[package.metadata]
+keywords = ["openwrt","ssl","terminal","terminal-emulators","tty","ttyd","websocket","websockets","xterm"]
+categories = ["Utilities"]

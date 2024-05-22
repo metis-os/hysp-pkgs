@@ -1,0 +1,26 @@
+[bin]
+name = "hakip2host"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hakip2host"
+description = "hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names."
+author = "hakluke"
+repo = "https://github.com/hakluke/hakip2host"
+stars = "381"
+version = ""
+updated = ""
+size = "4.66 MB"
+bsum = "24b1d22e651e1c1072eb37c359c7aaff0a531921b690327041ddb567a334c633"
+sha = "1765eb3258eeea4a97bcb12ecbc31d71d7605f8ef5205e6dddb93c19b5852eac"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/hakip2host"
+language = "Go"
+license = ""
+
+[package.conditions]
+conflicts  = ["hakip2host"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","hacking","osint","recon"]
+categories = ["Utilities"]

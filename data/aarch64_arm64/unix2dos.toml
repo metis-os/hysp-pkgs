@@ -1,0 +1,26 @@
+[bin]
+name = "unix2dos"
+
+[package]
+architecture = "aarch64_arm64"
+name = "unix2dos"
+description = "Convert Line Endings"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "141.05 kB"
+bsum = "36d4cb85191c30ccda32cdb6a765c1e15e33b1e1faf05dd1b3ccb53187544656"
+sha = "1319d71e31f95e15b32f87c87e839f5ce1a08a0e31edc5ec9475f12826f12eb7"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/unix2dos"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["unix2dos"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

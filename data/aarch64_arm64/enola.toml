@@ -1,0 +1,26 @@
+[bin]
+name = "enola"
+
+[package]
+architecture = "aarch64_arm64"
+name = "enola"
+description = ""
+author = ""
+repo = "https://github.com/TheYahya/enola"
+stars = ""
+version = ""
+updated = ""
+size = "7.69 MB"
+bsum = "45a094317e11a02f28ca0d074dad465968168be0529aba30cc6af9bb65a82574"
+sha = "8c8297fd5e8fc79a1d08d24c58fdf7d2078a8776df991f7b224e09c90ce42fb6"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/enola"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["enola"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

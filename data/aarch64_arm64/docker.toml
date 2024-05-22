@@ -1,0 +1,26 @@
+[bin]
+name = "docker"
+
+[package]
+architecture = "aarch64_arm64"
+name = "docker"
+description = ""
+author = ""
+repo = "https://github.com/docker/cli"
+stars = ""
+version = ""
+updated = ""
+size = "23.27 MB"
+bsum = "5d8eb0a752c72663e14e2ff8799bf5cceb388e94aade344d0c0b04da06cdb39d"
+sha = "28e2bbb28d55b61ed5bd73df1641c8c011b3b298dc6ef697950e803fb7895630"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/docker"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["docker"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "fwanalyzer"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fwanalyzer"
+description = ""
+author = ""
+repo = "https://github.com/cruise-automation/fwanalyzer"
+stars = ""
+version = ""
+updated = ""
+size = "2.67 MB"
+bsum = "775d0eca99e291cd997289cd95e93d3141ec7c87bcd4463989fc52da503cde35"
+sha = "f3af4e064ade9c67e0db090f7ed349048dfbeeb3a4280ded8508c8b63621b8f7"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/fwanalyzer"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["fwanalyzer"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "dizi-server"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dizi-server"
+description = ""
+author = ""
+repo = "https://github.com/kamiyaa/dizi"
+stars = ""
+version = ""
+updated = ""
+size = "5.36 MB"
+bsum = "fa9914fe3d0abbb730feb9f00d5667e02b0f0c6423f39400f591fb74df23794e"
+sha = "32d888fe924df0ee459dc33fdb4875b0709e61f4079d08d68fa2776fb176dfbd"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dizi-server"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dizi-server"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

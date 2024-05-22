@@ -1,0 +1,26 @@
+[bin]
+name = "jless_staticx"
+
+[package]
+architecture = "aarch64_arm64"
+name = "jless_staticx"
+description = "jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data."
+author = "PaulJuliusMartinez"
+repo = "https://github.com/PaulJuliusMartinez/jless"
+stars = "4532"
+version = "v0.9.0"
+updated = "2023-07-17T02:51:34Z"
+size = "2.01 MB"
+bsum = "68359ba451cd857878dc62db99e421653ee5ce5ce9c6e701bc2c84e15db2dc57"
+sha = "5ea00c7627c457adf0c1326c30eaef559e2b90aea9b71136c3c0a514ae2c133a"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/jless_staticx"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jless_staticx"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","json","rust"]
+categories = ["Utilities"]

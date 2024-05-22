@@ -1,0 +1,26 @@
+[bin]
+name = "fscan"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fscan"
+description = ""
+author = ""
+repo = "https://github.com/shadow1ng/fscan"
+stars = ""
+version = ""
+updated = ""
+size = "23.55 MB"
+bsum = "116648a54ddcd67b7ed7f76a864ada0daf016b2550e0c11fe73b3c481d876f5c"
+sha = "a4794c9f424da6280f233abffd0eb7698661be3374df91f918286d96c3d7a146"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/fscan"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["fscan"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

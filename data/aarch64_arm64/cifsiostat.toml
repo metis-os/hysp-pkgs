@@ -1,0 +1,26 @@
+[bin]
+name = "cifsiostat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cifsiostat"
+description = "Performance monitoring tools for Linux"
+author = "sysstat"
+repo = "https://github.com/sysstat/sysstat"
+stars = "2892"
+version = "v12.7.5"
+updated = ""
+size = "67.82 kB"
+bsum = "5a87c98ca6b0000637f0cffb20e61556dee355a725d1a4bc4d4360724829cb49"
+sha = "6b7ffc3a7525e8bb0686fe2fead92ce07629f3aca0393c61d14e252054189f74"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/cifsiostat"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["cifsiostat"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cpu","disk","iostat","linux","memory","monitoring","mpstat","performance-monitoring","pidstat","sadf","sar","system-monitoring","tapestat"]
+categories = ["Utilities"]

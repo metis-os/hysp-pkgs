@@ -1,0 +1,26 @@
+[bin]
+name = "numactl"
+
+[package]
+architecture = "aarch64_arm64"
+name = "numactl"
+description = "A new type of shell"
+author = "nushell"
+repo = "https://github.com/nushell/nushell"
+stars = "30365"
+version = "0.93.0"
+updated = "2024-04-30T23:31:27Z"
+size = "199.5 kB"
+bsum = "457bcdab22e57976b8bac7d78edd9d31fcb8c3c167a73316ac4ba51531943ba3"
+sha = "d2de5df7023b3bd0b6f9eba26fe371f8d6fe2bd1c86dbfe16b72e68b82803c57"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/numactl"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["numactl"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","shell"]
+categories = ["Utilities"]

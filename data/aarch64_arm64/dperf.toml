@@ -1,0 +1,26 @@
+[bin]
+name = "dperf"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dperf"
+description = ""
+author = ""
+repo = "https://github.com/minio/dperf"
+stars = ""
+version = ""
+updated = ""
+size = "5.89 MB"
+bsum = "b803f9fa62f3167c96746bf3284166122aaddf08d397cb01d6ec93c286a39b4f"
+sha = "a9044f7c5787d9fb2f4796bc00aa5bcbc7bb8f955dcf6939626299d58c194822"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dperf"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dperf"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

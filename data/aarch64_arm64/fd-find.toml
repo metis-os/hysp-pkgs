@@ -1,0 +1,26 @@
+[bin]
+name = "fd-find"
+
+[package]
+architecture = "aarch64_arm64"
+name = "fd-find"
+description = ""
+author = ""
+repo = "https://github.com/sharkdp/fd"
+stars = ""
+version = ""
+updated = ""
+size = "3.45 MB"
+bsum = "8b399e67bef33597cdf2b6bf7b04edadf1fd828fced9fb169c0adda58dc51016"
+sha = "6441d740e9a0fe948d4775e4ce98ca6fb7625ba669533993ea3d3dcbb7ce9cb9"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/fd-find"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["fd-find"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

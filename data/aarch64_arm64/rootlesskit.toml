@@ -1,0 +1,26 @@
+[bin]
+name = "rootlesskit"
+
+[package]
+architecture = "aarch64_arm64"
+name = "rootlesskit"
+description = "Linux-native fake root for implementing rootless containers"
+author = "rootless-containers"
+repo = "https://github.com/rootless-containers/rootlesskit"
+stars = "907"
+version = "v2.1.0"
+updated = "2024-04-26T01:38:33Z"
+size = "8.09 MB"
+bsum = "6b6d55025e7cffb215c4968e5dd008c4eb08f0a5c06b2a30e99ad9584e034dc7"
+sha = "c8994b7157656bfbb2f94a14aa007908a2899833b5cdd9a0befebd7481d7c145"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/rootlesskit"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["rootlesskit"]
+requires = []
+
+[package.metadata]
+keywords = ["rootless-containers"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "dnstake"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dnstake"
+description = ""
+author = ""
+repo = "https://github.com/pwnesia/dnstake"
+stars = ""
+version = ""
+updated = ""
+size = "5 MB"
+bsum = "3439095169eb5584b8b91de607b0e173cef80cf3ee082c26c53bd8fb3516afd1"
+sha = "c1599e1e328049e73fdb762a0b88f9680427f9fe315c284db494ab0bdce4e52a"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dnstake"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dnstake"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

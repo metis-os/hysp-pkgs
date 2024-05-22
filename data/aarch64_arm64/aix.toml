@@ -1,0 +1,26 @@
+[bin]
+name = "aix"
+
+[package]
+architecture = "aarch64_arm64"
+name = "aix"
+description = "AIx is a cli tool to interact with Large Language Models (LLM) APIs."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/aix"
+stars = "233"
+version = "v0.0.5"
+updated = "2024-01-11T19:16:23Z"
+size = "30.91 MB"
+bsum = "e7d51f8de268663fed8ba0aff5ceddd59a55e6fb476531f95f5570d7c20c8c00"
+sha = "ce7edeecb58a55bd6139972d7788ce584d5795b51cd5edaf52c1958e7b75a41f"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/aix"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["aix"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

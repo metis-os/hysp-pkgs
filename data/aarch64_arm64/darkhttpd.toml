@@ -1,0 +1,26 @@
+[bin]
+name = "darkhttpd"
+
+[package]
+architecture = "aarch64_arm64"
+name = "darkhttpd"
+description = ""
+author = ""
+repo = "https://github.com/emikulic/darkhttpd"
+stars = ""
+version = ""
+updated = ""
+size = "97.8 kB"
+bsum = "6fc0e5c62324c82e856088841153976b7c72db32f7a8f376d16500e4864a9db2"
+sha = "e7f6fd6b04da9c205c29cbdc88967fb753f2631cfc443a3400d2594cd8e86ba8"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/darkhttpd"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["darkhttpd"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

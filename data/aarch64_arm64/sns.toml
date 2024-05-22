@@ -1,0 +1,26 @@
+[bin]
+name = "sns"
+
+[package]
+architecture = "aarch64_arm64"
+name = "sns"
+description = "IIS shortname scanner written in Go"
+author = "sw33tLie"
+repo = "https://github.com/sw33tLie/sns"
+stars = "285"
+version = ""
+updated = ""
+size = "8.15 MB"
+bsum = "02f5468d864593caba4bcb2928293e18d60801e5b52b9b3104d6474e11b241a1"
+sha = "98182481f5288b2d3d57b47c80a7704424c8d10419ffc217d1d76503886e0bbe"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/sns"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["sns"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

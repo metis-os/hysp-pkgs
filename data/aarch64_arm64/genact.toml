@@ -1,0 +1,26 @@
+[bin]
+name = "genact"
+
+[package]
+architecture = "aarch64_arm64"
+name = "genact"
+description = ""
+author = ""
+repo = "https://github.com/svenstaro/genact"
+stars = ""
+version = ""
+updated = ""
+size = "1.29 MB"
+bsum = "7242d525ee01ab607d393dd4d325e54ecdfef22dae51ccaea7c68b54e1ac07ab"
+sha = "b3d78128827a157337550f9610d39b2ded1ccbeda9c71c79a0c1028fbc4ea336"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/genact"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["genact"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

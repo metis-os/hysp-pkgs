@@ -1,0 +1,26 @@
+[bin]
+name = "mount.fuse3"
+
+[package]
+architecture = "aarch64_arm64"
+name = "mount.fuse3"
+description = ""
+author = ""
+repo = "https://github.com/libfuse/libfuse"
+stars = ""
+version = ""
+updated = ""
+size = "526.02 kB"
+bsum = "1a6af7854b8bcf78b7fd58b35822233dda7ea53b4cfe4ac563a13f56b21f45f1"
+sha = "8029503db3d332da17fac2c08414d05df1d5eb1a3a95b1370f642bba1ef02a93"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/mount.fuse3"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["mount.fuse3"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

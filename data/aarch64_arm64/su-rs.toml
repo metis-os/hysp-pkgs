@@ -1,0 +1,26 @@
+[bin]
+name = "su-rs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "su-rs"
+description = "A memory safe implementation of sudo and su."
+author = "memorysafety"
+repo = "https://github.com/memorysafety/sudo-rs"
+stars = "2832"
+version = "v0.2.2"
+updated = "2024-02-13T11:12:37Z"
+size = "1.6 MB"
+bsum = "a242f2545fecc316c09a8fa4e630db35b100dfe02b7f2b65a90b8928b3cd2707"
+sha = "590d54a10074d523af3a810ecab31a05e617a5b3b0f48b24e8b82da2f0e7a7f2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/su-rs"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["su-rs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

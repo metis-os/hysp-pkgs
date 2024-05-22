@@ -1,0 +1,26 @@
+[bin]
+name = "find-rs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "find-rs"
+description = ""
+author = ""
+repo = "https://github.com/uutils/findutils"
+stars = ""
+version = ""
+updated = ""
+size = "2.56 MB"
+bsum = "f7553455c923fcbcc0cf602797ed01b4eb1b39ee1124675c42424b37d94e9687"
+sha = "42e07d6bda4378652124a1e93146bfec3f3ab33b8ffb0a9e61ef67acc4fc6bd0"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/find-rs"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["find-rs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

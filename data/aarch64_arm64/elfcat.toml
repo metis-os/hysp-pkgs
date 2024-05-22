@@ -1,0 +1,26 @@
+[bin]
+name = "elfcat"
+
+[package]
+architecture = "aarch64_arm64"
+name = "elfcat"
+description = ""
+author = ""
+repo = "https://github.com/ruslashev/elfcat"
+stars = ""
+version = ""
+updated = ""
+size = "512.34 kB"
+bsum = "99aae4cbcf55a2008581cd0c38a9294c7f48e5aa63677b57094173df7ff27801"
+sha = "ecca0f9c4a37615213161f594fce72ea296337582fa42f876c08def5ab8b96eb"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/elfcat"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["elfcat"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

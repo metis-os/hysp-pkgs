@@ -1,0 +1,26 @@
+[bin]
+name = "namegen"
+
+[package]
+architecture = "aarch64_arm64"
+name = "namegen"
+description = "🌈 A unique(ish) random name and id generator"
+author = "anandvarma"
+repo = "https://github.com/anandvarma/namegen"
+stars = "19"
+version = "v1.0.1"
+updated = "2024-02-14T22:27:20Z"
+size = "1.5 MB"
+bsum = "7fa6b9a179ff33b1f517898ed5c41bc8748de4aa9c46dff139d79c444bf4e430"
+sha = "d613e6f94b6d8bb6b8c4235f4cc9a68fbdea4219651d75053a57f0bee61dc7a1"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/namegen"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["namegen"]
+requires = []
+
+[package.metadata]
+keywords = ["go","id-generator","name-generator"]
+categories = ["Utilities"]

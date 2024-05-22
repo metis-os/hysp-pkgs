@@ -1,0 +1,26 @@
+[bin]
+name = "cloudfox"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cloudfox"
+description = "Automating situational awareness for cloud penetration tests."
+author = "BishopFox"
+repo = "https://github.com/BishopFox/cloudfox"
+stars = "1815"
+version = "v1.14.0"
+updated = "2024-04-16T19:01:17Z"
+size = "125.84 MB"
+bsum = "63687727007d72c76b427407bb4d5c7bcf26572ea2cf6237e08f2a9ef9752194"
+sha = "bb81e8cd3ba17fa0b28813d45260373097b78ec35c011e66873bf7bd2c3c8a05"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/cloudfox"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cloudfox"]
+requires = []
+
+[package.metadata]
+keywords = ["aws","cloud","cloud-security","golang","penetration-testing-tools","security"]
+categories = ["Utilities"]

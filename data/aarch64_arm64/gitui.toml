@@ -1,0 +1,26 @@
+[bin]
+name = "gitui"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gitui"
+description = ""
+author = ""
+repo = "https://github.com/extrawurst/gitui"
+stars = ""
+version = ""
+updated = ""
+size = "11.16 MB"
+bsum = "4be3f459940a1bece569a30e4a91e7b32d20fba109e73450997eb661a5cb2c53"
+sha = "0cd99f969a412bd62bcd2ae89665d4c831298e2b93ac55b6a524dfd763812e21"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gitui"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gitui"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

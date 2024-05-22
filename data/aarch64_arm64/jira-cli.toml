@@ -1,0 +1,26 @@
+[bin]
+name = "jira-cli"
+
+[package]
+architecture = "aarch64_arm64"
+name = "jira-cli"
+description = "🔥 Feature-rich interactive Jira command line."
+author = "ankitpokhrel"
+repo = "https://github.com/ankitpokhrel/jira-cli"
+stars = "3654"
+version = "v1.5.1"
+updated = "2024-01-28T20:59:21Z"
+size = "20.9 MB"
+bsum = "c915eb46496aa51d1f46fa8c95afacf3a3c660e11c0d0e3e8509a09ca30b9e54"
+sha = "449dee271126e55f18bb49d9ad177532809273a892b8d2401261c2a418d4758d"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/jira-cli"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jira-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["atlassian","cli","cli-app","command-line","command-line-tool","console","go","golang","golang-cli","jira","jira-cli","made-in-nepal","productivity","productivity-tools","terminal","terminal-app","tui"]
+categories = ["Utilities"]

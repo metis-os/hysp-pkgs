@@ -1,0 +1,26 @@
+[bin]
+name = "gip"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gip"
+description = ""
+author = ""
+repo = "https://github.com/dalance/gip"
+stars = ""
+version = ""
+updated = ""
+size = "9.8 MB"
+bsum = "a24cf17c1ee6dcd1356e3cbfca27a9bd135bc35f598ba613c5e85851e76b0499"
+sha = "fce8859ef9ca19beaf2f24a9d2d5f4f7323afe07b947daeeac2028875f552ee3"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gip"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gip"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

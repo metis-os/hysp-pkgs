@@ -1,0 +1,26 @@
+[bin]
+name = "bleve"
+
+[package]
+architecture = "aarch64_arm64"
+name = "bleve"
+description = "A modern text/numeric/geo-spatial/vector indexing library for go"
+author = "blevesearch"
+repo = "https://github.com/blevesearch/bleve"
+stars = "9706"
+version = "v2.4.0"
+updated = "2024-03-20T17:14:06Z"
+size = "15 MB"
+bsum = "3e2af1ee0c764116815d451139da9f9084479c15070d76b19815852c10b1215c"
+sha = "e8c347ac0f1c418fe8725b2caa5e4e0f1ae56e57e2dae9858328dd9f302ad04d"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/bleve"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["bleve"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

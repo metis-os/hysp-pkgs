@@ -1,0 +1,26 @@
+[bin]
+name = "volta"
+
+[package]
+architecture = "aarch64_arm64"
+name = "volta"
+description = "Volta: JS Toolchains as Code. ⚡"
+author = "volta-cli"
+repo = "https://github.com/volta-cli/volta"
+stars = "10115"
+version = "v1.1.1"
+updated = "2023-01-25T01:28:18Z"
+size = "4.93 MB"
+bsum = "613f1ab97c263efbad809a15fa19a30475187d179c7fff0ee9ffb631c1ec09ba"
+sha = "ceafe141438845e477dc16fe5b4f1c72a9f510e03a01f845d47008d550875eba"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/volta"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["volta"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","node","nodejs","package-manager"]
+categories = ["Utilities"]

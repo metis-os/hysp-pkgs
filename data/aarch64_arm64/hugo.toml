@@ -1,0 +1,26 @@
+[bin]
+name = "hugo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hugo"
+description = "The world’s fastest framework for building websites."
+author = "gohugoio"
+repo = "https://github.com/gohugoio/hugo"
+stars = "72870"
+version = "v0.126.1"
+updated = "2024-05-15T10:55:34Z"
+size = "84.66 MB"
+bsum = "4b799dd4aaaa33a85d829982fe45fafcb3c0db512abbaeb91cc75f8df1c4ed0d"
+sha = "dfba43d7663cc0ce24e74467ce1dbb0c35080ee53a63596fe3f0f2909b428ec6"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/hugo"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["hugo"]
+requires = []
+
+[package.metadata]
+keywords = ["blog-engine","cms","content-management-system","documentation-tool","go","hugo","static-site-generator"]
+categories = ["Utilities"]

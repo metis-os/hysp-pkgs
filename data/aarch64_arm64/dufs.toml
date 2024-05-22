@@ -1,0 +1,26 @@
+[bin]
+name = "dufs"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dufs"
+description = ""
+author = ""
+repo = "https://github.com/bootandy/dust"
+stars = ""
+version = ""
+updated = ""
+size = "2.39 MB"
+bsum = "7d92abb435e524d029206ff06c4e5fae1f5fb23e4bef37878c620af4184fffbf"
+sha = "c35c0e6b416ac6f59dcaeee2205a2377f9bf1da4499b1b18a386791a5a271a4e"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dufs"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dufs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

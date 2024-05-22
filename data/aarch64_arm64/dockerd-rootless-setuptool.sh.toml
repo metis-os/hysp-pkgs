@@ -1,0 +1,26 @@
+[bin]
+name = "dockerd-rootless-setuptool.sh"
+
+[package]
+architecture = "aarch64_arm64"
+name = "dockerd-rootless-setuptool.sh"
+description = ""
+author = ""
+repo = "https://github.com/docker/cli"
+stars = ""
+version = ""
+updated = ""
+size = "14.84 kB"
+bsum = "db224fb0d8c4ada34a247066b95a4b73ad59c305ac089e2909ee0965224dfe55"
+sha = "66609532b1da7b37f89e7fb60b129b33b7ec10b1822bc670957e0a4b386613e2"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/dockerd-rootless-setuptool.sh"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["dockerd-rootless-setuptool.sh"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

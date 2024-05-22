@@ -1,0 +1,26 @@
+[bin]
+name = "pipetty"
+
+[package]
+architecture = "aarch64_arm64"
+name = "pipetty"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "54"
+version = ""
+updated = ""
+size = "40.39 kB"
+bsum = "fbc0ecbab61b2dde2f28a62b786d89ffb0866ef53da9644d3ce3c5e3868c7d83"
+sha = "f8ef770caafe0ac3be9a2970ff242b2a8b1f05356b43bf9046d4a102a29c2726"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/pipetty"
+language = "Shell"
+license = ""
+
+[package.conditions]
+conflicts  = ["pipetty"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

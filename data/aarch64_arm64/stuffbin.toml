@@ -1,0 +1,26 @@
+[bin]
+name = "stuffbin"
+
+[package]
+architecture = "aarch64_arm64"
+name = "stuffbin"
+description = "Compress and embed static files and assets into Go binaries and access them with a virtual file system in production"
+author = "knadh"
+repo = "https://github.com/knadh/stuffbin"
+stars = "166"
+version = "v1.3.0"
+updated = ""
+size = "3.24 MB"
+bsum = "8fe95b7ac7470fc7852578dd48580b9779ba0d516398783163c5cd791356f9a1"
+sha = "a044114e188056f9724afb5c35d4c5c11db737b30ee159efe9c28e2c9bd7c3eb"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/stuffbin"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["stuffbin"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

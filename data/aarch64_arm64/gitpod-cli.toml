@@ -1,0 +1,26 @@
+[bin]
+name = "gitpod-cli"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gitpod-cli"
+description = ""
+author = ""
+repo = "https://github.com/gitpod-io/gitpod"
+stars = ""
+version = ""
+updated = ""
+size = "16.89 MB"
+bsum = "2d409d3f4332b3947d197fd4d144af8dbec0ed4f191a00af2597e54fae242cbc"
+sha = "5842999cd15cb706fe55d53628bd58a488045322563f469d2eb5a6e63d9b0494"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gitpod-cli"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gitpod-cli"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "traefik"
+
+[package]
+architecture = "aarch64_arm64"
+name = "traefik"
+description = "The Cloud Native Application Proxy"
+author = "traefik"
+repo = "https://github.com/traefik/traefik"
+stars = "48360"
+version = "v2.11.3"
+updated = "2024-05-21T14:55:28Z"
+size = "146.17 MB"
+bsum = "081e3347f9d70f51a4f843f0a38d8880006401ed80cfac0270467d96564d84ec"
+sha = "a46db87a9fb5aa2aef2d6be99dcfdafb78af9ade78c40c0301eaa7dd9b64ad8b"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/traefik"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["traefik"]
+requires = []
+
+[package.metadata]
+keywords = ["consul","docker","etcd","go","golang","kubernetes","letsencrypt","load-balancer","marathon","mesos","microservice","reverse-proxy","traefik","zookeeper"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "hurlfmt"
+
+[package]
+architecture = "aarch64_arm64"
+name = "hurlfmt"
+description = "A modern alternative to the watch command, records the differences in execution results and can check this differences at after."
+author = "blacknon"
+repo = "https://github.com/blacknon/hwatch"
+stars = "686"
+version = "0.3.13"
+updated = "2024-05-06T05:56:32Z"
+size = "3.68 MB"
+bsum = "418d723730fe27fd95bf5a8330f10a5f5b1d280cd12f0e28cba3ccccd280459d"
+sha = "7e3d4cc74475c56d62f17d8943d72d85f4437de57217ea87239bb0c1ca409761"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/hurlfmt"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hurlfmt"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","monitoring","rust","terminal-ui","tui","watch"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "numademo"
+
+[package]
+architecture = "aarch64_arm64"
+name = "numademo"
+description = "A new type of shell"
+author = "nushell"
+repo = "https://github.com/nushell/nushell"
+stars = "30365"
+version = "0.93.0"
+updated = "2024-04-30T23:31:27Z"
+size = "198.7 kB"
+bsum = "00968687990e740d27264b61a40fdf43d977082172aa99cdfc95a1e4ed642603"
+sha = "e4c806d4e1b2d5bb372b1f353267b786620e6e429853e985a7e968b7da2b5158"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/numademo"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["numademo"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","shell"]
+categories = ["Utilities"]

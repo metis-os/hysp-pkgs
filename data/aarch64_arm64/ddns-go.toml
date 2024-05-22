@@ -1,0 +1,26 @@
+[bin]
+name = "ddns-go"
+
+[package]
+architecture = "aarch64_arm64"
+name = "ddns-go"
+description = ""
+author = ""
+repo = "https://github.com/jeessy2/ddns-go"
+stars = ""
+version = ""
+updated = ""
+size = "8.65 MB"
+bsum = "ff128cb3cbff51f431ce170611bba17eb4349da26db090f67e83d3e40e770f92"
+sha = "2102744962e88c76fd26767c03fff1f9471c6b1fee2631130e51ff052710551e"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/ddns-go"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["ddns-go"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "axel"
+
+[package]
+architecture = "aarch64_arm64"
+name = "axel"
+description = "Lightweight CLI download accelerator"
+author = "axel-download-accelerator"
+repo = "https://github.com/axel-download-accelerator/axel"
+stars = "2842"
+version = "v2.17.14"
+updated = "2024-04-07T23:40:58Z"
+size = "3.63 MB"
+bsum = "5d2365d2a5dae795d74f01e75651b8f754e376b621069702a62ccb367d8ded24"
+sha = "5f8dde5726e1d0dd516c98b45e83de3669afc0d13d07aacff185de506ef90a6d"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/axel"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["axel"]
+requires = []
+
+[package.metadata]
+keywords = ["accelerate","downloader","hacktoberfest","light","lightweight"]
+categories = ["Utilities"]

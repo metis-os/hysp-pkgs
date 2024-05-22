@@ -1,0 +1,26 @@
+[bin]
+name = "gdu"
+
+[package]
+architecture = "aarch64_arm64"
+name = "gdu"
+description = ""
+author = ""
+repo = "https://github.com/dundee/gdu"
+stars = ""
+version = ""
+updated = ""
+size = "13.11 MB"
+bsum = "c422c7dff19079c04e2099600685632b1bee10ce8c8f5822f24aabdf4dc2cbb5"
+sha = "f3c7ac64c1495f82af0836942ad5bf840bc995530c18d7101ec5b5fda03f79aa"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/gdu"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["gdu"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "cowsay"
+
+[package]
+architecture = "aarch64_arm64"
+name = "cowsay"
+description = "complete rewrite of cowsay in Go"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "2.87 MB"
+bsum = "66478553579c1f443252a423f19ee16c8761d7e80a172984e85f6f1fedc680c6"
+sha = "56c2f015ad78bd4e0d8b8669b2a10beca015ffb084692f127a99ba0d6c694cff"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/cowsay"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["cowsay"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

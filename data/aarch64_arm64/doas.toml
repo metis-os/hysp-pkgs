@@ -1,0 +1,26 @@
+[bin]
+name = "doas"
+
+[package]
+architecture = "aarch64_arm64"
+name = "doas"
+description = ""
+author = ""
+repo = "https://github.com/Duncaen/OpenDoas"
+stars = ""
+version = ""
+updated = ""
+size = "329.29 kB"
+bsum = "fe280c291c5bc13484d80be2eee486716d763c2c5be2b73d61e7e7a86280d011"
+sha = "2418e3d5cfd2cbca4954e7fbc947603af68b160ef4afa1b76660dcf6cc8d5681"
+source = "https://pub.ajam.dev/aarch64_arm64_Linux/doas"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["doas"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]
