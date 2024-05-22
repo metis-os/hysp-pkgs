@@ -1,0 +1,26 @@
+[bin]
+name = "adig"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "adig"
+description = "A C library for asynchronous DNS requests"
+author = "c-ares"
+repo = "https://github.com/c-ares/c-ares"
+stars = "1781"
+version = "cares-1_28_1"
+updated = "2024-03-30T15:19:58Z"
+size = "164.18 kB"
+bsum = "f8959a42897adf9aa0564a593f33a8b95aeb97fe876ab35ec865c07b3cd3a7b3"
+sha = "18b1e2bd70746d9ad21323736791204bafc0e8a2477d5156c5036490f460f073"
+source = "https://bin.ajam.dev/arm64_v8a_Android/adig"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["adig"]
+requires = []
+
+[package.metadata]
+keywords = ["async","c","dns","dns-queries","library","resolver"]
+categories = ["Utilities"]

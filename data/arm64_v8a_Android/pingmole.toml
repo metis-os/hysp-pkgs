@@ -1,0 +1,26 @@
+[bin]
+name = "pingmole"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "pingmole"
+description = "CLI that helps to filter Mullvad servers and pick the closest one."
+author = "norskeld"
+repo = "https://github.com/norskeld/pingmole"
+stars = "4"
+version = ""
+updated = ""
+size = "6.87 MB"
+bsum = "cacb29a00409ca36f3e355be63b4c26182a089f0431601264069058c542c6b4f"
+sha = "fd781bdf74d4caf9c2e358acb15d9d3bc24c8c539b9d8086aea43838e1bb060d"
+source = "https://bin.ajam.dev/arm64_v8a_Android/pingmole"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pingmole"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","mullvad","rust"]
+categories = ["Utilities"]

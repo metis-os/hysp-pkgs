@@ -1,0 +1,26 @@
+[bin]
+name = "act"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "act"
+description = "Run your GitHub Actions locally 🚀"
+author = "nektos"
+repo = "https://github.com/nektos/act"
+stars = "50899"
+version = "v0.2.62"
+updated = "2024-05-01T02:20:12Z"
+size = "17.42 MB"
+bsum = "5e847bfa643bd4bdddf3d9e573575277a5db262c33f2e39fe3041b7238577733"
+sha = "4f9bd55fa86af72cd9d7657d5ffdb68181b970b65c7a590ec20f5fb40ad21113"
+source = "https://bin.ajam.dev/arm64_v8a_Android/act"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["act"]
+requires = []
+
+[package.metadata]
+keywords = ["ci","devops","github-actions","golang"]
+categories = ["Utilities"]

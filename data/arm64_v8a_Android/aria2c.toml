@@ -1,0 +1,26 @@
+[bin]
+name = "aria2c"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "aria2c"
+description = " multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink."
+author = "aria2"
+repo = "https://github.com/aria2/aria2"
+stars = "33782"
+version = "release-1.37.0"
+updated = "2023-11-15T12:07:32Z"
+size = "9.29 MB"
+bsum = "856dad2f6fd60d130ebec0dce6b99bdca910fe8b34e599c2bfe946d7c853d32d"
+sha = "567fd704c354a74210625ca904c937b4060a32c39917025ac89f32177265b0b0"
+source = "https://bin.ajam.dev/arm64_v8a_Android/aria2c"
+language = "C++"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["aria2c"]
+requires = []
+
+[package.metadata]
+keywords = ["bittorrent","cpp11","download","ftp","http","metalink","rpc","sftp"]
+categories = ["Utilities"]

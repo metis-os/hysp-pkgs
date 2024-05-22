@@ -1,0 +1,26 @@
+[bin]
+name = "tmux"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "tmux"
+description = "tmux source code"
+author = "tmux"
+repo = "https://github.com/tmux/tmux"
+stars = "33263"
+version = "3.4"
+updated = "2024-02-13T10:22:31Z"
+size = "1.55 MB"
+bsum = "2c6fc73afbb1de664c0d31f9d458bdee2567a3869ad978af11d08d2a4473d70d"
+sha = "e3e927aab799392a84459664155096b4dc6abab6e0ec1c3b8e7943b9edeaf2aa"
+source = "https://bin.ajam.dev/arm64_v8a_Android/tmux"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["tmux"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

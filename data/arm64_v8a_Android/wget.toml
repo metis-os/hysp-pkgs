@@ -1,0 +1,26 @@
+[bin]
+name = "wget"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "wget"
+description = "Tool for retrieving files using HTTP, HTTPS, and FTP"
+author = ""
+repo = ""
+stars = ""
+version = ""
+updated = ""
+size = "5.66 MB"
+bsum = "5d33943ad4d6c0f3ab2bc778601172d573e366dde76f89063617816e7b49c93a"
+sha = "0aa68db34ab5c723afd0e922b227ea30c3604f229ecf52e410ada1ffff45fc0c"
+source = "https://bin.ajam.dev/arm64_v8a_Android/wget"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["wget"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

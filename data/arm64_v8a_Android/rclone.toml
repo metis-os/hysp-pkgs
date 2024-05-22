@@ -1,0 +1,26 @@
+[bin]
+name = "rclone"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "rclone"
+description = "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+author = "rclone"
+repo = "https://github.com/rclone/rclone"
+stars = "44265"
+version = "v1.66.0"
+updated = "2024-03-10T12:13:14Z"
+size = "84.97 MB"
+bsum = "2b80ecb20903cd9f474c2bbdb94905d293fae2b678ecddfe22baa27d40f0ab97"
+sha = "c0b8282791aa50358081138153746801db401288baf47d4a8ee21982e48afbf7"
+source = "https://bin.ajam.dev/arm64_v8a_Android/rclone"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rclone"]
+requires = []
+
+[package.metadata]
+keywords = ["azure-blob","azure-blob-storage","azure-files","backblaze-b2","cloud-storage","dropbox","encryption","ftp","fuse-filesystem","go","golang","google-cloud-storage","google-drive","onedrive","openstack-swift","rclone","s3","sftp","sync","webdav"]
+categories = ["Utilities"]

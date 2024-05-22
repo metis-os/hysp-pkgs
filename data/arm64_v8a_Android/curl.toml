@@ -1,0 +1,26 @@
+[bin]
+name = "curl"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "curl"
+description = "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+author = "curl"
+repo = "https://github.com/curl/curl"
+stars = "34420"
+version = "curl-8_8_0"
+updated = "2024-05-22T06:02:33Z"
+size = "5.14 MB"
+bsum = "9adccc59017ab6a95839d3eeda6e14e112160b5f42abe61b6795bd03be972223"
+sha = "4811ea97828569abc5d1bd5348f297a33d1055109b64519e264a92949b0fe740"
+source = "https://bin.ajam.dev/arm64_v8a_Android/curl"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["curl"]
+requires = []
+
+[package.metadata]
+keywords = ["c","client","curl","ftp","gopher","hacktoberfest","http","https","imaps","ldap","libcurl","library","mqtt","pop3","scp","sftp","transfer-data","transferring-data","user-agent","websocket"]
+categories = ["Utilities"]

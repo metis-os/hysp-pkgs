@@ -1,0 +1,26 @@
+[bin]
+name = "vim"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "vim"
+description = "The official Vim repository"
+author = "vim"
+repo = "https://github.com/vim/vim"
+stars = "35195"
+version = "v9.1.0429"
+updated = ""
+size = "5.06 MB"
+bsum = "8e5394fa055c8da577f9b127479fff160840900569f223443190d5045b915aac"
+sha = "e5b9026fba310f503c29a9745ff13ab003a719f56e458f455c56bfbaa6cf28c6"
+source = "https://bin.ajam.dev/arm64_v8a_Android/vim"
+language = "Vim Script"
+license = "Vim License"
+
+[package.conditions]
+conflicts  = ["vim"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cross-platform","text-editor","vim"]
+categories = ["Utilities"]
