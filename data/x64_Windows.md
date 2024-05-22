@@ -6,8 +6,8 @@
 - **Version:** 23.01
 - **Updated:** (2023-06-20)
 - **Size:** 
-- **SHA256SUM:** 1f13c7e1817f2f58a60dc14e757a24a20a080c9110f1d8d8eef0960987c25a45
-- **B3SUM:** 1d34a55e2eb1b25bf1ff8c2888310d00577485369d4f0e2b2ba82e992655d0b4
+- **SHA256SUM:** 15f5b21f80e080e7349e53e476c86094b798e6cd08a7e5ca0742604cae6a4262
+- **B3SUM:** de60aeab51f0b445eb58f684fc58c42730434de1985e7a8cd0d572960d6d7fe4
 - **Source:** https://bin.ajam.dev/x64_Windows/7z
 - **Language:** C++
 - **License:** LGPL-2.1-or-later
