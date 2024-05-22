@@ -79,7 +79,7 @@ jobs:
                 web="$(jq -r '.web_url' <<< "$obj" | tr -d '[:space:]')" && export web="$web"
                 # Set up the environment variables and execute the one-liner
                 echo -e "\n\n[+] Generating Meta for $bin ($repo || $web)\n"
-                BIN="$bin" REPO_URL="$repo" WEB_URL="$web" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_x86_64_bin.ajam.dev.sh")
+                BIN="$bin" REPO_URL="$repo" WEB_URL="$web" bash <(curl -qfsSL "https://raw.githubusercontent.com/metis-os/hysp-pkgs/main/.github/scripts/pkg_metafetcher_aarch64_arm64_bin.ajam.dev.sh")
                 #unset vars
                 unset bin repo web
             done
