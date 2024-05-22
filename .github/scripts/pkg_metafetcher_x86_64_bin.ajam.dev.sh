@@ -35,6 +35,7 @@ if jq --exit-status . "$TMPDIR/METADATA.json" >/dev/null 2>&1; then
     else
        DESCRIPTION="$(cat "$TMPDIR/METADATA.json" | jq -r '.description' | sed 's/`//g' | sed 's/^[ \t]*//;s/[ \t]*$//' | sed ':a;N;$!ba;s/\r\n//g; s/\n//g')" && export DESCRIPTION="$DESCRIPTION" 
        LAST_UPDATED="$(cat "$TMPDIR/METADATA.json" | jq -r '.build_date' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export LAST_UPDATED="$LAST_UPDATED"
+       TOPICS="$(cat "$TMPDIR/METADATA.json" | jq -c -r '.repo_topics // []' | sed 's/[][ ]*//g; s/^/["/; s/$/"]/; s/,/","/g')" && export TOPICS="$TOPICS"
     fi
     #-------------------------------------------------------#
     
