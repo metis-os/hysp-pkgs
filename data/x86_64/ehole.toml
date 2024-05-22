@@ -1,0 +1,26 @@
+[bin]
+name = "ehole"
+
+[package]
+architecture = "x86_64"
+name = "ehole"
+description = "EHole(棱洞)魔改。可对路径进行指纹识别；支持识别出来的重点资产进行漏洞检测(支持从hunter和fofa中提取资产)支持对ftp服务识别及爆破"
+author = "lemonlove7"
+repo = "https://github.com/lemonlove7/EHole_magic"
+stars = "682"
+version = "领先"
+updated = "2024-03-06T09:27:45Z"
+size = "11.26 MB"
+bsum = "2bb322f26c4bfc67fd06eca0add5c872070c1e648b7f695f81b0197d2384b909"
+sha = "82ad590269fa9b6e04e24bf6ac71c40ce1672b72255c2ddb937a81f9e2a8bb73"
+source = "https://bin.ajam.dev/x86_64_Linux/ehole"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ehole"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

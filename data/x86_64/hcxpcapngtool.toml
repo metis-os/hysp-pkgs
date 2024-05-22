@@ -1,0 +1,26 @@
+[bin]
+name = "hcxpcapngtool"
+
+[package]
+architecture = "x86_64"
+name = "hcxpcapngtool"
+description = ""
+author = ""
+repo = "https://github.com/checkpoint-restore/hcxtools"
+stars = ""
+version = ""
+updated = ""
+size = "3.76 MB"
+bsum = "a856dab9ad13c7d00295d0ac6e4d9d265cb529a479563df41e34d4bf5cd64fd4"
+sha = "90a3de54f3c4d32cb9936d85c9d318e6e3c5372fb82a8e13244a0fe3a343ed64"
+source = "https://bin.ajam.dev/x86_64_Linux/hcxpcapngtool"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["hcxpcapngtool"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

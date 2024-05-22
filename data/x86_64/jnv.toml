@@ -1,0 +1,26 @@
+[bin]
+name = "jnv"
+
+[package]
+architecture = "x86_64"
+name = "jnv"
+description = "interactive JSON filter using jq"
+author = "ynqa"
+repo = "https://github.com/ynqa/jnv"
+stars = "4398"
+version = "v0.2.2"
+updated = "2024-04-21T11:18:04Z"
+size = "2.18 MB"
+bsum = "85491e59f69777c996dd960c2a6a1d42e498ad672e66c8bc087ee7fdfc3409a1"
+sha = "892d42d16a9627365fc546fb5d8a53a79cd7ed8c8d3c581fa57ff1e378bcfccf"
+source = "https://bin.ajam.dev/x86_64_Linux/jnv"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jnv"]
+requires = []
+
+[package.metadata]
+keywords = ["autocomplete","cli","command-line","interactive","jq","json","kubernetes","prompt","rust"]
+categories = ["Utilities"]

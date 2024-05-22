@@ -1,0 +1,26 @@
+[bin]
+name = "eap"
+
+[package]
+architecture = "x86_64"
+name = "eap"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "309"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.41 MB"
+bsum = "f3c6503e16aa4266bb8dcd142272df5c2a5a1b4a6e222963d48410cccb2a7e24"
+sha = "8b97f3ce160ff10f5c0eac7dd4d25f4efa9e15a5dbfb8e1883340ccd23a59d94"
+source = "https://bin.ajam.dev/x86_64_Linux/eap"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["eap"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "nrp"
+
+[package]
+architecture = "x86_64"
+name = "nrp"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "309"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "4.36 MB"
+bsum = "66d9de8ae88adddece9277b674da995a504111ea3d3f6c5990d982165a6a3bfa"
+sha = "6b1b88192a9c1a78ecd61e8025196a815366c6963c90a1fc3fec7b8fc1cfd3a4"
+source = "https://bin.ajam.dev/x86_64_Linux/nrp"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["nrp"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

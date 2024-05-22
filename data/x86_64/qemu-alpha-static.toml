@@ -1,0 +1,26 @@
+[bin]
+name = "qemu-alpha-static"
+
+[package]
+architecture = "x86_64"
+name = "qemu-alpha-static"
+description = "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
+author = "qemu"
+repo = "https://github.com/qemu/qemu"
+stars = "9414"
+version = "v9.0.0"
+updated = ""
+size = "2.35 MB"
+bsum = "6fa0436595dda1d412b48552ee377cc34288b3e3b3024952fb58b78a8e93a02b"
+sha = "beb4672198ce179607c1518ac46baa64da211aaa4b3c07ff87cee8ef2e3bf569"
+source = "https://bin.ajam.dev/x86_64_Linux/qemu-alpha-static"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["qemu-alpha-static"]
+requires = []
+
+[package.metadata]
+keywords = ["emulation","qemu","virtualization"]
+categories = ["Utilities"]

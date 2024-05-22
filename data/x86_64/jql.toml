@@ -1,0 +1,26 @@
+[bin]
+name = "jql"
+
+[package]
+architecture = "x86_64"
+name = "jql"
+description = "A JSON Query Language CLI tool"
+author = "yamafaktory"
+repo = "https://github.com/yamafaktory/jql"
+stars = "1433"
+version = "jql-v7.1.8"
+updated = "2024-04-24T12:12:27Z"
+size = "1.06 MB"
+bsum = "03b8c9944e59a7a12c474fc8e40ea428bd958ae77ba90e2b40864bc0c21d4f93"
+sha = "fbd34faa53dfdafad6d8f74f19ea1ff15ec51cbd6d1f3c5854e4fb2ad4dcbcdf"
+source = "https://bin.ajam.dev/x86_64_Linux/jql"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["jql"]
+requires = []
+
+[package.metadata]
+keywords = ["cargo","cli","devops-tools","json","rust","rustlang","tool","tools","utility"]
+categories = ["Utilities"]

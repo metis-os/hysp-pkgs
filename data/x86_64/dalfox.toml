@@ -1,0 +1,26 @@
+[bin]
+name = "dalfox"
+
+[package]
+architecture = "x86_64"
+name = "dalfox"
+description = "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation."
+author = "hahwul"
+repo = "https://github.com/hahwul/dalfox"
+stars = "3346"
+version = "v2.9.2"
+updated = "2024-01-28T15:50:31Z"
+size = "25.02 MB"
+bsum = "b20c21dc46ab821a9d098a738033709fb84cc906eb56615a0290d2428a64ff92"
+sha = "795ecb8eee3a43b5dd2b455c0985e35b8a4b8e8d86daa37756d4097e740c570d"
+source = "https://bin.ajam.dev/x86_64_Linux/dalfox"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dalfox"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","bugbounty-tool","cicd-pipeline","devsecops","golang","security","vulnerability","xss","xss-bruteforce","xss-detection","xss-exploit","xss-scanner"]
+categories = ["Utilities"]

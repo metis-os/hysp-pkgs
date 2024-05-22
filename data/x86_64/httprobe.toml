@@ -1,0 +1,26 @@
+[bin]
+name = "httprobe"
+
+[package]
+architecture = "x86_64"
+name = "httprobe"
+description = "Take a list of domains and probe for working HTTP and HTTPS servers"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/httprobe"
+stars = "2739"
+version = "v0.2"
+updated = "2022-06-09T16:22:06Z"
+size = "4.86 MB"
+bsum = "39a45e6dc0a6e1b5f60ef2ce8b994aadc45a5890661076ad2ab75cfe997f3fad"
+sha = "b0be81f472c7b1522bd0cde9c599c92f0174d4f06a6fdf8ed9762c48bdb87680"
+source = "https://bin.ajam.dev/x86_64_Linux/httprobe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["httprobe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

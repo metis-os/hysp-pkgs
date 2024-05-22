@@ -1,0 +1,26 @@
+[bin]
+name = "sourcemapper"
+
+[package]
+architecture = "x86_64"
+name = "sourcemapper"
+description = "Extract JavaScript source trees from Sourcemap files"
+author = "denandz"
+repo = "https://github.com/denandz/sourcemapper"
+stars = "776"
+version = ""
+updated = ""
+size = "5.34 MB"
+bsum = "af7c181e0da2bf5df9c11d2bed09aafc347e105f5ea9c0020d563a328d8e5e31"
+sha = "8cd356f7848a625ee4d58813608bc136fc81ecc5d3c924395fd49f8fb051ef65"
+source = "https://bin.ajam.dev/x86_64_Linux/sourcemapper"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["sourcemapper"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

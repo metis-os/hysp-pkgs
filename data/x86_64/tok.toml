@@ -1,0 +1,26 @@
+[bin]
+name = "tok"
+
+[package]
+architecture = "x86_64"
+name = "tok"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "54"
+version = ""
+updated = ""
+size = "1.36 MB"
+bsum = "186d8924fefe5dc52b8f4864aaf8f2fb17cf25429776c20b383e803292d4fb78"
+sha = "f3894c40be7ae75131e41d6120365bdc2999f2dbd753022e7ca60a0c5eee24bc"
+source = "https://bin.ajam.dev/x86_64_Linux/tok"
+language = "Shell"
+license = ""
+
+[package.conditions]
+conflicts  = ["tok"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "b3sum"
+
+[package]
+architecture = "x86_64"
+name = "b3sum"
+description = "the official Rust and C implementations of the BLAKE3 cryptographic hash function"
+author = "BLAKE3-team"
+repo = "https://github.com/BLAKE3-team/BLAKE3"
+stars = "4625"
+version = "1.5.1"
+updated = "2024-03-12T07:55:27Z"
+size = "1.29 MB"
+bsum = "415ab1b892afa5f4de6e6539a65db9593b88baf9b6213b305c97e7cf469c4659"
+sha = "43c9f072563f3e624aba958643b8cf2b9f48ad84d0715c1e6fd8509ccfbe7f82"
+source = "https://bin.ajam.dev/x86_64_Linux/b3sum"
+language = "Assembly"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["b3sum"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

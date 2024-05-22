@@ -1,0 +1,26 @@
+[bin]
+name = "resperf"
+
+[package]
+architecture = "x86_64"
+name = "resperf"
+description = "DNS Performance Testing Tools"
+author = "DNS-OARC"
+repo = "https://github.com/DNS-OARC/dnsperf"
+stars = "377"
+version = "v2.14.0"
+updated = "2024-01-18T12:45:00Z"
+size = "4.66 MB"
+bsum = "74b8d11a4d994253c9075419f0d3cd2c38969c21366d8f6aab6889d057a154ad"
+sha = "0af94a3f201dd39f2614c950e693af63ef16950f8211d521d24f77ce2ea73b1b"
+source = "https://bin.ajam.dev/x86_64_Linux/resperf"
+language = "C"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["resperf"]
+requires = []
+
+[package.metadata]
+keywords = ["dns","performance"]
+categories = ["Utilities"]

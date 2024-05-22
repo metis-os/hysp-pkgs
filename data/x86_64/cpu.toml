@@ -1,0 +1,26 @@
+[bin]
+name = "cpu"
+
+[package]
+architecture = "x86_64"
+name = "cpu"
+description = "cpu command in Go, inspired by the Plan 9 cpu command"
+author = "u-root"
+repo = "https://github.com/u-root/cpu"
+stars = "226"
+version = ""
+updated = ""
+size = "5.26 MB"
+bsum = "5daa71c257d01adf2cac771186d847d5fb30192d39aab0b10588874fb59bac2e"
+sha = "86473b19bd2cf1a0b00708b837b4ff02ff900b31535630fd94a8a6ed4fe5e17d"
+source = "https://bin.ajam.dev/x86_64_Linux/cpu"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["cpu"]
+requires = []
+
+[package.metadata]
+keywords = ["cpu","golang","plan9"]
+categories = ["Utilities"]

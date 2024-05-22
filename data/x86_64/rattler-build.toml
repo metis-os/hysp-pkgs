@@ -1,0 +1,26 @@
+[bin]
+name = "rattler-build"
+
+[package]
+architecture = "x86_64"
+name = "rattler-build"
+description = "rattler-build is a universal package builder for Windows, macOS and Linux"
+author = "prefix-dev"
+repo = "https://github.com/prefix-dev/rattler-build"
+stars = "139"
+version = "v0.16.1"
+updated = "2024-05-18T18:12:39Z"
+size = "24.33 MB"
+bsum = "b754350e3fdd7287332edf1eaee58e63dae458d80c8b2423b02f63e4fc3b1722"
+sha = "4281b5492fcc398490258f29b1db2534d54ef703ada190c5d6159691d7e7d193"
+source = "https://bin.ajam.dev/x86_64_Linux/rattler-build"
+language = "Rust"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["rattler-build"]
+requires = []
+
+[package.metadata]
+keywords = ["conda","hacktoberfest","mamba","package-management"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "sysbox-runc"
+
+[package]
+architecture = "x86_64"
+name = "sysbox-runc"
+description = "An open-source, next-generation runc that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs."
+author = "nestybox"
+repo = "https://github.com/nestybox/sysbox"
+stars = "2559"
+version = "v0.6.4"
+updated = "2024-04-06T18:43:58Z"
+size = "15.3 MB"
+bsum = "d9316f0ca9c190fcea5e7cbceda7410d2c3c00b0977212ab479526b06788a5fc"
+sha = "cefacaee11991c9a7da1fd57280f33aa4f9fff43f7dbd98a93e3ec3fcad0e361"
+source = "https://bin.ajam.dev/x86_64_Linux/sysbox-runc"
+language = "Shell"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["sysbox-runc"]
+requires = []
+
+[package.metadata]
+keywords = ["container-runtime-security","container-runtimes","containers","devops","docker","kubernetes"]
+categories = ["Utilities"]

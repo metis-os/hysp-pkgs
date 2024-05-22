@@ -1,0 +1,26 @@
+[bin]
+name = "zapper-stealth"
+
+[package]
+architecture = "x86_64"
+name = "zapper-stealth"
+description = "Zaps arguments and environment from the process list"
+author = "hackerschoice"
+repo = "https://github.com/hackerschoice/zapper"
+stars = "131"
+version = "v1.1"
+updated = "2023-09-13T16:36:22Z"
+size = "68.25 kB"
+bsum = "a6860bb3bba291fdece48c95cf9a93719f80de3ab03ce9d4afbd091ae28d5c5e"
+sha = "fb92007349beab0eda8276d97318477e4cb29913d477d295c245bae7eae5168a"
+source = "https://bin.ajam.dev/x86_64_Linux/zapper-stealth"
+language = "C"
+license = ""
+
+[package.conditions]
+conflicts  = ["zapper-stealth"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

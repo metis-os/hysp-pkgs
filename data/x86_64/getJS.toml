@@ -1,0 +1,26 @@
+[bin]
+name = "getJS"
+
+[package]
+architecture = "x86_64"
+name = "getJS"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "54"
+version = ""
+updated = ""
+size = "5.53 MB"
+bsum = "aabee0c0932bfa745e7c88aefc2d52f008e182277cc9ef74ae99a983781a1699"
+sha = "66c46830bfff65b96be07378c4bd773133db2622c5ccb0d5022cd81f88eddba6"
+source = "https://bin.ajam.dev/x86_64_Linux/getJS"
+language = "Shell"
+license = ""
+
+[package.conditions]
+conflicts  = ["getJS"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "anew-rs"
+
+[package]
+architecture = "x86_64"
+name = "anew-rs"
+description = "A tool for adding new lines to files, skipping duplicates and written in Rust!"
+author = "zer0yu"
+repo = "https://github.com/zer0yu/anew"
+stars = "11"
+version = "v0.1.0"
+updated = "2023-11-23T16:11:10Z"
+size = "853.5 kB"
+bsum = "66fa2d034a3c16d14cb9a2e5618981e4025b5a0d1f4cee5af2b832e8b8d67ae1"
+sha = "e5960e3daafcf2b77ceb9c2e6ea648c109ecb409688cda69f2884896021ee3d0"
+source = "https://bin.ajam.dev/x86_64_Linux/anew-rs"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["anew-rs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

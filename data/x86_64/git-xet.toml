@@ -1,0 +1,26 @@
+[bin]
+name = "git-xet"
+
+[package]
+architecture = "x86_64"
+name = "git-xet"
+description = "Rust crates for XetHub"
+author = "xetdata"
+repo = "https://github.com/xetdata/xet-core"
+stars = "20"
+version = "v0.14.1"
+updated = "2024-05-17T23:58:04Z"
+size = "33.61 MB"
+bsum = "2c79bbc1eef94b9ee9bc3254ebeb7dc8d1158107e77904909b40da4f0eb6f802"
+sha = "adb307f61cb41e6360511f319976de81ee13f96844862ef8cef47791ad268ed5"
+source = "https://bin.ajam.dev/x86_64_Linux/git-xet"
+language = "Rust"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["git-xet"]
+requires = []
+
+[package.metadata]
+keywords = ["rust","xethub"]
+categories = ["Utilities"]

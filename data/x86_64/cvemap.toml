@@ -1,0 +1,26 @@
+[bin]
+name = "cvemap"
+
+[package]
+architecture = "x86_64"
+name = "cvemap"
+description = "Navigate the CVE jungle with ease."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/cvemap"
+stars = "1467"
+version = "v0.0.6"
+updated = "2024-02-26T16:00:52Z"
+size = "27.04 MB"
+bsum = "9b0eba2c9d0c666a20e850ad3ffe8a23fc77e430f0dc282b75401c2387aa8301"
+sha = "4b90c5cccec7d23b62685fde283c69169c1a16fca431300bad4a5d14453e008a"
+source = "https://bin.ajam.dev/x86_64_Linux/cvemap"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cvemap"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

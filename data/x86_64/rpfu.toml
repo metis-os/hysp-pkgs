@@ -1,0 +1,26 @@
+[bin]
+name = "rpfu"
+
+[package]
+architecture = "x86_64"
+name = "rpfu"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "309"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "1.42 MB"
+bsum = "a3e53d3f30c0371e91e265f3d98ef169aa8286c66c1cf449a88bee44ee6b3ecf"
+sha = "5c09ebd6a885cc34b979e9b91f70c062b568b4b030725cff6ccc850ef0c807db"
+source = "https://bin.ajam.dev/x86_64_Linux/rpfu"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["rpfu"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

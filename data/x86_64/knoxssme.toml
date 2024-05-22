@@ -1,0 +1,26 @@
+[bin]
+name = "knoxssme"
+
+[package]
+architecture = "x86_64"
+name = "knoxssme"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "309"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "4.55 MB"
+bsum = "d35d08e86bfc2683521ff4d59ff59b2997356d8e664f437752cf132a2645d429"
+sha = "ac3b8e0f3fc1abbc72439fae503c1f4bcd55f0d993c48a34c63c2a30872030ce"
+source = "https://bin.ajam.dev/x86_64_Linux/knoxssme"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["knoxssme"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

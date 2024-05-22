@@ -1,0 +1,26 @@
+[bin]
+name = "ipt2socks"
+
+[package]
+architecture = "x86_64"
+name = "ipt2socks"
+description = "将 iptables/nftables 传入的透明代理流量转为 socks5 流量的实用工具"
+author = "zfl9"
+repo = "https://github.com/zfl9/ipt2socks"
+stars = "397"
+version = "v1.1.4"
+updated = "2024-05-18T09:52:06Z"
+size = "128.77 kB"
+bsum = "ee2a481603d334814f57edd7048c2f93eca604caa9321d8626db2db52cf203a1"
+sha = "7de9f39c8aee48a2fa232c400c6884cc85711d0a4ef8a29c43afda879bf26e0b"
+source = "https://bin.ajam.dev/x86_64_Linux/ipt2socks"
+language = "C"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["ipt2socks"]
+requires = []
+
+[package.metadata]
+keywords = ["iptables","linux","nftables","proxy","redirect","redsocks","relay","socks4","socks5","ss-tproxy","tproxy","transparent-proxy"]
+categories = ["Utilities"]

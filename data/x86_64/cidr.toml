@@ -1,0 +1,26 @@
+[bin]
+name = "cidr"
+
+[package]
+architecture = "x86_64"
+name = "cidr"
+description = "CLI to perform various actions on CIDR ranges"
+author = "bschaatsbergen"
+repo = "https://github.com/bschaatsbergen/cidr"
+stars = "131"
+version = "v2.0.0"
+updated = "2024-03-16T21:51:13Z"
+size = "3.8 MB"
+bsum = "7a0c63a3163fcbd074a44ede349a5324552399e5536b90797305781e0a8ac900"
+sha = "b29e4e90c373b2c073c33fe7fcb7ce300b7296b72336d13d974b59d43ea86270"
+source = "https://bin.ajam.dev/x86_64_Linux/cidr"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cidr"]
+requires = []
+
+[package.metadata]
+keywords = ["cidr","cli","cobra","go","homebrew","ipv4","ipv6"]
+categories = ["Utilities"]

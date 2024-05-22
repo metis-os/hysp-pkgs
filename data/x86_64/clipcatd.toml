@@ -1,0 +1,26 @@
+[bin]
+name = "clipcatd"
+
+[package]
+architecture = "x86_64"
+name = "clipcatd"
+description = "A clipboard manager written in Rust Programming Language."
+author = "xrelkd"
+repo = "https://github.com/xrelkd/clipcat"
+stars = "317"
+version = "v0.17.0"
+updated = "2024-04-21T09:47:18Z"
+size = "15.17 MB"
+bsum = "e0b55c91c8da68ff7a0f94a9a4e3374e97ffa446cd5f5ae1ea85433e9a905bd9"
+sha = "a6a2498eeba1274607752748469ff80cb6418a6f08ec41054ff38007405fe85e"
+source = "https://bin.ajam.dev/x86_64_Linux/clipcatd"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["clipcatd"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

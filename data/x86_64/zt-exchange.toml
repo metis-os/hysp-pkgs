@@ -1,0 +1,26 @@
+[bin]
+name = "zt-exchange"
+
+[package]
+architecture = "x86_64"
+name = "zt-exchange"
+description = "z-tokens -- random tokens generation and related tools"
+author = "volution"
+repo = "https://github.com/volution/z-tokens"
+stars = "72"
+version = "v0.2.1"
+updated = ""
+size = "2.61 MB"
+bsum = "a77cba7bdd2b27200dad983e1d4386429c4c0f6755503152c47473f0ce78c3ba"
+sha = "25d57aef576eee6d0440ecd2a36eebb34d5d6ede439b30b9ca2e73f95bcfad1f"
+source = "https://bin.ajam.dev/x86_64_Linux/zt-exchange"
+language = "Rust"
+license = ""
+
+[package.conditions]
+conflicts  = ["zt-exchange"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","password","password-generator","pwgen","random","rust"]
+categories = ["Utilities"]

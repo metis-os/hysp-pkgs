@@ -1,0 +1,26 @@
+[bin]
+name = "rclone"
+
+[package]
+architecture = "x86_64"
+name = "rclone"
+description = "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+author = "rclone"
+repo = "https://github.com/rclone/rclone"
+stars = "44266"
+version = "v1.66.0"
+updated = "2024-03-10T12:13:14Z"
+size = "60.77 MB"
+bsum = "dccc13eb08a0ef842bb8de670c06d4257482dbc5b9c462156d49598ce7621fe1"
+sha = "fc28d0c5e604a9b9281231bb7292d598aab7620e23ed9ec34cdac560ec9b04d9"
+source = "https://bin.ajam.dev/x86_64_Linux/rclone"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rclone"]
+requires = []
+
+[package.metadata]
+keywords = ["azure-blob","azure-blob-storage","azure-files","backblaze-b2","cloud-storage","dropbox","encryption","ftp","fuse-filesystem","go","golang","google-cloud-storage","google-drive","onedrive","openstack-swift","rclone","s3","sftp","sync","webdav"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "whoismac"
+
+[package]
+architecture = "x86_64"
+name = "whoismac"
+description = ""
+author = ""
+repo = "https://github.com/checkpoint-restore/hcxtools"
+stars = ""
+version = ""
+updated = ""
+size = "6.05 MB"
+bsum = "109aa223a5762c479461a809e1b5e396528740be636bd39529502316cece3a89"
+sha = "829c591861bdcf26b6f4f47a5ea8c1a1b8dfa2c9dedd7c26d3256095b94de119"
+source = "https://bin.ajam.dev/x86_64_Linux/whoismac"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["whoismac"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "notify"
+
+[package]
+architecture = "x86_64"
+name = "notify"
+description = "Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/notify"
+stars = "1203"
+version = "v1.0.6"
+updated = "2024-02-08T09:54:09Z"
+size = "21.06 MB"
+bsum = "4f653cccd5da57e2e2519b01285bcd401eabf11a809e5a1ef3818dd1f552d69c"
+sha = "82220c3c388bea760da34eb3826adadbdd960f5555a9a943abc3585a3322adf1"
+source = "https://bin.ajam.dev/x86_64_Linux/notify"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["notify"]
+requires = []
+
+[package.metadata]
+keywords = ["discord","slack","telegram"]
+categories = ["Utilities"]

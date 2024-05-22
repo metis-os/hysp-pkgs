@@ -1,0 +1,26 @@
+[bin]
+name = "tlsx"
+
+[package]
+architecture = "x86_64"
+name = "tlsx"
+description = "Fast and configurable TLS grabber focused on TLS based data collection."
+author = "projectdiscovery"
+repo = "https://github.com/projectdiscovery/tlsx"
+stars = "801"
+version = "v1.1.6"
+updated = "2024-01-28T09:04:52Z"
+size = "28.33 MB"
+bsum = "59561a9f298dcd0ea35e4f5ef968959c2199a3d59795f1eccd5b05baa213cbca"
+sha = "5591047fc78261246874d32d461d73bd532a4ef76deab26531d42502af89fc38"
+source = "https://bin.ajam.dev/x86_64_Linux/tlsx"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tlsx"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

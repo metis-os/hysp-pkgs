@@ -1,0 +1,26 @@
+[bin]
+name = "jwt-cracker"
+
+[package]
+architecture = "x86_64"
+name = "jwt-cracker"
+description = "Fork: https://github.com/elvisgraho/jwt-cracker-go"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/jwt-cracker"
+stars = "0"
+version = ""
+updated = ""
+size = "1.79 MB"
+bsum = "34b5b96e43c14dad48d7441ca56283795b300cc8f4ba7fc4c26435e772fd2892"
+sha = "0970b4f6aec718967667eb9fbaeb3ca7d30ea0fb240d443a22325cde4b9a9b33"
+source = "https://bin.ajam.dev/x86_64_Linux/jwt-cracker"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["jwt-cracker"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

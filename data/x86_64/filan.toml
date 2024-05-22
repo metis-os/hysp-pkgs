@@ -1,0 +1,26 @@
+[bin]
+name = "filan"
+
+[package]
+architecture = "x86_64"
+name = "filan"
+description = ""
+author = ""
+repo = "https://github.com/adrianlopezroche/socat"
+stars = ""
+version = ""
+updated = ""
+size = "574.02 kB"
+bsum = "d0568db71ce69bc95c08b7e0e29e67db80b8ff3346bb72ebaba6be7dbd3bd74f"
+sha = "2ca3b35b4c5ed92df9039fb5206e07673cf8b7eb462ea8dc75d8c5f511d136ac"
+source = "https://bin.ajam.dev/x86_64_Linux/filan"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["filan"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

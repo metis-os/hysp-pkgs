@@ -1,0 +1,26 @@
+[bin]
+name = "sudo_sendlog"
+
+[package]
+architecture = "x86_64"
+name = "sudo_sendlog"
+description = "Utility to execute a command as another user"
+author = "sudo-project"
+repo = "https://github.com/sudo-project/sudo"
+stars = "1117"
+version = "SUDO_1_9_15p5"
+updated = "2023-12-30T18:17:14Z"
+size = "376.45 kB"
+bsum = "84b079189cc0c5f8dbcbbf2f4858c44963ebdf69c225469fdd0f1eaeb70c1d42"
+sha = "7284ec4fc080f31d9ad0de7c31e3ebc9bf3ff1c5f6b20bba6d9b95583fd5f914"
+source = "https://bin.ajam.dev/x86_64_Linux/sudo_sendlog"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sudo_sendlog"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

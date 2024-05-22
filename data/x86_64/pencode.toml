@@ -1,0 +1,26 @@
+[bin]
+name = "pencode"
+
+[package]
+architecture = "x86_64"
+name = "pencode"
+description = "Complex payload encoder"
+author = "ffuf"
+repo = "https://github.com/ffuf/pencode"
+stars = "196"
+version = "v0.4"
+updated = "2024-01-20T10:19:41Z"
+size = "2.07 MB"
+bsum = "460acacf896cc4b40128e643f8d78e9b4c0fe625c658eac22ebfccd2bc5367a8"
+sha = "7e8078692d618b98e19c1b6ba8a97bc271e3cef19ecf92db91bcab975f9c0201"
+source = "https://bin.ajam.dev/x86_64_Linux/pencode"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pencode"]
+requires = []
+
+[package.metadata]
+keywords = ["hacktoberfest","http","payload","url-encoder"]
+categories = ["Utilities"]

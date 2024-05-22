@@ -1,0 +1,26 @@
+[bin]
+name = "hcxwltool"
+
+[package]
+architecture = "x86_64"
+name = "hcxwltool"
+description = ""
+author = ""
+repo = "https://github.com/checkpoint-restore/hcxtools"
+stars = ""
+version = ""
+updated = ""
+size = "50.79 kB"
+bsum = "ae86e7c58412a63a8b70885281e35c51ee808f442f55e2a1fe27b1690fed12bb"
+sha = "3c9e2a5c25e4b3c73919ce02d01c708141d10ae7bb3d67c3f7532c3edf127dec"
+source = "https://bin.ajam.dev/x86_64_Linux/hcxwltool"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["hcxwltool"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

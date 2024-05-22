@@ -1,0 +1,26 @@
+[bin]
+name = "sudo"
+
+[package]
+architecture = "x86_64"
+name = "sudo"
+description = "Utility to execute a command as another user"
+author = "sudo-project"
+repo = "https://github.com/sudo-project/sudo"
+stars = "1117"
+version = "SUDO_1_9_15p5"
+updated = "2023-12-30T18:17:14Z"
+size = "1.27 MB"
+bsum = "85b0debd9b2294112b4d542271a6261d216947c79a43f00483150b4b2c7dd435"
+sha = "921b87f4576353d042d9b2f629ed15246b2da1d754bb2c5fbafc1c4e6712bf91"
+source = "https://bin.ajam.dev/x86_64_Linux/sudo"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["sudo"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

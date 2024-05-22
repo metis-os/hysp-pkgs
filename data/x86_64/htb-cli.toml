@@ -1,0 +1,26 @@
+[bin]
+name = "htb-cli"
+
+[package]
+architecture = "x86_64"
+name = "htb-cli"
+description = "Interact with Hackthebox using your terminal - Be faster and more competitive !"
+author = "GoToolSharing"
+repo = "https://github.com/GoToolSharing/htb-cli"
+stars = "84"
+version = "v1.6.0"
+updated = "2024-01-27T14:36:37Z"
+size = "10.25 MB"
+bsum = "fcdff123fcd2445e1c4088919cc0d5ff2ae7913875de673be119c53d6f9a3583"
+sha = "675200acdddfd84652d3354b4b3593e98f960b7c4c39d49b8ac31d183396067d"
+source = "https://bin.ajam.dev/x86_64_Linux/htb-cli"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["htb-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["api","api-hackthebox","box","challenges","cli","cli-app","flag","go","golang","hacking","hackthebox","htb","pentest","qu35t","web"]
+categories = ["Utilities"]

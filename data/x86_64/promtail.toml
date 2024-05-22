@@ -1,0 +1,26 @@
+[bin]
+name = "promtail"
+
+[package]
+architecture = "x86_64"
+name = "promtail"
+description = "Like Prometheus, but for logs."
+author = "grafana"
+repo = "https://github.com/grafana/loki"
+stars = "22386"
+version = "v3.0.0"
+updated = "2024-04-08T19:19:53Z"
+size = "96.75 MB"
+bsum = "9d20b2cb9a3508d9558ca0f13cbb93b4b1da2714a55e41712c4b07e544744499"
+sha = "82fa7ebdc734b8cadc16c486722a2678dfb2e82e4630badbaa99bfe3bd7d46fa"
+source = "https://bin.ajam.dev/x86_64_Linux/promtail"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["promtail"]
+requires = []
+
+[package.metadata]
+keywords = ["cloudnative","grafana","hacktoberfest","logging","loki","prometheus"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "certgraph"
+
+[package]
+architecture = "x86_64"
+name = "certgraph"
+description = "An open source intelligence tool to crawl the graph of certificate Alternate Names"
+author = "lanrat"
+repo = "https://github.com/lanrat/certgraph"
+stars = "341"
+version = "20220513"
+updated = "2022-05-13T21:33:06Z"
+size = "7.11 MB"
+bsum = "44eeb77fd37e4936218c7e84de52bf4540450304fb714ccb2a66b1527e4931af"
+sha = "15a585fc6a99773cf4e03881aaece38c817324682c2ce72e3a5771fa94e53a68"
+source = "https://bin.ajam.dev/x86_64_Linux/certgraph"
+language = "Go"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["certgraph"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

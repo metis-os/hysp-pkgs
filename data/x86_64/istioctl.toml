@@ -1,0 +1,26 @@
+[bin]
+name = "istioctl"
+
+[package]
+architecture = "x86_64"
+name = "istioctl"
+description = "Connect, secure, control, and observe services."
+author = "istio"
+repo = "https://github.com/istio/istio"
+stars = "35102"
+version = "1.22.0"
+updated = "2024-05-13T23:40:51Z"
+size = "91.8 MB"
+bsum = "8cc3ccd5fab671d9784e783ccb67a5f2acafa66df5ad75219db91a74bc5a807d"
+sha = "0f5482dd001c27264006b61e1581eff6735be983a3f46df5c3c996efbdc0514b"
+source = "https://bin.ajam.dev/x86_64_Linux/istioctl"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["istioctl"]
+requires = []
+
+[package.metadata]
+keywords = ["api-management","circuit-breaker","consul","enforce-policies","envoy","fault-injection","kubernetes","lyft-envoy","microservice","microservices","nomad","polyglot-microservices","proxies","request-routing","resiliency","service-mesh"]
+categories = ["Utilities"]

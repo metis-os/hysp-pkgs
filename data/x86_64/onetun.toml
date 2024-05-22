@@ -1,0 +1,26 @@
+[bin]
+name = "onetun"
+
+[package]
+architecture = "x86_64"
+name = "onetun"
+description = "User space WireGuard port-forward in Rust"
+author = "aramperes"
+repo = "https://github.com/aramperes/onetun"
+stars = "843"
+version = "v0.3.7"
+updated = "2023-12-24T03:01:35Z"
+size = "4.55 MB"
+bsum = "402480801f3373ec7de0ff617c4a5d5c5d8b008e227a7553fdd5b0ccdeba3310"
+sha = "6017cd873e78c75e172ce05598743b2688160e4e9669952cdeaf2d8f90dff6d3"
+source = "https://bin.ajam.dev/x86_64_Linux/onetun"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["onetun"]
+requires = []
+
+[package.metadata]
+keywords = ["boringtun","hacktoberfest","smoltcp","wireguard","wireguard-tunnel"]
+categories = ["Utilities"]

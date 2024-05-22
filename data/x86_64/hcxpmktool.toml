@@ -1,0 +1,26 @@
+[bin]
+name = "hcxpmktool"
+
+[package]
+architecture = "x86_64"
+name = "hcxpmktool"
+description = ""
+author = ""
+repo = "https://github.com/checkpoint-restore/hcxtools"
+stars = ""
+version = ""
+updated = ""
+size = "3.6 MB"
+bsum = "d7dd5f22cd92aace250387fe988429762eec0bc4c286a2d46d50d297c430811e"
+sha = "bf2e26872183952c7c3ab41fbaeb1824cda409d69645306387878316f3c273f8"
+source = "https://bin.ajam.dev/x86_64_Linux/hcxpmktool"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["hcxpmktool"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

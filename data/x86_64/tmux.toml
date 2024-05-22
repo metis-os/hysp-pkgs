@@ -1,0 +1,26 @@
+[bin]
+name = "tmux"
+
+[package]
+architecture = "x86_64"
+name = "tmux"
+description = "tmux source code"
+author = "tmux"
+repo = "https://github.com/tmux/tmux"
+stars = "33263"
+version = "3.4"
+updated = "2024-02-13T10:22:31Z"
+size = "1.69 MB"
+bsum = "0f4ca832911d4aca2c135c70a8373eddee97593a88bc2482c4c7b15f535b504b"
+sha = "4f132c706113cb0a35bd1949ee8874d95d4bdff39f71716a5f0b9dedad4b0ef8"
+source = "https://bin.ajam.dev/x86_64_Linux/tmux"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["tmux"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

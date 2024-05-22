@@ -1,0 +1,26 @@
+[bin]
+name = "realm"
+
+[package]
+architecture = "x86_64"
+name = "realm"
+description = "A network relay tool"
+author = "zhboner"
+repo = "https://github.com/zhboner/realm"
+stars = "1357"
+version = "v2.6.0"
+updated = "2024-05-19T22:12:13Z"
+size = "4.73 MB"
+bsum = "bfc78825ddb14ea28e5b4da03c445319590723e98c3b5867137968a704364920"
+sha = "5e5d27c6bc72fe09bd5a91acbc2c5ac0677ab81c11f535b08acf853cc4139a1d"
+source = "https://bin.ajam.dev/x86_64_Linux/realm"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["realm"]
+requires = []
+
+[package.metadata]
+keywords = ["relay-server","rust"]
+categories = ["Utilities"]

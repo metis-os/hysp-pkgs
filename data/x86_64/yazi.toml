@@ -1,0 +1,26 @@
+[bin]
+name = "yazi"
+
+[package]
+architecture = "x86_64"
+name = "yazi"
+description = "💥 Blazing fast terminal file manager written in Rust, based on async I/O."
+author = "sxyazi"
+repo = "https://github.com/sxyazi/yazi"
+stars = "9094"
+version = "v0.2.5"
+updated = "2024-04-23T09:52:06Z"
+size = "16.14 MB"
+bsum = "600ed00ecaf7f5fa755e8ce7f5eb87ca9e949408b14d8c2500e0c7eb31543fe4"
+sha = "053cdca5134ea72c8c893041730bc0a1dd2f1cbcacb976651d52682b744096d9"
+source = "https://bin.ajam.dev/x86_64_Linux/yazi"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["yazi"]
+requires = []
+
+[package.metadata]
+keywords = ["android","asyncio","cli","concurrency","file-explorer","file-manager","helix","linux","macos","neovim","productivity","rust","terminal","tui","vim","windows","yazi"]
+categories = ["Utilities"]

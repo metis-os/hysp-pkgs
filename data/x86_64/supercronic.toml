@@ -1,0 +1,26 @@
+[bin]
+name = "supercronic"
+
+[package]
+architecture = "x86_64"
+name = "supercronic"
+description = "Cron for containers"
+author = "aptible"
+repo = "https://github.com/aptible/supercronic"
+stars = "1745"
+version = "v0.2.29"
+updated = "2023-12-15T23:17:25Z"
+size = "8.66 MB"
+bsum = "6ae583ab1859cbb14b7581ec08c0d47972f2e21eae58ab15caf1791d697fb2c4"
+sha = "e651117995ddf1a226662c6ca071a9b44367096b2bdba5cd61274c6033db8312"
+source = "https://bin.ajam.dev/x86_64_Linux/supercronic"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["supercronic"]
+requires = []
+
+[package.metadata]
+keywords = ["supercronic"]
+categories = ["Utilities"]

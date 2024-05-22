@@ -1,0 +1,26 @@
+[bin]
+name = "sysbox-mgr"
+
+[package]
+architecture = "x86_64"
+name = "sysbox-mgr"
+description = "An open-source, next-generation runc that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs."
+author = "nestybox"
+repo = "https://github.com/nestybox/sysbox"
+stars = "2559"
+version = "v0.6.4"
+updated = "2024-04-06T18:43:58Z"
+size = "12.25 MB"
+bsum = "84071405be4cdacfc796a7f5acd275c0f30fea92bd17ec5aba0f794795c997fb"
+sha = "9be7b76e464a5bd2bad3b60316b45cc0ccd48c66203c301517ec7ad902afe255"
+source = "https://bin.ajam.dev/x86_64_Linux/sysbox-mgr"
+language = "Shell"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["sysbox-mgr"]
+requires = []
+
+[package.metadata]
+keywords = ["container-runtime-security","container-runtimes","containers","devops","docker","kubernetes"]
+categories = ["Utilities"]

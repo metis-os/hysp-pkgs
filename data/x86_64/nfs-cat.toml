@@ -1,0 +1,26 @@
+[bin]
+name = "nfs-cat"
+
+[package]
+architecture = "x86_64"
+name = "nfs-cat"
+description = "NFS client library"
+author = "sahlberg"
+repo = "https://github.com/sahlberg/libnfs"
+stars = "485"
+version = "libnfs-5.0.3"
+updated = "2024-02-10T22:29:06Z"
+size = "201.13 kB"
+bsum = "7ee1f94a040a57693ca48f49b148e658b5b6feac3adc505ad68445c4cc84d508"
+sha = "cb55841181517454696ed84031171cbeadae0bbfa8c1e86250c63560ba2ffed1"
+source = "https://bin.ajam.dev/x86_64_Linux/nfs-cat"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["nfs-cat"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

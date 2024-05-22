@@ -1,0 +1,26 @@
+[bin]
+name = "hcxpsktool"
+
+[package]
+architecture = "x86_64"
+name = "hcxpsktool"
+description = ""
+author = ""
+repo = "https://github.com/checkpoint-restore/hcxtools"
+stars = ""
+version = ""
+updated = ""
+size = "3.66 MB"
+bsum = "c72cf61f239e8f5fef732d76ee6732fab4aa6166cbdaff051a347173017f1217"
+sha = "8189fc8e6a2bc95685489ee2b1e1f8d47b94ffcc6d66c64bf97d10cb49fc28a7"
+source = "https://bin.ajam.dev/x86_64_Linux/hcxpsktool"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["hcxpsktool"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

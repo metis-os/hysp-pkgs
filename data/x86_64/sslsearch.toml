@@ -1,0 +1,26 @@
+[bin]
+name = "sslsearch"
+
+[package]
+architecture = "x86_64"
+name = "sslsearch"
+description = "Hunt SSL Certificates for interesting keywords on major cloud service providers / internet"
+author = "HarshVaragiya"
+repo = "https://github.com/HarshVaragiya/sslsearch"
+stars = "31"
+version = ""
+updated = ""
+size = "12.14 MB"
+bsum = "7ce5ea00d804da0fcd112257ac5b50850e406e7f0cac62e15616780d58ac3d78"
+sha = "6cf2d545097229392d215c54d0466757611ce79b0ba274b3d5e4d9eb4f1d877e"
+source = "https://bin.ajam.dev/x86_64_Linux/sslsearch"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sslsearch"]
+requires = []
+
+[package.metadata]
+keywords = ["aws","bugbounty","cloudflare","digitalocean","enumeration","gcp","jarm","oracle-cloud","ssl","ssl-certificates"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ssh-agent"
+
+[package]
+architecture = "x86_64"
+name = "ssh-agent"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2836"
+version = "V_9_7_P1"
+updated = ""
+size = "4.24 MB"
+bsum = "f558f638612aa4af26130c5f9aeb2aab2cfc3e69454590a57052a1214bf69c7b"
+sha = "6a4244ec7124a187086e2528efe3f8d3013ddf9d6fda58b5ad8c66bb282f6b0e"
+source = "https://bin.ajam.dev/x86_64_Linux/ssh-agent"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["ssh-agent"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
+categories = ["Utilities"]

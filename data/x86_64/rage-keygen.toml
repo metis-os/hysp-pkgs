@@ -1,0 +1,26 @@
+[bin]
+name = "rage-keygen"
+
+[package]
+architecture = "x86_64"
+name = "rage-keygen"
+description = "A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability."
+author = "str4d"
+repo = "https://github.com/str4d/rage"
+stars = "2377"
+version = "v0.10.0"
+updated = "2024-02-04T22:50:41Z"
+size = "3.07 MB"
+bsum = "db37eeb6ceb476c938bf2c482607251111ed5162ee754c481974bb8d1f677513"
+sha = "0d9385aa782e202dea0edde187dc3363ee3591ca1e7cfdf39efa288ad72b9431"
+source = "https://bin.ajam.dev/x86_64_Linux/rage-keygen"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["rage-keygen"]
+requires = []
+
+[package.metadata]
+keywords = ["age-encryption","cli","curve25519","encryption","rust","rust-library","scrypt","secure-by-default","unix-philosophy","yubikey","zero-configuration"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "sunbeam"
+
+[package]
+architecture = "x86_64"
+name = "sunbeam"
+description = "Elevate Your Command Line Experience."
+author = "pomdtr"
+repo = "https://github.com/pomdtr/sunbeam"
+stars = "267"
+version = "v1.0.0"
+updated = "2024-01-25T13:42:17Z"
+size = "19 MB"
+bsum = "bf20bd3e4998f85982f0428dc4d72a1b06250c11b17459da20ee87515e52f009"
+sha = "994b443dead234f765b77c935b87c8686a2c2cc4eaa1567876dc760bac979db3"
+source = "https://bin.ajam.dev/x86_64_Linux/sunbeam"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["sunbeam"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","launcher"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "gh"
+
+[package]
+architecture = "x86_64"
+name = "gh"
+description = "GitHub’s official command line tool"
+author = "cli"
+repo = "https://github.com/cli/cli"
+stars = "35628"
+version = "v2.49.2"
+updated = "2024-05-13T17:34:30Z"
+size = "49.81 MB"
+bsum = "014f5e3f1431e01e410da3f6303d53b76cbc9236e32b252508f5853905c141d7"
+sha = "aab19fe6340cedabae8067749a59abae0f06fbb10d3c3109e2c3d279b1aaf40f"
+source = "https://bin.ajam.dev/x86_64_Linux/gh"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gh"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","git","github-api-v4","golang"]
+categories = ["Utilities"]

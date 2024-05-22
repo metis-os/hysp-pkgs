@@ -1,0 +1,26 @@
+[bin]
+name = "tracepath"
+
+[package]
+architecture = "x86_64"
+name = "tracepath"
+description = "The iputils package is set of small old utilities for Linux networking."
+author = "iputils"
+repo = "https://github.com/iputils/iputils"
+stars = "616"
+version = "20240117"
+updated = "2024-01-17T10:55:43Z"
+size = "83.57 kB"
+bsum = "0adc11bf3bd078da829947a643e84299138ce311acd1eb4dcf2faeaab81e7e8a"
+sha = "993bd1c0dffd167eb9254f7fdad27af5180f030ebb6127cc147ec6aaed3a641d"
+source = "https://bin.ajam.dev/x86_64_Linux/tracepath"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["tracepath"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

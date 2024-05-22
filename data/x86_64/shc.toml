@@ -1,0 +1,26 @@
+[bin]
+name = "shc"
+
+[package]
+architecture = "x86_64"
+name = "shc"
+description = "Shell script compiler"
+author = "neurobin"
+repo = "https://github.com/neurobin/shc"
+stars = "1919"
+version = "4.0.3"
+updated = "2019-07-01T16:41:26Z"
+size = "91.61 kB"
+bsum = "660c286812280e0b71df1f06c41f57fe26a5d02cb204d7112a8f474dc68bceed"
+sha = "5b158068dc8e895a131efc266c829f38cfa8bc0c5cf9e41f5b37408962f542eb"
+source = "https://bin.ajam.dev/x86_64_Linux/shc"
+language = "C"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["shc"]
+requires = []
+
+[package.metadata]
+keywords = ["ash","bash","binary","bsh","compile","converter","csh","ksh","perl","rc","rsh","sh","shc","shell","shell-script","shell-scripts","shellscript","tcsh","tsh","zsh"]
+categories = ["Utilities"]

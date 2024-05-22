@@ -1,0 +1,26 @@
+[bin]
+name = "mc"
+
+[package]
+architecture = "x86_64"
+name = "mc"
+description = "Simple | Fast tool to manage MinIO clusters :cloud:"
+author = "minio"
+repo = "https://github.com/minio/mc"
+stars = "2718"
+version = "RELEASE.2024-05-09T17-04-24Z"
+updated = "2024-05-10T02:02:12Z"
+size = "26.83 MB"
+bsum = "b38c18f2cb1fda36a0a158518f105a344f83869d628e88f4c5b1299f75f8a645"
+sha = "a7eab3411979edd357ad8a165ff153b6d81bc0c07bce6264c931b940640dfdc1"
+source = "https://bin.ajam.dev/x86_64_Linux/mc"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["mc"]
+requires = []
+
+[package.metadata]
+keywords = ["aws","aws-s3","coreutils","filesystem","go","golang","s3","s3-bucket","storage","tools"]
+categories = ["Utilities"]

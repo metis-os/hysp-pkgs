@@ -1,0 +1,26 @@
+[bin]
+name = "algernon"
+
+[package]
+architecture = "x86_64"
+name = "algernon"
+description = "Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support"
+author = "xyproto"
+repo = "https://github.com/xyproto/algernon"
+stars = "2667"
+version = "v1.16.0"
+updated = "2024-02-22T15:11:42Z"
+size = "26.47 MB"
+bsum = "450c96f6df56de0600c9d1cb672013be63a2425c5b9449d882c93fc951dd82f4"
+sha = "8f7315a7eb0dd4ef30e77f81f0e7131932ce862bbfcc61dc9c92b632c442f9d4"
+source = "https://bin.ajam.dev/x86_64_Linux/algernon"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["algernon"]
+requires = []
+
+[package.metadata]
+keywords = ["algernon","cross-platform","go","gopher","http2","http3","live-reload","lua","mysql","ollama","pongo2","postgresql","quic","redis","server-sent-events","tls13"]
+categories = ["Utilities"]

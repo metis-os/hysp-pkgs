@@ -1,0 +1,26 @@
+[bin]
+name = "getghrel"
+
+[package]
+architecture = "x86_64"
+name = "getghrel"
+description = "getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the release, extracts it(if needed), and keep only the binary."
+author = "kavishgr"
+repo = "https://github.com/kavishgr/getghrel"
+stars = "18"
+version = "v0.1.2"
+updated = "2024-05-01T06:50:14Z"
+size = "8.96 MB"
+bsum = "ef1ec39c4418d2d9c74372f72e3055540cc5a1e90265c9fbbf70d119ed12fac8"
+sha = "e0f8e6a12ff80f9e64fc595a712716b3c67d1e1695bebbc42244b7c0bfca8da9"
+source = "https://bin.ajam.dev/x86_64_Linux/getghrel"
+language = "Go"
+license = ""
+
+[package.conditions]
+conflicts  = ["getghrel"]
+requires = []
+
+[package.metadata]
+keywords = ["github-downloader","github-downloads","github-releases","golang-cli"]
+categories = ["Utilities"]

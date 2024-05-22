@@ -1,0 +1,26 @@
+[bin]
+name = "v2raya"
+
+[package]
+architecture = "x86_64"
+name = "v2raya"
+description = "A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀"
+author = "v2rayA"
+repo = "https://github.com/v2rayA/v2rayA"
+stars = "9795"
+version = "v2.2.5.1"
+updated = "2024-03-02T15:03:35Z"
+size = "25.15 MB"
+bsum = "4d7f6e58cc8fbaca6a55dd773ed331b5fd68b19c49053d7c48815696e088e635"
+sha = "9fe0ca59e8b0cf7e2771c74f215222c8ba99b8302aad20719b6402483fa7d157"
+source = "https://bin.ajam.dev/x86_64_Linux/v2raya"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["v2raya"]
+requires = []
+
+[package.metadata]
+keywords = ["gfw","gui","juicity","linux","shadowsocks","shadowsocksr","ssr","trojan","tuic","v2ray"]
+categories = ["Utilities"]

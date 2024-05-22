@@ -1,0 +1,26 @@
+[bin]
+name = "procan"
+
+[package]
+architecture = "x86_64"
+name = "procan"
+description = ""
+author = ""
+repo = "https://github.com/adrianlopezroche/socat"
+stars = ""
+version = ""
+updated = ""
+size = "574.02 kB"
+bsum = "99bb0eef0c039f36ba1e0cccc801b2e1d7c66325af666939b097d6fd3ffb17b6"
+sha = "dabcaa53da3860ec786aca58b3551adbfb76cdb8b478408a7ddc89f7306afdb3"
+source = "https://bin.ajam.dev/x86_64_Linux/procan"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["procan"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

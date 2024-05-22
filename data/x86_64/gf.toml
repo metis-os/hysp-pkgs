@@ -1,0 +1,26 @@
+[bin]
+name = "gf"
+
+[package]
+architecture = "x86_64"
+name = "gf"
+description = "A wrapper around grep, to help you grep for things"
+author = "tomnomnom"
+repo = "https://github.com/tomnomnom/gf"
+stars = "1662"
+version = ""
+updated = ""
+size = "2.05 MB"
+bsum = "ec67e9059ada1ad71526c74a4f4c5ad7287d8aef58d7a63e4c5548c70195c05f"
+sha = "9b33913bcc31d8f77c8e4b1087f4b4e8b7dbbb96cb78e04bbf52a62ea476aa44"
+source = "https://bin.ajam.dev/x86_64_Linux/gf"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["gf"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

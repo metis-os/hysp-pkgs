@@ -1,0 +1,26 @@
+[bin]
+name = "wlancap2wpasec"
+
+[package]
+architecture = "x86_64"
+name = "wlancap2wpasec"
+description = ""
+author = ""
+repo = "https://github.com/checkpoint-restore/hcxtools"
+stars = ""
+version = ""
+updated = ""
+size = "6.05 MB"
+bsum = "d5acd0fee2db4e08067c723404282198b0728dbe9c6a2628e49722bc5ba037a7"
+sha = "afb153e6e4365798840376b2a231c10ebca2dbcad7a7811daa14392d941e7a1f"
+source = "https://bin.ajam.dev/x86_64_Linux/wlancap2wpasec"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["wlancap2wpasec"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

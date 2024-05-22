@@ -1,0 +1,26 @@
+[bin]
+name = "dbbench"
+
+[package]
+architecture = "x86_64"
+name = "dbbench"
+description = "🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts"
+author = "sj14"
+repo = "https://github.com/sj14/dbbench"
+stars = "96"
+version = "v0.6.11"
+updated = "2024-03-27T10:33:57Z"
+size = "29.16 MB"
+bsum = "784dac7014f97ede2fbb9024863c9941f2ec780e0bd660fe6bd165da7dd7af1f"
+sha = "e0fb201443a4529ed4e420a3896d55633d3b07123b1a4326ba457d5cdda1fcdd"
+source = "https://bin.ajam.dev/x86_64_Linux/dbbench"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dbbench"]
+requires = []
+
+[package.metadata]
+keywords = ["benchmark","cassandra","cockroachdb","database","golang","hacktoberfest","mariadb","mssql","mysql","postgresql","scylladb","sqlite","stress-testing"]
+categories = ["Utilities"]

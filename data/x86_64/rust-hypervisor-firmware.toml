@@ -1,0 +1,26 @@
+[bin]
+name = "rust-hypervisor-firmware"
+
+[package]
+architecture = "x86_64"
+name = "rust-hypervisor-firmware"
+description = ""
+author = "cloud-hypervisor"
+repo = "https://github.com/cloud-hypervisor/rust-hypervisor-firmware"
+stars = "578"
+version = "0.4.2"
+updated = "2022-11-16T14:58:19Z"
+size = "90.42 kB"
+bsum = "8f2de0a1b3b700a33661f8683b23f8e3e592a07e480d15d52862d1f631949178"
+sha = "a3f68ce8f0dbc4cb503fdb00fc9900446a74603c7e368d8583308e183aac5cbe"
+source = "https://bin.ajam.dev/x86_64_Linux/rust-hypervisor-firmware"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["rust-hypervisor-firmware"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

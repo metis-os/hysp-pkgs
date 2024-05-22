@@ -1,0 +1,26 @@
+[bin]
+name = "certstream"
+
+[package]
+architecture = "x86_64"
+name = "certstream"
+description = " Bug Bounties"
+author = "Azathothas"
+repo = "https://github.com/Azathothas/Arsenal"
+stars = "54"
+version = ""
+updated = ""
+size = "4.73 MB"
+bsum = "607982e18751a18a169aa12c5b9fd5aed92e4fa42e213d131c3cbf2c64117a27"
+sha = "74643fc764914d5930270feea66d45d108b07dce9cf5cdb82541ba0cce0b4fea"
+source = "https://bin.ajam.dev/x86_64_Linux/certstream"
+language = "Shell"
+license = ""
+
+[package.conditions]
+conflicts  = ["certstream"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bugbounty","hacking","recon","recon-tools","security","security-tools","tools"]
+categories = ["Utilities"]

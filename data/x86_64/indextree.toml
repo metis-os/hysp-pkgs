@@ -1,0 +1,26 @@
+[bin]
+name = "indextree"
+
+[package]
+architecture = "x86_64"
+name = "indextree"
+description = "Generates the tree of the directory listing page."
+author = "riza"
+repo = "https://github.com/riza/indextree"
+stars = "47"
+version = "v1.0.4"
+updated = "2024-04-03T13:08:36Z"
+size = "5.44 MB"
+bsum = "c7067cff2b73d39c30a3d6e4fc5488c9bb45af9f67f5afd13d5bd4b9f78c92c7"
+sha = "3aa63eb5d8af338c06c1102f497904a493b01be7b9954733dce0621fa2c4df0b"
+source = "https://bin.ajam.dev/x86_64_Linux/indextree"
+language = "Go"
+license = ""
+
+[package.conditions]
+conflicts  = ["indextree"]
+requires = []
+
+[package.metadata]
+keywords = ["attack-surface-detector","offensive-security","secrets-detection"]
+categories = ["Utilities"]

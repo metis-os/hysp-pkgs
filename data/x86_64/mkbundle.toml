@@ -1,0 +1,26 @@
+[bin]
+name = "mkbundle"
+
+[package]
+architecture = "x86_64"
+name = "mkbundle"
+description = "CFSSL: Cloudflares PKI and TLS toolkit"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cfssl"
+stars = "8496"
+version = "v1.6.5"
+updated = "2024-03-05T17:40:06Z"
+size = "5.09 MB"
+bsum = "e66f36fcf141f1b93e6abe70b052e0e56c21da1f5be4c5be77f13723460f5224"
+sha = "e07c230e4748facd57e365bb71177d4a90f2970f50b2cb2ebdf478b8f7faa879"
+source = "https://bin.ajam.dev/x86_64_Linux/mkbundle"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["mkbundle"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "zapper"
+
+[package]
+architecture = "x86_64"
+name = "zapper"
+description = "Zaps arguments and environment from the process list"
+author = "hackerschoice"
+repo = "https://github.com/hackerschoice/zapper"
+stars = "131"
+version = "v1.1"
+updated = "2023-09-13T16:36:22Z"
+size = "70.33 kB"
+bsum = "a2ce64f9c0632a549fb6a5ebf79158af921a7cd899a644fa9fefbe6ca3a60d6e"
+sha = "1d1ac72382e05e211df08dc90e49bcdb1c6886c4700793e5ef1eeffa4c97cb2e"
+source = "https://bin.ajam.dev/x86_64_Linux/zapper"
+language = "C"
+license = ""
+
+[package.conditions]
+conflicts  = ["zapper"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

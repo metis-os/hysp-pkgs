@@ -1,0 +1,26 @@
+[bin]
+name = "hcxeiutool"
+
+[package]
+architecture = "x86_64"
+name = "hcxeiutool"
+description = ""
+author = ""
+repo = "https://github.com/checkpoint-restore/hcxtools"
+stars = ""
+version = ""
+updated = ""
+size = "46.7 kB"
+bsum = "49c9840bd51b36ec97e334b50dc7b37204787a017034ee774997d8091f2b86a9"
+sha = "99df899f6d950a8a66f30263d5b847b0016e8dc35df2786a0bbe54c2518395a2"
+source = "https://bin.ajam.dev/x86_64_Linux/hcxeiutool"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["hcxeiutool"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

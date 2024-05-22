@@ -1,0 +1,26 @@
+[bin]
+name = "wego"
+
+[package]
+architecture = "x86_64"
+name = "wego"
+description = "weather app for the terminal"
+author = "schachmat"
+repo = "https://github.com/schachmat/wego"
+stars = "7689"
+version = "2.2"
+updated = "2023-06-04T16:39:20Z"
+size = "5.95 MB"
+bsum = "ade66e4ea67a739716d3976fe6b2e3f6b8cf93209d65d5fc66aa7bf13197eccd"
+sha = "c4d218a93884d409e39cb43726379413f1d9a3990fb1457304caef469ece0671"
+source = "https://bin.ajam.dev/x86_64_Linux/wego"
+language = "Go"
+license = "ISC License"
+
+[package.conditions]
+conflicts  = ["wego"]
+requires = []
+
+[package.metadata]
+keywords = ["ascii-art","ascii-table","forecast","go","terminal","weather","wego"]
+categories = ["Utilities"]

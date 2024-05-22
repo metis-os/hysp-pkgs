@@ -1,0 +1,26 @@
+[bin]
+name = "qemu-mipsel-static"
+
+[package]
+architecture = "x86_64"
+name = "qemu-mipsel-static"
+description = "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
+author = "qemu"
+repo = "https://github.com/qemu/qemu"
+stars = "9414"
+version = "v9.0.0"
+updated = ""
+size = "3.48 MB"
+bsum = "1369496bfe295b26110b9eef50819b66cca7f7e85e58d1ca43597bda95bbc74a"
+sha = "61b9a5117fe203142562a5c939d84f6c26626f512d98f9312c372075355d81e4"
+source = "https://bin.ajam.dev/x86_64_Linux/qemu-mipsel-static"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["qemu-mipsel-static"]
+requires = []
+
+[package.metadata]
+keywords = ["emulation","qemu","virtualization"]
+categories = ["Utilities"]

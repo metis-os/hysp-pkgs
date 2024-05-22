@@ -1,0 +1,26 @@
+[bin]
+name = "mqttui"
+
+[package]
+architecture = "x86_64"
+name = "mqttui"
+description = "Subscribe to a MQTT Topic or publish something quickly from the terminal"
+author = "EdJoPaTo"
+repo = "https://github.com/EdJoPaTo/mqttui"
+stars = "333"
+version = "v0.21.0"
+updated = "2024-04-17T15:11:06Z"
+size = "3.97 MB"
+bsum = "9f6ac71c4854c06630bbbca48cf4167d3020b61ba9fcb6be86d38835c689cf40"
+sha = "4280ed3bcc98135fbbf62264da26f10a2bc24295ccce102271f96bd59cdc0b34"
+source = "https://bin.ajam.dev/x86_64_Linux/mqttui"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["mqttui"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","hacktoberfest","mqtt","mqtt-cli","mqtt-client","mqtt-explorer","mqtt-topic","terminal-based"]
+categories = ["Utilities"]

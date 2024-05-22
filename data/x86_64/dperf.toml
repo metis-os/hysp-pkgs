@@ -1,0 +1,26 @@
+[bin]
+name = "dperf"
+
+[package]
+architecture = "x86_64"
+name = "dperf"
+description = "Drive performance measurement tool"
+author = "minio"
+repo = "https://github.com/minio/dperf"
+stars = "51"
+version = "v0.5.2"
+updated = "2023-11-05T09:14:45Z"
+size = "6.16 MB"
+bsum = "8b1399c4339196b2cc3546f0b66b45ecbcefacba921667b408a5035a76444684"
+sha = "c13f4ee1dde85cda156bf08d1c5bc2148a38b8353df9854ec5320b058123d464"
+source = "https://bin.ajam.dev/x86_64_Linux/dperf"
+language = "Go"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["dperf"]
+requires = []
+
+[package.metadata]
+keywords = ["fio","iozone"]
+categories = ["Utilities"]

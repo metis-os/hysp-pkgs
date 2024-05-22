@@ -1,0 +1,26 @@
+[bin]
+name = "fusermount3"
+
+[package]
+architecture = "x86_64"
+name = "fusermount3"
+description = "The reference implementation of the Linux FUSE (Filesystem in Userspace) interface"
+author = "libfuse"
+repo = "https://github.com/libfuse/libfuse"
+stars = "5024"
+version = "fuse-3.16.2"
+updated = "2023-10-10T07:40:44Z"
+size = "99.95 kB"
+bsum = "506fe520b17bc9d679d0347a3a184e2a8e2cabdd9c00987d4767841b8060d78b"
+sha = "d150af294f7294ae5f41912f7d104bc4640ab2e68f6859db40496cae5e673b0c"
+source = "https://bin.ajam.dev/x86_64_Linux/fusermount3"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["fusermount3"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

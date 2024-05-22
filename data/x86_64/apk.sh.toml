@@ -1,0 +1,26 @@
+[bin]
+name = "apk.sh"
+
+[package]
+architecture = "x86_64"
+name = "apk.sh"
+description = "apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK."
+author = "ax"
+repo = "https://github.com/ax/apk.sh"
+stars = "3235"
+version = "v1.0.9"
+updated = "2024-05-09T21:20:41Z"
+size = "26.56 kB"
+bsum = "5ca3972e00cc47ae2102055ce7feadb31c8757c06a3db28278520e9a9dc7e75a"
+sha = "461799bc4f06973d9de71528527649a6e8ad00687d807e5bc9979ccfc253f025"
+source = "https://bin.ajam.dev/x86_64_Linux/apk.sh"
+language = "Shell"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["apk.sh"]
+requires = []
+
+[package.metadata]
+keywords = ["android","android-reverse-engineering","apk","frida","frida-gadget","objection","reverse-engineering","split-apk"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "ansi2html"
+
+[package]
+architecture = "x86_64"
+name = "ansi2html"
+description = "tools for logs with ANSI color"
+author = "kilobyte"
+repo = "https://github.com/kilobyte/colorized-logs"
+stars = "85"
+version = "v2.6"
+updated = ""
+size = "33.1 kB"
+bsum = "6fb06ad6fc9a2057a2530402483b86684420568ad389c7866bf025183fce2491"
+sha = "3de2148f804a1825ff7bdf591e24592147efc554fd0615a5822f5ec44729738c"
+source = "https://bin.ajam.dev/x86_64_Linux/ansi2html"
+language = "C"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["ansi2html"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

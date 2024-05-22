@@ -1,0 +1,26 @@
+[bin]
+name = "ssh"
+
+[package]
+architecture = "x86_64"
+name = "ssh"
+description = "Portable OpenSSH"
+author = "openssh"
+repo = "https://github.com/openssh/openssh-portable"
+stars = "2836"
+version = "V_9_7_P1"
+updated = ""
+size = "4.75 MB"
+bsum = "64bf25ba1fff13b88bbed6f8cf17b2bb09ea0a969764d48eeb991c91c697c58a"
+sha = "31888055a2010c3159bb51685ef536f3dc814c1445550f4df0a7923a6d3aebac"
+source = "https://bin.ajam.dev/x86_64_Linux/ssh"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["ssh"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cryptography","file-sharing","keychain","login","security"]
+categories = ["Utilities"]

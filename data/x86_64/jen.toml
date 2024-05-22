@@ -1,0 +1,26 @@
+[bin]
+name = "jen"
+
+[package]
+architecture = "x86_64"
+name = "jen"
+description = "A fast utility to generate fake/test documents based on a template"
+author = "whitfin"
+repo = "https://github.com/whitfin/jen"
+stars = "59"
+version = "v1.7.0"
+updated = "2024-01-05T22:23:17Z"
+size = "6.73 MB"
+bsum = "252776f03199887c5d33a24f57085c53ee6bc60f771742a38834d53c51d9280e"
+sha = "c35ff9c3ae572ee5b4a07880009bfa4c1be92a9df808b2b13df0bce71783928b"
+source = "https://bin.ajam.dev/x86_64_Linux/jen"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["jen"]
+requires = []
+
+[package.metadata]
+keywords = ["data","dataset","generator","json","template","templating"]
+categories = ["Utilities"]

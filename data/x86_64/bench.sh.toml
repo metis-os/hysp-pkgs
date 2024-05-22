@@ -1,0 +1,26 @@
+[bin]
+name = "bench.sh"
+
+[package]
+architecture = "x86_64"
+name = "bench.sh"
+description = "Across the Great Wall we can reach every corner in the world"
+author = "teddysun"
+repo = "https://github.com/teddysun/across"
+stars = "4883"
+version = ""
+updated = ""
+size = "15.17 kB"
+bsum = "079eb33c9cf0b4e11a7bef63b65ad9815d05b2a2acc20794d2a9210fc41be4f1"
+sha = "e273883f62ebf937f2eb7e69c35519cacaaeff5709300196ba4b2ba59da0c136"
+source = "https://bin.ajam.dev/x86_64_Linux/bench.sh"
+language = "Shell"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["bench.sh"]
+requires = []
+
+[package.metadata]
+keywords = ["auto-transfer-backup","backup","bbr","benchmark","kms","l2tp","shell","unixbench"]
+categories = ["Utilities"]

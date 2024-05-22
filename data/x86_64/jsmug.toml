@@ -1,0 +1,26 @@
+[bin]
+name = "jsmug"
+
+[package]
+architecture = "x86_64"
+name = "jsmug"
+description = "A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON"
+author = "xscorp"
+repo = "https://github.com/xscorp/jsmug"
+stars = "107"
+version = ""
+updated = ""
+size = "40.28 kB"
+bsum = "a42c63d782f847e475e3d19312d71c3e184ecb97efd499402903def9113c06a6"
+sha = "19b9bf4b35a5e99f6183301f409c9ecde34c2799680e4b6648aaa7a35a78451a"
+source = "https://bin.ajam.dev/x86_64_Linux/jsmug"
+language = "C"
+license = ""
+
+[package.conditions]
+conflicts  = ["jsmug"]
+requires = []
+
+[package.metadata]
+keywords = ["json","redteam-tools"]
+categories = ["Utilities"]

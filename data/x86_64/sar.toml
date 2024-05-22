@@ -1,0 +1,26 @@
+[bin]
+name = "sar"
+
+[package]
+architecture = "x86_64"
+name = "sar"
+description = "Performance monitoring tools for Linux"
+author = "sysstat"
+repo = "https://github.com/sysstat/sysstat"
+stars = "2892"
+version = "v12.7.5"
+updated = ""
+size = "210.26 kB"
+bsum = "d63d61f8252cd02e74cd695a7374729be92b64ff0b9c24273d910ebc2aa911fe"
+sha = "1a052e3c85f8ae5797eb818b741f1afbb6f03b524f0cca1a1e928c68711c00f8"
+source = "https://bin.ajam.dev/x86_64_Linux/sar"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["sar"]
+requires = []
+
+[package.metadata]
+keywords = ["c","cpu","disk","iostat","linux","memory","monitoring","mpstat","performance-monitoring","pidstat","sadf","sar","system-monitoring","tapestat"]
+categories = ["Utilities"]

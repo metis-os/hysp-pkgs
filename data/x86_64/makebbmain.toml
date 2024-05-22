@@ -1,0 +1,26 @@
+[bin]
+name = "makebbmain"
+
+[package]
+architecture = "x86_64"
+name = "makebbmain"
+description = "Tools for compiling many Go commands into one binary to save space. Builds are supported for vendor-based Go and module-based Go"
+author = "u-root"
+repo = "https://github.com/u-root/gobusybox"
+stars = "128"
+version = "v0.2.0"
+updated = "2024-02-24T23:49:50Z"
+size = "4.03 MB"
+bsum = "cba912dff8cccf843182633a4273eb1bae1813e683c400942ce51108c77f68fc"
+sha = "9dc4e502d1597cf0f9505a455c227ef78cf2590645c02060b773e07aa196a0d9"
+source = "https://bin.ajam.dev/x86_64_Linux/makebbmain"
+language = "Go"
+license = "BSD 3-Clause New or Revised License"
+
+[package.conditions]
+conflicts  = ["makebbmain"]
+requires = []
+
+[package.metadata]
+keywords = ["bazel","busybox","embedded","golang","starlark"]
+categories = ["Utilities"]

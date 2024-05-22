@@ -1,0 +1,26 @@
+[bin]
+name = "x8"
+
+[package]
+architecture = "x86_64"
+name = "x8"
+description = "Hidden parameters discovery suite"
+author = "Sh1Yo"
+repo = "https://github.com/Sh1Yo/x8"
+stars = "1577"
+version = "v4.3.0"
+updated = "2023-05-22T06:19:23Z"
+size = "12.93 MB"
+bsum = "32ab0867e306a8b409174c3a1ce4b165762226c3824592bd0a102890d8a69b2f"
+sha = "fdea4709944d5420581a7ef19705fce7c2ff4d438e0496f30737b2601879cfbe"
+source = "https://bin.ajam.dev/x86_64_Linux/x8"
+language = "Rust"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["x8"]
+requires = []
+
+[package.metadata]
+keywords = ["bugbounty","content-discovery","recon","rust","security","web"]
+categories = ["Utilities"]

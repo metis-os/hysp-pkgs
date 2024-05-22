@@ -1,0 +1,26 @@
+[bin]
+name = "certwatcher"
+
+[package]
+architecture = "x86_64"
+name = "certwatcher"
+description = ""
+author = ""
+repo = "https://github.com/drfabiocastro/certwatcher"
+stars = ""
+version = ""
+updated = ""
+size = "15.17 MB"
+bsum = "f6dcae87aa4260ba20cc703f25637b29b36b549c0ce9e2af62e3a2c02f3c873e"
+sha = "92625199d8c916c726469ea2381cc9aa4384d5a6a92c62f222c2dc3370010f75"
+source = "https://bin.ajam.dev/x86_64_Linux/certwatcher"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["certwatcher"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

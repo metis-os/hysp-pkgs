@@ -1,0 +1,26 @@
+[bin]
+name = "recollapse_staticx"
+
+[package]
+architecture = "x86_64"
+name = "recollapse_staticx"
+description = "REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications"
+author = "0xacb"
+repo = "https://github.com/0xacb/recollapse"
+stars = "859"
+version = "v0.2"
+updated = "2023-05-04T16:28:30Z"
+size = "8.62 MB"
+bsum = "684aaf98c33ac906fb8e0f33671e285b2212cf0d88ec92c4aac2a4c9e2531556"
+sha = "ef5a5f95af44a8ec947a31b705dc062dbb6a3ed0764e7b8d6ec695ceb3f69494"
+source = "https://bin.ajam.dev/x86_64_Linux/recollapse_staticx"
+language = "Python"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["recollapse_staticx"]
+requires = []
+
+[package.metadata]
+keywords = ["fuzzing","hacking-tools","normalization","regex","waf-bypass"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "cfssl"
+
+[package]
+architecture = "x86_64"
+name = "cfssl"
+description = "CFSSL: Cloudflares PKI and TLS toolkit"
+author = "cloudflare"
+repo = "https://github.com/cloudflare/cfssl"
+stars = "8496"
+version = "v1.6.5"
+updated = "2024-03-05T17:40:06Z"
+size = "11.89 MB"
+bsum = "15725e2da15a93cb7934922bc1c9de1ff30588fba84317023d38ef6f1693edf2"
+sha = "108de2e7696eb30d53216801fda5745cbc42fd24ed2ab8b7fda7dc063bedda8c"
+source = "https://bin.ajam.dev/x86_64_Linux/cfssl"
+language = "Go"
+license = "BSD 2-Clause Simplified License"
+
+[package.conditions]
+conflicts  = ["cfssl"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

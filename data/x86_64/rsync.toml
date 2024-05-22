@@ -1,0 +1,26 @@
+[bin]
+name = "rsync"
+
+[package]
+architecture = "x86_64"
+name = "rsync"
+description = "An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases."
+author = "RsyncProject"
+repo = "https://github.com/WayneD/rsync"
+stars = "2390"
+version = "v3.3.0"
+updated = ""
+size = "5.24 MB"
+bsum = "570c3770a2aa0acc4cf219560c8a61ae92576015b69a2b2b5056085cde577210"
+sha = "3dab30dc00d0da750bbc10a3f43d6b69d138c6365cf9b5b296982ca95b63b9db"
+source = "https://bin.ajam.dev/x86_64_Linux/rsync"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["rsync"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

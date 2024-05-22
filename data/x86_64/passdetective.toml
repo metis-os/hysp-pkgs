@@ -1,0 +1,26 @@
+[bin]
+name = "passdetective"
+
+[package]
+architecture = "x86_64"
+name = "passdetective"
+description = "PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history."
+author = "aydinnyunus"
+repo = "https://github.com/aydinnyunus/PassDetective"
+stars = "109"
+version = "1.0.7"
+updated = "2023-12-13T16:04:06Z"
+size = "3.57 MB"
+bsum = "3792bcc26e1f4f0a789cc1b57229b51ed9b76191c91a3dbe6a8a5dcabc184f52"
+sha = "b3790394f8bff76e786f4f0becdaa74f3a371d0631b8c53c1944e51c35c544ba"
+source = "https://bin.ajam.dev/x86_64_Linux/passdetective"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["passdetective"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","bugbounty","bugbounty-tool","bugbountytips","golang","hacking","kali","kali-linux","kali-linux-hacking","linux","red-team","security","security-tools","shell","shell-script","zsh"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "sysbox-fs"
+
+[package]
+architecture = "x86_64"
+name = "sysbox-fs"
+description = "An open-source, next-generation runc that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs."
+author = "nestybox"
+repo = "https://github.com/nestybox/sysbox"
+stars = "2559"
+version = "v0.6.4"
+updated = "2024-04-06T18:43:58Z"
+size = "12.71 MB"
+bsum = "db0330326d7c1a396aab77eb94c60ddc148f567a15f23db6e1f8dbc9bd159c0a"
+sha = "d7edc5418fc9f14b9e425ac5a0d8e63b0bdb7385ac1088eda596daeb5ccb9073"
+source = "https://bin.ajam.dev/x86_64_Linux/sysbox-fs"
+language = "Shell"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["sysbox-fs"]
+requires = []
+
+[package.metadata]
+keywords = ["container-runtime-security","container-runtimes","containers","devops","docker","kubernetes"]
+categories = ["Utilities"]

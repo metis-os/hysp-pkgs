@@ -1,0 +1,26 @@
+[bin]
+name = "doomxss"
+
+[package]
+architecture = "x86_64"
+name = "doomxss"
+description = " Hacking Tools⚔️"
+author = "edoardottt"
+repo = "https://github.com/edoardottt/lit-bb-hack-tools"
+stars = "309"
+version = "v1.3.5"
+updated = "2023-07-15T13:50:08Z"
+size = "4.36 MB"
+bsum = "d5ab2b6d9cc9a77b657d79be7ec547ae1c9663e3f0fb64d8fa1a52ccb31c44bf"
+sha = "7e360c90e934a9423eada9c2b9dcaea5d0d29303f7bf791abdb8bf4344d178d3"
+source = "https://bin.ajam.dev/x86_64_Linux/doomxss"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["doomxss"]
+requires = []
+
+[package.metadata]
+keywords = ["bug-bounty","bug-bounty-recon","bugbounty","cli","cli-tool","ctf-tool","ctf-tools","hacking","hacking-tool","hacking-tools","hacktoberfest","infosec","infosectools","penetration-testing-tools","security-tools","tools"]
+categories = ["Utilities"]

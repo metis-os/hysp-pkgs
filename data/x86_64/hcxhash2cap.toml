@@ -1,0 +1,26 @@
+[bin]
+name = "hcxhash2cap"
+
+[package]
+architecture = "x86_64"
+name = "hcxhash2cap"
+description = ""
+author = ""
+repo = "https://github.com/checkpoint-restore/hcxtools"
+stars = ""
+version = ""
+updated = ""
+size = "71.38 kB"
+bsum = "6010ec6853abe8438449926b95cf543f2856bb1fa021db32a72beb242c2f1394"
+sha = "6ac336f549e37dc3273a5039cd2f6fd471e4834278c10b96d56fcf4f5b3e3c6b"
+source = "https://bin.ajam.dev/x86_64_Linux/hcxhash2cap"
+language = ""
+license = ""
+
+[package.conditions]
+conflicts  = ["hcxhash2cap"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

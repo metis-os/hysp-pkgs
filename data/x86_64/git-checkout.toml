@@ -1,0 +1,26 @@
+[bin]
+name = "git-checkout"
+
+[package]
+architecture = "x86_64"
+name = "git-checkout"
+description = "A highly extensible Git implementation in pure Go."
+author = "go-git"
+repo = "https://github.com/go-git/go-git"
+stars = "5554"
+version = "v5.12.0"
+updated = "2024-03-31T12:27:02Z"
+size = "7.34 MB"
+bsum = "10e5360e50ec4f77d9bb6a4edcbdb582a325a390a724c67bf048e8d59c6ec805"
+sha = "4301a53b8b5439b6ec1515f15d095b8cdc569051898bb5c1c38e3c7a16558af3"
+source = "https://bin.ajam.dev/x86_64_Linux/git-checkout"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["git-checkout"]
+requires = []
+
+[package.metadata]
+keywords = ["git","git-client","git-server","go-git","golang"]
+categories = ["Utilities"]
