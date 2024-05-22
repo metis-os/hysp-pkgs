@@ -31,7 +31,7 @@ if jq --exit-status . "$TMPDIR/METADATA.json" >/dev/null 2>&1; then
        PKG_VERSION="$(cat "$TMPDIR/METADATA.json" | jq -r '.repo_version' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export PKG_VERSION="$PKG_VERSION"
        PKG_RELEASED="$(cat "$TMPDIR/METADATA.json" | jq -r '.repo_released' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export PKG_RELEASED="$PKG_RELEASED"
        STARS="$(cat "$TMPDIR/METADATA.json" | jq -r '.repo_stars' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export STARS="$STARS"
-       TOPICS="$(cat "$TMPDIR/METADATA.json" | jq -r '.repo_topics' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export TOPICS="$TOPICS"
+       TOPICS="$(cat "$TMPDIR/METADATA.json" | jq -c -r '.repo_topics // []' | sed 's/[][ ]*//g; s/^/["/; s/$/"]/; s/,/","/g')" && export TOPICS="$TOPICS"
     else
        DESCRIPTION="$(cat "$TMPDIR/METADATA.json" | jq -r '.description' | sed 's/`//g' | sed 's/^[ \t]*//;s/[ \t]*$//' | sed ':a;N;$!ba;s/\r\n//g; s/\n//g')" && export DESCRIPTION="$DESCRIPTION" 
        LAST_UPDATED="$(cat "$TMPDIR/METADATA.json" | jq -r '.build_date' | sed 's/"//g' | sed 's/^[ \t]*//;s/[ \t]*$//')" && export LAST_UPDATED="$LAST_UPDATED"
