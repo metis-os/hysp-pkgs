@@ -50,18 +50,3 @@
 │ 886│-wireguard-rs                     │    │
 │ 895│-xargs                            │    │
 │ 941│-zsh                              │    │
-│ 19 │-busybox-unicode.exe              │    │
-│ 20 │-busybox.exe                      │    │
-│ 33 │-cutlines.exe                     │    │
-│ 49 │-ein.exe                          │    │
-│ 51 │-err.exe                          │    │
-│ 57 │-ffmpeg.exe                       │    │
-│ 58 │-ffprobe.exe                      │    │
-│ 65 │-geodns.exe                       │    │
-│ 66 │-geoping.exe                      │    │
-│ 67 │-gix.exe                          │    │
-│ 72 │-inscope.exe                      │    │
-│ 73 │-iperf3.exe                       │    │
-│ 80 │-loclx.exe                        │    │
-│ 89 │-ngrok.exe                        │    │
-│ 106│-quotes-escaper.exe               │    │
