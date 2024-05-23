@@ -814,6 +814,22 @@
 
 ---
 
+### binocle
+- **Description:** a graphical tool to visualize binary data
+- **Author:** sharkdp
+- **Repository:** [https://github.com/sharkdp/binocle](https://github.com/sharkdp/binocle)
+- **Stars:** 1028
+- **Version:** v0.3.2
+- **Updated:** 2023-12-01T13:12:23Z
+- **Size:** 8.71 MB
+- **SHA256SUM:** 6b1059f83be04797cb8606bfee72d77bd34522e6e52aab50af69d5a31d0f8125
+- **B3SUM:** 088f2fe009d0705a7387ad71ac46f1c2fb67f92884baf90b21c8e14e572d306f
+- **Source:** https://pub.ajam.dev/aarch64_arm64_Linux/binocle
+- **Language:** Rust
+- **License:** Apache License 2.0
+
+---
+
 ### bleve
 - **Description:** A modern text/numeric/geo-spatial/vector indexing library for go
 - **Author:** blevesearch
