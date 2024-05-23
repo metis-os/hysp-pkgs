@@ -1,3 +1,4 @@
+│ 48 │-binocle                          │    │
 │ 71 │-certstream                       │    │
 │ 96 │-comb                             │    │
 │ 112│-cronie-cronnext                  │    │
