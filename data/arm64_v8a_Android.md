@@ -2,7 +2,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 50966
+- **Stars:** 50975
 - **Version:** v0.2.62
 - **Updated:** 2024-05-01T02:20:12Z
 - **Size:** 17.42 MB
@@ -34,9 +34,9 @@
 - **Description:** A C library for asynchronous DNS requests
 - **Author:** c-ares
 - **Repository:** [https://github.com/c-ares/c-ares](https://github.com/c-ares/c-ares)
-- **Stars:** 1782
-- **Version:** cares-1_28_1
-- **Updated:** 2024-03-30T15:19:58Z
+- **Stars:** 1781
+- **Version:** cares-1_29_0
+- **Updated:** 2024-05-24T06:54:18Z
 - **Size:** 164.18 kB
 - **SHASUM:** 18b1e2bd70746d9ad21323736791204bafc0e8a2477d5156c5036490f460f073
 - **B3SUM:** f8959a42897adf9aa0564a593f33a8b95aeb97fe876ab35ec865c07b3cd3a7b3
@@ -66,7 +66,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 33791
+- **Stars:** 33796
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 9.29 MB
@@ -130,7 +130,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34436
+- **Stars:** 34442
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 5.14 MB
@@ -146,7 +146,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34436
+- **Stars:** 34442
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 229.65 kB
@@ -162,7 +162,7 @@
 - **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - **Author:** PaulJuliusMartinez
 - **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
-- **Stars:** 4533
+- **Stars:** 4534
 - **Version:** v0.9.0
 - **Updated:** 2023-07-17T02:51:34Z
 - **Size:** 2.01 MB
@@ -210,7 +210,7 @@
 - **Description:** rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 44293
+- **Stars:** 44296
 - **Version:** v1.66.0
 - **Updated:** 2024-03-10T12:13:14Z
 - **Size:** 84.97 MB
@@ -242,7 +242,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16929
+- **Stars:** 16935
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 11.47 MB
@@ -258,7 +258,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16929
+- **Stars:** 16935
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 25.63 MB
@@ -274,7 +274,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 16929
+- **Stars:** 16935
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 23.54 MB
@@ -290,7 +290,7 @@
 - **Description:** tmux source code
 - **Author:** tmux
 - **Repository:** [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
-- **Stars:** 33279
+- **Stars:** 33284
 - **Version:** 3.4
 - **Updated:** 2024-02-13T10:22:31Z
 - **Size:** 1.55 MB
@@ -307,7 +307,7 @@
 - **Author:** vim
 - **Repository:** [https://github.com/vim/vim](https://github.com/vim/vim)
 - **Stars:** 35212
-- **Version:** v9.1.0437
+- **Version:** v9.1.0442
 - **Updated:** 
 - **Size:** 5.06 MB
 - **SHASUM:** e5b9026fba310f503c29a9745ff13ab003a719f56e458f455c56bfbaa6cf28c6
@@ -354,7 +354,7 @@
 - **Description:** Mirror of the Z shell source code repository.
 - **Author:** zsh-users
 - **Repository:** [https://github.com/zsh-users/zsh](https://github.com/zsh-users/zsh)
-- **Stars:** 3482
+- **Stars:** 3483
 - **Version:** zsh-5.9
 - **Updated:** 
 - **Size:** 1.8 MB
