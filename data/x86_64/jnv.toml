@@ -4,7 +4,7 @@ name = "jnv"
 [package]
 architecture = "x86_64"
 name = "jnv"
-description = "interactive JSON filter using jq"
+description = "Interactive JSON filter using jq"
 author = "ynqa"
 repo = "https://github.com/ynqa/jnv"
 stars = "4402"
