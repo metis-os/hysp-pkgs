@@ -456,39 +456,54 @@
 │ 342│ hacker-scoper                    │ 346│ hacker-scoper
 │ 343│ hadolint                         │ 347│ hadolint
 │ 344│ hakip2host                       │ 348│ hakip2host
-│ 399│ jc                               │ 403│ jc
-│ 400│ jc_staticx                       │ 404│ jc_staticx
-│ 401│ jen                              │ 405│ jen
+│ 370│ hugo                             │ 374│ hugo
+│ 371│ hurl                             │ 375│ hurl
+│ 372│ hurlfmt                          │ 376│ hurlfmt
+│ 373│-husarnet                         │    │
+│ 374│-husarnet-daemon                  │    │
+│ 375│ hwatch                           │ 377│ hwatch
+│ 376│ hx                               │ 378│ hx
+│ 377│ hxn                              │ 379│ hxn
+│ 401│ jc                               │ 403│ jc
+│ 402│ jc_staticx                       │ 404│ jc_staticx
+│ 403│ jen                              │ 405│ jen
 │    │                                  │ 406│+jira
-│ 402│ jira-cli                         │ 407│ jira-cli
-│ 403│ jj                               │ 408│ jj
-│ 404│ jless                            │ 409│ jless
-│ 763│ subfinder                        │ 768│ subfinder
-│ 764│ subjs                            │ 769│ subjs
-│ 765│ subxtract                        │ 770│ subxtract
+│ 404│ jira-cli                         │ 407│ jira-cli
+│ 405│ jj                               │ 408│ jj
+│ 406│ jless                            │ 409│ jless
+│ 506│ nerdctl                          │ 509│ nerdctl
+│ 507│ netbird                          │ 510│ netbird
+│ 508│ netmaker                         │ 511│ netmaker
+│ 509│-netscanner                       │    │
+│ 510│ netstat                          │ 512│ netstat
+│ 511│ nfs-cat                          │ 513│ nfs-cat
+│ 512│ nfs-cp                           │ 514│ nfs-cp
+│ 766│ subfinder                        │ 768│ subfinder
+│ 767│ subjs                            │ 769│ subjs
+│ 768│ subxtract                        │ 770│ subxtract
 │    │                                  │ 771│+subxtract.sh
-│ 766│ sudo                             │ 772│ sudo
-│ 767│ sudo-rs                          │ 773│ sudo-rs
-│ 768│ sudo_logsrvd                     │ 774│ sudo_logsrvd
-│ 789│ tahm                             │ 795│ tahm
-│ 790│ tailscale                        │ 796│ tailscale
-│ 791│ tailscale_combined               │ 797│ tailscale_combined
+│ 769│ sudo                             │ 772│ sudo
+│ 770│ sudo-rs                          │ 773│ sudo-rs
+│ 771│ sudo_logsrvd                     │ 774│ sudo_logsrvd
+│ 792│ tahm                             │ 795│ tahm
+│ 793│ tailscale                        │ 796│ tailscale
+│ 794│ tailscale_combined               │ 797│ tailscale_combined
 │    │                                  │ 798│+tailscale_merged
-│ 792│ tailscaled                       │ 799│ tailscaled
-│ 793│ tailspin                         │ 800│ tailspin
-│ 794│ tapestat                         │ 801│ tapestat
-│ 870│ warp-dex                         │ 877│ warp-dex
-│ 871│ warp-diag                        │ 878│ warp-diag
-│ 872│ warp-svc                         │ 879│ warp-svc
+│ 795│ tailscaled                       │ 799│ tailscaled
+│ 796│ tailspin                         │ 800│ tailspin
+│ 797│ tapestat                         │ 801│ tapestat
+│ 873│ warp-dex                         │ 877│ warp-dex
+│ 874│ warp-diag                        │ 878│ warp-diag
+│ 875│ warp-svc                         │ 879│ warp-svc
 │    │                                  │ 880│+wasminspect
-│ 873│ watchexec                        │ 881│ watchexec
-│ 874│ waybackrobots                    │ 882│ waybackrobots
-│ 875│ waybackurls                      │ 883│ waybackurls
-│ 891│ wormhole-rs                      │ 899│ wormhole-rs
-│ 892│ wstunnel                         │ 900│ wstunnel
-│ 893│ wtf                              │ 901│ wtf
+│ 876│ watchexec                        │ 881│ watchexec
+│ 877│ waybackrobots                    │ 882│ waybackrobots
+│ 878│ waybackurls                      │ 883│ waybackurls
+│ 894│ wormhole-rs                      │ 899│ wormhole-rs
+│ 895│ wstunnel                         │ 900│ wstunnel
+│ 896│ wtf                              │ 901│ wtf
 │    │                                  │ 902│+wtfutil
-│ 894│ wth                              │ 903│ wth
-│ 895│ x8                               │ 904│ x8
-│ 896│ xargs                            │ 905│ xargs
+│ 897│ wth                              │ 903│ wth
+│ 898│ x8                               │ 904│ x8
+│ 899│ xargs                            │ 905│ xargs
 
