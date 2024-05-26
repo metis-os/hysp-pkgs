@@ -2,7 +2,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 51006
+- **Stars:** 51007
 - **Version:** v0.2.62
 - **Updated:** 2024-05-01T02:20:12Z
 - **Size:** 17.42 MB
@@ -66,7 +66,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 33806
+- **Stars:** 33807
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 9.29 MB
@@ -194,7 +194,7 @@
 - **Description:** Monitor linux processes without root permissions
 - **Author:** DominicBreuker
 - **Repository:** [https://github.com/DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)
-- **Stars:** 4633
+- **Stars:** 4634
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.76 MB
@@ -290,7 +290,7 @@
 - **Description:** tmux source code
 - **Author:** tmux
 - **Repository:** [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
-- **Stars:** 33296
+- **Stars:** 33299
 - **Version:** 3.4
 - **Updated:** 2024-02-13T10:22:31Z
 - **Size:** 1.55 MB
@@ -354,7 +354,7 @@
 - **Description:** Mirror of the Z shell source code repository.
 - **Author:** zsh-users
 - **Repository:** [https://github.com/zsh-users/zsh](https://github.com/zsh-users/zsh)
-- **Stars:** 3487
+- **Stars:** 3488
 - **Version:** zsh-5.9
 - **Updated:** 
 - **Size:** 1.8 MB
