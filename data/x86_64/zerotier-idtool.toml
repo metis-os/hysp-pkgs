@@ -1,0 +1,26 @@
+[bin]
+name = "zerotier-idtool"
+
+[package]
+architecture = "x86_64"
+name = "zerotier-idtool"
+description = "A Smart Ethernet Switch for Earth"
+author = "zerotier"
+repo = "https://github.com/zerotier/ZeroTierOne"
+stars = "13580"
+version = "1.14.0"
+updated = "2024-05-02T23:50:53Z"
+size = "15.4 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/zerotier-idtool"
+language = "C++"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["zerotier-idtool"]
+requires = []
+
+[package.metadata]
+keywords = ["decentralization","networking","peer-to-peer","sd-wan","sdn","virtual-network","vpn"]
+categories = ["Utilities"]
