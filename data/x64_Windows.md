@@ -2,7 +2,7 @@
 - **Description:** 7-Zip
 - **Author:** ip7z
 - **Repository:** [https://github.com/ip7z/7zip](https://github.com/ip7z/7zip)
-- **Stars:** 309
+- **Stars:** 313
 - **Version:** 24.06
 - **Updated:** 2024-05-27T07:50:07Z
 - **Size:** 1.32 MB
@@ -34,7 +34,7 @@
 - **Description:** :octocat: Static checker for GitHub Actions workflow files
 - **Author:** rhysd
 - **Repository:** [https://github.com/rhysd/actionlint](https://github.com/rhysd/actionlint)
-- **Stars:** 2472
+- **Stars:** 2473
 - **Version:** v1.7.0
 - **Updated:** 2024-05-08T16:40:31Z
 - **Size:** 5.41 MB
@@ -82,7 +82,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 38278
+- **Stars:** 38290
 - **Version:** v3.35.0
 - **Updated:** 2024-05-23T12:18:15Z
 - **Size:** 76.47 MB
@@ -226,7 +226,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 47010
+- **Stars:** 47012
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -242,7 +242,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 47010
+- **Stars:** 47012
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -386,7 +386,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 8182
+- **Stars:** 8184
 - **Version:** 2024.5.0
 - **Updated:** 2024-05-16T16:21:18Z
 - **Size:** 27.01 MB
@@ -594,7 +594,7 @@
 - **Description:** Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - **Author:** jeessy2
 - **Repository:** [https://github.com/jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)
-- **Stars:** 9902
+- **Stars:** 9913
 - **Version:** v6.6.0
 - **Updated:** 2024-05-19T12:03:59Z
 - **Size:** 9.5 MB
@@ -706,7 +706,7 @@
 - **Description:** View disk space usage and delete unwanted data, fast.
 - **Author:** Byron
 - **Repository:** [https://github.com/Byron/dua-cli](https://github.com/Byron/dua-cli)
-- **Stars:** 3579
+- **Stars:** 3580
 - **Version:** v2.29.0
 - **Updated:** 2024-03-10T07:28:39Z
 - **Size:** 1.56 MB
@@ -722,7 +722,7 @@
 - **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
 - **Author:** sigoden
 - **Repository:** [https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-- **Stars:** 5006
+- **Stars:** 5009
 - **Version:** v0.41.0
 - **Updated:** 2024-05-22T03:27:23Z
 - **Size:** 3.63 MB
@@ -738,7 +738,7 @@
 - **Description:** A more intuitive version of du in rust
 - **Author:** bootandy
 - **Repository:** [https://github.com/bootandy/dust](https://github.com/bootandy/dust)
-- **Stars:** 7917
+- **Stars:** 7918
 - **Version:** v1.0.0
 - **Updated:** 2024-03-25T22:44:47Z
 - **Size:** 2.79 MB
@@ -786,7 +786,7 @@
 - **Description:**  safe pure Rust implementation of Git
 - **Author:** Byron
 - **Repository:** [https://github.com/Byron/gitoxide](https://github.com/Byron/gitoxide)
-- **Stars:** 8026
+- **Stars:** 8027
 - **Version:** v0.36.0
 - **Updated:** 2024-05-22T11:54:12Z
 - **Size:** 9.17 MB
@@ -898,7 +898,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6818
+- **Stars:** 6826
 - **Version:** 2.13.2
 - **Updated:** 2024-05-23T06:33:15Z
 - **Size:** 1.36 MB
@@ -978,7 +978,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 6818
+- **Stars:** 6826
 - **Version:** 2.13.2
 - **Updated:** 2024-05-23T06:33:15Z
 - **Size:** 1.21 MB
@@ -1026,7 +1026,7 @@
 - **Description:** Fast disk usage analyzer with console interface written in Go
 - **Author:** dundee
 - **Repository:** [https://github.com/dundee/gdu](https://github.com/dundee/gdu)
-- **Stars:** 3348
+- **Stars:** 3349
 - **Version:** v5.28.0
 - **Updated:** 2024-04-21T10:13:08Z
 - **Size:** 14.23 MB
@@ -1074,7 +1074,7 @@
 - **Description:**  safe pure Rust implementation of Git
 - **Author:** Byron
 - **Repository:** [https://github.com/Byron/gitoxide](https://github.com/Byron/gitoxide)
-- **Stars:** 8026
+- **Stars:** 8027
 - **Version:** v0.36.0
 - **Updated:** 2024-05-22T11:54:12Z
 - **Size:** 18.42 MB
@@ -1138,7 +1138,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 20291
+- **Stars:** 20296
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1202,7 +1202,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 29263
+- **Stars:** 29266
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 985.09 kB
@@ -1234,7 +1234,7 @@
 - **Description:** A multiprotocol credentials bruteforcer / password sprayer and enumerator. 🥷
 - **Author:** evilsocket
 - **Repository:** [https://github.com/evilsocket/legba](https://github.com/evilsocket/legba)
-- **Stars:** 1274
+- **Stars:** 1273
 - **Version:** v0.8.0
 - **Updated:** 2024-01-30T11:48:39Z
 - **Size:** 22.23 MB
@@ -1314,7 +1314,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 24021
+- **Stars:** 24056
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.88 MB
@@ -1330,7 +1330,7 @@
 - **Description:** 🌟 For when you really just want to serve some files over HTTP right now!
 - **Author:** svenstaro
 - **Repository:** [https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-- **Stars:** 5675
+- **Stars:** 5676
 - **Version:** v0.27.1
 - **Updated:** 2024-03-16T11:45:56Z
 - **Size:** 1.9 MB
@@ -1506,7 +1506,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32730
+- **Stars:** 32737
 - **Version:** 3.2
 - **Updated:** 2024-05-11T21:11:19Z
 - **Size:** 159.3 MB
@@ -1538,7 +1538,7 @@
 - **Description:** A PDF processor written in Go.
 - **Author:** pdfcpu
 - **Repository:** [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
-- **Stars:** 6380
+- **Stars:** 6385
 - **Version:** v0.8.0
 - **Updated:** 2024-04-24T22:27:50Z
 - **Size:** 11.55 MB
@@ -1602,7 +1602,7 @@
 - **Description:** Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - **Author:** esrrhs
 - **Repository:** [https://github.com/esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel)
-- **Stars:** 2925
+- **Stars:** 2927
 - **Version:** 2.8
 - **Updated:** 2023-11-29T03:52:00Z
 - **Size:** 8.98 MB
@@ -1746,7 +1746,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45492
+- **Stars:** 45498
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1858,7 +1858,7 @@
 - **Description:** The universal proxy platform
 - **Author:** SagerNet
 - **Repository:** [https://github.com/SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-- **Stars:** 14419
+- **Stars:** 14428
 - **Version:** v1.9.0
 - **Updated:** 2024-05-27T02:47:21Z
 - **Size:** 30.45 MB
@@ -2178,7 +2178,7 @@
 - **Description:** trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.
 - **Author:** trzsz
 - **Repository:** [https://github.com/trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh)
-- **Stars:** 1356
+- **Stars:** 1358
 - **Version:** v0.1.19
 - **Updated:** 2024-03-16T13:45:31Z
 - **Size:** 10.84 MB
@@ -2290,7 +2290,7 @@
 - **Description:** The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 - **Author:** rockdaboot
 - **Repository:** [https://github.com/rockdaboot/wget2](https://github.com/rockdaboot/wget2)
-- **Stars:** 502
+- **Stars:** 503
 - **Version:** v2.1.0
 - **Updated:** 2023-08-31T14:11:58Z
 - **Size:** 4.61 MB
@@ -2386,7 +2386,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 72984
+- **Stars:** 73000
 - **Version:** 2024.05.27
 - **Updated:** 2024-05-27T22:42:09Z
 - **Size:** 173.06 kB
