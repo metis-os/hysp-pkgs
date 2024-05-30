@@ -435,84 +435,67 @@
 
 [+] x86_64
 
-│ 36 │ atuin                            │ 36 │ atuin
-│ 37 │ awk                              │ 37 │ awk
-│ 38 │ aws-nuke                         │ 38 │ aws-nuke
-│ 39 │-aws-wire-lengths                 │    │
-│ 40 │ axel                             │ 39 │ axel
-│ 41 │ b3sum                            │ 40 │ b3sum
-│ 42 │ bandwhich                        │ 41 │ bandwhich
-│ 186│ dockerd-rootless-setuptool.sh    │ 185│ dockerd-rootless-setuptool.sh
-│ 187│ dockerd-rootless.sh              │ 186│ dockerd-rootless.sh
-│ 188│ doggo                            │ 187│ doggo
-│    │                                  │ 188│+dontgo403
-│ 189│ doomxss                          │ 189│ doomxss
-│ 190│ dos2unix                         │ 190│ dos2unix
-│ 191│ dotenv-linter                    │ 191│ dotenv-linter
-│ 200│ duf                              │ 200│ duf
-│ 201│ dufs                             │ 201│ dufs
-│ 202│ dura                             │ 202│ dura
-│    │                                  │ 203│+dust
-│ 203│ dysk                             │ 204│ dysk
-│ 204│ eae                              │ 205│ eae
-│ 205│ eah                              │ 206│ eah
-│ 226│ etcd                             │ 227│ etcd
-│ 227│ etcdctl                          │ 228│ etcdctl
-│ 228│ etcdutl                          │ 229│ etcdutl
-│    │                                  │ 230│+exa
-│ 229│ exiflooter                       │ 231│ exiflooter
-│ 230│ eza                              │ 232│ eza
-│ 231│ falconhound                      │ 233│ falconhound
-│ 341│ gsocket                          │ 343│ gsocket
-│ 342│ gum                              │ 344│ gum
-│ 343│ gup                              │ 345│ gup
-│    │                                  │ 346│+gxss
-│ 344│ hacker-scoper                    │ 347│ hacker-scoper
-│ 345│ hadolint                         │ 348│ hadolint
-│ 346│ hakip2host                       │ 349│ hakip2host
-│ 390│ iostat                           │ 393│ iostat
-│ 391│ iperf                            │ 394│ iperf
-│ 392│ iperf3                           │ 395│ iperf3
-│ 393│-ipinfo                           │    │
-│ 394│-ipinfo-cli                       │    │
-│ 395│ ipt2socks                        │ 396│ ipt2socks
-│ 396│ istioctl                         │ 397│ istioctl
-│ 397│ iwconfig                         │ 398│ iwconfig
-│ 405│ jc                               │ 406│ jc
-│ 406│ jc_staticx                       │ 407│ jc_staticx
-│ 407│ jen                              │ 408│ jen
-│    │                                  │ 409│+jira
-│ 408│ jira-cli                         │ 410│ jira-cli
-│ 409│ jj                               │ 411│ jj
-│ 410│ jless                            │ 412│ jless
-│ 770│ subfinder                        │ 772│ subfinder
-│ 771│ subjs                            │ 773│ subjs
-│ 772│ subxtract                        │ 774│ subxtract
-│    │                                  │ 775│+subxtract.sh
-│ 773│ sudo                             │ 776│ sudo
-│ 774│ sudo-rs                          │ 777│ sudo-rs
-│ 775│ sudo_logsrvd                     │ 778│ sudo_logsrvd
-│ 795│ t-rec                            │ 798│ t-rec
-│ 796│ tahm                             │ 799│ tahm
-│ 797│ tailscale                        │ 800│ tailscale
-│ 798│-tailscale_bb                     │    │
-│ 799│ tailscale_combined               │ 801│ tailscale_combined
-│    │                                  │ 802│+tailscale_merged
-│ 800│ tailscaled                       │ 803│ tailscaled
-│ 801│ tailspin                         │ 804│ tailspin
-│ 802│ tapestat                         │ 805│ tapestat
-│ 878│ warp-dex                         │ 881│ warp-dex
-│ 879│ warp-diag                        │ 882│ warp-diag
-│ 880│ warp-svc                         │ 883│ warp-svc
-│    │                                  │ 884│+wasminspect
-│ 881│ watchexec                        │ 885│ watchexec
-│ 882│ waybackrobots                    │ 886│ waybackrobots
-│ 883│ waybackurls                      │ 887│ waybackurls
-│ 899│ wormhole-rs                      │ 903│ wormhole-rs
-│ 900│ wstunnel                         │ 904│ wstunnel
-│ 901│ wtf                              │ 905│ wtf
-│    │                                  │ 906│+wtfutil
-│ 902│ wth                              │ 907│ wth
-│ 903│ x8                               │ 908│ x8
-│ 904│ xargs                            │ 909│ xargs
+│ 186│ dockerd-rootless-setuptool.sh    │ 186│ dockerd-rootless-setuptool.sh
+│ 187│ dockerd-rootless.sh              │ 187│ dockerd-rootless.sh
+│ 188│ doggo                            │ 188│ doggo
+│    │                                  │ 189│+dontgo403
+│ 189│ doomxss                          │ 190│ doomxss
+│ 190│ dos2unix                         │ 191│ dos2unix
+│ 191│ dotenv-linter                    │ 192│ dotenv-linter
+│ 200│ duf                              │ 201│ duf
+│ 201│ dufs                             │ 202│ dufs
+│ 202│ dura                             │ 203│ dura
+│    │                                  │ 204│+dust
+│ 203│ dysk                             │ 205│ dysk
+│ 204│ eae                              │ 206│ eae
+│ 205│ eah                              │ 207│ eah
+│ 226│ etcd                             │ 228│ etcd
+│ 227│ etcdctl                          │ 229│ etcdctl
+│ 228│ etcdutl                          │ 230│ etcdutl
+│    │                                  │ 231│+exa
+│ 229│ exiflooter                       │ 232│ exiflooter
+│ 230│ eza                              │ 233│ eza
+│ 231│ falconhound                      │ 234│ falconhound
+│ 341│ gsocket                          │ 344│ gsocket
+│ 342│ gum                              │ 345│ gum
+│ 343│ gup                              │ 346│ gup
+│    │                                  │ 347│+gxss
+│ 344│ hacker-scoper                    │ 348│ hacker-scoper
+│ 345│ hadolint                         │ 349│ hadolint
+│ 346│ hakip2host                       │ 350│ hakip2host
+│ 405│ jc                               │ 409│ jc
+│ 406│ jc_staticx                       │ 410│ jc_staticx
+│ 407│ jen                              │ 411│ jen
+│    │                                  │ 412│+jira
+│ 408│ jira-cli                         │ 413│ jira-cli
+│ 409│ jj                               │ 414│ jj
+│ 410│ jless                            │ 415│ jless
+│ 770│ subfinder                        │ 775│ subfinder
+│ 771│ subjs                            │ 776│ subjs
+│ 772│ subxtract                        │ 777│ subxtract
+│    │                                  │ 778│+subxtract.sh
+│ 773│ sudo                             │ 779│ sudo
+│ 774│ sudo-rs                          │ 780│ sudo-rs
+│ 775│ sudo_logsrvd                     │ 781│ sudo_logsrvd
+│ 797│ tailscale                        │ 803│ tailscale
+│ 798│ tailscale_bb                     │ 804│ tailscale_bb
+│ 799│ tailscale_combined               │ 805│ tailscale_combined
+│    │                                  │ 806│+tailscale_merged
+│ 800│ tailscaled                       │ 807│ tailscaled
+│ 801│ tailspin                         │ 808│ tailspin
+│ 802│ tapestat                         │ 809│ tapestat
+│ 878│ warp-dex                         │ 885│ warp-dex
+│ 879│ warp-diag                        │ 886│ warp-diag
+│ 880│ warp-svc                         │ 887│ warp-svc
+│    │                                  │ 888│+wasminspect
+│ 881│ watchexec                        │ 889│ watchexec
+│ 882│ waybackrobots                    │ 890│ waybackrobots
+│ 883│ waybackurls                      │ 891│ waybackurls
+│ 899│ wormhole-rs                      │ 907│ wormhole-rs
+│ 900│ wstunnel                         │ 908│ wstunnel
+│ 901│ wtf                              │ 909│ wtf
+│    │                                  │ 910│+wtfutil
+│ 902│ wth                              │ 911│ wth
+│ 903│ x8                               │ 912│ x8
+│ 904│ xargs                            │ 913│ xargs
 
