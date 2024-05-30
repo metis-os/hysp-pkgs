@@ -1,3 +1,4 @@
+│ 26 │-aria2c                           │    │
 │ 71 │-certstream                       │    │
 │ 96 │-comb                             │    │
 │ 112│-cronie-cronnext                  │    │
