@@ -10798,22 +10798,6 @@
 
 ---
 
-### vfox
-- **Description:**  more
-- **Author:** version-fox
-- **Repository:** [https://github.com/version-fox/vfox](https://github.com/version-fox/vfox)
-- **Stars:** 2346
-- **Version:** v0.5.3
-- **Updated:** 2024-05-18T12:41:10Z
-- **Size:** 10.04 MB
-- **SHA256SUM:** fb22dd808721b1af7a1ab774545cb67008fdbd02deb4d46de14f723fbbe5ee36
-- **B3SUM:** ce4f6c439a1b44596d65e826793086e847612ff584426da9775093723110d2dc
-- **Source:** https://pub.ajam.dev/aarch64_arm64_Linux/vfox
-- **Language:** Go
-- **License:** Apache License 2.0
-
----
-
 ### vhs
 - **Description:** Your CLI home video recorder 📼
 - **Author:** charmbracelet
@@ -11001,22 +10985,6 @@
 - **SHA256SUM:** 61c9cf3d1ab6f4c5c2048db52b3d568f860e19f775938b753c3bbc869da51bf4
 - **B3SUM:** 5bb508885c127171603952bd413efefd1873428a037e678065c5789cf2c7c968
 - **Source:** https://pub.ajam.dev/aarch64_arm64_Linux/wadl-dumper
-- **Language:** Go
-- **License:** MIT License
-
----
-
-### walk
-- **Description:** Terminal file manager
-- **Author:** antonmedv
-- **Repository:** [https://github.com/antonmedv/walk](https://github.com/antonmedv/walk)
-- **Stars:** 3039
-- **Version:** v1.7.0
-- **Updated:** 2023-10-29T11:07:58Z
-- **Size:** 2.68 MB
-- **SHA256SUM:** 10febfbd9368c1231ded691ecd9914b7d7122ec8214e9c1c030d834b474838d3
-- **B3SUM:** bd273df6c02d0240574667ae1f3ff89ee158c0c37c8c76e05cf7e9ca768431e4
-- **Source:** https://pub.ajam.dev/aarch64_arm64_Linux/walk
 - **Language:** Go
 - **License:** MIT License
 
