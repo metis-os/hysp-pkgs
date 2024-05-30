@@ -414,6 +414,22 @@
 
 ---
 
+### aria2c
+- **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- **Author:** aria2
+- **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
+- **Stars:** 33776
+- **Version:** release-1.37.0
+- **Updated:** 2023-11-15T12:07:32Z
+- **Size:** 8.38 MB
+- **SHA256SUM:** 14954e678652427c508da5fa1dc6f228caead90444a861874cd6ee65b1f7acd0
+- **B3SUM:** e9c296d79b6cc03f95a02b9cf020d06b7c2d0440db824a628daa72ad527fc889
+- **Source:** https://pub.ajam.dev/aarch64_arm64_Linux/aria2c
+- **Language:** C++
+- **License:** GNU General Public License v2.0
+
+---
+
 ### arping
 - **Description:** The iputils package is set of small old utilities for Linux networking.
 - **Author:** iputils
