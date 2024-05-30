@@ -387,50 +387,42 @@
 │ 604│ tz                               │ 658│ tz
 │ 605│ u-root                           │ 659│ u-root
 │ 606│ u-root-busybox                   │ 660│ u-root-busybox
-│ 619│ v6run                            │ 673│ v6run
-│ 620│ validtoml                        │ 674│ validtoml
-│ 621│ vegeta                           │ 675│ vegeta
-│ 622│-vfox                             │    │
-│ 623│ vhs                              │ 676│ vhs
-│ 624│ viddy                            │ 677│ viddy
-│ 625│ viewgen_staticx                  │ 678│ viewgen_staticx
-│ 632│ vtm                              │ 685│ vtm
-│ 633│ vultr-cli                        │ 686│ vultr-cli
-│ 634│ wadl-dumper                      │ 687│ wadl-dumper
-│ 635│-walk                             │    │
-│    │                                  │ 688│+warp
-│ 636│ warp-cli                         │ 689│ warp-cli
-│ 637│ warp-dex                         │ 690│ warp-dex
-│ 638│ warp-diag                        │ 691│ warp-diag
-│ 644│ websocat                         │ 697│ websocat
-│ 645│ wego                             │ 698│ wego
-│ 646│ wget                             │ 699│ wget
+│ 633│ vultr-cli                        │ 687│ vultr-cli
+│ 634│ wadl-dumper                      │ 688│ wadl-dumper
+│ 635│ walk                             │ 689│ walk
+│    │                                  │ 690│+warp
+│ 636│ warp-cli                         │ 691│ warp-cli
+│ 637│ warp-dex                         │ 692│ warp-dex
+│ 638│ warp-diag                        │ 693│ warp-diag
+│ 644│ websocat                         │ 699│ websocat
+│ 645│ wego                             │ 700│ wego
+│ 646│ wget                             │ 701│ wget
 │ 647│-whois                            │    │
-│    │                                  │ 700│+wireguard-go
-│ 648│ wireguard-rs                     │ 701│ wireguard-rs
-│ 649│ wireproxy                        │ 702│ wireproxy
-│ 650│ wiretap                          │ 703│ wiretap
-│ 651│ wormhole-rs                      │ 704│ wormhole-rs
-│ 652│ wstunnel                         │ 705│ wstunnel
-│ 653│ wtf                              │ 706│ wtf
-│    │                                  │ 707│+wtfutil
-│ 654│ wth                              │ 708│ wth
-│ 655│ x8                               │ 709│ x8
-│ 656│ xargs-rs                         │ 710│ xargs-rs
-│ 670│ xbps-uchroot                     │ 724│ xbps-uchroot
-│ 671│ xbps-uhelper                     │ 725│ xbps-uhelper
-│ 672│ xbps-uunshare                    │ 726│ xbps-uunshare
-│    │                                  │ 727│+xcp
-│ 673│ xet_staticx                      │ 728│ xet_staticx
-│ 674│ xetcmd                           │ 729│ xetcmd
-│ 675│ xetmnt                           │ 730│ xetmnt
-│ 690│ zenith                           │ 745│ zenith
-│ 691│ zfxtop                           │ 746│ zfxtop
-│ 692│ zgrab2                           │ 747│ zgrab2
+│    │                                  │ 702│+wireguard-go
+│ 648│ wireguard-rs                     │ 703│ wireguard-rs
+│ 649│ wireproxy                        │ 704│ wireproxy
+│ 650│ wiretap                          │ 705│ wiretap
+│ 651│ wormhole-rs                      │ 706│ wormhole-rs
+│ 652│ wstunnel                         │ 707│ wstunnel
+│ 653│ wtf                              │ 708│ wtf
+│    │                                  │ 709│+wtfutil
+│ 654│ wth                              │ 710│ wth
+│ 655│ x8                               │ 711│ x8
+│ 656│ xargs-rs                         │ 712│ xargs-rs
+│ 670│ xbps-uchroot                     │ 726│ xbps-uchroot
+│ 671│ xbps-uhelper                     │ 727│ xbps-uhelper
+│ 672│ xbps-uunshare                    │ 728│ xbps-uunshare
+│    │                                  │ 729│+xcp
+│ 673│ xet_staticx                      │ 730│ xet_staticx
+│ 674│ xetcmd                           │ 731│ xetcmd
+│ 675│ xetmnt                           │ 732│ xetmnt
+│ 690│ zenith                           │ 747│ zenith
+│ 691│ zfxtop                           │ 748│ zfxtop
+│ 692│ zgrab2                           │ 749│ zgrab2
 │ 693│-zoxide                           │    │
-│ 694│ zt-encodings                     │ 748│ zt-encodings
-│ 695│ zt-exchange                      │ 749│ zt-exchange
-│ 696│ zt-hashes                        │ 750│ zt-hashes
+│ 694│ zt-encodings                     │ 750│ zt-encodings
+│ 695│ zt-exchange                      │ 751│ zt-exchange
+│ 696│ zt-hashes                        │ 752│ zt-hashes
 
 
 

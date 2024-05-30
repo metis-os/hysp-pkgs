@@ -15,7 +15,5 @@
 │ 555│-subxtract                        │    │
 │ 556│-subxtract.sh                     │    │
 │ 586│-tok                              │    │
-│ 622│-vfox                             │    │
-│ 635│-walk                             │    │
 │ 647│-whois                            │    │
 │ 693│-zoxide                           │    │
