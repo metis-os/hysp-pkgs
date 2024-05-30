@@ -1,0 +1,26 @@
+[bin]
+name = "ipinfo"
+
+[package]
+architecture = "x86_64"
+name = "ipinfo"
+description = "Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)"
+author = "ipinfo"
+repo = "https://github.com/ipinfo/cli"
+stars = "1664"
+version = "ipinfo-3.3.1"
+updated = "2024-03-01T12:41:35Z"
+size = "9.79 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/ipinfo"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ipinfo"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","golang","ip-address","ip-data","ip-geolocation","ip-lookup","ipinfo"]
+categories = ["Utilities"]

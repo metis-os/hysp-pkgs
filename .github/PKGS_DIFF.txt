@@ -516,12 +516,3 @@
 │ 903│ x8                               │ 908│ x8
 │ 904│ xargs                            │ 909│ xargs
 
-
-
-[+] x64_Windows
-
-│    │                                  │  1 │+7z
-│  1 │ 7z.exe                           │  2 │ 7z.exe
-│  2 │ actionlint.exe                   │  3 │ actionlint.exe
-│  3 │ age.exe                          │  4 │ age.exe
-

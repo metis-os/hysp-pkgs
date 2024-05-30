@@ -1,0 +1,26 @@
+[bin]
+name = "aws-wire-lengths"
+
+[package]
+architecture = "x86_64"
+name = "aws-wire-lengths"
+description = "simple command line for various AWS management tasks"
+author = "oxidecomputer"
+repo = "https://github.com/oxidecomputer/aws-wire-lengths"
+stars = "21"
+version = ""
+updated = ""
+size = "16.04 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/aws-wire-lengths"
+language = "Rust"
+license = ""
+
+[package.conditions]
+conflicts  = ["aws-wire-lengths"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]
