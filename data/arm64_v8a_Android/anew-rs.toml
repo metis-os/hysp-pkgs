@@ -1,0 +1,26 @@
+[bin]
+name = "anew-rs"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "anew-rs"
+description = "A tool for adding new lines to files, skipping duplicates and written in Rust!"
+author = "zer0yu"
+repo = "https://github.com/zer0yu/anew"
+stars = "11"
+version = "v0.1.0"
+updated = "2023-11-23T16:11:10Z"
+size = "933.99 kB"
+bsum = "4862282d59b2f28bb16428363cdd7f7ae8f08e691cdca011d260e4f72bb2e41c"
+sha = "acceb2ff93b530a9956c32e23f0b1662168202051fbbaea4745959f9d4e86f5b"
+source = "https://bin.ajam.dev/arm64_v8a_Android/anew-rs"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["anew-rs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

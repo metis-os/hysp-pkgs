@@ -1,0 +1,26 @@
+[bin]
+name = "bigdl"
+
+[package]
+architecture = "arm64_v8a_Android"
+name = "bigdl"
+description = "📦 Poor mans package manager. +1440 statically linked binaries in the repos!"
+author = "xplshn"
+repo = "https://github.com/xplshn/bigdl"
+stars = "5"
+version = "1.6.7"
+updated = "2024-05-26T23:08:35Z"
+size = "5.97 MB"
+bsum = "8252b767c46763133b8578431d8de7512a871a40c7f9f483853ee02e819bc08b"
+sha = "6cbf742ff3e5920e0f466d817fbe4c244785e6c1ed03e84e8b4f0859594745d2"
+source = "https://bin.ajam.dev/arm64_v8a_Android/bigdl"
+language = "Go"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["bigdl"]
+requires = []
+
+[package.metadata]
+keywords = ["binary-manager","cli","dependency-checker","fast","go","golang","package-manager","runner","static","static-binaries","static-binary"]
+categories = ["Utilities"]
