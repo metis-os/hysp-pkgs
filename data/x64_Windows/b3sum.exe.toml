@@ -15,7 +15,7 @@ bsum = "a2c6eb7214378b02cdee2524c0e8f32446b3031e595ae011d0bb92d11e28d16a"
 sha = "e3cde0568396901286b88ac0bc645a701cd534f4d1088b86ade9aa65dcd20bfd"
 source = "https://bin.ajam.dev/x64_Windows/b3sum.exe"
 language = "Assembly"
-license = "Other"
+license = "Apache License 2.0"
 
 [package.conditions]
 conflicts  = ["b3sum.exe"]
