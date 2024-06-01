@@ -3,8 +3,8 @@
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
 - **Stars:** 51144
-- **Version:** v0.2.62
-- **Updated:** 2024-05-01T02:20:12Z
+- **Version:** v0.2.63
+- **Updated:** 2024-06-01T02:21:41Z
 - **Size:** 17.42 MB
 - **SHASUM:** 2a86701d303a2e45463ed8b3ff0ec72eb7f15b268657463116aac36895285f6e
 - **B3SUM:** 7d72c7f1f2c0adb1aaff7c5b342144b67aa4793d999067d227946d772794065a
@@ -66,7 +66,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 33857
+- **Stars:** 33859
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 9.29 MB
@@ -114,7 +114,7 @@
 - **Description:** 📦 Poor mans package manager. +1440 statically linked binaries in the repos!
 - **Author:** xplshn
 - **Repository:** [https://github.com/xplshn/bigdl](https://github.com/xplshn/bigdl)
-- **Stars:** 5
+- **Stars:** 6
 - **Version:** 1.6.7
 - **Updated:** 2024-05-26T23:08:35Z
 - **Size:** 5.97 MB
@@ -130,7 +130,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34500
+- **Stars:** 34502
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 5.14 MB
@@ -146,7 +146,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34500
+- **Stars:** 34502
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 229.65 kB
@@ -242,7 +242,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17044
+- **Stars:** 17047
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 11.46 MB
@@ -258,7 +258,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17044
+- **Stars:** 17047
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 25.64 MB
@@ -274,7 +274,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17044
+- **Stars:** 17047
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 23.55 MB
@@ -290,7 +290,7 @@
 - **Description:** tmux source code
 - **Author:** tmux
 - **Repository:** [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
-- **Stars:** 33382
+- **Stars:** 33383
 - **Version:** 3.4
 - **Updated:** 2024-02-13T10:22:31Z
 - **Size:** 1.55 MB
@@ -306,7 +306,7 @@
 - **Description:** The official Vim repository
 - **Author:** vim
 - **Repository:** [https://github.com/vim/vim](https://github.com/vim/vim)
-- **Stars:** 35259
+- **Stars:** 35261
 - **Version:** v9.1.0454
 - **Updated:** 
 - **Size:** 5.06 MB
