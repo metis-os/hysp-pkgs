@@ -2,7 +2,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 51144
+- **Stars:** 51146
 - **Version:** v0.2.63
 - **Updated:** 2024-06-01T02:21:41Z
 - **Size:** 17.42 MB
@@ -210,7 +210,7 @@
 - **Description:** rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 44431
+- **Stars:** 44434
 - **Version:** v1.66.0
 - **Updated:** 2024-03-10T12:13:14Z
 - **Size:** 85.31 MB
@@ -290,7 +290,7 @@
 - **Description:** tmux source code
 - **Author:** tmux
 - **Repository:** [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
-- **Stars:** 33388
+- **Stars:** 33389
 - **Version:** 3.4
 - **Updated:** 2024-02-13T10:22:31Z
 - **Size:** 1.55 MB
@@ -306,7 +306,7 @@
 - **Description:** The official Vim repository
 - **Author:** vim
 - **Repository:** [https://github.com/vim/vim](https://github.com/vim/vim)
-- **Stars:** 35270
+- **Stars:** 35271
 - **Version:** v9.1.0457
 - **Updated:** 
 - **Size:** 5.06 MB
