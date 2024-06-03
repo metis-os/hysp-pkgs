@@ -463,32 +463,59 @@
 │ 408│ jira-cli                         │ 413│ jira-cli
 │ 409│ jj                               │ 414│ jj
 │ 410│ jless                            │ 415│ jless
-│ 770│ subfinder                        │ 775│ subfinder
-│ 771│ subjs                            │ 776│ subjs
-│ 772│ subxtract                        │ 777│ subxtract
+│ 512│ netmaker                         │ 517│ netmaker
+│ 513│ netscanner                       │ 518│ netscanner
+│ 514│ netstat                          │ 519│ netstat
+│ 515│-nezha-agent                      │    │
+│ 516│-nezha-dashboard                  │    │
+│ 517│-nezha-dashboard.openrc           │    │
+│ 518│-nezha-dashboard.service          │    │
+│ 519│-nezha-install.sh                 │    │
+│ 520│ nfs-cat                          │ 520│ nfs-cat
+│ 521│ nfs-cp                           │ 521│ nfs-cp
+│ 522│ nfs-ls                           │ 522│ nfs-ls
+│ 711│ scp                              │ 711│ scp
+│ 712│ screenfetch                      │ 712│ screenfetch
+│ 713│ sd                               │ 713│ sd
+│ 714│-serverstatus-client              │    │
+│ 715│-serverstatus-server              │    │
+│ 716│ sessionprobe                     │ 714│ sessionprobe
+│ 717│ sf                               │ 715│ sf
+│ 718│ sftp                             │ 716│ sftp
+│ 777│ subfinder                        │ 775│ subfinder
+│ 778│ subjs                            │ 776│ subjs
+│ 779│ subxtract                        │ 777│ subxtract
 │    │                                  │ 778│+subxtract.sh
-│ 773│ sudo                             │ 779│ sudo
-│ 774│ sudo-rs                          │ 780│ sudo-rs
-│ 775│ sudo_logsrvd                     │ 781│ sudo_logsrvd
-│ 797│ tailscale                        │ 803│ tailscale
-│ 798│ tailscale_bb                     │ 804│ tailscale_bb
-│ 799│ tailscale_combined               │ 805│ tailscale_combined
+│ 780│ sudo                             │ 779│ sudo
+│ 781│ sudo-rs                          │ 780│ sudo-rs
+│ 782│ sudo_logsrvd                     │ 781│ sudo_logsrvd
+│ 804│ tailscale                        │ 803│ tailscale
+│ 805│ tailscale_bb                     │ 804│ tailscale_bb
+│ 806│ tailscale_combined               │ 805│ tailscale_combined
 │    │                                  │ 806│+tailscale_merged
-│ 800│ tailscaled                       │ 807│ tailscaled
-│ 801│ tailspin                         │ 808│ tailspin
-│ 802│ tapestat                         │ 809│ tapestat
-│ 878│ warp-dex                         │ 885│ warp-dex
-│ 879│ warp-diag                        │ 886│ warp-diag
-│ 880│ warp-svc                         │ 887│ warp-svc
+│ 807│ tailscaled                       │ 807│ tailscaled
+│ 808│ tailspin                         │ 808│ tailspin
+│ 809│ tapestat                         │ 809│ tapestat
+│ 872│ visudo                           │ 872│ visudo
+│ 873│ visudo-rs                        │ 873│ visudo-rs
+│ 874│ viu                              │ 874│ viu
+│ 875│-vnstat                           │    │
+│ 876│-vnstatd                          │    │
+│ 877│ volta                            │ 875│ volta
+│ 878│ vopono                           │ 876│ vopono
+│ 879│ vpnkit                           │ 877│ vpnkit
+│ 887│ warp-dex                         │ 885│ warp-dex
+│ 888│ warp-diag                        │ 886│ warp-diag
+│ 889│ warp-svc                         │ 887│ warp-svc
 │    │                                  │ 888│+wasminspect
-│ 881│ watchexec                        │ 889│ watchexec
-│ 882│ waybackrobots                    │ 890│ waybackrobots
-│ 883│ waybackurls                      │ 891│ waybackurls
-│ 899│ wormhole-rs                      │ 907│ wormhole-rs
-│ 900│ wstunnel                         │ 908│ wstunnel
-│ 901│ wtf                              │ 909│ wtf
+│ 890│ watchexec                        │ 889│ watchexec
+│ 891│ waybackrobots                    │ 890│ waybackrobots
+│ 892│ waybackurls                      │ 891│ waybackurls
+│ 908│ wormhole-rs                      │ 907│ wormhole-rs
+│ 909│ wstunnel                         │ 908│ wstunnel
+│ 910│ wtf                              │ 909│ wtf
 │    │                                  │ 910│+wtfutil
-│ 902│ wth                              │ 911│ wth
-│ 903│ x8                               │ 912│ x8
-│ 904│ xargs                            │ 913│ xargs
+│ 911│ wth                              │ 911│ wth
+│ 912│ x8                               │ 912│ x8
+│ 913│ xargs                            │ 913│ xargs
 
