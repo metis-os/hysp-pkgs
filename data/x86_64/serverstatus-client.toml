@@ -1,0 +1,26 @@
+[bin]
+name = "serverstatus-client"
+
+[package]
+architecture = "x86_64"
+name = "serverstatus-client"
+description = "✨ Rust 版 ServerStatus 探针、威力加强版"
+author = "zdz"
+repo = "https://github.com/zdz/ServerStatus-Rust"
+stars = "1622"
+version = "v1.8.1"
+updated = "2024-03-18T14:48:28Z"
+size = "9.11 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/serverstatus-client"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["serverstatus-client"]
+requires = []
+
+[package.metadata]
+keywords = ["probe","railway","rust","serverstatus","serverstatus-rust","telegram","vnstat","webhook","wechat"]
+categories = ["Utilities"]

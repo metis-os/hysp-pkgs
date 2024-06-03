@@ -1,0 +1,26 @@
+[bin]
+name = "nezha-agent"
+
+[package]
+architecture = "x86_64"
+name = "nezha-agent"
+description = "M tool"
+author = "naiba"
+repo = "https://github.com/naiba/nezha"
+stars = "6436"
+version = "v0.16.27"
+updated = "2024-06-01T11:21:30Z"
+size = "19.23 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/nezha-agent"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["nezha-agent"]
+requires = []
+
+[package.metadata]
+keywords = ["monitoring","monitoring-tool","system"]
+categories = ["Utilities"]

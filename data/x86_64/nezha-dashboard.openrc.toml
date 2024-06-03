@@ -1,0 +1,26 @@
+[bin]
+name = "nezha-dashboard.openrc"
+
+[package]
+architecture = "x86_64"
+name = "nezha-dashboard.openrc"
+description = "M tool"
+author = "naiba"
+repo = "https://github.com/naiba/nezha"
+stars = "6436"
+version = "v0.16.27"
+updated = "2024-06-01T11:21:30Z"
+size = "376 B"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/nezha-dashboard.openrc"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["nezha-dashboard.openrc"]
+requires = []
+
+[package.metadata]
+keywords = ["monitoring","monitoring-tool","system"]
+categories = ["Utilities"]

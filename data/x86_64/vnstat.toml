@@ -1,0 +1,26 @@
+[bin]
+name = "vnstat"
+
+[package]
+architecture = "x86_64"
+name = "vnstat"
+description = "vnStat - a network traffic monitor for Linux and BSD"
+author = "vergoh"
+repo = "https://github.com/vergoh/vnstat"
+stars = "1353"
+version = "v2.12"
+updated = "2024-01-21T17:44:30Z"
+size = "1.7 MB"
+bsum = ""
+sha = ""
+source = "https://bin.ajam.dev/x86_64_Linux/vnstat"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["vnstat"]
+requires = []
+
+[package.metadata]
+keywords = ["c","network-traffic-monitor","traffic","vnstat"]
+categories = ["Utilities"]
