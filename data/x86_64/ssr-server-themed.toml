@@ -1,24 +1,24 @@
 [bin]
-name = "serverstatus-client"
+name = "ssr-server-themed"
 
 [package]
 architecture = "x86_64"
-name = "serverstatus-client"
+name = "ssr-server-themed"
 description = "✨ Rust 版 ServerStatus 探针、威力加强版"
 author = "zdz"
 repo = "https://github.com/zdz/ServerStatus-Rust"
 stars = "1624"
 version = "v1.8.1"
 updated = "2024-03-18T14:48:28Z"
-size = "9.11 MB"
-bsum = "4a6ae2a9160ce577917cb9f56eac67bbefa7aa669f9b03f40a3d4f39d621080a"
-sha = "9cb37bac7297a237fcb074ce4b19ada46acf78dbc1ed7f0315d6ca2633204840"
-source = "https://bin.ajam.dev/x86_64_Linux/serverstatus-client"
+size = "14.67 MB"
+bsum = "23cac18ca938a10e04d1c25d7192677c8fd2dc5e8c9b797f66a35cb6ac53c856"
+sha = "0a5468e33e268f720695f73b033fc73e87b390de11c8b98867fa738ea7023275"
+source = "https://bin.ajam.dev/x86_64_Linux/ssr-server-themed"
 language = "Rust"
 license = "Apache License 2.0"
 
 [package.conditions]
-conflicts  = ["serverstatus-client"]
+conflicts  = ["ssr-server-themed"]
 requires = []
 
 [package.metadata]
