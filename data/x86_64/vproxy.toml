@@ -4,7 +4,7 @@ name = "vproxy"
 [package]
 architecture = "x86_64"
 name = "vproxy"
-description = "An easy and powerful Rust HTTP/Socks5/HTTP-to-Socks5 Proxy"
+description = "An easy and powerful Rust HTTP/Socks5/HTTP2Socks5 Proxy"
 author = "0x676e67"
 repo = "https://github.com/gngpp/vproxy"
 stars = "95"
@@ -22,5 +22,5 @@ conflicts  = ["vproxy"]
 requires = []
 
 [package.metadata]
-keywords = ["cidr","cidr-subnet","http","http-server","http-to-socks5","hyper","ipv4","ipv6","network","proxy","rust","server","socks5","socks5-server"]
+keywords = ["cidr","cidr-subnet","http","http-server","http-to-socks5","http2socks5","hyper","ipv4","ipv6","network","proxy","rust","server","socks5","socks5-server"]
 categories = ["Utilities"]
