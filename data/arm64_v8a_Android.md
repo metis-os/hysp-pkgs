@@ -2,12 +2,12 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 51263
+- **Stars:** 51269
 - **Version:** v0.2.63
 - **Updated:** 2024-06-01T02:21:41Z
 - **Size:** 17.42 MB
-- **SHASUM:** 4f9bd55fa86af72cd9d7657d5ffdb68181b970b65c7a590ec20f5fb40ad21113
-- **B3SUM:** 5e847bfa643bd4bdddf3d9e573575277a5db262c33f2e39fe3041b7238577733
+- **SHASUM:** c2338a903b7c79224c45be23844cf1cc4fd9cc9d76b63190d354c3064525b821
+- **B3SUM:** 4b6c783ac76adb95fdea70e56f4dd3c2acf8f4c0b84a49fa4aaacbb094a73ffa
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/act
 - **Language:** Go
 - **License:** MIT License
@@ -38,8 +38,8 @@
 - **Version:** cares-1_29_0
 - **Updated:** 2024-05-24T06:54:18Z
 - **Size:** 164.18 kB
-- **SHASUM:** 70203b0ca399f751d25482c608f6fc90be2552ff54d2d07b78dad70d8da5f8c0
-- **B3SUM:** 717e1bfb86f5eb0abdd5f68190433a8fb35c0365607f041eae507f05e1923627
+- **SHASUM:** c5718c47e16b7a868c6df7ee701906cc7d698a9d20313de212f7850752252b36
+- **B3SUM:** b753f1dfc0f35ccbd6c92f875b53d967a5010629da2cea3c6c543a4e29a5870f
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/adig
 - **Language:** C
 - **License:** Other
@@ -53,9 +53,9 @@
 - **Stars:** 11
 - **Version:** v0.1.0
 - **Updated:** 2023-11-23T16:11:10Z
-- **Size:** 933.99 kB
-- **SHASUM:** 1ece0b45dc279b597763bd9bbffcc7c1bd3bd4a9084f3fcfd8eff6f42cb43cf6
-- **B3SUM:** ade62a39175ced10920cbe7595ec81afe7dda690636f753e579714eaf312b414
+- **Size:** 933.8 kB
+- **SHASUM:** 769d3d74430c8508952ff98d539c36c3d86135a396dc59878ee5df0568c89a6e
+- **B3SUM:** dead115bda30563e6c5eda207316551aa3921ddabbcf5e415f8774922e80a788
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/anew-rs
 - **Language:** Rust
 - **License:** MIT License
@@ -66,12 +66,12 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 33881
+- **Stars:** 33882
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 9.29 MB
-- **SHASUM:** fbc097a1a3fd9a41ed5143d7fbba4522875bbacc12a229cc3e0638b7d842c121
-- **B3SUM:** d5fec2b3c1088248fb3e212410d31f2b0e390d8bffcf7197e5af1bf9412c5e5e
+- **SHASUM:** 7958b3ffa66d36bf325af8701df7d53fd01aefad5389629ea8692a5c1db3370d
+- **B3SUM:** 77f1cfe4a659f0d358ca3cb89a9ea4134c162908a5680fb6d7191b46be3c03c0
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/aria2c
 - **Language:** C++
 - **License:** GNU General Public License v2.0
@@ -86,8 +86,8 @@
 - **Version:** 
 - **Updated:** 
 - **Size:** 3.76 MB
-- **SHASUM:** aed0968e0dfdfb1e49f463d918a27ac8c018f8c06accf7f7ae218cf6e5459920
-- **B3SUM:** a71f18fc4e4422a57be1c1cb784a850d947386e2634803eec1a555db146843a8
+- **SHASUM:** 7e0d9bf119f4c14ced00764a4c6a8685f2fbaf970f173ffa51d3b19637a8bd87
+- **B3SUM:** 9a1688fa5df0d2469e0c9a3535c573da451f4d3302bc846fa528be76d3e1ddd4
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/axel
 - **Language:** 
 - **License:** 
@@ -102,8 +102,8 @@
 - **Version:** 
 - **Updated:** 
 - **Size:** 1.78 MB
-- **SHASUM:** 50f5f4cac15a86ca318f54f556803c9c20f9045cfd412eecc596b7f22f0524f9
-- **B3SUM:** 5df6de9d02b4b7ce57d1d4747d44b432071a1ab40f4a3c966d0995f17db56da4
+- **SHASUM:** 2660c65be8ef2d164ac29bd9dd314779727f8b6e41a8ce354a7a1a7fa33e4b6b
+- **B3SUM:** 48ad63e807bab2ad11f7442bae37c0e8e9312c5099969111b2ca9a664eebc31e
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/bash
 - **Language:** 
 - **License:** 
@@ -130,12 +130,12 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34546
+- **Stars:** 34547
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 5.14 MB
-- **SHASUM:** ec84e6c2fc277ffd42cef0f332e4e53ce45f3bc0f79f50164a6a48e2022e8a46
-- **B3SUM:** 539af0436d1dce1c55ccee5903e81ec7266df7ee1e17de3bc8b938657acc2218
+- **SHASUM:** 559355d0ca2134c8921d741c6feb7a701a2ccd05b4abc815eaabd9bb1781b45a
+- **B3SUM:** 5ce98ad579bf1f80da9c8dcb97d1ebfaf7ede7c66e80c53d9b8193ec98648b22
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/curl
 - **Language:** C
 - **License:** Other
@@ -146,7 +146,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34546
+- **Stars:** 34547
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 229.65 kB
@@ -182,8 +182,8 @@
 - **Version:** 
 - **Updated:** 
 - **Size:** 6.93 MB
-- **SHASUM:** f8b167d7f5b4652700b698859f52a445992b0b66984361ad035a7f9751e166d4
-- **B3SUM:** 201d4696fd14794b72bb20df3ed3713ec62e8e1f97914914520053d5beaa4a04
+- **SHASUM:** 1b10555529a6ba15fe3e0136a1a50aa9d89752fee9d5190c4d0773d9f1a68a23
+- **B3SUM:** 933698af09332c62908902a827fa741f2afd2b28a3ddaa8a3468b353dd742550
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/pingmole
 - **Language:** Rust
 - **License:** MIT License
@@ -198,8 +198,8 @@
 - **Version:** v1.2.1
 - **Updated:** 2023-01-17T21:10:08Z
 - **Size:** 3.76 MB
-- **SHASUM:** 5f5ddba1f77cdbd9b8af2bf99cf078588ae25b976551bd1a9217ab09ce16e13a
-- **B3SUM:** e23755dedb7a40a8e921b6c90250dea176d091167fca1bd76ca3964f1999eac3
+- **SHASUM:** 0977591cf2942539f3e19b82f2175ed099750f91ee29438864f757d7536ee53d
+- **B3SUM:** a6d1f295035deb6d7c1db69a78fdec7ebdf9340d19708496f1392bb5cac997bd
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/pspy
 - **Language:** Go
 - **License:** GNU General Public License v3.0
@@ -210,7 +210,7 @@
 - **Description:** rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 44485
+- **Stars:** 44488
 - **Version:** v1.66.0
 - **Updated:** 2024-03-10T12:13:14Z
 - **Size:** 85.31 MB
@@ -242,12 +242,12 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17100
+- **Stars:** 17101
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
 - **Size:** 11.46 MB
-- **SHASUM:** 02c7227f0c9f41305808e906f9c7b9ef37c07fb034157951138ad42c1606f6e3
-- **B3SUM:** 5379e8d89972e4dc8a6ac1d4f2b95ea9a80d14b8406de677a6a03cd8a949a7af
+- **SHASUM:** 9a0ec3b1bb60c5439babe68395adedb9c69a4f84781a5ad13f066f87ca2829e1
+- **B3SUM:** 0d120ea038cbf14a18d3d440b94e6873c1c018316fe818ac641e96d22b261907
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -258,12 +258,12 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17100
+- **Stars:** 17101
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
-- **Size:** 25.65 MB
-- **SHASUM:** 13a0bf65581c925cc49e2a53f11dc7e693de107de930bc82a20e34a32281b102
-- **B3SUM:** 4577fa47c51e6f3da6bdb7b110b426979b0c44c317119a7e8dd2a6748ae02383
+- **Size:** 25.68 MB
+- **SHASUM:** b30b1f04d87c7ffde7268261da1d76e781b6b3e6fb319a4be810df122be88117
+- **B3SUM:** dfeecb15414590a31db876c4458c8b60a14428f3e43fbd623b51acdd7b586f52
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale_combined
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -274,12 +274,12 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17100
+- **Stars:** 17101
 - **Version:** v1.66.4
 - **Updated:** 2024-05-21T01:05:50Z
-- **Size:** 23.56 MB
-- **SHASUM:** 833f95c3c9e525ef2146ecf6747e8f5d2dc8905f523932d524e72f9462d55cc0
-- **B3SUM:** c2c86599e2767c09ed9a43ffa468d5e34d4467243a2ed712ac5ba9e1c5c158ab
+- **Size:** 23.59 MB
+- **SHASUM:** 26ac30fe8a017eb4f5bd7993ce96a52fb6292953be1a6239832d85dff5bc457b
+- **B3SUM:** 32bd67a891f831cbf8b81120536affa9109a1a007d3fd4e6723f20323a83149c
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscaled
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -290,12 +290,12 @@
 - **Description:** tmux source code
 - **Author:** tmux
 - **Repository:** [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
-- **Stars:** 33427
+- **Stars:** 33426
 - **Version:** 3.4
 - **Updated:** 2024-02-13T10:22:31Z
 - **Size:** 1.55 MB
-- **SHASUM:** dc03cdd85093b573e5172ead2a868f7323e9fe84f36b1d95f29308eb557b0b8f
-- **B3SUM:** 2b2e27b899cb8708266405a8bac15be97d670136e4d2f81206c0aa83147f40cb
+- **SHASUM:** acdd9d33cc7cfd9c959888f83e62e269b0e02f28d3b1b74238237c42de4feed0
+- **B3SUM:** 02ec4873eb6efebe7d97c168429b5d1de85b68bfc5fb6b36e58b9129e1020453
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tmux
 - **Language:** C
 - **License:** Other
@@ -306,12 +306,12 @@
 - **Description:** The official Vim repository
 - **Author:** vim
 - **Repository:** [https://github.com/vim/vim](https://github.com/vim/vim)
-- **Stars:** 35280
+- **Stars:** 35279
 - **Version:** v9.1.0466
 - **Updated:** 
 - **Size:** 5.06 MB
-- **SHASUM:** 4df75f3d0a0d9f70f431f09f2db3553a29dcc9201f3414423d89c00408a8a1cf
-- **B3SUM:** c03f44ccd46ab618c2100ece27f121898a38f3779054132c5ab71b8b46f90fe1
+- **SHASUM:** 4a6ab326e971774ea0700dfadd4e33bcedeff2fd9e85cda053cd98589de9cae1
+- **B3SUM:** 1afbdfa54373fe81e76481e5e1a2bb44e752dc1998b5dacdb2bafc0db4d74198
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/vim
 - **Language:** Vim Script
 - **License:** Vim License
@@ -326,8 +326,8 @@
 - **Version:** 
 - **Updated:** 
 - **Size:** 5.66 MB
-- **SHASUM:** 3758b9da8628277be61814f948f3630547b6d3095491b8ec3e3b381429138f75
-- **B3SUM:** 5a624307890e1a413639d393e19b34c3b460797c6b1a8b76b2b388d631464743
+- **SHASUM:** e4400f165c5b8bc2b32f9dd322f938b6d1f9ddef99e14b5217c5554398f2e896
+- **B3SUM:** 48a9323f458db7d0939f98f6a7aeed2f7ac0ff6f14ed068d4d49df31c37df75a
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/wget
 - **Language:** 
 - **License:** 
@@ -358,8 +358,8 @@
 - **Version:** zsh-5.9
 - **Updated:** 
 - **Size:** 1.8 MB
-- **SHASUM:** 87fac8f0d58703f08cba77180b695f569d770f40633f5654e41737fdcc6f0b4a
-- **B3SUM:** c703a9514d12971e4f2d16aac10fc706a85732768db5c71894bd16506c1e2c26
+- **SHASUM:** c96d7c170698f2c0c179d989b4c1fee316e83ae465274667e5527a4042f267c4
+- **B3SUM:** 2d06089e1bd040d2be7f9caaa2eaf94e9b00a7fe54566c6bb3a2375eb865f31b
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/zsh
 - **Language:** C
 - **License:** Other
