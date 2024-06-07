@@ -463,32 +463,49 @@
 │ 408│ jira-cli                         │ 413│ jira-cli
 │ 409│ jj                               │ 414│ jj
 │ 410│ jless                            │ 415│ jless
-│ 779│ subfinder                        │ 784│ subfinder
-│ 780│ subjs                            │ 785│ subjs
-│ 781│ subxtract                        │ 786│ subxtract
+│ 525│ ngocok                           │ 530│ ngocok
+│ 526│ ngrok                            │ 531│ ngrok
+│ 527│ niltalk                          │ 532│ niltalk
+│ 528│-nix-channel-index                │    │
+│ 529│-nix-index                        │    │
+│ 530│-nix-locate                       │    │
+│ 531│ njs                              │ 533│ njs
+│ 532│ nmap                             │ 534│ nmap
+│ 533│ nmap-formatter                   │ 535│ nmap-formatter
+│ 675│ rga                              │ 677│ rga
+│ 676│ ripgen                           │ 678│ ripgen
+│ 677│ ripgrep                          │ 679│ ripgrep
+│ 678│-rippkgs                          │    │
+│ 679│-rippkgs-index                    │    │
+│ 680│ rnr                              │ 680│ rnr
+│ 681│ robotstxt                        │ 681│ robotstxt
+│ 682│ roboxtractor                     │ 682│ roboxtractor
+│ 784│ subfinder                        │ 784│ subfinder
+│ 785│ subjs                            │ 785│ subjs
+│ 786│ subxtract                        │ 786│ subxtract
 │    │                                  │ 787│+subxtract.sh
-│ 782│ sudo                             │ 788│ sudo
-│ 783│ sudo-rs                          │ 789│ sudo-rs
-│ 784│ sudo_logsrvd                     │ 790│ sudo_logsrvd
-│ 806│ tailscale                        │ 812│ tailscale
-│ 807│ tailscale_bb                     │ 813│ tailscale_bb
-│ 808│ tailscale_combined               │ 814│ tailscale_combined
+│ 787│ sudo                             │ 788│ sudo
+│ 788│ sudo-rs                          │ 789│ sudo-rs
+│ 789│ sudo_logsrvd                     │ 790│ sudo_logsrvd
+│ 811│ tailscale                        │ 812│ tailscale
+│ 812│ tailscale_bb                     │ 813│ tailscale_bb
+│ 813│ tailscale_combined               │ 814│ tailscale_combined
 │    │                                  │ 815│+tailscale_merged
-│ 809│ tailscaled                       │ 816│ tailscaled
-│ 810│ tailspin                         │ 817│ tailspin
-│ 811│ tapestat                         │ 818│ tapestat
-│ 889│ warp-dex                         │ 896│ warp-dex
-│ 890│ warp-diag                        │ 897│ warp-diag
-│ 891│ warp-svc                         │ 898│ warp-svc
+│ 814│ tailscaled                       │ 816│ tailscaled
+│ 815│ tailspin                         │ 817│ tailspin
+│ 816│ tapestat                         │ 818│ tapestat
+│ 894│ warp-dex                         │ 896│ warp-dex
+│ 895│ warp-diag                        │ 897│ warp-diag
+│ 896│ warp-svc                         │ 898│ warp-svc
 │    │                                  │ 899│+wasminspect
-│ 892│ watchexec                        │ 900│ watchexec
-│ 893│ waybackrobots                    │ 901│ waybackrobots
-│ 894│ waybackurls                      │ 902│ waybackurls
-│ 910│ wormhole-rs                      │ 918│ wormhole-rs
-│ 911│ wstunnel                         │ 919│ wstunnel
-│ 912│ wtf                              │ 920│ wtf
+│ 897│ watchexec                        │ 900│ watchexec
+│ 898│ waybackrobots                    │ 901│ waybackrobots
+│ 899│ waybackurls                      │ 902│ waybackurls
+│ 915│ wormhole-rs                      │ 918│ wormhole-rs
+│ 916│ wstunnel                         │ 919│ wstunnel
+│ 917│ wtf                              │ 920│ wtf
 │    │                                  │ 921│+wtfutil
-│ 913│ wth                              │ 922│ wth
-│ 914│ x8                               │ 923│ x8
-│ 915│ xargs                            │ 924│ xargs
+│ 918│ wth                              │ 922│ wth
+│ 919│ x8                               │ 923│ x8
+│ 920│ xargs                            │ 924│ xargs
 
