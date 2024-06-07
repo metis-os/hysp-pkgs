@@ -463,49 +463,32 @@
 │ 408│ jira-cli                         │ 413│ jira-cli
 │ 409│ jj                               │ 414│ jj
 │ 410│ jless                            │ 415│ jless
-│ 525│ ngocok                           │ 530│ ngocok
-│ 526│ ngrok                            │ 531│ ngrok
-│ 527│ niltalk                          │ 532│ niltalk
-│ 528│-nix-channel-index                │    │
-│ 529│-nix-index                        │    │
-│ 530│-nix-locate                       │    │
-│ 531│ njs                              │ 533│ njs
-│ 532│ nmap                             │ 534│ nmap
-│ 533│ nmap-formatter                   │ 535│ nmap-formatter
-│ 675│ rga                              │ 677│ rga
-│ 676│ ripgen                           │ 678│ ripgen
-│ 677│ ripgrep                          │ 679│ ripgrep
-│ 678│-rippkgs                          │    │
-│ 679│-rippkgs-index                    │    │
-│ 680│ rnr                              │ 680│ rnr
-│ 681│ robotstxt                        │ 681│ robotstxt
-│ 682│ roboxtractor                     │ 682│ roboxtractor
-│ 784│ subfinder                        │ 784│ subfinder
-│ 785│ subjs                            │ 785│ subjs
-│ 786│ subxtract                        │ 786│ subxtract
-│    │                                  │ 787│+subxtract.sh
-│ 787│ sudo                             │ 788│ sudo
-│ 788│ sudo-rs                          │ 789│ sudo-rs
-│ 789│ sudo_logsrvd                     │ 790│ sudo_logsrvd
-│ 811│ tailscale                        │ 812│ tailscale
-│ 812│ tailscale_bb                     │ 813│ tailscale_bb
-│ 813│ tailscale_combined               │ 814│ tailscale_combined
-│    │                                  │ 815│+tailscale_merged
-│ 814│ tailscaled                       │ 816│ tailscaled
-│ 815│ tailspin                         │ 817│ tailspin
-│ 816│ tapestat                         │ 818│ tapestat
-│ 894│ warp-dex                         │ 896│ warp-dex
-│ 895│ warp-diag                        │ 897│ warp-diag
-│ 896│ warp-svc                         │ 898│ warp-svc
-│    │                                  │ 899│+wasminspect
-│ 897│ watchexec                        │ 900│ watchexec
-│ 898│ waybackrobots                    │ 901│ waybackrobots
-│ 899│ waybackurls                      │ 902│ waybackurls
-│ 915│ wormhole-rs                      │ 918│ wormhole-rs
-│ 916│ wstunnel                         │ 919│ wstunnel
-│ 917│ wtf                              │ 920│ wtf
-│    │                                  │ 921│+wtfutil
-│ 918│ wth                              │ 922│ wth
-│ 919│ x8                               │ 923│ x8
-│ 920│ xargs                            │ 924│ xargs
+│ 784│ subfinder                        │ 789│ subfinder
+│ 785│ subjs                            │ 790│ subjs
+│ 786│ subxtract                        │ 791│ subxtract
+│    │                                  │ 792│+subxtract.sh
+│ 787│ sudo                             │ 793│ sudo
+│ 788│ sudo-rs                          │ 794│ sudo-rs
+│ 789│ sudo_logsrvd                     │ 795│ sudo_logsrvd
+│ 811│ tailscale                        │ 817│ tailscale
+│ 812│ tailscale_bb                     │ 818│ tailscale_bb
+│ 813│ tailscale_combined               │ 819│ tailscale_combined
+│    │                                  │ 820│+tailscale_merged
+│ 814│ tailscaled                       │ 821│ tailscaled
+│ 815│ tailspin                         │ 822│ tailspin
+│ 816│ tapestat                         │ 823│ tapestat
+│ 894│ warp-dex                         │ 901│ warp-dex
+│ 895│ warp-diag                        │ 902│ warp-diag
+│ 896│ warp-svc                         │ 903│ warp-svc
+│    │                                  │ 904│+wasminspect
+│ 897│ watchexec                        │ 905│ watchexec
+│ 898│ waybackrobots                    │ 906│ waybackrobots
+│ 899│ waybackurls                      │ 907│ waybackurls
+│ 915│ wormhole-rs                      │ 923│ wormhole-rs
+│ 916│ wstunnel                         │ 924│ wstunnel
+│ 917│ wtf                              │ 925│ wtf
+│    │                                  │ 926│+wtfutil
+│ 918│ wth                              │ 927│ wth
+│ 919│ x8                               │ 928│ x8
+│ 920│ xargs                            │ 929│ xargs
 
