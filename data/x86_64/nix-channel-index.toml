@@ -1,0 +1,26 @@
+[bin]
+name = "nix-channel-index"
+
+[package]
+architecture = "x86_64"
+name = "nix-channel-index"
+description = "Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]"
+author = "nix-community"
+repo = "https://github.com/nix-community/nix-index"
+stars = "760"
+version = "v0.1.8"
+updated = "2024-05-22T21:15:06Z"
+size = "10.35 MB"
+bsum = "0c3b66a74ef7f5572f6be53a953ab0020d67b1a7ed11176b6b66d6fdd3c64c13"
+sha = "e943c35289cb421be6172763749f7e748ee72136b2c3fa3ccc050b6066dc63df"
+source = "https://bin.ajam.dev/x86_64_Linux/nix-channel-index"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["nix-channel-index"]
+requires = []
+
+[package.metadata]
+keywords = ["nix","nix-community-buildbot","nixpkgs","search","tooling"]
+categories = ["Utilities"]

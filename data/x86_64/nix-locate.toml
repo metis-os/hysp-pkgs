@@ -1,0 +1,26 @@
+[bin]
+name = "nix-locate"
+
+[package]
+architecture = "x86_64"
+name = "nix-locate"
+description = "Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]"
+author = "nix-community"
+repo = "https://github.com/nix-community/nix-index"
+stars = "760"
+version = "v0.1.8"
+updated = "2024-05-22T21:15:06Z"
+size = "3.59 MB"
+bsum = "a8a0b775cf23f82fe4eee0695555425a64acae2b09635b7f3193f43e134ae852"
+sha = "03b78ce9d95201c9618eaf2d252f01efa4489ee875aadf085ccc6b62728135de"
+source = "https://bin.ajam.dev/x86_64_Linux/nix-locate"
+language = "Rust"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["nix-locate"]
+requires = []
+
+[package.metadata]
+keywords = ["nix","nix-community-buildbot","nixpkgs","search","tooling"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "rippkgs"
+
+[package]
+architecture = "x86_64"
+name = "rippkgs"
+description = "A CLI for indexing and searching packages in Nix expressions"
+author = "replit"
+repo = "https://github.com/replit/rippkgs"
+stars = "141"
+version = "v1.1.0"
+updated = "2024-03-22T16:41:34Z"
+size = "2.68 MB"
+bsum = "1c21384e39711f6c725b05ade655659ace74a30c00dadc2b46154ed922ed68da"
+sha = "1ae0eaf1b44b193a5beb51091251bbd1b0e484fa8988b2f561a63e5a1b8ac606"
+source = "https://bin.ajam.dev/x86_64_Linux/rippkgs"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["rippkgs"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]
