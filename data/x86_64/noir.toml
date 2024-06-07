@@ -22,5 +22,5 @@ conflicts  = ["noir"]
 requires = []
 
 [package.metadata]
-keywords = ["attack-surface-detector","attack-surfaces","crystal","crystal-lang","devsecops","noir","pentesting","security"]
+keywords = ["attack-surface-detector","attack-surfaces","crystal","crystal-lang","devsecops","hacktoberfest","noir","pentesting","security"]
 categories = ["Utilities"]

@@ -14,7 +14,7 @@ size = "19.06 MB"
 bsum = "c8a25332aacf047f29e9b756f7798b2b730809e34859e0f9e61961924140bb34"
 sha = "d01ff908197aa32c856c2899c9f7a00cf6510c5a550bce43ed31aff2cf3fd910"
 source = "https://bin.ajam.dev/x86_64_Linux/gitpod"
-language = "TypeScript"
+language = "Java"
 license = "GNU Affero General Public License v3.0"
 
 [package.conditions]

@@ -7,7 +7,7 @@ name = "dalfox"
 description = "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation."
 author = "hahwul"
 repo = "https://github.com/hahwul/dalfox"
-stars = "3372"
+stars = "3373"
 version = "v2.9.2"
 updated = "2024-01-28T15:50:31Z"
 size = "25.02 MB"
@@ -22,5 +22,5 @@ conflicts  = ["dalfox"]
 requires = []
 
 [package.metadata]
-keywords = ["bugbounty","bugbounty-tool","cicd-pipeline","devsecops","golang","security","vulnerability","xss","xss-bruteforce","xss-detection","xss-exploit","xss-scanner"]
+keywords = ["bugbounty","bugbounty-tool","cicd-pipeline","devsecops","golang","hacktoberfest","security","vulnerability","xss","xss-bruteforce","xss-detection","xss-exploit","xss-scanner"]
 categories = ["Utilities"]
