@@ -4,7 +4,7 @@ name = "vproxy"
 [package]
 architecture = "x86_64"
 name = "vproxy"
-description = "An easy and powerful Rust HTTP/Socks5/HTTP2Socks5 Proxy server"
+description = "An easy and powerful Rust HTTP/Socks5/HTTP2Socks5 Proxy"
 author = "0x676e67"
 repo = "https://github.com/gngpp/vproxy"
 stars = "97"
