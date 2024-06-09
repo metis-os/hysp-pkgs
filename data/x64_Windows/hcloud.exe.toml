@@ -1,0 +1,26 @@
+[bin]
+name = "hcloud.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "hcloud.exe"
+description = "A command-line interface for Hetzner Cloud"
+author = "hetznercloud"
+repo = "https://github.com/hetznercloud/cli"
+stars = "1015"
+version = "v1.43.1"
+updated = "2024-04-22T06:59:31Z"
+size = "14.06 MB"
+bsum = "b64d445d90f8682bf4e9c303a9352c65c9283f3333a8108e9267257bc919f72f"
+sha = "19031697b8c4226329304e670e87fda29e9e5ac09fd1ebe21078ab0b57054984"
+source = "https://bin.ajam.dev/x64_Windows/hcloud.exe"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hcloud.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","commandline-interface","hcloud","hetzner","hetzner-cloud"]
+categories = ["Utilities"]
