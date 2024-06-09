@@ -492,26 +492,3 @@
 │ 919│ x8                               │ 928│ x8
 │ 920│ xargs                            │ 929│ xargs
 
-
-
-[+] x64_Windows
-
-│    │                                  │  1 │+7z
-│  1 │ 7z.exe                           │  2 │ 7z.exe
-│  2 │ actionlint.exe                   │  3 │ actionlint.exe
-│  3 │ age.exe                          │  4 │ age.exe
-│ 66 │ geoping.exe                      │ 67 │ geoping.exe
-│ 67 │ gix.exe                          │ 68 │ gix.exe
-│ 68 │ hashsum.exe                      │ 69 │ hashsum.exe
-│ 69 │-hcloud.exe                       │    │
-│ 70 │ head.exe                         │ 70 │ head.exe
-│ 71 │ hostname.exe                     │ 71 │ hostname.exe
-│ 72 │ hyperfine.exe                    │ 72 │ hyperfine.exe
-│ 135│ trurl.exe                        │ 135│ trurl.exe
-│ 136│ tsort.exe                        │ 136│ tsort.exe
-│ 137│ tssh.exe                         │ 137│ tssh.exe
-│ 138│-tusd.exe                         │    │
-│ 139│ uname.exe                        │ 138│ uname.exe
-│ 140│ unexpand.exe                     │ 139│ unexpand.exe
-│ 141│ uniq.exe                         │ 140│ uniq.exe
-
