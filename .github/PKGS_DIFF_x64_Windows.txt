@@ -1,2 +1,0 @@
-│ 69 │-hcloud.exe                       │    │
-│ 138│-tusd.exe                         │    │
