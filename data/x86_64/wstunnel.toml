@@ -7,7 +7,7 @@ name = "wstunnel"
 description = "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available"
 author = "erebe"
 repo = "https://github.com/erebe/wstunnel"
-stars = "3284"
+stars = "3287"
 version = "v9.6.2"
 updated = "2024-06-07T20:45:34Z"
 size = "10.28 MB"
@@ -15,7 +15,7 @@ bsum = "4381d223005a86feeff4473d9ae9891c0a1f55855308e8f9888345f8eaa1883b"
 sha = "3889ae80b0447c4e375e228f619f563b4104cd72ad96bff97bcde8e0368f4a79"
 source = "https://bin.ajam.dev/x86_64_Linux/wstunnel"
 language = "Rust"
-license = "Other"
+license = "BSD 3-Clause New or Revised License"
 
 [package.conditions]
 conflicts  = ["wstunnel"]
