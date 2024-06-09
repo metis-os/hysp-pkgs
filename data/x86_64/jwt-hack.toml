@@ -22,5 +22,5 @@ conflicts  = ["jwt-hack"]
 requires = []
 
 [package.metadata]
-keywords = ["bugbounty","cracking","hacking","jwt","payload-generator","security","testing-tools","tool"]
+keywords = ["bugbounty","cracking","hacking","hacktoberfest","jwt","payload-generator","security","testing-tools","tool"]
 categories = ["Utilities"]
