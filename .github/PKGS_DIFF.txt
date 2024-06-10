@@ -492,3 +492,40 @@
 │ 919│ x8                               │ 928│ x8
 │ 920│ xargs                            │ 929│ xargs
 
+
+
+[+] x64_Windows
+
+│    │                                  │  1 │+7z
+│  1 │ 7z.exe                           │  2 │ 7z.exe
+│  2 │ actionlint.exe                   │  3 │ actionlint.exe
+│  3 │ age.exe                          │  4 │ age.exe
+│ 79 │ link.exe                         │ 80 │ link.exe
+│ 80 │ ln.exe                           │ 81 │ ln.exe
+│ 81 │ loclx.exe                        │ 82 │ loclx.exe
+│ 82 │-logstation.exe                   │    │
+│ 83 │ ls.exe                           │ 83 │ ls.exe
+│ 84 │ micro.exe                        │ 84 │ micro.exe
+│ 85 │-miniooni.exe                     │    │
+│ 86 │ miniserve.exe                    │ 85 │ miniserve.exe
+│ 87 │ mkdir.exe                        │ 86 │ mkdir.exe
+│ 88 │ mktemp.exe                       │ 87 │ mktemp.exe
+│ 94 │ nproc.exe                        │ 93 │ nproc.exe
+│ 95 │ numfmt.exe                       │ 94 │ numfmt.exe
+│ 96 │ od.exe                           │ 95 │ od.exe
+│ 97 │-ooniprobe.exe                    │    │
+│ 98 │ pandoc.exe                       │ 96 │ pandoc.exe
+│ 99 │ paste.exe                        │ 97 │ paste.exe
+│ 100│ pdfcpu.exe                       │ 98 │ pdfcpu.exe
+│ 128│ sum.exe                          │ 126│ sum.exe
+│ 129│ sync.exe                         │ 127│ sync.exe
+│ 130│ tac.exe                          │ 128│ tac.exe
+│ 131│-taierspeed-cli.exe               │    │
+│ 132│ tail.exe                         │ 129│ tail.exe
+│ 133│ tee.exe                          │ 130│ tee.exe
+│ 134│ test.exe                         │ 131│ test.exe
+│ 153│ xargs.exe                        │ 150│ xargs.exe
+│ 154│ yes.exe                          │ 151│ yes.exe
+│ 155│ yt-dlp.exe                       │ 152│ yt-dlp.exe
+
+│ 156│-zfind.exe                        │    │

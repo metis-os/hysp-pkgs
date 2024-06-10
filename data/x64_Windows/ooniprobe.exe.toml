@@ -1,0 +1,26 @@
+[bin]
+name = "ooniprobe.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "ooniprobe.exe"
+description = "OONI Probe Engine and CLI"
+author = "ooni"
+repo = "https://github.com/ooni/probe-cli"
+stars = "217"
+version = "v3.22.0"
+updated = "2024-05-22T09:10:12Z"
+size = "53.28 MB"
+bsum = "3f63e9c43f841d8a7e74a8fc5573683a11fda11f11639935ee0fb0550eef02d2"
+sha = "3f3b3a4067c222f50a67b39f6cbfc531b8be0b9d6f0103d6a6cb02b4b4bcbf4a"
+source = "https://bin.ajam.dev/x64_Windows/ooniprobe.exe"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["ooniprobe.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

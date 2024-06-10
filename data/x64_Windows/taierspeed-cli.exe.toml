@@ -1,0 +1,26 @@
+[bin]
+name = "taierspeed-cli.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "taierspeed-cli.exe"
+description = "TaierSpeed CLI"
+author = "ztelliot"
+repo = "https://github.com/ztelliot/taierspeed-cli"
+stars = "102"
+version = "v1.7.0"
+updated = "2024-05-31T11:40:28Z"
+size = "8.2 MB"
+bsum = "8dba13dc7eb6e9da3bbe28e790cc42aab49696f221eafaeca31479987b261481"
+sha = "e91086166d715c9fee8fc8bdbd982cad899f67a7156337e50c622d56fe575349"
+source = "https://bin.ajam.dev/x64_Windows/taierspeed-cli.exe"
+language = "Go"
+license = "GNU Lesser General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["taierspeed-cli.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

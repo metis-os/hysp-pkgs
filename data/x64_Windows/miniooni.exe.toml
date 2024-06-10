@@ -1,0 +1,26 @@
+[bin]
+name = "miniooni.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "miniooni.exe"
+description = "OONI Probe Engine and CLI"
+author = "ooni"
+repo = "https://github.com/ooni/probe-cli"
+stars = "217"
+version = "v3.22.0"
+updated = "2024-05-22T09:10:12Z"
+size = "56.73 MB"
+bsum = "2dc778a0a0b0355bb537495f2afbd1bb06203ac083687921385590cf4a1a107c"
+sha = "feb9c67328cdb2d10c5c0b80bc9e1f9e2c844c1c01d6e25b28d3604a0aa4384d"
+source = "https://bin.ajam.dev/x64_Windows/miniooni.exe"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["miniooni.exe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]
