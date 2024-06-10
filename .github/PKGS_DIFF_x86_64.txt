@@ -1,5 +1,0 @@
-│ 82 │-logstation.exe                   │    │
-│ 85 │-miniooni.exe                     │    │
-│ 97 │-ooniprobe.exe                    │    │
-│ 131│-taierspeed-cli.exe               │    │
-│ 156│-zfind.exe                        │    │
