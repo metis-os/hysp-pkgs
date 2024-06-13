@@ -1,0 +1,26 @@
+[bin]
+name = "cobalt-cli"
+
+[package]
+architecture = "x86_64"
+name = "cobalt-cli"
+description = "Unofficial cobalt command line client made in go."
+author = "lostdusty"
+repo = "https://github.com/lostdusty/cobalt"
+stars = "34"
+version = "v1.0.6"
+updated = "2024-04-23T06:14:48Z"
+size = "6.38 MB"
+bsum = "309fb534cbe87217b97a46f7b4c91e93e1a37189a2ef223ceb3a7d22caa8ca6d"
+sha = "91326e88fdaf195c3697424b3d1faacaf2730ea5ed70a67e6a7b6a234d8a99b7"
+source = "https://bin.ajam.dev/x86_64_Linux/cobalt-cli"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cobalt-cli"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","cli-app","cobalt","cobalt-tools","download-videos","downloader","go","golang","instagram","reddit","soundcloud","terminal-based","twitter","youtube","youtube-downloader"]
+categories = ["Utilities"]

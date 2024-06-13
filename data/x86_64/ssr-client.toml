@@ -1,0 +1,26 @@
+[bin]
+name = "ssr-client"
+
+[package]
+architecture = "x86_64"
+name = "ssr-client"
+description = "✨ Rust 版 ServerStatus 探针、威力加强版"
+author = "zdz"
+repo = "https://github.com/zdz/ServerStatus-Rust"
+stars = "1632"
+version = "v1.8.1"
+updated = "2024-03-18T14:48:28Z"
+size = "9.11 MB"
+bsum = "180a41faa7d0d6ac064e6da64e3d731321925dd1aec59dbba4b258b4a1e43732"
+sha = "8ba2b7bc9fa248f05e32f95afc71feca077f12d0c1097a95c54d2edaa6f293ef"
+source = "https://bin.ajam.dev/x86_64_Linux/ssr-client"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ssr-client"]
+requires = []
+
+[package.metadata]
+keywords = ["probe","railway","rust","serverstatus","serverstatus-rust","telegram","vnstat","webhook","wechat"]
+categories = ["Utilities"]

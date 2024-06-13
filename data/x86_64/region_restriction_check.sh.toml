@@ -1,0 +1,26 @@
+[bin]
+name = "region_restriction_check.sh"
+
+[package]
+architecture = "x86_64"
+name = "region_restriction_check.sh"
+description = "A bash script to check the status of your IP on various geo-restricted services."
+author = "lmc999"
+repo = "https://github.com/lmc999/RegionRestrictionCheck"
+stars = "3775"
+version = "v1.0"
+updated = "2021-07-16T13:40:51Z"
+size = "291.18 kB"
+bsum = "72daa105280db7364a91910378b397bb232e5aabd4605c7fd0d63e66e78d3f91"
+sha = "203cd2ed32788bd714a39030601db961fe979b0045b69014ef35177841cfbd0a"
+source = "https://bin.ajam.dev/x86_64_Linux/region_restriction_check.sh"
+language = "Shell"
+license = "GNU Affero General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["region_restriction_check.sh"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

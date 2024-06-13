@@ -1,0 +1,26 @@
+[bin]
+name = "spipe"
+
+[package]
+architecture = "x86_64"
+name = "spipe"
+description = "Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses."
+author = "Tarsnap"
+repo = "https://github.com/Tarsnap/spiped"
+stars = "835"
+version = "1.6.2"
+updated = "2021-12-24T19:27:38Z"
+size = "3.84 MB"
+bsum = "a7900abb2b98ed148c82532af79d08b7a0a64e8ea0b1829a97909303572f0348"
+sha = "30218057d2965dbf7221f41acb3432f48dd9bc69744a1d5f1b91367573f26ca1"
+source = "https://bin.ajam.dev/x86_64_Linux/spipe"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["spipe"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

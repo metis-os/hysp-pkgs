@@ -1,0 +1,26 @@
+[bin]
+name = "xan"
+
+[package]
+architecture = "x86_64"
+name = "xan"
+description = "The CSV magician"
+author = "medialab"
+repo = "https://github.com/medialab/xan"
+stars = "40"
+version = "0.13.0"
+updated = ""
+size = "12.29 MB"
+bsum = "3afd34bd563ee9e521d600e7050b6cb76f405019a8f260534ba7116e2f5f5099"
+sha = "5dab25b78442aae5dc8139147156b8a840558d3fa9e5cf7b00146f1bd27a2f52"
+source = "https://bin.ajam.dev/x86_64_Linux/xan"
+language = "Rust"
+license = "The Unlicense"
+
+[package.conditions]
+conflicts  = ["xan"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","csv","rust"]
+categories = ["Utilities"]

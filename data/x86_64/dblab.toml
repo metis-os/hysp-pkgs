@@ -1,0 +1,26 @@
+[bin]
+name = "dblab"
+
+[package]
+architecture = "x86_64"
+name = "dblab"
+description = "The database client every command line junkie deserves."
+author = "danvergara"
+repo = "https://github.com/danvergara/dblab"
+stars = "1508"
+version = "v0.24.1"
+updated = "2024-06-10T14:02:39Z"
+size = "30.67 MB"
+bsum = "01f9df6e37989ed5bc6565bd586c85058dda9accff7a87acd604b6ffe403a96e"
+sha = "48239a316db5b6b30795616e6a6c26fd4023d453cab590339b9217b49f609701"
+source = "https://bin.ajam.dev/x86_64_Linux/dblab"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["dblab"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","client","developer-tools","development","golang","mysql","postgresql","tui"]
+categories = ["Utilities"]

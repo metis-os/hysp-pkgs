@@ -1,0 +1,26 @@
+[bin]
+name = "cdwe"
+
+[package]
+architecture = "x86_64"
+name = "cdwe"
+description = "⚡️(cd with env) Is a configurable cd wrapper that lets you define your environment per directory."
+author = "synoet"
+repo = "https://github.com/synoet/cdwe"
+stars = "38"
+version = "0.2.4"
+updated = "2023-08-07T01:43:18Z"
+size = "1.86 MB"
+bsum = "c39ff3141130f0fc60c04f4f2aef6847787526e06206bfd01127c2789a9af97e"
+sha = "dc130171a8698e1d0513035e1548ff14b4309cc8ee51ff05801b2e588c1b9844"
+source = "https://bin.ajam.dev/x86_64_Linux/cdwe"
+language = "Rust"
+license = ""
+
+[package.conditions]
+conflicts  = ["cdwe"]
+requires = []
+
+[package.metadata]
+keywords = ["bash","cd","cli","config","filesystem","fish","linux","rust","zsh"]
+categories = ["Utilities"]

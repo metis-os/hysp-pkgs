@@ -1,0 +1,26 @@
+[bin]
+name = "tusd"
+
+[package]
+architecture = "x86_64"
+name = "tusd"
+description = "Reference server implementation in Go of tus: the open protocol for resumable file uploads"
+author = "tus"
+repo = "https://github.com/tus/tusd"
+stars = "2907"
+version = "v2.4.0"
+updated = "2024-03-18T20:41:26Z"
+size = "26.11 MB"
+bsum = "ec7836d430b0ae828bb8d349e4545ad1451f69c22c68b7e4673fbfbaeaef0354"
+sha = "22a511b8676971a4e29381ac47cf3c8c5165626eeb9dcc707c67935d8821018c"
+source = "https://bin.ajam.dev/x86_64_Linux/tusd"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tusd"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

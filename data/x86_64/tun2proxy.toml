@@ -1,0 +1,26 @@
+[bin]
+name = "tun2proxy"
+
+[package]
+architecture = "x86_64"
+name = "tun2proxy"
+description = "Tunnel (TUN) interface for SOCKS and HTTP proxies"
+author = "tun2proxy"
+repo = "https://github.com/tun2proxy/tun2proxy"
+stars = "371"
+version = "v0.2.20"
+updated = "2024-05-26T02:57:46Z"
+size = "4.65 MB"
+bsum = "be3261177a1124ceb162f2a8807a251eef5768a098aca8658ae79c986e1ba192"
+sha = "f30945bc3898ee89975fa56141ea4424a85ffadfb352f830d9758f7e75f05538"
+source = "https://bin.ajam.dev/x86_64_Linux/tun2proxy"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["tun2proxy"]
+requires = []
+
+[package.metadata]
+keywords = ["http-proxy","proxy","tun2http","tun2proxy","tun2socks"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "serverstatus-gen-certs.sh"
+
+[package]
+architecture = "x86_64"
+name = "serverstatus-gen-certs.sh"
+description = "✨ Rust 版 ServerStatus 探针、威力加强版"
+author = "zdz"
+repo = "https://github.com/zdz/ServerStatus-Rust"
+stars = "1632"
+version = "v1.8.1"
+updated = "2024-03-18T14:48:28Z"
+size = "1076 B"
+bsum = "efee7ebf1f3f6a4d96f373b4114dd2034e8fa4fb0184423ea9f8127f5bf012bb"
+sha = "f99153c062388103dc133a83ffc57a3f4548f4a561bc4a207865c2d1de0ba884"
+source = "https://bin.ajam.dev/x86_64_Linux/serverstatus-gen-certs.sh"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["serverstatus-gen-certs.sh"]
+requires = []
+
+[package.metadata]
+keywords = ["probe","railway","rust","serverstatus","serverstatus-rust","telegram","vnstat","webhook","wechat"]
+categories = ["Utilities"]

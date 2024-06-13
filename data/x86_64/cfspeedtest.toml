@@ -1,0 +1,26 @@
+[bin]
+name = "cfspeedtest"
+
+[package]
+architecture = "x86_64"
+name = "cfspeedtest"
+description = "Unofficial CLI for speed.cloudflare.com"
+author = "code-inflation"
+repo = "https://github.com/code-inflation/cfspeedtest"
+stars = "43"
+version = "v1.2.4"
+updated = "2024-05-23T21:47:34Z"
+size = "5.17 MB"
+bsum = "1f184a9c4d5fc904ee99499ea127d975c1f8cf30df3036638e6abc57302b3ee9"
+sha = "abed9071be80654c6b70b6800f86c8f1fe40e3c4b6b4606072b272a1ca7bd7b2"
+source = "https://bin.ajam.dev/x86_64_Linux/cfspeedtest"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["cfspeedtest"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","cloudflare","rust","speedtest","speedtest-cli","speedtests"]
+categories = ["Utilities"]

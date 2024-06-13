@@ -1,0 +1,26 @@
+[bin]
+name = "findlargedir"
+
+[package]
+architecture = "x86_64"
+name = "findlargedir"
+description = "quickly find all blackhole directories with a huge amount of filesystem entries in a flat structure"
+author = "dkorunic"
+repo = "https://github.com/dkorunic/findlargedir"
+stars = "55"
+version = "0.6.5"
+updated = "2024-05-07T14:36:50Z"
+size = "1.88 MB"
+bsum = "492ce8337d958372f38f09b1e3d25c7b65d295c5c1326f817314a6bb0d5588db"
+sha = "72a50e44ee99337a62beacca0acc315eb424804b309d2c6841addb7885862d14"
+source = "https://bin.ajam.dev/x86_64_Linux/findlargedir"
+language = "Rust"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["findlargedir"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line-tool","filesystem","find","linux","macos","os","performance","performance-analysis","system-administration","unix","utility"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "logstation"
+
+[package]
+architecture = "x86_64"
+name = "logstation"
+description = "Tail log files in web browser"
+author = "jdrews"
+repo = "https://github.com/jdrews/logstation"
+stars = "78"
+version = "v2.2.1"
+updated = "2024-03-01T05:54:11Z"
+size = "13.78 MB"
+bsum = "3b37e2f2c832576ee3a909ec388f9f37cfea57bf9264665795be5cd39ab7579d"
+sha = "cd55b05e8d87987e993ecedbad4bf38f5328c56833f2f4e0a5fd6e10a4ec9c25"
+source = "https://bin.ajam.dev/x86_64_Linux/logstation"
+language = "Go"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["logstation"]
+requires = []
+
+[package.metadata]
+keywords = ["go","golang","log","logfile","logging","logs","react","reactjs","server","tail","tailing","webui"]
+categories = ["Utilities"]

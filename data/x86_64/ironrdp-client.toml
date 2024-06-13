@@ -1,0 +1,26 @@
+[bin]
+name = "ironrdp-client"
+
+[package]
+architecture = "x86_64"
+name = "ironrdp-client"
+description = "Rust implementation of the Microsoft Remote Desktop Protocol (RDP)"
+author = "Devolutions"
+repo = "https://github.com/Devolutions/IronRDP"
+stars = "330"
+version = "v0.4.2"
+updated = "2020-10-27T22:43:21Z"
+size = "19.11 MB"
+bsum = "fc6932139352ad8e77e2e781acd2f9fca391eec9b4a6eca6f6508f6063f95ecc"
+sha = "64e33010230ff7f53a12bc633b8e5023dbef84438bb45d0455f6e4e054fcb7ff"
+source = "https://bin.ajam.dev/x86_64_Linux/ironrdp-client"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ironrdp-client"]
+requires = []
+
+[package.metadata]
+keywords = ["architecture","rdp","rust"]
+categories = ["Utilities"]

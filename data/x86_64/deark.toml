@@ -1,0 +1,26 @@
+[bin]
+name = "deark"
+
+[package]
+architecture = "x86_64"
+name = "deark"
+description = "A utility for file format and metadata analysis, data extraction, decompression, and image format decoding"
+author = "jsummers"
+repo = "https://github.com/jsummers/deark"
+stars = "160"
+version = "v1.6.7"
+updated = "2024-04-30T13:20:40Z"
+size = "1.95 MB"
+bsum = "5e34e05665aa8db2760e2356e3a2227f6d62a0623bd7355f4ba231aa03af920c"
+sha = "abbd3d5370d60b420192671d38a4f73e5558e5e3319ba4a1081712dea6c41eac"
+source = "https://bin.ajam.dev/x86_64_Linux/deark"
+language = "C"
+license = "Other"
+
+[package.conditions]
+conflicts  = ["deark"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

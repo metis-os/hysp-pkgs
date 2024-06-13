@@ -1,0 +1,26 @@
+[bin]
+name = "libaws"
+
+[package]
+architecture = "x86_64"
+name = "libaws"
+description = "aws should be easy"
+author = "nathants"
+repo = "https://github.com/nathants/libaws"
+stars = "441"
+version = ""
+updated = ""
+size = "22.82 MB"
+bsum = "d70d2a941309d777ee2cfc1c7ba023a2e3fce870470108c6b4ec5065cffcf9f0"
+sha = "ebcbd6e3d3ecbc79d762d880b042edbe8f554d1ceae60536823d0801a383aec5"
+source = "https://bin.ajam.dev/x86_64_Linux/libaws"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["libaws"]
+requires = []
+
+[package.metadata]
+keywords = ["aws","golang","lambda","serverless"]
+categories = ["Utilities"]

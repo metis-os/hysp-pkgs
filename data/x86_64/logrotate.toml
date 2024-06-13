@@ -1,0 +1,26 @@
+[bin]
+name = "logrotate"
+
+[package]
+architecture = "x86_64"
+name = "logrotate"
+description = "The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files."
+author = "logrotate"
+repo = "https://github.com/logrotate/logrotate"
+stars = "1207"
+version = "3.22.0"
+updated = "2024-06-01T15:44:54Z"
+size = "363.11 kB"
+bsum = "21324c1b8ff1147232f9efdd54c8a5ffc5bd2151eaf0dd4a13e03e23a61b2a5e"
+sha = "bb1f95e6bf50c384ddec6ae412e681f37b3a06acd919ab7c8b617c2c89f7c4dc"
+source = "https://bin.ajam.dev/x86_64_Linux/logrotate"
+language = "C"
+license = "GNU General Public License v2.0"
+
+[package.conditions]
+conflicts  = ["logrotate"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

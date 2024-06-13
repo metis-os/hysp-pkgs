@@ -1,0 +1,26 @@
+[bin]
+name = "pwait"
+
+[package]
+architecture = "x86_64"
+name = "pwait"
+description = "Small utility to wait for a process to finish"
+author = "diazona"
+repo = "https://github.com/diazona/pwait"
+stars = "16"
+version = ""
+updated = ""
+size = "75.23 kB"
+bsum = "61c75c478057eb781127dc22f53b31da61ae099c317f26bef175c0847db67624"
+sha = "760687f0a7683e2192b6db991af37a0a9c7f44550c5c31c2b39e53ff05b6329a"
+source = "https://bin.ajam.dev/x86_64_Linux/pwait"
+language = "C"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["pwait"]
+requires = []
+
+[package.metadata]
+keywords = ["linux","polling","process-monitor","ptrace","wait"]
+categories = ["Utilities"]

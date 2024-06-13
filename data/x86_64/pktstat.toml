@@ -1,0 +1,26 @@
+[bin]
+name = "pktstat"
+
+[package]
+architecture = "x86_64"
+name = "pktstat"
+description = "Simple ethernet interface traffic monitor and reporting tool"
+author = "dkorunic"
+repo = "https://github.com/dkorunic/pktstat"
+stars = "66"
+version = "v0.0.5"
+updated = "2024-03-28T09:04:47Z"
+size = "11.34 MB"
+bsum = "45470ee8bc981522fa3207cbf088db927ff36c5a6480581704a8bb5e1704ce9a"
+sha = "6f22e2133ff1b5d67bd52140cd1f632eccef3e8d1aa215d141a029bb755b644f"
+source = "https://bin.ajam.dev/x86_64_Linux/pktstat"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["pktstat"]
+requires = []
+
+[package.metadata]
+keywords = ["linux","networking","packet","packet-capture","terminal","unix"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "bin2video"
+
+[package]
+architecture = "x86_64"
+name = "bin2video"
+description = "Tool for encoding files as videos"
+author = "pixelomer"
+repo = "https://github.com/pixelomer/bin2video"
+stars = "42"
+version = ""
+updated = ""
+size = "69.98 kB"
+bsum = "275fa8b90c2e3f96f02fdb8c6bbc5b60d0ad068b1f659f11f41758e0667d98ea"
+sha = "da3cfae04a0f6f74889bb6f7d78a79e73890606dda62c11562545f27f919fc1f"
+source = "https://bin.ajam.dev/x86_64_Linux/bin2video"
+language = "C"
+license = ""
+
+[package.conditions]
+conflicts  = ["bin2video"]
+requires = []
+
+[package.metadata]
+keywords = ["encoding","ffmpeg","file-storage","infinite-storage-glitch"]
+categories = ["Utilities"]

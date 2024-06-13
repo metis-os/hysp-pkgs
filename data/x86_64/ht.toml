@@ -1,0 +1,26 @@
+[bin]
+name = "ht"
+
+[package]
+architecture = "x86_64"
+name = "ht"
+description = "headless terminal - wrap any binary with a terminal interface for easy programmatic access."
+author = "andyk"
+repo = "https://github.com/andyk/ht"
+stars = "700"
+version = "v0.1.1"
+updated = "2024-04-10T13:52:45Z"
+size = "1.04 MB"
+bsum = "186b1300cea04030ca09a40731a81a65aebca1fc22bb38a8251a22ea48c5dd5d"
+sha = "1dae5091751d4839918763123896c1dd5e558e659a3d4b6931f1acaf009b13e0"
+source = "https://bin.ajam.dev/x86_64_Linux/ht"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["ht"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

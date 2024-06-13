@@ -1,0 +1,26 @@
+[bin]
+name = "agg-tunnel"
+
+[package]
+architecture = "x86_64"
+name = "agg-tunnel"
+description = "Aggregates multiple links (TCP, Bluetooth, USB or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links."
+author = "surban"
+repo = "https://github.com/surban/aggligator"
+stars = "117"
+version = "util-v0.15.0"
+updated = "2024-04-29T17:12:27Z"
+size = "4.99 MB"
+bsum = "894d605c47a04d93bf89f6f198be595336ad7ec77273f9997b3b8ccdd9307e46"
+sha = "875d82c46ba1c83cdbe07a7d824f3ac1fe623441ba197eec5db03917f3690a5b"
+source = "https://bin.ajam.dev/x86_64_Linux/agg-tunnel"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["agg-tunnel"]
+requires = []
+
+[package.metadata]
+keywords = ["aggregator","bluetooth","connection","link","mptcp","multi-link","multipath","redundant","resilient","rfcomm","tcp","usb"]
+categories = ["Utilities"]

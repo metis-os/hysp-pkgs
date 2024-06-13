@@ -1,0 +1,26 @@
+[bin]
+name = "cfspeed"
+
+[package]
+architecture = "x86_64"
+name = "cfspeed"
+description = "Unofficial CLI-based implementation of https://speed.cloudflare.com/"
+author = "makotom"
+repo = "https://github.com/makotom/cfspeed"
+stars = "16"
+version = "0.2.868-f7ec890"
+updated = "2024-05-26T05:35:01Z"
+size = "6.98 MB"
+bsum = "161639eadcfba7fa7c98b12a2a7c100607a1b1b58e8cfe63092f9e3656c95ff2"
+sha = "0a7114c8303a0e4796f975a4e13dc5fac230cdfcc36080895fdbac3a27dd216a"
+source = "https://bin.ajam.dev/x86_64_Linux/cfspeed"
+language = "Go"
+license = ""
+
+[package.conditions]
+conflicts  = ["cfspeed"]
+requires = []
+
+[package.metadata]
+keywords = [""]
+categories = ["Utilities"]

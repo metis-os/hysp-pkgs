@@ -1,0 +1,26 @@
+[bin]
+name = "mdp"
+
+[package]
+architecture = "x86_64"
+name = "mdp"
+description = "A command-line based markdown presentation tool."
+author = "visit1985"
+repo = "https://github.com/visit1985/mdp"
+stars = "4902"
+version = "1.0.15"
+updated = "2018-10-03T22:04:48Z"
+size = "306.67 kB"
+bsum = "af650857186e816ee806b4ef3210136ea934375342c36097286063d586d72e06"
+sha = "76c18a613605b5ad5c8447304c47a09159e71d9853223b0dcb17430957fc6ac8"
+source = "https://bin.ajam.dev/x86_64_Linux/mdp"
+language = "C"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["mdp"]
+requires = []
+
+[package.metadata]
+keywords = ["command-line","markdown","presentation"]
+categories = ["Utilities"]

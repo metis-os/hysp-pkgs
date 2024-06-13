@@ -1,0 +1,26 @@
+[bin]
+name = "hcloud"
+
+[package]
+architecture = "x86_64"
+name = "hcloud"
+description = "A command-line interface for Hetzner Cloud"
+author = "hetznercloud"
+repo = "https://github.com/hetznercloud/cli"
+stars = "1015"
+version = "v1.43.1"
+updated = "2024-04-22T06:59:31Z"
+size = "12.38 MB"
+bsum = "27b4ed7c1e800e9591f03f4360dd96c7ed948002d7b83acafad255134526faff"
+sha = "aaa0b5b4bfe4b4401f74bf01a0661c193ca670e8f820d9e4a2e63162f763e90c"
+source = "https://bin.ajam.dev/x86_64_Linux/hcloud"
+language = "Go"
+license = "MIT License"
+
+[package.conditions]
+conflicts  = ["hcloud"]
+requires = []
+
+[package.metadata]
+keywords = ["cli","command-line","command-line-tool","commandline-interface","hcloud","hetzner","hetzner-cloud"]
+categories = ["Utilities"]

@@ -1,0 +1,26 @@
+[bin]
+name = "agg-speed"
+
+[package]
+architecture = "x86_64"
+name = "agg-speed"
+description = "Aggregates multiple links (TCP, Bluetooth, USB or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links."
+author = "surban"
+repo = "https://github.com/surban/aggligator"
+stars = "117"
+version = "util-v0.15.0"
+updated = "2024-04-29T17:12:27Z"
+size = "11.26 MB"
+bsum = "3393525e6a5ff6aa79bad23818fef992b243e79b509090b62403b258a307b475"
+sha = "4f22a33bee429f4158bd2063488dc2b26b467171f90533e3b2533199ff3eded5"
+source = "https://bin.ajam.dev/x86_64_Linux/agg-speed"
+language = "Rust"
+license = "Apache License 2.0"
+
+[package.conditions]
+conflicts  = ["agg-speed"]
+requires = []
+
+[package.metadata]
+keywords = ["aggregator","bluetooth","connection","link","mptcp","multi-link","multipath","redundant","resilient","rfcomm","tcp","usb"]
+categories = ["Utilities"]
