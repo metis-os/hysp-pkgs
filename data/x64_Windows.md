@@ -2,7 +2,7 @@
 - **Description:** 7-Zip
 - **Author:** ip7z
 - **Repository:** [https://github.com/ip7z/7zip](https://github.com/ip7z/7zip)
-- **Stars:** 370
+- **Stars:** 372
 - **Version:** 24.06
 - **Updated:** 2024-05-27T07:50:07Z
 - **Size:** 1.32 MB
@@ -50,7 +50,7 @@
 - **Description:** A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - **Author:** FiloSottile
 - **Repository:** [https://github.com/FiloSottile/age](https://github.com/FiloSottile/age)
-- **Stars:** 15542
+- **Stars:** 15544
 - **Version:** v1.1.1
 - **Updated:** 2022-12-26T20:39:07Z
 - **Size:** 3.88 MB
@@ -82,7 +82,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 38854
+- **Stars:** 38855
 - **Version:** v3.35.0
 - **Updated:** 2024-05-23T12:18:15Z
 - **Size:** 76.47 MB
@@ -226,7 +226,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 47258
+- **Stars:** 47261
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -242,7 +242,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 47258
+- **Stars:** 47261
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -386,7 +386,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 8300
+- **Stars:** 8301
 - **Version:** 2024.6.0
 - **Updated:** 2024-06-03T20:16:31Z
 - **Size:** 27.01 MB
@@ -466,7 +466,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 26663
+- **Stars:** 26665
 - **Version:** v10.0.8
 - **Updated:** 2024-06-06T17:23:10Z
 - **Size:** 8.69 MB
@@ -738,7 +738,7 @@
 - **Description:** A more intuitive version of du in rust
 - **Author:** bootandy
 - **Repository:** [https://github.com/bootandy/dust](https://github.com/bootandy/dust)
-- **Stars:** 7980
+- **Stars:** 7979
 - **Version:** v1.0.0
 - **Updated:** 2024-03-25T22:44:47Z
 - **Size:** 2.79 MB
@@ -898,7 +898,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 7419
+- **Stars:** 7425
 - **Version:** 2.15.0
 - **Updated:** 2024-06-07T04:07:14Z
 - **Size:** 1.4 MB
@@ -978,7 +978,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 7419
+- **Stars:** 7425
 - **Version:** 2.15.0
 - **Updated:** 2024-06-07T04:07:14Z
 - **Size:** 1.24 MB
@@ -1154,7 +1154,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 20506
+- **Stars:** 20508
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1346,7 +1346,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 24226
+- **Stars:** 24229
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.88 MB
@@ -1666,7 +1666,7 @@
 - **Description:** Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - **Author:** esrrhs
 - **Repository:** [https://github.com/esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel)
-- **Stars:** 2945
+- **Stars:** 2946
 - **Version:** 2.8
 - **Updated:** 2023-11-29T03:52:00Z
 - **Size:** 8.98 MB
@@ -1922,7 +1922,7 @@
 - **Description:** The universal proxy platform
 - **Author:** SagerNet
 - **Repository:** [https://github.com/SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-- **Stars:** 14761
+- **Stars:** 14763
 - **Version:** v1.9.3
 - **Updated:** 2024-06-09T09:30:50Z
 - **Size:** 30.72 MB
@@ -2482,7 +2482,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 74292
+- **Stars:** 74300
 - **Version:** 2024.05.27
 - **Updated:** 2024-05-27T22:42:09Z
 - **Size:** 173.06 kB
