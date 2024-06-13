@@ -678,3 +678,12 @@
 │1000│ zgrab2                           │ 975│ zgrab2
 │1001│ zigup                            │ 976│ zigup
 
+
+
+[+] x64_Windows
+
+│    │                                  │  1 │+7z
+│  1 │ 7z.exe                           │  2 │ 7z.exe
+│  2 │ actionlint.exe                   │  3 │ actionlint.exe
+│  3 │ age.exe                          │  4 │ age.exe
+
