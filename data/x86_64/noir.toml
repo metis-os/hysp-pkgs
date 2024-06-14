@@ -7,7 +7,7 @@ name = "noir"
 description = "Attack surface detector that identifies endpoints by static analysis"
 author = "noir-cr"
 repo = "https://github.com/hahwul/noir"
-stars = "515"
+stars = "516"
 version = "v0.16.0"
 updated = "2024-06-08T08:14:10Z"
 size = "10.35 MB"
@@ -22,5 +22,5 @@ conflicts  = ["noir"]
 requires = []
 
 [package.metadata]
-keywords = ["attack-surface-detector","attack-surfaces","crystal","crystal-lang","devsecops","hacktoberfest","noir","pentesting","security"]
+keywords = ["attack-surface-detector","attack-surfaces","crystal","crystal-lang","devsecops","hacktoberfest","noir","owasp","owasp-noir","pentesting","security"]
 categories = ["Utilities"]
