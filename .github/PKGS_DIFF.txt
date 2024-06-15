@@ -492,19 +492,3 @@
 │ 951│ x8                               │ 960│ x8
 │ 952│ xan                              │ 961│ xan
 
-
-
-[+] x64_Windows
-
-│    │                                  │  1 │+7z
-│  1 │ 7z.exe                           │  2 │ 7z.exe
-│  2 │ actionlint.exe                   │  3 │ actionlint.exe
-│  3 │ age.exe                          │  4 │ age.exe
-│ 100│ pdfcpu.exe                       │ 101│ pdfcpu.exe
-│ 101│ pgrok.exe                        │ 102│ pgrok.exe
-│ 102│ pgrokd.exe                       │ 103│ pgrokd.exe
-│ 103│-picocrypt-gui.exe                │    │
-│ 104│ pingmole.exe                     │ 104│ pingmole.exe
-│ 105│ pingtunnel.exe                   │ 105│ pingtunnel.exe
-│ 106│ pr.exe                           │ 106│ pr.exe
-
