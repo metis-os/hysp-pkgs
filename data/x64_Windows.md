@@ -82,7 +82,7 @@
 - **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **Author:** alist-org
 - **Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
-- **Stars:** 38911
+- **Stars:** 38918
 - **Version:** v3.35.0
 - **Updated:** 2024-05-23T12:18:15Z
 - **Size:** 76.47 MB
@@ -226,7 +226,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 47297
+- **Stars:** 47304
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -242,7 +242,7 @@
 - **Description:** A cat(1) clone with wings.
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
-- **Stars:** 47297
+- **Stars:** 47304
 - **Version:** v0.24.0
 - **Updated:** 2023-10-11T18:20:46Z
 - **Size:** 6.32 MB
@@ -274,7 +274,7 @@
 - **Description:** A cross-platform programmable network tool
 - **Author:** txthinking
 - **Repository:** [https://github.com/txthinking/brook](https://github.com/txthinking/brook)
-- **Stars:** 14344
+- **Stars:** 14345
 - **Version:** v20240606
 - **Updated:** 2024-05-10T09:51:53Z
 - **Size:** 20.63 MB
@@ -386,7 +386,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 - **Author:** cloudflare
 - **Repository:** [https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-- **Stars:** 8311
+- **Stars:** 8314
 - **Version:** 2024.6.0
 - **Updated:** 2024-06-03T20:16:31Z
 - **Size:** 27.01 MB
@@ -466,7 +466,7 @@
 - **Description:** Easily and securely send things from one computer to another :crocodile: :package:
 - **Author:** schollz
 - **Repository:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- **Stars:** 26673
+- **Stars:** 26675
 - **Version:** v10.0.8
 - **Updated:** 2024-06-06T17:23:10Z
 - **Size:** 8.69 MB
@@ -594,7 +594,7 @@
 - **Description:** Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - **Author:** jeessy2
 - **Repository:** [https://github.com/jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)
-- **Stars:** 10175
+- **Stars:** 10181
 - **Version:** v6.6.2
 - **Updated:** 2024-06-13T14:37:15Z
 - **Size:** 9.51 MB
@@ -706,7 +706,7 @@
 - **Description:** View disk space usage and delete unwanted data, fast.
 - **Author:** Byron
 - **Repository:** [https://github.com/Byron/dua-cli](https://github.com/Byron/dua-cli)
-- **Stars:** 3623
+- **Stars:** 3625
 - **Version:** v2.29.0
 - **Updated:** 2024-03-10T07:28:39Z
 - **Size:** 1.56 MB
@@ -722,7 +722,7 @@
 - **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
 - **Author:** sigoden
 - **Repository:** [https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-- **Stars:** 5166
+- **Stars:** 5167
 - **Version:** v0.41.0
 - **Updated:** 2024-05-22T03:27:23Z
 - **Size:** 3.63 MB
@@ -738,7 +738,7 @@
 - **Description:** A more intuitive version of du in rust
 - **Author:** bootandy
 - **Repository:** [https://github.com/bootandy/dust](https://github.com/bootandy/dust)
-- **Stars:** 7985
+- **Stars:** 7987
 - **Version:** v1.0.0
 - **Updated:** 2024-03-25T22:44:47Z
 - **Size:** 2.79 MB
@@ -786,7 +786,7 @@
 - **Description:**  safe pure Rust implementation of Git
 - **Author:** Byron
 - **Repository:** [https://github.com/Byron/gitoxide](https://github.com/Byron/gitoxide)
-- **Stars:** 8240
+- **Stars:** 8254
 - **Version:** gix-glob-v0.16.3
 - **Updated:** 2024-05-28T20:01:46Z
 - **Size:** 9.17 MB
@@ -898,7 +898,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 7471
+- **Stars:** 7476
 - **Version:** 2.15.0
 - **Updated:** 2024-06-07T04:07:14Z
 - **Size:** 1.4 MB
@@ -978,7 +978,7 @@
 - **Description:** Like neofetch, but much faster because written mostly in C.
 - **Author:** fastfetch-cli
 - **Repository:** [https://github.com/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- **Stars:** 7471
+- **Stars:** 7476
 - **Version:** 2.15.0
 - **Updated:** 2024-06-07T04:07:14Z
 - **Size:** 1.24 MB
@@ -1026,7 +1026,7 @@
 - **Description:** Fast disk usage analyzer with console interface written in Go
 - **Author:** dundee
 - **Repository:** [https://github.com/dundee/gdu](https://github.com/dundee/gdu)
-- **Stars:** 3383
+- **Stars:** 3385
 - **Version:** v5.28.0
 - **Updated:** 2024-04-21T10:13:08Z
 - **Size:** 14.23 MB
@@ -1074,7 +1074,7 @@
 - **Description:**  safe pure Rust implementation of Git
 - **Author:** Byron
 - **Repository:** [https://github.com/Byron/gitoxide](https://github.com/Byron/gitoxide)
-- **Stars:** 8240
+- **Stars:** 8254
 - **Version:** gix-glob-v0.16.3
 - **Updated:** 2024-05-28T20:01:46Z
 - **Size:** 18.42 MB
@@ -1154,7 +1154,7 @@
 - **Description:** A command-line benchmarking tool
 - **Author:** sharkdp
 - **Repository:** [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-- **Stars:** 20529
+- **Stars:** 20532
 - **Version:** v1.18.0
 - **Updated:** 2023-10-05T08:07:11Z
 - **Size:** 1.33 MB
@@ -1218,7 +1218,7 @@
 - **Description:** Command-line JSON processor
 - **Author:** jqlang
 - **Repository:** [https://github.com/jqlang/jq](https://github.com/jqlang/jq)
-- **Stars:** 29386
+- **Stars:** 29389
 - **Version:** jq-1.7.1
 - **Updated:** 2023-12-13T19:56:17Z
 - **Size:** 985.09 kB
@@ -1346,7 +1346,7 @@
 - **Description:** A modern and intuitive terminal-based text editor
 - **Author:** zyedidia
 - **Repository:** [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
-- **Stars:** 24243
+- **Stars:** 24246
 - **Version:** v2.0.13
 - **Updated:** 2023-10-21T22:38:29Z
 - **Size:** 11.88 MB
@@ -1426,7 +1426,7 @@
 - **Description:** ⬛️ CLI tool for saving complete web pages as a single HTML file
 - **Author:** Y2Z
 - **Repository:** [https://github.com/Y2Z/monolith](https://github.com/Y2Z/monolith)
-- **Stars:** 10255
+- **Stars:** 10258
 - **Version:** v2.8.1
 - **Updated:** 2024-01-14T02:04:26Z
 - **Size:** 5.25 MB
@@ -1570,7 +1570,7 @@
 - **Description:** Universal markup converter
 - **Author:** jgm
 - **Repository:** [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
-- **Stars:** 32962
+- **Stars:** 32963
 - **Version:** 3.2
 - **Updated:** 2024-05-11T21:11:19Z
 - **Size:** 159.3 MB
@@ -1643,6 +1643,22 @@
 - **Source:** https://bin.ajam.dev/x64_Windows/pgrokd.exe
 - **Language:** Go
 - **License:** MIT License
+
+---
+
+### picocrypt-gui.exe
+- **Description:** A very small, very simple, yet very secure encryption tool.
+- **Author:** Picocrypt
+- **Repository:** [https://github.com/Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt)
+- **Stars:** 41
+- **Version:** 
+- **Updated:** 
+- **Size:** 8.48 MB
+- **SHA256SUM:** d7339a0578ac65ee425fbda0e70833a75d80f60cf1f25d009063d4ecc23234e9
+- **B3SUM:** cdeb1d21a4cded8902f0eb140cb12157391dcda07492ccc0a640c0503b5cd209
+- **Source:** https://bin.ajam.dev/x64_Windows/picocrypt-gui.exe
+- **Language:** Go
+- **License:** GNU General Public License v3.0
 
 ---
 
@@ -1810,7 +1826,7 @@
 - **Description:** ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - **Author:** BurntSushi
 - **Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- **Stars:** 45814
+- **Stars:** 45819
 - **Version:** 14.1.0
 - **Updated:** 2024-01-06T19:41:59Z
 - **Size:** 5.33 MB
@@ -1922,7 +1938,7 @@
 - **Description:** The universal proxy platform
 - **Author:** SagerNet
 - **Repository:** [https://github.com/SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-- **Stars:** 14812
+- **Stars:** 14823
 - **Version:** v1.9.3
 - **Updated:** 2024-06-09T09:30:50Z
 - **Size:** 30.72 MB
@@ -1938,7 +1954,7 @@
 - **Description:** HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - **Author:** antoniomika
 - **Repository:** [https://github.com/antoniomika/sish](https://github.com/antoniomika/sish)
-- **Stars:** 3813
+- **Stars:** 3815
 - **Version:** v2.16.0
 - **Updated:** 2024-05-28T16:21:51Z
 - **Size:** 20.42 MB
@@ -1970,7 +1986,7 @@
 - **Description:** A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 - **Author:** mokeyish
 - **Repository:** [https://github.com/mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs)
-- **Stars:** 490
+- **Stars:** 491
 - **Version:** v0.8.4
 - **Updated:** 2024-06-08T14:28:39Z
 - **Size:** 8.97 MB
@@ -2100,7 +2116,7 @@
 - **Repository:** [https://github.com/ztelliot/taierspeed-cli](https://github.com/ztelliot/taierspeed-cli)
 - **Stars:** 104
 - **Version:** v1.7.1
-- **Updated:** 2024-06-14T01:48:11Z
+- **Updated:** 2024-06-15T04:42:23Z
 - **Size:** 8.36 MB
 - **SHA256SUM:** 15572bb892f04783ce043d60bbe84e7549409a651962254b8cbf1a2d97f1c106
 - **B3SUM:** dc3edd7b0285f651d65fdf828a9e0c54028bcecee20e5f1397a6f98903b56e7f
@@ -2274,7 +2290,7 @@
 - **Description:** Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - **Author:** tus
 - **Repository:** [https://github.com/tus/tusd](https://github.com/tus/tusd)
-- **Stars:** 2913
+- **Stars:** 2914
 - **Version:** v2.4.0
 - **Updated:** 2024-03-18T20:41:26Z
 - **Size:** 30.2 MB
@@ -2482,7 +2498,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 - **Author:** yt-dlp
 - **Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- **Stars:** 74416
+- **Stars:** 74441
 - **Version:** 2024.05.27
 - **Updated:** 2024-05-27T22:42:09Z
 - **Size:** 173.06 kB
@@ -2498,7 +2514,7 @@
 - **Description:** search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
 - **Author:** laktak
 - **Repository:** [https://github.com/laktak/zfind](https://github.com/laktak/zfind)
-- **Stars:** 274
+- **Stars:** 275
 - **Version:** v0.4.3
 - **Updated:** 2024-06-12T19:19:50Z
 - **Size:** 8.22 MB

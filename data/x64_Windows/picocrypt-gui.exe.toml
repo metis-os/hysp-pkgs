@@ -1,0 +1,26 @@
+[bin]
+name = "picocrypt-gui.exe"
+
+[package]
+architecture = "x64_Windows"
+name = "picocrypt-gui.exe"
+description = "A very small, very simple, yet very secure encryption tool."
+author = "Picocrypt"
+repo = "https://github.com/Picocrypt/Picocrypt"
+stars = "41"
+version = ""
+updated = ""
+size = "8.48 MB"
+bsum = "cdeb1d21a4cded8902f0eb140cb12157391dcda07492ccc0a640c0503b5cd209"
+sha = "d7339a0578ac65ee425fbda0e70833a75d80f60cf1f25d009063d4ecc23234e9"
+source = "https://bin.ajam.dev/x64_Windows/picocrypt-gui.exe"
+language = "Go"
+license = "GNU General Public License v3.0"
+
+[package.conditions]
+conflicts  = ["picocrypt-gui.exe"]
+requires = []
+
+[package.metadata]
+keywords = ["argon2","blake2b","cryptography","encryption","file-encryption","golang","password","portable","privacy","privacy-tools","reed-solomon","security","security-tools","serpent","sha3","xchacha20"]
+categories = ["Utilities"]
