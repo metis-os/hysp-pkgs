@@ -2,7 +2,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 51527
+- **Stars:** 51531
 - **Version:** v0.2.63
 - **Updated:** 2024-06-01T02:21:41Z
 - **Size:** 17.42 MB
@@ -38,8 +38,8 @@
 - **Version:** v1.30.0
 - **Updated:** 2024-06-07T10:54:58Z
 - **Size:** 168.81 kB
-- **SHASUM:** 4aa63d135a618ce82097070233fb236e40c49e7eeddab07902d4e54e9c38eb97
-- **B3SUM:** 2ccfd16884f619c347086b364065e8cbcec336567429e23ce0c30e1a87ccf1f4
+- **SHASUM:** 4a19989705824e7167003c221e97362a4ba36d6282522496241458a95d51a36a
+- **B3SUM:** 6c05479169ad6d17829ddd3ab0e260f0f848c4bb199426643410490e1adc209a
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/adig
 - **Language:** C
 - **License:** Other
@@ -53,9 +53,9 @@
 - **Stars:** 11
 - **Version:** v0.1.0
 - **Updated:** 2023-11-23T16:11:10Z
-- **Size:** 931.14 kB
-- **SHASUM:** 433c042dcfc1a02d76770c3f3ca05ff796961f33c11b4e16f5ee921211524e3c
-- **B3SUM:** 6d52292962465c752573a3e76e43fe29fada65836ec96a3f58e757f4ac5881c6
+- **Size:** 943.82 kB
+- **SHASUM:** c626c0eb9b35a9d4afff78cddb63c53445f441d97c18efd3d45294bab8686f05
+- **B3SUM:** 0025e63f6fd76d566440e0814be7ed33928a2719151182064e146015dcd6fae4
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/anew-rs
 - **Language:** Rust
 - **License:** MIT License
@@ -70,8 +70,8 @@
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 9.3 MB
-- **SHASUM:** 0b8d5ac87d1852a18ab93a906648529712b991ca7aaa9ee87172f10479577bd7
-- **B3SUM:** d2f08aa8acb40a0a592141167c1515ba5f65f4d2e9bb678b0435acace8a45791
+- **SHASUM:** 7885ea843f4029f871e457b56a2f5327d6a24c279c84d64d84fae1eb05e9e31e
+- **B3SUM:** 484a990ba0d32a75dc1362d52cc0fad85e0e1f9da5ce5f614e9dea51ea47015c
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/aria2c
 - **Language:** C++
 - **License:** GNU General Public License v2.0
@@ -86,8 +86,8 @@
 - **Version:** 
 - **Updated:** 
 - **Size:** 3.76 MB
-- **SHASUM:** f9d2585cf08512b5e675bb185ecfc4f8cbed88d4ddee053bdaa71de5a6361cb6
-- **B3SUM:** d9a21b94964509f8338aa5d0a4dc0085345984792984f6398d071c0cdb18c408
+- **SHASUM:** c57df8b745e6105a8e95b0207842dfe5ab86c46305130a9549101558e6ec4a7f
+- **B3SUM:** a7c71d168460496f1766e0dddc243a2d29c725d174e538ce3d2d053367e59af7
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/axel
 - **Language:** 
 - **License:** 
@@ -102,8 +102,8 @@
 - **Version:** 
 - **Updated:** 
 - **Size:** 1.78 MB
-- **SHASUM:** b6d7b192b59469fdd312bd20c094ab7060283e595bf22a962fd005874aad18f2
-- **B3SUM:** 0b2a35a5d168a3feee11fade0bb981575f58cd212adc50b115838b90b2bc7107
+- **SHASUM:** 8b07b1a41c14c50c821f157569d3c222d27945015d6205e568ec14d149e3bfd6
+- **B3SUM:** 95ee10c903c4c9db88e10bdc5894aef56979ae65d1992c5c615828b7a03d3b88
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/bash
 - **Language:** 
 - **License:** 
@@ -117,9 +117,9 @@
 - **Stars:** 7
 - **Version:** 1.6.8
 - **Updated:** 2024-06-13T15:51:43Z
-- **Size:** 5.97 MB
-- **SHASUM:** 94faad46801738fcdc46ae5a7f2618879d9a9fce4fb4d856d47d4987e632eb7e
-- **B3SUM:** d46b1198a1ede13ca67269929b5bc17e667fa3ea538def9d142eed01fbb83ad9
+- **Size:** 6.69 MB
+- **SHASUM:** fb7206cd0d5eb3f90be51b933c74cb984502c4c54098e5a1704ca81169226016
+- **B3SUM:** 08ef6eb20c786262c6be4f64f7dedd3fcac7965554d18d17b6d55b2327786cdf
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/bigdl
 - **Language:** Go
 - **License:** Other
@@ -130,12 +130,12 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34628
+- **Stars:** 34629
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 5.31 MB
-- **SHASUM:** 2dc93fd33b1b43d2d1ff4801285b4171d6c952b04b152b6dfff2a63132ed4889
-- **B3SUM:** 65327876eb08e74fa539cf617d49be9647cd5aa4c2ab79d972bdeb5aa41924cd
+- **SHASUM:** 30b17a6eca56dfff6ec2852b1bf31e1e98b1f0179e7470c8cd789741d58759eb
+- **B3SUM:** 1a6cff1e7e04b00ec89ce976146d18461b09348d575a57e67f3fdab72bd35a9e
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/curl
 - **Language:** C
 - **License:** Other
@@ -146,7 +146,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34628
+- **Stars:** 34629
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 229.65 kB
@@ -182,8 +182,8 @@
 - **Version:** 
 - **Updated:** 
 - **Size:** 6.93 MB
-- **SHASUM:** 772ed5435efb93c649cc4534daeb9046e48e932f832a15af3758924f35bbce9b
-- **B3SUM:** 26ca7d0a8211ad30fb9fe26dbb66f80fc89eba0904c2108c7e5e52b0ae6d2b01
+- **SHASUM:** c690f08176fcf0e4cb0d005606ff455347562e989f44bd96bdd4016a959cf085
+- **B3SUM:** b564f43a1201fb951dbdfb1b344e374d70d404fd0f040424cbb55d120e344105
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/pingmole
 - **Language:** Rust
 - **License:** MIT License
@@ -213,9 +213,9 @@
 - **Stars:** 44633
 - **Version:** v1.67.0
 - **Updated:** 2024-06-14T16:58:29Z
-- **Size:** 85.33 MB
-- **SHASUM:** 0d0a1f435f43186a987edfeadd73521f738c7bbf08da3c5b66b0b2ad655760dd
-- **B3SUM:** 6ab79a5d6004c6e8ae16d1ec0e4b0194bef34631e4c7e41de317ce75b20f69f2
+- **Size:** 85.32 MB
+- **SHASUM:** afcf3a43f070a3256bc2fbf93faa781e29f5843d6cbc6fe6637283e955165670
+- **B3SUM:** 5cf9008daf2af70dc261470824ba4103a05fbeca9bf72f268683fe89b1891095
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/rclone
 - **Language:** Go
 - **License:** MIT License
@@ -242,12 +242,12 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17228
+- **Stars:** 17229
 - **Version:** v1.68.0
 - **Updated:** 2024-06-12T18:08:44Z
-- **Size:** 11.47 MB
-- **SHASUM:** aa1b4bdb6ccde707ea14ed8ae12889ad698e106cbe38fc6b8288d0d54a9bd144
-- **B3SUM:** c1c570a6ed5e9e4dc58db7374a8d1ae4fcc5438714885f5e55380b10962307a9
+- **Size:** 11.5 MB
+- **SHASUM:** 0f69d7319aef5a2aa66313d42bf46c002f112cb5406ec7fb16a7154671c754a1
+- **B3SUM:** cdad5b8951917918f62c58a03960cad2b34520dac8e3ee3dc2ef37ad50a687b5
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -258,12 +258,12 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17228
+- **Stars:** 17229
 - **Version:** v1.68.0
 - **Updated:** 2024-06-12T18:08:44Z
-- **Size:** 25.69 MB
-- **SHASUM:** 3329420fb8155b296d0f23775674d28f4a8658f68c21e3c12f632a78feb1448a
-- **B3SUM:** 0e2de9d7bf1d684d501a23264bf3ae4767a2d2ddd313e90f8ad07aa849bfb9e2
+- **Size:** 25.73 MB
+- **SHASUM:** be181dd703a0fa5c3553de1e57ca5484bd51518b4c8d3feaa246eecda7995809
+- **B3SUM:** 0def5d3aa378a3b381863f5a47cb909aecb5d36494b01a9e8af010d9052e5aa5
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscale_combined
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -274,12 +274,12 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17228
+- **Stars:** 17229
 - **Version:** v1.68.0
 - **Updated:** 2024-06-12T18:08:44Z
-- **Size:** 23.59 MB
-- **SHASUM:** fe727f69b475f5bf7d43c2799b60c7aa884f021a8455f6a902e73808ba1f5868
-- **B3SUM:** 8c339427e9d519911414d3a480412656cde7d93b80cf1a5fa9423a5d32346bf5
+- **Size:** 23.63 MB
+- **SHASUM:** f65e22c02b5f98fd5da05b5f5a2decd2e3b18ffa606a86a1284fc0de57edd326
+- **B3SUM:** f00938dbe6077ddfebe5eb193a23f95b64c580a22f4eecc8594944339dc8320a
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tailscaled
 - **Language:** Go
 - **License:** BSD 3-Clause New or Revised License
@@ -290,12 +290,12 @@
 - **Description:** tmux source code
 - **Author:** tmux
 - **Repository:** [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
-- **Stars:** 33546
+- **Stars:** 33549
 - **Version:** 3.4
 - **Updated:** 2024-02-13T10:22:31Z
 - **Size:** 1.55 MB
-- **SHASUM:** 413ac47c9d34b6c730882f6d822aa660909badda1789a7a1f905a10394ee08c1
-- **B3SUM:** feb933067c06388fc9b0748dd57d0457a13fa03076fe8245d9f61464fa4be7a6
+- **SHASUM:** d9a4a780e28298a1d8f2bcca87f947df808b217dec6813109e37baf5292bbc64
+- **B3SUM:** f1a4e271c0fa30fc5ac6fcd3037a06f1d427f0e30877a4b605d46b2679c86dc2
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/tmux
 - **Language:** C
 - **License:** Other
@@ -310,8 +310,8 @@
 - **Version:** v9.1.0487
 - **Updated:** 
 - **Size:** 5.06 MB
-- **SHASUM:** 470a079e8582459ada4ecf5bb29ca0092fd37582723a5727b4922e019322a5f3
-- **B3SUM:** ffa11ccb972190b6cf5dd64a617c30037275dcf86eebf194c10ebc93ab1733ab
+- **SHASUM:** 89ab8e45f8c0e7a75dcb7d16ba0679fbe462719bffc2cdef89c494dfa6f87efc
+- **B3SUM:** 8ed832df6e97df6dd41f7b80020a19c58266e4f8ad584533663ee659e2a9378b
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/vim
 - **Language:** Vim Script
 - **License:** Vim License
@@ -326,8 +326,8 @@
 - **Version:** 
 - **Updated:** 
 - **Size:** 5.81 MB
-- **SHASUM:** a59951cef4030bb1b821bc90d0542b08cb24f83cb07f29f27158b4c6167cc618
-- **B3SUM:** 04758a2f35e24b14a345d0a32f50a21a08d4e7771caab2ca5aab82b7334a0698
+- **SHASUM:** fafe9ce92d53ed9c24a5fec621a19886463d62f5b0a8d5802a52a135a703d487
+- **B3SUM:** 8092a3611aef0ed764fbe33c7c21b4a55c51abbd26f567779e828159688b79da
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/wget
 - **Language:** 
 - **License:** 
@@ -358,8 +358,8 @@
 - **Version:** zsh-5.9
 - **Updated:** 
 - **Size:** 1.8 MB
-- **SHASUM:** ca8d183c4492010c307afef3f7780cc94b0e952863d9e06e2be05aca584b3b51
-- **B3SUM:** 8a96dd55ba99d010c7360c54691f91d1beae99f9ddce52d546cb6320fbd79040
+- **SHASUM:** 1ac658201c2e6e19e7ddce2b1ab052efd3498f6fd26e6c32ef711ae100bf9c3a
+- **B3SUM:** 242b344777847b671719738bc09ae6f7665cd662c6f3c4dca63b415f03dfe717
 - **Source:** https://bin.ajam.dev/arm64_v8a_Android/zsh
 - **Language:** C
 - **License:** Other
