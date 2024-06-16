@@ -449,49 +449,55 @@
 │ 238│ exiflooter                       │ 241│ exiflooter
 │ 239│ eza                              │ 242│ eza
 │ 240│ falconhound                      │ 243│ falconhound
-│ 348│ gronx-tasker                     │ 351│ gronx-tasker
-│ 349│ grpcurl                          │ 352│ grpcurl
-│ 350│ gs-netcat                        │ 353│ gs-netcat
-│ 351│-gsocket                          │    │
-│ 352│ gum                              │ 354│ gum
-│ 353│ gup                              │ 355│ gup
-│    │                                  │ 356│+gxss
-│ 354│ hacker-scoper                    │ 357│ hacker-scoper
-│ 355│ hadolint                         │ 358│ hadolint
-│ 356│ hakip2host                       │ 359│ hakip2host
-│ 418│ jc                               │ 421│ jc
-│ 419│ jc_staticx                       │ 422│ jc_staticx
-│ 420│ jen                              │ 423│ jen
-│    │                                  │ 424│+jira
-│ 421│ jira-cli                         │ 425│ jira-cli
-│ 422│ jj                               │ 426│ jj
-│ 423│ jless                            │ 427│ jless
-│ 813│ subfinder                        │ 817│ subfinder
-│ 814│ subjs                            │ 818│ subjs
-│ 815│ subxtract                        │ 819│ subxtract
-│    │                                  │ 820│+subxtract.sh
-│ 816│ sudo                             │ 821│ sudo
-│ 817│ sudo-rs                          │ 822│ sudo-rs
-│ 818│ sudo_logsrvd                     │ 823│ sudo_logsrvd
-│ 841│ tailscale                        │ 846│ tailscale
-│ 842│ tailscale_bb                     │ 847│ tailscale_bb
-│ 843│ tailscale_combined               │ 848│ tailscale_combined
-│    │                                  │ 849│+tailscale_merged
-│ 844│ tailscaled                       │ 850│ tailscaled
-│ 845│ tailspin                         │ 851│ tailspin
-│ 846│ tapestat                         │ 852│ tapestat
-│ 926│ warp-dex                         │ 932│ warp-dex
-│ 927│ warp-diag                        │ 933│ warp-diag
-│ 928│ warp-svc                         │ 934│ warp-svc
-│    │                                  │ 935│+wasminspect
-│ 929│ watchexec                        │ 936│ watchexec
-│ 930│ waybackrobots                    │ 937│ waybackrobots
-│ 931│ waybackurls                      │ 938│ waybackurls
-│ 947│ wormhole-rs                      │ 954│ wormhole-rs
-│ 948│ wstunnel                         │ 955│ wstunnel
-│ 949│ wtf                              │ 956│ wtf
-│    │                                  │ 957│+wtfutil
-│ 950│ wth                              │ 958│ wth
-│ 951│ x8                               │ 959│ x8
-│ 952│ xan                              │ 960│ xan
+│ 351│ gsocket                          │ 354│ gsocket
+│ 352│ gum                              │ 355│ gum
+│ 353│ gup                              │ 356│ gup
+│    │                                  │ 357│+gxss
+│ 354│ hacker-scoper                    │ 358│ hacker-scoper
+│ 355│ hadolint                         │ 359│ hadolint
+│ 356│ hakip2host                       │ 360│ hakip2host
+│ 418│ jc                               │ 422│ jc
+│ 419│ jc_staticx                       │ 423│ jc_staticx
+│ 420│ jen                              │ 424│ jen
+│    │                                  │ 425│+jira
+│ 421│ jira-cli                         │ 426│ jira-cli
+│ 422│ jj                               │ 427│ jj
+│ 423│ jless                            │ 428│ jless
+│ 813│ subfinder                        │ 818│ subfinder
+│ 814│ subjs                            │ 819│ subjs
+│ 815│ subxtract                        │ 820│ subxtract
+│    │                                  │ 821│+subxtract.sh
+│ 816│ sudo                             │ 822│ sudo
+│ 817│ sudo-rs                          │ 823│ sudo-rs
+│ 818│ sudo_logsrvd                     │ 824│ sudo_logsrvd
+│ 841│ tailscale                        │ 847│ tailscale
+│ 842│ tailscale_bb                     │ 848│ tailscale_bb
+│ 843│ tailscale_combined               │ 849│ tailscale_combined
+│    │                                  │ 850│+tailscale_merged
+│ 844│ tailscaled                       │ 851│ tailscaled
+│ 845│ tailspin                         │ 852│ tailspin
+│ 846│ tapestat                         │ 853│ tapestat
+│ 926│ warp-dex                         │ 933│ warp-dex
+│ 927│ warp-diag                        │ 934│ warp-diag
+│ 928│ warp-svc                         │ 935│ warp-svc
+│    │                                  │ 936│+wasminspect
+│ 929│ watchexec                        │ 937│ watchexec
+│ 930│ waybackrobots                    │ 938│ waybackrobots
+│ 931│ waybackurls                      │ 939│ waybackurls
+│ 947│ wormhole-rs                      │ 955│ wormhole-rs
+│ 948│ wstunnel                         │ 956│ wstunnel
+│ 949│ wtf                              │ 957│ wtf
+│    │                                  │ 958│+wtfutil
+│ 950│ wth                              │ 959│ wth
+│ 951│ x8                               │ 960│ x8
+│ 952│ xan                              │ 961│ xan
+
+
+
+[+] x64_Windows
+
+│    │                                  │  1 │+7z
+│  1 │ 7z.exe                           │  2 │ 7z.exe
+│  2 │ actionlint.exe                   │  3 │ actionlint.exe
+│  3 │ age.exe                          │  4 │ age.exe
 
