@@ -4,7 +4,7 @@ name = "tracexec"
 [package]
 architecture = "x86_64"
 name = "tracexec"
-description = "A small utility for tracing execve{,at} and pre-exec behavior."
+description = "Tracer for execve{,at} and pre-exec behavior, launcher for debuggers."
 author = "kxxt"
 repo = "https://github.com/kxxt/tracexec"
 stars = "191"
@@ -22,5 +22,5 @@ conflicts  = ["tracexec"]
 requires = []
 
 [package.metadata]
-keywords = ["command-line-tool","execve","ptrace","strace","tracer","tracexec"]
+keywords = ["command-line-tool","debugger","execve","ptrace","strace","tracer","tracexec"]
 categories = ["Utilities"]
