@@ -11,10 +11,10 @@ stars = "12443"
 version = "2022.11.3"
 updated = "2023-06-05T12:24:19Z"
 size = "17.45 MB"
-bsum = "8904f85303985cb27063cf17fbd75cdba77ab40ba5adb0f091c651c7c5ce563e"
-sha = "65b6d693a75f3aa95cd23fa0c27ceacbb2ab682fc0b9a60c604a146fb8b32cc2"
+bsum = "417e795756f824cad505fb7c1fdad16cea3ea373d7f2df91e1f19b5ef37250bc"
+sha = "5aec03e81ed04519f21336360ba2a5cae502de47fcab22c81419d96de4ce5061"
 source = "https://bin.ajam.dev/x86_64_Linux/gp"
-language = "Java"
+language = "TypeScript"
 license = "GNU Affero General Public License v3.0"
 
 [package.conditions]

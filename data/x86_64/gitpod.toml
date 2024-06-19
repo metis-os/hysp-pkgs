@@ -11,10 +11,10 @@ stars = "12443"
 version = "2022.11.3"
 updated = "2023-06-05T12:24:19Z"
 size = "19.06 MB"
-bsum = "601f4cfff6cc94d12c64a916318a2c1160a6986d68848ab03aeeabaaf7f81979"
-sha = "3a9f5b4bc4f5afd592bce387f02abefe0976852c079792d795c9d73b3ca3ee79"
+bsum = "417e795756f824cad505fb7c1fdad16cea3ea373d7f2df91e1f19b5ef37250bc"
+sha = "5aec03e81ed04519f21336360ba2a5cae502de47fcab22c81419d96de4ce5061"
 source = "https://bin.ajam.dev/x86_64_Linux/gitpod"
-language = "Java"
+language = "TypeScript"
 license = "GNU Affero General Public License v3.0"
 
 [package.conditions]

@@ -11,8 +11,8 @@ stars = "518"
 version = "v0.16.0"
 updated = "2024-06-08T08:14:10Z"
 size = "10.35 MB"
-bsum = "9c7562b8d0e0e6af457e9140d0d83a76066dc8a92be71de6bf64bd7b3d6dae84"
-sha = "8b641d47671c01d5245d70418b6d484134302e35bc48a150fe8b118a491e3f4c"
+bsum = "617fc466aee84d1608e86b8aa36cb4b7e4a46e24c8e2b11087788a239744e2ed"
+sha = "b56530344deb0dd6411bdf8374b8872030ffd5779f53b3399828efaec8bf7f5a"
 source = "https://bin.ajam.dev/x86_64_Linux/noir"
 language = "Crystal"
 license = "MIT License"
@@ -22,5 +22,5 @@ conflicts  = ["noir"]
 requires = []
 
 [package.metadata]
-keywords = ["attack-surface-detector","attack-surfaces","crystal","crystal-lang","devsecops","hacktoberfest","noir","owasp","owasp-noir","pentesting","security"]
+keywords = ["attack-surface-detector","attack-surfaces","crystal","crystal-lang","devsecops","endpoints","hacktoberfest","noir","owasp","owasp-noir","pentesting","security"]
 categories = ["Utilities"]
