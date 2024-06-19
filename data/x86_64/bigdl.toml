@@ -4,7 +4,7 @@ name = "bigdl"
 [package]
 architecture = "x86_64"
 name = "bigdl"
-description = "📦 Poor mans package manager. +1440 statically linked binaries in the repos!"
+description = "📦 Poor mans package manager. +1550 statically linked binaries in the repos!"
 author = "xplshn"
 repo = "https://github.com/xplshn/bigdl"
 stars = "7"
