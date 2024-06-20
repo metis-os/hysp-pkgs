@@ -2,7 +2,7 @@
 - **Description:** Run your GitHub Actions locally 🚀
 - **Author:** nektos
 - **Repository:** [https://github.com/nektos/act](https://github.com/nektos/act)
-- **Stars:** 51645
+- **Stars:** 51656
 - **Version:** v0.2.63
 - **Updated:** 2024-06-01T02:21:41Z
 - **Size:** 17.42 MB
@@ -18,7 +18,7 @@
 - **Description:** :octocat: Static checker for GitHub Actions workflow files
 - **Author:** rhysd
 - **Repository:** [https://github.com/rhysd/actionlint](https://github.com/rhysd/actionlint)
-- **Stars:** 2537
+- **Stars:** 2538
 - **Version:** v1.7.1
 - **Updated:** 2024-05-28T11:50:24Z
 - **Size:** 5.37 MB
@@ -66,7 +66,7 @@
 - **Description:**  multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - **Author:** aria2
 - **Repository:** [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
-- **Stars:** 34016
+- **Stars:** 34022
 - **Version:** release-1.37.0
 - **Updated:** 2023-11-15T12:07:32Z
 - **Size:** 9.3 MB
@@ -130,7 +130,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34677
+- **Stars:** 34685
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 5.31 MB
@@ -146,7 +146,7 @@
 - **Description:** A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - **Author:** curl
 - **Repository:** [https://github.com/curl/curl](https://github.com/curl/curl)
-- **Stars:** 34677
+- **Stars:** 34685
 - **Version:** curl-8_8_0
 - **Updated:** 2024-05-22T06:02:33Z
 - **Size:** 229.65 kB
@@ -162,7 +162,7 @@
 - **Description:** jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - **Author:** PaulJuliusMartinez
 - **Repository:** [https://github.com/PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
-- **Stars:** 4586
+- **Stars:** 4588
 - **Version:** v0.9.0
 - **Updated:** 2023-07-17T02:51:34Z
 - **Size:** 2.02 MB
@@ -210,7 +210,7 @@
 - **Description:** rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - **Author:** rclone
 - **Repository:** [https://github.com/rclone/rclone](https://github.com/rclone/rclone)
-- **Stars:** 44728
+- **Stars:** 44741
 - **Version:** v1.67.0
 - **Updated:** 2024-06-14T16:58:29Z
 - **Size:** 85.32 MB
@@ -242,7 +242,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17300
+- **Stars:** 17304
 - **Version:** v1.68.0
 - **Updated:** 2024-06-12T18:08:44Z
 - **Size:** 11.5 MB
@@ -258,7 +258,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17300
+- **Stars:** 17304
 - **Version:** v1.68.0
 - **Updated:** 2024-06-12T18:08:44Z
 - **Size:** 25.8 MB
@@ -274,7 +274,7 @@
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
 - **Author:** tailscale
 - **Repository:** [https://github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
-- **Stars:** 17300
+- **Stars:** 17304
 - **Version:** v1.68.0
 - **Updated:** 2024-06-12T18:08:44Z
 - **Size:** 23.7 MB
@@ -290,7 +290,7 @@
 - **Description:** tmux source code
 - **Author:** tmux
 - **Repository:** [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
-- **Stars:** 33617
+- **Stars:** 33619
 - **Version:** 3.4
 - **Updated:** 2024-02-13T10:22:31Z
 - **Size:** 1.55 MB
@@ -306,7 +306,7 @@
 - **Description:** The official Vim repository
 - **Author:** vim
 - **Repository:** [https://github.com/vim/vim](https://github.com/vim/vim)
-- **Stars:** 35406
+- **Stars:** 35411
 - **Version:** v9.1.0505
 - **Updated:** 
 - **Size:** 5.06 MB
